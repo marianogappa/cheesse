@@ -1,14 +1,15 @@
 package api
 
 type InputGame struct {
-	FENString string
-	Board     Board
+	FENString string `json:"fenString"`
+	Board     Board  `json:"board"`
 }
 
-// type InputAction struct {
-//   ActionType ActionType
-//   Action string
-// }
+type InputAction struct {
+	FromSquare       string `json:"fromSquare"`
+	ToSquare         string `json:"toSquare"`
+	PromotePieceType string `json:"promotePieceType"`
+}
 
 type Board struct {
 	Board                   []string `json:"board"`
@@ -66,9 +67,6 @@ type OutputAction struct {
 	PromotionPieceType string `json:"promotionPieceType"`
 	CapturedPieceType  string `json:"capturedPieceType"`
 }
-
-// type OutputGameSteps struct {
-// }
 
 func mapGameToOutputGame(g game) OutputGame {
 	var o OutputGame
