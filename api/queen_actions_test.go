@@ -28,7 +28,7 @@ func TestQueenActions(t *testing.T) {
 					"♙♙  ♙♙♙♙",
 					"♖♘♗ ♔♗♘♖",
 				},
-				turn: 'w',
+				turn: "White",
 			},
 			color: colorWhite,
 			xy:    xy{3, 4},

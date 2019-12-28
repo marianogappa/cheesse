@@ -19,8 +19,8 @@ func (a API) DefaultGame() OutputGame {
 	return mapGameToOutputGame(defaultGame)
 }
 
-func (a API) ParseGame(g InputGame) (OutputGame, error) {
-	parsedGame, err := a.parseGame(g)
+func (a API) ParseGame(game InputGame) (OutputGame, error) {
+	parsedGame, err := a.parseGame(game)
 	if err != nil {
 		return OutputGame{}, err
 	}

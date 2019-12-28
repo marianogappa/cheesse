@@ -34,7 +34,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardKingMissing,
 		},
@@ -58,7 +58,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardKingMissing,
 		},
@@ -82,7 +82,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardKingMissing,
 		},
@@ -106,7 +106,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardDuplicateKing,
 		},
@@ -130,7 +130,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardDuplicateKing,
 		},
@@ -154,7 +154,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "",
-				turn: '*',
+				turn: "*",
 			},
 			err: errBoardTurnMustBeBlackOrWhite,
 		},
@@ -178,7 +178,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "e",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardInvalidEnPassantTargetSquare,
 		},
@@ -202,7 +202,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "e7",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardInvalidEnPassantTargetSquare,
 		},
@@ -226,7 +226,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "e6 ",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardInvalidEnPassantTargetSquare,
 		},
@@ -250,7 +250,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardDimensionsWrong,
 		},
@@ -274,7 +274,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardDimensionsWrong,
 		},
@@ -298,7 +298,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardDimensionsWrong,
 		},
@@ -322,7 +322,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "e6",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardImpossibleEnPassant,
 		},
@@ -346,7 +346,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "e6",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardImpossibleEnPassant,
 		},
@@ -370,7 +370,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "e3",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardImpossibleEnPassant,
 		},
@@ -394,7 +394,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardImpossibleBlackCastle,
 		},
@@ -418,7 +418,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardImpossibleWhiteCastle,
 		},
@@ -442,7 +442,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardImpossibleBlackQueensideCastle,
 		},
@@ -466,7 +466,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardImpossibleBlackQueensideCastle,
 		},
@@ -490,7 +490,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardImpossibleBlackKingsideCastle,
 		},
@@ -514,7 +514,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardImpossibleBlackKingsideCastle,
 		},
@@ -538,7 +538,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardImpossibleWhiteQueensideCastle,
 		},
@@ -562,7 +562,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardImpossibleWhiteQueensideCastle,
 		},
@@ -586,7 +586,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardImpossibleWhiteKingsideCastle,
 		},
@@ -610,7 +610,7 @@ func TestBoardErrors(t *testing.T) {
 				halfMoveClock: 1,
 				fullMoveNumber: 0,
 				enPassantTargetSquare: "",
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardImpossibleWhiteKingsideCastle,
 		},
@@ -627,7 +627,7 @@ func TestBoardErrors(t *testing.T) {
 					"♙       ",
 					"    ♔   ",
 				},
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardPawnInImpossibleRank,
 		},
@@ -644,7 +644,7 @@ func TestBoardErrors(t *testing.T) {
 					"♙       ",
 					"    ♔  ♟",
 				},
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardPawnInImpossibleRank,
 		},
@@ -661,7 +661,7 @@ func TestBoardErrors(t *testing.T) {
 					"        ",
 					"♙   ♔   ",
 				},
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardPawnInImpossibleRank,
 		},
@@ -678,7 +678,7 @@ func TestBoardErrors(t *testing.T) {
 					"        ",
 					"    ♔   ",
 				},
-				turn: 'w',
+				turn: "White",
 			},
 			err: errBoardPawnInImpossibleRank,
 		},
@@ -695,7 +695,7 @@ func TestBoardErrors(t *testing.T) {
 					"♙♙♙♙♙♙♙♙",
 					"♖♘♗♕♔♗♘♖",
 				},
-				turn: 'b',
+				turn: "Black",
 			},
 			err: errBoardBlackHasMoreThan16Pieces,
 		},
@@ -712,7 +712,7 @@ func TestBoardErrors(t *testing.T) {
 					"♙♙♙♙♙♙♙♙",
 					"♖♘♗♕♔♗♘♖",
 				},
-				turn: 'b',
+				turn: "Black",
 			},
 			err: errBoardWhiteHasMoreThan16Pieces,
 		},
@@ -744,7 +744,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -764,7 +764,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -784,7 +784,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -804,7 +804,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -824,7 +824,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -844,7 +844,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -864,7 +864,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -884,7 +884,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -904,7 +904,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -924,7 +924,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -944,7 +944,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -964,7 +964,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -984,7 +984,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1004,7 +1004,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1024,7 +1024,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1044,7 +1044,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1064,7 +1064,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1084,7 +1084,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1104,7 +1104,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1124,7 +1124,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1144,7 +1144,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1164,7 +1164,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1184,7 +1184,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1204,7 +1204,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1224,7 +1224,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1244,7 +1244,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1264,7 +1264,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1284,7 +1284,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1304,7 +1304,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1324,7 +1324,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1344,7 +1344,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1364,7 +1364,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1384,7 +1384,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1404,7 +1404,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1424,7 +1424,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1444,7 +1444,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1464,7 +1464,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1484,7 +1484,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1504,7 +1504,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1524,7 +1524,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1544,7 +1544,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1564,7 +1564,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1584,7 +1584,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1604,7 +1604,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1624,7 +1624,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1644,7 +1644,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1664,7 +1664,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1684,7 +1684,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1704,7 +1704,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1724,7 +1724,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1744,7 +1744,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1764,7 +1764,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1784,7 +1784,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1804,7 +1804,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1824,7 +1824,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1844,7 +1844,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1864,7 +1864,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1884,7 +1884,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1904,7 +1904,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1924,7 +1924,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1944,7 +1944,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1964,7 +1964,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -1984,7 +1984,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2004,7 +2004,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2024,7 +2024,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2044,7 +2044,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2064,7 +2064,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2084,7 +2084,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2104,7 +2104,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2124,7 +2124,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2144,7 +2144,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2164,7 +2164,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2184,7 +2184,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2204,7 +2204,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2224,7 +2224,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2244,7 +2244,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2264,7 +2264,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2284,7 +2284,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2304,7 +2304,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2324,7 +2324,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2344,7 +2344,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2364,7 +2364,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2384,7 +2384,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2404,7 +2404,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2424,7 +2424,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2444,7 +2444,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2464,7 +2464,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2484,7 +2484,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2504,7 +2504,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2524,7 +2524,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2544,7 +2544,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2564,7 +2564,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2584,7 +2584,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2604,7 +2604,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2624,7 +2624,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2644,7 +2644,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2664,7 +2664,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2684,7 +2684,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2704,7 +2704,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2724,7 +2724,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2744,7 +2744,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2764,7 +2764,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2784,7 +2784,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2804,7 +2804,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2824,7 +2824,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2844,7 +2844,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2864,7 +2864,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2884,7 +2884,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2904,7 +2904,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2924,7 +2924,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2944,7 +2944,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2964,7 +2964,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -2984,7 +2984,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3004,7 +3004,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3024,7 +3024,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3044,7 +3044,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3064,7 +3064,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3084,7 +3084,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3104,7 +3104,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3124,7 +3124,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3144,7 +3144,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3164,7 +3164,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3184,7 +3184,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3204,7 +3204,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3224,7 +3224,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3244,7 +3244,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3264,7 +3264,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3284,7 +3284,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3304,7 +3304,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3324,7 +3324,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3344,7 +3344,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3364,7 +3364,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3384,7 +3384,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3404,7 +3404,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3424,7 +3424,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3444,7 +3444,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3464,7 +3464,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3484,7 +3484,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3504,7 +3504,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3524,7 +3524,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3544,7 +3544,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3564,7 +3564,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3584,7 +3584,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3604,7 +3604,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3624,7 +3624,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3644,7 +3644,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3664,7 +3664,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3684,7 +3684,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3704,7 +3704,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3724,7 +3724,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3744,7 +3744,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3764,7 +3764,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3784,7 +3784,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3804,7 +3804,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3824,7 +3824,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3844,7 +3844,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3864,7 +3864,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3884,7 +3884,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3904,7 +3904,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3924,7 +3924,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3944,7 +3944,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3964,7 +3964,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -3984,7 +3984,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4004,7 +4004,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4024,7 +4024,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4044,7 +4044,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4064,7 +4064,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4084,7 +4084,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4104,7 +4104,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4124,7 +4124,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4144,7 +4144,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4164,7 +4164,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4184,7 +4184,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4204,7 +4204,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4224,7 +4224,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4244,7 +4244,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4264,7 +4264,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4284,7 +4284,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4304,7 +4304,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4324,7 +4324,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4344,7 +4344,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4364,7 +4364,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4384,7 +4384,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4404,7 +4404,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4424,7 +4424,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4444,7 +4444,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4464,7 +4464,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4484,7 +4484,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4504,7 +4504,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4524,7 +4524,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4544,7 +4544,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4564,7 +4564,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4584,7 +4584,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4604,7 +4604,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4624,7 +4624,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4644,7 +4644,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4664,7 +4664,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4684,7 +4684,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4704,7 +4704,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4724,7 +4724,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4744,7 +4744,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4764,7 +4764,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4784,7 +4784,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4804,7 +4804,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4824,7 +4824,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4844,7 +4844,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4864,7 +4864,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4884,7 +4884,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4904,7 +4904,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4924,7 +4924,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4944,7 +4944,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4964,7 +4964,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -4984,7 +4984,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5004,7 +5004,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5024,7 +5024,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5044,7 +5044,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5064,7 +5064,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5084,7 +5084,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5104,7 +5104,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5124,7 +5124,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5144,7 +5144,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5164,7 +5164,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5184,7 +5184,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5204,7 +5204,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5224,7 +5224,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5244,7 +5244,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5264,7 +5264,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5284,7 +5284,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5304,7 +5304,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5324,7 +5324,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5344,7 +5344,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5364,7 +5364,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5384,7 +5384,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5404,7 +5404,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5424,7 +5424,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5444,7 +5444,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5464,7 +5464,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5484,7 +5484,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5504,7 +5504,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5524,7 +5524,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5544,7 +5544,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5564,7 +5564,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5584,7 +5584,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5604,7 +5604,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5624,7 +5624,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5644,7 +5644,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5664,7 +5664,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5684,7 +5684,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5704,7 +5704,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5724,7 +5724,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5744,7 +5744,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5764,7 +5764,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5784,7 +5784,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5804,7 +5804,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5824,7 +5824,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5844,7 +5844,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5864,7 +5864,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5884,7 +5884,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5904,7 +5904,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5924,7 +5924,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5944,7 +5944,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5964,7 +5964,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -5984,7 +5984,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6004,7 +6004,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6024,7 +6024,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6044,7 +6044,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6064,7 +6064,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6084,7 +6084,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6104,7 +6104,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6124,7 +6124,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6144,7 +6144,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6164,7 +6164,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6184,7 +6184,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6204,7 +6204,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6224,7 +6224,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6244,7 +6244,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6264,7 +6264,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6284,7 +6284,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6304,7 +6304,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6324,7 +6324,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6344,7 +6344,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6364,7 +6364,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6384,7 +6384,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6404,7 +6404,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6424,7 +6424,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6444,7 +6444,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6464,7 +6464,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6484,7 +6484,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6504,7 +6504,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6524,7 +6524,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6544,7 +6544,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6564,7 +6564,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6584,7 +6584,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6604,7 +6604,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6624,7 +6624,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6644,7 +6644,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6664,7 +6664,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6684,7 +6684,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6704,7 +6704,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6724,7 +6724,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 		{
 			board: []string{
@@ -6744,7 +6744,7 @@ func TestBoardConvertsBackToItself(t *testing.T) {
 			halfMoveClock: 1,
 			fullMoveNumber: 0,
 			enPassantTargetSquare: "",
-			turn: 'w',
+			turn: "White",
 		},
 	}
 	for _, tc := range ts {

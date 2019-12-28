@@ -20,7 +20,7 @@ type Board struct {
 	HalfMoveClock           int      `json:"halfMoveClock"`
 	FullMoveNumber          int      `json:"fullMoveNumber"`
 	EnPassantTargetSquare   string   `json:"enPassantTargetSquare"` // in Algebraic notation, or empty string
-	Turn                    byte     `json:"turn"`                  // 'b' or 'w'
+	Turn                    string   `json:"turn"`                  // "Black" or "White"
 }
 
 type OutputGame struct {

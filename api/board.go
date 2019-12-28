@@ -14,12 +14,12 @@ type board struct {
 	halfMoveClock           int
 	fullMoveNumber          int
 	enPassantTargetSquare   string // in Algebraic notation, or empty string
-	turn                    byte   // 'b' or 'w'
+	turn                    string // "Black" or "White"
 }
 
 var (
 	errBoardInvalidEnPassantTargetSquare   = fmt.Errorf("enPassantTargetSquare must be either empty string or valid algebraic notation square e.g. d6")
-	errBoardTurnMustBeBlackOrWhite         = fmt.Errorf("turn must be either 'b' or 'w'")
+	errBoardTurnMustBeBlackOrWhite         = fmt.Errorf("turn must be either Black or White")
 	errBoardDuplicateKing                  = fmt.Errorf("board has two kings of the same color")
 	errBoardKingMissing                    = fmt.Errorf("board is missing one of the kings")
 	errBoardDimensionsWrong                = fmt.Errorf("board dimensions are wrong; should be 8x8")
@@ -53,10 +53,10 @@ func newGameFromBoard(b board) (game, error) {
 	}
 
 	// Move number
-	if b.turn != 'b' && b.turn != 'w' {
+	if b.turn != "Black" && b.turn != "White" {
 		return game{}, errBoardTurnMustBeBlackOrWhite
 	}
-	if b.turn == 'b' {
+	if b.turn == "Black" {
 		g.moveNumber++
 	}
 
@@ -208,10 +208,10 @@ func (g game) toBoard() board {
 		halfMoveClock:           g.halfMoveClock,
 		fullMoveNumber:          g.fullMoveNumber,
 		enPassantTargetSquare:   "",
-		turn:                    'b',
+		turn:                    "Black",
 	}
 	if g.turn() == colorWhite {
-		result.turn = 'w'
+		result.turn = "White"
 	}
 	if g.isLastMoveEnPassant {
 		result.enPassantTargetSquare = fmt.Sprintf("%v%v", "abcdefgh"[g.enPassantTargetSquare.x], 8-g.enPassantTargetSquare.y)
