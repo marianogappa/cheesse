@@ -40,22 +40,22 @@ func (g game) updateBoardLayout(a action) game {
 		newRook := clonedGame.pieces[a.fromPiece.owner][xy{0, 0}]
 		newRook.xy = xy{3, 0}
 		clonedGame.pieces[a.fromPiece.owner][xy{3, 0}] = newRook
-		delete(clonedGame.pieces[opponent], xy{0, 0})
+		delete(clonedGame.pieces[a.fromPiece.owner], xy{0, 0})
 	case a.isQueensideCastle && a.fromPiece.owner == colorWhite:
 		newRook := clonedGame.pieces[a.fromPiece.owner][xy{0, 7}]
 		newRook.xy = xy{3, 7}
 		clonedGame.pieces[a.fromPiece.owner][xy{3, 7}] = newRook
-		delete(clonedGame.pieces[opponent], xy{0, 7})
+		delete(clonedGame.pieces[a.fromPiece.owner], xy{0, 7})
 	case a.isKingsideCastle && a.fromPiece.owner == colorBlack:
 		newRook := clonedGame.pieces[a.fromPiece.owner][xy{7, 0}]
 		newRook.xy = xy{5, 0}
 		clonedGame.pieces[a.fromPiece.owner][xy{5, 0}] = newRook
-		delete(clonedGame.pieces[opponent], xy{7, 0})
+		delete(clonedGame.pieces[a.fromPiece.owner], xy{7, 0})
 	case a.isKingsideCastle && a.fromPiece.owner == colorWhite:
 		newRook := clonedGame.pieces[a.fromPiece.owner][xy{7, 7}]
 		newRook.xy = xy{5, 7}
 		clonedGame.pieces[a.fromPiece.owner][xy{5, 7}] = newRook
-		delete(clonedGame.pieces[opponent], xy{7, 7})
+		delete(clonedGame.pieces[a.fromPiece.owner], xy{7, 7})
 	}
 
 	// If it's a king, game.kings needs to be updated

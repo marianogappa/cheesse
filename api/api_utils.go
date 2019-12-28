@@ -1,6 +1,8 @@
 package api
 
-import "strings"
+import (
+	"strings"
+)
 
 func (a API) parseGame(g InputGame) (game, error) {
 	var (

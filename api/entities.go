@@ -35,7 +35,6 @@ func (g game) String() string {
 		sb.WriteString(strings.Replace(s, " ", ".", -1))
 		sb.WriteString("\n")
 	}
-	sb.WriteString("\n")
 	return sb.String()
 }
 
@@ -106,22 +105,22 @@ type action struct {
 
 func (a action) String() string {
 	switch {
+	case a.isEnPassantCapture:
+		return fmt.Sprintf("%s's Pawn at %v captures %v's Pawn at %v which was doing en passant", a.fromPiece.owner, a.fromPiece.xy.toAlgebraic(), a.capturedPiece.owner, a.capturedPiece.xy.toAlgebraic())
 	case a.isCapture:
-		return fmt.Sprintf("%s's %s at (%v, %v) captures %s's %s at (%v, %v)", a.fromPiece.owner, a.fromPiece.pieceType, a.fromPiece.xy.x, a.fromPiece.xy.y, a.capturedPiece.owner, a.capturedPiece.pieceType, a.capturedPiece.xy.x, a.capturedPiece.xy.y)
+		return fmt.Sprintf("%s's %s at %v captures %s's %s at %v", a.fromPiece.owner, a.fromPiece.pieceType, a.fromPiece.xy.toAlgebraic(), a.capturedPiece.owner, a.capturedPiece.pieceType, a.capturedPiece.xy.toAlgebraic())
 	case a.isResign:
 		return fmt.Sprintf("%s resigns", a.fromPiece.owner)
 	case a.isPromotion:
-		return fmt.Sprintf("%s's Pawn at (%v, %v) promotes to %v", a.fromPiece.owner, a.fromPiece.xy.x, a.fromPiece.xy.y, a.promotionPieceType)
+		return fmt.Sprintf("%s's Pawn at %v promotes to %v", a.fromPiece.owner, a.fromPiece.xy.toAlgebraic(), a.promotionPieceType)
 	case a.isEnPassant:
-		return fmt.Sprintf("%s Pawn at (%v,%v) does en passant", a.fromPiece.owner, a.fromPiece.xy.x, a.fromPiece.xy.y)
-	case a.isEnPassantCapture:
-		return fmt.Sprintf("%s's Pawn at (%v, %v) captures %v's Pawn at (%v, %v) who was doing en passant", a.fromPiece.owner, a.fromPiece.xy.x, a.fromPiece.xy.y, a.capturedPiece.owner, a.capturedPiece.xy.x, a.capturedPiece.xy.y)
+		return fmt.Sprintf("%s's Pawn at %v does en passant", a.fromPiece.owner, a.fromPiece.xy.toAlgebraic())
 	case a.isKingsideCastle:
 		return fmt.Sprintf("%s kingside castles", a.fromPiece.owner)
 	case a.isQueensideCastle:
 		return fmt.Sprintf("%s queenside castles", a.fromPiece.owner)
 	}
-	return fmt.Sprintf("%s's %s at (%v, %v) moves to (%v, %v)", a.fromPiece.owner, a.fromPiece.pieceType, a.fromPiece.xy.x, a.fromPiece.xy.y, a.toXY.x, a.toXY.y)
+	return fmt.Sprintf("%s's %s at %v moves to %v", a.fromPiece.owner, a.fromPiece.pieceType, a.fromPiece.xy.toAlgebraic(), a.toXY.toAlgebraic())
 }
 
 type pieceType int
@@ -235,7 +234,7 @@ type piece struct {
 }
 
 func (p piece) String() string {
-	return fmt.Sprintf("%v's %v at (%v, %v)", p.owner, p.pieceType, p.xy.x, p.xy.y)
+	return fmt.Sprintf("%v's %v at %v", p.owner, p.pieceType, p.xy.toAlgebraic())
 }
 
 var movementDeltasByPieceType = map[pieceType][]xy{

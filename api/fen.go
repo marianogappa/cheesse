@@ -33,8 +33,8 @@ func newGameFromFEN(s string) (game, error) {
 		return game{}, errFENRegexDoesNotMatch
 	}
 
-	fullMoveNumber := atoi(matches[0][12]) // The regex cannot pass a non-number here
-	halfMoveClock := atoi(matches[0][13])  // The regex cannot pass a non-number here
+	fullMoveNumber := atoi(matches[0][13]) // The regex cannot pass a non-number here
+	halfMoveClock := atoi(matches[0][12])  // The regex cannot pass a non-number here
 
 	// moveNumber calculation
 	moveNumber := 0
@@ -223,7 +223,7 @@ func (g game) toFEN() string {
 		enPassant = fmt.Sprintf("%v%v", string("abcdefgh"[g.enPassantTargetSquare.x]), 8-g.enPassantTargetSquare.y)
 	}
 
-	sb.WriteString(fmt.Sprintf(" %v %v %v %v %v", turn, castling, enPassant, g.fullMoveNumber, g.halfMoveClock))
+	sb.WriteString(fmt.Sprintf(" %v %v %v %v %v", turn, castling, enPassant, g.halfMoveClock, g.fullMoveNumber))
 
 	return sb.String()
 }
