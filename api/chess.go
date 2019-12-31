@@ -353,10 +353,10 @@ func (g game) calculateCriticalFlags() game {
 	g.isDraw = false
 	g.isGameOver = false
 	g.gameOverWinner = -1
-	g.opponentInCheckBy = []piece{}
+	g.inCheckBy = []piece{}
 
-	g.opponentInCheckBy = g.kings[opponent(turn)].threatenedBy(g) // This is expensive!
-	if len(g.opponentInCheckBy) > 0 {
+	g.inCheckBy = g.kings[turn].threatenedBy(g) // This is expensive!
+	if len(g.inCheckBy) > 0 {
 		g.isCheck = true
 	}
 
@@ -373,7 +373,7 @@ func (g game) calculateCriticalFlags() game {
 		g.isGameOver = true
 	}
 	if g.isCheckmate {
-		g.gameOverWinner = turn
+		g.gameOverWinner = opponent(turn)
 	}
 
 	return g

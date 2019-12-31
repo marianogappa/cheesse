@@ -48,7 +48,7 @@ type OutputGame struct {
 	IsDraw                  bool              `json:"isDraw"`
 	IsGameOver              bool              `json:"isGameOver"`
 	GameOverWinner          string            `json:"gameOverWinner"`
-	OpponentInCheckBy       []string          `json:"opponentInCheckBy"`
+	InCheckBy               []string          `json:"inCheckBy"`
 }
 
 type OutputAction struct {
@@ -95,7 +95,7 @@ func mapGameToOutputGame(g game) OutputGame {
 	o.IsDraw = g.isDraw
 	o.IsGameOver = g.isGameOver
 	o.GameOverWinner = g.gameOverWinner.String()
-	o.OpponentInCheckBy = make([]string, len(g.opponentInCheckBy))
+	o.InCheckBy = make([]string, len(g.inCheckBy))
 
 	for i := range g.actions {
 		o.Actions[i] = mapInternalActionToAction(g.actions[i])
@@ -113,8 +113,8 @@ func mapGameToOutputGame(g game) OutputGame {
 		o.WhitePieces[sq.toAlgebraic()] = p.pieceType.String()
 	}
 
-	for i := range g.opponentInCheckBy {
-		o.OpponentInCheckBy[i] = g.opponentInCheckBy[i].xy.toAlgebraic()
+	for i := range g.inCheckBy {
+		o.InCheckBy[i] = g.inCheckBy[i].xy.toAlgebraic()
 	}
 
 	return o

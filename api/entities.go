@@ -25,7 +25,7 @@ type game struct {
 	isDraw                  bool
 	isGameOver              bool
 	gameOverWinner          color
-	opponentInCheckBy       []piece
+	inCheckBy               []piece
 	actions                 []action
 }
 
@@ -54,9 +54,9 @@ func (g game) clone() game {
 		}
 		clonedPieces[color] = clonedOwnerPieces
 	}
-	clonedOpponentInCheckBy := make([]piece, len(g.opponentInCheckBy))
-	for i, piece := range g.opponentInCheckBy {
-		clonedOpponentInCheckBy[i] = piece
+	clonedInCheckBy := make([]piece, len(g.inCheckBy))
+	for i, piece := range g.inCheckBy {
+		clonedInCheckBy[i] = piece
 	}
 	return game{
 		canWhiteCastle:          g.canWhiteCastle,
@@ -77,7 +77,7 @@ func (g game) clone() game {
 		isDraw:                  g.isDraw,
 		isGameOver:              g.isGameOver,
 		gameOverWinner:          g.gameOverWinner,
-		opponentInCheckBy:       clonedOpponentInCheckBy,
+		inCheckBy:               clonedInCheckBy,
 	}
 }
 

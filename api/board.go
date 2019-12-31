@@ -35,6 +35,7 @@ var (
 	errBoardWhiteHasMoreThan16Pieces       = fmt.Errorf("white has more than 16 pieces")
 	// TODO check if King is in checkmate that couldn't have been reached
 	// TODO don't allow more than 8 pawns of any color
+	// TODO check if both are in check
 )
 
 func newGameFromBoard(b board) (game, error) {

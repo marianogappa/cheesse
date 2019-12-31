@@ -25,6 +25,7 @@ var (
 	rxFEN                                = regexp.MustCompile(`^([1-8rnbqkpRNBQKP]{1,8})\/([1-8rnbqkpRNBQKP]{1,8})\/([1-8rnbqkpRNBQKP]{1,8})\/([1-8rnbqkpRNBQKP]{1,8})\/([1-8rnbqkpRNBQKP]{1,8})\/([1-8rnbqkpRNBQKP]{1,8})\/([1-8rnbqkpRNBQKP]{1,8})\/([1-8rnbqkpRNBQKP]{1,8}) ([wb]) ([KQkq]{0,4}|-) ([a-h][36]|-) ([0-9]{1,3}) ([0-9]{1,3})$`)
 	// TODO check if King is in checkmate that couldn't have been reached
 	// TODO don't allow more than 8 pawns of any color
+	// TODO check if both are in check
 )
 
 func newGameFromFEN(s string) (game, error) {

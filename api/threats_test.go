@@ -63,3 +63,38 @@ func TestThreats(t *testing.T) {
 		})
 	}
 }
+
+func TestCheckmate(t *testing.T) {
+	ts := []struct {
+		name   string
+		board  board
+		winner color
+	}{
+		{
+			name: "black does checkmate",
+			board: board{
+				board: []string{
+					"♜♞♝♛♚♝♞ ",
+					"♟♟♟♟♟♟♟ ",
+					"        ",
+					"        ",
+					"        ",
+					"        ",
+					"♙♙♙♙♙♙♙ ",
+					"♖♘♗♕♔  ♜",
+				},
+				turn: "White",
+			},
+			winner: colorBlack,
+		},
+	}
+	for _, tc := range ts {
+		t.Run(tc.name, func(t *testing.T) {
+			g, err := newGameFromBoard(tc.board)
+			require.NoError(t, err)
+			assert.True(t, g.isCheckmate)
+			assert.True(t, g.isGameOver)
+			assert.Equal(t, tc.winner, g.gameOverWinner)
+		})
+	}
+}
