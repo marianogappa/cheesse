@@ -326,14 +326,39 @@ func TestDoAction(t *testing.T) {
 				IsKingsideCastle: true,
 			},
 		},
+		{
+			name:        "bishop captures bishop",
+			inputGame:   InputGame{FENString: "rn1qk1nr/pppb1ppp/4p3/1B1p4/1b1PP3/2N5/PPP2PPP/R1BQK1NR w KQkq - 4 5"},
+			inputAction: InputAction{FromSquare: "b5", ToSquare: "d7"},
+			outputGame: OutputGame{Board: Board{Board: []string{
+				"♜♞ ♛♚ ♞♜",
+				"♟♟♟♗ ♟♟♟",
+				"    ♟   ",
+				"   ♟    ",
+				" ♝ ♙♙   ",
+				"  ♘     ",
+				"♙♙♙  ♙♙♙",
+				"♖ ♗♕♔ ♘♖",
+			}}},
+			outputAction: OutputAction{
+				FromPieceOwner:    "White",
+				FromPieceType:     "Bishop",
+				FromPieceSquare:   "b5",
+				ToSquare:          "d7",
+				IsCapture:         true,
+				CapturedPieceType: "Bishop",
+			},
+		},
 	}
 	for _, tc := range testCases {
-		actualOutputGame, actualOutputAction, err := New().DoAction(tc.inputGame, tc.inputAction)
-		require.Equal(t, tc.err, err)
-		if err != nil {
-			continue
-		}
-		assert.Equal(t, tc.outputGame.Board.Board, actualOutputGame.Board.Board)
-		assert.Equal(t, tc.outputAction, actualOutputAction)
+		t.Run(tc.name, func(t *testing.T) {
+			actualOutputGame, actualOutputAction, err := New().DoAction(tc.inputGame, tc.inputAction)
+			require.Equal(t, tc.err, err)
+			if err != nil {
+				return
+			}
+			assert.Equal(t, tc.outputGame.Board.Board, actualOutputGame.Board.Board)
+			assert.Equal(t, tc.outputAction, actualOutputAction)
+		})
 	}
 }

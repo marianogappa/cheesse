@@ -26,7 +26,7 @@ func (g game) updateBoardLayout(a action) game {
 
 	// Remove pieces at {from, to} locations
 	delete(clonedGame.pieces[a.fromPiece.owner], a.fromPiece.xy)
-	delete(clonedGame.pieces[opponent], a.fromPiece.xy)
+	delete(clonedGame.pieces[opponent], fromPiece.xy)
 	// Place fromPiece at "to" location
 	clonedGame.pieces[a.fromPiece.owner][fromPiece.xy] = fromPiece
 
