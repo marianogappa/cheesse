@@ -330,10 +330,10 @@ func (g game) doAction(a action) game {
 	}
 	newGame.isLastMoveEnPassant = a.isEnPassant
 	if a.isEnPassant && lastTurn == colorBlack {
-		newGame.enPassantTargetSquare = xy{x: a.toXY.x, y: a.toXY.y + 1}
+		newGame.enPassantTargetSquare = xy{x: a.toXY.x, y: a.toXY.y - 1}
 	}
 	if a.isEnPassant && lastTurn == colorWhite {
-		newGame.enPassantTargetSquare = xy{x: a.toXY.x, y: a.toXY.y - 1}
+		newGame.enPassantTargetSquare = xy{x: a.toXY.x, y: a.toXY.y + 1}
 	}
 
 	newGame.halfMoveClock = g.halfMoveClock + 1
