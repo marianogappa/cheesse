@@ -123,6 +123,28 @@ func (a action) String() string {
 	return fmt.Sprintf("%s's %s at %v moves to %v", a.fromPiece.owner, a.fromPiece.pieceType, a.fromPiece.xy.toAlgebraic(), a.toXY.toAlgebraic())
 }
 
+func (a action) DebugString() string {
+	return fmt.Sprintf("%v at (%v, %v) to (%v, %v), isCapture: %v , isResign: %v , isPromotion: %v , isEnPassant: %v , isEnPassantCapture: %v , isCastle: %v , isKingsideCastle: %v , isQueensideCastle: %v, promotionPieceType: %v, capturedPiece: %v at (%v, %v)",
+		a.fromPiece.pieceType,
+		a.fromPiece.xy.x,
+		a.fromPiece.xy.y,
+		a.toXY.x,
+		a.toXY.y,
+		a.isCapture,
+		a.isResign,
+		a.isPromotion,
+		a.isEnPassant,
+		a.isEnPassantCapture,
+		a.isCastle,
+		a.isKingsideCastle,
+		a.isQueensideCastle,
+		a.promotionPieceType,
+		a.capturedPiece.pieceType,
+		a.capturedPiece.xy.x,
+		a.capturedPiece.xy.y,
+	)
+}
+
 type pieceType int
 
 const (
