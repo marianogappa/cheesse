@@ -479,9 +479,9 @@ func (g game) xyThreatenedBy(sq xy, owner color, checkAllThreats bool) []piece {
 	}
 
 	// Pawns
-	pawnXYs := []xy{sq.add(xy{-1, -1}), sq.add(xy{1, -1})}
+	pawnXYs := []xy{sq.add(xy{-1, 1}), sq.add(xy{1, 1})}
 	if owner == colorWhite {
-		pawnXYs = []xy{sq.add(xy{-1, 1}), sq.add(xy{1, 1})}
+		pawnXYs = []xy{sq.add(xy{-1, -1}), sq.add(xy{1, -1})}
 	}
 	if piece, ok := g.pieces[opponent][pawnXYs[0]]; ok && piece.pieceType == piecePawn {
 		pieces = append(pieces, piece)
