@@ -419,7 +419,7 @@ func TestPawnActions(t *testing.T) {
 			xy:    xy{2, 4},
 			actions: []action{
 				{fromPiece: piece{pieceType: piecePawn, owner: colorBlack, xy: xy{2, 4}}, toXY: xy{2, 5}},
-				{fromPiece: piece{pieceType: piecePawn, owner: colorBlack, xy: xy{2, 4}}, toXY: xy{3, 5}, isCapture: true, capturedPiece: piece{pieceType: piecePawn, owner: colorWhite, xy: xy{3, 4}}},
+				{fromPiece: piece{pieceType: piecePawn, owner: colorBlack, xy: xy{2, 4}}, toXY: xy{3, 5}, isCapture: true, isEnPassantCapture: true, capturedPiece: piece{pieceType: piecePawn, owner: colorWhite, xy: xy{3, 4}}},
 			},
 		},
 		{
@@ -442,7 +442,7 @@ func TestPawnActions(t *testing.T) {
 			xy:    xy{3, 3},
 			actions: []action{
 				{fromPiece: piece{pieceType: piecePawn, owner: colorWhite, xy: xy{3, 3}}, toXY: xy{3, 2}},
-				{fromPiece: piece{pieceType: piecePawn, owner: colorWhite, xy: xy{3, 3}}, toXY: xy{2, 2}, isCapture: true, capturedPiece: piece{pieceType: piecePawn, owner: colorBlack, xy: xy{2, 3}}},
+				{fromPiece: piece{pieceType: piecePawn, owner: colorWhite, xy: xy{3, 3}}, toXY: xy{2, 2}, isCapture: true, isEnPassantCapture: true, capturedPiece: piece{pieceType: piecePawn, owner: colorBlack, xy: xy{2, 3}}},
 			},
 		},
 		{
