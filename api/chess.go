@@ -240,6 +240,7 @@ func (p piece) buildAction(toXY xy, g game, promotionPieceType pieceType) (actio
 	// Set capture context in the case of an en passant capture
 	if p.pieceType == piecePawn && g.isLastMoveEnPassant && g.enPassantTargetSquare.eq(toXY) {
 		a.isCapture = true
+		a.isEnPassantCapture = true
 		switch p.owner {
 		case colorBlack:
 			a.capturedPiece = g.pieces[opponent(p.owner)][xy{x: toXY.x, y: toXY.y - 1}]
