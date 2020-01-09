@@ -107,6 +107,8 @@ func (a action) String() string {
 	switch {
 	case a.isEnPassantCapture:
 		return fmt.Sprintf("%s's Pawn at %v captures %v's Pawn at %v which was doing en passant", a.fromPiece.owner, a.fromPiece.xy.toAlgebraic(), a.capturedPiece.owner, a.capturedPiece.xy.toAlgebraic())
+	case a.isCapture && a.isPromotion:
+		return fmt.Sprintf("%s's %s at %v captures %s's %s at %v while promoting to %v", a.fromPiece.owner, a.fromPiece.pieceType, a.fromPiece.xy.toAlgebraic(), a.capturedPiece.owner, a.capturedPiece.pieceType, a.capturedPiece.xy.toAlgebraic(), a.promotionPieceType)
 	case a.isCapture:
 		return fmt.Sprintf("%s's %s at %v captures %s's %s at %v", a.fromPiece.owner, a.fromPiece.pieceType, a.fromPiece.xy.toAlgebraic(), a.capturedPiece.owner, a.capturedPiece.pieceType, a.capturedPiece.xy.toAlgebraic())
 	case a.isResign:
