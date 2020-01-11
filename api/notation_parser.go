@@ -1,8 +1,15 @@
 package api
 
-import "fmt"
+import (
+	"fmt"
+	"regexp"
+	"strings"
+)
 
-import "strings"
+var (
+	errInvalidRegexp       = fmt.Errorf("invalid regexp; this should not happen")
+	errDidntMatchAnyRegexp = fmt.Errorf("invalid state at step TODO: didn't match any regexp")
+)
 
 type actionPattern struct {
 	fromPieceType      pieceType
@@ -104,6 +111,22 @@ func (p *actionPattern) isMatch(a action) bool {
 		return false
 	}
 	return true
+}
+
+type characteristics struct {
+	isCheck                        bool
+	isCheckmate                    bool
+	usesCheckSymbol                *string
+	usesCheckmateSymbol            *string
+	fullMoveNumber                 *int
+	usesFullMoveDot                *bool
+	usesNewlineAsFullMoveSeparator *bool
+	usesThreatenSymbol             *string
+	usesAnnotationSymbol           *string
+	usesCaptureSymbol              *string
+	usesEndGameSymbol              *string
+	usesPromotionSymbol            *string
+	usesCastlingSymbol             *string
 }
 
 func boolMatcher(v *bool) func(interface{}) bool {
@@ -210,4 +233,100 @@ func (p *gameStepParser) next(ap actionPattern, actionString string) bool {
 	p.parsedGame = p.alternatives[0]
 	p.possibleNextActions = []action{}
 	return true
+}
+
+type tokenMatch struct {
+	match string
+	ap    *actionPattern
+	ch    characteristics
+}
+
+type notationParser struct {
+	s          string
+	stepParser *gameStepParser
+
+	transitions           map[string]map[string]func([]string) tokenMatch
+	evolveCharacteristics func(ch characteristics, sc characteristics) (characteristics, error)
+	characteristics       characteristics
+}
+
+func newNotationParser(
+	transitions map[string]map[string]func([]string) tokenMatch,
+	evolveCharacteristics func(ch characteristics, sc characteristics) (characteristics, error),
+	initialCharacteristics characteristics) *notationParser {
+	return &notationParser{
+		transitions:           transitions,
+		evolveCharacteristics: evolveCharacteristics,
+		characteristics:       initialCharacteristics,
+	}
+}
+
+func (p *notationParser) parse(initialGame game, s string) ([]gameStep, error) {
+	p.stepParser = newGameStepParser(initialGame)
+	p.s = s
+
+	// Compile all regexes
+	rxs := map[string]*regexp.Regexp{}
+	for step := range p.transitions {
+		for srx := range p.transitions[step] {
+			rxs[srx] = regexp.MustCompile(fmt.Sprintf("^%v", srx))
+		}
+	}
+
+	stepOrder := []string{"full_move_start", "move", "half_move_separator", "move", "full_move_separator"}
+	stepI := 0
+	i := 0
+	for i < len(p.s) {
+		// Calculate all tokens that match
+		var tokenMatches []tokenMatch
+		for rx, fs := range p.transitions[stepOrder[stepI]] {
+			matches := rxs[rx].FindStringSubmatch(p.s[i:])
+			if matches != nil {
+				tokenMatches = append(tokenMatches, fs(matches))
+			}
+		}
+
+		// Bail if no token matches
+		if len(tokenMatches) == 0 {
+			err := fmt.Errorf("at index %v [%v] didn't match any token", i, p.s[i:])
+			return p.stepParser.parsedGame.gameSteps, err
+		}
+
+		tokenMatch := tokenMatches[0]
+
+		// Move steps will advance the game
+		if stepOrder[stepI] == "move" {
+			var ok bool
+			for _, tm := range tokenMatches {
+				if ok = p.stepParser.next(*tm.ap, tm.match); ok {
+					tokenMatch = tm
+					break // Many regexes may match the token, but only one should match any actions
+				}
+			}
+			if !ok {
+				err := fmt.Errorf("at %v matched token %v but no valid action found for it; options were: %v", i, tokenMatch.match, p.stepParser.possibleNextActions)
+				return p.stepParser.parsedGame.gameSteps, err
+			}
+		}
+
+		// Calculate characteristics of the notation as we go through the string.
+		// Two things here:
+		// 1. For a generic parser, any variation is valid, e.g. 0-0 castling, but if then we find an O-O that's an error.
+		// 2. A custom parser can already set that castling has to be e.g. O-O, so that if we find 0-0 that's an error.
+		newCharacteristics, err := p.evolveCharacteristics(p.characteristics, tokenMatch.ch)
+		if err != nil {
+			return p.stepParser.parsedGame.gameSteps, err
+		}
+		p.characteristics = newCharacteristics
+
+		// Advance the parser to the next token
+		i += len(tokenMatch.match)
+
+		// Cycle the step
+		stepI++
+		if stepI >= len(stepOrder) {
+			stepI = 0
+		}
+	}
+	return p.stepParser.parsedGame.gameSteps, nil
 }

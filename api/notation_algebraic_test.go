@@ -8,7 +8,7 @@ import (
 	"github.com/stretchr/testify/require"
 )
 
-func TestParserAlgebraic(t *testing.T) {
+func TestNotationParserAlgebraic(t *testing.T) {
 	testCases := []struct {
 		fen                   string
 		s                     string
@@ -4077,10 +4077,10 @@ func TestParserAlgebraic(t *testing.T) {
 		},
 	}
 	for i, tc := range testCases {
-		t.Run(fmt.Sprintf("Test parser algebraic %v", i), func(t *testing.T) {
+		t.Run(fmt.Sprintf("Test notation parser algebraic %v", i), func(t *testing.T) {
 			g, err := newGameFromFEN(tc.fen)
 			require.NoError(t, err)
-			gameSteps, err := newParserAlgebraic(g, tc.s).parse()
+			gameSteps, err := newNotationParserAlgebraic(characteristics{}).parse(g, tc.s)
 			require.Equal(t, tc.expectedErr, err)
 			if tc.expectedErr != nil {
 				return
