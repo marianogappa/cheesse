@@ -10,6 +10,8 @@ func (a API) parseGame(g InputGame) (game, error) {
 		err        error
 	)
 	switch {
+	case g.DefaultGame:
+		parsedGame = defaultGame
 	case g.FENString != "":
 		parsedGame, err = newGameFromFEN(g.FENString)
 	case len(g.Board.Board) > 0:

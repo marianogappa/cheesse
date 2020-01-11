@@ -101,6 +101,20 @@ func TestParseGame(t *testing.T) {
 		err        error
 	}{
 		{
+			name:      "parses the default game",
+			inputGame: InputGame{DefaultGame: true},
+			outputGame: OutputGame{Board: Board{Board: []string{
+				"♜♞♝♛♚♝♞♜",
+				"♟♟♟♟♟♟♟♟",
+				"        ",
+				"        ",
+				"        ",
+				"        ",
+				"♙♙♙♙♙♙♙♙",
+				"♖♘♗♕♔♗♘♖",
+			}}},
+		},
+		{
 			name:      "parses the default game by FEN string",
 			inputGame: InputGame{FENString: "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"},
 			outputGame: OutputGame{Board: Board{Board: []string{
@@ -211,6 +225,28 @@ func TestDoAction(t *testing.T) {
 			inputGame:   InputGame{FENString: "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"},
 			inputAction: InputAction{FromSquare: "e2", ToSquare: "e9"},
 			err:         errAlgebraicSquareInvalidOrOutOfBounds,
+		},
+		{
+			name:        "does standard Alekhine on a DefaultGame",
+			inputGame:   InputGame{DefaultGame: true},
+			inputAction: InputAction{FromSquare: "e2", ToSquare: "e4"},
+			outputGame: OutputGame{Board: Board{Board: []string{
+				"♜♞♝♛♚♝♞♜",
+				"♟♟♟♟♟♟♟♟",
+				"        ",
+				"        ",
+				"    ♙   ",
+				"        ",
+				"♙♙♙♙ ♙♙♙",
+				"♖♘♗♕♔♗♘♖",
+			}}},
+			outputAction: OutputAction{
+				FromPieceOwner:  "White",
+				FromPieceType:   "Pawn",
+				FromPieceSquare: "e2",
+				ToSquare:        "e4",
+				IsEnPassant:     true,
+			},
 		},
 		{
 			name:        "does standard Alekhine",
