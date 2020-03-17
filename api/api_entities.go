@@ -7,9 +7,9 @@ type InputGame struct {
 }
 
 type InputAction struct {
-	FromSquare       string `json:"fromSquare"`
-	ToSquare         string `json:"toSquare"`
-	PromotePieceType string `json:"promotePieceType"`
+	FromSquare         string `json:"fromSquare"`
+	ToSquare           string `json:"toSquare"`
+	PromotionPieceType string `json:"promotionPieceType"`
 }
 
 type Board struct {

@@ -35,13 +35,13 @@ func (a API) parseAction(ia InputAction, g game) (action, error) {
 	if err != nil {
 		return action{}, err
 	}
-	promotePieceType, err := a.stringToPieceType(ia.PromotePieceType)
+	promotionPieceType, err := a.stringToPieceType(ia.PromotionPieceType)
 	if err != nil {
 		return action{}, err
 	}
 
 	for _, action := range g.actions {
-		if action.fromPiece.xy != fromXY || action.toXY != toXY || (action.isPromotion && action.promotionPieceType != promotePieceType) {
+		if action.fromPiece.xy != fromXY || action.toXY != toXY || (action.isPromotion && action.promotionPieceType != promotionPieceType) {
 			continue
 		}
 		return action, nil
