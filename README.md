@@ -1,5 +1,7 @@
 # cheesse
-Simple package, server and CLI tool for all things Chess.
+Simple package, server and CLI tool (and WebAssembly bindings) for all things chess.
+
+Please note that this library is NOT YET ready for mainstream use. Its API is not final, two of its API methods are not fully implemented, and it hasn't yet been battletested against a massive corpus of games (only about 300).
 
 ## API
 
@@ -7,6 +9,12 @@ Simple package, server and CLI tool for all things Chess.
 DefaultGame() OutputGame
 ParseGame(game InputGame) (OutputGame, error)
 DoAction(game InputGame, action InputAction) (OutputGame, OutputAction, error)
+
+// Currently only supporting Algebraic Notation; others coming soon
+ParseNotation(game InputGame, notationString string) (OutputGame, []OutputGameStep, error)
+
+// Coming soon
+ConvertNotation(game InputGame, notationString string, toNotation string) (OutputGame, []OutputGameStep, error)
 ```
 
 ## Server example
@@ -78,3 +86,7 @@ func main() {
 ♙♙♙♙♙♙♙♙
 ♖♘♗♕♔♗♘♖
 ```
+
+## Why is it called "cheesse"?
+
+That's roughly how kiwi people pronounce chess.
