@@ -69,6 +69,12 @@ type OutputAction struct {
 	CapturedPieceType  string `json:"capturedPieceType"`
 }
 
+type OutputGameStep struct {
+	Game         OutputGame   `json:"game"`
+	Action       OutputAction `json:"action"`
+	ActionString string       `json:"actionString"`
+}
+
 func mapGameToOutputGame(g game) OutputGame {
 	var o OutputGame
 
@@ -166,4 +172,16 @@ func mapInternalActionToAction(a action) OutputAction {
 		PromotionPieceType: a.promotionPieceType.String(),
 		CapturedPieceType:  a.capturedPiece.pieceType.String(),
 	}
+}
+
+func mapGameStepsToOutputGameSteps(gss []gameStep) []OutputGameStep {
+	ogs := make([]OutputGameStep, len(gss))
+	for _, gs := range gss {
+		ogs = append(ogs, OutputGameStep{
+			Game:         mapGameToOutputGame(gs.g),
+			Action:       mapInternalActionToAction(gs.a),
+			ActionString: gs.s,
+		})
+	}
+	return ogs
 }

@@ -38,3 +38,14 @@ func (a API) DoAction(game InputGame, action InputAction) (OutputGame, OutputAct
 	}
 	return mapGameToOutputGame(parsedGame.doAction(parsedAction)), mapInternalActionToAction(parsedAction), nil
 }
+
+func (a API) ParseNotation(game InputGame, notationString string) (OutputGame, []OutputGameStep, error) {
+	parsedGame, err := a.parseGame(game)
+	if err != nil {
+		return OutputGame{}, []OutputGameStep{}, err
+	}
+
+	// TODO at the moment there only exists an algebraic notation parser
+	gameSteps, err := newNotationParserAlgebraic(characteristics{}).parse(parsedGame, notationString)
+	return mapGameToOutputGame(parsedGame), mapGameStepsToOutputGameSteps(gameSteps), err
+}
