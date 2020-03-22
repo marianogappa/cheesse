@@ -176,12 +176,12 @@ func mapInternalActionToAction(a action) OutputAction {
 
 func mapGameStepsToOutputGameSteps(gss []gameStep) []OutputGameStep {
 	ogs := make([]OutputGameStep, len(gss))
-	for _, gs := range gss {
-		ogs = append(ogs, OutputGameStep{
+	for i, gs := range gss {
+		ogs[i] = OutputGameStep{
 			Game:         mapGameToOutputGame(gs.g),
 			Action:       mapInternalActionToAction(gs.a),
 			ActionString: gs.s,
-		})
+		}
 	}
 	return ogs
 }

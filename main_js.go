@@ -29,10 +29,20 @@ func DoAction(this js.Value, p []js.Value) interface{} {
 	})
 }
 
+func ParseNotation(this js.Value, p []js.Value) interface{} {
+	og, ogs, err := a.ParseNotation(convertToInputGame(p[0]), p[1].String())
+	return js.ValueOf(map[string]interface{}{
+		"outputGame":      convertOutputGame(og),
+		"outputGameSteps": convertOutputGameSteps(ogs),
+		"error":           convertError(err),
+	})
+}
+
 func main() {
 	js.Global().Set("DefaultGame", js.FuncOf(DefaultGame))
 	js.Global().Set("ParseGame", js.FuncOf(ParseGame))
 	js.Global().Set("DoAction", js.FuncOf(DoAction))
+	js.Global().Set("ParseNotation", js.FuncOf(ParseNotation))
 	select {}
 }
 
@@ -100,6 +110,22 @@ func convertError(err error) string {
 		return ""
 	}
 	return err.Error()
+}
+
+func convertOutputGameSteps(ogs []api.OutputGameStep) []interface{} {
+	is := make([]interface{}, len(ogs))
+	for i := range ogs {
+		is[i] = convertOutputGameStep(ogs[i])
+	}
+	return is
+}
+
+func convertOutputGameStep(ogs api.OutputGameStep) map[string]interface{} {
+	return map[string]interface{}{
+		"game":         convertOutputGame(ogs.Game),
+		"action":       convertOutputAction(ogs.Action),
+		"actionString": ogs.ActionString,
+	}
 }
 
 func convertOutputGame(og api.OutputGame) map[string]interface{} {
