@@ -8,7 +8,7 @@ import (
 	"github.com/marianogappa/cheesse/api"
 )
 
-var a = api.New()
+var a api.API
 
 func DefaultGame(this js.Value, p []js.Value) interface{} {
 	return js.ValueOf(convertOutputGame(a.DefaultGame()))
@@ -41,6 +41,7 @@ func ParseNotation(this js.Value, p []js.Value) interface{} {
 }
 
 func main() {
+	a = api.New()
 	js.Global().Set("DefaultGame", js.FuncOf(DefaultGame))
 	js.Global().Set("ParseGame", js.FuncOf(ParseGame))
 	js.Global().Set("DoAction", js.FuncOf(DoAction))
