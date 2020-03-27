@@ -39,8 +39,6 @@ func (g game) String() string {
 	return sb.String()
 }
 
-var defaultGame, _ = newGameFromFEN("rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1")
-
 func (g game) clone() game {
 	clonedPieces := make([]map[xy]piece, len(g.pieces))
 	clonedKings := make([]piece, len(g.kings))

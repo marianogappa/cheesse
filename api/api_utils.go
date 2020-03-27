@@ -11,6 +11,7 @@ func (a API) parseGame(g InputGame) (game, error) {
 	)
 	switch {
 	case g.DefaultGame:
+		var defaultGame, _ = newGameFromFEN("rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1")
 		parsedGame = defaultGame
 	case g.FENString != "":
 		parsedGame, err = newGameFromFEN(g.FENString)

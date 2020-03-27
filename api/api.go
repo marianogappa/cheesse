@@ -14,6 +14,7 @@ var (
 )
 
 func (a API) DefaultGame() OutputGame {
+	var defaultGame, _ = newGameFromFEN("rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1")
 	return mapGameToOutputGame(defaultGame)
 }
 
