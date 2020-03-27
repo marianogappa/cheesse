@@ -1,18 +1,16 @@
 package api
 
-import (
-	"fmt"
-)
+import "errors"
 
 type API struct{}
 
 func New() API { return API{} }
 
 var (
-	errInvalidInputGame                    = fmt.Errorf("invalid input game: please supply a valid fenString or a board")
-	errAlgebraicSquareInvalidOrOutOfBounds = fmt.Errorf("invalid algebraic square: empty or out of bounds")
-	errInvalidPieceTypeName                = fmt.Errorf("invalid piece type name: please use one of {Queen|King|Bishop|Knight|Rook|Pawn} or empty string")
-	errInvalidActionForGivenGame           = fmt.Errorf("the specified action is invalid for the specified game")
+	errInvalidInputGame                    = errors.New("invalid input game: please supply a valid fenString or a board")
+	errAlgebraicSquareInvalidOrOutOfBounds = errors.New("invalid algebraic square: empty or out of bounds")
+	errInvalidPieceTypeName                = errors.New("invalid piece type name: please use one of {Queen|King|Bishop|Knight|Rook|Pawn} or empty string")
+	errInvalidActionForGivenGame           = errors.New("the specified action is invalid for the specified game")
 )
 
 func (a API) DefaultGame() OutputGame {

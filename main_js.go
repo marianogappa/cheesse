@@ -8,6 +8,8 @@ import (
 	"github.com/marianogappa/cheesse/api"
 )
 
+var a = api.New()
+
 func DefaultGame(this js.Value, p []js.Value) interface{} {
 	return js.ValueOf(convertOutputGame(a.DefaultGame()))
 }
@@ -60,7 +62,7 @@ func convertToInputGame(v js.Value) api.InputGame {
 		innerBoard []string
 		outerBoard = api.Board{}
 	)
-	if !board.IsNull() && !board.IsUndefined() {
+	if board != js.Null() && board != js.Undefined() {
 		innerBoard = make([]string, board.Length())
 		for i := range innerBoard {
 			innerBoard[i] = jsString(board.Index(i))
@@ -85,21 +87,21 @@ func convertToInputGame(v js.Value) api.InputGame {
 }
 
 func jsBool(j js.Value) bool {
-	if j.IsUndefined() || j.IsNull() {
+	if j == js.Undefined() || j == js.Null() {
 		return false
 	}
 	return j.Bool()
 }
 
 func jsInt(j js.Value) int {
-	if j.IsUndefined() || j.IsNull() || j.IsNaN() {
+	if j == js.Undefined() || j == js.Null() {
 		return 0
 	}
 	return j.Int()
 }
 
 func jsString(j js.Value) string {
-	if j.IsUndefined() || j.IsNull() {
+	if j == js.Undefined() || j == js.Null() {
 		return ""
 	}
 	return j.String()
