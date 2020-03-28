@@ -23,13 +23,14 @@ var (
 	errFENPawnInImpossibleRank           = errors.New("impossible rank for pawn")
 	errFENBlackHasMoreThan16Pieces       = errors.New("black has more than 16 pieces")
 	errFENWhiteHasMoreThan16Pieces       = errors.New("white has more than 16 pieces")
-	rxFEN                                = regexp.MustCompile(`^([1-8rnbqkpRNBQKP]{1,8})\/([1-8rnbqkpRNBQKP]{1,8})\/([1-8rnbqkpRNBQKP]{1,8})\/([1-8rnbqkpRNBQKP]{1,8})\/([1-8rnbqkpRNBQKP]{1,8})\/([1-8rnbqkpRNBQKP]{1,8})\/([1-8rnbqkpRNBQKP]{1,8})\/([1-8rnbqkpRNBQKP]{1,8}) ([wb]) ([KQkq]{0,4}|-) ([a-h][36]|-) ([0-9]{1,3}) ([0-9]{1,3})$`)
+
 	// TODO check if King is in checkmate that couldn't have been reached
 	// TODO don't allow more than 8 pawns of any color
 	// TODO check if both are in check
 )
 
 func newGameFromFEN(s string) (game, error) {
+	rxFEN := regexp.MustCompile(`^([1-8rnbqkpRNBQKP]{1,8})\/([1-8rnbqkpRNBQKP]{1,8})\/([1-8rnbqkpRNBQKP]{1,8})\/([1-8rnbqkpRNBQKP]{1,8})\/([1-8rnbqkpRNBQKP]{1,8})\/([1-8rnbqkpRNBQKP]{1,8})\/([1-8rnbqkpRNBQKP]{1,8})\/([1-8rnbqkpRNBQKP]{1,8}) ([wb]) ([KQkq]{0,4}|-) ([a-h][36]|-) ([0-9]{1,3}) ([0-9]{1,3})$`)
 	matches := rxFEN.FindAllStringSubmatch(s, -1)
 	if matches == nil {
 		return game{}, errFENRegexDoesNotMatch
