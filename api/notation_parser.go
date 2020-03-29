@@ -1,14 +1,15 @@
 package api
 
 import (
+	"errors"
 	"fmt"
 	"regexp"
 	"strings"
 )
 
 var (
-	errInvalidRegexp       = fmt.Errorf("invalid regexp; this should not happen")
-	errDidntMatchAnyRegexp = fmt.Errorf("invalid state at step TODO: didn't match any regexp")
+	errInvalidRegexp       = errors.New("invalid regexp; this should not happen")
+	errDidntMatchAnyRegexp = errors.New("invalid state at step TODO: didn't match any regexp")
 )
 
 type actionPattern struct {

@@ -1,4 +1,4 @@
-// +build !js
+// +build !tinygo
 
 package main
 

@@ -1,6 +1,7 @@
 package api
 
 import (
+	"errors"
 	"fmt"
 	"strings"
 )
@@ -37,8 +38,6 @@ func (g game) String() string {
 	}
 	return sb.String()
 }
-
-var defaultGame, _ = newGameFromFEN("rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1")
 
 func (g game) clone() game {
 	clonedPieces := make([]map[xy]piece, len(g.pieces))
@@ -271,14 +270,14 @@ var movementDeltasByPieceType = map[pieceType][]xy{
 }
 
 var (
-	errNotInBounds                = fmt.Errorf("piece is not in board bounds")
-	errFriendlyPieceInDestination = fmt.Errorf("there is a friendly piece in destination")
-	errPieceInBetween             = fmt.Errorf("there is a piece between source and destination")
-	errPieceBlockingPawn          = fmt.Errorf("there is a piece blocking pawn from moving forwards or en passant")
-	errPawnCantCapture            = fmt.Errorf("pawn can't capture because there is no opponent piece (including en passant)")
-	errCantCastle                 = fmt.Errorf("king can't castle, because pieces moved, pieces in middle or squares threatened")
-	errCantPromote                = fmt.Errorf("pawn can't promote because wrong position or invalid promotion piece type")
-	errActionLeavesKingThreatened = fmt.Errorf("action leaves king in a check")
+	errNotInBounds                = errors.New("piece is not in board bounds")
+	errFriendlyPieceInDestination = errors.New("there is a friendly piece in destination")
+	errPieceInBetween             = errors.New("there is a piece between source and destination")
+	errPieceBlockingPawn          = errors.New("there is a piece blocking pawn from moving forwards or en passant")
+	errPawnCantCapture            = errors.New("pawn can't capture because there is no opponent piece (including en passant)")
+	errCantCastle                 = errors.New("king can't castle, because pieces moved, pieces in middle or squares threatened")
+	errCantPromote                = errors.New("pawn can't promote because wrong position or invalid promotion piece type")
+	errActionLeavesKingThreatened = errors.New("action leaves king in a check")
 )
 
 var (

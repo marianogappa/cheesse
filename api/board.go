@@ -1,6 +1,7 @@
 package api
 
 import (
+	"errors"
 	"fmt"
 	"strings"
 )
@@ -18,21 +19,21 @@ type board struct {
 }
 
 var (
-	errBoardInvalidEnPassantTargetSquare   = fmt.Errorf("enPassantTargetSquare must be either empty string or valid algebraic notation square e.g. d6")
-	errBoardTurnMustBeBlackOrWhite         = fmt.Errorf("turn must be either Black or White")
-	errBoardDuplicateKing                  = fmt.Errorf("board has two kings of the same color")
-	errBoardKingMissing                    = fmt.Errorf("board is missing one of the kings")
-	errBoardDimensionsWrong                = fmt.Errorf("board dimensions are wrong; should be 8x8")
-	errBoardImpossibleBlackCastle          = fmt.Errorf("impossible for black to castle since king has moved")
-	errBoardImpossibleBlackQueensideCastle = fmt.Errorf("impossible for black to queenside castle since rook has moved")
-	errBoardImpossibleBlackKingsideCastle  = fmt.Errorf("impossible for black to kingside castle since rook has moved")
-	errBoardImpossibleWhiteCastle          = fmt.Errorf("impossible for white to castle since king has moved")
-	errBoardImpossibleWhiteQueensideCastle = fmt.Errorf("impossible for white to queenside castle since rook has moved")
-	errBoardImpossibleWhiteKingsideCastle  = fmt.Errorf("impossible for white to kingside castle since rook has moved")
-	errBoardImpossibleEnPassant            = fmt.Errorf("impossible en passant target square, since there's no pawn of the right color next to it")
-	errBoardPawnInImpossibleRank           = fmt.Errorf("impossible rank for pawn")
-	errBoardBlackHasMoreThan16Pieces       = fmt.Errorf("black has more than 16 pieces")
-	errBoardWhiteHasMoreThan16Pieces       = fmt.Errorf("white has more than 16 pieces")
+	errBoardInvalidEnPassantTargetSquare   = errors.New("enPassantTargetSquare must be either empty string or valid algebraic notation square e.g. d6")
+	errBoardTurnMustBeBlackOrWhite         = errors.New("turn must be either Black or White")
+	errBoardDuplicateKing                  = errors.New("board has two kings of the same color")
+	errBoardKingMissing                    = errors.New("board is missing one of the kings")
+	errBoardDimensionsWrong                = errors.New("board dimensions are wrong; should be 8x8")
+	errBoardImpossibleBlackCastle          = errors.New("impossible for black to castle since king has moved")
+	errBoardImpossibleBlackQueensideCastle = errors.New("impossible for black to queenside castle since rook has moved")
+	errBoardImpossibleBlackKingsideCastle  = errors.New("impossible for black to kingside castle since rook has moved")
+	errBoardImpossibleWhiteCastle          = errors.New("impossible for white to castle since king has moved")
+	errBoardImpossibleWhiteQueensideCastle = errors.New("impossible for white to queenside castle since rook has moved")
+	errBoardImpossibleWhiteKingsideCastle  = errors.New("impossible for white to kingside castle since rook has moved")
+	errBoardImpossibleEnPassant            = errors.New("impossible en passant target square, since there's no pawn of the right color next to it")
+	errBoardPawnInImpossibleRank           = errors.New("impossible rank for pawn")
+	errBoardBlackHasMoreThan16Pieces       = errors.New("black has more than 16 pieces")
+	errBoardWhiteHasMoreThan16Pieces       = errors.New("white has more than 16 pieces")
 	// TODO check if King is in checkmate that couldn't have been reached
 	// TODO don't allow more than 8 pawns of any color
 	// TODO check if both are in check
