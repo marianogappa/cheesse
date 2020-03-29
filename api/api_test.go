@@ -102,7 +102,7 @@ func TestParseGame(t *testing.T) {
 	}{
 		{
 			name:      "parses the default game",
-			inputGame: InputGame{DefaultGame: true},
+			inputGame: InputGame{},
 			outputGame: OutputGame{Board: Board{Board: []string{
 				"♜♞♝♛♚♝♞♜",
 				"♟♟♟♟♟♟♟♟",
@@ -162,17 +162,28 @@ func TestParseGame(t *testing.T) {
 			}}},
 		},
 		{
-			name: "errInvalidInputGame: no FEN string nor board supplied to ParseGame",
-			err:  errInvalidInputGame,
+			name: "If no FEN string nor board supplied to ParseGame, defaultGame assumed so no error",
+			outputGame: OutputGame{Board: Board{Board: []string{
+				"♜♞♝♛♚♝♞♜",
+				"♟♟♟♟♟♟♟♟",
+				"        ",
+				"        ",
+				"        ",
+				"        ",
+				"♙♙♙♙♙♙♙♙",
+				"♖♘♗♕♔♗♘♖",
+			}}},
 		},
 	}
 	for _, tc := range testCases {
-		actualOutputGame, err := New().ParseGame(tc.inputGame)
-		require.Equal(t, tc.err, err)
-		if err != nil {
-			continue
-		}
-		assert.Equal(t, tc.outputGame.Board.Board, actualOutputGame.Board.Board)
+		t.Run(tc.name, func(t *testing.T) {
+			actualOutputGame, err := New().ParseGame(tc.inputGame)
+			require.Equal(t, tc.err, err)
+			if err != nil {
+				return
+			}
+			assert.Equal(t, tc.outputGame.Board.Board, actualOutputGame.Board.Board)
+		})
 	}
 }
 
@@ -185,11 +196,6 @@ func TestDoAction(t *testing.T) {
 		outputAction OutputAction
 		err          error
 	}{
-		{
-			name:        "errInvalidInputGame: no FEN string nor board supplied to ParseGame",
-			inputAction: InputAction{FromSquare: "e2", ToSquare: "e4"},
-			err:         errInvalidInputGame,
-		},
 		{
 			name:        "errAlgebraicSquareInvalidOrOutOfBounds: empty FromSquare",
 			inputGame:   InputGame{FENString: "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"},
@@ -228,7 +234,7 @@ func TestDoAction(t *testing.T) {
 		},
 		{
 			name:        "does standard Alekhine on a DefaultGame",
-			inputGame:   InputGame{DefaultGame: true},
+			inputGame:   InputGame{},
 			inputAction: InputAction{FromSquare: "e2", ToSquare: "e4"},
 			outputGame: OutputGame{Board: Board{Board: []string{
 				"♜♞♝♛♚♝♞♜",

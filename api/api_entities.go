@@ -1,9 +1,8 @@
 package api
 
 type InputGame struct {
-	DefaultGame bool   `json:"defaultGame"`
-	FENString   string `json:"fenString"`
-	Board       Board  `json:"board"`
+	FENString string `json:"fenString"`
+	Board     Board  `json:"board"`
 }
 
 type InputAction struct {
