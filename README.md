@@ -1,7 +1,7 @@
 # cheesse
-Simple package, server and CLI tool (and WebAssembly bindings) for all things chess.
+Simple package, server, CLI tool and WebAssembly binary for all things chess.
 
-Please note that this library is NOT YET ready for mainstream use. Its API is not final, two of its API methods are not fully implemented, and it hasn't yet been battletested against a massive corpus of games (only about 300).
+Please note that this library is NOT YET ready for mainstream use. Its API is not final, two of its API methods are not fully implemented, and it hasn't yet been battle-tested against a massive corpus of games (only about 300).
 
 ## API
 
@@ -86,6 +86,10 @@ func main() {
 ♙♙♙♙♙♙♙♙
 ♖♘♗♕♔♗♘♖
 ```
+
+## WebAssembly example (using TinyGo compiler)
+
+[Auto-play](https://marianogappa.github.io/cheesse-examples/)
 
 ## Why is it called "cheesse"?
 
