@@ -1,3 +1,4 @@
+//go:build !tinygo
 // +build !tinygo
 
 package main
@@ -127,6 +128,27 @@ func handleCliParseNotation(flagParseNotation *string) {
 		mustCliFatal(err)
 	}
 	outputGame, outputGameSteps, err := a.ParseNotation(input.Game, input.NotationString)
+	if err != nil {
+		mustCliFatal(err)
+	}
+	type out struct {
+		Game            api.OutputGame       `json:"game"`
+		OutputGameSteps []api.OutputGameStep `json:"outputGameSteps"`
+	}
+	byts, _ := json.Marshal(out{outputGame, outputGameSteps})
+	fmt.Println(string(byts))
+}
+
+func handleCliHackParseNotationICCF(flagHackParseNotationICCF *string) {
+	type args struct {
+		Game           api.InputGame `json:"game"`
+		NotationString string        `json:"notationString"`
+	}
+	var input args
+	if err := json.Unmarshal([]byte(*flagHackParseNotationICCF), &input); err != nil {
+		mustCliFatal(err)
+	}
+	outputGame, outputGameSteps, err := a.HackParseNotationToICCF(input.Game, input.NotationString)
 	if err != nil {
 		mustCliFatal(err)
 	}

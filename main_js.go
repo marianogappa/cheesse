@@ -1,3 +1,4 @@
+//go:build tinygo
 // +build tinygo
 
 package main
@@ -40,11 +41,22 @@ func ParseNotation(this js.Value, p []js.Value) interface{} {
 	})
 }
 
+// HackParseNotationToICCF is a hack to get the ICCF notation for a request I got online
+func HackParseNotationToICCF(this js.Value, p []js.Value) interface{} {
+	og, ogs, err := a.HackParseNotationToICCF(convertToInputGame(p[0]), p[1].String())
+	return js.ValueOf(map[string]interface{}{
+		"outputGame":      convertOutputGame(og),
+		"outputGameSteps": convertOutputGameSteps(ogs),
+		"error":           convertError(err),
+	})
+}
+
 func main() {
 	js.Global().Set("DefaultGame", js.FuncOf(DefaultGame))
 	js.Global().Set("ParseGame", js.FuncOf(ParseGame))
 	js.Global().Set("DoAction", js.FuncOf(DoAction))
 	js.Global().Set("ParseNotation", js.FuncOf(ParseNotation))
+	js.Global().Set("HackParseNotationToICCF", js.FuncOf(HackParseNotationToICCF))
 	select {}
 }
 
@@ -62,48 +74,48 @@ func convertToInputGame(v js.Value) api.InputGame {
 		innerBoard []string
 		outerBoard = api.Board{}
 	)
-	if board != js.Null() && board != js.Undefined() {
-		innerBoard = make([]string, board.Length())
-		for i := range innerBoard {
-			innerBoard[i] = jsString(board.Index(i))
-		}
-		outerBoard = api.Board{
-			Board:                   innerBoard,
-			CanWhiteKingsideCastle:  jsBool(board.Get("canWhiteKingsideCastle")),
-			CanWhiteQueensideCastle: jsBool(board.Get("canWhiteQueensideCastle")),
-			CanBlackKingsideCastle:  jsBool(board.Get("canBlackKingsideCastle")),
-			CanBlackQueensideCastle: jsBool(board.Get("canBlackQueensideCastle")),
-			HalfMoveClock:           jsInt(board.Get("halfMoveClock")),
-			FullMoveNumber:          jsInt(board.Get("fullMoveNumber")),
-			EnPassantTargetSquare:   jsString(board.Get("enPassantTargetSquare")),
-			Turn:                    jsString(board.Get("turn")),
-		}
+	// if board != js.Null() && board != js.Undefined() {
+	innerBoard = make([]string, board.Length())
+	for i := range innerBoard {
+		innerBoard[i] = jsString(board.Index(i))
 	}
+	outerBoard = api.Board{
+		Board:                   innerBoard,
+		CanWhiteKingsideCastle:  jsBool(board.Get("canWhiteKingsideCastle")),
+		CanWhiteQueensideCastle: jsBool(board.Get("canWhiteQueensideCastle")),
+		CanBlackKingsideCastle:  jsBool(board.Get("canBlackKingsideCastle")),
+		CanBlackQueensideCastle: jsBool(board.Get("canBlackQueensideCastle")),
+		HalfMoveClock:           jsInt(board.Get("halfMoveClock")),
+		FullMoveNumber:          jsInt(board.Get("fullMoveNumber")),
+		EnPassantTargetSquare:   jsString(board.Get("enPassantTargetSquare")),
+		Turn:                    jsString(board.Get("turn")),
+	}
+	// }
 	return api.InputGame{
-		DefaultGame: jsBool(v.Get("defaultGame")),
-		FENString:   jsString(v.Get("fenString")),
-		Board:       outerBoard,
+		// DefaultGame: jsBool(v.Get("defaultGame")),
+		FENString: jsString(v.Get("fenString")),
+		Board:     outerBoard,
 	}
 }
 
 func jsBool(j js.Value) bool {
-	if j == js.Undefined() || j == js.Null() {
-		return false
-	}
+	// if j == js.Undefined() || j == js.Null() {
+	// 	return false
+	// }
 	return j.Bool()
 }
 
 func jsInt(j js.Value) int {
-	if j == js.Undefined() || j == js.Null() {
-		return 0
-	}
+	// if j == js.Undefined() || j == js.Null() {
+	// 	return 0
+	// }
 	return j.Int()
 }
 
 func jsString(j js.Value) string {
-	if j == js.Undefined() || j == js.Null() {
-		return ""
-	}
+	// if j == js.Undefined() || j == js.Null() {
+	// 	return ""
+	// }
 	return j.String()
 }
 

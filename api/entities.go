@@ -7,12 +7,12 @@ import (
 )
 
 type game struct {
-	canWhiteCastle          bool
-	canWhiteKingsideCastle  bool
-	canWhiteQueensideCastle bool
 	canBlackCastle          bool
-	canBlackKingsideCastle  bool
 	canBlackQueensideCastle bool
+	canBlackKingsideCastle  bool
+	canWhiteCastle          bool
+	canWhiteQueensideCastle bool
+	canWhiteKingsideCastle  bool
 	halfMoveClock           int
 	fullMoveNumber          int
 	isLastMoveEnPassant     bool
@@ -58,12 +58,12 @@ func (g game) clone() game {
 		clonedInCheckBy[i] = piece
 	}
 	return game{
-		canWhiteCastle:          g.canWhiteCastle,
-		canWhiteKingsideCastle:  g.canWhiteKingsideCastle,
-		canWhiteQueensideCastle: g.canWhiteQueensideCastle,
 		canBlackCastle:          g.canBlackCastle,
-		canBlackKingsideCastle:  g.canBlackKingsideCastle,
 		canBlackQueensideCastle: g.canBlackQueensideCastle,
+		canBlackKingsideCastle:  g.canBlackKingsideCastle,
+		canWhiteCastle:          g.canWhiteCastle,
+		canWhiteQueensideCastle: g.canWhiteQueensideCastle,
+		canWhiteKingsideCastle:  g.canWhiteKingsideCastle,
 		halfMoveClock:           g.halfMoveClock,
 		fullMoveNumber:          g.fullMoveNumber,
 		enPassantTargetSquare:   g.enPassantTargetSquare,
@@ -96,8 +96,8 @@ type action struct {
 	isEnPassant        bool
 	isEnPassantCapture bool
 	isCastle           bool
-	isKingsideCastle   bool
 	isQueensideCastle  bool
+	isKingsideCastle   bool
 	promotionPieceType pieceType
 	capturedPiece      piece
 }
@@ -116,10 +116,10 @@ func (a action) String() string {
 		return fmt.Sprintf("%s's Pawn at %v promotes to %v", a.fromPiece.owner, a.fromPiece.xy.toAlgebraic(), a.promotionPieceType)
 	case a.isEnPassant:
 		return fmt.Sprintf("%s's Pawn at %v does en passant", a.fromPiece.owner, a.fromPiece.xy.toAlgebraic())
-	case a.isKingsideCastle:
-		return fmt.Sprintf("%s kingside castles", a.fromPiece.owner)
 	case a.isQueensideCastle:
 		return fmt.Sprintf("%s queenside castles", a.fromPiece.owner)
+	case a.isKingsideCastle:
+		return fmt.Sprintf("%s kingside castles", a.fromPiece.owner)
 	}
 	return fmt.Sprintf("%s's %s at %v moves to %v", a.fromPiece.owner, a.fromPiece.pieceType, a.fromPiece.xy.toAlgebraic(), a.toXY.toAlgebraic())
 }
@@ -137,8 +137,8 @@ func (a action) DebugString() string {
 		a.isEnPassant,
 		a.isEnPassantCapture,
 		a.isCastle,
-		a.isKingsideCastle,
 		a.isQueensideCastle,
+		a.isKingsideCastle,
 		a.promotionPieceType,
 		a.capturedPiece.pieceType,
 		a.capturedPiece.xy.x,
@@ -207,6 +207,10 @@ func (c xy) eq(c2 xy) bool {
 
 func (c xy) toAlgebraic() string {
 	return fmt.Sprintf("%v%v", string("abcdefgh"[c.x]), 8-c.y)
+}
+
+func (c xy) toICCF() string {
+	return fmt.Sprintf("%v%v", c.x+1, 8-c.y)
 }
 
 func (c xy) deltaTowards(c2 xy) xy {

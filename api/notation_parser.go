@@ -14,10 +14,10 @@ var (
 
 type actionPattern struct {
 	fromPieceType      pieceType
-	fromX              *int
-	fromY              *int
-	toX                *int
-	toY                *int
+	fromX              *[]int
+	fromY              *[]int
+	toX                *[]int
+	toY                *[]int
 	isCapture          *bool
 	isResign           *bool
 	isPromotion        *bool
@@ -28,8 +28,8 @@ type actionPattern struct {
 	isQueensideCastle  *bool
 	promotionPieceType pieceType
 	capturedPieceType  pieceType
-	capturedPieceX     *int
-	capturedPieceY     *int
+	capturedPieceX     *[]int
+	capturedPieceY     *[]int
 	isCheck            *bool
 	isCheckmate        *bool
 }
@@ -93,10 +93,10 @@ func (p actionPattern) String() string {
 
 func (p *actionPattern) isMatch(a action) bool {
 	if !pieceTypeMatcher(p.fromPieceType)(a.fromPiece.pieceType) ||
-		!intMatcher(p.fromX)(a.fromPiece.xy.x) ||
-		!intMatcher(p.fromY)(a.fromPiece.xy.y) ||
-		!intMatcher(p.toX)(a.toXY.x) ||
-		!intMatcher(p.toY)(a.toXY.y) ||
+		!intSliceMatcher(p.fromX)(a.fromPiece.xy.x) ||
+		!intSliceMatcher(p.fromY)(a.fromPiece.xy.y) ||
+		!intSliceMatcher(p.toX)(a.toXY.x) ||
+		!intSliceMatcher(p.toY)(a.toXY.y) ||
 		!boolMatcher(p.isCapture)(a.isCapture) ||
 		!boolMatcher(p.isResign)(a.isResign) ||
 		!boolMatcher(p.isPromotion)(a.isPromotion) ||
@@ -107,8 +107,8 @@ func (p *actionPattern) isMatch(a action) bool {
 		!boolMatcher(p.isQueensideCastle)(a.isQueensideCastle) ||
 		!pieceTypeMatcher(p.promotionPieceType)(a.promotionPieceType) ||
 		!pieceTypeMatcher(p.capturedPieceType)(a.capturedPiece.pieceType) ||
-		!intMatcher(p.capturedPieceX)(a.capturedPiece.xy.x) ||
-		!intMatcher(p.capturedPieceY)(a.capturedPiece.xy.y) {
+		!intSliceMatcher(p.capturedPieceX)(a.capturedPiece.xy.x) ||
+		!intSliceMatcher(p.capturedPieceY)(a.capturedPiece.xy.y) {
 		return false
 	}
 	return true
@@ -133,11 +133,21 @@ type characteristics struct {
 func boolMatcher(v *bool) func(interface{}) bool {
 	return func(w interface{}) bool { return v == nil || *v == w.(bool) }
 }
-func intMatcher(v *int) func(interface{}) bool {
-	return func(w interface{}) bool { return v == nil || *v == w.(int) }
-}
 func pieceTypeMatcher(v pieceType) func(interface{}) bool {
 	return func(w interface{}) bool { return v == pieceNone || v == w.(pieceType) }
+}
+func intSliceMatcher(v *[]int) func(interface{}) bool {
+	return func(w interface{}) bool {
+		if v == nil {
+			return true
+		}
+		for _, sv := range *v {
+			if sv == w.(int) {
+				return true
+			}
+		}
+		return false
+	}
 }
 
 type gameStep struct {
@@ -246,13 +256,13 @@ type notationParser struct {
 	s          string
 	stepParser *gameStepParser
 
-	transitions           map[string]map[string]func([]string) tokenMatch
+	transitions           map[string]map[string]func([]string, int) tokenMatch
 	evolveCharacteristics func(ch characteristics, sc characteristics) (characteristics, error)
 	characteristics       characteristics
 }
 
 func newNotationParser(
-	transitions map[string]map[string]func([]string) tokenMatch,
+	transitions map[string]map[string]func([]string, int) tokenMatch,
 	evolveCharacteristics func(ch characteristics, sc characteristics) (characteristics, error),
 	initialCharacteristics characteristics) *notationParser {
 	return &notationParser{
@@ -283,7 +293,7 @@ func (p *notationParser) parse(initialGame game, s string) ([]gameStep, error) {
 		for rx, fs := range p.transitions[stepOrder[stepI]] {
 			matches := rxs[rx].FindStringSubmatch(p.s[i:])
 			if matches != nil {
-				tokenMatches = append(tokenMatches, fs(matches))
+				tokenMatches = append(tokenMatches, fs(matches, stepI))
 			}
 		}
 

@@ -84,3 +84,17 @@ func (a API) ParseNotation(game InputGame, notationString string) (OutputGame, [
 	gameSteps, err := newNotationParserAlgebraic(characteristics{}).parse(parsedGame, notationString)
 	return mapGameToOutputGame(parsedGame), mapGameStepsToOutputGameSteps(gameSteps), err
 }
+
+// N.B. I'm making this quick hack for a request I got from someone
+func (a API) HackParseNotationToICCF(game InputGame, notationString string) (OutputGame, []OutputGameStep, error) {
+	parsedGame, err := a.parseGame(game)
+	if err != nil {
+		return OutputGame{}, []OutputGameStep{}, err
+	}
+
+	// TODO at the moment there only exists an algebraic notation parser
+	gameSteps, err := newNotationParserAlgebraic(characteristics{}).parse(parsedGame, notationString)
+	gameSteps = gamestepsToICCF(gameSteps)
+
+	return mapGameToOutputGame(parsedGame), mapGameStepsToOutputGameSteps(gameSteps), err
+}

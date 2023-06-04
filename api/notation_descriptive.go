@@ -2,11 +2,119 @@ package api
 
 import (
 	"fmt"
+	"regexp"
 	"strconv"
 	"strings"
 )
 
-func newNotationParserAlgebraic(initialCharacteristics characteristics) *notationParser {
+var descriptiveStringToPieceType = map[string]pieceType{
+	"Q":    pieceQueen,
+	"K":    pieceKing,
+	"B":    pieceBishop,
+	"N":    pieceKnight,
+	"Kt":   pieceKnight,
+	"R":    pieceRook,
+	"P":    piecePawn,
+	"QB":   pieceBishop,
+	"QN":   pieceKnight,
+	"QKt":  pieceKnight,
+	"QR":   pieceRook,
+	"QP":   piecePawn,
+	"KB":   pieceBishop,
+	"KN":   pieceKnight,
+	"KKt":  pieceKnight,
+	"KR":   pieceRook,
+	"KP":   piecePawn,
+	"BP":   piecePawn,
+	"NP":   piecePawn,
+	"KtP":  piecePawn,
+	"RP":   piecePawn,
+	"QBP":  piecePawn,
+	"QNP":  piecePawn,
+	"QKtP": piecePawn,
+	"QRP":  piecePawn,
+	"KBP":  piecePawn,
+	"KNP":  piecePawn,
+	"KKtP": piecePawn,
+	"KRP":  piecePawn,
+}
+
+// Unfortunately, Descriptive notation has a lot of ambiguity. In the case of squares,
+// without knowing if the move is by Black or White, any rank number can be two
+// different ranks, and if the file is e.g. "B" we don't know if it's KB or QB so
+// it can be both files. And both rank and file can be absent too.
+//
+// This method compiles all possible xys based on the available information.
+func stringsToDescriptiveSquares(ss []string, moveNumber int) []xy {
+	rx := regexp.MustCompile(`^(KKt|QKt|Kt|KB|KN|KR|QB|QN|QR|Q|K|B|N|R)?([1-8]?)$`)
+	xys := []xy{}
+	xs := []int{}
+	ys := []int{}
+	for _, s := range ss {
+		matches := rx.FindStringSubmatch(s)
+		if matches == nil {
+			continue
+		}
+		squarePieceType, squareRank := matches[1], matches[2]
+		if squarePieceType != "" {
+			switch squarePieceType {
+			case "KKt":
+				xs = append(xs, 6)
+			case "QKt":
+				xs = append(xs, 1)
+			case "Kt":
+				xs = append(xs, 1, 6)
+			case "KB":
+				xs = append(xs, 5)
+			case "KN":
+				xs = append(xs, 6)
+			case "KR":
+				xs = append(xs, 7)
+			case "QB":
+				xs = append(xs, 2)
+			case "QN":
+				xs = append(xs, 1)
+			case "QR":
+				xs = append(xs, 0)
+			case "Q":
+				xs = append(xs, 3)
+			case "K":
+				xs = append(xs, 4)
+			case "B":
+				xs = append(xs, 2, 5)
+			case "N":
+				xs = append(xs, 1, 6)
+			case "R":
+				xs = append(xs, 0, 7)
+			}
+		}
+		if squareRank != "" {
+			squareRankInt, _ := strconv.Atoi(squareRank)
+			if moveNumber%2 == 0 {
+				ys = append(ys, 8-squareRankInt)
+			} else {
+				ys = append(ys, squareRankInt-1)
+			}
+		}
+	}
+	if len(xs) == 0 && len(ys) == 0 {
+		return []xy{}
+	}
+	if len(xs) == 0 {
+		xs = append(xs, -1)
+	}
+	if len(ys) == 0 {
+		ys = append(ys, -1)
+	}
+	for _, y := range ys {
+		for _, x := range xs {
+			xys = append(xys, xy{x, y})
+		}
+	}
+	return xys
+}
+
+func newNotationParserDescriptive(initialCharacteristics characteristics) *notationParser {
 	var (
 		transitions = map[string]map[string]func([]string, int) tokenMatch{
 			"full_move_start": {
@@ -39,15 +147,17 @@ func newNotationParserAlgebraic(initialCharacteristics characteristics) *notatio
 			},
 			"move": {
 				// Move
-				`([QKBNR]?)([a-h])?([1-8])?([a-h])([1-8])(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, moveNumber int) tokenMatch {
-					sFromPieceType, fromSquareFile, fromSquareRank, toSquareFile, toSquareRank, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7]
+				`(KKtP|QKtP|QKt|KKt|KtP|QBP|QNP|QRP|KBP|KNP|KRP|KR|KP|QP|BP|NP|RP|QR|KB|KN|QB|QN|Q|B|N|Kt|K|R|P)(\(((KKt|QKt|Kt|KB|KN|KR|QB|QN|QR|Q|K|B|N|R)[1-8]?|[1-8])\))?-((KKt|QKt|Kt|KB|KN|KR|QB|QN|QR|Q|K|B|N|R)[1-8]?|[1-8])(\/((KKt|QKt|Kt|KB|KN|KR|QB|QN|QR|Q|K|B|N|R)[1-8]?|[1-8]))?(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, moveNumber int) tokenMatch {
+					sFromPieceType, fromPieceSquare1, _, _, toPieceSquare, _, fromPieceSquare2, _, _, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7], ms[8], ms[9], ms[10], ms[11]
 					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
+					fromSquare := stringsToDescriptiveSquares([]string{fromPieceSquare1, fromPieceSquare2}, moveNumber)
+					toSquare := stringsToDescriptiveSquares([]string{toPieceSquare}, moveNumber)
 					ap := actionPattern{
-						fromPieceType:      stringToPieceType(sFromPieceType),
-						fromX:              fileToPSInt(fromSquareFile),
-						fromY:              rankToPSInt(fromSquareRank),
-						toX:                fileToPSInt(toSquareFile),
-						toY:                rankToPSInt(toSquareRank),
+						fromPieceType:      descriptiveStringToPieceType[sFromPieceType],
+						fromX:              xySliceToPSInt(fromSquare, 'x'),
+						fromY:              xySliceToPSInt(fromSquare, 'y'),
+						toX:                xySliceToPSInt(toSquare, 'x'),
+						toY:                xySliceToPSInt(toSquare, 'y'),
 						isCapture:          pBool(false),
 						isPromotion:        pBool(false),
 						isCastle:           pBool(false),
@@ -61,18 +171,21 @@ func newNotationParserAlgebraic(initialCharacteristics characteristics) *notatio
 				},
 
 				// Capture
-				`([QKBNR])([a-h])?([1-8])?(x|:)?([a-h])([1-8])(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, moveNumber int) tokenMatch {
-					sFromPieceType, fromSquareFile, fromSquareRank, _, toSquareFile, toSquareRank, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7], ms[8]
+				`(KKtP|QKtP|QKt|KKt|KtP|QBP|QNP|QRP|KBP|KNP|KRP|KR|KP|QP|BP|NP|RP|QR|KB|KN|QB|QN|Q|B|N|Kt|K|R|P)(\(((KKt|QKt|Kt|KB|KN|KR|QB|QN|QR|Q|K|B|N|R)[1-8]?|[1-8])\))?x(KKtP|QKtP|QKt|KKt|KtP|QBP|QNP|QRP|KBP|KNP|KRP|KR|KP|QP|BP|NP|RP|QR|KB|KN|QB|QN|Q|B|N|Kt|K|R|P)(\/((KKt|QKt|Kt|KB|KN|KR|QB|QN|QR|Q|K|B|N|R)[1-8]?|[1-8]))?(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, moveNumber int) tokenMatch {
+					sFromPieceType, fromPieceSquare, _, _, sToPieceType, _, toPieceSquare, _, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7], ms[8], ms[9], ms[10]
 					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
+					fromSquare := stringsToDescriptiveSquares([]string{fromPieceSquare}, moveNumber)
+					toSquare := stringsToDescriptiveSquares([]string{toPieceSquare}, moveNumber)
 					ap := actionPattern{
-						fromPieceType:      stringToPieceType(sFromPieceType),
-						fromX:              fileToPSInt(fromSquareFile),
-						fromY:              rankToPSInt(fromSquareRank),
-						toX:                fileToPSInt(toSquareFile),
-						toY:                rankToPSInt(toSquareRank),
+						fromPieceType:      descriptiveStringToPieceType[sFromPieceType],
+						capturedPieceType:  descriptiveStringToPieceType[sToPieceType],
+						fromX:              xySliceToPSInt(fromSquare, 'x'),
+						fromY:              xySliceToPSInt(fromSquare, 'y'),
+						toX:                xySliceToPSInt(toSquare, 'x'),
+						toY:                xySliceToPSInt(toSquare, 'y'),
 						isCapture:          pBool(true),
-						capturedPieceX:     fileToPSInt(toSquareFile),
-						capturedPieceY:     rankToPSInt(toSquareRank),
+						capturedPieceX:     xySliceToPSInt(toSquare, 'x'),
+						capturedPieceY:     xySliceToPSInt(toSquare, 'y'),
 						isPromotion:        pBool(false),
 						isCastle:           pBool(false),
 						isResign:           pBool(false),
@@ -84,98 +197,61 @@ func newNotationParserAlgebraic(initialCharacteristics characteristics) *notatio
 					return tokenMatch{ms[0], &ap, ch}
 				},
 
-				// Capture with colon at the end
-				`([QKBNR])([a-h])?([1-8])?([a-h])([1-8]):(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, moveNumber int) tokenMatch {
-					sFromPieceType, fromSquareFile, fromSquareRank, toSquareFile, toSquareRank, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7]
+				// Move Promotion
+				`(KKtP|QKtP|QKt|KKt|KtP|QBP|QNP|QRP|KBP|KNP|KRP|KR|KP|QP|BP|NP|RP|QR|KB|KN|QB|QN|Q|B|N|Kt|K|R|P)(\(((KKt|QKt|Kt|KB|KN|KR|QB|QN|QR|Q|K|B|N|R)[1-8]?|[1-8])\))?-((KKt|QKt|Kt|KB|KN|KR|QB|QN|QR|Q|K|B|N|R)[1-8]?|[1-8])(\((Q|B|N|Kt|R)\)|=(Q|B|N|Kt|R))(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, moveNumber int) tokenMatch {
+					sFromPieceType, fromPieceSquare, _, _, toPieceSquare, _, _, promotionPieceType1, promotionPieceType2, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7], ms[8], ms[9], ms[10], ms[11]
 					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
+					fromSquare := stringsToDescriptiveSquares([]string{fromPieceSquare}, moveNumber)
+					toSquare := stringsToDescriptiveSquares([]string{toPieceSquare}, moveNumber)
 					ap := actionPattern{
-						fromPieceType:      stringToPieceType(sFromPieceType),
-						fromX:              fileToPSInt(fromSquareFile),
-						fromY:              rankToPSInt(fromSquareRank),
-						toX:                fileToPSInt(toSquareFile),
-						toY:                rankToPSInt(toSquareRank),
-						isCapture:          pBool(true),
-						capturedPieceX:     fileToPSInt(toSquareFile),
-						capturedPieceY:     rankToPSInt(toSquareRank),
-						isPromotion:        pBool(false),
-						isCastle:           pBool(false),
-						isResign:           pBool(false),
-						isEnPassantCapture: pBool(false),
-						isCheck:            isCheck,
-						isCheckmate:        isCheckmate,
-					}
-					ch := characteristics{usesCheckSymbol: usesCheckSymbol, usesCheckmateSymbol: usesCheckmateSymbol}
-					return tokenMatch{ms[0], &ap, ch}
-				},
-
-				// Capture with pawn, potentially without rank
-				`([a-h])(x|:)?([a-h])([1-8]?)( ?e.p.)?(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, moveNumber int) tokenMatch {
-					fromSquareFile, _, toSquareFile, toSquareRank, enPassantCapture, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7]
-					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
-					ap := actionPattern{
-						fromPieceType:      stringToPieceType(""),
-						fromX:              fileToPSInt(fromSquareFile),
-						toX:                fileToPSInt(toSquareFile),
-						toY:                rankToPSInt(toSquareRank),
-						isEnPassantCapture: pBool(strings.HasSuffix(enPassantCapture, "e.p.")),
-						isCapture:          pBool(true),
-						isPromotion:        pBool(false),
-						isCastle:           pBool(false),
-						isResign:           pBool(false),
-						isCheck:            isCheck,
-						isCheckmate:        isCheckmate,
-					}
-					ch := characteristics{usesCheckSymbol: usesCheckSymbol, usesCheckmateSymbol: usesCheckmateSymbol}
-					return tokenMatch{ms[0], &ap, ch}
-				},
-
-				// Capture and promotion with pawn, potentially without rank
-				`([a-h])(x|:)?([a-h])([1-8]?)([=\(])([QBNR])\)?(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, moveNumber int) tokenMatch {
-					fromSquareFile, _, toSquareFile, toSquareRank, promotionSymbol, sPromotionPieceType, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7], ms[8]
-					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
-					ap := actionPattern{
-						fromPieceType:      stringToPieceType(""),
-						fromX:              fileToPSInt(fromSquareFile),
-						toX:                fileToPSInt(toSquareFile),
-						toY:                rankToPSInt(toSquareRank),
-						isEnPassantCapture: pBool(false),
-						isCapture:          pBool(true),
-						isPromotion:        pBool(true),
-						isCastle:           pBool(false),
-						isResign:           pBool(false),
-						promotionPieceType: stringToPieceType(sPromotionPieceType),
-						isCheck:            isCheck,
-						isCheckmate:        isCheckmate,
-					}
-					ch := characteristics{
-						usesCheckSymbol:     usesCheckSymbol,
-						usesCheckmateSymbol: usesCheckmateSymbol,
-						usesPromotionSymbol: &promotionSymbol,
-					}
-					return tokenMatch{ms[0], &ap, ch}
-				},
-
-				// Promotion
-				`([a-h])([1-8])([=\(])([QBNR])\)?(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, moveNumber int) tokenMatch {
-					toSquareFile, toSquareRank, promotionSymbol, sPromotionPieceType, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6]
-					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
-					ap := actionPattern{
-						fromPieceType:      stringToPieceType(""),
-						toX:                fileToPSInt(toSquareFile),
-						toY:                rankToPSInt(toSquareRank),
+						fromPieceType:      descriptiveStringToPieceType[sFromPieceType],
+						fromX:              xySliceToPSInt(fromSquare, 'x'),
+						fromY:              xySliceToPSInt(fromSquare, 'y'),
+						toX:                xySliceToPSInt(toSquare, 'x'),
+						toY:                xySliceToPSInt(toSquare, 'y'),
 						isCapture:          pBool(false),
 						isPromotion:        pBool(true),
 						isCastle:           pBool(false),
 						isResign:           pBool(false),
 						isEnPassantCapture: pBool(false),
-						promotionPieceType: stringToPieceType(sPromotionPieceType),
+						promotionPieceType: descriptiveStringToPieceType[promotionPieceType1+promotionPieceType2],
 						isCheck:            isCheck,
 						isCheckmate:        isCheckmate,
 					}
+					// TODO add promotion symbol to matching pattern to add characteristic
 					ch := characteristics{
 						usesCheckSymbol:     usesCheckSymbol,
 						usesCheckmateSymbol: usesCheckmateSymbol,
-						usesPromotionSymbol: &promotionSymbol,
+					}
+					return tokenMatch{ms[0], &ap, ch}
+				},
+
+				// Capture Promotion
+				`(KKtP|QKtP|QKt|KKt|KtP|QBP|QNP|QRP|KBP|KNP|KRP|KR|KP|QP|BP|NP|RP|QR|KB|KN|QB|QN|Q|B|N|Kt|K|R|P)(\(((KKt|QKt|Kt|KB|KN|KR|QB|QN|QR|Q|K|B|N|R)[1-8]?|[1-8])\))?x(KKtP|QKtP|QKt|KKt|KtP|QBP|QNP|QRP|KBP|KNP|KRP|KR|KP|QP|BP|NP|RP|QR|KB|KN|QB|QN|Q|B|N|Kt|K|R|P)(\((Q|B|N|Kt|R)\)|=(Q|B|N|Kt|R))(\/((KKt|QKt|Kt|KB|KN|KR|QB|QN|QR|Q|K|B|N|R)[1-8]?|[1-8]))?(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, moveNumber int) tokenMatch {
+					sFromPieceType, fromPieceSquare, _, _, sCapturedPieceType, _, promotionPieceType1, promotionPieceType2, _, toPieceSquare, _, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7], ms[8], ms[9], ms[10], ms[11], ms[12], ms[13]
+					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
+					fromSquare := stringsToDescriptiveSquares([]string{fromPieceSquare}, moveNumber)
+					toSquare := stringsToDescriptiveSquares([]string{toPieceSquare}, moveNumber)
+					ap := actionPattern{
+						fromPieceType:      descriptiveStringToPieceType[sFromPieceType],
+						capturedPieceType:  descriptiveStringToPieceType[sCapturedPieceType],
+						fromX:              xySliceToPSInt(fromSquare, 'x'),
+						fromY:              xySliceToPSInt(fromSquare, 'y'),
+						toX:                xySliceToPSInt(toSquare, 'x'),
+						toY:                xySliceToPSInt(toSquare, 'y'),
+						isCapture:          pBool(false),
+						isPromotion:        pBool(true),
+						isCastle:           pBool(false),
+						isResign:           pBool(false),
+						isEnPassantCapture: pBool(false),
+						promotionPieceType: descriptiveStringToPieceType[promotionPieceType1+promotionPieceType2],
+						isCheck:            isCheck,
+						isCheckmate:        isCheckmate,
+					}
+					// TODO add promotion symbol to matching pattern to add characteristic
+					ch := characteristics{
+						usesCheckSymbol:     usesCheckSymbol,
+						usesCheckmateSymbol: usesCheckmateSymbol,
 					}
 					return tokenMatch{ms[0], &ap, ch}
 				},
@@ -205,11 +281,13 @@ func newNotationParserAlgebraic(initialCharacteristics characteristics) *notatio
 				},
 
 				// End of game
-				`(1–0|0–1|½–½|resigns|White resigns|Black resigns)`: func(ms []string, moveNumber int) tokenMatch {
+				`(1–0|0–1|½–½|resigns|White resigns|Black resigns|mate)`: func(ms []string, moveNumber int) tokenMatch {
 					var usesEndGameSymbol string
 					switch ms[1] {
 					case "1-0", "0-1", "½–½":
 						usesEndGameSymbol = "numbers"
+					case "mate":
+						usesEndGameSymbol = "mate"
 					case "resigns":
 						usesEndGameSymbol = "resigns"
 					case "White resigns", "Black resigns":
@@ -305,76 +383,4 @@ func newNotationParserAlgebraic(initialCharacteristics characteristics) *notatio
 	)
 
 	return newNotationParser(transitions, evolveCharacteristics, initialCharacteristics)
-}
-
-func stringToPieceType(s string) pieceType {
-	return map[string]pieceType{
-		"Q": pieceQueen,
-		"K": pieceKing,
-		"B": pieceBishop,
-		"N": pieceKnight,
-		"R": pieceRook,
-		"":  piecePawn,
-	}[s]
-}
-
-func fileToPSInt(file string) *[]int {
-	if file == "" {
-		return nil
-	}
-	v := []int{int(file[0] - 'a')}
-	return &v
-}
-
-func rankToPSInt(rank string) *[]int {
-	if rank == "" {
-		return nil
-	}
-	v := []int{(8 - int(rank[0]-'0'))}
-	return &v
-}
-
-func xySliceToPSInt(xys []xy, axis byte) *[]int {
-	is := []int{}
-	for _, xy := range xys {
-		if axis == 'x' && xy.x != -1 {
-			is = append(is, xy.x)
-		}
-		if axis == 'y' && xy.y != -1 {
-			is = append(is, xy.y)
-		}
-	}
-	if len(is) == 0 {
-		return nil
-	}
-	return &is
-}
-
-func pBool(b bool) *bool {
-	return &b
-}
-
-func pInt(i int) *int {
-	return &i
-}
-
-func processThreatenSymbol(threatenSymbol string) (isCheck *bool, isCheckmate *bool, usesCheckSymbol *string, usesCheckmateSymbol *string) {
-	switch threatenSymbol {
-	case "+", "†", "ch", "++", "dblch", "dbl ch", "dbl.ch", "disch", "dis ch", "dis.ch":
-		isCheck = pBool(true)
-		isCheckmate = nil
-		usesCheckSymbol = &threatenSymbol
-		usesCheckmateSymbol = nil
-	case "#", "mate", "‡", "≠", "X", "x", "×":
-		isCheck = nil
-		isCheckmate = pBool(true)
-		usesCheckSymbol = nil
-		usesCheckmateSymbol = &threatenSymbol
-	default:
-		isCheck = nil
-		isCheckmate = nil
-		usesCheckSymbol = nil
-		usesCheckmateSymbol = nil
-	}
-	return
 }
