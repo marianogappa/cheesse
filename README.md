@@ -10,7 +10,7 @@ DefaultGame() OutputGame
 ParseGame(game InputGame) (OutputGame, error)
 DoAction(game InputGame, action InputAction) (OutputGame, OutputAction, error)
 
-// Currently only supporting Algebraic Notation; others coming soon
+// Currently only supporting Algebraic Notation & ICCF; others coming soon
 ParseNotation(game InputGame, notationString string) (OutputGame, []OutputGameStep, error)
 
 // Coming soon
