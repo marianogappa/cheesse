@@ -80,7 +80,19 @@ func (a API) ParseNotation(game InputGame, notationString string) (OutputGame, [
 		return OutputGame{}, []OutputGameStep{}, err
 	}
 
-	// TODO at the moment there only exists an algebraic notation parser
-	gameSteps, err := newNotationParserAlgebraic(characteristics{}).parse(parsedGame, notationString)
+	// TODO at the moment there only exists algebraic & ICCF parsers available
+	notationParsers := []*notationParser{
+		newNotationParserAlgebraic(characteristics{}),
+		newNotationParserICCF(characteristics{}),
+	}
+
+	var gameSteps []gameStep
+	for _, notationParser := range notationParsers {
+		gameSteps, err = notationParser.parse(parsedGame, notationString)
+		if err == nil {
+			break
+		}
+	}
+
 	return mapGameToOutputGame(parsedGame), mapGameStepsToOutputGameSteps(gameSteps), err
 }

@@ -329,5 +329,8 @@ func (p *notationParser) parse(initialGame game, s string) ([]gameStep, error) {
 			stepI = 0
 		}
 	}
+	if len(p.stepParser.parsedGame.gameSteps) == 0 {
+		return p.stepParser.parsedGame.gameSteps, fmt.Errorf("found 0 game steps")
+	}
 	return p.stepParser.parsedGame.gameSteps, nil
 }
