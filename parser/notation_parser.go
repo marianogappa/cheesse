@@ -1,10 +1,12 @@
-package api
+package parser
 
 import (
 	"errors"
 	"fmt"
 	"regexp"
 	"strings"
+
+	"github.com/marianogappa/cheesse/core"
 )
 
 var (
@@ -13,7 +15,7 @@ var (
 )
 
 type actionPattern struct {
-	fromPieceType      pieceType
+	fromPieceType      core.PieceType
 	fromX              *int
 	fromY              *int
 	toX                *int
@@ -26,18 +28,58 @@ type actionPattern struct {
 	isCastle           *bool
 	isKingsideCastle   *bool
 	isQueensideCastle  *bool
-	promotionPieceType pieceType
-	capturedPieceType  pieceType
+	promotionPieceType core.PieceType
+	capturedPieceType  core.PieceType
 	capturedPieceX     *int
 	capturedPieceY     *int
 	isCheck            *bool
 	isCheckmate        *bool
 }
 
+func (p actionPattern) Clone() actionPattern {
+	return actionPattern{
+		fromPieceType:      p.fromPieceType,
+		fromX:              cloneInt(p.fromX),
+		fromY:              cloneInt(p.fromY),
+		toX:                cloneInt(p.toX),
+		toY:                cloneInt(p.toY),
+		isCapture:          cloneBool(p.isCapture),
+		isResign:           cloneBool(p.isResign),
+		isPromotion:        cloneBool(p.isPromotion),
+		isEnPassant:        cloneBool(p.isEnPassant),
+		isEnPassantCapture: cloneBool(p.isEnPassantCapture),
+		isCastle:           cloneBool(p.isCastle),
+		isKingsideCastle:   cloneBool(p.isKingsideCastle),
+		isQueensideCastle:  cloneBool(p.isQueensideCastle),
+		promotionPieceType: p.promotionPieceType,
+		capturedPieceType:  p.capturedPieceType,
+		capturedPieceX:     cloneInt(p.capturedPieceX),
+		capturedPieceY:     cloneInt(p.capturedPieceY),
+		isCheck:            cloneBool(p.isCheck),
+		isCheckmate:        cloneBool(p.isCheckmate),
+	}
+}
+
+func cloneInt(i *int) *int {
+	if i == nil {
+		return nil
+	}
+	cloned := *i
+	return &cloned
+}
+
+func cloneBool(b *bool) *bool {
+	if b == nil {
+		return nil
+	}
+	cloned := *b
+	return &cloned
+}
+
 func (p actionPattern) String() string {
 	var sb strings.Builder
 	sb.WriteString("Action Pattern:\n")
-	if p.fromPieceType != pieceNone {
+	if p.fromPieceType != core.PieceNone {
 		sb.WriteString(fmt.Sprintf("{a.fromPiece.pieceType}:%v\n", p.fromPieceType))
 	}
 	if p.fromX != nil {
@@ -76,10 +118,10 @@ func (p actionPattern) String() string {
 	if p.isQueensideCastle != nil {
 		sb.WriteString(fmt.Sprintf("{a.isQueensideCastle}:%v\n", *p.isQueensideCastle))
 	}
-	if p.promotionPieceType != pieceNone {
+	if p.promotionPieceType != core.PieceNone {
 		sb.WriteString(fmt.Sprintf("{a.promotionPiece.pieceType}:%v\n", p.promotionPieceType))
 	}
-	if p.capturedPieceType != pieceNone {
+	if p.capturedPieceType != core.PieceNone {
 		sb.WriteString(fmt.Sprintf("{a.capturedPiece.pieceType}:%v\n", p.capturedPieceType))
 	}
 	if p.capturedPieceX != nil {
@@ -91,30 +133,30 @@ func (p actionPattern) String() string {
 	return sb.String()
 }
 
-func (p *actionPattern) isMatch(a action) bool {
-	if !pieceTypeMatcher(p.fromPieceType)(a.fromPiece.pieceType) ||
-		!intMatcher(p.fromX)(a.fromPiece.xy.x) ||
-		!intMatcher(p.fromY)(a.fromPiece.xy.y) ||
-		!intMatcher(p.toX)(a.toXY.x) ||
-		!intMatcher(p.toY)(a.toXY.y) ||
-		!boolMatcher(p.isCapture)(a.isCapture) ||
-		!boolMatcher(p.isResign)(a.isResign) ||
-		!boolMatcher(p.isPromotion)(a.isPromotion) ||
-		!boolMatcher(p.isEnPassant)(a.isEnPassant) ||
-		!boolMatcher(p.isEnPassantCapture)(a.isEnPassantCapture) ||
-		!boolMatcher(p.isCastle)(a.isCastle) ||
-		!boolMatcher(p.isKingsideCastle)(a.isKingsideCastle) ||
-		!boolMatcher(p.isQueensideCastle)(a.isQueensideCastle) ||
-		!pieceTypeMatcher(p.promotionPieceType)(a.promotionPieceType) ||
-		!pieceTypeMatcher(p.capturedPieceType)(a.capturedPiece.pieceType) ||
-		!intMatcher(p.capturedPieceX)(a.capturedPiece.xy.x) ||
-		!intMatcher(p.capturedPieceY)(a.capturedPiece.xy.y) {
+func (p *actionPattern) isMatch(a core.Action) bool {
+	if !pieceTypeMatcher(p.fromPieceType)(a.FromPiece.PieceType) ||
+		!intMatcher(p.fromX)(a.FromPiece.XY.X) ||
+		!intMatcher(p.fromY)(a.FromPiece.XY.Y) ||
+		!intMatcher(p.toX)(a.ToXY.X) ||
+		!intMatcher(p.toY)(a.ToXY.Y) ||
+		!boolMatcher(p.isCapture)(a.IsCapture) ||
+		!boolMatcher(p.isResign)(a.IsResign) ||
+		!boolMatcher(p.isPromotion)(a.IsPromotion) ||
+		!boolMatcher(p.isEnPassant)(a.IsEnPassant) ||
+		!boolMatcher(p.isEnPassantCapture)(a.IsEnPassantCapture) ||
+		!boolMatcher(p.isCastle)(a.IsCastle) ||
+		!boolMatcher(p.isKingsideCastle)(a.IsKingsideCastle) ||
+		!boolMatcher(p.isQueensideCastle)(a.IsQueensideCastle) ||
+		!pieceTypeMatcher(p.promotionPieceType)(a.PromotionPieceType) ||
+		!pieceTypeMatcher(p.capturedPieceType)(a.CapturedPiece.PieceType) ||
+		!intMatcher(p.capturedPieceX)(a.CapturedPiece.XY.X) ||
+		!intMatcher(p.capturedPieceY)(a.CapturedPiece.XY.Y) {
 		return false
 	}
 	return true
 }
 
-type characteristics struct {
+type Characteristics struct {
 	isCheck                        bool
 	isCheckmate                    bool
 	usesCheckSymbol                *string
@@ -136,43 +178,29 @@ func boolMatcher(v *bool) func(interface{}) bool {
 func intMatcher(v *int) func(interface{}) bool {
 	return func(w interface{}) bool { return v == nil || *v == w.(int) }
 }
-func pieceTypeMatcher(v pieceType) func(interface{}) bool {
-	return func(w interface{}) bool { return v == pieceNone || v == w.(pieceType) }
-}
-
-type gameStep struct {
-	s string
-	a action
-	g game
-}
-
-func (s gameStep) clone() gameStep {
-	return gameStep{
-		s: s.s,
-		a: s.a,
-		g: s.g.clone(),
-	}
+func pieceTypeMatcher(v core.PieceType) func(interface{}) bool {
+	return func(w interface{}) bool { return v == core.PieceNone || v == w.(core.PieceType) }
 }
 
 type gameAlternative struct {
-	initialGame game
-	gameSteps   []gameStep
+	initialGame core.Game
+	gameSteps   []core.GameStep
 }
 
 func (a gameAlternative) clone() gameAlternative {
-	clonedGameSteps := make([]gameStep, len(a.gameSteps))
+	clonedGameSteps := make([]core.GameStep, len(a.gameSteps))
 	for i := range a.gameSteps {
-		clonedGameSteps[i] = a.gameSteps[i].clone()
+		clonedGameSteps[i] = a.gameSteps[i].Clone()
 	}
 	return gameAlternative{
-		initialGame: a.initialGame.clone(),
+		initialGame: a.initialGame.Clone(),
 		gameSteps:   clonedGameSteps,
 	}
 }
 
-func (a gameAlternative) currentGame() game {
+func (a gameAlternative) currentGame() core.Game {
 	if len(a.gameSteps) > 0 {
-		return a.gameSteps[len(a.gameSteps)-1].g
+		return a.gameSteps[len(a.gameSteps)-1].StepGame
 	}
 	return a.initialGame
 }
@@ -181,29 +209,29 @@ type gameStepParser struct {
 	alternatives        []gameAlternative
 	isSuccess           bool
 	parsedGame          gameAlternative
-	possibleNextActions []action
+	possibleNextActions []core.Action
 }
 
-func newGameStepParser(initialGame game) *gameStepParser {
+func newGameStepParser(initialGame core.Game) *gameStepParser {
 	return &gameStepParser{
-		alternatives: []gameAlternative{gameAlternative{initialGame: initialGame}},
+		alternatives: []gameAlternative{{initialGame: initialGame}},
 	}
 }
 
 func (p *gameStepParser) next(ap actionPattern, actionString string) bool {
 	newAlternatives := []gameAlternative{}
 	for _, alternative := range p.alternatives {
-		for _, action := range alternative.currentGame().actions {
+		for _, action := range alternative.currentGame().Actions {
 			if ap.isMatch(action) {
-				newGame := alternative.currentGame().doAction(action)
-				if ap.isCheck != nil && newGame.isCheck != *ap.isCheck {
+				newGame := alternative.currentGame().DoAction(action)
+				if ap.isCheck != nil && newGame.IsCheck != *ap.isCheck {
 					continue
 				}
-				if ap.isCheckmate != nil && newGame.isCheckmate != *ap.isCheckmate {
+				if ap.isCheckmate != nil && newGame.IsCheckmate != *ap.isCheckmate {
 					continue
 				}
 				newAlternative := alternative.clone()
-				newAlternative.gameSteps = append(newAlternative.gameSteps, gameStep{s: actionString, a: action, g: newGame})
+				newAlternative.gameSteps = append(newAlternative.gameSteps, core.GameStep{StepString: actionString, StepAction: action, StepGame: newGame})
 				newAlternatives = append(newAlternatives, newAlternative)
 			}
 		}
@@ -215,9 +243,9 @@ func (p *gameStepParser) next(ap actionPattern, actionString string) bool {
 	// }
 
 	if len(newAlternatives) == 0 {
-		actionSet := map[action]struct{}{}
+		actionSet := map[core.Action]struct{}{}
 		for _, alternative := range p.alternatives {
-			for _, action := range alternative.currentGame().actions {
+			for _, action := range alternative.currentGame().Actions {
 				if _, ok := actionSet[action]; ok {
 					continue
 				}
@@ -232,37 +260,37 @@ func (p *gameStepParser) next(ap actionPattern, actionString string) bool {
 	p.isSuccess = true
 	p.alternatives = newAlternatives
 	p.parsedGame = p.alternatives[0]
-	p.possibleNextActions = []action{}
+	p.possibleNextActions = []core.Action{}
 	return true
 }
 
 type tokenMatch struct {
 	match string
 	ap    *actionPattern
-	ch    characteristics
+	ch    Characteristics
 }
 
-type notationParser struct {
+type NotationParser struct {
 	s          string
 	stepParser *gameStepParser
 
-	transitions           map[string]map[string]func([]string) tokenMatch
-	evolveCharacteristics func(ch characteristics, sc characteristics) (characteristics, error)
-	characteristics       characteristics
+	transitions           map[string]map[string]func([]string, core.Game) []tokenMatch
+	evolveCharacteristics func(ch Characteristics, sc Characteristics) (Characteristics, error)
+	characteristics       Characteristics
 }
 
 func newNotationParser(
-	transitions map[string]map[string]func([]string) tokenMatch,
-	evolveCharacteristics func(ch characteristics, sc characteristics) (characteristics, error),
-	initialCharacteristics characteristics) *notationParser {
-	return &notationParser{
+	transitions map[string]map[string]func([]string, core.Game) []tokenMatch,
+	evolveCharacteristics func(ch Characteristics, sc Characteristics) (Characteristics, error),
+	initialCharacteristics Characteristics) *NotationParser {
+	return &NotationParser{
 		transitions:           transitions,
 		evolveCharacteristics: evolveCharacteristics,
 		characteristics:       initialCharacteristics,
 	}
 }
 
-func (p *notationParser) parse(initialGame game, s string) ([]gameStep, error) {
+func (p *NotationParser) Parse(initialGame core.Game, s string) ([]core.GameStep, error) {
 	p.stepParser = newGameStepParser(initialGame)
 	p.s = s
 
@@ -283,7 +311,8 @@ func (p *notationParser) parse(initialGame game, s string) ([]gameStep, error) {
 		for rx, fs := range p.transitions[stepOrder[stepI]] {
 			matches := rxs[rx].FindStringSubmatch(p.s[i:])
 			if matches != nil {
-				tokenMatches = append(tokenMatches, fs(matches))
+				// fmt.Println("At", p.s[i:], "matched", rx, "with", matches[0], "for", stepOrder[stepI])
+				tokenMatches = append(tokenMatches, fs(matches, p.stepParser.parsedGame.currentGame())...)
 			}
 		}
 

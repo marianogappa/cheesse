@@ -1,16 +1,18 @@
-package api
+package parser
 
 import (
 	"fmt"
 	"strconv"
 	"strings"
+
+	"github.com/marianogappa/cheesse/core"
 )
 
-func newNotationParserAlgebraic(initialCharacteristics characteristics) *notationParser {
+func NewNotationParserAlgebraic(initialCharacteristics Characteristics) *NotationParser {
 	var (
-		transitions = map[string]map[string]func([]string) tokenMatch{
+		transitions = map[string]map[string]func([]string, core.Game) []tokenMatch{
 			"full_move_start": {
-				`[\t\f\r ]*([0-9]+)?(\.)?[\t\f\r ]*`: func(ms []string) tokenMatch {
+				`[\t\f\r ]*([0-9]+)?(\.)?[\t\f\r ]*`: func(ms []string, g core.Game) []tokenMatch {
 					var fullMoveNumber *int
 					if len(ms[1]) > 0 {
 						fmn, _ := strconv.Atoi(ms[1])
@@ -20,26 +22,26 @@ func newNotationParserAlgebraic(initialCharacteristics characteristics) *notatio
 					if len(ms[2]) == 1 {
 						usesFullMoveDot = pBool(true)
 					}
-					return tokenMatch{ms[0], nil, characteristics{fullMoveNumber: fullMoveNumber, usesFullMoveDot: usesFullMoveDot}}
+					return []tokenMatch{{ms[0], nil, Characteristics{fullMoveNumber: fullMoveNumber, usesFullMoveDot: usesFullMoveDot}}}
 				},
 			},
 			"half_move_separator": {
-				`[\t\f\r ]+`: func(ms []string) tokenMatch {
-					return tokenMatch{ms[0], nil, characteristics{}}
+				`[\t\f\r ]+`: func(ms []string, g core.Game) []tokenMatch {
+					return []tokenMatch{{ms[0], nil, Characteristics{}}}
 				},
 			},
 			"full_move_separator": {
-				`([\t\f\r ]*?\n|[\t\f\r ]+)`: func(ms []string) tokenMatch {
+				`([\t\f\r ]*?\n|[\t\f\r ]+)`: func(ms []string, g core.Game) []tokenMatch {
 					var usesNewlineAsFullMoveSeparator *bool
 					if strings.Contains(ms[0], "\n") {
 						usesNewlineAsFullMoveSeparator = pBool(true)
 					}
-					return tokenMatch{ms[0], nil, characteristics{usesNewlineAsFullMoveSeparator: usesNewlineAsFullMoveSeparator}}
+					return []tokenMatch{{ms[0], nil, Characteristics{usesNewlineAsFullMoveSeparator: usesNewlineAsFullMoveSeparator}}}
 				},
 			},
 			"move": {
 				// Move
-				`([QKBNR]?)([a-h])?([1-8])?([a-h])([1-8])(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string) tokenMatch {
+				`([QKBNR]?)([a-h])?([1-8])?([a-h])([1-8])(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
 					sFromPieceType, fromSquareFile, fromSquareRank, toSquareFile, toSquareRank, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7]
 					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
 					ap := actionPattern{
@@ -56,12 +58,12 @@ func newNotationParserAlgebraic(initialCharacteristics characteristics) *notatio
 						isCheck:            isCheck,
 						isCheckmate:        isCheckmate,
 					}
-					ch := characteristics{usesCheckSymbol: usesCheckSymbol, usesCheckmateSymbol: usesCheckmateSymbol}
-					return tokenMatch{ms[0], &ap, ch}
+					ch := Characteristics{usesCheckSymbol: usesCheckSymbol, usesCheckmateSymbol: usesCheckmateSymbol}
+					return []tokenMatch{{ms[0], &ap, ch}}
 				},
 
 				// Capture
-				`([QKBNR])([a-h])?([1-8])?(x|:)?([a-h])([1-8])(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string) tokenMatch {
+				`([QKBNR])([a-h])?([1-8])?(x|:)?([a-h])([1-8])(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
 					sFromPieceType, fromSquareFile, fromSquareRank, _, toSquareFile, toSquareRank, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7], ms[8]
 					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
 					ap := actionPattern{
@@ -80,12 +82,12 @@ func newNotationParserAlgebraic(initialCharacteristics characteristics) *notatio
 						isCheck:            isCheck,
 						isCheckmate:        isCheckmate,
 					}
-					ch := characteristics{usesCheckSymbol: usesCheckSymbol, usesCheckmateSymbol: usesCheckmateSymbol}
-					return tokenMatch{ms[0], &ap, ch}
+					ch := Characteristics{usesCheckSymbol: usesCheckSymbol, usesCheckmateSymbol: usesCheckmateSymbol}
+					return []tokenMatch{{ms[0], &ap, ch}}
 				},
 
 				// Capture with colon at the end
-				`([QKBNR])([a-h])?([1-8])?([a-h])([1-8]):(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string) tokenMatch {
+				`([QKBNR])([a-h])?([1-8])?([a-h])([1-8]):(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
 					sFromPieceType, fromSquareFile, fromSquareRank, toSquareFile, toSquareRank, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7]
 					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
 					ap := actionPattern{
@@ -104,12 +106,12 @@ func newNotationParserAlgebraic(initialCharacteristics characteristics) *notatio
 						isCheck:            isCheck,
 						isCheckmate:        isCheckmate,
 					}
-					ch := characteristics{usesCheckSymbol: usesCheckSymbol, usesCheckmateSymbol: usesCheckmateSymbol}
-					return tokenMatch{ms[0], &ap, ch}
+					ch := Characteristics{usesCheckSymbol: usesCheckSymbol, usesCheckmateSymbol: usesCheckmateSymbol}
+					return []tokenMatch{{ms[0], &ap, ch}}
 				},
 
 				// Capture with pawn, potentially without rank
-				`([a-h])(x|:)?([a-h])([1-8]?)( ?e.p.)?(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string) tokenMatch {
+				`([a-h])(x|:)?([a-h])([1-8]?)( ?e.p.)?(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
 					fromSquareFile, _, toSquareFile, toSquareRank, enPassantCapture, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7]
 					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
 					ap := actionPattern{
@@ -125,12 +127,12 @@ func newNotationParserAlgebraic(initialCharacteristics characteristics) *notatio
 						isCheck:            isCheck,
 						isCheckmate:        isCheckmate,
 					}
-					ch := characteristics{usesCheckSymbol: usesCheckSymbol, usesCheckmateSymbol: usesCheckmateSymbol}
-					return tokenMatch{ms[0], &ap, ch}
+					ch := Characteristics{usesCheckSymbol: usesCheckSymbol, usesCheckmateSymbol: usesCheckmateSymbol}
+					return []tokenMatch{{ms[0], &ap, ch}}
 				},
 
 				// Capture and promotion with pawn, potentially without rank
-				`([a-h])(x|:)?([a-h])([1-8]?)([=\(])([QBNR])\)?(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string) tokenMatch {
+				`([a-h])(x|:)?([a-h])([1-8]?)([=\(])([QBNR])\)?(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
 					fromSquareFile, _, toSquareFile, toSquareRank, promotionSymbol, sPromotionPieceType, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7], ms[8]
 					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
 					ap := actionPattern{
@@ -147,16 +149,16 @@ func newNotationParserAlgebraic(initialCharacteristics characteristics) *notatio
 						isCheck:            isCheck,
 						isCheckmate:        isCheckmate,
 					}
-					ch := characteristics{
+					ch := Characteristics{
 						usesCheckSymbol:     usesCheckSymbol,
 						usesCheckmateSymbol: usesCheckmateSymbol,
 						usesPromotionSymbol: &promotionSymbol,
 					}
-					return tokenMatch{ms[0], &ap, ch}
+					return []tokenMatch{{ms[0], &ap, ch}}
 				},
 
 				// Promotion
-				`([a-h])([1-8])([=\(])([QBNR])\)?(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string) tokenMatch {
+				`([a-h])([1-8])([=\(])([QBNR])\)?(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
 					toSquareFile, toSquareRank, promotionSymbol, sPromotionPieceType, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6]
 					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
 					ap := actionPattern{
@@ -172,16 +174,16 @@ func newNotationParserAlgebraic(initialCharacteristics characteristics) *notatio
 						isCheck:            isCheck,
 						isCheckmate:        isCheckmate,
 					}
-					ch := characteristics{
+					ch := Characteristics{
 						usesCheckSymbol:     usesCheckSymbol,
 						usesCheckmateSymbol: usesCheckmateSymbol,
 						usesPromotionSymbol: &promotionSymbol,
 					}
-					return tokenMatch{ms[0], &ap, ch}
+					return []tokenMatch{{ms[0], &ap, ch}}
 				},
 
 				// Castling
-				`(0-0|0-0-0|O-O|O-O-O)(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string) tokenMatch {
+				`(0-0|0-0-0|O-O|O-O-O)(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
 					castlingSymbol, threatenSymbol, _ := ms[1], ms[2], ms[3]
 					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
 					ap := actionPattern{
@@ -196,16 +198,16 @@ func newNotationParserAlgebraic(initialCharacteristics characteristics) *notatio
 						isCheckmate:        isCheckmate,
 					}
 					cs := string(castlingSymbol[0])
-					ch := characteristics{
+					ch := Characteristics{
 						usesCheckSymbol:     usesCheckSymbol,
 						usesCheckmateSymbol: usesCheckmateSymbol,
 						usesCastlingSymbol:  &cs,
 					}
-					return tokenMatch{ms[0], &ap, ch}
+					return []tokenMatch{{ms[0], &ap, ch}}
 				},
 
 				// End of game
-				`(1–0|0–1|½–½|resigns|White resigns|Black resigns)`: func(ms []string) tokenMatch {
+				`(1–0|0–1|½–½|resigns|White resigns|Black resigns)`: func(ms []string, g core.Game) []tokenMatch {
 					var usesEndGameSymbol string
 					switch ms[1] {
 					case "1-0", "0-1", "½–½":
@@ -222,20 +224,20 @@ func newNotationParserAlgebraic(initialCharacteristics characteristics) *notatio
 						isCapture:          pBool(false),
 						isEnPassantCapture: pBool(false),
 					}
-					ch := characteristics{usesEndGameSymbol: &usesEndGameSymbol}
+					ch := Characteristics{usesEndGameSymbol: &usesEndGameSymbol}
 					if ch.isCheck {
 						ap.isCheck = pBool(true)
 					}
 					if ch.isCheckmate {
 						ap.isCheckmate = pBool(true)
 					}
-					return tokenMatch{ms[0], &ap, ch}
+					return []tokenMatch{{ms[0], &ap, ch}}
 				},
 			},
 		}
 
 		// TODO human-readable error messages here. Also, lacking some context.
-		evolveCharacteristics = func(ch characteristics, sc characteristics) (characteristics, error) {
+		evolveCharacteristics = func(ch Characteristics, sc Characteristics) (Characteristics, error) {
 			if sc.usesCheckSymbol != nil {
 				if ch.usesCheckSymbol == nil {
 					ch.usesCheckSymbol = sc.usesCheckSymbol
@@ -307,14 +309,14 @@ func newNotationParserAlgebraic(initialCharacteristics characteristics) *notatio
 	return newNotationParser(transitions, evolveCharacteristics, initialCharacteristics)
 }
 
-func stringToPieceType(s string) pieceType {
-	return map[string]pieceType{
-		"Q": pieceQueen,
-		"K": pieceKing,
-		"B": pieceBishop,
-		"N": pieceKnight,
-		"R": pieceRook,
-		"":  piecePawn,
+func stringToPieceType(s string) core.PieceType {
+	return map[string]core.PieceType{
+		"Q": core.PieceQueen,
+		"K": core.PieceKing,
+		"B": core.PieceBishop,
+		"N": core.PieceKnight,
+		"R": core.PieceRook,
+		"":  core.PiecePawn,
 	}[s]
 }
 

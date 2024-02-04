@@ -1,4 +1,4 @@
-package api
+package core
 
 import (
 	"testing"
@@ -11,15 +11,15 @@ import (
 func TestThreats(t *testing.T) {
 	ts := []struct {
 		name              string
-		board             board
-		xy                xy
+		board             Board
+		xy                XY
 		owner             color
-		threateningPieces []piece
+		threateningPieces []Piece
 	}{
 		{
 			name: "white king is not threatened",
-			board: board{
-				board: []string{
+			board: Board{
+				Board: []string{
 					"♜♞♝♛♚♝♞♜",
 					"♟♟♟♟♟♟♟♟",
 					"        ",
@@ -29,16 +29,16 @@ func TestThreats(t *testing.T) {
 					"♙♙  ♙♙♙♙",
 					"♖♘♗♕ ♗♘♖",
 				},
-				turn: "White",
+				Turn: "White",
 			},
-			owner:             colorWhite,
-			xy:                xy{2, 3},
-			threateningPieces: []piece{},
+			owner:             ColorWhite,
+			xy:                XY{2, 3},
+			threateningPieces: []Piece{},
 		},
 		{
 			name: "white king is threatened by black queen",
-			board: board{
-				board: []string{
+			board: Board{
+				Board: []string{
 					"♜♞♝♛♚♝♞♜",
 					"♟♟♟ ♟♟♟♟",
 					"        ",
@@ -48,16 +48,16 @@ func TestThreats(t *testing.T) {
 					"♙♙  ♙♙♙♙",
 					"♖♘♗♕ ♗♘♖",
 				},
-				turn: "White",
+				Turn: "White",
 			},
-			owner:             colorWhite,
-			xy:                xy{3, 4},
-			threateningPieces: []piece{{pieceType: pieceQueen, owner: colorBlack, xy: xy{3, 0}}},
+			owner:             ColorWhite,
+			xy:                XY{3, 4},
+			threateningPieces: []Piece{{PieceType: PieceQueen, Owner: ColorBlack, XY: XY{3, 0}}},
 		},
 	}
 	for _, tc := range ts {
 		t.Run(tc.name, func(t *testing.T) {
-			g, err := newGameFromBoard(tc.board)
+			g, err := NewGameFromBoard(tc.board)
 			require.NoError(t, err)
 			assert.ElementsMatch(t, tc.threateningPieces, g.xyThreatenedBy(tc.xy, tc.owner, true))
 		})
@@ -67,13 +67,13 @@ func TestThreats(t *testing.T) {
 func TestCheckmate(t *testing.T) {
 	ts := []struct {
 		name   string
-		board  board
+		board  Board
 		winner color
 	}{
 		{
 			name: "black does checkmate",
-			board: board{
-				board: []string{
+			board: Board{
+				Board: []string{
 					"♜♞♝♛♚♝♞ ",
 					"♟♟♟♟♟♟♟ ",
 					"        ",
@@ -83,18 +83,18 @@ func TestCheckmate(t *testing.T) {
 					"♙♙♙♙♙♙♙ ",
 					"♖♘♗♕♔  ♜",
 				},
-				turn: "White",
+				Turn: "White",
 			},
-			winner: colorBlack,
+			winner: ColorBlack,
 		},
 	}
 	for _, tc := range ts {
 		t.Run(tc.name, func(t *testing.T) {
-			g, err := newGameFromBoard(tc.board)
+			g, err := NewGameFromBoard(tc.board)
 			require.NoError(t, err)
-			assert.True(t, g.isCheckmate)
-			assert.True(t, g.isGameOver)
-			assert.Equal(t, tc.winner, g.gameOverWinner)
+			assert.True(t, g.IsCheckmate)
+			assert.True(t, g.IsGameOver)
+			assert.Equal(t, tc.winner, g.GameOverWinner)
 		})
 	}
 }

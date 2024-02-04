@@ -1,9 +1,10 @@
-package api
+package parser
 
 import (
 	"fmt"
 	"testing"
 
+	"github.com/marianogappa/cheesse/core"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )
@@ -4078,9 +4079,9 @@ func TestNotationParserAlgebraic(t *testing.T) {
 	}
 	for i, tc := range testCases {
 		t.Run(fmt.Sprintf("Test notation parser algebraic %v", i), func(t *testing.T) {
-			g, err := newGameFromFEN(tc.fen)
+			g, err := core.NewGameFromFEN(tc.fen)
 			require.NoError(t, err)
-			gameSteps, err := newNotationParserAlgebraic(characteristics{}).parse(g, tc.s)
+			gameSteps, err := NewNotationParserAlgebraic(Characteristics{}).Parse(g, tc.s)
 			require.Equal(t, tc.expectedErr, err)
 			if tc.expectedErr != nil {
 				return
@@ -4088,14 +4089,14 @@ func TestNotationParserAlgebraic(t *testing.T) {
 			if tc.expectedMatchedTokens != nil {
 				require.Len(t, tc.expectedMatchedTokens, len(gameSteps))
 				for i, gameStep := range gameSteps {
-					assert.Equal(t, tc.expectedMatchedTokens[i], gameStep.s)
+					assert.Equal(t, tc.expectedMatchedTokens[i], gameStep.StepString)
 				}
 			}
 			if tc.expectedBoard != nil {
-				assert.Equal(t, tc.expectedBoard, gameSteps[len(gameSteps)-1].g.toBoard().board)
+				assert.Equal(t, tc.expectedBoard, gameSteps[len(gameSteps)-1].StepGame.ToBoard().Board)
 			}
 			if tc.expectedFEN != "" {
-				assert.Equal(t, tc.expectedFEN, gameSteps[len(gameSteps)-1].g.toFEN())
+				assert.Equal(t, tc.expectedFEN, gameSteps[len(gameSteps)-1].StepGame.ToFEN())
 			}
 		})
 	}

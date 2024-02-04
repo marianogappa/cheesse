@@ -1,15 +1,17 @@
-package api
+package parser
 
 import (
 	"strconv"
 	"strings"
+
+	"github.com/marianogappa/cheesse/core"
 )
 
-func newNotationParserICCF(initialCharacteristics characteristics) *notationParser {
+func NewNotationParserICCF(initialCharacteristics Characteristics) *NotationParser {
 	var (
-		transitions = map[string]map[string]func([]string) tokenMatch{
+		transitions = map[string]map[string]func([]string, core.Game) []tokenMatch{
 			"full_move_start": {
-				`[\t\f\r ]*([0-9]{0,3}[\t\f\r ]|[0-9]{0,3}\.)?[\t\f\r ]*`: func(ms []string) tokenMatch {
+				`[\t\f\r ]*([0-9]{0,3}[\t\f\r ]|[0-9]{0,3}\.)?[\t\f\r ]*`: func(ms []string, g core.Game) []tokenMatch {
 					var fullMoveNumber *int
 					if len(ms[1]) > 0 {
 						fmn, _ := strconv.Atoi(ms[1])
@@ -19,25 +21,25 @@ func newNotationParserICCF(initialCharacteristics characteristics) *notationPars
 					if strings.Contains(ms[0], ".") {
 						usesFullMoveDot = pBool(true)
 					}
-					return tokenMatch{ms[0], nil, characteristics{fullMoveNumber: fullMoveNumber, usesFullMoveDot: usesFullMoveDot}}
+					return []tokenMatch{{ms[0], nil, Characteristics{fullMoveNumber: fullMoveNumber, usesFullMoveDot: usesFullMoveDot}}}
 				},
 			},
 			"half_move_separator": {
-				`[\t\f\r ]+`: func(ms []string) tokenMatch {
-					return tokenMatch{ms[0], nil, characteristics{}}
+				`[\t\f\r ]+`: func(ms []string, g core.Game) []tokenMatch {
+					return []tokenMatch{{ms[0], nil, Characteristics{}}}
 				},
 			},
 			"full_move_separator": {
-				`([\t\f\r ]*?\n|[\t\f\r ]+)`: func(ms []string) tokenMatch {
+				`([\t\f\r ]*?\n|[\t\f\r ]+)`: func(ms []string, g core.Game) []tokenMatch {
 					var usesNewlineAsFullMoveSeparator *bool
 					if strings.Contains(ms[0], "\n") {
 						usesNewlineAsFullMoveSeparator = pBool(true)
 					}
-					return tokenMatch{ms[0], nil, characteristics{usesNewlineAsFullMoveSeparator: usesNewlineAsFullMoveSeparator}}
+					return []tokenMatch{{ms[0], nil, Characteristics{usesNewlineAsFullMoveSeparator: usesNewlineAsFullMoveSeparator}}}
 				},
 			},
 			"move": {
-				`([1-8])([1-8])([1-8])([1-8])([1-8])?`: func(ms []string) tokenMatch {
+				`([1-8])([1-8])([1-8])([1-8])([1-8])?`: func(ms []string, g core.Game) []tokenMatch {
 					fromFile, fromRank, toFile, toRank, promotion := ms[1], ms[2], ms[3], ms[4], ms[5]
 
 					ap := actionPattern{
@@ -54,12 +56,12 @@ func newNotationParserICCF(initialCharacteristics characteristics) *notationPars
 						isCheck:            nil,
 						isCheckmate:        nil,
 					}
-					ch := characteristics{}
-					return tokenMatch{ms[0], &ap, ch}
+					ch := Characteristics{}
+					return []tokenMatch{{ms[0], &ap, ch}}
 				},
 			},
 		}
-		evolveCharacteristics = func(ch characteristics, sc characteristics) (characteristics, error) {
+		evolveCharacteristics = func(ch Characteristics, sc Characteristics) (Characteristics, error) {
 			return ch, nil
 		}
 	)

@@ -1,5 +1,9 @@
 package api
 
+import (
+	"github.com/marianogappa/cheesse/core"
+)
+
 // InputGame is the input interface to supply a chess game.
 //
 // There are 3 different ways to supply the chess game:
@@ -171,112 +175,112 @@ type OutputGameStep struct {
 	ActionString string       `json:"actionString"`
 }
 
-func mapGameToOutputGame(g game) OutputGame {
+func mapGameToOutputGame(g core.Game) OutputGame {
 	var o OutputGame
 
-	o.FENString = g.toFEN()
-	o.Board = mapInternalBoardToBoard(g.toBoard())
-	o.Actions = make([]OutputAction, len(g.actions))
-	o.CanWhiteCastle = g.canWhiteCastle
-	o.CanWhiteKingsideCastle = g.canWhiteKingsideCastle
-	o.CanWhiteQueensideCastle = g.canWhiteQueensideCastle
-	o.CanBlackCastle = g.canBlackCastle
-	o.CanBlackKingsideCastle = g.canBlackKingsideCastle
-	o.CanBlackQueensideCastle = g.canBlackQueensideCastle
-	o.HalfMoveClock = g.halfMoveClock
-	o.FullMoveNumber = g.fullMoveNumber
-	o.IsLastMoveEnPassant = g.isLastMoveEnPassant
+	o.FENString = g.ToFEN()
+	o.Board = mapInternalBoardToBoard(g.ToBoard())
+	o.Actions = make([]OutputAction, len(g.Actions))
+	o.CanWhiteCastle = g.CanWhiteCastle
+	o.CanWhiteKingsideCastle = g.CanWhiteKingsideCastle
+	o.CanWhiteQueensideCastle = g.CanWhiteQueensideCastle
+	o.CanBlackCastle = g.CanBlackCastle
+	o.CanBlackKingsideCastle = g.CanBlackKingsideCastle
+	o.CanBlackQueensideCastle = g.CanBlackQueensideCastle
+	o.HalfMoveClock = g.HalfMoveClock
+	o.FullMoveNumber = g.FullMoveNumber
+	o.IsLastMoveEnPassant = g.IsLastMoveEnPassant
 	o.EnPassantTargetSquare = ""
-	o.MoveNumber = g.moveNumber
-	o.BlackPieces = make(map[string]string, len(g.pieces[colorBlack]))
-	o.WhitePieces = make(map[string]string, len(g.pieces[colorWhite]))
-	o.BlackKing = g.kings[colorBlack].xy.toAlgebraic()
-	o.WhiteKing = g.kings[colorWhite].xy.toAlgebraic()
-	o.IsCheck = g.isCheck
-	o.IsCheckmate = g.isCheckmate
-	o.IsStalemate = g.isStalemate
-	o.IsDraw = g.isDraw
-	o.IsGameOver = g.isGameOver
-	o.GameOverWinner = g.gameOverWinner.String()
-	o.InCheckBy = make([]string, len(g.inCheckBy))
+	o.MoveNumber = g.MoveNumber
+	o.BlackPieces = make(map[string]string, len(g.Pieces[core.ColorBlack]))
+	o.WhitePieces = make(map[string]string, len(g.Pieces[core.ColorWhite]))
+	o.BlackKing = g.Kings[core.ColorBlack].XY.ToAlgebraic()
+	o.WhiteKing = g.Kings[core.ColorWhite].XY.ToAlgebraic()
+	o.IsCheck = g.IsCheck
+	o.IsCheckmate = g.IsCheckmate
+	o.IsStalemate = g.IsStalemate
+	o.IsDraw = g.IsDraw
+	o.IsGameOver = g.IsGameOver
+	o.GameOverWinner = g.GameOverWinner.String()
+	o.InCheckBy = make([]string, len(g.InCheckBy))
 
-	for i := range g.actions {
-		o.Actions[i] = mapInternalActionToAction(g.actions[i])
+	for i := range g.Actions {
+		o.Actions[i] = mapInternalActionToAction(g.Actions[i])
 	}
 
-	if g.isLastMoveEnPassant {
-		o.EnPassantTargetSquare = g.enPassantTargetSquare.toAlgebraic()
+	if g.IsLastMoveEnPassant {
+		o.EnPassantTargetSquare = g.EnPassantTargetSquare.ToAlgebraic()
 	}
 
-	for sq, p := range g.pieces[colorBlack] {
-		o.BlackPieces[sq.toAlgebraic()] = p.pieceType.String()
+	for sq, p := range g.Pieces[core.ColorBlack] {
+		o.BlackPieces[sq.ToAlgebraic()] = p.PieceType.String()
 	}
 
-	for sq, p := range g.pieces[colorWhite] {
-		o.WhitePieces[sq.toAlgebraic()] = p.pieceType.String()
+	for sq, p := range g.Pieces[core.ColorWhite] {
+		o.WhitePieces[sq.ToAlgebraic()] = p.PieceType.String()
 	}
 
-	for i := range g.inCheckBy {
-		o.InCheckBy[i] = g.inCheckBy[i].xy.toAlgebraic()
+	for i := range g.InCheckBy {
+		o.InCheckBy[i] = g.InCheckBy[i].XY.ToAlgebraic()
 	}
 
 	return o
 }
 
-func mapInternalBoardToBoard(b board) Board {
+func mapInternalBoardToBoard(b core.Board) Board {
 	return Board{
-		Board:                   b.board,
-		CanWhiteKingsideCastle:  b.canWhiteKingsideCastle,
-		CanWhiteQueensideCastle: b.canWhiteQueensideCastle,
-		CanBlackKingsideCastle:  b.canBlackKingsideCastle,
-		CanBlackQueensideCastle: b.canBlackQueensideCastle,
-		HalfMoveClock:           b.halfMoveClock,
-		FullMoveNumber:          b.fullMoveNumber,
-		EnPassantTargetSquare:   b.enPassantTargetSquare,
-		Turn:                    b.turn,
+		Board:                   b.Board,
+		CanWhiteKingsideCastle:  b.CanWhiteKingsideCastle,
+		CanWhiteQueensideCastle: b.CanWhiteQueensideCastle,
+		CanBlackKingsideCastle:  b.CanBlackKingsideCastle,
+		CanBlackQueensideCastle: b.CanBlackQueensideCastle,
+		HalfMoveClock:           b.HalfMoveClock,
+		FullMoveNumber:          b.FullMoveNumber,
+		EnPassantTargetSquare:   b.EnPassantTargetSquare,
+		Turn:                    b.Turn,
 	}
 }
 
-func mapBoardToInternalBoard(b Board) board {
-	return board{
-		board:                   b.Board,
-		canWhiteKingsideCastle:  b.CanWhiteKingsideCastle,
-		canWhiteQueensideCastle: b.CanWhiteQueensideCastle,
-		canBlackKingsideCastle:  b.CanBlackKingsideCastle,
-		canBlackQueensideCastle: b.CanBlackQueensideCastle,
-		halfMoveClock:           b.HalfMoveClock,
-		fullMoveNumber:          b.FullMoveNumber,
-		enPassantTargetSquare:   b.EnPassantTargetSquare,
-		turn:                    b.Turn,
+func mapBoardToInternalBoard(b Board) core.Board {
+	return core.Board{
+		Board:                   b.Board,
+		CanWhiteKingsideCastle:  b.CanWhiteKingsideCastle,
+		CanWhiteQueensideCastle: b.CanWhiteQueensideCastle,
+		CanBlackKingsideCastle:  b.CanBlackKingsideCastle,
+		CanBlackQueensideCastle: b.CanBlackQueensideCastle,
+		HalfMoveClock:           b.HalfMoveClock,
+		FullMoveNumber:          b.FullMoveNumber,
+		EnPassantTargetSquare:   b.EnPassantTargetSquare,
+		Turn:                    b.Turn,
 	}
 }
 
-func mapInternalActionToAction(a action) OutputAction {
+func mapInternalActionToAction(a core.Action) OutputAction {
 	return OutputAction{
-		FromPieceOwner:     a.fromPiece.owner.String(),
-		FromPieceType:      a.fromPiece.pieceType.String(),
-		FromPieceSquare:    a.fromPiece.xy.toAlgebraic(),
-		ToSquare:           a.toXY.toAlgebraic(),
-		IsCapture:          a.isCapture,
-		IsResign:           a.isResign,
-		IsPromotion:        a.isPromotion,
-		IsEnPassant:        a.isEnPassant,
-		IsEnPassantCapture: a.isEnPassantCapture,
-		IsCastle:           a.isCastle,
-		IsKingsideCastle:   a.isKingsideCastle,
-		IsQueensideCastle:  a.isQueensideCastle,
-		PromotionPieceType: a.promotionPieceType.String(),
-		CapturedPieceType:  a.capturedPiece.pieceType.String(),
+		FromPieceOwner:     a.FromPiece.Owner.String(),
+		FromPieceType:      a.FromPiece.PieceType.String(),
+		FromPieceSquare:    a.FromPiece.XY.ToAlgebraic(),
+		ToSquare:           a.ToXY.ToAlgebraic(),
+		IsCapture:          a.IsCapture,
+		IsResign:           a.IsResign,
+		IsPromotion:        a.IsPromotion,
+		IsEnPassant:        a.IsEnPassant,
+		IsEnPassantCapture: a.IsEnPassantCapture,
+		IsCastle:           a.IsCastle,
+		IsKingsideCastle:   a.IsKingsideCastle,
+		IsQueensideCastle:  a.IsQueensideCastle,
+		PromotionPieceType: a.PromotionPieceType.String(),
+		CapturedPieceType:  a.CapturedPiece.PieceType.String(),
 	}
 }
 
-func mapGameStepsToOutputGameSteps(gss []gameStep) []OutputGameStep {
+func mapGameStepsToOutputGameSteps(gss []core.GameStep) []OutputGameStep {
 	ogs := make([]OutputGameStep, len(gss))
 	for i, gs := range gss {
 		ogs[i] = OutputGameStep{
-			Game:         mapGameToOutputGame(gs.g),
-			Action:       mapInternalActionToAction(gs.a),
-			ActionString: gs.s,
+			Game:         mapGameToOutputGame(gs.StepGame),
+			Action:       mapInternalActionToAction(gs.StepAction),
+			ActionString: gs.StepString,
 		}
 	}
 	return ogs

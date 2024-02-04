@@ -1,4 +1,4 @@
-package api
+package core
 
 import (
 	"fmt"
@@ -217,7 +217,7 @@ func TestFENErrors(t *testing.T) {
 	}
 	for _, tc := range ts {
 		t.Run(tc.name, func(t *testing.T) {
-			_, err := newGameFromFEN(tc.fenString)
+			_, err := NewGameFromFEN(tc.fenString)
 			assert.Equal(t, tc.err, err)
 		})
 	}
@@ -529,9 +529,9 @@ func TestFENConvertsBackToItself(t *testing.T) {
 	}
 	for _, tc := range ts {
 		t.Run(fmt.Sprintf("FEN converts %v back to itself", tc), func(t *testing.T) {
-			g, err := newGameFromFEN(tc)
+			g, err := NewGameFromFEN(tc)
 			require.NoError(t, err)
-			assert.Equal(t, tc, g.toFEN())
+			assert.Equal(t, tc, g.ToFEN())
 		})
 	}
 }

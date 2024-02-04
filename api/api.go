@@ -1,6 +1,11 @@
 package api
 
-import "errors"
+import (
+	"errors"
+
+	"github.com/marianogappa/cheesse/core"
+	"github.com/marianogappa/cheesse/parser"
+)
 
 // API represents the cheesse API. All cheesse API methods are exported methods of this struct.
 type API struct{}
@@ -18,7 +23,7 @@ var (
 // DefaultGame returns the initial game of chess, with all pieces on their default positions
 // and before any action has taken place.
 func (a API) DefaultGame() OutputGame {
-	var defaultGame, _ = newGameFromFEN("rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1")
+	var defaultGame, _ = core.NewGameFromFEN("rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1")
 	return mapGameToOutputGame(defaultGame)
 }
 
@@ -55,7 +60,7 @@ func (a API) DoAction(game InputGame, action InputAction) (OutputGame, OutputAct
 	if err != nil {
 		return OutputGame{}, OutputAction{}, err
 	}
-	return mapGameToOutputGame(parsedGame.doAction(parsedAction)), mapInternalActionToAction(parsedAction), nil
+	return mapGameToOutputGame(parsedGame.DoAction(parsedAction)), mapInternalActionToAction(parsedAction), nil
 }
 
 // ParseNotation takes any valid input game and a string representing a match in some
@@ -81,14 +86,14 @@ func (a API) ParseNotation(game InputGame, notationString string) (OutputGame, [
 	}
 
 	// TODO at the moment there only exists algebraic & ICCF parsers available
-	notationParsers := []*notationParser{
-		newNotationParserAlgebraic(characteristics{}),
-		newNotationParserICCF(characteristics{}),
+	notationParsers := []*parser.NotationParser{
+		parser.NewNotationParserAlgebraic(parser.Characteristics{}),
+		parser.NewNotationParserICCF(parser.Characteristics{}),
 	}
 
-	var gameSteps []gameStep
+	var gameSteps []core.GameStep
 	for _, notationParser := range notationParsers {
-		gameSteps, err = notationParser.parse(parsedGame, notationString)
+		gameSteps, err = notationParser.Parse(parsedGame, notationString)
 		if err == nil {
 			break
 		}
