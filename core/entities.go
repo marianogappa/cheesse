@@ -176,20 +176,6 @@ func (t PieceType) String() string {
 	return ""
 }
 
-func (t PieceType) ToICCF() string {
-	switch t {
-	case PieceQueen:
-		return "1"
-	case PieceBishop:
-		return "3"
-	case PieceKnight:
-		return "4"
-	case PieceRook:
-		return "2"
-	}
-	return ""
-}
-
 func (t PieceType) ToSmith() string {
 	switch t {
 	case PieceQueen:
@@ -301,10 +287,6 @@ func (c XY) ToDescriptive(turn color) string {
 		y = 8 - c.Y
 	}
 	return fmt.Sprintf("%v%v", fileNames[c.X], y)
-}
-
-func (c XY) ToICCF() string {
-	return fmt.Sprintf("%v%v", c.X+1, 8-c.Y)
 }
 
 func (c XY) deltaTowards(c2 XY) XY {
