@@ -74,7 +74,7 @@ func (a API) DoAction(game InputGame, action InputAction) (OutputGame, OutputAct
 //
 // `1. e4 e5\n2. Bc4 Nc6\n3. Qh5 Nf6??\n4. Qxf7#`
 //
-// At the moment, only Algebraic Notation is supported, but support for most
+// At the moment, only Algebraic and ICCF Notations are supported, but support for most
 // notations is planned at a later release.
 //
 // Please refer to InputGame's, OutputGame's and OutputGameStep's docs for format
@@ -85,9 +85,10 @@ func (a API) ParseNotation(game InputGame, notationString string) (OutputGame, [
 		return OutputGame{}, []OutputGameStep{}, err
 	}
 
-	// TODO at the moment there only exists algebraic parser
+	// TODO at the moment there only exists algebraic and iccf parsers
 	notationParsers := []*parser.NotationParser{
 		parser.NewNotationParserAlgebraic(parser.Characteristics{}),
+		parser.NewNotationParserICCF(parser.Characteristics{}),
 	}
 
 	var gameSteps []core.GameStep

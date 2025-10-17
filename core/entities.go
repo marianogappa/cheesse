@@ -176,6 +176,20 @@ func (t PieceType) String() string {
 	return ""
 }
 
+func (t PieceType) ToICCF() string {
+	switch t {
+	case PieceQueen:
+		return "1"
+	case PieceRook:
+		return "2"
+	case PieceBishop:
+		return "3"
+	case PieceKnight:
+		return "4"
+	}
+	return ""
+}
+
 func (t PieceType) ToSmith() string {
 	switch t {
 	case PieceQueen:
@@ -278,6 +292,10 @@ func (c XY) eq(c2 XY) bool {
 
 func (c XY) ToAlgebraic() string {
 	return fmt.Sprintf("%v%v", string("abcdefgh"[c.X]), 8-c.Y)
+}
+
+func (c XY) ToICCF() string {
+	return fmt.Sprintf("%v%v", c.X+1, 8-c.Y)
 }
 
 func (c XY) ToDescriptive(turn color) string {
