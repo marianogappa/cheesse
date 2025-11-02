@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JVQ7Ah75"]
+[White "Alexleblond"]
+[Black "burnson"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:16"]
+[WhiteElo "1126"]
+[BlackElo "1104"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "C41"]
+[Opening "Philidor Defense: Lion Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O c6 7. d5 b5 8. Bb3 Bb7 9. Re1 O-O 10. dxc6 Bxc6 11. Nd5 Nb6 12. Nxe7+ Qxe7 13. Nd4 exd4 14. Qxd4 Qe5 15. Qb4 a5 16. Qc3 Qxc3 17. bxc3 a4 18. Bd5 Nbxd5 19. exd5 Bxd5 20. Be3 Ne4 21. Red1 Nxc3 22. Rxd5 Nxd5 23. Rd1 Nxe3 24. Rxd6 Nxc2 25. g4 Rfd8 26. Rc6 Nb4 27. Rc3 Nxa2 28. Rc2 Nb4 29. Rb2 a3 30. Rxb4 a2 31. Rxb5 a1=Q+ 32. Kg2 Qd4 33. Rf5 Qe4+ 34. Rf3 Rd4 35. Kg3 Qxg4# 0-1
+

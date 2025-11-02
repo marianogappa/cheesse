@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/6zvZjfc6"]
+[White "IVIED"]
+[Black "NeverBeLikeYou"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:35"]
+[WhiteElo "1536"]
+[BlackElo "1315"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 c6 2. Bf4 d5 3. Nc3 e6 4. a3 g6 5. b4 Bg7 6. b5 Nf6 7. e3 Nbd7 8. bxc6 bxc6 9. Nf3 Rb8 10. Ne5 Nxe5 11. Bxe5 Rb7 12. a4 O-O 13. a5 Bd7 14. a6 Rb2 15. Na4 Rb4 16. c3 Rc4 17. Bxc4 dxc4 18. Rb1 c5 19. Nxc5 Qa5 20. Nxd7 Qxc3+ 21. Qd2 Qxd2+ 22. Kxd2 Nxd7 23. Bxg7 Kxg7 24. Rb7 Nb6 25. Rxa7 Rb8 26. Rb1 c3+ 27. Kxc3 Rc8+ 28. Kd3 Na4 29. Rbb7 Nb6 30. Rxb6 1-0
+

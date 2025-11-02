@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/TwzIbZrU"]
+[White "Prasonio"]
+[Black "SCIENS"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:21"]
+[WhiteElo "1765"]
+[BlackElo "1689"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 c6 5. Nf3 Bd6 6. Bd3 Ne7 7. O-O O-O 8. Re1 Bf5 9. Bf4 Bxd3 10. Qxd3 Na6 11. Ng5 Bxf4 12. Qxh7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/xfjNTLzc"]
+[White "jerrimada"]
+[Black "markast"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:37"]
+[WhiteElo "1306"]
+[BlackElo "1244"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "A00"]
+[Opening "Sodium Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. Na3 b6 2. d4 Bb7 3. Bf4 g6 4. Bxc7 Qxc7 5. Qd3 Bc6 6. Nh3 Qb7 7. g4 Bxh1 8. Bg2 Bxg2 9. Nc4 Bxh3 10. Qxh3 Qh1+ 11. Kd2 Qxa1 12. Na3 Qb1 13. Nxb1 Nc6 14. Nc3 Nf6 15. Nb5 a6 16. Nc7+ Kd8 17. Nxa8 b5 18. Nb6 Bg7 19. Qf3 d6 20. Qxc6 Nd7 21. Qc8# 1-0
+

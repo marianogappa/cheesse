@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/7Ti6wgJR"]
+[White "ashkan1206"]
+[Black "DroneStryk"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:29"]
+[WhiteElo "1565"]
+[BlackElo "1687"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qd1 Nf6 5. Nc3 g6 6. b3 Qa5 7. Bb2 Bg7 8. f3 O-O 9. Rb1 Nh5 10. Ne2 e6 11. g3 d5 12. Qd3 dxe4 13. Qxe4 Nf6 14. Qd3 Nd5 15. a3 a6 16. b4 Qd8 17. Bg2 Ne5 18. Qd2 b5 19. O-O Nc4 20. Qd3 Nxb2 21. Rxb2 Qb6+ 22. Kh1 Bb7 23. f4 Rad8 24. Nxd5 Bxd5 25. Bxd5 Bxb2 26. c3 Rxd5 27. Qf3 Rfd8 28. Nd4 Rxd4 29. cxd4 Qxd4 30. Qg4 Qe4+ 31. Qf3 Qxf3+ 32. Rxf3 Rd1+ 33. Kg2 h5 34. Rf2 Bd4 35. Rc2 Kg7 36. Kf3 Rf1+ 37. Ke2 Rh1 38. Kd3 Bf6 39. Rc6 Rxh2 40. Rxa6 Rh3 41. Rb6 Rxg3+ 42. Ke4 Rxa3 43. Rxb5 Rb3 44. Rb8 Bc3 45. b5 h4 46. b6 h3 47. b7 h2 0-1
+

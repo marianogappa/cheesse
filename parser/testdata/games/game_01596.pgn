@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/jAmnsVnZ"]
+[White "Nomale"]
+[Black "starfighter22"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:56"]
+[WhiteElo "1778"]
+[BlackElo "1604"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense: Ragozin Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Bb4 4. Nf3 Nf6 5. Bg5 h6 6. Bh4 g5 7. Nxg5 hxg5 8. Bxg5 Rh5 9. h4 Be7 10. e3 Rh8 11. Bd3 Na6 12. a3 c5 13. cxd5 exd5 14. Bxa6 bxa6 15. Qa4+ Kf8 16. O-O-O Rb8 17. dxc5 Bg4 18. f3 Bd7 19. Qxa6 Bxc5 20. Bxf6 Bxe3+ 21. Kb1 Bf5+ 22. Ka1 Bc8 23. Bxd8 Bxa6 24. Bc7 Rc8 25. Bd6+ Kg7 26. Nxd5 Bc5 27. Be5+ Kh7 28. Bxh8 Kxh8 29. Rhe1 Bf2 30. Re7 f5 31. Nf6 Bxh4 32. Rh7# 1-0
+

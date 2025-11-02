@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/f1O7w7OR"]
+[White "GMILOPES"]
+[Black "birinhajr"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:15"]
+[WhiteElo "2108"]
+[BlackElo "1981"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[ECO "B44"]
+[Opening "Sicilian Defense: Paulsen Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nxc6 bxc6 6. Nc3 Be7 7. Bd3 d5 8. e5 d4 9. Ne4 c5 10. Qh5 g6 11. Qh3 Bb7 12. O-O Bxe4 13. Bxe4 Rc8 14. Bd3 Bg5 15. Bb5+ Kf8 16. f4 Be7 17. b3 Qb6 18. Bc4 h5 19. g4 h4 20. f5 gxf5 21. gxf5 Nh6 22. fxe6 Rg8+ 23. Kh1 Qc6+ 24. Qf3 f5 25. Bxh6+ Ke8 26. Qxc6+ Rxc6 27. Bb5 1-0
+

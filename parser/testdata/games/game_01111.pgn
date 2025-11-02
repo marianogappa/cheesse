@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ln276cGA"]
+[White "HarunB"]
+[Black "paloma37"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:04"]
+[WhiteElo "1287"]
+[BlackElo "1337"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-13"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... d5?! { [%eval 0.75] } 2. d3?! { [%eval -0.24] } 2... dxe4 { [%eval -0.19] } 3. Qe2?! { [%eval -0.88] } 3... exd3 { [%eval -0.7] } 4. cxd3?! { [%eval -1.41] } 4... e5?! { [%eval -0.79] } 5. Nf3 { [%eval -0.81] } 5... Bb4+ { [%eval -0.83] } 6. Bd2?! { [%eval -1.39] } 6... Bxd2+ { [%eval -1.29] } 7. Nfxd2?! { [%eval -2.11] } 7... Nf6? { [%eval -0.94] } 8. Qxe5+ { [%eval -1.0] } 8... Be6 { [%eval -1.09] } 9. Nc3 { [%eval -1.19] } 9... O-O?! { [%eval -0.56] } 10. Qb5? { [%eval -1.63] } 10... a6? { [%eval -0.54] } 11. Qxb7 { [%eval -0.53] } 11... Nbd7 { [%eval -0.61] } 12. Nde4 { [%eval -1.04] } 12... Nxe4?! { [%eval -0.27] } 13. dxe4 { [%eval -0.27] } 13... Nc5 { [%eval -0.33] } 14. Qc6 { [%eval -0.41] } 14... Nd3+? { [%eval 0.68] } 15. Bxd3 { [%eval 0.79] } 15... Qxd3 { [%eval 0.85] } 16. Rd1 { [%eval 0.51] } 16... Qc2 { [%eval 0.56] } 17. O-O { [%eval 0.26] } 17... Qxb2 { [%eval 0.29] } 18. Qxc7?? { [%eval -3.6] } 18... Rac8 { [%eval -3.46] } 19. Qd6 { [%eval -3.63] } 19... Qxc3 { [%eval -3.51] } 20. Qxa6? { [%eval -5.6] } 20... Rcd8? { [%eval -2.82] } 21. Rc1 { [%eval -3.2] } 21... Qd2 { [%eval -2.79] } 22. Rfd1?? { [%eval -10.16] } 22... Bc8?? { [%eval -1.98] } 23. Qc4?? { [%eval -9.96] } 23... Qxd1+ { [%eval -9.72] } 24. Rxd1 { [%eval -10.02] } 24... Be6?? { [%eval 2.57] } 25. Qf1 { [%eval 2.37] } 25... Rxd1 { [%eval 2.52] } 26. Qxd1 { [%eval 2.51] } 26... g6? { [%eval 5.35] } 27. h3? { [%eval 2.89] } 27... Bxa2 { [%eval 2.93] } 28. Qc2 { [%eval 2.85] } 28... Be6 { [%eval 2.74] } 29. g4 { [%eval 2.49] } 29... Bd7 { [%eval 2.89] } 30. f3 { [%eval 2.81] } 30... Re8 { [%eval 2.74] } 31. Qc7 { [%eval 2.66] } 1-0
+

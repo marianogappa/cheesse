@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Um8AuIqv"]
+[White "Temarpa"]
+[Black "buddycl"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:19"]
+[WhiteElo "1603"]
+[BlackElo "1626"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Lisitsyn Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 f5 2. e4 fxe4 3. Ng5 d5 4. d3 h6 5. Qh5+ Kd7 6. Nf7 Qe8 7. Ne5+ Kd8 8. Ng6 Nf6 0-1
+

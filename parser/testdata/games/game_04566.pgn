@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Vrrv7O6Q"]
+[White "djulac"]
+[Black "miguelkin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:29"]
+[WhiteElo "1359"]
+[BlackElo "1360"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. f4 d5 2. Nf3 Bg4 3. e3 e6 4. h3 Bxf3 5. Qxf3 Nc6 6. g4 Bd6 7. c4 dxc4 8. Bxc4 a6 9. d4 Nge7 10. Nc3 Bb4 11. Bd2 Bxc3 12. Bxc3 O-O 13. O-O-O Qd7 14. e4 Rad8 15. Qe3 b5 16. Bb3 a5 17. f5 a4 18. Bc2 exf5 19. gxf5 Rfe8 20. d5 Nb8 21. Bd3 Nxf5 22. exf5 Rxe3 23. Bxb5 Qe7 24. Bxa4 Qg5 25. Bd2 Rc3+ 26. bxc3 Qxf5 27. Rhf1 Qxd5 28. c4 Qxc4+ 29. Bc2 Qxa2 30. Bb1 Qa3+ 31. Kc2 Rd6 32. Rf3 Rc6+ 33. Rc3 1-0
+

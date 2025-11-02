@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UcwW9qEn"]
+[White "nmer"]
+[Black "MasterBishop"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:06"]
+[WhiteElo "2235"]
+[BlackElo "2124"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d3 d6 2. g3 Bg4 3. Bg2 c6 4. f3 Bh5 5. e4 e5 6. Ne2 g6 7. O-O g5 8. c4 Be7 9. Nbc3 Bg6 10. d4 f6 11. d5 c5 12. a3 h5 13. b4 g4 14. f4 b6 15. bxc5 bxc5 16. Rb1 Nd7 17. Qa4 Kf8 18. fxe5 dxe5 19. d6 Bxd6 20. Rd1 Ke7 21. Rb7 Rb8 22. Qxa7 Rxb7 23. Qxb7 Bf7 24. Nd5+ Bxd5 25. Rxd5 Qc7 26. Qb1 Ke6 27. Qd3 Ne7 28. Nc3 Nxd5 29. exd5+ Kf7 30. Nb5 Qb8 31. Qf5 Nf8 32. Bg5 Qd8 33. Bxf6 Qxf6 34. Nxd6+ Kg7 35. Ne8+ Kf7 36. Qxf6+ Kxe8 37. Qxh8 Kf7 38. d6 Ng6 39. Bd5# 1-0
+

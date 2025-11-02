@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/tsW8IJGp"]
+[White "Diavolot"]
+[Black "raleighhart"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:59"]
+[WhiteElo "1770"]
+[BlackElo "1739"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C42"]
+[Opening "Russian Game: Damiano Variation"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qf3 Qe7 5. Nxf7 Ng5+ 6. Qe2 Qxe2+ 7. Bxe2 Nxf7 8. O-O Bd6 9. Bc4 O-O 10. Nc3 Kh8 11. d4 a6 12. Re1 Nc6 13. Nd5 Nxd4 14. Nxc7 Bxc7 15. Bxf7 Ne6 16. Bxe6 dxe6 17. Bd2 Bb6 18. Re2 Bd7 19. c4 Rf7 20. Kf1 Ba7 21. f3 b5 22. b3 Rc8 23. Re4 e5 24. Rae1 Bd4 25. f4 Bf5 26. Rxe5 Bxe5 27. Rxe5 Bd3+ 28. Kf2 bxc4 29. bxc4 Bxc4 30. a4 h6 31. g4 Kh7 32. Kg3 Rd7 33. Bb4 Rd3+ 34. Kh4 Bb3 35. g5 Rc6 36. Be7 Bxa4 37. Kg4 Bd1+ 38. Kf5 g6+ 39. Ke4 Bc2 40. gxh6 Rdc3+ 41. Kd4 R3c4+ 42. Ke3 Kxh6 43. Bg5+ Kg7 44. Re7+ Kg8 45. Bh6 Rc8 46. h4 R4c7 47. Re5 Bf5 48. h5 Kh7 49. Bg5 Rf7 50. h6 Ra8 51. Kd4 a5 52. Kc3 a4 53. Kb2 a3+ 54. Ka1 a2 55. Re2 Rb7 56. Rxa2 Rxa2+ 57. Kxa2 Kg8 58. Ka3 Be6 59. Ka4 Kf8 60. Ka5 Bg8 61. Ka6 Rb1 62. Ka5 Ke8 63. Ka6 Kd7 64. Ka5 Kc6 65. Ka4 Rb7 66. Ka3 Kc5 67. Be7+ Kc4 68. Ka2 Rb5 69. Bf6 Bh7 70. Ka1 Rh5 71. Bg5 Kd5 72. Kb2 Ke4 73. Kc2 Kf5 74. Kd3 Rxg5 75. fxg5 Kxg5 76. Ke3 Kxh6 77. Kf4 Kg7 78. Kg4 Kf7 79. Kg5 Bg8 80. Kg4 Kf6 81. Kh4 Kf5 82. Kg3 Bd5 83. Kh3 Kf4 84. Kh2 g5 85. Kg1 g4 86. Kf2 Bg8 87. Kg2 g3 88. Kh1 Kf3 89. Kg1 g2 90. Kh2 Kf2 91. Kh3 g1=Q 92. Kh4 Bb3 93. Kh5 Ba4 94. Kh4 Kf3 95. Kh5 Kf4 96. Kh6 Kf5 97. Kh7 Kf6 98. Kh8 Kf7 99. Kh7 Qh1# 0-1
+

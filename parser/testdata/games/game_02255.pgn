@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ByQrlUMv"]
+[White "mrki_osvetnik"]
+[Black "huhur"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:33"]
+[WhiteElo "1916"]
+[BlackElo "1744"]
+[WhiteRatingDiff "-47"]
+[BlackRatingDiff "+14"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation, Smith-Morra Declined"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. cxd4 Nc6 6. Nf3 d6 7. Bc4 Nb6 8. Bb3 dxe5 9. d5 Na5 10. O-O Nxb3 11. Qxb3 Qxd5 12. Qb4 g6 13. Nc3 Qd6 14. Qe4 Bg7 15. Rd1 Qc6 16. Qh4 Bf5 17. Bh6 O-O 18. Bxg7 Kxg7 19. Ng5 Rh8 20. Rac1 Qf6 21. Qg3 Rad8 22. Nge4 Bxe4 23. Nxe4 Rxd1+ 24. Rxd1 Qf5 25. Qe3 Nd7 26. f3 Nf6 27. Nxf6 Qxf6 28. Qxa7 Qc6 29. b4 Rc8 30. a4 Qc2 31. Rf1 Qe2 32. Qxb7 Rc2 33. f4 e4 0-1
+

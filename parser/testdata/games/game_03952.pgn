@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/tCjThkLU"]
+[White "jupiter10"]
+[Black "adhocprog"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:01"]
+[WhiteElo "1786"]
+[BlackElo "1815"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation #2"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. b3 e5 2. Bb2 d6 3. g3 Be6 4. Bg2 Nc6 5. Bxc6+ bxc6 6. e4 Be7 7. d3 d5 8. Nf3 dxe4 9. dxe4 Qxd1+ 10. Kxd1 O-O-O+ 11. Ke2 Bg4 12. Nd2 Bb4 13. c3 Bc5 14. Rae1 Nf6 15. Rd1 Rd7 16. Rhe1 Rhd8 17. b4 Bb6 18. c4 Rxd2+ 19. Rxd2 Rxd2+ 20. Kxd2 Bxf3 21. c5 Bxc5 22. bxc5 Bxe4 23. Bxe5 Bd5 24. Bxf6 gxf6 25. Kc3 Bxa2 26. Kd4 Be6 27. Ra1 Kb7 28. Rb1+ Ka8 29. Ra1 Kb7 30. Rb1+ Kc8 31. Ra1 Kb8 32. f4 Kb7 33. Ke4 f5+ 34. Ke5 a6 35. Rb1+ Ka7 36. Ra1 h5 37. h3 a5 38. h4 Ka6 39. Kf6 Kb5 40. Rb1+ Kxc5 41. Rc1+ Kb4 42. Rb1+ Ka3 43. Ra1+ Kb4 44. Rb1+ Kc5 45. Rc1+ Kb5 46. Rxc6 Kxc6 47. g4 fxg4 48. Kg5 Bf5 49. Kh6 1-0
+

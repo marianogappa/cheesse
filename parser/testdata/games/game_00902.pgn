@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/MzZ8Hf6o"]
+[White "gio1477"]
+[Black "Anatol_lucky"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:24"]
+[WhiteElo "1722"]
+[BlackElo "1446"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C22"]
+[Opening "Center Game: Paulsen Attack Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 d6 5. Bb5 Bd7 6. Nc3 a6 7. Ba4 Nf6 8. Nd5 Nxd5 9. exd5+ Ne5 10. Bxd7+ Qxd7 11. Nf3 Be7 12. O-O O-O 13. Nxe5 dxe5 14. Qxe5 f6 15. Qd4 Bd6 16. c4 c5 17. Qd3 Rfe8 18. Bd2 b5 19. b3 b4 20. Bc1 a5 21. a3 a4 22. bxa4 Rxa4 23. Bb2 h6 24. Qg6 Re2 25. Bxf6 Rxa3 26. Rae1 Rxe1 27. Rxe1 b3 28. Re8+ Bf8 29. Rd8 Qf7 30. Qxf7+ Kxf7 31. Bb2 Ra2 32. Rd7+ Be7 33. d6 Rxb2 34. Rxe7+ Kf6 35. g3 Rd2 36. Rb7 b2 37. d7 Rxd7 38. Rxb2 Rd4 39. Rb6+ Ke5 40. Rb7 g5 41. Rh7 Rd1+ 42. Kg2 Rd6 43. Rc7 Kd4 44. f4 gxf4 45. gxf4 Kxc4 46. f5 Rf6 47. Rh7 Kd4 48. Kg3 c4 49. Kg4 c3 50. Rd7+ Kc4 51. Rc7+ Kb3 52. Rb7+ Kc2 53. Re7 Kd1 54. Re6 Rxe6 55. fxe6 c2 56. e7 c1=Q 57. e8=Q Qc4+ 58. Kf5 Qf1+ 59. Kg6 Qf4 60. Kh7 Qxh2 61. Qg6 h5 62. Kh6 h4 63. Kh5 h3 64. Qg4+ Ke1 65. Kh4 Qg2 66. Qxh3 Qxh3+ 67. Kxh3 1/2-1/2
+

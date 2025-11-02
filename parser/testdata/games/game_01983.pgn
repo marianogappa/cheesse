@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uBmLeM9B"]
+[White "bleumoses"]
+[Black "courtem"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:26"]
+[WhiteElo "1553"]
+[BlackElo "1354"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "60+8"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 Nc6 3. c4 Nf6 4. a3 dxc4 5. Bxc4 e6 6. b4 a6 7. Nf3 b5 8. Be2 a5 9. Bxb5 Qd5 10. Nc3 Qd6 11. Ne5 axb4 12. Bxc6+ Ke7 13. Nb5 Qd8 14. Bxa8 Ba6 15. Nc6+ 1-0
+

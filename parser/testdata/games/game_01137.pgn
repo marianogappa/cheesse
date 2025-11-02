@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/stdLoUgn"]
+[White "lilFrOs7ylil"]
+[Black "iamsatria"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:15"]
+[WhiteElo "1356"]
+[BlackElo "1443"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+50"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Nc6 3. Nc3 Be7 4. Bc4 g6 5. Qf3 Nh6 6. Nh3 O-O 7. d3 d5 8. Bxh6 dxc4 9. Bxf8 Bxf8 10. O-O Qh4 11. dxc4 Nd4 12. Qd3 Bg4 13. Nf4 exf4 14. Qxd4 f3 15. g3 Qh3 16. Ne2 Qg2# 0-1
+

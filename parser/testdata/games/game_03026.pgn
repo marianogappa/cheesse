@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/fQMana9g"]
+[White "Chkmate"]
+[Black "gont"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:19"]
+[WhiteElo "1772"]
+[BlackElo "1519"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "60+2"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Bf4 Nf6 3. Bg3 Bg4 4. Nd2 Nc6 5. c3 e6 6. Qb3 Na5 7. Qb5+ c6 8. Qd3 Bf5 9. Qf3 Bg4 10. Qe3 Bd6 11. Be5 Bxe5 12. dxe5 Ne4 13. Nxe4 Nc4 14. Qc1 dxe4 15. e3 Nb6 16. h3 Bh5 17. Be2 Bg6 18. h4 h5 19. Nh3 Qxh4 20. O-O Bf5 21. Nf4 Bg4 22. g3 Qg5 23. Qe1 h4 24. Bxg4 Qxg4 25. Kg2 h3+ 26. Kh2 Qf3 27. Rg1 g5 28. Ne2 g4 29. Nd4 Qg2+ 30. Rxg2 hxg2+ 31. Kxg2 O-O-O 32. Qe2 1-0
+

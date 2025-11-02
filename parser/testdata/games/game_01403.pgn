@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/J8a9HOxt"]
+[White "rovkaspa"]
+[Black "Hechtlord"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:16"]
+[WhiteElo "1895"]
+[BlackElo "1907"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-97"]
+[ECO "C25"]
+[Opening "Vienna Game: Vienna Gambit, Steinitz Gambit, Knight Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 d6 5. d4 Nf6 6. Bxf4 Bg4 7. Bb5 a6 8. Bxc6+ bxc6 9. O-O d5 10. e5 Nh5 11. Qd2 Nxf4 12. Qxf4 Bxf3 13. Rxf3 Bb4 14. Qxf7# 1-0
+

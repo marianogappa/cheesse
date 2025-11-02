@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pUFSoiE0"]
+[White "frundenyjengen"]
+[Black "kirilldem"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:25"]
+[WhiteElo "2075"]
+[BlackElo "2196"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "C30"]
+[Opening "King's Gambit Declined, Petrov's Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 Nf6 3. Nf3 d5 4. fxe5 Nxe4 5. d3 Nc5 6. Be3 Bf5 7. Nd4 Bg6 8. Be2 Nc6 9. Nxc6 bxc6 10. O-O Rb8 11. b3 d4 12. Bf4 Ne6 13. Bg3 Bb4 14. Nd2 Bc3 15. Rb1 O-O 16. Bf3 c5 17. Ne4 a5 18. Qe2 a4 19. bxa4 Qd7 20. Rb3 Qxa4 21. Nxc3 dxc3 22. Rfb1 Rxb3 23. axb3 Qa2 24. Rf1 Nd4 25. Qe3 Qxc2 26. Be4 Qxb3 27. Bxg6 hxg6 28. Qg5 c2 29. h3 Qxd3 30. Kh2 Qxf1 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/TOsLwYdU"]
+[White "rht"]
+[Black "Estrellabrilla"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:52"]
+[WhiteElo "1560"]
+[BlackElo "1719"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+[ECO "A46"]
+[Opening "Indian Game: Wade-Tartakower Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. Nf3 d6 2. d4 Nf6 3. Bf4 Bg4 4. h3 Bxf3 5. exf3 g6 6. d5 Bg7 7. Bb5+ c6 8. dxc6 bxc6 9. Ba4 O-O 10. c3 Nd5 11. Bg3 Na6 12. Bc2 Nc5 13. c4 Qa5+ 14. Kf1 Nb6 15. Nc3 Nxc4 16. Bd3 Nxb2 17. Rb1 0-1
+

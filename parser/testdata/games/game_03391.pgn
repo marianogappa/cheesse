@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LRus75Tr"]
+[White "influx"]
+[Black "Alanleal"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:54"]
+[WhiteElo "1630"]
+[BlackElo "1737"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. e3 Bd6 5. Bd3 Bd7 6. O-O Bxf4 7. exf4 Nc6 8. c3 O-O 9. Ne5 Ne8 10. Nd2 f6 11. Nef3 g6 12. Rc1 Ng7 13. Bb1 Nh5 14. Qc2 Nxf4 15. Ne1 f5 16. h3 Qg5 17. g3 Nxh3+ 18. Kg2 Nf4+ 19. Kf3 Qg4+ 20. Ke3 Nh5 21. Ng2 f4+ 22. gxf4 Nxf4 23. Nxf4 Qxf4+ 24. Ke2 e5 25. dxe5 Nxe5 26. Rce1 Nf3 27. Nxf3 Qxf3+ 28. Kd2 Bf5 29. Qd1 Qf4+ 30. Re3 d4 31. cxd4 Rad8 32. Bxf5 Rxd4+ 33. Bd3 Rfd8 34. Kc3 R8d6 35. Rfe1 Rc6+ 36. Kd2 Qxf2+ 37. R1e2 Qf4 38. Qe1 Rcd6 39. Kc2 Rc6+ 40. Kb1 Rb4 41. Re8+ Kg7 42. R2e7+ Kh6 43. Qh1+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/8NvEcp7U"]
+[White "moveloser"]
+[Black "albervanio"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:32"]
+[WhiteElo "1606"]
+[BlackElo "1714"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "A49"]
+[Opening "East Indian Defense"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. e3 O-O 5. e4 d6 6. Bd3 Nbd7 7. h3 e5 8. d5 a5 9. Be3 Nc5 10. a3 b6 11. Qd2 a4 12. Bh6 Ne8 13. Bxg7 Kxg7 14. h4 h6 15. h5 g5 16. O-O-O Bd7 17. Ne2 b5 18. Ng3 b4 19. Qxb4 Rb8 20. Qd2 Bb5 21. Nf5+ Kh7 22. N3h4 Ng7 23. Nxg7 Kxg7 24. Nf5+ Kh7 25. g3 Bxd3 26. cxd3 Nb3+ 27. Kb1 Nxd2+ 28. Rxd2 Rb6 29. Rf1 Qd7 30. f4 exf4 31. gxf4 Rfb8 32. fxg5 Rxb2+ 33. Rxb2 Rxb2+ 34. Kxb2 Qb5+ 35. Kc2 Qb3+ 36. Kd2 hxg5 37. Ke3 Qxa3 38. Ne7 Kh6 39. Rf6+ Kxh5 40. Rxf7 Qc1+ 41. Kd4 Qg1+ 42. Kc3 a3 43. Rh7+ Kg4 44. Ng6 a2 45. e5 a1=Q+ 46. Kc4 Qc5+ 47. Kb3 Qac3+ 48. Ka4 Q5a5# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/60Isgzmb"]
+[White "Andreastorch"]
+[Black "majik19582"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:06"]
+[WhiteElo "1176"]
+[BlackElo "1697"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+1"]
+[ECO "A00"]
+[Opening "Grob Opening"]
+[TimeControl "300+6"]
+[Termination "Normal"]
+
+1. g4 c5 2. c3 d6 3. g5 f6 4. h4 Bg4 5. Bh3 Bh5 6. Qa4+ Nc6 7. e3 Qc7 8. b3 fxg5 9. hxg5 h6 10. Qc4 hxg5 11. Bf5 Nf6 12. a4 Rg8 13. Qe6 Bf7 14. Nf3 Bxe6 15. Nxg5 Bxf5 16. Nf7 Be4 17. Ke2 Bxh1 18. d4 cxd4 19. exd4 Kxf7 0-1
+

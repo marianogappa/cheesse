@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bHkczKHf"]
+[White "Fleurette"]
+[Black "ZeVe88"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:29"]
+[WhiteElo "1053"]
+[BlackElo "1138"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "C27"]
+[Opening "Vienna Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Bd6 3. Bc4 Qe7 4. Nce2 Nf6 5. c3 a6 6. f3 b5 7. Bb3 Bc5 8. d4 Bb6 9. a3 d5 10. dxe5 Qxe5 11. exd5 c6 12. dxc6 Nxc6 13. Qd3 Bf5 14. Qd2 Rd8 15. Qe3 Bxe3 0-1
+

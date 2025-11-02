@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/ZLY7LdRj"]
+[White "lucianobonfico"]
+[Black "GaryTopalov"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:51"]
+[WhiteElo "2230"]
+[BlackElo "2121"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+16"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Scandinavian Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 d5 3. Bd3 dxe4 4. Bxe4 g6 5. Qe2 Bg7 6. b3 O-O 7. Bb2 c5 8. O-O-O Nc6 9. Bxc6 bxc6 10. d3 Nd5 11. Nb1 Bxb2+ 12. Kxb2 a5 13. a4 Rb8 14. Nf3 Ba6 15. Nfd2 Nb6 16. Nc3 Qd4 17. Nb1 Nxa4+ 18. Ka3 Nxc3 19. Nxc3 Qxc3 20. Rb1 Qb4+ 21. Ka2 a4 22. Qe1 axb3+ 23. Rxb3 Qa4+ 24. Kb2 Rxb3+ 25. cxb3 Rb8 26. Qc3 c4 27. dxc4 Bxc4 28. Kc2 Qa2+ 29. Qb2 Bxb3+ 30. Kc3 Qa5+ 31. Kd4 Rd8+ 32. Ke3 Qc5+ 33. Kf3 Rd3+ 34. Kg4 Qh5+ 35. Kf4 Qf5# 0-1
+

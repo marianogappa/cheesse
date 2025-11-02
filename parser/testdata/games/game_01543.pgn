@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/XRO0NMzi"]
+[White "pawJasi"]
+[Black "Artaud73"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:46"]
+[WhiteElo "1452"]
+[BlackElo "1439"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 c5 6. Qe3 d5 7. e5 d4 8. Qe4 g6 9. Bg5 Be7 10. Bxe7 Qxe7 11. Bb5+ Bd7 12. Qxb7 Qxe5+ 13. Be2 Rb8 14. Qxa7 d3 15. cxd3 Qxb2 16. O-O Rb7 17. Qa3 Qxa1 18. Qa8+ Ke7 19. Qxb7 Qxa2 20. Nc3 Qd2 21. Nd5+ Kd6 22. Bf3 Qxd3 23. Ne3 Ne7 24. Rd1 c4 25. Rxd3+ cxd3 26. Nc4+ Kc5 27. Ne5 Rc8 28. Nxd3+ Kd4 29. Qxd7+ Nd5 30. Qxd5+ Kc3 31. Nc5 Kb4 32. Na6+ Ka4 33. Bd1+ Ka3 34. Qb3# 1-0
+

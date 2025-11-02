@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/rzV1WLf3"]
+[White "youngsizar"]
+[Black "igor051158"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:22"]
+[WhiteElo "1886"]
+[BlackElo "2056"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+9"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 g6 7. f4 Bg7 8. Be2 O-O 9. Be3 b5 10. Qd2 b4 11. Na4 Nxe4 12. Qxb4 Ng3 13. Rg1 Nxe2 14. Nxe2 a5 15. Qd2 Nc6 16. O-O-O Rb8 17. Nac3 Nb4 18. a3 Na2+ 19. Kb1 Be6 20. Nd4 Nxc3+ 21. Qxc3 Bd7 22. Qc4 Qb6 23. b3 Rfc8 24. Qd3 Qb7 25. f5 Bxd4 26. Bxd4 Bxf5 27. Qe3 Bxc2+ 28. Ka1 Bxd1 29. Qh6 e5 30. Rxd1 0-1
+

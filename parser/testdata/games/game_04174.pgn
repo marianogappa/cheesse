@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/DhcPbuME"]
+[White "rodolfobolso"]
+[Black "InternetPawnStar"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:53"]
+[WhiteElo "1275"]
+[BlackElo "1213"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "600+2"]
+[Termination "Normal"]
+
+1. e4 d5 2. d3 e6 3. f3 Nf6 4. c3 Nc6 5. d4 dxe4 6. f4 Nd5 7. Bd2 e3 8. Bc1 f5 9. Bb5 Qh4+ 10. g3 Qe7 11. Bxc6+ bxc6 12. c4 Nb4 13. Bxe3 Ba6 14. a3 Bxc4 15. axb4 Qxb4+ 16. Qd2 Qxd2+ 17. Bxd2 Rb8 18. b4 Bxb4 19. Bxb4 Rxb4 20. Nd2 Bd3 21. Ra3 Rxd4 22. Rb3 O-O 23. Ngf3 Rd5 24. Ne5 Ba6 25. Ndf3 h6 26. Nxc6 g5 27. Ne7+ Kg7 28. Nxd5 exd5 29. fxg5 hxg5 30. Nxg5 Re8+ 31. Kd2 Bc4 32. Rb7 Re2+ 33. Kc3 Ba2 34. Rxc7+ Kg6 35. Nf3 a5 36. Ra1 Re3+ 37. Kd4 Rxf3 38. Rxa2 f4 39. gxf4 Rxf4+ 40. Kxd5 Rf5+ 41. Ke4 Kf6 42. Rc6+ Kg5 43. Rg2+ Kh5 44. Kxf5 Kh4 45. Rc4+ Kh3 46. Rg8 Kxh2 47. Rh4# 1-0
+

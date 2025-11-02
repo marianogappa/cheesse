@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/z3AWkgqK"]
+[White "destruye"]
+[Black "johnniewalkerblack"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:35"]
+[WhiteElo "1635"]
+[BlackElo "1935"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-20"]
+[ECO "E76"]
+[Opening "King's Indian Defense: Four Pawns Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. e5 dxe5 8. fxe5 cxd4 9. exf6 dxc3 10. Qxd8 Rxd8 11. fxg7 Kxg7 12. Be2 cxb2 13. Bxb2+ f6 14. O-O Bg4 15. h3 Bxf3 16. Bxf3 Nc6 17. Rad1 Rdc8 18. Rd7 Kf7 19. Rxb7 Na5 20. Rd7 Nxc4 21. Bxa8 Nxb2 22. Bd5+ Ke8 23. Be6 Rc6 24. Bg4 f5 25. Bxf5 gxf5 26. Rxa7 Rf6 27. Re1 Rf7 28. a4 Nd3 29. Re6 Nc5 30. Rc6 Kf8 31. Rxc5 Kg7 32. a5 h6 33. a6 Rf6 34. Rxe7+ Kg6 35. a7 Ra6 36. Rc8 Kf6 37. Rh7 Kg6 38. Rb7 Ra1+ 39. Kh2 Kg5 40. a8=Q Rxa8 41. Rxa8 Kf4 42. Rb4+ Kg5 43. Ra5 h5 44. Kg3 Kg6 45. Kf4 Kf6 46. Rb6+ Ke7 47. Ra7+ 1-0
+

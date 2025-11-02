@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ugq7ZZHj"]
+[White "nibels"]
+[Black "koala2588"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:11"]
+[WhiteElo "1514"]
+[BlackElo "1539"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Accelerated Panov Attack, Modern Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Bc4 Nxd5 6. Bxd5 Qxd5 7. Nc3 Qd3 8. Nge2 Bg4 9. O-O Nc6 10. f3 Bf5 11. Ng3 Bg6 12. Re1 O-O-O 13. Re3 Qd4 14. Kh1 Nb4 15. Nce4 Qxe3 16. Qa4 Qe1+ 0-1
+

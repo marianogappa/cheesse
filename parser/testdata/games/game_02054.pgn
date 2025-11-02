@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/k4i3xOev"]
+[White "Legate"]
+[Black "gasel"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:43"]
+[WhiteElo "2049"]
+[BlackElo "1943"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+[ECO "D06"]
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+[TimeControl "30+2"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 dxc4 4. Bg5 Nbd7 5. Nf3 h6 6. Bh4 g5 7. Bg3 Nh5 8. e3 Nxg3 9. hxg3 Bg7 10. Bxc4 e5 11. dxe5 Nxe5 12. Qxd8+ Kxd8 13. Nxe5 Bxe5 14. Bxf7 Ke7 15. Bd5 c6 16. Bf3 Be6 17. Kd2 Rad8+ 18. Kc2 Rd7 19. g4 Kf6 20. a3 Kg7 21. Rad1 Rhd8 22. Rxd7+ Rxd7 23. Rd1 Rxd1 24. Bxd1 b6 25. Bf3 c5 26. Ne4 a6 27. Ng3 Bf7 28. Nf5+ Kh7 29. Be4 Bg6 30. f3 1-0
+

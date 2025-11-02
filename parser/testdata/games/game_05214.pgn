@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/NOijKI6y"]
+[White "Lili999"]
+[Black "falerito"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:02"]
+[WhiteElo "1879"]
+[BlackElo "2281"]
+[WhiteRatingDiff "+22"]
+[BlackRatingDiff "-25"]
+[ECO "A48"]
+[Opening "Torre Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. e3 d6 5. Bd3 O-O 6. Nbd2 c6 7. c3 b6 8. h4 Ba6 9. Bxa6 Nxa6 10. Qa4 Nc7 11. h5 b5 12. Qc2 Ne6 13. hxg6 hxg6 14. O-O-O a5 15. Rh4 a4 16. Rdh1 Qb6 17. Bh6 a3 18. b3 Rfc8 19. Bxg7 Kxg7 20. Ne4 c5 21. Nxf6 exf6 22. Rh7+ Kf8 23. d5 Nc7 24. Qe4 Ne6 25. dxe6 d5 26. Rxf7+ Ke8 27. Rh8# 1-0
+

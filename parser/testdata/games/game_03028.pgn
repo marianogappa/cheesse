@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/7dNrm24s"]
+[White "alfiererosanero"]
+[Black "kurzeme"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:21"]
+[WhiteElo "1839"]
+[BlackElo "1918"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+
+1. e4 c6 2. f4 d5 3. e5 Bf5 4. Nf3 e6 5. d3 c5 6. c3 Nc6 7. Be2 d4 8. O-O dxc3 9. Nxc3 f6 10. Ne4 fxe5 11. fxe5 Bxe4 12. dxe4 Qxd1 13. Rxd1 Be7 14. Ng5 Bxg5 15. Bxg5 Nge7 16. Rf1 Nxe5 17. Bb5+ N7c6 18. Rad1 Rf8 19. Rxf8+ Kxf8 20. Rd6 h6 21. Bh4 g5 22. Bg3 Ke7 23. Bxe5 Nxe5 24. Rd1 Rd8 25. Rxd8 Kxd8 26. Kf2 a6 27. Be2 b5 28. Ke3 Kd7 29. g3 Kd6 30. Bf1 Nc6 31. Bd3 Ke5 32. b3 Nd4 33. h3 Nc6 34. Bc2 Nb4 35. Bb1 Nc6 36. Bd3 Nd8 37. Bc2 Nf7 38. Bd3 Nd6 39. Bc2 c4 40. bxc4 Nxc4+ 41. Kd3 Nb2+ 42. Kc3 Nc4 43. Kd3 Kd6 44. Bb3 Nb6 45. Kd4 e5+ 46. Ke3 Kc5 47. Kd3 a5 48. Bf7 a4 49. Kc3 b4+ 50. Kb2 Nc4+ 51. Kc2 Ne3+ 52. Kd3 Nf1 53. g4 Kb5 54. Bd5 Kc5 55. Be6 Ng3 56. Bd5 h5 57. Be6 h4 58. Bd5 Nh1 59. Ke3 Ng3 60. Be6 Kb5 61. Bd5 Nf1+ 62. Kd3 Kc5 63. Be6 Ng3 64. Bd5 Nh1 65. Ke3 Kb5 66. Be6 a3 67. Bb3 Kc5 68. Kd3 Nf2+ 69. Ke3 Nxh3 70. Kf3 Nf4 71. Be6 Kd4 72. Bb3 Nd3 73. Ke2 Nc5 74. Kd2 Nxe4+ 75. Ke2 Nf6 76. Kf3 e4+ 77. Kg2 Nxg4 78. Kh3 Nf6 79. Kg2 g4 80. Kh2 h3 81. Kg3 e3 82. Be6 Kc3 83. Bxg4 Nxg4 84. Kxh3 Nf2+ 85. Kg2 Kd2 86. Kf1 Nd3 87. Kg2 Nc1 88. Kf3 Nxa2 89. Ke4 Nc3+ 90. Kd4 b3 91. Kc4 b2 92. Kb3 b1=Q+ 93. Kxa3 Nb5+ 94. Ka4 Nd6 95. Ka3 Qb8 96. Ka4 Kc3 97. Ka5 Qb5# 0-1
+

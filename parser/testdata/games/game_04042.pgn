@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/E7COI8ZR"]
+[White "Legate"]
+[Black "gasel"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:24"]
+[WhiteElo "2066"]
+[BlackElo "1929"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[ECO "D10"]
+[Opening "Slav Defense #2"]
+[TimeControl "30+2"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Bg5 h6 5. Bh4 Nbd7 6. Nf3 e6 7. e3 Bb4 8. Qb3 Bxc3+ 9. bxc3 b6 10. Bd3 O-O 11. Ne5 Bb7 12. Nxd7 Qxd7 13. Bxf6 gxf6 14. cxd5 cxd5 15. O-O f5 16. Qd1 Qe7 17. f4 Qf6 18. Rf3 Rac8 19. Rc1 Kh7 20. h3 Rg8 21. Kh2 Rg6 22. Qe1 Rcg8 23. Rc2 Qg7 24. g4 fxg4 25. hxg4 Kh8 26. Bxg6 fxg6 27. Rh3 Bc8 28. Qh4 Kh7 29. a4 Rf8 30. Rg3 Bd7 31. Ra2 g5 32. fxg5 Qxg5 33. Qxg5 hxg5 34. Kg2 Kg6 35. Rf3 Rc8 36. Ra3 Be8 37. Kg3 Kg7 38. Rf2 Bg6 39. Rb2 Be4 40. a5 bxa5 41. Rf2 a4 42. Rb2 a5 43. Rb7+ Kg6 44. Rb6 Kf6 45. Rxa4 Rxc3 46. Rxa5 Rxe3+ 47. Kf2 Rf3+ 48. Ke2 Rf4 49. Raa6 Rxg4 50. Rxe6+ Kf5 51. Re5+ Kf4 52. Rf6+ Kg3 53. Rf8 Rf4 54. Rxg5+ Kh4 55. Rxf4+ Kxg5 56. Ke3 Bg2 57. Rf2 Be4 58. Kd2 Kg4 59. Rf8 Kg5 60. Kc3 Kg4 61. Kb4 Kg5 62. Kc5 Kg4 63. Kd6 Kg5 64. Ke5 Kg6 65. Rf6+ Kg5 66. Rd6 Bg2 67. Rxd5 Bxd5 68. Kxd5 Kf6 69. Kd6 Kf7 70. d5 Ke8 71. Kc7 Ke7 72. d6+ 1-0
+

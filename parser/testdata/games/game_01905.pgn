@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/YnQ9tbny"]
+[White "ujang70"]
+[Black "miler"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:09"]
+[WhiteElo "1902"]
+[BlackElo "1932"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense #2"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Bd3 dxe4 4. Bxe4 Nf6 5. Bf3 Bf5 6. Ne2 e6 7. c3 Nbd7 8. Bg5 Qc7 9. Nd2 Bd6 10. Ng3 Bg6 11. O-O O-O 12. Nc4 Bf4 13. Bxf4 Qxf4 14. Re1 Rfe8 15. Qb3 Qc7 16. Rad1 Rad8 17. Ne5 Nxe5 18. Rxe5 Nd5 19. Bxd5 cxd5 20. Rde1 a6 21. Rxd5 exd5 22. Rxe8+ Rxe8 23. Qxd5 Re1+ 24. Nf1 Bd3 25. Qe5 Rxf1# 0-1
+

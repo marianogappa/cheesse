@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/V87DqVv1"]
+[White "FuturechessGM27"]
+[Black "macclassic"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:43"]
+[WhiteElo "2046"]
+[BlackElo "1922"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+14"]
+[ECO "C41"]
+[Opening "Philidor Defense: Lion Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nf3 Nf6 3. Nc3 Nbd7 4. d4 e5 5. dxe5 dxe5 6. Be2 Be7 7. O-O c6 8. Bg5 Qc7 9. Nh4 g6 10. Nf3 h6 11. Be3 Nf8 12. Qd2 g5 13. h3 Ng6 14. Rad1 Bd7 15. Nh2 Nf4 16. Bxf4 gxf4 17. Ng4 Nxg4 18. hxg4 Rg8 19. f3 h5 20. gxh5 Rd8 21. Qe1 Bh3 22. Rf2 Bh4 23. Rxd8+ Qxd8 24. Kh2 Bxf2 25. Qxf2 Rxg2+ 26. Qxg2 Bxg2 27. Kxg2 Qg5+ 28. Kf2 Qxh5 29. Bc4 Qh2+ 30. Ke1 Qxc2 31. Bb3 Qxb2 32. Nd1 Qd4 33. Ke2 b5 34. Bc2 c5 35. Bd3 c4 36. Bc2 b4 37. Ba4+ Ke7 38. Nf2 Qe3+ 39. Kf1 c3 40. Kg2 Qe2 41. Bb3 c2 42. Bxc2 Qxc2 43. Kh3 Qxa2 44. Kg4 Qxf2 45. Kf5 Qd4 46. Kg4 b3 47. Kf5 b2 48. Kg4 b1=Q 49. Kf5 Qbd3 50. Kg4 Q3e3 51. Kf5 Qdd2 52. Kg4 Qg2+ 53. Kf5 Qexf3 54. Kxe5 Qxe4# 0-1
+

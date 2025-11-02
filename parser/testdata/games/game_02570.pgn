@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/CLjLedVM"]
+[White "yangxiaoxian"]
+[Black "AlexisArsenal"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:46"]
+[WhiteElo "2220"]
+[BlackElo "2100"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+13"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Accelerated Panov Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. c4 c6 2. e4 Nf6 3. Nc3 d6 4. d4 g6 5. Nf3 Bg7 6. Be2 Bg4 7. Be3 Nbd7 8. h3 Bxf3 9. Bxf3 e5 10. d5 cxd5 11. cxd5 O-O 12. Be2 a6 13. O-O b5 14. f4 exf4 15. Rxf4 Ne5 16. Qc2 Rc8 17. a3 Qe7 18. Qb1 Bh6 19. Kh1 Bxf4 20. Bxf4 Nc4 21. Bxc4 Rxc4 22. Bg5 Qe5 23. Bxf6 Qxf6 24. Qd3 Rfc8 25. Re1 b4 26. axb4 Rxb4 27. Re2 Rcb8 28. Kh2 Rxb2 29. Rxb2 Rxb2 30. Ne2 Qe5+ 31. Ng3 a5 32. h4 a4 33. Kh3 Rb3 34. Qa6 Qxg3# 0-1
+

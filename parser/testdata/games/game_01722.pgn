@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/q70gahRZ"]
+[White "dark_wolf92"]
+[Black "Robertsun"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:22"]
+[WhiteElo "1925"]
+[BlackElo "2179"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[ECO "D11"]
+[Opening "Slav Defense: Modern"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.28] } 1... d5 { [%eval 0.27] } 2. c4 { [%eval 0.15] } 2... c6 { [%eval 0.38] } 3. Nf3 { [%eval 0.35] } 3... Nf6 { [%eval 0.4] } 4. g3 { [%eval 0.0] } 4... dxc4 { [%eval 0.17] } 5. Bg2 { [%eval 0.2] } 5... b5 { [%eval 0.11] } 6. a4 { [%eval 0.0] } 6... Bb7 { [%eval 0.07] } 7. axb5 { [%eval -0.34] } 7... cxb5 { [%eval -0.19] } 8. O-O { [%eval -0.67] } 8... e6 { [%eval -0.58] } 9. b3 { [%eval -0.85] } 9... cxb3 { [%eval -0.63] } 10. Qxb3 { [%eval -0.61] } 10... a6 { [%eval -0.72] } 11. Nc3 { [%eval -0.82] } 11... Nbd7 { [%eval -0.6] } 12. Rd1 { [%eval -0.92] } 12... Be7 { [%eval -0.83] } 13. Bf4 { [%eval -1.26] } 13... O-O { [%eval -1.31] } 14. e4 { [%eval -1.29] } 14... Nxe4 { [%eval -1.1] } 15. Nxe4? { [%eval -2.51] } 15... Bxe4 { [%eval -2.37] } 16. Ra3? { [%eval -4.7] } 16... Nb6? { [%eval -2.75] } 17. Ra2? { [%eval -4.49] } 17... Bd5 { [%eval -4.35] } 18. Qb2?! { [%eval -5.23] } 18... Bxa2?! { [%eval -4.26] } 19. Qxa2 { [%eval -4.28] } 19... Qd5?! { [%eval -3.31] } 20. Qe2 { [%eval -3.47] } 20... Qc4 { [%eval -3.46] } 21. Qd2 { [%eval -3.82] } 21... Nd5 { [%eval -3.72] } 22. Be5? { [%eval -5.32] } 22... Bb4 { [%eval -5.08] } 23. Qg5 { [%eval -5.52] } 23... f6 { [%eval -5.47] } 24. Bxf6? { [%eval -7.33] } 24... Nxf6? { [%eval -6.19] } 25. Ne5 { [%eval -6.65] } 25... Qc2 { [%eval -6.42] } 26. Rf1?! { [%eval -7.23] } 26... Qf5? { [%eval -5.94] } 27. Qe3 { [%eval -6.05] } 27... Rad8 { [%eval -5.66] } 28. Nc6 { [%eval -5.54] } 28... Nd5? { [%eval -4.07] } 29. Qb3? { [%eval -5.76] } 29... Bd6? { [%eval -4.63] } 30. Nxd8 { [%eval -4.68] } 30... Rxd8 { [%eval -4.57] } 31. g4?? { [%eval -7.87] } 31... Qxg4 { [%eval -7.62] } 32. h3? { [%eval -8.7] } 32... Qf4 { [%eval -8.41] } 33. Rc1? { [%eval #-10] } 33... Qh2+? { [%eval -9.57] } 34. Kf1 { [%eval -9.23] } 34... Rf8 { [%eval -8.69] } 35. Qg3? { [%eval #-6] } 35... Bxg3 { [%eval #-6] } 0-1
+

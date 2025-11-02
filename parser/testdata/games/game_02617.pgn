@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jrfovZej"]
+[White "Fofka"]
+[Black "Cabballero"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:50"]
+[WhiteElo "1430"]
+[BlackElo "1458"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.15] } 1... e5 { [%eval 0.19] } 2. Nf3 { [%eval 0.3] } 2... Nc6 { [%eval 0.32] } 3. Bc4 { [%eval 0.2] } 3... Bc5 { [%eval 0.22] } 4. d3 { [%eval 0.2] } 4... Nf6 { [%eval 0.24] } 5. Bg5 { [%eval 0.12] } 5... Be7 { [%eval 0.28] } 6. O-O { [%eval 0.18] } 6... Na5?! { [%eval 0.92] } 7. Bb3?! { [%eval 0.08] } 7... Nxb3 { [%eval 0.16] } 8. axb3 { [%eval 0.08] } 8... d6 { [%eval 0.13] } 9. Nc3 { [%eval 0.13] } 9... c6 { [%eval 0.31] } 10. Nh4?! { [%eval -0.43] } 10... b5?! { [%eval 0.07] } 11. Nf5 { [%eval 0.0] } 11... Bxf5 { [%eval 0.07] } 12. exf5 { [%eval -0.02] } 12... b4 { [%eval 0.13] } 13. Ne4 { [%eval 0.0] } 13... Nxe4 { [%eval 0.43] } 14. dxe4?? { [%eval -3.46] } 14... Bxg5 { [%eval -3.34] } 15. Qg4 { [%eval -3.7] } 15... Bf6 { [%eval -3.32] } 16. f4? { [%eval -5.42] } 16... a5?! { [%eval -4.89] } 17. fxe5 { [%eval -5.18] } 17... dxe5?! { [%eval -4.6] } 18. Rfd1 { [%eval -4.48] } 18... Qe7 { [%eval -4.15] } 19. Rd3?! { [%eval -5.08] } 19... O-O?! { [%eval -4.28] } 20. Rad1? { [%eval -5.33] } 20... Rad8?! { [%eval -4.52] } 21. Qf3 { [%eval -4.59] } 21... Qc5+ { [%eval -4.48] } 22. Kh1? { [%eval -7.37] } 22... Qxc2 { [%eval -7.22] } 23. Rxd8? { [%eval -8.44] } 23... Bxd8? { [%eval -6.46] } 24. h3?! { [%eval -7.22] } 24... Bf6 { [%eval -6.85] } 25. Qf1? { [%eval -8.13] } 25... Qxb2?! { [%eval -7.14] } 26. Rb1? { [%eval -8.98] } 26... Qd4?! { [%eval -8.09] } 27. Qe1 { [%eval -8.31] } 27... Rd8 { [%eval -7.97] } 28. Kh2? { [%eval -9.37] } 28... c5 { [%eval -9.0] } 29. Ra1? { [%eval -10.56] } 29... Bg5 { [%eval -9.75] } 30. Rxa5 { [%eval -10.74] } 30... Bf4+ { [%eval -10.4] } 31. Kh1 { [%eval -10.26] } 31... h5 { [%eval -9.62] } 0-1
+

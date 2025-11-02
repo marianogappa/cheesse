@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nBAQ09zH"]
+[White "syudi"]
+[Black "xkef"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:58"]
+[WhiteElo "1729"]
+[BlackElo "1895"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-16"]
+[ECO "A00"]
+[Opening "Van Geet Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nc3 c5 2. Nf3 Nc6 3. e3 g6 4. g3 Bg7 5. Bg2 Nf6 6. O-O O-O 7. b3 d5 8. Rb1 Bg4 9. Ba3 b6 10. Ne2 Rc8 11. Bb2 Qd7 12. Qe1 Bh3 13. Nf4 Bxg2 14. Kxg2 Rfe8 15. Ne5 Qf5 16. Nxc6 Rxc6 17. d3 e5 18. Ne2 e4 19. d4 Qf3+ 20. Kg1 Ng4 21. Nf4 Nf6 22. dxc5 bxc5 23. Qd1 Qxd1 24. Rfxd1 Rd8 25. Bxf6 Bxf6 26. Nxd5 Rdd6 27. c4 Bd8 28. Rd2 Ra6 29. Kg2 Rd7 30. Nf6+ Bxf6 31. Rxd7 Rxa2 32. b4 cxb4 33. Rxb4 Bg5 34. Rb3 a5 35. c5 Rc2 36. Rb5 Bxe3 37. Rxa5 Rxf2+ 38. Kh3 Rf5 39. Ra8+ Kg7 40. c6 Rc5 41. c7 Bg5 1-0
+

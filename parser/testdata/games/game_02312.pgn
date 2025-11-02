@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KQQPwDnQ"]
+[White "uareterrible"]
+[Black "Sufi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:49"]
+[WhiteElo "1295"]
+[BlackElo "1361"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 Nc6 4. Bb5 Bg4 5. Nf3 Bxf3 6. gxf3 Qd7 7. Nc3 a6 8. Ba4 b5 9. Bb3 a5 10. a4 b4 11. Nb5 Na7 12. Nxc7+ Kd8 13. Nxa8 Nh5 14. Bc7+ Qxc7 15. Nxc7 Kxc7 16. f4 Nf6 1-0
+

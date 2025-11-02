@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/6MdRpWyX"]
+[White "sossa_bang"]
+[Black "idiota2"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:07"]
+[WhiteElo "1335"]
+[BlackElo "1533"]
+[WhiteRatingDiff "-63"]
+[BlackRatingDiff "+6"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Krejcik Variation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Bc4 e6 3. e5 Nd5 4. Nf3 d6 5. O-O Nc6 6. exd6 Bxd6 7. d4 O-O 8. Nc3 Nxc3 9. bxc3 Ne7 10. d5 exd5 11. Bxd5 Nxd5 12. Qxd5 Bxh2+ 13. Kxh2 Qxd5 0-1
+

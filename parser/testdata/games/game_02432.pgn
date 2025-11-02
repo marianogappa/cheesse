@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yEDAvuj1"]
+[White "chesschamp123"]
+[Black "hoddi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:18"]
+[WhiteElo "1494"]
+[BlackElo "1607"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-14"]
+[ECO "E32"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+[TimeControl "120+2"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 O-O 5. Bg5 Be7 6. e4 d6 7. O-O-O b6 8. e5 Nfd7 9. Qe4 Bxg5+ 10. f4 d5 11. cxd5 Bh6 12. dxe6 Bxf4+ 13. Qxf4 fxe6 14. Qe4 c6 15. Bd3 Bb7 16. Qxh7+ Kf7 17. Bg6+ Ke7 18. Qh4+ Nf6 19. exf6+ Rxf6 20. Rf1 Qf8 21. Ne4 c5 22. Nxf6 gxf6 23. Nf3 Nd7 24. dxc5 Nxc5 25. Qh7+ Kd8 26. Rd1+ Bd5 27. Be4 Rc8 28. Kb1 Nxe4 29. Qxe4 Ke8 30. Rxd5 Qf7 31. Re1 Rc6 32. Rd2 Ke7 33. Rc2 Rd6 34. Qb7+ Rd7 35. Rc7 Qg6+ 36. Ka1 Rxc7 37. Qxc7+ Kf8 38. Rxe6 Qd3 39. Qc8+ Kf7 40. Qd7+ Kg6 41. Qxd3+ 1-0
+

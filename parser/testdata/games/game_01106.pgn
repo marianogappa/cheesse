@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iuUCJEjD"]
+[White "alwld67"]
+[Black "klln"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:04"]
+[WhiteElo "1562"]
+[BlackElo "1527"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.25] } 1... c5 { [%eval 0.38] } 2. Nf3 { [%eval 0.31] } 2... d6 { [%eval 0.35] } 3. d4 { [%eval 0.41] } 3... cxd4 { [%eval 0.35] } 4. Nxd4 { [%eval 0.33] } 4... Nf6 { [%eval 0.25] } 5. Nc3 { [%eval 0.3] } 5... a6 { [%eval 0.37] } 6. Be3 { [%eval 0.17] } 6... e5 { [%eval 0.27] } 7. Nb3 { [%eval 0.23] } 7... Nbd7 { [%eval 0.49] } 8. f3 { [%eval 0.55] } 8... b5?! { [%eval 1.12] } 9. g4?! { [%eval 0.15] } 9... b4 { [%eval 0.22] } 10. Ne2 { [%eval -0.13] } 10... a5?! { [%eval 0.79] } 11. a3? { [%eval -0.66] } 11... a4? { [%eval 1.14] } 12. Nd2? { [%eval -0.97] } 12... d5 { [%eval -0.6] } 13. g5?! { [%eval -1.21] } 13... d4 { [%eval -1.08] } 14. Bf2 { [%eval -1.03] } 14... Nh5 { [%eval -0.97] } 15. h4?! { [%eval -1.65] } 15... Rb8?! { [%eval -0.66] } 16. Ng3?! { [%eval -1.26] } 16... Nf4 { [%eval -1.37] } 17. Nc4? { [%eval -2.64] } 17... Nc5? { [%eval 0.06] } 18. axb4 { [%eval -0.14] } 18... Rxb4 { [%eval 0.24] } 19. Nxe5 { [%eval 0.32] } 19... Rxb2? { [%eval 1.76] } 20. Bxd4?! { [%eval 0.98] } 20... Qa5+? { [%eval 2.19] } 21. c3?? { [%eval -2.21] } 21... Ncd3+?? { [%eval 5.45] } 22. Bxd3? { [%eval 3.07] } 22... Nxd3+?? { [%eval 7.51] } 23. Qxd3? { [%eval 5.7] } 23... Ba6 { [%eval 5.74] } 24. Nc4?? { [%eval 2.41] } 24... Qc7 { [%eval 2.43] } 25. O-O?? { [%eval #-2] } 25... Bxc4?! { [%eval -12.52] } 26. Qe3?! { [%eval #-2] } 26... Bxf1?? { [%eval -0.9] } 27. Nf5?? { [%eval -13.8] } 27... Rg2+?! { [%eval -9.11] } 28. Kxf1 { [%eval -7.54] } 28... Qc4+?? { [%eval 11.66] } 29. Kxg2 { [%eval 10.37] } 29... a3 { [%eval 14.6] } 30. Rxa3? { [%eval 7.19] } 30... Qb5? { [%eval 61.99] } 31. Ra8+ { [%eval 34.71] } 31... Kd7 { [%eval 25.93] } 32. Qd3?? { [%eval -3.89] } 32... Qb2+?? { [%eval #4] } 33. Kg3?! { [%eval #15] } 33... Qb7 { [%eval #4] } 34. Ra7?! { [%eval #7] } 34... Qxa7 { [%eval #7] } 35. Bxa7+ { [%eval #6] } 35... Kc6 { [%eval #5] } 36. Qd5+?! { [%eval #5] } 36... Kc7 { [%eval #5] } 37. Bc5?! { [%eval #7] } 37... Bxc5 { [%eval #7] } 38. Qxc5+ { [%eval #6] } 38... Kd7 { [%eval #6] } 39. Qe7+ { [%eval #7] } 39... Kc6 { [%eval #7] } 40. Qxf7?! { [%eval 125.77] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/pKzfYGq7"]
+[White "chessgeorge"]
+[Black "killer_boy"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:26"]
+[WhiteElo "1549"]
+[BlackElo "1497"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Felbecker Gambit"]
+[TimeControl "300+10"]
+[Termination "Time forfeit"]
+
+1. d4 Nc6 2. Nf3 e5 3. dxe5 Bc5 4. g3 Qe7 5. Bf4 Nh6 6. Bg2 Ng4 7. Nc3 Nxf2 8. Qd2 O-O 9. Rf1 Bb6 10. e3 Ng4 11. Nd5 Qe6 12. Nxb6 axb6 13. Ng5 Qg6 14. Be4 Qh5 15. h4 Ra4 16. Qc3 Rxe4 17. Nxe4 g5 18. Nxg5 d5 19. exd6 cxd6 20. O-O-O Qg6 21. Rxd6 Qf5 22. Rfd1 f6 23. Nf3 Be6 24. Kb1 b5 25. Nd4 Bxa2+ 26. Kxa2 b4 27. Qb3+ Kg7 28. Nxc6 Ra8+ 29. Kb1 Nf2 30. R1d5 Qh3 31. Rd7+ Kg6 32. h5+ Qxh5 33. Rxh5 1-0
+

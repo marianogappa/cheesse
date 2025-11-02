@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/2LAZmsqa"]
+[White "AligiereTensa"]
+[Black "shooky"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:18"]
+[WhiteElo "1204"]
+[BlackElo "1174"]
+[WhiteRatingDiff "-42"]
+[BlackRatingDiff "+11"]
+[ECO "C20"]
+[Opening "Portuguese Opening"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bb5 Qh4 3. Bxd7+ Bxd7 4. d3 Bc5 5. Nf3 Qxf2# 0-1
+

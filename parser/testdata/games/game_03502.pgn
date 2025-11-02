@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7r996skG"]
+[White "ardp1955"]
+[Black "Maxou971"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:23"]
+[WhiteElo "1245"]
+[BlackElo "1181"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense #2"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d4 exd4 5. Bc4 Nxe4 6. O-O d5 7. Bb5 a6 8. Ba4 b5 9. Bb3 Bd6 10. Re1 O-O 11. Bxd5 1-0
+

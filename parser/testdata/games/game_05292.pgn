@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/h9mBwGJh"]
+[White "videth"]
+[Black "gameofclowns"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:22"]
+[WhiteElo "1401"]
+[BlackElo "1222"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-8"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. g3 e5 2. Bg2 f5 3. b3 Nc6 4. Bb2 d5 5. Nf3 e4 6. Ne5 Nxe5 7. Bxe5 Bd6 8. Bxg7 Nf6 9. Bxh8 Be5 10. c3 Kf7 11. Bxf6 Bxf6 12. d3 d4 13. dxe4 dxc3 14. Qxd8 Bxd8 15. Nxc3 Bf6 16. Rc1 b5 17. exf5 Bxf5 18. Nxb5 c6 19. Nd6+ Ke6 20. Nxf5 Kxf5 21. Rxc6 Re8 22. Rc5+ Kg6 23. O-O Bd4 24. Rc6+ Bf6 25. e3 Re5 26. Rd1 a5 27. Rdd6 Rf5 28. g4 Rg5 29. Rxf6+ Kg7 30. f3 Rg6 31. Rxg6+ hxg6 32. e4 a4 33. bxa4 Kh6 34. a5 Kg5 35. a6 Kh4 36. a7 g5 37. Rh6# 1-0
+

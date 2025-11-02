@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hbgBiAjP"]
+[White "Inskrypt"]
+[Black "KavalierZen"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:16"]
+[WhiteElo "1871"]
+[BlackElo "1869"]
+[WhiteRatingDiff "+40"]
+[BlackRatingDiff "-10"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. f4 { [%eval -0.22] } 1... d6 { [%eval 0.11] } 2. Nf3 { [%eval -0.1] } 2... g6 { [%eval 0.34] } 3. e3 { [%eval -0.07] } 3... Bg7 { [%eval 0.17] } 4. Nc3 { [%eval -0.17] } 4... Bg4?! { [%eval 0.48] } 5. h3 { [%eval 0.45] } 5... Bxf3 { [%eval 0.47] } 6. Qxf3 { [%eval 0.43] } 6... c6 { [%eval 0.68] } 7. d4 { [%eval 0.62] } 7... Nd7 { [%eval 0.73] } 8. Be2 { [%eval 0.6] } 8... Nh6 { [%eval 0.98] } 9. g4 { [%eval 0.6] } 9... O-O?! { [%eval 1.53] } 10. Bd2 { [%eval 1.11] } 10... f5?! { [%eval 1.7] } 11. gxf5?! { [%eval 0.74] } 11... Nxf5 { [%eval 1.0] } 12. O-O-O { [%eval 0.61] } 12... Qc7?! { [%eval 1.41] } 13. h4 { [%eval 1.31] } 13... e5? { [%eval 2.98] } 14. h5?! { [%eval 2.05] } 14... exd4 { [%eval 2.16] } 15. hxg6 { [%eval 2.4] } 15... dxc3?? { [%eval 8.24] } 16. gxh7+?? { [%eval -2.6] } 16... Kh8 { [%eval -2.31] } 17. Bxc3 { [%eval -1.96] } 17... Bxc3 { [%eval -2.43] } 18. bxc3 { [%eval -2.47] } 18... Qb6? { [%eval -1.3] } 19. e4 { [%eval -1.21] } 19... Qe3+ { [%eval -1.04] } 20. Qxe3 { [%eval -1.2] } 20... Nxe3 { [%eval -1.16] } 21. Rxd6 { [%eval -1.18] } 21... Nf6 { [%eval -0.87] } 22. Bf3 { [%eval -1.06] } 22... Rad8?! { [%eval -0.25] } 23. e5? { [%eval -2.7] } 23... Rxd6 { [%eval -2.77] } 24. exd6 { [%eval -2.76] } 24... Nf5 { [%eval -2.7] } 25. Rd1 { [%eval -2.82] } 25... Rd8 { [%eval -2.78] } 26. Re1 { [%eval -3.01] } 26... Rxd6 { [%eval -2.62] } 27. Bg2 { [%eval -2.64] } 27... Kxh7?! { [%eval -1.96] } 28. Re5?! { [%eval -2.65] } 28... Rd5?? { [%eval 3.05] } 29. Bxd5 { [%eval 2.66] } 1-0
+

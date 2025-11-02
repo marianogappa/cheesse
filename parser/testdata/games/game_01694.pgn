@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FnIifgrY"]
+[White "fluffyBebo"]
+[Black "Dooby1"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:23"]
+[WhiteElo "1826"]
+[BlackElo "1944"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Maroczy Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. d3 e5 3. Nf3 Bc5 4. Nxe5 d6 5. Nf3 Nc6 6. c3 Bg4 7. Be2 Qe7 8. b4 Bb6 9. a4 a6 10. Nbd2 O-O 11. O-O Rad8 12. h3 Bh5 13. Re1 Qd7 14. Nf1 Rfe8 15. Ng3 Bxf3 16. Bxf3 Ne5 17. Bg5 h6 18. Bxf6 gxf6 19. Nf5 Kh7 20. Qd2 Qxf5 21. exf5 Rg8 22. Bxb7 c6 23. Rxe5 dxe5 24. Bxc6 Rg3 25. Be4 Rdg8 26. c4 Rxh3 27. c5 Ba7 28. Qc3 Rh4 29. b5 axb5 30. axb5 Bb8 31. Ra8 Rhg4 32. c6 Bc7 33. Rxg8 Rxg8 34. Qc5 Rb8 35. Qe7 Bd8 36. Qxf7+ Kh8 37. c7 Bxc7 38. Qxc7 Rxb5 39. Qd8+ Kg7 40. Qe7+ Kg8 41. Qe8+ Kg7 42. Qxb5 h5 43. Qd7+ Kh6 44. Qf7 h4 45. Qg6# 1-0
+

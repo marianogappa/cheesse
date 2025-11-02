@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/spODmtMy"]
+[White "leonardo_loureiro"]
+[Black "chess1981"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:28"]
+[WhiteElo "1603"]
+[BlackElo "1690"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "D06"]
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.27] } 1... d5 { [%eval 0.28] } 2. c4 { [%eval 0.18] } 2... Nf6 { [%eval 0.39] } 3. Nc3 { [%eval 0.18] } 3... c5 { [%eval 0.22] } 4. cxd5 { [%eval 0.09] } 4... cxd4?! { [%eval 0.77] } 5. Qxd4 { [%eval 0.74] } 5... e6 { [%eval 0.82] } 6. e4 { [%eval 0.78] } 6... exd5 { [%eval 0.88] } 7. exd5 { [%eval 0.79] } 7... Nc6? { [%eval 2.71] } 8. Qe3+ { [%eval 2.14] } 8... Qe7? { [%eval 4.19] } 9. dxc6 { [%eval 4.2] } 9... Qxe3+ { [%eval 4.23] } 10. Bxe3 { [%eval 4.21] } 10... Bb4 { [%eval 4.58] } 11. O-O-O?! { [%eval 4.04] } 11... O-O?! { [%eval 4.58] } 12. c7?! { [%eval 3.77] } 12... Bf5? { [%eval 4.77] } 13. Nf3?! { [%eval 4.09] } 13... Rfc8 { [%eval 4.21] } 14. Bf4 { [%eval 3.85] } 14... Ne4?? { [%eval 8.02] } 15. Nxe4 { [%eval 7.88] } 15... Bxe4 { [%eval 8.32] } 16. Bd3?? { [%eval 4.75] } 16... Bxf3 { [%eval 4.79] } 17. gxf3 { [%eval 4.88] } 17... g5?? { [%eval 8.11] } 18. Bg3? { [%eval 5.6] } 18... a5?? { [%eval 10.78] } 19. Bf5 { [%eval 10.6] } 19... Re8 { [%eval 10.6] } 20. h4 { [%eval 10.14] } 20... gxh4 { [%eval 12.97] } 21. Rxh4 { [%eval 12.39] } 21... Re5?! { [%eval #6] } 22. Bg4?! { [%eval 11.69] } 22... Rc5+ { [%eval 12.58] } 23. Kb1 { [%eval 12.14] } 23... Re8 { [%eval 19.74] } 24. Rdh1 { [%eval 10.23] } 24... Re1+ { [%eval 14.22] } 25. Rxe1 { [%eval 13.9] } 25... Bxe1 { [%eval 13.56] } 0-1
+

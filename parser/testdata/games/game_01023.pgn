@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/y2v5zKdN"]
+[White "di360"]
+[Black "phi_18"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:48"]
+[WhiteElo "1399"]
+[BlackElo "1521"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[TimeControl "90+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 Nc6 4. O-O h6 5. e5 dxe5 6. Nc3 Nf6 7. Bxf7+ Kxf7 8. d4 exd4 9. Nb5 a6 10. Na3 e6 11. Bf4 Be7 12. Ne5+ Nxe5 13. Bxe5 Rf8 14. Nc4 Kg8 15. f4 Nd7 16. Bxg7 Kxg7 17. Qg4+ Kh7 18. Qxe6 Rf6 19. Qe4+ Kh8 20. Rae1 Qg8 21. Ne5 Re6 22. Qf5 Nxe5 23. fxe5 Rg6 24. Qh5 Rxg2+ 25. Kh1 Rxc2 26. Qxh6+ Qh7 27. Rf8+ Bxf8 28. Qxf8+ Qg8 29. Qh6+ Qh7 30. Qf6+ Qg7 31. Qh4+ Kg8 32. Rg1 Qxg1+ 33. Kxg1 Bd7 34. Qg5+ Kf7 35. Qf4+ Ke6 36. Qf6+ Kd5 37. Qd6+ Ke4 38. Qxd7 Rg8+ 39. Kf1 Rf8+ 40. Kg1 Kf3 41. Qh3+ Ke4 42. e6 Rg8+ 43. Kh1 Rc1+ 44. Qf1 Rxf1# 0-1
+

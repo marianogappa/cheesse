@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qg1GiynE"]
+[White "mufti"]
+[Black "R10HD"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:59"]
+[WhiteElo "1601"]
+[BlackElo "1710"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-13"]
+[ECO "A04"]
+[Opening "Zukertort Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 Nf6 2. Nc3 Nc6 3. d4 e6 4. e4 Be7 5. a3 d6 6. Bd3 b6 7. Qe2 Bb7 8. Be3 h6 9. O-O-O a5 10. Nd2 d5 11. e5 Nd7 12. f4 Ndb8 13. h4 Ba6 14. g4 Bxd3 15. Qxd3 Nd7 16. g5 hxg5 17. hxg5 Rxh1 18. Rxh1 Bf8 19. f5 exf5 20. Nxd5 Ne7 21. Nf4 g6 22. Rh7 Nb8 23. Qb3 Kd7 24. Rxf7 Kc8 25. Ne6 Qd5 26. Rxf8+ Kb7 27. Nc4 Qxe6 28. Nxa5+ Rxa5 29. Qxe6 Nbc6 30. b4 Rd5 31. c4 Rxd4 32. Bxd4 Nxd4 33. Qxe7 1-0
+

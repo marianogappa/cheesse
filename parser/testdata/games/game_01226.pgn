@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/SsXBIlrl"]
+[White "TheLAZYmd"]
+[Black "Guliaka"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:35"]
+[WhiteElo "1835"]
+[BlackElo "1857"]
+[WhiteRatingDiff "+22"]
+[BlackRatingDiff "-11"]
+[ECO "A65"]
+[Opening "Benoni Defense: King's Pawn Line"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bg5 Bg7 8. f4 O-O 9. Nf3 Re8 10. e5 h6 11. Bb5 Bd7 12. Bxd7 Nbxd7 13. Bxf6 Nxf6 14. O-O dxe5 15. fxe5 Ng4 16. e6 fxe6 17. dxe6 Qxd1 18. Raxd1 Rxe6 19. Rd7 b6 20. Rfd1 Ne3 21. R1d2 Nc4 22. Rd1 Nxb2 23. R1d6 Rxd6 24. Rxd6 Bxc3 25. Rxg6+ Kh7 26. Rc6 Bd4+ 27. Kh1 Nd3 28. h3 Nf2+ 29. Kh2 Ne4 30. Rc7+ Kg6 31. Nxd4 cxd4 32. Rc6+ Kf5 33. g4+ Ke5 34. Rxh6 Kd5 35. Rh7 d3 36. Rd7+ Nd6 37. Kg2 d2 38. Rg7 d1=Q 39. Rg5+ 1-0
+

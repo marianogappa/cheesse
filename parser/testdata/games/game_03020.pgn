@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Kks60ZOb"]
+[White "us2224577899"]
+[Black "DogAttack"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:20"]
+[WhiteElo "1984"]
+[BlackElo "2011"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. b3 d5 2. Bb2 c5 3. f4 Nc6 4. Nf3 Bd7 5. e3 Qc7 6. d4 e6 7. Ne5 Bd6 8. c4 a6 9. cxd5 exd5 10. Qf3 cxd4 11. Bxd4 Nb4 12. Na3 Nf6 13. Be2 Qa5 14. O-O Qxa3 15. Nxd7 Kxd7 16. g4 Rhg8 17. Bxf6 gxf6 18. Qh3 Bc5 19. Kh1 Nc2 0-1
+

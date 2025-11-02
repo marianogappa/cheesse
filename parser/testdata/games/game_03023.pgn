@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/SuOvXWZq"]
+[White "airys"]
+[Black "rock2626"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:20"]
+[WhiteElo "1586"]
+[BlackElo "1082"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-3"]
+[ECO "B06"]
+[Opening "Modern Defense: Norwegian Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. d4 Nf6 3. Nf3 Nxe4 4. Bd3 Nd6 5. O-O Bg7 6. c3 Nc6 7. Re1 e6 8. Bg5 f6 9. Bf4 O-O 10. Bxd6 cxd6 11. Nbd2 Re8 12. Rc1 e5 13. d5 Ne7 14. c4 Nf5 15. Bxf5 gxf5 16. Nh4 e4 17. Nxf5 Re5 18. Qg4 Qf8 19. Rxe4 Rxe4 20. Nxe4 b6 21. Nexd6 Ba6 22. Re1 b5 23. Re8 Qxe8 24. Qxg7# 1-0
+

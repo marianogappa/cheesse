@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/EAWZOac3"]
+[White "shmundinsky"]
+[Black "klunkerkoenig"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:53"]
+[WhiteElo "2053"]
+[BlackElo "1970"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "A58"]
+[Opening "Benko Gambit: Zaitsev System"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.1] } 1... Nf6 { [%eval 0.16] } 2. c4 { [%eval 0.14] } 2... c5 { [%eval 0.35] } 3. d5 { [%eval 0.28] } 3... b5 { [%eval 0.33] } 4. cxb5 { [%eval 0.41] } 4... a6 { [%eval 0.49] } 5. Nc3 { [%eval 0.05] } 5... axb5 { [%eval 0.17] } 6. Nxb5 { [%eval 0.23] } 6... Ba6?! { [%eval 0.76] } 7. Nc3 { [%eval 0.64] } 7... Qa5 { [%eval 0.9] } 8. Bd2 { [%eval 0.74] } 8... g6 { [%eval 0.9] } 9. e4 { [%eval 0.86] } 9... Qb4 { [%eval 1.02] } 10. Qc2 { [%eval 0.7] } 10... Bg7 { [%eval 0.77] } 11. a3 { [%eval 0.45] } 11... Qb7 { [%eval 0.58] } 12. Bxa6 { [%eval 0.66] } 12... Nxa6 { [%eval 0.6] } 13. e5? { [%eval -0.58] } 13... Ng4 { [%eval -0.52] } 14. f4 { [%eval -0.86] } 14... c4?! { [%eval 0.0] } 15. h3? { [%eval -1.51] } 15... Nh6? { [%eval 0.05] } 16. Nf3 { [%eval -0.38] } 16... Nf5? { [%eval 0.72] } 17. O-O { [%eval 1.02] } 17... O-O { [%eval 1.28] } 18. Rfe1?! { [%eval 0.37] } 18... Rab8? { [%eval 1.47] } 19. Rab1?! { [%eval 0.81] } 19... h5 { [%eval 0.95] } 20. g4?! { [%eval 0.29] } 20... hxg4 { [%eval 0.29] } 21. hxg4 { [%eval 0.23] } 21... Nh6 { [%eval 0.2] } 22. Nh2 { [%eval 0.19] } 22... Qb6+? { [%eval 1.6] } 23. Be3 { [%eval 1.7] } 23... Qb7?! { [%eval 2.62] } 24. Bd4? { [%eval 1.01] } 24... d6 { [%eval 1.44] } 25. Kg2? { [%eval 0.0] } 25... dxe5 { [%eval 0.46] } 26. fxe5 { [%eval 0.17] } 26... f6?? { [%eval 4.65] } 27. e6?? { [%eval 1.02] } 27... f5? { [%eval 3.12] } 28. g5?? { [%eval -0.78] } 28... Bxd4 { [%eval -0.71] } 29. gxh6?! { [%eval -1.45] } 29... Bf6 { [%eval -1.09] } 30. Nf3 { [%eval -1.24] } 30... Kh7?! { [%eval -0.68] } 31. Rh1? { [%eval -1.93] } 31... Nc5 { [%eval -1.84] } 32. Qd2 { [%eval -1.59] } 1-0
+

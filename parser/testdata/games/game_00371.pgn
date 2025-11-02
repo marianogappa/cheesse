@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/m8zjyPV4"]
+[White "Battlefield64"]
+[Black "Dorlyeller"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:17"]
+[WhiteElo "1684"]
+[BlackElo "1842"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d3 Be7 4. g3 Bg4 5. Bg2 Qd7 6. O-O Bh3 7. Re1 h5 8. Bg5 Bxg5 9. Nxg5 Bxg2 10. Kxg2 h4 11. Qf3 f6 12. Nh3 hxg3 13. Qxg3 Nc6 14. c3 O-O-O 15. Nd2 g5 16. f3 Nh6 17. Rg1 Rdg8 18. Nf2 f5 19. exf5 Qxf5 20. Ng4 Kb8 21. Ne4 Ne7 22. Nef6 Nxg4 23. Nxg4 Nd5 24. Rad1 Nf4+ 25. Kf1 Nxd3 26. Ne3 Qh7 27. Rxd3 Qxd3+ 28. Kf2 Qd2+ 29. Kf1 Qxe3 0-1
+

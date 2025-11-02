@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/12LHSZBB"]
+[White "Guliaka"]
+[Black "BohemeRoyal"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:25"]
+[WhiteElo "1823"]
+[BlackElo "1755"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C64"]
+[Opening "Ruy Lopez: Classical Variation, Central Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nge7 5. O-O O-O 6. d4 exd4 7. cxd4 Bb6 8. a4 a6 9. Bc4 d6 10. Nc3 Bg4 11. Be3 Bxf3 12. gxf3 Ng6 13. Kh1 Qh4 14. Rg1 h5 15. Ne2 Rae8 16. Ng3 Nf4 17. Nf5 Qf6 18. Bxf4 g6 19. Nh6+ Kh7 20. Bg5 Qxg5 21. Rxg5 Kxh6 22. Qd2 Kh7 23. Rxg6 fxg6 24. Qg5 Rg8 25. e5 Rg7 26. e6 d5 27. Bd3 Nxd4 28. Qxh5+ 1-0
+

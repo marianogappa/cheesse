@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/n1toQ619"]
+[White "nero48"]
+[Black "quebrantahuesos"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:59"]
+[WhiteElo "1697"]
+[BlackElo "1910"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "D04"]
+[Opening "Queen's Pawn Game: Colle System"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. e3 d5 3. Nf3 c6 4. Bd3 Bg4 5. b3 Nbd7 6. Bb2 e6 7. O-O Bd6 8. c4 O-O 9. Nbd2 e5 10. dxe5 Nxe5 11. h3 Nxd3 12. Bxf6 Qxf6 13. hxg4 Ne5 14. cxd5 Nxf3+ 15. Nxf3 cxd5 16. Qxd5 b6 17. Rad1 Rad8 18. Qf5 Qb2 19. Rd2 Bh2+ 20. Kxh2 Rxd2 21. Nxd2 Qxd2 22. Ra1 Qb2 23. Rb1 Qxa2 24. b4 g6 25. Qd3 Qxf2 26. Rf1 Qh4+ 27. Kg1 Qxg4 28. Qd7 Qxb4 0-1
+

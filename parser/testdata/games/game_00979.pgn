@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sSj5aJAf"]
+[White "worm1"]
+[Black "themarschall"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:35"]
+[WhiteElo "1655"]
+[BlackElo "1676"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nf3 Bg7 3. e5 d6 4. d4 dxe5 5. c3 exd4 6. cxd4 Nf6 7. Nc3 Bg4 8. Be2 O-O 9. O-O c5 10. d5 Nbd7 11. Bf4 Nb6 12. d6 exd6 13. Bxd6 Re8 14. Bxc5 Qxd1 15. Rfxd1 Na4 16. Bb5 Nxc5 17. Bxe8 Rxe8 18. h3 Bxf3 19. gxf3 a6 20. Rd6 Ne6 21. Re1 Rc8 22. Na4 Ne8 23. Rd7 Rc7 24. Red1 b5 25. Nb6 Bxb2 26. Rxc7 N8xc7 27. Rd2 Bc3 28. Rc2 b4 29. a3 a5 30. axb4 axb4 31. Na4 Nd5 32. Nxc3 bxc3 33. Kf1 Nd4 34. Rc1 c2 35. Ke1 Nb4 36. f4 Nb3 0-1
+

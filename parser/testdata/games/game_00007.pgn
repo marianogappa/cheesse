@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/9naDLsbm"]
+[Site "https://lichess.org/9vPNXsoL"]
+[White "urban_guerillas"]
+[Black "jokebloke"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "1729"]
+[BlackElo "1712"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C62"]
+[Opening "Ruy Lopez: Steinitz Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. Bxc6+ bxc6 5. O-O Bg4 6. h3 Bh5 7. d3 d5 8. Nbd2 Nf6 9. Qe1 Bxf3 10. Nxf3 dxe4 11. dxe4 Bd6 12. Bg5 O-O 13. Rd1 Qe7 14. c3 h6 15. Bh4 Qe6 16. b3 Nh7 17. Qe3 Be7 18. Bg3 f6 19. Nh4 Ng5 20. Nf5 Bd6 21. Bh2 Rfd8 22. Bg3 a5 23. Bh2 a4 24. c4 axb3 25. axb3 Rd7 26. Qe2 Bc5 27. Rxd7 Qxd7 28. Rd1 Bd4 29. Bg3 Ra1 30. Rxa1 Bxa1 31. Kh2 Bd4 32. Bh4 c5 33. Bg3 Nf7 34. Qg4 Ng5 35. Nxh6+ gxh6 36. Qxd7 Nxe4 37. Qxc7 Nxf2 38. Bxf2 Bxf2 39. Qd8+ Kg7 40. Qe7+ Kg6 41. Qe8+ Kg5 42. Qg8+ Kf5 43. Qh7+ Kg5 44. Qe4 Bd4 45. h4+ Kh5 46. Kh3 Be3 47. Qg4# 1-0
+

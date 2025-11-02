@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BatVlw4Y"]
+[White "DrQwerty"]
+[Black "buddy_bugs2"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:32"]
+[WhiteElo "1253"]
+[BlackElo "1359"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted, Schallopp Defense"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. Bc4 h6 5. Ne5 d5 6. exd5 Nxd5 7. Qe2 Be6 8. Bxd5 Qxd5 9. O-O Nd7 10. Nc3 Qxe5 11. Qxe5 0-1
+

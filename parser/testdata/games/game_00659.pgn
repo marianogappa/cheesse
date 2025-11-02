@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Djt9z83p"]
+[White "gap109"]
+[Black "richandi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:20"]
+[WhiteElo "1443"]
+[BlackElo "1477"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. c3 Bg4 4. d4 Bxf3 5. Qxf3 exd4 6. cxd4 c6 7. Bc4 Qe7 8. O-O Nd7 9. Re1 O-O-O 10. d5 Ne5 11. Qb3 Nxc4 12. Qxc4 c5 13. Qa4 Kb8 14. Nc3 Nf6 15. Nb5 a6 16. Nc3 Nd7 17. a3 Nb6 18. Qb3 g6 19. a4 Qc7 20. a5 Nd7 21. Na4 Bg7 22. Nb6 Nxb6 23. axb6 Qd7 24. Ra5 Rc8 25. Qa4 Qxa4 26. Rxa4 Be5 27. b4 cxb4 28. Rxb4 Bc3 29. Rb3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/HLnix94H"]
+[White "FlashGod"]
+[Black "JustTraining"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:59"]
+[WhiteElo "1872"]
+[BlackElo "2070"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-20"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 e6 4. e4 Nf6 5. Bxc4 Be7 6. Bd3 O-O 7. Nf3 c5 8. Be3 cxd4 9. Bxd4 Nc6 10. Bxf6 Bxf6 11. O-O Bxc3 12. bxc3 e5 13. Qc2 Be6 14. c4 Ne7 15. Rfd1 Qc7 16. Be2 Ng6 17. h3 Nf4 18. Ng5 Nxe2+ 19. Qxe2 h6 20. Nxe6 fxe6 21. Qe3 Rf6 22. Rd2 Raf8 23. Rad1 Qc6 24. Re2 Qxc4 25. Rdd2 Qc6 26. g3 Qb6 27. Kg2 Qxe3 28. Rxe3 Rxf2+ 29. Rxf2 Rd8 30. Rfe2 Re8 31. Rf3 Re7 32. Ref2 Kh7 33. Rf7 Re8 34. Rxb7 a5 35. Ra7 Rd8 36. Rxa5 Rd4 37. Rxe5 Rd2 38. Rxe6 Rxf2+ 39. Kxf2 g6 40. Ke3 h5 41. Re5 g5 42. Rxg5 Kh6 43. e5 Kxg5 44. e6 h4 45. e7 hxg3 46. a4 Kh4 47. Kf3 Kxh3 48. e8=Q Kh2 49. Qg6 g2 50. Qxg2# 1-0
+

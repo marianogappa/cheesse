@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RfDj8N0m"]
+[White "TheHideous"]
+[Black "ledofin16"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:47"]
+[WhiteElo "1296"]
+[BlackElo "1337"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-11"]
+[ECO "C44"]
+[Opening "King's Pawn Game: Dresden Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. c4 d6 4. d4 g6 5. dxe5 Bg7 6. exd6 Qxd6 7. Qxd6 cxd6 8. Nc3 Nge7 9. Bg5 O-O 10. Nd4 Nxd4 11. Bxe7 Re8 12. Bxd6 Nc2+ 13. Kd2 Nxa1 14. Bd3 Bh6+ 15. Ke2 Bg4+ 16. f3 Re6 17. Bc5 Bh5 18. Rxa1 g5 19. Rd1 Rd8 20. g4 Bg6 21. Bxa7 Ra6 22. Bc5 Bg7 23. Nd5 Rc6 24. Ne7+ Kf8 25. Nxc6+ 1-0
+

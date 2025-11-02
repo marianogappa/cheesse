@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mjm2t38P"]
+[White "hasl3r"]
+[Black "LakerHB"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:13"]
+[WhiteElo "1313"]
+[BlackElo "1362"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-23"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Nimzowitsch System"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Bb5 Bd7 6. Nc3 Qb6 7. a4 a6 8. Bxc6 Bxc6 9. a5 Qc7 10. O-O cxd4 11. Nxd4 Bc5 12. Be3 Ba7 13. Qg4 f6 14. exf6 Nxf6 15. Nxe6 Qd7 16. Nxg7+ Kf7 17. Qxd7+ Bxd7 18. Bh6 Ng4 19. Be3 Nxe3 20. fxe3+ Kxg7 21. Nxd5 Bc6 22. Nf4 Bxe3+ 23. Kh1 Rhf8 24. Ne6+ Kh8 25. Rxf8+ Rxf8 26. Nxf8 Kg7 27. Ne6+ Kf7 28. Ng5+ Kg6 29. Nh3 Be4 30. Re1 Bg5 31. Rxe4 Bf6 32. b4 Bc3 33. Rc4 Bf6 34. Rc7 h5 35. Rxb7 Bc3 36. b5 Bxa5 37. b6 Kf5 38. Rb8 Kg4 39. b7 h4 40. Ra8 Bc7 41. b8=Q Bxb8 42. Rxb8 a5 43. c4 a4 44. c5 1-0
+

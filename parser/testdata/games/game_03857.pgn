@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/CXWKTBrF"]
+[White "Cripaa"]
+[Black "Crisptapeworm"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:45"]
+[WhiteElo "1045"]
+[BlackElo "1065"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Qh5 d6 3. Nh3 g6 4. Bb5+ Nc6 5. Qd5 Bd7 6. b4 e6 7. Qb3 a6 8. Bc4 Bg7 9. bxc5 Bxa1 10. Qxb7 Rb8 11. Qxa6 Rxb1 12. Bxe6 Rxc1+ 13. Ke2 Rxh1 14. Ng5 fxe6 15. Nxe6 Bxe6 16. Qxc6+ Bd7 17. Qxd6 Bb5+ 18. Kf3 Qxd6 19. cxd6 Ne7 20. dxe7 Kxe7 21. d4 Rf8+ 22. Kg4 h5+ 23. Kg5 Rxh2 24. Kxg6 Rxg2+ 25. Kxh5 Rh8# 0-1
+

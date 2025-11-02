@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/v8plJ4tw"]
+[White "shasad"]
+[Black "legeko"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:48"]
+[WhiteElo "1776"]
+[BlackElo "2079"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation #3"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. b3 e5 2. Bb2 Nc6 3. g3 d5 4. Bg2 Be6 5. e3 Bd6 6. Qe2 Nge7 7. Nc3 O-O 8. a3 Qd7 9. Na2 a6 10. g4 Bxg4 11. Bf3 Bf5 12. d3 Bg6 13. h4 h6 14. O-O-O f5 15. Nh3 e4 16. dxe4 dxe4 17. Bh5 Qe6 18. Bxg6 Nxg6 19. Rhg1 Nge5 20. Nf4 Qf7 21. Nh5 Nf3 22. Rxg7+ Qxg7 23. Nxg7 Rf7 24. Ne6 Re8 25. Nf4 Kf8 26. Ng6+ Kg8 27. Qc4 Nd8 28. Nc3 Kh7 29. Nf4 Rg7 30. Ncd5 Rg4 31. Qc3 Nc6 32. Nf6+ Kg7 33. Nxg4+ Nce5 34. Nxe5 Bxe5 35. Rd7+ Kf6 36. Nh5+ Ke6 37. Qc4+ Kxd7 38. Bxe5 Nxe5 39. Nf6+ Kc8 40. Nxe8 Nxc4 41. bxc4 Kd7 42. Ng7 f4 43. exf4 Kd6 44. f5 Ke5 45. Kd1 c5 46. Ne8 Kxf5 47. Nc7 Kg4 48. Nd5 Kxh4 49. f4 Kg4 50. Ke2 h5 51. Nf6+ Kxf4 52. Nxh5+ Ke5 53. Ng7 Kd4 54. Ne8 Kxc4 55. Nc7 Kc3 56. Na8 Kxc2 57. Nb6 Kb3 58. Nd5 Kxa3 59. Ke3 b5 60. Kxe4 b4 61. Kd3 b3 62. Kd2 a5 63. Nc3 c4 64. Nb1+ Kb2 65. Nc3 Ka3 66. Nb1+ Kb4 67. Nc3 a4 68. Nb1 a3 69. Kc1 a2 70. Nd2 a1=Q+ 71. Nb1 c3 72. Kd1 Qxb1+ 73. Ke2 Qc2+ 74. Ke3 Qd2+ 75. Ke4 c2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/A2yLfdG0"]
+[White "UnrealMan"]
+[Black "kumpas37"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:55"]
+[WhiteElo "1780"]
+[BlackElo "1399"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-3"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "900+10"]
+[Termination "Normal"]
+
+1. e4 b6 2. Nf3 d6 3. Bc4 e6 4. Nc3 a6 5. d4 Bb7 6. e5 Bxf3 7. Qxf3 c6 8. O-O Ne7 9. Bg5 f6 10. exf6 gxf6 11. Bxe6 Bg7 12. Qh5+ Ng6 13. Rfe1 Ra7 14. Bg8+ Re7 15. Bxh7 fxg5 16. Bxg6+ Kf8 17. Qxg5 Rxe1+ 18. Rxe1 Qxg5 19. Re8# 1-0
+

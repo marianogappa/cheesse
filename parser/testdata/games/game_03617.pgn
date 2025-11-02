@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/MxbsODvR"]
+[White "moskow_ger"]
+[Black "zkralla"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:48"]
+[WhiteElo "1616"]
+[BlackElo "1648"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "A41"]
+[Opening "Old Indian Defense"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. d4 d6 2. c4 f6 3. e3 e5 4. Nf3 Bg4 5. Be2 Bxf3 6. Bxf3 exd4 7. O-O Nc6 8. exd4 Nxd4 9. Qxd4 c5 10. Qd1 Qc7 11. Nc3 O-O-O 12. Bf4 Kb8 13. b3 g5 14. Be3 h5 15. Bxh5 g4 16. Bxg4 Ne7 17. Bf3 Ng6 18. h3 Ne5 19. Bf4 Nxf3+ 20. Qxf3 Rg8 21. b4 Rg6 22. Ne4 f5 23. Nxd6 Bxd6 24. Bxd6 Rdxd6 25. Qxf5 Rgf6 26. Qh5 Qg7 27. Qe5 Re6 28. Rae1 Rxe5 29. Rxe5 Qd7 30. Rfe1 Kc7 31. Re7 Rd1 32. Rxd1 1-0
+

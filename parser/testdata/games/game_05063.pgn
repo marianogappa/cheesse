@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/NINMFqV7"]
+[White "julita59"]
+[Black "Alucard625"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:30"]
+[WhiteElo "1195"]
+[BlackElo "1237"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-13"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "600+10"]
+[Termination "Normal"]
+
+1. e4 e5 2. d3 c5 3. Be2 d6 4. Nf3 Nc6 5. O-O Nf6 6. Bg5 Be7 7. Nc3 Nb4 8. a3 Nc6 9. Nd5 Nxd5 10. exd5 Nd4 11. Nxd4 exd4 12. Bf4 O-O 13. Bh5 b6 14. c3 dxc3 15. bxc3 Bf6 16. d4 cxd4 17. cxd4 Re8 18. Rc1 a5 19. Qf3 Bxd4 20. Rc6 Be5 21. Bxe5 Rxe5 22. Qxf7+ Kh8 23. f4 Re7 24. Rxd6 Qxd6 25. Qf8# 1-0
+

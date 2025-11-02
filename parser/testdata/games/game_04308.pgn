@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/5S7VWSOK"]
+[White "Sophophiliac"]
+[Black "obedience"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:33"]
+[WhiteElo "2011"]
+[BlackElo "1918"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Mengarini Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. a3 Nc6 3. b4 cxb4 4. axb4 Nxb4 5. c3 Nc6 6. d4 e5 7. d5 Nb8 8. Nf3 Nf6 9. Nxe5 Nxe4 10. Qe2 Qe7 11. Qxe4 d6 12. Bb5+ Nd7 13. f4 dxe5 14. fxe5 a6 15. e6 f5 16. exd7+ Bxd7 17. Bxd7+ Kxd7 18. Qxe7+ Bxe7 19. O-O Bc5+ 20. Kh1 g6 21. Na3 Rae8 22. Nc4 Re2 23. Ba3 b5 24. Bxc5 bxc4 25. Rxa6 Rhe8 26. Rd6+ Kc7 27. Rc6+ Kd7 28. Bf2 Rxf2 29. Rg1 Rd2 30. Rxc4 Rxd5 31. Rb4 Rc8 32. Rb7+ Rc7 33. Rb3 Rdc5 34. Rd1+ Kc6 35. Rd3 Rb7 36. Rxb7 Kxb7 37. Rd7+ Rc7 38. Rd3 Kc6 39. Kg1 Kc5 40. Kf2 Kc4 41. Ke2 Re7+ 42. Kd2 Re4 43. Rd7 h5 44. Rg7 Re6 45. Rg8 Rd6+ 46. Kc2 Re6 47. Rc8+ Kd5 48. c4+ Kd6 49. c5+ Kd7 50. Rb8 Rc6 51. Rb5 Ke6 52. Kc3 Kd5 53. Kb4 g5 54. g3 f4 55. gxf4 gxf4 56. Rb6 Rxc5 57. Rf6 Rc4+ 58. Kb5 Rc5+ 59. Kb4 Rc4+ 60. Kb5 Rc5+ 61. Kb6 Rc4 62. Rf5+ Ke4 63. Rxh5 f3 64. Rh8 f2 65. Rf8 Ke3 66. Re8+ Re4 67. Rf8 Ke2 68. h4 f1=Q 69. Rxf1 Kxf1 70. h5 Rh4 71. h6 Rxh6+ 72. Kc5 Re6 73. Kd5 Re8 74. Kd4 Ke2 75. Kd5 Ke3 76. Kd6 Ke4 77. Kd7 Re6 78. Kxe6 1/2-1/2
+

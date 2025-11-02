@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zNF5Zec5"]
+[White "greenmate"]
+[Black "MaddestMind"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:35"]
+[WhiteElo "1608"]
+[BlackElo "1640"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 h6 3. Nf3 d6 4. h3 Qf6 5. O-O Be7 6. Re1 Qg6 7. a3 Bxh3 8. Kh1 Qxg2# 0-1
+

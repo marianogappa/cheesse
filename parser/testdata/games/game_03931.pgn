@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/z42d3xDc"]
+[White "macclassic"]
+[Black "FuturechessGM27"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:59"]
+[WhiteElo "1936"]
+[BlackElo "2031"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 d6 3. Nf3 Nc6 4. d3 g6 5. c3 Bg7 6. Be2 e6 7. O-O Nge7 8. Qe1 O-O 9. Na3 d5 10. e5 f6 11. exf6 Bxf6 12. Nc2 Bg7 13. Bd2 Qc7 14. Qg3 Nf5 15. Qh3 d4 16. g4 Nd6 17. c4 a5 18. a3 Ne7 19. Rae1 Bd7 20. Bd1 b5 21. cxb5 Nxb5 22. Ng5 Qd6 23. Qxh7# 1-0
+

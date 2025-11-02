@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/t03lxcjB"]
+[White "BrazilianStorm"]
+[Black "jinmerag"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:33"]
+[WhiteElo "1436"]
+[BlackElo "1391"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+13"]
+[ECO "C61"]
+[Opening "Ruy Lopez: Bird Variation"]
+[TimeControl "240+4"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. c4 Qe7 5. O-O Nxb5 6. cxb5 d6 7. a4 b6 8. Nc3 Bb7 9. b3 Nf6 10. Re1 Qe6 11. Bb2 h6 12. d4 Nxe4 13. Nxe4 Bxe4 14. Rxe4 Rd8 15. dxe5 dxe5 16. Qe1 Qxb3 17. Rxe5+ Kd7 18. Rd1+ Kc8 19. Re8 Bd6 20. Bxg7 Rhxe8 21. Qd2 Qxd1+ 22. Qxd1 Bxh2+ 23. Kxh2 Rxd1 24. Ne5 Re6 25. Nc6 Re2 26. Bxh6 Rxf2 27. Be3 Ra2 28. Nxa7+ Kd7 29. Bxb6 cxb6 30. Nc6 Rxa4 31. Ne5+ Ke8 32. Nf3 Rb4 33. Ng5 Rxb5 34. Ne4 Rh5+ 35. Kg3 Rd3+ 36. Kf2 Rf5+ 37. Ke2 Rd7 38. Ng3 Re7+ 39. Kd3 Rd5+ 40. Kc4 Rc5+ 41. Kb4 Ra7 42. Ne4 Rca5 43. Nd6+ Kf8 44. Nc4 Ra4+ 45. Kb5 f5 46. Nxb6 R4a5+ 47. Kc6 R7a6 48. Kc7 Rc5+ 49. Kb7 Raa5 50. Nd7+ Kg7 51. Nxc5 Rxc5 52. Kb6 Rc2 53. g3 Rg2 54. Kc5 Rxg3 55. Kd4 f4 56. Ke4 f3 57. Ke3 Kg6 58. Kf2 Rh3 59. Ke3 Kg5 60. Kf2 Kg4 61. Ke3 Rh2 62. Ke4 f2 63. Ke5 f1=R 0-1
+

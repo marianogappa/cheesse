@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DWX3ak6V"]
+[White "Myts"]
+[Black "gaffelen"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:41"]
+[WhiteElo "1919"]
+[BlackElo "1889"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "E61"]
+[Opening "King's Indian Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. c4 Nf6 2. d4 g6 3. Nc3 Bg7 4. Bg5 O-O 5. Qd2 d6 6. Nf3 Nbd7 7. e4 e5 8. d5 a5 9. Nb5 Nc5 10. Bxf6 Bxf6 11. Nc3 Bg4 12. Be2 Bg7 13. O-O Bd7 14. b3 Kh8 15. Qg5 f6 16. Qh4 Qe8 17. h3 f5 18. exf5 Bf6 19. Qh6 gxf5 20. Ng5 Qe7 21. h4 Rg8 22. f4 exf4 23. Bh5 Bxg5 24. hxg5 Rxg5 25. Rxf4 Rag8 26. Bf3 Qe3+ 0-1
+

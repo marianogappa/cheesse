@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xRWgq6ox"]
+[White "hafiz2016"]
+[Black "frostbitten"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:19"]
+[WhiteElo "2337"]
+[BlackElo "2261"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+14"]
+[BlackTitle "NM"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Declined, Scandinavian Formation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. exd5 Nf6 5. cxd4 Qxd5 6. Nf3 Bg4 7. Be2 Nc6 8. Nc3 Qf5 9. d5 Ne5 10. Qa4+ Ned7 11. O-O g6 12. h3 Bxf3 13. Bxf3 Bg7 14. d6 e6 15. Be3 O-O 16. Rfd1 Nd5 17. Nxd5 exd5 18. Rxd5 Qe6 19. Rad1 Nb6 20. R5d2 Nxa4 21. d7 Rad8 22. Bg5 Bf6 23. Bh6 Nb6 24. Bxf8 Kxf8 25. Bg4 Qxa2 26. Re2 Qb3 27. Rde1 Nxd7 28. Rd2 Nb6 29. Rde2 Kg7 30. Bf3 Rd1 31. Re3 Rxe1+ 32. Rxe1 Qxb2 33. Bxb7 a5 34. Bf3 a4 35. Re2 Qb1+ 36. Kh2 a3 37. Be4 a2 38. Bxb1 axb1=Q 39. g3 Qf1 40. Rc2 Bd4 41. h4 Bxf2 42. Rb2 Qg1+ 43. Kh3 Qxg3# 0-1
+

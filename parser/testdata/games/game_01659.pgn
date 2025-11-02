@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/vkHhP8t0"]
+[White "issammaroc"]
+[Black "Kostya_Fedorenko"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:15"]
+[WhiteElo "1545"]
+[BlackElo "1313"]
+[WhiteRatingDiff "-19"]
+[BlackRatingDiff "+18"]
+[ECO "B11"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. exd5 cxd5 4. Nf3 Nf6 5. Be2 b6 6. O-O Bb7 7. Bb5+ Bc6 8. d4 Bxb5 9. Nxb5 e6 10. Bg5 Be7 11. Re1 O-O 12. Bf4 Ne4 13. Ne5 Nd6 14. Nxd6 Bxd6 15. Qg4 f5 16. Bg5 fxg4 17. Bxd8 Rxd8 18. f3 gxf3 19. gxf3 Bxe5 20. Rxe5 Nd7 21. Rh5 Rf8 22. Kg2 Nf6 23. Rh3 Rac8 24. c3 Nd7 25. Re1 Rce8 26. b4 Rf6 27. a4 Rg6+ 28. Kf2 e5 29. dxe5 Rxe5 30. Rd1 Nf6 31. f4 Re4 32. Rhd3 Rxf4+ 33. Ke2 Re4+ 34. Kd2 Rg2+ 35. Kc1 Ree2 36. Rd4 Rc2+ 37. Kb1 Rb2+ 38. Kc1 Rgc2# 0-1
+

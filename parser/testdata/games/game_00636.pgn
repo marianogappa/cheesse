@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/yFNl5w6v"]
+[White "andi_ar"]
+[Black "a-man"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:20"]
+[WhiteElo "1275"]
+[BlackElo "1247"]
+[WhiteRatingDiff "-33"]
+[BlackRatingDiff "+11"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation #3"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. d4 e5 3. Nf3 exd4 4. Qxd4 f6 5. Bc4 Nc6 6. Qd5 Qe7 7. Nc3 Be6 8. Qd3 Bxc4 9. Qxc4 Na5 10. Qb4 b6 11. Qb5+ Kd8 12. Nd5 Qd7 13. Qxd7+ Kxd7 14. Bf4 Ne7 15. Nxe7 Bxe7 16. O-O g5 17. Be3 h5 18. Rad1 h4 19. h3 Rhg8 20. Rfe1 g4 21. Nxh4 gxh3 22. Kh2 hxg2 23. Rg1 f5 24. Nxg2 Bh4 25. Nxh4 Rh8 26. Kh3 Rag8 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AEzItD2f"]
+[White "epicureme"]
+[Black "MarshallArts"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:10"]
+[WhiteElo "1242"]
+[BlackElo "1310"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-16"]
+[ECO "D53"]
+[Opening "Queen's Gambit Declined: Modern Variation, Heral Variation"]
+[TimeControl "360+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Bxf6 Bxf6 6. Nf3 O-O 7. e3 Nd7 8. cxd5 Nb6 9. dxe6 Bxe6 10. Bd3 Nd5 11. Rc1 c6 12. O-O Bg4 13. Nxd5 Qxd5 14. e4 Bxf3 15. gxf3 Qh5 16. e5 Bg5 17. f4 Qxd1 18. Rcxd1 Bxf4 19. Kg2 Rad8 20. Bc2 Bh6 21. a4 Rd5 22. b4 Rfd8 23. Bb3 Rxd4 24. Rxd4 Rxd4 25. b5 Rd3 26. Bc2 Rd2 27. Rc1 Rxf2+ 28. Kxf2 Bxc1 29. bxc6 bxc6 30. Be4 c5 31. Bd5 Bb2 32. e6 fxe6 33. Bxe6+ Kf8 34. Ke2 Bd4 35. Kd3 Ke7 36. Bf5 h6 37. Kc4 Kf6 38. Bg4 Kg5 39. h3 h5 40. Bf3 h4 41. a5 Kf4 42. Bg2 g5 43. a6 g4 44. hxg4 Kxg4 45. Kb5 Kg3 46. Be4 h3 47. Kc6 c4 48. Kb7 c3 49. Bc2 h2 50. Be4 Kf2 51. Kc6 Kg1 52. Kd5 c2 53. Bxc2 Be3 54. Ke4 1-0
+

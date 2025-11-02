@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bpRarl5H"]
+[White "enki10"]
+[Black "sawyas"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:49"]
+[WhiteElo "1995"]
+[BlackElo "1900"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "A14"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. c4 { [%eval 0.02] } 1... Nf6 { [%eval 0.22] } 2. g3 { [%eval -0.06] } 2... e6 { [%eval 0.0] } 3. Bg2 { [%eval 0.0] } 3... d5 { [%eval 0.0] } 4. Nf3 { [%eval -0.05] } 4... Be7 { [%eval 0.14] } 5. O-O { [%eval -0.06] } 5... O-O { [%eval 0.0] } 6. d3 { [%eval -0.07] } 6... dxc4 { [%eval 0.4] } 7. dxc4 { [%eval 0.25] } 7... Nbd7 { [%eval 0.26] } 8. Qc2 { [%eval 0.19] } 8... c6 { [%eval 0.26] } 9. Rd1 { [%eval 0.13] } 9... Qc7 { [%eval 0.26] } 10. h3 { [%eval 0.15] } 10... Nb6?? { [%eval 5.57] } 11. b3?? { [%eval 0.3] } 11... Nbd7 { [%eval 0.31] } 12. Bb2 { [%eval 0.25] } 12... b6 { [%eval 0.35] } 13. e4 { [%eval 0.29] } 13... Bb7?! { [%eval 1.04] } 14. e5 { [%eval 1.04] } 14... Ne8 { [%eval 1.1] } 15. Nbd2 { [%eval 1.1] } 15... f6?! { [%eval 1.64] } 16. exf6 { [%eval 1.49] } 16... Nexf6? { [%eval 2.79] } 17. Ng5 { [%eval 2.9] } 17... Rfe8? { [%eval 4.43] } 18. Nxe6 { [%eval 4.16] } 18... Qd6? { [%eval 5.45] } 19. Ng5? { [%eval 3.08] } 19... h6?? { [%eval 6.25] } 20. Nde4 { [%eval 5.94] } 20... Qc7? { [%eval 7.92] } 21. Nxf6+?? { [%eval 2.33] } 21... Nxf6 { [%eval 2.48] } 22. Ne6 { [%eval 2.37] } 22... Qb8?? { [%eval 21.26] } 23. Re1?? { [%eval 6.82] } 23... Bd6?? { [%eval 13.54] } 24. f4?? { [%eval 5.08] } 24... c5?? { [%eval 13.7] } 25. Bxf6 { [%eval 13.01] } 25... Bxg2 { [%eval 19.29] } 26. Kxg2?? { [%eval 6.21] } 26... gxf6?? { [%eval #2] } 27. Qg6+ { [%eval #1] } 1-0
+

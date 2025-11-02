@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7IYG6xSF"]
+[White "orcus"]
+[Black "Unicejo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:25"]
+[WhiteElo "1775"]
+[BlackElo "1883"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense #2"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Be7 4. e4 O-O 5. Bd3 d6 6. Nge2 Nbd7 7. O-O c5 8. d5 exd5 9. cxd5 Ng4 10. f4 c4 11. Bc2 Qb6+ 12. Kh1 Nf2+ 13. Rxf2 Qxf2 14. Ng3 Bh4 15. Ba4 Bxg3 16. hxg3 Qxg3 17. Bxd7 Bxd7 18. Qc2 f5 19. Bd2 Rae8 20. Rf1 Rf6 21. Ne2 Rh6+ 22. Kg1 Qh2+ 23. Kf2 Rxe4 24. Bc3 Qh4+ 25. Kg1 Rg6 26. Nd4 Rxf4 27. Rxf4 Qxf4 28. Ne6 Qe3+ 29. Kf1 Bxe6 30. dxe6 Rxe6 31. Qf2 Qc1+ 32. Be1 g6 33. b3 c3 34. a3 c2 35. b4 Qxe1+ 36. Qxe1 Rxe1+ 37. Kxe1 c1=Q+ 0-1
+

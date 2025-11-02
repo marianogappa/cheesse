@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rJIfGN35"]
+[White "Acron"]
+[Black "Washburn"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:30"]
+[WhiteElo "2251"]
+[BlackElo "2392"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+8"]
+[ECO "A57"]
+[Opening "Benko Gambit Declined, Main Line"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 bxc4 5. Nc3 d6 6. e4 Nbd7 7. Bxc4 g6 8. O-O Bg7 9. Re1 O-O 10. h3 Ne8 11. Bf4 Rb8 12. Qc2 Qb6 13. b3 Ba6 14. e5 Bxc4 15. bxc4 Qb4 16. exd6 exd6 17. Rab1 Qxc3 0-1
+

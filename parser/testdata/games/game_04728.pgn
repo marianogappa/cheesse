@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/R1Uu5IDq"]
+[White "HardWoodPusher"]
+[Black "Nkko"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:14"]
+[WhiteElo "1890"]
+[BlackElo "1936"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. e3 c5 2. d4 d5 3. dxc5 e6 4. c4 Bxc5 5. cxd5 Qxd5 6. Nc3 Qxd1+ 7. Nxd1 Nf6 8. Bb5+ Nc6 9. Nf3 Bb4+ 10. Bd2 Bxd2+ 11. Nxd2 O-O 12. Bxc6 bxc6 13. O-O Ba6 14. Re1 Nd5 15. Nc3 Nb4 16. a3 Nd3 17. Reb1 Rab8 18. Nde4 Rxb2 19. Rxb2 Nxb2 20. Rb1 Nc4 21. Rb4 f5 22. a4 fxe4 23. Nxe4 Rd8 24. h3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/gDkuzaFR"]
+[White "terminatordead"]
+[Black "JonasBohlig"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:52"]
+[WhiteElo "1148"]
+[BlackElo "1199"]
+[WhiteRatingDiff "-20"]
+[BlackRatingDiff "+110"]
+[ECO "A45"]
+[Opening "Indian Game: Pawn Push Variation"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.22] } 1... Nf6 { [%eval 0.21] } 2. d5?! { [%eval -0.29] } 2... e6 { [%eval -0.2] } 3. c4 { [%eval -0.55] } 3... exd5 { [%eval -0.56] } 4. cxd5 { [%eval -0.49] } 4... Bb4+ { [%eval -0.26] } 5. Bd2?! { [%eval -0.85] } 5... Nxd5 { [%eval -0.73] } 6. e4 { [%eval -1.16] } 6... Qe7 { [%eval -1.16] } 7. f3?! { [%eval -1.7] } 7... Ne3 { [%eval -1.79] } 8. Qe2? { [%eval -4.06] } 8... Nc2+ { [%eval -4.03] } 9. Kf2? { [%eval -6.35] } 9... Bc5+ { [%eval -6.36] } 10. Be3?? { [%eval -13.6] } 10... Bxe3+ { [%eval -13.68] } 11. Qxe3 { [%eval -13.63] } 11... Nxe3 { [%eval -13.6] } 12. Kxe3 { [%eval -13.52] } 12... Qg5+ { [%eval -13.13] } 13. f4 { [%eval -13.41] } 13... Qc5+ { [%eval -12.73] } 14. Kf3 { [%eval -14.87] } 14... Qc1 { [%eval -14.66] } 15. Be2 { [%eval -15.62] } 15... Qxb2 { [%eval -15.45] } 16. Nh3 { [%eval -16.62] } 16... Qxa1 { [%eval -16.5] } 17. Ng5 { [%eval -19.34] } 17... h6 { [%eval -19.03] } 18. Nh3 { [%eval -18.85] } 18... Nc6 { [%eval -18.57] } 19. Nf2 { [%eval -19.79] } 19... Nd4+ { [%eval -19.28] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/ohh0ooZS"]
+[White "ulich"]
+[Black "cavallonero"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:10"]
+[WhiteElo "1752"]
+[BlackElo "1688"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-7"]
+[ECO "A15"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Indian Formation"]
+[TimeControl "-"]
+[Termination "Normal"]
+
+1. c4 { [%eval 0.08] } 1... Nf6 { [%eval 0.2] } 2. Nf3 { [%eval 0.14] } 2... b6 { [%eval 0.21] } 3. e3 { [%eval 0.11] } 3... e6 { [%eval 0.12] } 4. a3 { [%eval 0.02] } 4... g6 { [%eval 0.15] } 5. Nc3 { [%eval 0.0] } 5... Bg7 { [%eval 0.03] } 6. d4 { [%eval 0.01] } 6... O-O { [%eval 0.13] } 7. Bd3 { [%eval -0.05] } 7... Bb7?! { [%eval 0.46] } 8. e4 { [%eval 0.16] } 8... a6?! { [%eval 0.89] } 9. O-O { [%eval 0.41] } 9... d5?! { [%eval 0.96] } 10. e5 { [%eval 0.51] } 10... Nfd7?! { [%eval 1.25] } 11. Ng5? { [%eval -0.1] } 11... f6?? { [%eval 5.5] } 12. Nxe6 { [%eval 5.23] } 12... Qe7 { [%eval 5.48] } 13. Nxf8 { [%eval 5.09] } 13... Bxf8?! { [%eval 5.62] } 14. Re1 { [%eval 5.56] } 14... fxe5 { [%eval 5.51] } 15. dxe5 { [%eval 4.62] } 15... Bg7? { [%eval 5.71] } 16. Bf4? { [%eval 4.43] } 16... Nxe5 { [%eval 4.31] } 17. cxd5?! { [%eval 3.56] } 17... Nbd7 { [%eval 3.47] } 18. Bc4 { [%eval 3.07] } 18... Qc5? { [%eval 4.69] } 19. Ba2 { [%eval 4.47] } 19... Rf8? { [%eval 6.46] } 20. Ne4? { [%eval 5.44] } 20... Qb5 { [%eval 5.48] } 21. d6+ { [%eval 5.1] } 21... Kh8 { [%eval 5.18] } 22. Bg3? { [%eval 3.57] } 22... cxd6?? { [%eval 7.5] } 23. Nxd6 { [%eval 7.0] } 23... Qc6 { [%eval 6.67] } 24. Nxb7 { [%eval 6.55] } 24... Qxb7 { [%eval 6.58] } 25. Bd5 { [%eval 6.47] } 25... Qc8 { [%eval 6.39] } 26. Rc1 { [%eval 5.83] } 26... Qd8 { [%eval 5.84] } 27. Rc2 { [%eval 5.49] } 27... Rf5?? { [%eval 9.34] } 28. Be6 { [%eval 9.01] } 28... Rg5?! { [%eval 13.3] } 29. f4 { [%eval 12.92] } 29... Rxg3 { [%eval 12.59] } 30. hxg3 { [%eval 12.18] } 30... Nf6?! { [%eval #3] } 31. Qxd8+ { [%eval #2] } 31... Ng8 { [%eval #1] } 32. Qxg8# 1-0
+

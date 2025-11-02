@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4cBklD2y"]
+[White "Kiukkmann9211"]
+[Black "tonycitrini"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:27"]
+[WhiteElo "1553"]
+[BlackElo "1716"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 g6 7. Bc4 Bg7 8. Qd2 Qc7 9. Bb3 b5 10. a3 Nc6 11. Nxc6 Qxc6 12. Bg5 Nxe4 13. Qe3 Nxg5 14. Bd5 Bxc3+ 15. bxc3 Qxd5 16. Qxg5 Qxg5 0-1
+

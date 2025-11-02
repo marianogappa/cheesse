@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/8ZrgyGXB"]
+[White "afi012290"]
+[Black "Asherah"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:02"]
+[WhiteElo "1390"]
+[BlackElo "1824"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+2"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Stonewall Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. e3 d5 3. Bd3 Nc6 4. Ne2 e5 5. c4 e4 6. Bc2 Bg4 7. cxd5 Qxd5 8. f3 exf3 9. g3 fxe2 10. Qd3 Qxh1+ 11. Kd2 e1=Q# 0-1
+

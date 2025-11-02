@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/u3KT4rCt"]
+[White "Semaisr"]
+[Black "LordViper"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:42"]
+[WhiteElo "1296"]
+[BlackElo "1202"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Old Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. e3 b5 4. Qf3 c6 5. a4 Bb7 6. axb5 Qd5 7. bxc6 Qxf3 8. Nxf3 Bxc6 9. Bxc4 e6 10. O-O Nd7 11. Nc3 Nb6 12. Bb5 Bxb5 13. Nxb5 a6 14. Nc7+ Kd7 15. Nxa8 Nxa8 16. Rxa6 Nc7 17. Ra7 f5 18. Ne5+ Kd6 19. Bd2 h5 20. Ba5 Rh7 21. Bxc7+ Ke7 22. Bb6+ Kd6 23. Bc5+ Kd5 24. Bxf8 g5 1-0
+

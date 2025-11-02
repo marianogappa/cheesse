@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/DuiDYlNW"]
+[White "likecookies"]
+[Black "jamiezeb"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:48"]
+[WhiteElo "1585"]
+[BlackElo "1660"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 h6 5. O-O d6 6. Bd5 Bg4 7. h3 Bh5 8. g4 Bg6 9. a3 Nf6 10. b4 Bb6 11. d3 Qd7 12. Be3 Bxe3 13. fxe3 Nxg4 14. hxg4 Qxg4+ 15. Kf2 f5 16. b5 Ne7 17. Bxb7 Rb8 18. Rg1 Qh3 19. Bd5 fxe4 20. dxe4 Bh5 21. Rxg7 Bxf3 22. Bf7+ Kf8 23. Qg1 Qh4+ 24. Kxf3 Ng6 25. Qxg6 Ke7 26. Nd5+ Kd7 27. Be6+ Kd8 28. Rg8+ Rxg8 29. Qxg8# 1-0
+

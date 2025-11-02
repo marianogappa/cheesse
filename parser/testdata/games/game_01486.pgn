@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/eQOfzAt2"]
+[White "vinclwd"]
+[Black "martinroldan23"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:32"]
+[WhiteElo "1651"]
+[BlackElo "1606"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Macleod Attack"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. c3 Nc6 3. d4 exd4 4. cxd4 Bb4+ 5. Nc3 d5 6. a3 Bxc3+ 7. bxc3 dxe4 8. Ne2 Nf6 9. Ng3 O-O 10. Bb5 Bg4 11. Ne2 a6 12. Bc4 b5 13. Ba2 Re8 14. h3 Bh5 15. O-O Nd5 16. Bb2 a5 17. Rc1 e3 18. Bb1 exf2+ 19. Rxf2 Ne3 20. Qd3 Qg5 21. Qxh7+ Kf8 22. Re1 Nc4 23. Qh8+ Ke7 24. Ng3+ Kd7 25. Bf5+ Kd6 26. Rxe8 Rxe8 27. Qxe8 Qxg3 28. Qd7# 1-0
+

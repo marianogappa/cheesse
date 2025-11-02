@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/x0HG7GQe"]
+[White "SamerAden"]
+[Black "fmAlexey"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:02"]
+[WhiteElo "1657"]
+[BlackElo "1589"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e3 e5 2. b3 d5 3. Bb2 Nc6 4. Bb5 Bd6 5. f4 f6 6. fxe5 Bxe5 7. Bxe5 fxe5 8. Bxc6+ bxc6 9. Qh5+ Kf8 10. Qxe5 Nf6 11. Nf3 Qd6 12. O-O Qxe5 13. Nxe5 Bb7 14. Nd7+ Ke7 15. Nxf6 gxf6 16. Nc3 Rag8 17. Rf2 h5 18. Raf1 Rf8 19. Ne2 Ba6 20. d3 h4 21. Nd4 c5 22. Nc6+ Ke6 23. Rf4 Rh6 24. Nxa7 Kd7 25. Ra4 f5 26. Ra5 Ra8 27. Nb5 Rhh8 28. Rxf5 Bxb5 29. Rxb5 Rxa2 30. Rxd5+ Kc8 31. Rbxc5 Ra1+ 32. Kf2 Rf8+ 33. Ke2 Rff1 34. Rf5 Rfe1+ 35. Kf3 Rf1+ 36. Ke4 Rfe1 37. Rcd5 Ra6 38. Rf8+ Kb7 39. b4 Re6+ 40. Kf5 R1xe3 41. b5 Re8 42. Rf7 1-0
+

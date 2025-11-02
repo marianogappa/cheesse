@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6InK2ZLD"]
+[White "dboenn"]
+[Black "Kishmiish"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:04"]
+[WhiteElo "1666"]
+[BlackElo "1394"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-26"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. e4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Nc3 Bd6 6. Bg5 c6 7. Be2 O-O 8. O-O Bg4 9. Ne5 Bxe2 10. Nxe2 Re8 11. f4 Be7 12. c3 Nbd7 13. Ng3 Qc7 14. Nh5 g6 15. Nxf6+ Bxf6 16. Bxf6 Nxf6 17. Qf3 Ne4 18. Rae1 f6 19. Ng4 Nd2 20. Rxe8+ Rxe8 21. Nxf6+ Kf7 22. Qd1 Nxf1 23. Nxe8 Kxe8 24. Qe2+ Kf7 25. Qxf1 Qe7 26. g4 Qe3+ 27. Kh1 a6 28. f5 g5 29. h3 Qe4+ 30. Qg2 Qe1+ 31. Kh2 Qe3 32. a3 Qf4+ 33. Qg3 Qd2+ 34. Qg2 Qf4+ 35. Kg1 Qc1+ 36. Qf1 Qe3+ 37. Kh2 Qd2+ 38. Qg2 Qf4+ 39. Kh1 Qc1+ 40. Qg1 Qxb2 41. Qe3 Qb1+ 42. Kg2 Qe4+ 43. Kf2 Qc2+ 44. Kf3 Qd1+ 45. Kg3 Qa4 46. Qe6+ Kg7 47. Qe7+ Kg8 48. Qxg5+ Kf8 49. f6 Qc2 50. Qg7+ Ke8 51. Qe7# 1-0
+

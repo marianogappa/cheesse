@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KFmQS3bN"]
+[White "chroneus"]
+[Black "Torpinson"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:04"]
+[WhiteElo "1999"]
+[BlackElo "2073"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+[ECO "B07"]
+[Opening "Pirc Defense #2"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Nf3 Nbd7 7. Bg5 a6 8. O-O-O Bd6 9. Nd5 h6 10. Bxf6+ Nxf6 11. Nxf6 gxf6 12. Bc4 Ke7 13. Nh4 Be6 14. Nf5+ Bxf5 15. exf5 Bc5 16. Bd5 c6 17. Bf3 Bxf2 18. Kb1 Rad8 19. h3 Bd4 20. c3 Bb6 21. g4 Be3 22. Kc2 Bg5 23. Be4 Rxd1 24. Rxd1 h5 25. Bf3 h4 26. Kd3 a5 27. a4 Rd8+ 28. Kc4 Rxd1 29. Bxd1 Kd6 30. Bf3 Bd2 31. b4 axb4 32. cxb4 b6 33. Be4 Be1 34. Bf3 Bd2 35. Be4 Be1 36. Bf3 Bd2 37. Be4 1/2-1/2
+

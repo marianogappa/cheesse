@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/TexsEEtO"]
+[White "aprentice1"]
+[Black "postictal"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:18"]
+[WhiteElo "1518"]
+[BlackElo "1774"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Bc4 g6 5. d4 Bg7 6. Nge2 Nc6 7. Be3 Bg4 8. f3 Bf5 9. O-O Nf6 10. Nf4 e6 11. Nfe2 Nb4 12. a3 Bxc2 13. Qd2 Bb3 14. Bxb3 Nc6 15. d5 exd5 16. Nxd5 Nxd5 17. Qxd5 Qxd5 18. Bxd5 Ne7 19. Bxb7 Rb8 20. Be4 Rxb2 21. Rac1 Rxe2 22. Rxc7 Rxe3 23. Rc8+ Nxc8 24. Bc6+ Kd8 0-1
+

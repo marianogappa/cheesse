@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WZIUeS28"]
+[White "Dopender11"]
+[Black "MrTx"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:19"]
+[WhiteElo "1742"]
+[BlackElo "1592"]
+[WhiteRatingDiff "+22"]
+[BlackRatingDiff "-7"]
+[ECO "B44"]
+[Opening "Sicilian Defense: Paulsen Variation"]
+[TimeControl "300+3"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Be3 a6 6. Be2 Nf6 7. Nc3 Bb4 8. Nxc6 bxc6 9. Qd4 Bxc3+ 10. bxc3 O-O 11. Rb1 Qc7 12. f3 d5 13. e5 Nd7 14. f4 c5 15. Qd2 Bb7 16. O-O d4 17. cxd4 cxd4 18. Bf2 d3 19. cxd3 Rab8 20. Rfc1 Bc6 21. Rxb8 Rxb8 22. Bf3 Rb6 23. Bxb6 Qxb6+ 24. Kf1 Bxf3 25. Rc8+ Nf8 26. gxf3 Qb7 27. Re8 Qxf3+ 28. Kg1 Qg4+ 29. Kf2 Qh4+ 30. Kf3 Qh3+ 31. Ke4 Qf5+ 32. Kd4 f6 33. Ra8 Kf7 34. Ra7+ Kg8 35. Rxa6 fxe5+ 36. fxe5 Qg4+ 37. Kc5 Nd7+ 38. Kb5 Qd4 39. Ra8+ Kf7 40. Qb4 Qxe5+ 41. Kc4 Qf4+ 42. Kc3 Qc7+ 43. Qc4 Qxh2 44. Ra7 Qe5+ 45. Qd4 Qxd4+ 46. Kxd4 Ke7 47. a4 Kd6 48. a5 Nc5 49. Rxg7 Nb3+ 50. Ke4 Nxa5 51. Rxh7 Nc6 52. Rh5 1-0
+

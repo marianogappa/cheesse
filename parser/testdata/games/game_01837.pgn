@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HppZPB8N"]
+[White "TiesB"]
+[Black "matoki"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:50"]
+[WhiteElo "916"]
+[BlackElo "1500"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+25"]
+[ECO "C77"]
+[Opening "Ruy Lopez: Morphy Defense, Bayreuth Variation"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Bxc6 dxc6 6. Qe2 Bd6 7. O-O Bg4 8. h3 Bh5 9. Qe3 O-O 10. Re1 Re8 11. d4 exd4 12. Qxd4 Bxf3 13. e5 c5 14. Qe3 Re6 15. Nc3 Rxe5 16. Qd2 Rxe1+ 17. Qxe1 Bc6 18. Bg5 h6 19. Bh4 g5 20. Bg3 Bxg3 21. fxg3 Qd4+ 22. Kh2 Re8 23. Qf1 Nh5 24. Re1 Rxe1 25. Qxe1 Qd6 26. a4 a5 27. Kh1 Nxg3+ 28. Kg1 Nf5 29. Qe2 Nd4 30. Qe1 Qg3 31. Qxg3 Nf5 32. Qxc7 Nd4 33. g3 Nxc2 34. h4 gxh4 35. gxh4 Nd4 36. Qe7 Nf3+ 37. Kf2 Kg7 38. Ne4 Bxe4 39. Qxe4 Nd2 40. h5 Nxe4+ 41. Ke3 Ng5 42. b3 Kf6 43. Kf4 b6 44. b4 cxb4 45. Ke3 b3 46. Kd4 b2 47. Kd5 b1=Q 48. Kc6 Qb4 49. Kb7 Qxa4 50. Ka7 b5 51. Ka6 b4 52. Ka7 b3 53. Kb6 b2 54. Kb7 b1=Q+ 55. Ka6 Qbb5+ 56. Ka7 Qd7+ 57. Kb6 Qac6+ 58. Kxa5 Qdd5+ 59. Kb4 Qcc4+ 60. Ka3 Qdd3+ 61. Kb2 Qcc2+ 62. Ka1 Qdd1# 0-1
+

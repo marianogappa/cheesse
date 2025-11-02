@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HoUpvyqs"]
+[White "solna"]
+[Black "uropost"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:24"]
+[WhiteElo "1811"]
+[BlackElo "1675"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation, Monte Carlo Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e5 3. e3 exd4 4. exd4 Be6 5. cxd5 Bxd5 6. Nf3 Nf6 7. Be2 Be7 8. O-O O-O 9. Nc3 Nc6 10. Nxd5 Qxd5 11. Be3 Rad8 12. Rc1 b5 13. a3 Rd6 14. Rc5 Qb3 15. Rxb5 Qxd1 16. Rxd1 a6 17. Rb7 Bd8 18. Bxa6 Na5 19. Ra7 c5 20. b4 Nc6 21. bxc5 Nxa7 22. cxd6 Nc6 23. Ne5 Na5 24. Rb1 Nd5 25. Rb8 Nxe3 26. fxe3 f6 27. Nc4 Nc6 28. Ra8 Kf7 29. Kf2 Kg6 30. Bb5 Be7 31. Rxf8 Bxf8 32. Bxc6 1-0
+

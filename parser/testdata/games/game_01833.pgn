@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/7F02tTRC"]
+[White "marcosi99"]
+[Black "palhar"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:54"]
+[WhiteElo "1868"]
+[BlackElo "1805"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "A80"]
+[Opening "Dutch Defense"]
+[TimeControl "300+10"]
+[Termination "Normal"]
+
+1. d4 f5 2. Nf3 Nf6 3. Bf4 g6 4. e3 Bg7 5. c3 d6 6. Bd3 c6 7. h3 h6 8. Qb3 g5 9. Bh2 Ne4 10. d5 Qb6 11. dxc6 Qxb3 12. axb3 bxc6 13. Nbd2 Nxd2 14. Nxd2 O-O 15. O-O e5 16. f4 Be6 17. fxe5 dxe5 18. Nc4 Nd7 19. Ra5 f4 20. exf4 exf4 21. Kh1 Bd5 22. Bg1 f3 23. gxf3 Bxf3+ 24. Kh2 Bd5 25. Rxf8+ Rxf8 26. Rxa7 Ne5 27. Rxg7+ Kxg7 28. Nxe5 Bxb3 29. Nxc6 Bd5 30. Bd4+ Kg8 31. Ne7+ 1-0
+

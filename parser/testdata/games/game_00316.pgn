@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BGSEc2UC"]
+[White "bleedingromeo"]
+[Black "apashton"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:58"]
+[WhiteElo "1295"]
+[BlackElo "1240"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-9"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 Bg4 4. h3 Bxf3 5. gxf3 Be7 6. Bg2 Bh4 7. Qe2 Qg5 8. Nd5 Qxg2 9. Nxc7+ Ke7 10. Nxa8 Qxh1+ 11. Qf1 Qxf3 12. d3 Nf6 13. Be3 Nc6 14. Qe2 Qh1+ 15. Qf1 Qf3 16. Qe2 Qxh3 17. O-O-O Ng4 18. Nc7 Nxf2 19. Nd5+ Kd7 20. Bxf2 Nd4 21. Qd2 Nf3 22. Qc3 Bxf2 23. Qc7+ Ke6 24. Qe7# 1-0
+

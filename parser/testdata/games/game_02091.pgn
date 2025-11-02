@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/7H9IYWtD"]
+[White "bandit55"]
+[Black "TripleBassist"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:51"]
+[WhiteElo "1237"]
+[BlackElo "1252"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-95"]
+[ECO "D07"]
+[Opening "Queen's Gambit Refused: Chigorin Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Nc6 3. e3 Nxd4 4. exd4 e5 5. dxe5 b5 6. cxd5 Bb4+ 7. Bd2 Bxd2+ 8. Nxd2 b4 9. Bb5+ Bd7 10. Qa4 Bxb5 11. Qxb5+ c6 12. Qxc6+ Kf8 13. e6 Rc8 14. Qb7 Rb8 15. Qxa7 b3 16. e7+ Qxe7+ 17. Qxe7+ Kxe7 18. axb3 Kd6 19. Ra5 Re8+ 20. Ne2 Nf6 21. Nc4+ Ke7 22. d6+ Kd7 23. Ra7+ Ke6 24. d7 Ra8 25. Nd4+ Ke7 26. d8=Q+ Kxd8 27. Nc6+ Kc8 28. Nd6# 1-0
+

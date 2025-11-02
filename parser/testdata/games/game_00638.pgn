@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PJrvIJjG"]
+[White "castellnovo"]
+[Black "joelmaklaudia"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:20"]
+[WhiteElo "1655"]
+[BlackElo "1459"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 Nf6 4. e4 e6 5. Bg5 Be7 6. Bxc4 Bb4 7. Ne2 Nc6 8. O-O h6 9. Bh4 O-O 10. e5 g5 11. Bg3 Nh5 12. a3 Be7 13. b4 f5 14. d5 f4 15. dxc6 bxc6 16. Qxd8 Rxd8 17. Bxf4 Nxf4 18. Nxf4 gxf4 19. Ne2 Bg5 20. g3 f3 21. Nc3 Rd4 22. Ba2 Ba6 23. Rfd1 Rxd1+ 24. Rxd1 Bc8 25. h4 Be7 26. Ne4 Ba6 27. Bxe6+ Kg7 28. Bg4 Be2 29. Rd7 Kf7 30. Bh5+ Ke6 31. Rxc7 Kd5 32. Nc3+ Kc4 33. Nxe2 fxe2 34. Bxe2+ 1-0
+

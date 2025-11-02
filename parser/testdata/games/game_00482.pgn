@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/4ttMSfHC"]
+[White "Immortality"]
+[Black "ChessAndCoffee"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:40"]
+[WhiteElo "1657"]
+[BlackElo "1655"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[TimeControl "900+5"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.33] } 1... c6 { [%eval 0.43] } 2. d4 { [%eval 0.41] } 2... d5 { [%eval 0.51] } 3. exd5 { [%eval 0.33] } 3... cxd5 { [%eval 0.31] } 4. Nc3 { [%eval 0.08] } 4... Nc6 { [%eval 0.05] } 5. Nf3 { [%eval -0.19] } 5... Bg4 { [%eval -0.2] } 6. Be2 { [%eval -0.22] } 6... Nf6 { [%eval 0.03] } 7. O-O { [%eval -0.16] } 7... e6 { [%eval -0.08] } 8. Bf4 { [%eval -0.19] } 8... Be7 { [%eval -0.02] } 9. Nb5?! { [%eval -0.55] } 9... O-O { [%eval -0.39] } 10. h3?! { [%eval -1.08] } 10... Bxf3 { [%eval -1.04] } 11. Bxf3 { [%eval -1.04] } 11... Qb6 { [%eval -0.75] } 12. Qe2? { [%eval -2.14] } 12... a6 { [%eval -2.1] } 13. Bc7? { [%eval -3.7] } 13... Qxb5 { [%eval -3.69] } 14. a4? { [%eval -5.6] } 14... Qxb2 { [%eval -5.54] } 15. Qd2?! { [%eval -6.35] } 15... Bb4 { [%eval -5.93] } 16. Qc1?! { [%eval -6.5] } 16... Qxd4 { [%eval -6.25] } 0-1
+

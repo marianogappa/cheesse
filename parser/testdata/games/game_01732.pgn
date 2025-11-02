@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1NzaCYoZ"]
+[White "RaulHuerta"]
+[Black "Goldenjoh"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:34"]
+[WhiteElo "1932"]
+[BlackElo "1827"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 Nc6 3. c3 e6 4. d3 Nf6 5. Bb3 d5 6. exd5 exd5 7. Ne2 d4 8. O-O Be7 9. Ng3 O-O 10. h3 h6 11. Nd2 a5 12. Bc2 b5 13. Qf3 Qd5 14. Nde4 Nxe4 15. dxe4 Qd6 16. Rd1 Be6 17. Bf4 Qd7 18. Kh2 Rad8 19. a3 b4 20. Ba4 Qb7 21. Nf5 Bf6 22. Nd6 Qb6 23. e5 Bxe5 24. Bxc6 Bxf4+ 25. Qxf4 Qxc6 26. Nf5 Bxf5 27. Qxf5 Qd5 28. Qxd5 Rxd5 29. cxd4 cxd4 30. Rd3 Rb8 31. axb4 axb4 32. Rad1 Rbd8 33. b3 f6 34. f4 g5 35. Kg3 Kg7 36. Kf3 Kg6 37. g3 Rc8 38. Rxd4 Rxd4 39. Rxd4 Rc3+ 40. Ke4 Rxb3 41. Rd8 Rxg3 42. Rb8 b3 43. f5+ Kf7 44. Kd5 Rxh3 45. Rb7+ Ke8 46. Ke6 Re3+ 47. Kxf6 g4 48. Kg6 g3 49. f6 g2 50. f7+ Kf8 51. Rb8+ Ke7 52. f8=Q+ Kd7 53. Qd8+ Kc6 54. Qc8+ Kd5 55. Qb7+ Kd4 56. Qxg2 Kc3 57. Rc8+ Kb4 58. Qd2+ Ka3 59. Qxe3 Kb2 60. Rb8 Kb1 61. Rxb3+ Kc2 62. Qc3+ Kd1 63. Rb2 h5 64. Qd2# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/03Vu9Wsy"]
+[White "narkohat"]
+[Black "vahid-nic"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:20"]
+[WhiteElo "2058"]
+[BlackElo "2076"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-16"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Positional Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. e3 Be7 7. Bd3 O-O 8. Qc2 Nbd7 9. Nge2 h6 10. Bh4 Re8 11. O-O a6 12. f3 Qb6 13. Kh1 c5 14. dxc5 Nxc5 15. Bxf6 Bxf6 16. Nxd5 Qd6 17. Nxf6+ gxf6 18. Rad1 Qc7 19. e4 Qb6 20. Bc4 Be6 21. b3 Rac8 22. Ng3 Kh8 23. Qd2 Kh7 24. Bd3 Rcd8 25. Qe3 Qc7 26. e5+ f5 27. Bxf5+ Kg7 28. Nh5+ Kg8 29. Qxh6 f6 30. Nxf6+ Kf7 31. Qh7+ Kf8 32. Qxc7 Bxf5 33. Qxc5+ Kf7 34. Nxe8 Rxd1 35. Rxd1 Kxe8 36. Qd6 Bd7 37. Qxd7+ Kf8 38. Qxb7 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/nT5W5Y03"]
+[White "seveluci"]
+[Black "josecobo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:42"]
+[WhiteElo "1483"]
+[BlackElo "1467"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+16"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d3 d5 3. exd5 Qxd5 4. Nc3 Qc5 5. Be3 Qb4 6. b3 Qxc3+ 0-1
+

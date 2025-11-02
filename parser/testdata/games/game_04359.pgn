@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ibKnMJ9g"]
+[White "w987654312"]
+[Black "moskow_ger"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:46"]
+[WhiteElo "1800"]
+[BlackElo "1641"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[ECO "A00"]
+[Opening "Saragossa Opening"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. c3 e6 2. Qb3 d6 3. Qd1 Bd7 4. d4 Be7 5. e3 Nc6 6. Bd3 Nf6 7. Nd2 Nb8 8. Ngf3 Ng8 9. Be2 Bc6 10. b3 Nd7 11. Bb2 Qc8 12. c4 Ngf6 13. d5 exd5 14. cxd5 Nxd5 15. e4 Nf4 16. Bd3 Nxd3+ 17. Ke2 Nxb2 18. Qb1 Bb5+ 19. Ke3 Nd3 20. Ne5 N3xe5 21. Nc4 f6 22. Nxe5 dxe5 23. Kf3 O-O 24. h4 c6 25. h5 Nc5 26. Kg3 h6 27. f4 exf4+ 28. Kxf4 Nxe4 29. Kxe4 Bd6 30. Kf3 Re8 31. Kf2 c5 32. Qg6 Bc6 33. Rhe1 Re7 34. Rxe7 Bxe7 35. Qd3 Qd7 36. Qe3 Bd6 37. Qg3 Re8 38. Qf3 g5 39. Qe2 g4 40. Kg1 c4 41. Qf1 Bc5+ 42. Qf2 Qd4 43. Kh2 1-0
+

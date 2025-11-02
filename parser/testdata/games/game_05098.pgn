@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/9J9wnko9"]
+[White "Egneto"]
+[Black "ghfrnbrfyn"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:35"]
+[WhiteElo "1711"]
+[BlackElo "1688"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+12"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Qf6 3. Nf3 Bc5 4. Bc4 Nc6 5. Qg5 Qxg5 6. Nxg5 Nh6 7. c3 O-O 8. d3 Ng4 9. O-O Be7 10. Nf3 Na5 11. Bb3 Nxb3 12. axb3 d6 13. Na3 a6 14. Nc4 b6 15. Ne3 Nxe3 16. fxe3 f5 17. exf5 Bxf5 18. e4 Bg4 19. Nd2 Rxf1+ 20. Nxf1 Be2 21. Ne3 Bxd3 22. Nd5 Bd8 23. Bd2 Bxe4 24. Ne3 Bg5 25. Rd1 Rf8 26. Bc1 c6 27. Nc4 Bxc1 28. Rxc1 Bd3 29. Nxd6 Rf6 30. Nc8 c5 31. Ne7+ Kf7 32. Nd5 Rd6 33. Ne3 b5 34. Nf5 Bxf5 35. Rf1 Ke6 36. h3 Rd2 37. g4 Be4 38. Rf2 Rxf2 39. Kxf2 g5 40. Ke3 Bc2 41. b4 cxb4 42. cxb4 Kd5 43. Kf3 Kd4 44. Kg3 h6 45. h4 Bd1 46. hxg5 hxg5 47. b3 Bxb3 48. Kf3 Kd3 49. Kf2 e4 50. Ke1 e3 51. Kf1 Kd2 52. Kg2 e2 53. Kf3 e1=Q 54. Kg2 Bd5+ 55. Kh3 Qh4# 0-1
+

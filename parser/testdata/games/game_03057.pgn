@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PC8WavCF"]
+[White "AblazheiRatibor"]
+[Black "etaoin"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:27"]
+[WhiteElo "1456"]
+[BlackElo "1483"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+10"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 Nc6 3. Qh5 e6 4. Ne2 Nf6 5. Qf3 Ne5 6. Qb3 Nxc4 7. Qxc4 d5 8. exd5 Nxd5 9. O-O Bd6 10. Nbc3 O-O 11. Nxd5 exd5 12. Qxd5 Bxh2+ 13. Kxh2 Qxd5 14. c3 Qh5+ 15. Kg1 b6 16. Ng3 Qh6 17. d4 Qc6 18. Be3 Bb7 19. f3 Rfe8 20. Bf4 Re6 21. Nf5 Rae8 22. Rf2 Re2 23. Rxe2 Rxe2 24. Rf1 Rxg2+ 25. Kxg2 Qg6+ 26. Kf2 Qxf5 27. Bg3 Qxf3+ 28. Kg1 Qxg3# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/r7fUzeB0"]
+[White "Andrexov"]
+[Black "HarpSeal"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:22"]
+[WhiteElo "1825"]
+[BlackElo "1964"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-16"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.38] } 1... e5 { [%eval 0.45] } 2. Bc4 { [%eval -0.03] } 2... Nf6 { [%eval 0.1] } 3. Nf3 { [%eval -0.1] } 3... Nc6 { [%eval 0.24] } 4. d3 { [%eval 0.24] } 4... Bc5 { [%eval 0.21] } 5. O-O { [%eval 0.18] } 5... d6 { [%eval 0.24] } 6. c3 { [%eval 0.21] } 6... a6 { [%eval 0.32] } 7. h3 { [%eval 0.24] } 7... Ba7 { [%eval 0.29] } 8. Bb3 { [%eval 0.08] } 8... O-O { [%eval 0.15] } 9. Be3 { [%eval -0.09] } 9... h6 { [%eval 0.08] } 10. Bxa7 { [%eval 0.0] } 10... Rxa7 { [%eval 0.07] } 11. Nbd2 { [%eval 0.08] } 11... Ra8 { [%eval 0.26] } 12. Nc4 { [%eval 0.1] } 12... Be6 { [%eval 0.18] } 13. Ne3 { [%eval 0.11] } 13... Ne7 { [%eval 0.14] } 14. Bxe6 { [%eval 0.08] } 14... fxe6 { [%eval 0.16] } 15. Qb3 { [%eval 0.01] } 15... Qc8 { [%eval 0.14] } 16. Rac1 { [%eval 0.12] } 16... c6 { [%eval 0.46] } 17. d4?! { [%eval -0.26] } 17... exd4? { [%eval 1.1] } 18. cxd4? { [%eval -0.07] } 18... Kh8?! { [%eval 0.68] } 19. d5? { [%eval -1.05] } 19... e5? { [%eval 0.5] } 20. dxc6 { [%eval 0.58] } 20... bxc6 { [%eval 0.72] } 21. Rfd1 { [%eval 0.23] } 21... Qe6?? { [%eval 14.89] } 22. Qxe6 { [%eval 14.49] } 1-0
+

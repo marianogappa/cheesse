@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RewwhC3r"]
+[White "mcSol_aar"]
+[Black "seefhoran"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:37"]
+[WhiteElo "1719"]
+[BlackElo "1714"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation, Pseudo-Catalan"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 Nc6 4. Bg2 e6 5. O-O Bd6 6. c4 dxc4 7. Nc3 O-O 8. Qc2 Nd5 9. e4 Ndb4 10. Qe2 f6 11. Qxc4 Kh8 12. Rd1 Qe7 13. a3 Na5 14. Qe2 Nb3 15. Rb1 Nxc1 16. Rbxc1 Nc6 17. e5 fxe5 18. dxe5 Bc5 19. b4 Bb6 20. Na4 Bd7 21. Nxb6 axb6 22. Qd2 Rfd8 23. Qb2 Be8 24. Nd4 Nxd4 25. Rxd4 Rxd4 26. Qxd4 Rd8 27. Qc3 c6 28. Qe3 Qc7 29. h4 Bg6 30. Be4 Bxe4 31. Qxe4 Rd5 32. Qf4 h6 33. Re1 c5 34. Qf8+ Kh7 35. bxc5 bxc5 36. Qf4 c4 37. h5 c3 38. Qe4+ Kg8 39. Rc1 Rc5 40. Qg6 Qc6 41. Rd1 Rd5 42. Rc1 b5 43. g4 Rd4 44. g5 Rg4+ 45. Kf1 Qh1+ 46. Ke2 Qxc1 47. Qe8+ Kh7 48. g6+ Rxg6 49. hxg6# 1-0
+

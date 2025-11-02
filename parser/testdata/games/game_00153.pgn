@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/0ngXrewQ"]
+[White "fanno2000"]
+[Black "superii"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:25"]
+[WhiteElo "1938"]
+[BlackElo "1928"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-9"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Declined, Push Variation"]
+[TimeControl "540+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d3 4. Nf3 Nc6 5. Bxd3 d6 6. O-O g6 7. Na3 Bg7 8. Nc2 Nf6 9. h3 O-O 10. Be3 Nd7 11. Qd2 Nce5 12. Be2 Nc5 13. Bxc5 dxc5 14. Qe3 b6 15. Rad1 Qc7 16. Nxe5 Qxe5 17. f4 Qc7 18. e5 Bb7 19. Rd2 Rad8 20. Rfd1 Rxd2 21. Rxd2 Rd8 22. c4 Rd7 23. Bg4 e6 24. h4 Qd8 25. Rxd7 Qxd7 26. Be2 Kf8 27. Ne1 Ke7 28. Bf3 Bxf3 29. Qxf3 Qd4+ 30. Kh2 f6 31. Qb7+ Qd7 32. Qxd7+ Kxd7 33. Nd3 fxe5 34. fxe5 Kc6 35. g4 b5 36. b3 bxc4 37. bxc4 Kb6 38. Kg3 Ka5 39. Kf4 Ka4 40. Nxc5+ Kb4 41. Nxe6 Bh8 42. c5 1-0
+

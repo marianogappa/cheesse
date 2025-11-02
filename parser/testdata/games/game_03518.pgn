@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xDfrIyDY"]
+[White "Musonius"]
+[Black "vidavi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:28"]
+[WhiteElo "2254"]
+[BlackElo "2226"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "B51"]
+[Opening "Sicilian Defense: Canal-Sokolsky Attack"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bxd7+ Bxd7 6. h3 Nf6 7. d3 Qc7 8. a4 O-O-O 9. Bf4 h6 10. e5 Nd5 11. exd6 exd6 12. Bh2 g5 13. Nfd2 Bg7 14. Ne4 Be5 15. c4 Bxh2+ 16. Kxh2 Nf4 17. g3 d5 18. Nf6 Bxh3 19. Qf3 Bxf1 20. Nc3 Bg2 21. Qe3 d4 0-1
+

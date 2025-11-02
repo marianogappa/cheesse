@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/IZOutIFb"]
+[White "madhatt3r"]
+[Black "aditorra70"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:02"]
+[WhiteElo "1704"]
+[BlackElo "1248"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 e6 5. Nf3 Qd6 6. Nb5 Qd8 7. O-O a6 8. Nc3 b5 9. d4 Nc6 10. Bg5 f6 11. Be3 Nb4 12. a3 Nd5 13. Nxd5 Qxd5 14. Rc1 e5 15. c4 Qe4 16. Bd3 Qg4 17. dxe5 f5 18. cxb5 axb5 19. Bxb5+ Bd7 20. Qxd7# 1-0
+

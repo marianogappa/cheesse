@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/wSyyZU7S"]
+[White "Chaman"]
+[Black "jean-emarre"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:28"]
+[WhiteElo "1425"]
+[BlackElo "1618"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 b6 2. f4 Bb7 3. Nf3 c6 4. d3 d6 5. Be2 Nd7 6. Nbd2 a6 7. O-O h6 8. c4 e6 9. b4 Be7 10. a4 g5 11. b5 g4 12. Nd4 e5 13. Nxc6 Bxc6 14. bxc6 Ndf6 15. fxe5 dxe5 16. Bxg4 Qxd3 17. Bf5 h5 18. Bb2 Bd6 19. Nf3 Qxd1 20. Raxd1 Ng4 21. Rxd6 Ne3 22. Bd7+ Kf8 23. Bxe5 Nxf1 24. Kxf1 Rh7 25. c7 Ne7 26. c8=Q+ Nxc8 27. Bxc8 Rxc8 28. Rf6 Rxc4 29. Ng5 Rc1+ 30. Ke2 Rg7 31. Ne6+ Kg8 32. Nxg7 Kxg7 33. Rf1+ Kg6 34. Rxc1 Kg5 35. Rc6 h4 36. g3 hxg3 37. hxg3 Kg4 38. Ke3 Kh3 39. Bf4 f5 0-1
+

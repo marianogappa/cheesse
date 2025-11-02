@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/o2mlS2Ue"]
+[White "zsoltik"]
+[Black "soldier14"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:42"]
+[WhiteElo "2563"]
+[BlackElo "2364"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "A30"]
+[Opening "English Opening: Symmetrical Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. c4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Bc5 6. Nb3 Bb4 7. Bf4 Nf6 8. Bd6 Bxc3+ 9. bxc3 Ne4 10. Ba3 Qf6 11. Qd3 Qxf2+ 12. Kd1 Qf5 13. Kc2 Ne5 14. g4 Qg6 15. Qd4 Ng3+ 16. Kb2 Nc6 17. Qd6 Nxh1 18. Bg2 e5 19. Bxh1 Qxd6 20. Bxd6 h5 21. g5 h4 22. c5 b6 23. Rf1 g6 24. Bd5 Rh7 25. Bxe5 Ba6 26. Bd6 O-O-O 27. Re1 Re8 28. e4 Rh5 29. Rg1 Bd3 30. Nd2 Ne5 31. c4 Nf3 32. Nxf3 Bxe4 33. Nd4 Bxd5 34. cxd5 Re4 35. Kc3 bxc5 36. Bxc5 Re3+ 37. Kc4 Re4 38. Kd3 Rf4 39. Nb5 h3 40. Bd6 Rf5 41. Kc4 Rh4+ 42. Kc5 Ra4 43. Bg3 Rxa2 44. Nd6+ Kd8 45. Nxf5 gxf5 46. Bd6 Rc2+ 47. Kd4 Ke8 48. Ke5 f6+ 49. Kxf6 Rc8 50. g6 Kd8 51. g7 1-0
+

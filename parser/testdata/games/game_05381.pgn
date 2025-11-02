@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4lnvbB86"]
+[White "s_o_u_s"]
+[Black "agspin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:45"]
+[WhiteElo "1636"]
+[BlackElo "1399"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. b4 e5 2. Bb2 e4 3. g3 f5 4. Bg2 Nf6 5. b5 d5 6. f3 a6 7. a4 axb5 8. axb5 Rxa1 9. Bxa1 c6 10. bxc6 Nxc6 11. c3 d4 12. e3 dxc3 13. Nxc3 Be6 14. fxe4 fxe4 15. Nxe4 Nxe4 16. Bxe4 Qd6 17. Qh5+ g6 18. Bxg6+ hxg6 19. Qxh8 Nd8 20. Ne2 Nf7 21. Qf6 Be7 22. Qxg6 Qa3 23. Qb1 Ba2 24. Qc1 Nd6 25. Qxa3 1-0
+

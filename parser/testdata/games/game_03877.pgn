@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/6Zr0Pna4"]
+[White "JesusGS"]
+[Black "alinvirvara"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:45"]
+[WhiteElo "1610"]
+[BlackElo "1604"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B00"]
+[Opening "St. George Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 a6 2. Nf3 h6 3. d4 Nf6 4. e5 Nh7 5. Bd3 d6 6. c3 dxe5 7. Nxe5 Nc6 8. Qc2 Nf6 9. Bg6 Nxe5 10. dxe5 Ng4 11. Bxf7+ Kxf7 12. Qf5+ Bxf5 0-1
+

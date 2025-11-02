@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SN0GLgOj"]
+[White "chopchop1"]
+[Black "thegrinder"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:24"]
+[WhiteElo "1979"]
+[BlackElo "2195"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Wing Gambit, Marshall Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. axb4 Qe5+ 6. Qe2 Qxa1 0-1
+

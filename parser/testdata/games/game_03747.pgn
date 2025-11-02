@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZbnQrfEU"]
+[White "TheConjuring"]
+[Black "Reymex"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:19"]
+[WhiteElo "2086"]
+[BlackElo "2139"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nc6 5. Nf3 Bd6 6. c3 Nge7 7. Be3 O-O 8. Nbd2 Bf5 9. O-O Bxd3 10. Re1 Bg6 11. Ng5 Nf5 12. Nb3 Nxe3 13. Rxe3 Qxg5 14. h3 Rae8 0-1
+

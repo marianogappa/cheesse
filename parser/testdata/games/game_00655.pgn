@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pW3hwCzP"]
+[White "kino512"]
+[Black "pop1000"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:23"]
+[WhiteElo "1784"]
+[BlackElo "1694"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "D07"]
+[Opening "Queen's Gambit Refused: Chigorin Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Nc6 3. e3 Nf6 4. cxd5 Qxd5 5. Nc3 Qd8 6. d5 Ne5 7. e4 e6 8. Qd4 Nc6 9. Bb5 a6 10. Bxc6+ bxc6 11. Nge2 cxd5 12. exd5 Nxd5 13. O-O Nxc3 14. Qxd8+ Kxd8 15. Nxc3 Bd6 16. Bg5+ f6 17. Bh4 Ke7 18. Rfe1 g5 19. Bg3 Bxg3 20. hxg3 h5 21. Rad1 g4 22. Nd5+ Kf7 23. Nxc7 Ra7 24. Rc1 h4 25. gxh4 Rxh4 26. Rc6 Rh5 27. Nxe6 Re5 28. Rxe5 fxe5 29. Nc5 Bb7 30. Rc7+ 1-0
+

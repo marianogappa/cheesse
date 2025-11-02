@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IXDuUXem"]
+[White "aymounos"]
+[Black "GillKill"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:29"]
+[WhiteElo "1393"]
+[BlackElo "1445"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. e3 d5 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. Qd3 c5 6. dxc5 Bxc5 7. Qb5 a6 8. Qxb7 Qa5+ 9. Bd2 Qb6 10. Qxb6 Bxb6 11. a3 Rb8 12. b4 Ngf6 13. Ne2 O-O 14. O-O Ne4 15. Bc1 a5 16. Nbc3 Nxc3 17. Nxc3 Rbc8 18. Bb2 e5 19. Rfd1 Nf6 20. Rd2 Rfd8 21. Rad1 d4 22. exd4 exd4 23. Ne2 Ne4 24. Rd3 h6 25. Bxd4 Bxd4 26. Rxd4 Rxd4 27. Rxd4 Nf6 28. c3 axb4 29. axb4 g5 30. h3 Kg7 31. b5 Rc7 32. b6 Rb7 33. Rb4 Nd7 34. Ng3 Nc5 35. Kf1 Kf6 36. Ke2 Na6 37. Rb2 Nc5 38. c4 Ke5 39. Ke3 f5 40. Ne2 f4+ 41. Kf3 Nd3 42. Rb5+ Kd6 43. Nd4 Nc5 44. Nf5+ Kc6 45. Rb2 Nd3 46. Rb1 h5 47. Ne7+ Kc5 48. Nf5 Ne5+ 49. Ke4 Nxc4 50. Nh6 Nd2+ 51. Kf5 Nxb1 52. Kxg5 Rxb6 53. Kxf4 Nc3 54. Nf5 Nd5+ 55. Ke4 Re6+ 56. Kd3 Rf6 57. Ng3 Rxf2 58. Nxh5 Rxg2 59. Nf6 Rg3+ 0-1
+

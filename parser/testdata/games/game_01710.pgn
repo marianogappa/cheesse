@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/0UIecHzs"]
+[White "randomer"]
+[Black "bcaa"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:28"]
+[WhiteElo "1355"]
+[BlackElo "1350"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-11"]
+[ECO "D21"]
+[Opening "Queen's Gambit Accepted: Godes Variation"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nd7 4. Qa4 c6 5. Qxc4 Nb6 6. Qb3 Be6 7. Qd1 Bg4 8. Nc3 Bxf3 9. exf3 e6 10. Be2 Bb4 11. O-O Bxc3 12. bxc3 Nf6 13. h4 Nfd5 14. Bg5 f6 15. Bd2 Qd7 16. c4 Ne7 17. Be3 O-O-O 18. a4 Nf5 19. a5 Nxe3 20. fxe3 Na8 21. a6 b6 22. Qa4 g5 23. hxg5 fxg5 24. c5 b5 25. Qc2 h5 26. Ra5 Nc7 27. e4 g4 28. d5 e5 29. dxc6 Qxc6 30. Bxb5 Nxb5 31. Qa4 Nd4 32. Qxc6+ Nxc6 33. Rb5 Rd7 34. fxg4 hxg4 35. Rf6 Nd4 36. c6 Nxc6 37. Rxc6+ Rc7 38. Rxc7+ Kxc7 39. Rb7+ Kc6 40. Rxa7 Kb6 41. Re7 Kxa6 42. Rxe5 g3 43. Rg5 Rh4 44. Rxg3 Rxe4 45. Kf2 Ka5 46. Re3 Rg4 47. Rg3 Rb4 48. Kf3 Rb2 49. Kf4 Rb4+ 50. Kf3 Rb3+ 51. Kg4 Rb4+ 52. Kh3 Ka4 53. Rg5 Rb3+ 54. g3 Ka3 55. Kh4 Rb4+ 56. g4 Kb3 57. Rg6 Kc3 58. Kh5 Kd3 59. g5 Rb5 60. Kh6 Ke4 61. Rf6 1-0
+

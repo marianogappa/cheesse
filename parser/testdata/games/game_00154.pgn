@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EceeI2UR"]
+[White "ledofin16"]
+[Black "molliets"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:25"]
+[WhiteElo "1350"]
+[BlackElo "1268"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+13"]
+[ECO "C61"]
+[Opening "Ruy Lopez: Bird Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. Ba4 c6 6. c3 b5 7. Bc2 Bc5 8. d3 dxc3 9. bxc3 Qf6 10. Bb2 Qxf2# 0-1
+

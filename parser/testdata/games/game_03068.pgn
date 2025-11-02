@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/hIMywglo"]
+[White "flavietta"]
+[Black "lucifero123"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:27"]
+[WhiteElo "1484"]
+[BlackElo "1474"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C55"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. O-O Nf6 5. Nc3 Bb4 6. Nd5 Bc5 7. d3 a6 8. a3 b5 9. Ba2 d6 10. b4 Bb6 11. Qe2 O-O 12. Rd1 Be6 13. d4 Bxd4 14. Nxd4 Nxd4 15. Nxf6+ Qxf6 16. Be3 Nxe2+ 0-1
+

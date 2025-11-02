@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/VkHFB6wA"]
+[White "majid141"]
+[Black "SpecialForces"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:36"]
+[WhiteElo "1948"]
+[BlackElo "1670"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "C48"]
+[Opening "Four Knights Game: Spanish Variation, Rubinstein Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Nxe5 c6 6. Bc4 b5 7. Bxf7+ 1-0
+

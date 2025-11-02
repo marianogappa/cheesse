@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/6e8MpvlP"]
+[White "TheMagicalDimwit"]
+[Black "Aleksandar92"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:02"]
+[WhiteElo "1864"]
+[BlackElo "1769"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "C00"]
+[Opening "French Defense: La Bourdonnais Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.25] } 1... e6 { [%eval 0.2] } 2. f4 { [%eval -0.22] } 2... d5 { [%eval -0.12] } 3. exd5 { [%eval -0.57] } 3... exd5 { [%eval -0.57] } 4. Nf3 { [%eval -0.66] } 4... Bc5?! { [%eval -0.03] } 5. d4 { [%eval -0.25] } 5... Bb6 { [%eval -0.19] } 6. c4?! { [%eval -0.95] } 6... dxc4 { [%eval -0.95] } 7. Bxc4 { [%eval -0.88] } 7... Nf6?! { [%eval -0.04] } 8. Nc3?! { [%eval -0.89] } 8... O-O { [%eval -0.94] } 9. O-O { [%eval -1.04] } 9... Bg4 { [%eval -0.93] } 10. h3 { [%eval -1.25] } 10... Bxf3 { [%eval -1.03] } 11. Qxf3?? { [%eval -5.08] } 11... Qxd4+ { [%eval -5.0] } 12. Kh1 { [%eval -5.04] } 12... Qxc4 { [%eval -4.97] } 13. Bd2?! { [%eval -5.62] } 13... Nc6 { [%eval -5.46] } 14. b3 { [%eval -5.53] } 14... Qe6 { [%eval -5.14] } 15. Rae1 { [%eval -5.58] } 15... Qd6 { [%eval -5.36] } 16. Be3 { [%eval -5.33] } 16... Ba5 { [%eval -5.16] } 17. Nb5? { [%eval -7.52] } 17... Qb4 { [%eval -7.23] } 0-1
+

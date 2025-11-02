@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/nMGxtfMF"]
+[White "bookrey"]
+[Black "ziadlotfy"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:17"]
+[WhiteElo "1552"]
+[BlackElo "1631"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-15"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[TimeControl "600+10"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Qf6 3. c3 Bc5 4. d4 exd4 5. Bg5 Qg6 6. Qd2 Qxe4+ 7. Be2 dxc3 8. Nxc3 Qf5 9. O-O Bd6 10. Bd3 Qg4 11. Rae1+ Ne7 12. Bxe7 Bxe7 13. Ne5 Qb4 14. Bc4 f6 15. Re4 fxe5 16. Bf7+ Kxf7 17. Rxb4 Bxb4 18. Qd5+ Kf8 19. Ne4 d6 20. Ng5 Ke8 21. Qf7+ Kd8 22. Qxg7 Re8 23. Nf7+ Kd7 24. Nxe5+ Kd8 25. Nf7+ Kd7 26. Qxh7 Re7 27. Qf5+ Re6 28. Ng5 Ke7 29. Qf7+ Kd8 30. Nxe6+ Bxe6 31. Qxe6 a5 32. a3 Bc5 33. Re1 Bxf2+ 34. Kxf2 Nc6 35. Qe8# 1-0
+

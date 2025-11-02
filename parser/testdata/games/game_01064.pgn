@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/nsnsPWuB"]
+[White "adhocprog"]
+[Black "ayathustra"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:54"]
+[WhiteElo "1856"]
+[BlackElo "1858"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted, Becker Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.11] } 1... e5 { [%eval 0.32] } 2. f4?! { [%eval -0.56] } 2... exf4 { [%eval -0.7] } 3. Nf3 { [%eval -0.48] } 3... h6 { [%eval -0.12] } 4. Bc4 { [%eval -0.36] } 4... Nf6 { [%eval -0.03] } 5. O-O { [%eval -0.47] } 5... Bc5+? { [%eval 0.64] } 6. d4 { [%eval 0.49] } 6... Be7?! { [%eval 1.06] } 7. Bxf4 { [%eval 1.0] } 7... O-O { [%eval 1.34] } 8. Nc3 { [%eval 0.97] } 8... d6 { [%eval 1.29] } 9. e5 { [%eval 0.8] } 9... Nh5? { [%eval 1.85] } 10. Bxh6? { [%eval -0.27] } 10... gxh6 { [%eval -0.21] } 11. exd6?! { [%eval -1.1] } 11... Qxd6?? { [%eval 3.02] } 12. Ne5 { [%eval 2.9] } 12... Ng7? { [%eval 4.99] } 13. Nxf7? { [%eval 3.79] } 13... Kh7?? { [%eval 14.81] } 14. Qd3+?? { [%eval 4.29] } 14... Bf5?? { [%eval 7.49] } 15. Rxf5 { [%eval 7.21] } 15... Nxf5? { [%eval 11.5] } 16. Qxf5+?? { [%eval 2.64] } 16... Qg6 { [%eval 2.72] } 17. Qxg6+? { [%eval 1.21] } 17... Kxg6 { [%eval 1.25] } 18. Rf1?! { [%eval 0.68] } 18... Nc6 { [%eval 0.55] } 19. Ne5+? { [%eval -1.29] } 19... Nxe5 { [%eval -1.21] } 20. dxe5 { [%eval -1.28] } 20... Bc5+ { [%eval -1.22] } 0-1
+

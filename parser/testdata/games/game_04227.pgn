@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hesAaPc7"]
+[White "spero5"]
+[Black "Denisdeno"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:09"]
+[WhiteElo "1933"]
+[BlackElo "1885"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 f5 2. e5 e6 3. Qh5+ g6 4. Qd1 Bg7 5. d4 Ne7 6. Nf3 O-O 7. Bg5 d6 8. Bc4 d5 9. Bb3 Qe8 10. c4 c6 11. Nc3 h6 12. Be3 Nd7 13. O-O Kf7 14. Qd2 h5 15. Ng5+ Kg8 16. h4 Bh6 17. Nxe6 Bxe3 18. Qxe3 Rf7 19. Nc7 Qf8 20. Nxa8 f4 21. Qf3 Nf5 22. e6 Nxh4 23. exf7+ Qxf7 24. Qe2 f3 25. Qe3 Nxg2 26. Qg5 Nf6 27. cxd5 cxd5 28. Nxd5 Kg7 29. Nxf6 Be6 30. Bxe6 Qxe6 31. Nd5 Qh3 32. Qf6+ Kh6 33. Qh8+ Kg5 34. Qe5+ Kh6 35. Nf4 Nxf4 36. Qxf4+ Kg7 37. Qg3 Qc8 38. Nc7 Qf8 39. Rae1 Kh7 40. Ne6 Qf6 41. Ng5+ Kh6 42. Re6 Qxd4 43. Nf7+ Kg7 44. Qxg6+ Kf8 45. Ne5 Qg4+ 46. Nxg4 hxg4 47. Re8# 1-0
+

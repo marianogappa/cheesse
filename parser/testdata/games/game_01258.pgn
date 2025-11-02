@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zqDb44hi"]
+[White "nasserov"]
+[Black "m50000"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:40"]
+[WhiteElo "2126"]
+[BlackElo "2050"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "B98"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Nbd7 9. O-O-O h6 10. Bh4 Qc7 11. g4 Rb8 12. g5 hxg5 13. Bxg5 b5 14. Bxf6 Bxf6 15. Bh3 Nc5 16. Rhe1 e5 17. Nf5 Bxf5 18. exf5 Kf8 19. Nd5 Qd8 20. fxe5 Bxe5 21. f6 gxf6 22. Rf1 Na4 23. c3 b4 24. Nxb4 Rxb4 25. cxb4 Bxb2+ 26. Kb1 Be5 27. Rc1 Qb6 28. Rc8+ Ke7 29. Rxh8 Qd4 30. Qb7# 1-0
+

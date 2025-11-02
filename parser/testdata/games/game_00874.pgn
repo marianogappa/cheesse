@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XaeWMAs5"]
+[White "SquirrelMustard"]
+[Black "PseudoRafa"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:14"]
+[WhiteElo "1742"]
+[BlackElo "1707"]
+[WhiteRatingDiff "-124"]
+[BlackRatingDiff "+89"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nc6 3. d3 Nf6 4. Nf3 Bc5 5. a3 d5 6. exd5 Nxd5 7. O-O Nf4 8. b4 Bd4 9. Nxd4 Nxd4 10. Re1 Qg5 11. Bxf4 Qxf4 12. g3 Nf3+ 13. Kh1 Qf5 14. Re3 Nd4 15. c3 Qxf2 16. Rxe5+ Ne6 17. Bxe6 Bxe6 18. Qa4+ c6 19. Qd1 O-O-O 20. d4 Bd5+ 21. Re4 Bxe4+ 22. Qf3 Bxf3# 0-1
+

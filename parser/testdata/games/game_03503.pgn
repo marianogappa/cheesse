@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/poerIyES"]
+[White "rbatty"]
+[Black "doniver"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:24"]
+[WhiteElo "1808"]
+[BlackElo "1705"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 Qd8 4. d4 Nf6 5. c3 c6 6. Bc4 Be6 7. Bd3 Bd5 8. O-O Qc7 9. Bg5 e6 10. Bh4 Be7 11. Nbd2 h6 12. Bg3 g5 13. Bxc7 1-0
+

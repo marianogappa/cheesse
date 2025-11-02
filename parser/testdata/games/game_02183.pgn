@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fxEIOUNa"]
+[White "OttoLotto"]
+[Black "Geert52"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:08"]
+[WhiteElo "1260"]
+[BlackElo "1275"]
+[WhiteRatingDiff "+20"]
+[BlackRatingDiff "-11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.36] } 1... d5 { [%eval 0.6] } 2. exd5 { [%eval 0.54] } 2... Qxd5 { [%eval 0.66] } 3. Nc3 { [%eval 0.48] } 3... Qd7 { [%eval 0.64] } 4. Bb5 { [%eval 0.45] } 4... c6 { [%eval 0.5] } 5. Bc4 { [%eval 0.25] } 5... Nf6 { [%eval 0.38] } 6. Qf3 { [%eval 0.3] } 6... h6 { [%eval 0.3] } 7. d3 { [%eval 0.3] } 7... a6 { [%eval 0.35] } 8. b3? { [%eval -2.09] } 8... b5 { [%eval -2.1] } 9. Be3 { [%eval -2.31] } 9... bxc4 { [%eval -2.35] } 10. O-O-O? { [%eval -3.69] } 10... e6? { [%eval -2.31] } 11. dxc4 { [%eval -2.33] } 11... Bd6?? { [%eval 0.82] } 12. Bc5? { [%eval -0.98] } 12... O-O?? { [%eval 3.87] } 13. Rxd6? { [%eval 1.99] } 13... Qxd6?? { [%eval 8.39] } 14. Bxd6 { [%eval 8.42] } 14... Bd7? { [%eval 11.48] } 15. Nge2 { [%eval 9.73] } 15... Rd8 { [%eval 13.5] } 16. Rd1? { [%eval 8.27] } 16... c5? { [%eval 14.34] } 17. Bxc5? { [%eval 8.83] } 17... Ra7? { [%eval 17.0] } 18. Ne4 { [%eval 13.59] } 18... Rc7 { [%eval 23.74] } 19. Nxf6+ { [%eval 21.5] } 19... gxf6 { [%eval 22.91] } 20. Bb6 { [%eval 19.59] } 20... Bc6?! { [%eval #4] } 21. Qg3+?! { [%eval #5] } 21... Kh7 { [%eval #4] } 22. Qxc7?! { [%eval 25.76] } 22... Rxd1+ { [%eval 30.22] } 23. Kxd1 { [%eval 25.58] } 23... Bxg2?! { [%eval #5] } 24. Qxb8?! { [%eval #14] } 24... Kg6 { [%eval #4] } 25. Qg8+ { [%eval #3] } 25... Kf5 { [%eval #3] } 26. Qxg2?! { [%eval #4] } 26... Ke5 { [%eval #2] } 27. Qb7?! { [%eval #5] } 27... Kf5 { [%eval #5] } 28. Nd4+?! { [%eval #5] } 28... Kf4 { [%eval #3] } 29. Qxf7?! { [%eval #4] } 29... Kg4 { [%eval #3] } 30. c5?! { [%eval #4] } 30... Kh3 { [%eval #3] } 31. c6?! { [%eval #4] } 31... Kg2 { [%eval #4] } 32. c7?! { [%eval #4] } 32... Kxf2 { [%eval #4] } 33. c8=Q { [%eval #3] } 1-0
+

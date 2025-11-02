@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TG3ygY8D"]
+[White "rubarciya3"]
+[Black "sergeialex"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:47"]
+[WhiteElo "1763"]
+[BlackElo "1535"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "C00"]
+[Opening "French Defense: Queen's Knight"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d6 3. d4 Nf6 4. h3 Be7 5. Nf3 O-O 6. Bd3 b6 7. O-O Bb7 8. Bg5 Nbd7 9. Re1 Nh5 10. Bxe7 Qxe7 11. Nd2 e5 12. Qxh5 exd4 13. Nd5 Bxd5 14. exd5 Qf6 15. Qxh7# 1-0
+

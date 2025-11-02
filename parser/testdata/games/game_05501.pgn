@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3TkpFhzo"]
+[White "stfn"]
+[Black "justbeginner01"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:13"]
+[WhiteElo "1717"]
+[BlackElo "1788"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nc3 e6 3. a3 c5 4. Nf3 d5 5. Bf4 Nc6 6. Nb5 Qa5+ 7. Nc3 Ne4 8. Bd2 cxd4 0-1
+

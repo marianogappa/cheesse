@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/eE3JptFB"]
+[White "filipvannuffel"]
+[Black "mauser7"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:42"]
+[WhiteElo "1394"]
+[BlackElo "1219"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+16"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Central Variation, McDonnell Defense"]
+[TimeControl "60+2"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. d5 Nf6 5. Bxc4 Nxe4 6. Nf3 Bg4 7. Qa4+ Qd7 8. Bb5 c6 9. dxc6 bxc6 10. Bxc6 Qxc6 11. Qxc6+ Nxc6 12. Nc3 Bxf3 13. gxf3 Nxc3 14. bxc3 Bc5 15. O-O O-O 16. a4 Rad8 17. Kh1 Bb6 18. Rg1 Ba5 19. Rxg7+ Kxg7 20. Bd2 Rxd2 21. Rg1+ Kh8 22. c4 Rxf2 23. Rb1 Rxf3 24. c5 0-1
+

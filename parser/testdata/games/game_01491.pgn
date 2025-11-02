@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VMAZbgBA"]
+[White "JustTraining"]
+[Black "Gubio"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:33"]
+[WhiteElo "1892"]
+[BlackElo "1945"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 e6 4. e5 Nge7 5. c3 Ng6 6. d4 cxd4 7. cxd4 d5 8. Nc3 Bb4 9. a3 Bxc3+ 10. bxc3 O-O 11. Bd3 h6 12. Bxg6 fxg6 13. O-O Na5 14. Be3 Nc4 15. Bf2 Bd7 16. a4 Rxf4 17. Nh4 Rxh4 18. Bxh4 Qxh4 19. Qd3 Qg5 20. Rf3 Rf8 21. Rg3 Qf5 22. Qe2 Bxa4 23. Rxa4 Qb1+ 0-1
+

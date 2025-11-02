@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nnJObxJS"]
+[White "maxrocko"]
+[Black "Jonbongovi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:38"]
+[WhiteElo "1188"]
+[BlackElo "1213"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C42"]
+[Opening "Russian Game: Damiano Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 d5 5. Qb5+ c6 6. Nxc6 bxc6 7. Qxc6+ Nxc6 0-1
+

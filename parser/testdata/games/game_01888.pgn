@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Fc5LtPlS"]
+[White "fnietzsche"]
+[Black "GALDIERY"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:05"]
+[WhiteElo "1691"]
+[BlackElo "1829"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+[ECO "D06"]
+[Opening "Queen's Gambit Refused: Austrian Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 c5 3. cxd5 Qxd5 4. dxc5 Qxd1+ 5. Kxd1 Nc6 6. a3 a5 7. e4 e5 8. Be3 Nf6 9. Nc3 Nd4 10. Bb5+ Bd7 11. Bxd7+ Nxd7 12. Nd5 Rc8 13. Bxd4 exd4 14. Nf3 Bxc5 15. Kd2 O-O 16. Rac1 b6 17. Kd3 Rfe8 18. Nxd4 Ne5+ 19. Ke3 Ng4+ 20. Kf3 Nxf2 21. Kxf2 Bxd4+ 22. Kf3 Bxb2 23. Rxc8 Rxc8 24. Nxb6 Rc3+ 25. Kf4 g6 26. a4 Rc6 27. Nd5 Rc4 28. Rb1 Bc1+ 29. Ke5 Bg5 30. Rb8+ Kg7 31. Nb6 Rc5+ 32. Kd4 Rc6 33. Nc4 Bf6+ 34. Kd5 Be7 35. Nxa5 Rc5+ 0-1
+

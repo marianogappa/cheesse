@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/y7WkKQjc"]
+[White "irenka77"]
+[Black "J_Bo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:03"]
+[WhiteElo "1850"]
+[BlackElo "1963"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Bb7 3. Nc3 d6 4. Nf3 c5 5. dxc5 bxc5 6. Bd3 g6 7. Be3 Bg7 8. Qe2 Nf6 9. O-O-O Nc6 10. e5 dxe5 11. Nxe5 Nxe5 12. Bb5+ Ned7 13. Bg5 Bc8 14. Bxf6 Bxf6 15. Nd5 Bg5+ 16. Kb1 O-O 17. f4 a6 18. Bc4 Bf6 19. g4 e6 20. Ne3 Qb6 21. c3 Bxc3 22. f5 exf5 23. gxf5 Bd4 24. fxg6 hxg6 25. Nd5 Qd6 26. h4 Ne5 27. h5 Bf5+ 28. Ka1 Nxc4 29. Qxc4 Be6 30. Nf6+ Bxf6 31. Rxd6 Bxc4 32. Rxf6 Kg7 33. Rf4 g5 34. Rxc4 Rac8 35. h6+ Kh7 36. Rg4 Kg6 37. Ra4 Rc6 38. Re4 f5 39. Re7 Rh8 40. Rg7+ Kf6 41. Rh5 g4 42. a3 c4 43. Rb7 c3 44. bxc3 Rxc3 45. Rb6+ Ke5 46. h7 Rxa3+ 47. Kb2 Rh3 48. Rhh6 Rxh6 49. Rxh6 g3 50. Kc2 Kf4 51. Rg6 Kf3 52. Kd2 f4 53. Ke1 g2 54. Rg8 Rxh7 55. Rf8 g1=Q+ 56. Kd2 Rd7+ 57. Kc3 Qc5+ 0-1
+

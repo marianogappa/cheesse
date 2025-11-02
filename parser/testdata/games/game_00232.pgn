@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/4Lb0Q9wf"]
+[White "HardWoodPusher"]
+[Black "GMIGURNYS"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:42"]
+[WhiteElo "1931"]
+[BlackElo "1982"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation, Monte Carlo Variation"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. e3 e5 2. d4 exd4 3. exd4 d5 4. c4 Nf6 5. Nc3 c6 6. Nf3 Be7 7. c5 O-O 8. Bd3 Bg4 9. O-O Nbd7 10. h3 Bh5 11. g4 Bg6 12. Bg5 Bxd3 13. Qxd3 Re8 14. Rad1 h6 15. Bf4 Bf8 16. Rfe1 Rxe1+ 17. Rxe1 a6 18. Ne5 Rc8 19. b4 b6 20. a3 bxc5 21. dxc5 a5 22. Ne2 axb4 23. axb4 Nxe5 24. Bxe5 Be7 25. Bd4 Nd7 26. Ng3 Bf6 27. Nf5 Bxd4 28. Qxd4 Nf6 29. Nd6 Rb8 30. f3 Qc7 31. Re3 Qa7 32. Kf2 Qa2+ 33. Kg3 Qa7 0-1
+

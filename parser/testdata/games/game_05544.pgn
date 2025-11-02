@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Qc0ozQsU"]
+[White "non-alexandro"]
+[Black "eldocbus"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:27"]
+[WhiteElo "1763"]
+[BlackElo "1822"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "A04"]
+[Opening "Reti Opening #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 Nf6 2. d3 g6 3. e4 d6 4. g3 e5 5. Bg2 Bg7 6. c3 O-O 7. Nbd2 b6 8. O-O Ba6 9. Re1 Bxd3 10. Nf1 Bxf1 11. Bxf1 Nc6 12. Bc4 Rb8 13. Bg5 h6 14. Be3 d5 15. Bb3 d4 16. cxd4 Nxe4 17. d5 Ne7 18. Bxh6 Nxf2 19. Kxf2 Bxh6 20. Rxe5 Bg7 21. Re2 Qd6 22. Rd2 Bh6 23. Rd3 Nf5 24. Rc1 Bxc1 25. Qxc1 Qc5+ 26. Kg2 Qxc1 0-1
+

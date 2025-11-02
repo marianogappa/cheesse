@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/dj3vEaOn"]
+[White "Racurs"]
+[Black "khan1"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:08"]
+[WhiteElo "1758"]
+[BlackElo "1446"]
+[WhiteRatingDiff "-21"]
+[BlackRatingDiff "+20"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Nf6 3. Nc3 e6 4. Bg5 Be7 5. Nf3 Ne4 6. Nxe4 dxe4 7. Bxe7 Qxe7 8. Ne5 O-O 9. e3 Nc6 10. Be2 Nxe5 11. dxe5 b6 12. O-O Bb7 13. Qd4 c5 14. Qd6 Qxd6 15. exd6 Rad8 16. Rad1 Rde8 17. Bb5 Rd8 18. a3 a6 19. Ba4 b5 20. Bb3 c4 21. Ba2 Bd5 22. b3 Rxd6 23. bxc4 bxc4 24. Rfe1 Rb6 25. c3 Rb2 26. Bb1 Rb3 27. f3 exf3 28. gxf3 Bxf3 29. Rd4 Rxc3 30. Rf4 Bh5 31. Rh4 Bg6 32. Ba2 Bd3 33. Kf2 Rxa3 34. Bxc4 Bxc4 35. Rxc4 Rb8 36. Kf3 a5 37. Rd1 g6 38. Rd7 Rbb3 39. Rcc7 Rxe3+ 40. Kf2 Rf3+ 41. Ke2 Rf5 42. Kd2 Rh3 43. Kc2 Rxh2+ 44. Kb3 Rh4 45. Ka3 h5 0-1
+

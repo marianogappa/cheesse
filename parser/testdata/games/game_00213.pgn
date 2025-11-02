@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/7MmMef01"]
+[White "khanwer"]
+[Black "myh0rseisamazing"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:36"]
+[WhiteElo "2011"]
+[BlackElo "1843"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[ECO "A00"]
+[Opening "Polish Opening: King's Indian Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. b4?! { [%eval -0.46] } 1... Nf6 { [%eval -0.27] } 2. Bb2 { [%eval -0.41] } 2... g6?! { [%eval 0.12] } 3. g3 { [%eval -0.2] } 3... Bg7 { [%eval -0.14] } 4. Bg2 { [%eval -0.31] } 4... d5 { [%eval -0.16] } 5. b5 { [%eval -0.29] } 5... a6 { [%eval -0.52] } 6. a4 { [%eval -0.41] } 6... axb5 { [%eval -0.17] } 7. axb5 { [%eval -0.31] } 7... Rxa1 { [%eval -0.24] } 8. Bxa1 { [%eval -0.2] } 8... c6 { [%eval -0.21] } 9. bxc6 { [%eval -0.29] } 9... bxc6 { [%eval -0.08] } 10. d3 { [%eval -0.07] } 10... O-O { [%eval -0.04] } 11. Nh3?! { [%eval -0.64] } 11... c5 { [%eval -0.47] } 12. O-O { [%eval -0.54] } 12... h6 { [%eval -0.29] } 13. Nf4 { [%eval -0.43] } 13... Qd6? { [%eval 0.89] } 14. Bxf6 { [%eval 0.91] } 14... Bxf6 { [%eval 0.89] } 15. Nxd5 { [%eval 0.83] } 15... Bg7 { [%eval 1.06] } 16. Nd2 { [%eval 0.97] } 16... Kh8 { [%eval 1.18] } 17. Nc4 { [%eval 1.14] } 17... Qd8 { [%eval 1.24] } 18. Nce3?! { [%eval 0.7] } 18... Bb7 { [%eval 1.18] } 19. c4?! { [%eval 0.6] } 19... e6 { [%eval 0.77] } 20. Nf4?! { [%eval 0.18] } 20... Bxg2 { [%eval 0.24] } 21. Nfxg2 { [%eval 0.24] } 21... Bd4?! { [%eval 0.82] } 22. Qa4 { [%eval 0.77] } 22... Nc6?? { [%eval 4.79] } 23. Qxc6 { [%eval 4.74] } 1-0
+

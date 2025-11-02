@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/gbWfAWsA"]
+[White "broomhead"]
+[Black "zhamid"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:53"]
+[WhiteElo "1497"]
+[BlackElo "1502"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Bf4 Nc6 3. Nf3 Bg4 4. e3 e6 5. Be2 Nf6 6. Ne5 Bxe2 7. Qxe2 Nxe5 8. Bxe5 Ne4 9. f3 Nd6 10. O-O f6 11. Bg3 Nc4 12. b3 Nd6 13. Nc3 a6 14. Bf2 c6 15. Qd3 Nf5 16. e4 dxe4 17. fxe4 Nd6 18. Rfe1 Be7 19. Rad1 O-O 20. Rf1 Qa5 21. a4 Rad8 22. Be1 Qb6 23. Bf2 Qb4 24. Be1 Qb6 25. Bf2 e5 26. d5 Qc7 27. Qe3 cxd5 28. Rxd5 Nf7 29. Rfd1 Bb4 30. Be1 Bxc3 31. Qxc3 Qxc3 32. Bxc3 Rxd5 33. Rxd5 Rc8 34. Rd3 Ng5 35. Re3 Kf7 36. Kf2 h5 37. h3 Ke6 38. g3 g6 39. Kg2 b6 40. h4 Nf7 41. Kf3 Rc5 42. Ke2 Nd6 43. Kd3 f5 44. Bb4 Rc6 45. Bxd6 Rxd6+ 46. Ke2 fxe4 47. Rxe4 Kf5 48. Re3 g5 49. Rf3+ Kg4 50. hxg5 Kxg5 51. Re3 Rd5 52. c4 Rc5 53. Kf3 Kf5 54. Re4 a5 55. Re3 1-0
+

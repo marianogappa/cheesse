@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ZM48ufHL"]
+[White "AndreikoA"]
+[Black "Sebbelebbe"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:19"]
+[WhiteElo "1403"]
+[BlackElo "1504"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "A00"]
+[Opening "Barnes Opening: Walkerling"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. f3 Nc6 4. c3 Na5 5. Na3 Bxa3 6. bxa3 Nxc4 7. Qa4 Nb6 8. Qb5 c6 9. Qxe5+ Qe7 10. Qc7 O-O 11. Nh3 Qd8 12. Qd6 Re8 13. Ng5 Qe7 14. Qf4 Qe5 15. d4 Qxf4 16. Bxf4 Nc4 17. O-O Nxa3 18. e5 Nh5 19. Bg3 Nxg3 20. hxg3 h6 21. Ne4 d5 22. Nd6 Re6 23. Nf5 Rg6 24. g4 Bxf5 25. gxf5 Rg5 26. f6 gxf6 27. exf6 Rf5 28. Rae1 Rxf6 29. f4 Nb5 30. Re3 Nd6 31. g4 Nc4 32. g5 Nxe3 33. gxf6 Nxf1 34. Kxf1 Re8 35. f5 Re4 36. a4 Rf4+ 37. Kg2 Rxf5 0-1
+

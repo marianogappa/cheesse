@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/gM0IsilM"]
+[White "mhkuu"]
+[Black "tkls"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:23"]
+[WhiteElo "1216"]
+[BlackElo "1103"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "C48"]
+[Opening "Four Knights Game: Spanish Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.17] } 1... e5 { [%eval 0.35] } 2. Nf3 { [%eval 0.27] } 2... Nf6 { [%eval 0.48] } 3. Nc3 { [%eval 0.01] } 3... Nc6 { [%eval 0.06] } 4. Bb5 { [%eval 0.01] } 4... Na5? { [%eval 1.09] } 5. d4 { [%eval 1.0] } 5... Bb4 { [%eval 1.14] } 6. Bd2?! { [%eval 0.16] } 6... a6 { [%eval 0.58] } 7. Bc4?? { [%eval -2.93] } 7... b5?? { [%eval 2.22] } 8. Be2? { [%eval 0.42] } 8... h5? { [%eval 2.67] } 9. h3? { [%eval 0.61] } 9... h4? { [%eval 2.84] } 10. a3? { [%eval 1.61] } 10... Bd6?? { [%eval 5.56] } 11. dxe5 { [%eval 5.62] } 11... Bxe5 { [%eval 5.49] } 12. Nxe5 { [%eval 5.55] } 12... Qe7 { [%eval 5.99] } 13. Nf3 { [%eval 5.87] } 13... Qc5? { [%eval 8.78] } 14. Na4?? { [%eval 2.43] } 14... Qd6?? { [%eval 9.51] } 15. Bxa5?? { [%eval 6.25] } 15... bxa4 { [%eval 6.41] } 16. Qxd6 { [%eval 5.97] } 16... cxd6 { [%eval 5.94] } 17. Bb4?! { [%eval 4.97] } 17... Rb8? { [%eval 6.52] } 18. Bxd6?! { [%eval 5.9] } 18... Rxb2 { [%eval 6.35] } 19. O-O-O { [%eval 6.16] } 19... Ra2? { [%eval 9.09] } 20. Kd2?? { [%eval 3.5] } 20... Nxe4+ { [%eval 3.28] } 21. Ke1? { [%eval 2.02] } 21... Rxc2?? { [%eval 5.38] } 22. Bd3 { [%eval 5.26] } 22... Rxf2?? { [%eval 10.97] } 23. Bxe4 { [%eval 10.29] } 23... Rxg2 { [%eval 23.07] } 24. Kf1 { [%eval 9.99] } 24... Rg3 { [%eval 12.43] } 25. Rd3? { [%eval 8.46] } 25... a5 { [%eval 8.75] } 26. Rh2? { [%eval 7.33] } 26... Ba6? { [%eval 10.09] } 27. Ne5?? { [%eval 0.17] } 27... Rh5?? { [%eval 16.93] } 28. Kf2?? { [%eval 1.12] } 28... Rxd3 { [%eval 1.1] } 29. Nxd3 { [%eval 1.11] } 29... Bxd3 { [%eval 1.18] } 30. Bf5?? { [%eval -3.46] } 30... Rxf5+ { [%eval -3.37] } 31. Ke3 { [%eval -3.29] } 31... Bc2?? { [%eval 0.0] } 32. Re2? { [%eval -2.99] } 1-0
+

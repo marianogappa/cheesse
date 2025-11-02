@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/b9zU8ViY"]
+[White "jerrimada"]
+[Black "markast"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:05"]
+[WhiteElo "1310"]
+[BlackElo "1239"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+[ECO "A40"]
+[Opening "Polish Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 b5 2. Bf4 Bb7 3. Na3 g6 4. Nxb5 c6 5. Be5 cxb5 6. Bxh8 Nh6 7. Be5 f6 8. Bg3 d6 9. Nf3 Qa5+ 10. Qd2 b4 11. c3 bxc3 12. Qxc3 Qxc3+ 13. bxc3 Bc6 14. d5 Bb5 15. Rb1 a6 16. Nd4 Bc4 17. a3 Bxd5 18. e3 Bg7 19. Bd3 Nf5 20. O-O Nxd4 21. exd4 Bxg2 22. Kxg2 f5 23. Rxb8+ Kf7 24. Rxa8 d5 25. Rxa6 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3BaoMs7L"]
+[White "joebat"]
+[Black "Axplicyt"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:27"]
+[WhiteElo "1372"]
+[BlackElo "1374"]
+[WhiteRatingDiff "-121"]
+[BlackRatingDiff "+9"]
+[ECO "C40"]
+[Opening "Latvian Gambit: Mlotkowski Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 f5 3. Nc3 Nf6 4. d4 fxe4 5. Nxe4 Nxe4 6. Bd3 Nf6 7. O-O Ng4 8. h3 d6 9. Bg5 Be7 10. h4 b6 11. Qe2 Bb7 12. Rfe1 Bxf3 13. Qxf3 h5 14. Be4 Bxg5 15. hxg5 Qxg5 16. g3 Rf8 17. Qb3 c6 18. Rf1 h4 19. Qe6+ Kd8 20. Qxd6+ Nd7 21. Qxf8+ Nxf8 22. Bxc6 Rc8 23. d5 h3 24. Rfd1 h2+ 25. Kg2 Qf5 26. Rd2 Qe4+ 27. f3 Ne3+ 28. Kh3 Qh7# 0-1
+

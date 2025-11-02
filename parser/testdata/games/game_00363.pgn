@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PhWULnWm"]
+[White "cap_lucas"]
+[Black "rafitac"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:11"]
+[WhiteElo "1472"]
+[BlackElo "1479"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Bc5 3. Nc3 d6 4. d4 exd4 5. Nxd4 Nf6 6. f3 O-O 7. Nde2 Nc6 8. a3 Nh5 9. Bd2 Be6 10. Nf4 Nxf4 11. Bxf4 Qh4+ 12. g3 Qd8 13. Qe2 Nd4 14. Qd3 d5 15. O-O-O dxe4 16. Qxe4 Qf6 17. Qxb7 Rab8 18. Qxc7 Nxf3 19. Qxc5 Rbc8 20. Qe3 Ng5 21. Bxg5 Qf5 22. Bd3 Qa5 23. Qd4 f6 24. Bd2 Rfd8 25. Qb4 Qh5 26. Ne4 Ba2 27. b3 Rb8 28. Qa4 Rdc8 29. Kb2 Bxb3 30. cxb3 Qe5+ 31. Bc3 Qd6 32. Qd4 Rxb3+ 33. Kxb3 Qb8+ 34. Bb4 a5 35. Qc4+ 1-0
+

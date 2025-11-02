@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bSJhKo2M"]
+[White "Matachipachus"]
+[Black "SAPEROCOXD"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:49"]
+[WhiteElo "1755"]
+[BlackElo "1723"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Catalan Formation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. g3 e6 2. Bg2 d5 3. c4 Nf6 4. Nc3 d4 5. Nb5 a6 6. Na3 Bd6 7. b3 O-O 8. Bb2 b6 9. Nf3 Bb7 10. O-O Nbd7 11. Nxd4 Bxg2 12. Kxg2 Ne5 13. Nac2 c5 14. Nf3 Nxf3 15. exf3 Nh5 16. d4 Qg5 17. Bc1 Qg6 18. Kh1 f5 19. f4 Nf6 20. dxc5 Bxc5 21. Be3 Rac8 22. Bxc5 Rxc5 23. Nd4 Qh6 24. h4 Ng4 25. Qe2 e5 26. b4 Rc7 27. fxe5 Re7 28. e6 Nf6 29. Rae1 Ne4 30. Kg2 Qf6 31. f3 Nxg3 32. Kxg3 Qxd4 33. c5 bxc5 34. bxc5 Qxc5 35. Qxa6 Qc7+ 36. Kg2 Qc2+ 37. Rf2 Qc3 38. a4 Qxe1 39. Qd6 Qxe6 40. Qxe6+ Rxe6 41. a5 Ra6 42. Kg3 Rfa8 43. Kf4 Rxa5 44. Re2 Rb8 45. Kg5 Rb6 46. h5 h6+ 47. Kh4 Kh8 48. Kg3 Ra3 49. Kf4 Rb4+ 50. Kxf5 Rxf3+ 51. Ke6 Re4+ 52. Rxe4 Rf8 53. Kd7 Ra8 54. Re8+ Rxe8 55. Kxe8 Kh7 0-1
+

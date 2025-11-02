@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fYmH5wCH"]
+[White "madrid1968ab"]
+[Black "ryamo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:33"]
+[WhiteElo "1478"]
+[BlackElo "1455"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 c6 3. Bc4 b5 4. Bb3 Ba6 5. Nh3 Bb4+ 6. c3 Ba5 7. O-O b4 8. Re1 Nf6 9. d5 bxc3 10. bxc3 cxd5 11. exd5 Qb6 12. dxe6 dxe6 13. Bg5 Nbd7 14. Ba4 Bb5 15. Bxb5 Qxb5 16. Qf3 O-O 17. a4 Qb2 18. Nd2 Bxc3 19. Nc4 Qb4 20. Rab1 Qxc4 21. Rec1 Qa2 22. Qxc3 Ne4 23. Qc7 Ne5 24. Qxe5 f6 25. Qxe6+ Kh8 26. Qxa2 Nxg5 27. Nxg5 fxg5 28. Qd2 Rad8 29. Qxg5 h6 30. Qg6 Rf6 31. Qg3 Rd2 32. Rb8+ Kh7 33. Qg4 Rfxf2 34. Qe4+ g6 35. Rc7+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sUEpcd8B"]
+[White "tuckshop89"]
+[Black "amondodo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:10"]
+[WhiteElo "1328"]
+[BlackElo "1497"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-16"]
+[ECO "C68"]
+[Opening "Ruy Lopez: Exchange Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d3 h6 6. Nxe5 Bd6 7. Nf3 Bg4 8. Nbd2 Qe7 9. O-O O-O-O 10. Re1 Bc5 11. h3 Bh5 12. a3 Ba7 13. b4 Nf6 14. c4 Bxf3 15. Nxf3 Nd7 16. e5 g5 17. e6 fxe6 18. c5 Rhg8 19. Nd4 Qg7 20. Nxe6 Qxa1 21. Nxd8 Rxd8 22. Qg4 b6 23. Qe6 bxc5 24. Qxc6 cxb4 25. Qxa6+ Kb8 26. Qxa7+ Kxa7 27. Be3+ Kb7 28. Rxa1 b3 29. Rb1 Nb6 30. Rxb3 c5 31. Bxc5 Kc6 32. Bxb6 Rb8 33. Rc3+ Kxb6 34. Rc4 Ra8 35. a4 Rd8 36. Rc3 Rd4 37. Rb3+ Ka5 38. Rb7 Kxa4 39. Ra7+ Kb5 40. Rh7 Rd6 41. f3 Kb4 42. Rb7+ Kc3 43. Ra7 Kxd3 44. Ra1 Re6 45. Rd1+ Kc2 46. Rd4 Kc3 47. Re4 Ra6 48. h4 Ra1+ 49. Kh2 g4 50. fxg4 Kd3 51. Re8 Ra4 52. Re6 Rxg4 53. Rxh6 Ke3 54. h5 Kf4 55. Rh8 Rh4+ 56. Kg1 Ke3 57. h6 Ra4 58. h7 Ra1+ 59. Kh2 Ra6 60. Re8+ Kd4 61. h8=Q+ Kc4 62. Qh4+ Kc5 63. Re5+ Kd6 64. Rg5 Ra2 65. Qh6+ 1-0
+

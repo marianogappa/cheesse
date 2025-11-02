@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ygGX91lX"]
+[White "xesmaster"]
+[Black "Wojti1984"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:19"]
+[WhiteElo "1207"]
+[BlackElo "1286"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-13"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Qf6 3. d3 h6 4. Nc3 c6 5. d4 exd4 6. Nxd4 Bc5 7. Be3 d6 8. Bc4 Be6 9. Bxe6 fxe6 10. O-O Nd7 11. Re1 O-O-O 12. Qe2 Bxd4 13. Bxd4 Qxd4 14. Rad1 Qe5 15. f3 g5 16. Qc4 Nb6 17. Qb4 Nd5 18. exd5 Qf5 19. dxe6 Qxc2 20. e7 Re8 21. Qxd6 Qxc3 22. bxc3 1-0
+

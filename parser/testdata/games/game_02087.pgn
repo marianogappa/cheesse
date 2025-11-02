@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AnVOWoYk"]
+[White "akner92val"]
+[Black "betamoo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:50"]
+[WhiteElo "1797"]
+[BlackElo "1671"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "B50"]
+[Opening "Sicilian Defense: Delayed Alapin"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. g3 Nxe4 5. Qa4+ Bd7 6. Qxe4 Nc6 7. Bg2 g6 8. O-O Bg7 9. d4 Bf5 10. Qe3 cxd4 11. Nxd4 Nxd4 12. cxd4 Qb6 13. Rd1 Rc8 14. Nc3 Bd7 15. Nd5 Qd8 16. Re1 e6 17. Nf4 O-O 18. Bxb7 Rc4 19. d5 Bd4 20. Qe2 Bb5 21. dxe6 Qe7 22. exf7+ Rxf7 23. Qxe7 1-0
+

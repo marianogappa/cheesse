@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8cGHHtdC"]
+[White "Te_Jodite"]
+[Black "flash59"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:07"]
+[WhiteElo "934"]
+[BlackElo "947"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-11"]
+[ECO "A10"]
+[Opening "English Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. c4 d6 2. Nc3 Be6 3. f3 Bxc4 4. d3 Be6 5. e4 Nc6 6. Nge2 f5 7. b3 fxe4 8. f4 exd3 9. Qxd3 Nf6 10. Ng3 Bg4 11. h3 Nb4 12. Qd4 Nbd5 13. Nxd5 Nxd5 14. Qxd5 Bd7 15. Be2 g6 16. h4 Bg7 17. f5 Bxa1 18. Bc4 Bc3+ 19. Kd1 e6 20. Qxb7 exf5 21. Qd5 c6 22. Qf7# 1-0
+

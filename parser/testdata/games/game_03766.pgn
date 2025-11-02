@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/PRQnI213"]
+[White "MagoArthur"]
+[Black "Thisme"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:24"]
+[WhiteElo "1790"]
+[BlackElo "1789"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "+0"]
+[ECO "B46"]
+[Opening "Sicilian Defense: Paulsen Variation"]
+[TimeControl "540+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 6. Nxc6 bxc6 7. e5 Qc7 8. f4 Ne7 9. Bd3 Bb7 10. Bd2 O-O-O 11. Qe2 Nf5 12. Bxf5 exf5 13. a3 d6 14. O-O-O dxe5 15. Qxe5 Qxe5 16. fxe5 g6 17. Bg5 Rxd1+ 18. Rxd1 Bc5 19. Na4 Ba7 20. Bf6 Re8 21. c4 Be3+ 22. Kc2 Bf4 23. Nb6+ Kc7 24. Nd7 Bc8 25. g3 Bxg3 26. hxg3 Bxd7 27. Kc3 Be6 28. Rh1 h5 29. c5 Bd5 30. Re1 Rg8 31. b4 g5 32. Rf1 Be4 33. Kc4 h4 34. gxh4 gxh4 35. Bxh4 Rg4 36. Re1 Rxh4 37. a4 Bc2+ 38. Kc3 Bxa4 39. e6 fxe6 40. Rxe6 Re4 41. Rf6 Bb5 42. Rxf5 Re3+ 43. Kd2 Rh3 44. Rf7+ Kd8 45. Rb7 Rh2+ 46. Ke3 Rh4 47. Kf3 Rxb4 48. Rb6 Kc7 49. Ke3 Rb3+ 50. Kd2 Rb4 51. Kc3 Rc4+ 52. Kb3 Rxc5 53. Kb4 Kxb6 54. Ka3 Bd3 55. Kb4 Rb5+ 56. Ka4 c5 57. Ka3 c4 58. Ka2 c3 59. Ka3 c2 60. Ka4 Ra5+ 61. Kb3 Bc4+ 62. Kxc2 Rb5 63. Kc3 a5 64. Kxc4 a4 65. Kc3 a3 66. Kc4 a2 67. Kd4 a1=Q+ 68. Ke4 Rb3 69. Kd5 Qa2 70. Ke5 1/2-1/2
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/mxnpBunz"]
+[White "Geovanchess"]
+[Black "Terir"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:33"]
+[WhiteElo "1843"]
+[BlackElo "1602"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-12"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 h6 4. Nc3 Nf6 5. h3 a6 6. a3 Bd7 7. d3 c6 8. O-O b5 9. Ba2 Be7 10. d4 exd4 11. Nxd4 O-O 12. Re1 c5 13. Nf5 Nc6 14. Nxd6 Be6 15. Bxe6 Bxd6 16. Ba2 Bh2+ 17. Kxh2 Qxd1 18. Rxd1 Rfd8 19. Bf4 g5 20. Bc7 Rdc8 21. Bb6 Nd4 22. e5 Nd5 23. Nxd5 Nxc2 24. Rac1 Nd4 25. Ne7+ 1-0
+

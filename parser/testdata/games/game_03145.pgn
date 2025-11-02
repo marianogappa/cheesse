@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ewf7UOtH"]
+[White "vit123"]
+[Black "Jonnyturgi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:46"]
+[WhiteElo "1973"]
+[BlackElo "1992"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+13"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. c3 Nc6 7. O-O cxd4 8. cxd4 Nge7 9. Nc3 Nc8 10. a3 Be7 11. b4 O-O 12. b5 Na5 13. a4 Nb6 14. Ba3 Rc8 15. Qe1 Bxa3 16. Rxa3 Qe7 17. Ra2 Qb4 18. Nd1 Qxe1 19. Rxe1 Rc1 20. Kf1 h6 21. Ne3 Rxe1+ 22. Kxe1 Bg6 23. g4 Rc8 24. Kd1 Nbc4 25. h4 Bb1 26. Ra1 Nxe3+ 27. fxe3 Bc2+ 28. Kd2 Nb3+ 29. Ke1 Nxa1 30. g5 Be4 31. gxh6 gxh6 32. Nd2 Nc2+ 33. Kf2 Na3 34. Kg3 Nc4 35. Kf4 Bg6 36. Nf3 b6 37. Nh2 Nb2 38. Ng4 Kg7 39. Nf6 Nxa4 40. h5 Bf5 41. Bf3 Nc3 42. Bg4 Bxg4 43. Nxg4 Nxb5 44. e4 dxe4 45. Kxe4 Rc4 46. Nf6 Rxd4+ 47. Ke3 a5 48. Ne8+ Kf8 49. Nc7 Nxc7 50. Kxd4 b5 51. Kc3 Nd5+ 52. Kb3 a4+ 53. Ka3 f6 54. Ka2 fxe5 55. Ka3 e4 56. Kb2 e3 57. Kc2 b4 58. Kb2 a3+ 59. Ka2 e2 60. Kb3 e1=Q 61. Ka2 Qd2+ 62. Kb3 Qc3+ 63. Ka4 a2 64. Kb5 b3 65. Ka4 a1=Q+ 66. Kb5 Qaa5# 0-1
+

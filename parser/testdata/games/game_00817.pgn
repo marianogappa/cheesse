@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/r5SfKcdC"]
+[White "paulo-casagrande"]
+[Black "zeebra"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:02"]
+[WhiteElo "1408"]
+[BlackElo "1246"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-9"]
+[ECO "C55"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. O-O Nf6 5. Nc3 a6 6. a3 b5 7. Ba2 Bc5 8. b4 Bb6 9. h3 g5 10. d3 g4 11. hxg4 Nxg4 12. Nh2 Nxf2 13. Rxf2 Bxf2+ 14. Kxf2 Nd4 15. Nd5 Qh4+ 16. Kg1 Rg8 17. Qf1 d6 18. Nxc7+ Kd7 19. Qxf7+ Kc6 20. Bd5+ Kb6 21. Nxa8# 1-0
+

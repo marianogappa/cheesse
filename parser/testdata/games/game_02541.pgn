@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GktHqePA"]
+[White "bastonetonante"]
+[Black "VTumane"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:38"]
+[WhiteElo "1599"]
+[BlackElo "1670"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Berlin Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Nf3 d6 5. Ng5 O-O 6. O-O h6 7. Nxf7 Rxf7 8. Bxf7+ Kxf7 9. Nc3 a5 10. Be3 Na6 11. Bxc5 Nxc5 12. f4 Kg8 13. fxe5 dxe5 14. Qe1 Qd4+ 15. Qf2 Ng4 16. Qxd4 exd4 17. Ne2 b6 18. Nxd4 Bb7 19. Rf4 Ne5 20. Raf1 Na4 21. b3 Nc3 22. Nf5 Ne2+ 23. Kh1 Nxf4 24. Rxf4 Rf8 25. g4 g6 26. Nxh6+ Kg7 27. Rxf8 Kxf8 28. Kg2 Kg7 29. g5 Nf7 30. Nxf7 Kxf7 31. h4 b5 32. Kf3 a4 33. a3 axb3 34. cxb3 Bc6 35. b4 Bd7 36. d4 Be6 37. Kf4 c6 38. Ke5 Bc4 39. d5 cxd5 40. exd5 Ke7 41. d6+ Kf7 42. d7 Ke7 43. d8=Q+ Kxd8 44. Kf6 Bd3 45. Kg7 Kd7 46. Kh6 Kd6 47. h5 gxh5 48. Kxh5 Kd5 49. g6 Bxg6+ 50. Kxg6 Kc4 51. Kf6 Kb3 52. Ke5 Kxa3 53. Kd5 Kxb4 54. Kd4 Ka3 55. Kc3 b4+ 56. Kc2 Ka2 57. Kc1 b3 0-1
+

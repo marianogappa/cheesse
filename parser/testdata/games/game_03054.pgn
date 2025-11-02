@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3kIW2Khh"]
+[White "kreshnik2"]
+[Black "Timeofnoreply"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:27"]
+[WhiteElo "1864"]
+[BlackElo "2191"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Van der Wiel Attack"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nc3 d5 3. e5 Bf5 4. d4 e6 5. Bd3 Bxd3 6. Qxd3 Bb4 7. Nf3 Ne7 8. O-O c5 9. Bg5 Bxc3 10. bxc3 O-O 11. Rab1 b6 12. c4 dxc4 13. Qxc4 cxd4 14. Nxd4 h6 15. Bh4 g5 16. Bg3 Nd5 17. Rbd1 Nd7 18. f4 Rc8 19. Qe2 Nc3 20. Qh5 Nxd1 21. Rxd1 Kh7 22. f5 Qe7 23. f6 Qc5 24. Kh1 Nxe5 25. Nxe6 Qxc2 26. Nxg5+ Kg8 27. Bxe5 hxg5 28. Qxg5+ Qg6 29. Qf4 Rcd8 30. Rf1 Rd3 31. h4 Rfd8 32. Rf3 Rxf3 33. Qxf3 Rd3 34. h5 Rxf3 0-1
+

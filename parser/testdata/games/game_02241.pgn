@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NWTcGaVw"]
+[White "ucha"]
+[Black "fanfare"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:21"]
+[WhiteElo "1824"]
+[BlackElo "1820"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Gurgenidze System"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. Nc3 g6 4. Be3 Bg7 5. f3 Qb6 6. Rb1 Nd7 7. a3 Bh6 8. Bxh6 Nxh6 9. exd5 cxd5 10. Nxd5 Qa5+ 11. Nc3 O-O 12. Bd3 Qg5 13. g3 Nf5 14. Nge2 Nf6 15. Qd2 Nxd4 16. Qxg5 Nxf3+ 17. Kf2 Nxg5 18. h4 Ne6 19. Nf4 Nxf4 20. gxf4 b6 21. Rbg1 Nh5 22. f5 Bb7 23. Rh2 Nf4 24. Bc4 e6 25. h5 exf5 26. hxg6 hxg6 27. Rh4 Ne6 28. Rgh1 Kg7 29. Rh7+ Kf6 30. R1h2 Rac8 31. Bb3 Ng5 32. R7h4 Ne4+ 33. Nxe4+ Bxe4 34. c3 Bc6 35. Rd4 Rfe8 36. Kg1 Kg7 37. Rhd2 Re1+ 38. Kf2 Rce8 39. Rd6 R1e6 40. R6d4 Bb7 41. Rd7 Ba6 42. Rxa7 Re2+ 43. Rxe2 Rxe2+ 44. Kf3 Bb5 45. a4 1-0
+

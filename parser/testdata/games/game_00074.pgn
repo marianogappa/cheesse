@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/HNRbZ5Yj"]
+[White "Dummer"]
+[Black "lollipop61"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:05"]
+[WhiteElo "1545"]
+[BlackElo "1531"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. f4 d5 3. d3 Bg4 4. Be2 Bxe2 5. Nxe2 e6 6. Nbc3 Bc5 7. exd5 cxd5 8. a3 Ne7 9. b4 Bb6 10. Ng3 Nbc6 11. Qe2 O-O 12. Be3 h6 13. Bxb6 Qxb6 14. Qf2 Qxf2+ 15. Kxf2 Nd4 16. Rac1 Rac8 17. Nce2 Nxc2 18. Rhd1 Nxa3 19. Rxc8 Rxc8 20. Nd4 Nc6 21. b5 Nxd4 22. Ke3 Naxb5 23. Rb1 Rc3 24. Re1 Nf5+ 25. Nxf5 exf5 26. Kd2 Kf8 27. Re5 Ra3 28. Rxd5 Ra2+ 29. Kc1 Rxg2 30. Rxb5 Rxh2 31. Rxb7 g6 32. Rxa7 Rf2 33. d4 Rxf4 34. d5 Rc4+ 35. Kd2 Rd4+ 36. Kc3 Rxd5 37. Ra8+ Kg7 38. Ra7 Rc5+ 39. Kb4 Rd5 40. Kc4 Rd4+ 41. Kxd4 h5 0-1
+

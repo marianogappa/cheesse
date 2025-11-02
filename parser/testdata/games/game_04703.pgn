@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cRga6r9t"]
+[White "cgds"]
+[Black "PabloIV"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:04"]
+[WhiteElo "1694"]
+[BlackElo "1652"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+12"]
+[ECO "B70"]
+[Opening "Sicilian Defense: Dragon Variation"]
+[TimeControl "120+2"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bg5 Bg7 7. Bd3 O-O 8. Qd2 Nc6 9. Nxc6 bxc6 10. Bh6 e5 11. Bxg7 Kxg7 12. h4 h5 13. f3 Rh8 14. g4 Bxg4 15. fxg4 Nxg4 16. Be2 Qd7 17. Rg1 f5 18. Qg5 Nh6 19. Bxh5 Qe6 20. exf5 Nxf5 21. Bxg6 Rh6 0-1
+

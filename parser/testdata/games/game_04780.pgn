@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/4X0QOXoz"]
+[White "roeme"]
+[Black "labuverr"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:21"]
+[WhiteElo "1868"]
+[BlackElo "1588"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 Nf6 5. f4 g6 6. f5 gxf5 7. Nf3 Bg7 8. O-O b6 9. d4 Nc6 10. d5 Qd7 11. dxc6 Qxc6 12. Ng5 O-O 13. Bf3 1-0
+

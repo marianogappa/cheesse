@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/fWBfmeJQ"]
+[White "swami33"]
+[Black "fornicella"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:46"]
+[WhiteElo "1635"]
+[BlackElo "1617"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bc5 5. d3 d6 6. Be3 Bxe3 7. fxe3 O-O 8. Qe2 Bg4 9. h3 Bh5 10. g4 Bg6 11. O-O a6 12. a3 Qd7 13. Nd5 Nxd5 14. Bxd5 Rab8 15. Rf2 Ne7 16. Ba2 b5 17. b4 Ra8 18. Raf1 a5 19. bxa5 Rxa5 20. Ra1 Rfa8 21. Nh4 Rxa3 22. c3 Nc6 23. Nxg6 hxg6 24. Qf3 Rf8 25. Qg3 Rxc3 26. Bd5 Rxd3 27. Rfa2 b4 28. Ra8 Nd8 29. h4 Qe7 30. h5 c6 31. Bc4 Rc3 32. Bf1 Ne6 33. hxg6 fxg6 34. Rxf8+ Qxf8 35. Bh3 Nc5 36. g5 Nxe4 37. Be6+ Qf7 38. Bxf7+ Kxf7 39. Ra7+ Ke6 40. Qg4+ Kd5 41. Ra5+ c5 42. Qd1+ Ke6 43. Ra8 Rxe3 44. Qg4+ Kd5 45. Qd1+ Ke6 46. Re8+ Kf5 47. Rf8+ Kxg5 48. Qc1 1-0
+

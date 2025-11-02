@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/tqnLgvfv"]
+[White "ChicagoAL"]
+[Black "ParasOsa"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:09"]
+[WhiteElo "1139"]
+[BlackElo "1241"]
+[WhiteRatingDiff "+21"]
+[BlackRatingDiff "-14"]
+[ECO "B25"]
+[Opening "Sicilian Defense: Closed Variation, Traditional"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 Qa5 4. d3 e5 5. a3 Nd4 6. g3 b5 7. Bh3 b4 8. Nd5 bxa3+ 9. Bd2 Qa4 10. Rxa3 Qxc2 11. Nc7+ Kd8 12. Nxa8 Qxb2 13. Rxa7 Nxf3+ 14. Ke2 Nxd2 15. Qxd2 Qb8 16. Qa5+ Ke8 17. Nc7+ Kd8 18. Na6+ Ke8 19. Nxb8 1-0
+

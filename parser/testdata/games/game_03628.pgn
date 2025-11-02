@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JRWpJXQM"]
+[White "iran-man"]
+[Black "horacoss"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:50"]
+[WhiteElo "1903"]
+[BlackElo "1835"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C15"]
+[Opening "French Defense: Winawer Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 dxe4 5. Bxe4 Nf6 6. Qd3 Nxe4 7. Qxe4 Nc6 8. Ne2 O-O 9. O-O Re8 10. b3 a6 11. Bb2 Qg5 12. Na4 Bd7 13. Nc5 Bc8 14. c4 b6 15. Qxc6 bxc5 16. Qxa8 cxd4 17. Qf3 e5 18. Ng3 Bg4 19. Ne4 Qg6 20. Qd3 f5 21. Ng3 c5 22. f3 e4 23. fxe4 fxe4 24. Qb1 Ba5 25. Rf4 Bc7 26. Rxe4 Rf8 27. Re7 Bb8 28. Qxg6 hxg6 29. Rf1 Rxf1+ 30. Nxf1 Kh7 31. h3 Bf5 32. g4 Bc2 33. Nd2 Bf4 34. Nf3 d3 35. Rxg7+ Kh6 36. g5+ Bxg5 37. Nxg5 Kxg5 38. Rd7 Kf5 39. Bc3 Ke4 40. Bd2 Kf3 41. Kf1 Kg3 42. Rg7 Kxh3 43. Rxg6 Bb1 44. Rxa6 Bc2 45. Kf2 Kg4 46. Ke3 Kf5 47. Rc6 1-0
+

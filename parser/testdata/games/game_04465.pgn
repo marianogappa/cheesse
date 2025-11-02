@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DsJvSqzs"]
+[White "canyouheerme"]
+[Black "MrDuchesne"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:05"]
+[WhiteElo "1697"]
+[BlackElo "1924"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-17"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. c3 d6 3. d4 cxd4 4. cxd4 Nf6 5. Nd2 Qa5 6. Nf3 Nxe4 7. a4 Bg4 8. Bb5+ Nc6 9. O-O Bxf3 10. Nxf3 d5 11. Ne5 Qc7 12. Qf3 Nf6 13. Bf4 Qc8 14. Nxc6 bxc6 15. Rac1 cxb5 16. Rxc8+ Rxc8 17. axb5 e6 18. Qd3 Ne4 19. f3 Nd6 20. Ra1 Ra8 21. b6 a5 22. b4 a4 23. Bxd6 Bxd6 24. Qb5+ Ke7 25. Rxa4 Rxa4 26. Qxa4 Rb8 27. Qa7+ Kf8 28. b5 f6 29. b7 e5 30. Qa8 exd4 31. Qa6 Ke7 32. Kf2 Bf4 33. Qc6 d3 34. Qxd5 d2 35. Ke2 Rd8 36. Qe4+ Kf7 37. Kd1 Be5 38. Qc4+ Kf8 39. Qc5+ Ke8 40. Qc6+ Ke7 41. g3 Rd6 42. Qc7+ Rd7 43. Qxe5+ fxe5 44. b8=Q Ke6 45. Qg8+ Kf6 46. Qxh7 Rb7 47. Qh4+ Kg6 48. Qe4+ Kf6 49. Qxb7 g5 50. Qc6+ Kf5 51. Qd7+ Kf6 52. b6 g4 53. Qxg4 Ke7 54. b7 Kd6 55. b8=Q+ Kd5 56. Qd7+ Kc4 57. Qbd6 Kc3 58. Q7c7+ Kb3 59. Qdb6+ 1-0
+

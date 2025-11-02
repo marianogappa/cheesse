@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/y3Z2eGu8"]
+[White "sevyan"]
+[Black "nicolozzi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:21"]
+[WhiteElo "1499"]
+[BlackElo "1527"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. c3 Nc6 5. Qb3 a6 6. Bxf7+ Kd7 7. Bxg8 Bxf3 8. gxf3 Kc8 9. Be6+ Kb8 10. d3 Na5 11. Qd1 Qe7 12. Bd5 c6 13. Bc4 Nxc4 14. dxc4 g6 15. Be3 c5 16. Rg1 Qh4 17. Rh1 b6 18. Qd5 Qh5 19. Ke2 Bg7 20. Qxd6+ Kc8 21. Qxb6 Bf8 22. Bxc5 Bxc5 23. Qxc5+ Kd8 24. Na3 Rc8 25. Rad1+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bQs06GXI"]
+[White "belenxu"]
+[Black "Gabur"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:40"]
+[WhiteElo "1300"]
+[BlackElo "1521"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+24"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Maroczy Variation"]
+[TimeControl "1800+1"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. d3 d5 3. exd5 Nxd5 4. d4 e6 5. c4 Nb4 6. c5 b6 7. Bb5+ c6 8. Be2 b5 9. Nf3 Nd7 10. Bg5 f6 11. Be3 e5 12. Qd2 e4 13. Ng1 f5 14. Qxb4 a5 15. Qb3 a4 16. Qe6+ Be7 17. Qxc6 Qa5+ 18. Bd2 Qa7 19. Qxb5 Ba6 20. Qc6 O-O 21. Qxa4 Bxe2 22. Nxe2 Qxa4 23. b3 Qa6 24. Nbc3 g5 25. a4 f4 26. Nb5 Qh6 27. Nec3 f3 28. g3 Qh3 29. Nxe4 Qg2 30. O-O-O Nf6 31. Bxg5 Nxe4 32. Bxe7 Nxf2 33. Rhg1 Nd3+ 34. Kb1 Qb2# 0-1
+

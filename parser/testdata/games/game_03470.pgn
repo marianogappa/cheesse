@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/J9x3N3X0"]
+[White "Cassettavetes"]
+[Black "DeepakUK"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:13"]
+[WhiteElo "1650"]
+[BlackElo "1585"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Queen's Knight Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 d5 3. Nc3 dxc4 4. e4 b5 5. Nxb5 c5 6. d5 Qa5+ 7. Nc3 exd5 8. exd5 Nf6 9. Bxc4 Bb7 10. Nf3 Bd6 11. O-O O-O 12. Bg5 Nfd7 13. Rc1 Qc7 14. Nb5 Qb6 15. Nxd6 Qxd6 16. Re1 h6 17. Be7 Qb6 18. Bxf8 Nxf8 19. b3 Nbd7 20. Ne5 Nf6 21. Re3 Qc7 22. Qf3 Qd6 23. Rce1 a5 24. h3 a4 25. Nd3 axb3 26. axb3 Ng6 27. h4 Nxd5 28. Bxd5 Bxd5 29. Re8+ Rxe8 30. Rxe8+ Kh7 31. Qg4 Be6 32. Qe4 Qd7 33. Ra8 Bf5 34. Nxc5 Qd1+ 35. Kh2 Bxe4 36. Nxe4 Qd4 37. Ra4 Qe5+ 38. g3 f5 39. Nd2 Qe2 40. Nc4 Qxf2+ 41. Kh3 Qf3 42. Ra7 Nf4+ 43. Kh2 Qg2# 0-1
+

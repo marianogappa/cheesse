@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/uLuHex0w"]
+[White "jbs984"]
+[Black "ashuffler"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:58"]
+[WhiteElo "1325"]
+[BlackElo "1335"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "C21"]
+[Opening "King's Pawn Game: Beyer Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 d5 3. dxe5 d4 4. Nf3 h6 5. Qxd4 Nc6 6. Qxd8+ Nxd8 7. Bc4 Bg4 8. h3 Bxf3 9. gxf3 a6 10. Bf4 b5 11. Bd5 c6 12. Bb3 a5 13. a3 Ne6 14. Bxe6 fxe6 15. Nc3 b4 16. axb4 Bxb4 17. O-O Bxc3 18. bxc3 Ne7 19. Rfd1 Ng6 20. Be3 Nh4 21. Rd6 Nxf3+ 22. Kg2 O-O 23. Rxe6 Rae8 24. Rxe8 Rxe8 25. Kxf3 Rxe5 26. Rd1 Kh7 27. Kf4 g5+ 28. Kxe5 1-0
+

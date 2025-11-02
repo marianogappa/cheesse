@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/mCObfLAA"]
+[White "fenestr"]
+[Black "Danny_D"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:01"]
+[WhiteElo "1172"]
+[BlackElo "1271"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "45+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. c4 Qh4 3. Nf3 Qf6 4. e3 Qe7 5. Nc3 Qd8 6. d5 Bb4 7. Bd2 Bxc3 8. Bxc3 exd5 9. cxd5 Qe7 10. Ne5 d6 11. Qa4+ Kf8 12. Nc4 Bd7 13. Qb3 Bf5 14. O-O-O Qd7 15. Bd4 c6 16. Qc3 cxd5 17. Bxg7+ Ke8 18. Bxh8 Qe7 19. Nxd6+ Kd7 20. Nb5 Nc6 21. Rxd5+ Kc8 22. Rd8+ Qxd8 23. Qd3 Qxd3 24. Bxd3 b6 25. Kd2 a6 26. Bxf5+ Kb7 27. Rc1 axb5 28. Rc3 Rxa2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/YYtsjXCT"]
+[White "evgeny_lugovoy"]
+[Black "Cnelok"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:25"]
+[WhiteElo "1460"]
+[BlackElo "1631"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "A40"]
+[Opening "Polish Defense"]
+[TimeControl "300+7"]
+[Termination "Normal"]
+
+1. d4 b5 2. a4 b4 3. Qd2 e6 4. e3 Bb7 5. c3 a5 6. Bc4 Bxg2 7. f3 Bxh1 8. Kf2 Qg5 9. Nh3 Qg2+ 10. Ke1 Qxh3 11. Kd1 Bxf3+ 12. Kc2 Be4+ 13. Bd3 Bxd3+ 14. Qxd3 Qxh2+ 15. Nd2 Nf6 16. Kb3 bxc3 17. Qxc3 Nc6 18. Ne4 Nd5 19. Qc4 Rb8+ 20. Ka2 Ndb4+ 21. Kb1 Qg1 22. Ra2 Nxa2 23. Kxa2 Nb4+ 24. Kb1 c6 25. Nc5 Qd1 26. e4 Bxc5 27. Qxc5 Nd3 28. Qc4 Rxb2+ 29. Ka1 Rb4 30. Qxd3 Qxa4+ 31. Ba3 Rb3 32. Qxb3 Qxb3 33. Bb2 a4 34. e5 a3 35. d5 cxd5 36. Kb1 a2+ 37. Ka1 O-O 38. Bc3 Ra8 39. Ba5 Qb1# 0-1
+

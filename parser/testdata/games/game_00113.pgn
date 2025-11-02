@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/u0XOEfjD"]
+[White "Gubio"]
+[Black "JustTraining"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:14"]
+[WhiteElo "1933"]
+[BlackElo "1902"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-10"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. f4 d5 2. Nf3 Nc6 3. d4 Nf6 4. e3 Ne4 5. Bd3 f5 6. Bxe4 fxe4 7. Ne5 e6 8. Qh5+ Ke7 9. Nc3 a6 10. Ng6+ hxg6 11. Qxh8 Bd7 12. Qh4+ Kf7 13. Qg3 Be7 14. O-O Bh4 15. Qg4 Qe7 16. g3 e5 17. Qe2 Bf6 18. Nxd5 Qe6 19. Nxc7 Qd6 20. Nxa8 b5 21. fxe5 Nxe5 22. dxe5 Qxe5 23. Bd2 Bf5 24. Nb6 Kg8 25. Bc3 Qe6 26. Bxf6 gxf6 27. Rad1 Qxb6 28. Qd2 Kg7 29. Qd4 Qe6 30. b3 Kh6 31. c4 bxc4 32. bxc4 Bh3 33. Rxf6 Qg4 34. Rf2 a5 35. Qh8+ Kg5 36. Rd5+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8TC5ryqk"]
+[White "Cloile"]
+[Black "free7"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:23"]
+[WhiteElo "1165"]
+[BlackElo "1259"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Berlin Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. a3 Nc6 4. f4 d6 5. Nf3 Bg4 6. Bxf7+ Kxf7 7. Ng5+ Ke8 8. Ne6 Qe7 9. Qxg4 Nxg4 10. O-O Qxe6 11. f5 Qd7 12. d3 Nf6 13. b3 Be7 14. Bb2 Kf7 15. Nd2 Rhf8 16. Rab1 Kg8 17. a4 Nd4 18. Nc4 Nxc2 19. Bc3 Nd4 20. a5 Ne2+ 0-1
+

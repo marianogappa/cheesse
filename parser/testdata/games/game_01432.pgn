@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/i8ecz8iI"]
+[White "carlosf101"]
+[Black "gf80"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:23"]
+[WhiteElo "2001"]
+[BlackElo "1515"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-1"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Modern Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nd2 e6 4. Ngf3 Bb4 5. c3 Ba5 6. Bd3 f6 7. O-O Ne7 8. b4 Bc7 9. Re1 Qd6 10. e5 fxe5 11. Nxe5 Ng6 12. Qh5 Qe7 13. Nxg6 h6 14. Nxe7+ 1-0
+

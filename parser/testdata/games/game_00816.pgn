@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/8KHNMGn2"]
+[White "posnofa"]
+[Black "faibel_eclipse"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:02"]
+[WhiteElo "1687"]
+[BlackElo "1817"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-16"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e3 e6 2. c4 d5 3. b3 c5 4. Nc3 Nc6 5. d4 Nge7 6. Be2 Nf5 7. Nf3 Be7 8. O-O O-O 9. Bb2 Bf6 10. Rc1 cxd4 11. exd4 Nfxd4 12. cxd5 Nxe2+ 13. Qxe2 exd5 14. Rfd1 Bg4 15. h3 Bh5 16. Nxd5 Bxb2 17. Qxb2 Bxf3 18. gxf3 Qg5+ 19. Kh2 Rad8 20. Rg1 Qxd5 21. Qxg7# 1-0
+

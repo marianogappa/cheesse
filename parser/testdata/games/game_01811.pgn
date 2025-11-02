@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NQAxgC3j"]
+[White "Belmontreal"]
+[Black "frobilo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:47"]
+[WhiteElo "1139"]
+[BlackElo "1223"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. c4 e6 2. a3 Bc5 3. d4 Bf8 4. h4 Nc6 5. e3 Na5 6. Qa4 b6 7. b4 Nxc4 8. Qb5 Nd6 9. Qh5 Nf6 10. Qf3 Nfe4 11. Bd3 Nf6 12. e4 Nb7 13. g4 d5 14. Bg5 Be7 15. e5 Ng8 16. Bxe7 Nxe7 17. Bb5+ c6 18. Bd3 Bd7 19. Nh3 c5 20. Ng5 O-O 21. Bxh7+ Kh8 22. Nxf7+ Rxf7 23. Qxf7 Kxh7 24. h5 cxd4 25. g5 Nf5 26. g6+ Kh6 27. Rg1 Be8 28. Qg8 Kxh5 29. Qh8+ Nh6 30. Qxg7 Qh4 31. Qf8 Qe4+ 32. Kf1 Qd3+ 33. Kg2 Qe4+ 34. f3 Qe2+ 35. Kg3 Nf5+ 36. Kf4 Qe3# 0-1
+

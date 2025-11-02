@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/cSnzXznq"]
+[White "bifferspice"]
+[Black "peggiodimenessuno"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:13"]
+[WhiteElo "1735"]
+[BlackElo "1700"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted, Fischer Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 Bg4 5. O-O Nf6 6. d3 Nc6 7. Bxf4 Nd4 8. Nbd2 Qd7 9. c3 Nxf3+ 10. Nxf3 O-O-O 11. e5 Nh5 12. Be3 dxe5 13. Bxa7 b6 14. Qb3 Bc5+ 15. d4 exd4 16. Ba6# 1-0
+

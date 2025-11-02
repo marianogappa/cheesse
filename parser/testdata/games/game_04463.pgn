@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/j57YU5CW"]
+[White "ottobitunbyte"]
+[Black "fjpadron"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:05"]
+[WhiteElo "1613"]
+[BlackElo "1557"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Bd3 Nf6 5. c3 O-O 6. O-O Bg4 7. Nbd2 a6 8. Qb3 Nc6 9. Qxb7 Na5 10. Qb4 c5 11. dxc5 dxc5 12. Qxc5 Rc8 13. Qe3 Nc4 14. Bxc4 a5 15. Be2 Qc7 16. Nd4 Bxe2 17. Qxe2 e5 18. N4b3 Nh5 19. a4 Nf4 20. Qf3 f5 21. g3 fxe4 22. Qxe4 Nh3+ 23. Kg2 Ng5 24. Qd5+ Kh8 25. Ne4 Rfd8 26. Qxa5 Qxa5 27. Nxa5 Nxe4 28. Re1 Nd2 29. Nb7 Nb3 30. Nxd8 Nxa1 31. Ne6 Nc2 32. Re2 Nd4 33. Nxd4 exd4 34. Rc2 dxc3 35. b3 Rb8 36. a5 Rxb3 37. Ra2 Rb7 38. a6 Ra7 39. Be3 Ra8 40. a7 Kg8 41. Ra6 c2 42. Rb6 Bd4 43. Rb8+ Kg7 44. Bxd4+ Kf7 45. Rb7+ Ke6 46. Bb2 Kd5 47. Bc1 Kc4 48. Rxh7 Kd3 49. Rg7 Ke2 50. Rd7 1-0
+

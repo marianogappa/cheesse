@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/2sPnyQn9"]
+[White "frastornante"]
+[Black "traian_patrusel"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:43"]
+[WhiteElo "1514"]
+[BlackElo "1823"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+[ECO "C00"]
+[Opening "French Defense: Queen's Knight"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 Be7 3. Bc4 d5 4. exd5 exd5 5. Nxd5 Nf6 6. Nxf6+ gxf6 7. Qh5 Rf8 8. Qxh7 Qd4 9. Bd3 Bc5 10. Qh4 Qxh4 0-1
+

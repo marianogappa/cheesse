@@ -1,0 +1,19 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/5xjvTxqP"]
+[White "koko2"]
+[Black "HooCee"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:29"]
+[WhiteElo "2181"]
+[BlackElo "2291"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[BlackTitle "FM"]
+[ECO "B29"]
+[Opening "Sicilian Defense: Nimzowitsch Variation, Advance Variation"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. e5 Nf6 3. Nf3 Nd5 4. Bc4 Nb6 5. Be2 d5 6. O-O Nc6 7. d3 Bg4 8. c3 e6 9. h3 Bxf3 10. Bxf3 Nxe5 11. Be2 Be7 12. Bf4 Nc6 13. Bh2 O-O 14. Nd2 Bf6 15. Bg3 d4 16. Nf3 e5 17. c4 Re8 18. Qd2 e4 19. dxe4 Rxe4 20. Bd3 Re8 21. Rad1 g6 22. Bf4 Bg7 23. Bh6 Bxh6 24. Qxh6 Qf6 25. Ng5 Qg7 26. Qh4 h6 27. Nf3 Re7 28. Qg3 Rae8 29. a3 Ne5 30. Qh2 Nxf3+ 31. gxf3 Qf6 32. Qg2 Re5 33. Kh1 Rg5 34. Qh2 Qe7 35. Rg1 Rxg1+ 36. Rxg1 Nd7 37. Be4 Ne5 38. Qf4 g5 39. h4 Kf8 40. hxg5 hxg5 41. Rxg5 Ng6 42. Kg2 Nxf4+ 43. Kg3 Qxg5+ 44. Kh2 Re6 45. Bg6 Rxg6 46. Kh1 Rh6# 0-1
+

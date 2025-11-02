@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/UV1PDNmF"]
+[White "gont"]
+[Black "DaveK"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:23"]
+[WhiteElo "1519"]
+[BlackElo "1529"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[TimeControl "60+2"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Nc3 Nd7 6. Na4 c5 7. Bb5 cxd4 8. Nxd4 Bg6 9. O-O Bc5 10. Nxc5 Ke7 11. Bxd7 Qb6 12. Ndb3 a5 13. Ba4 Nh6 14. Bxh6 gxh6 15. c3 Bf5 16. Qd4 Rhg8 17. g3 Rg4 18. Qe3 Rag8 19. Qxh6 R4g6 20. Qh4+ f6 21. exf6+ Rxf6 22. Rfe1 Be4 23. f4 Qc7 24. Nxe4 1-0
+

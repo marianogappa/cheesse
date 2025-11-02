@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/jp6nglnV"]
+[White "khenry"]
+[Black "Navin11"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:25"]
+[WhiteElo "1687"]
+[BlackElo "1656"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-10"]
+[ECO "E61"]
+[Opening "King's Indian Defense: Smyslov Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.18] } 1... Nf6 { [%eval 0.25] } 2. c4 { [%eval 0.25] } 2... d6 { [%eval 0.47] } 3. Nf3 { [%eval 0.53] } 3... g6 { [%eval 0.69] } 4. Bg5?! { [%eval -0.06] } 4... Bg7 { [%eval 0.11] } 5. Nc3 { [%eval 0.08] } 5... Bg4 { [%eval 0.46] } 6. e3 { [%eval 0.33] } 6... Nbd7 { [%eval 0.39] } 7. h3 { [%eval 0.39] } 7... Bxf3 { [%eval 0.42] } 8. Qxf3 { [%eval 0.45] } 8... c6 { [%eval 0.58] } 9. Bd3 { [%eval 0.49] } 9... O-O { [%eval 0.55] } 10. g4?! { [%eval 0.0] } 10... Ne8?! { [%eval 0.71] } 11. h4 { [%eval 0.46] } 11... f6?! { [%eval 1.18] } 12. Bf4 { [%eval 1.36] } 12... e6? { [%eval 2.74] } 13. O-O-O? { [%eval 1.7] } 13... e5 { [%eval 2.09] } 14. Bg3?! { [%eval 1.46] } 14... d5? { [%eval 3.37] } 15. h5? { [%eval 2.34] } 15... e4 { [%eval 2.38] } 16. Nxe4 { [%eval 2.2] } 16... dxe4 { [%eval 2.43] } 17. Bxe4?! { [%eval 1.71] } 17... f5 { [%eval 2.0] } 18. gxf5?! { [%eval 1.4] } 18... Rxf5? { [%eval 3.97] } 19. Bxf5 { [%eval 3.75] } 19... gxf5 { [%eval 3.67] } 20. h6 { [%eval 3.57] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/oeMkJnP8"]
+[White "Carlos192"]
+[Black "Tarzan_10"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:09"]
+[WhiteElo "1341"]
+[BlackElo "1506"]
+[WhiteRatingDiff "-31"]
+[BlackRatingDiff "+6"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 d5 3. cxd5 exd5 4. e3 Be6 5. Nf3 Bb4+ 6. Nc3 Bxc3+ 7. bxc3 Nf6 8. Bd3 O-O 9. O-O h6 10. h3 Nc6 11. Ba3 Re8 12. Rc1 Ne4 13. Bxe4 dxe4 14. Ne5 Nxe5 15. dxe5 Qd5 16. Qxd5 Bxd5 17. Rfd1 Bxa2 18. Rd7 Rac8 19. c4 Bb3 20. Kf1 b6 21. Rb1 Ba4 22. Rb4 Bxd7 23. c5 Be6 24. cxb6 cxb6 25. Rxe4 Rc4 26. Rxc4 Bxc4+ 27. Ke1 a5 28. f4 b5 29. Kf2 b4 30. Bb2 a4 31. Bd4 a3 32. g4 Re6 33. f5 Ra6 34. Kf3 a2 35. Kf4 a1=Q 36. Bxa1 Rxa1 37. e6 fxe6 38. fxe6 Bxe6 39. e4 b3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/a9E4mrtO"]
+[White "female_supremacy"]
+[Black "bchessguru"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:02"]
+[WhiteElo "1722"]
+[BlackElo "1762"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 h6 5. c3 dxc3 6. Nxc3 Bb4 7. Bd2 d6 8. a3 Ba5 9. b4 Bb6 10. O-O Bd4 11. Nxd4 Nxd4 12. Be3 Ne6 13. f4 Qe7 14. f5 Ng5 15. Bxg5 Qxg5 16. Nd5 Qd8 17. Qe2 Ne7 18. f6 Nxd5 19. fxg7 Rg8 20. Bxd5 Rxg7 21. e5 Qe7 22. Rae1 c6 23. Ba2 d5 24. b5 a5 25. bxa6 bxa6 26. Qc2 Qe6 27. Rf6 Qd7 28. Rxh6 Qa7+ 29. Kh1 Bd7 30. Rh8+ Ke7 31. Rxa8 Qxa8 32. Qc5+ Ke8 33. Rb1 Qd8 34. g3 Rg5 35. Re1 Qe7 36. Qd4 Kf8 37. Bb1 Qe6 38. Kg2 c5 39. Qf4 Qe7 40. h4 Rg4 41. Qh6+ Ke8 42. Qh8+ Qf8 43. Qxf8+ Kxf8 44. Kh3 Re4+ 45. Kg2 Rxe1 46. Bd3 Rxe5 47. Bxa6 c4 48. Bb7 Be6 49. a4 Re3 50. a5 Ra3 51. a6 c3 52. Kf2 c2 53. h5 c1=Q 54. g4 Qc3 55. g5 Ra2+ 56. Kf1 Qc1# 0-1
+

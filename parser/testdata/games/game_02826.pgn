@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/BYnXgLBb"]
+[White "Tarzan_10"]
+[Black "theaterspiel"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:30"]
+[WhiteElo "1494"]
+[BlackElo "1530"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "D55"]
+[Opening "Queen's Gambit Declined: Modern Variation, Normal Line"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.26] } 1... d5 { [%eval 0.29] } 2. c4 { [%eval 0.23] } 2... e6 { [%eval 0.29] } 3. Nc3 { [%eval 0.22] } 3... Nf6 { [%eval 0.25] } 4. Bg5 { [%eval 0.2] } 4... Be7 { [%eval 0.17] } 5. Nf3 { [%eval 0.0] } 5... O-O { [%eval 0.12] } 6. e3 { [%eval 0.0] } 6... c5 { [%eval 0.33] } 7. Be2 { [%eval -0.03] } 7... dxc4 { [%eval 0.09] } 8. Bxc4 { [%eval -0.04] } 8... Nc6 { [%eval 0.32] } 9. O-O?! { [%eval -0.19] } 9... cxd4 { [%eval -0.19] } 10. Nxd4 { [%eval -0.21] } 10... Nxd4 { [%eval -0.13] } 11. exd4 { [%eval -0.28] } 11... Nd5 { [%eval 0.18] } 12. Bxe7 { [%eval 0.14] } 12... Nxe7 { [%eval 0.18] } 13. Re1 { [%eval 0.18] } 13... Nc6 { [%eval 0.42] } 14. d5 { [%eval 0.3] } 14... exd5 { [%eval 0.45] } 15. Bxd5 { [%eval 0.34] } 15... Bf5 { [%eval 0.35] } 16. Qh5 { [%eval 0.22] } 16... Bg6 { [%eval 0.14] } 17. Qg4 { [%eval 0.09] } 17... Qc7 { [%eval 0.46] } 18. h4 { [%eval 0.41] } 18... h5?? { [%eval 6.23] } 19. Qg5?? { [%eval 0.43] } 19... Rae8?? { [%eval 5.04] } 20. Qxg6 { [%eval 4.92] } 20... Rxe1+? { [%eval 6.41] } 21. Rxe1 { [%eval 6.21] } 21... Ne7 { [%eval 6.41] } 22. Qxh5 { [%eval 6.13] } 22... Nxd5?? { [%eval #19] } 23. Nxd5 { [%eval #22] } 23... g6 { [%eval #9] } 24. Qg5? { [%eval 9.56] } 24... Kg7? { [%eval #6] } 25. Qf6+ { [%eval #5] } 25... Kg8 { [%eval #5] } 26. Re7?! { [%eval 11.95] } 26... Qc1+ { [%eval 12.07] } 27. Kh2 { [%eval 10.72] } 27... Qh6 { [%eval 12.0] } 28. g3 { [%eval 10.45] } 1-0
+

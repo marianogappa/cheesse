@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9idHoHFp"]
+[White "un0"]
+[Black "KnightStand"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:09"]
+[WhiteElo "1277"]
+[BlackElo "1174"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+15"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Kennedy Variation, de Smet Gambit"]
+[TimeControl "180+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 d6 3. dxe5 Nc6 4. exd6 Bxd6 5. Bb5 Nf6 6. Bxc6+ bxc6 7. e5 Bb4+ 8. Bd2 Bg4 9. Nf3 Ne4 10. O-O Nxd2 11. Nbxd2 Bxd2 12. Qxd2 Qxd2 13. Nxd2 O-O 14. h3 Be2 15. Rfe1 Bh5 16. e6 fxe6 17. Rxe6 Rf7 18. Rxc6 Raf8 19. Ne4 Bg6 20. f3 Bxe4 21. fxe4 Rf4 22. Rxc7 Rxe4 23. Rxa7 Rfe8 24. c4 Rxc4 25. b3 Rc2 26. b4 Ree2 27. Ra8+ Kf7 28. Rf1+ Kg6 29. Ra6+ Kg5 30. Ra5+ Kh6 31. Ra6+ g6 32. Kh2 Rxg2+ 33. Kh1 Rh2+ 34. Kg1 Rcg2# 0-1
+

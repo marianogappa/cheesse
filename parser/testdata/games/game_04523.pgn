@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/q0XISmjP"]
+[White "MOZGgg"]
+[Black "MaWiMog"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:13"]
+[WhiteElo "1034"]
+[BlackElo "1070"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.22] } 1... c5 { [%eval 0.3] } 2. Nc3 { [%eval 0.31] } 2... d6 { [%eval 0.33] } 3. Nf3 { [%eval 0.28] } 3... Nf6 { [%eval 0.31] } 4. e5 { [%eval 0.09] } 4... dxe5 { [%eval 0.07] } 5. Nxe5 { [%eval 0.08] } 5... Rg8?! { [%eval 0.89] } 6. Bb5+ { [%eval 0.77] } 6... Nfd7?? { [%eval 4.17] } 7. d4? { [%eval 2.44] } 7... a6 { [%eval 2.62] } 8. Ba4?! { [%eval 1.91] } 8... b5 { [%eval 1.65] } 9. dxc5?? { [%eval -2.25] } 9... bxa4? { [%eval 0.0] } 10. Qf3?! { [%eval -0.81] } 10... Nxe5 { [%eval -0.54] } 0-1
+

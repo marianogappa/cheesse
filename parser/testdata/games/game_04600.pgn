@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/5MqPlaG9"]
+[White "Klushki-com"]
+[Black "Prasonio"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:40"]
+[WhiteElo "1911"]
+[BlackElo "1785"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+15"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Reversed Modern Defense"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. g3 c5 2. Bg2 d5 3. d3 e5 4. Nc3 f5 5. e4 fxe4 6. dxe4 dxe4 7. Nxe4 Qxd1+ 8. Kxd1 Bf5 9. Ke2 Nc6 10. Bg5 Nd4+ 11. Kd1 h6 12. Be3 Bxe4 13. Bxe4 O-O-O 14. Bxd4 Rxd4+ 15. Bd3 c4 16. c3 Rxd3+ 17. Kc2 Bc5 18. Ne2 Nf6 19. f4 exf4 20. Nxf4 Rd7 21. Rhe1 Rhd8 22. Ne6 Rd2+ 23. Kc1 Bd6 24. Nxd8 Bf4 25. Rd1 Rxb2+ 26. Kxb2 Bd2 27. Rxd2 Ne4 28. Rad1 Nxd2 29. Rxd2 Kc7 30. Kc2 Kb6 31. Ne6 Ka5 32. Nxg7 Ka4 33. Ne6 b5 34. g4 b4 35. g5 b3+ 0-1
+

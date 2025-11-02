@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/o1mZzq8n"]
+[White "catay"]
+[Black "schoeneckerdeep"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:27"]
+[WhiteElo "1816"]
+[BlackElo "1573"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "C41"]
+[Opening "Philidor Defense #4"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. h3 Nf6 5. d3 O-O 6. c3 Nc6 7. O-O Be6 8. Bb5 a6 9. Ba4 b5 10. Bc2 d5 11. Re1 dxe4 12. dxe4 Qxd1 13. Rxd1 Rad8 14. Bg5 Rxd1+ 15. Bxd1 Nxe4 16. Bxe7 Nxe7 17. Nxe5 1-0
+

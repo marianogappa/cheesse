@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/bjcnePBd"]
+[White "amondodo"]
+[Black "MldSi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:33"]
+[WhiteElo "1481"]
+[BlackElo "1762"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Bb7 3. d5 Nf6 4. Nc3 e6 5. Bg5 exd5 6. e5 h6 7. exf6 hxg5 8. fxg7 Bxg7 9. Nxd5 Bxb2 10. Qe2+ Kf8 11. Rb1 Bxd5 12. Rxb2 Qe7 13. Qxe7+ Kxe7 14. Nf3 Bxf3 15. gxf3 d5 16. Bh3 Rxh3 17. O-O Rxf3 18. Re1+ Kd6 19. c4 c6 20. cxd5 cxd5 21. Rd2 Nc6 22. Red1 d4 23. Rc2 0-1
+

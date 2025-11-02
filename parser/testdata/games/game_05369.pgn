@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/JXIg4NVa"]
+[White "pterodaktyl_77"]
+[Black "Doouud"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:41"]
+[WhiteElo "1289"]
+[BlackElo "1158"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-10"]
+[ECO "C21"]
+[Opening "Danish Gambit"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Nxc3 Nf6 5. Nf3 Nc6 6. e5 Bb4 7. exf6 Qxf6 8. a3 Bxc3+ 9. bxc3 Qxc3+ 10. Bd2 Qc5 11. Rc1 Qe7+ 12. Be2 O-O 13. O-O d5 14. Re1 Bg4 15. Bc4 Rae8 16. Rxe7 Nxe7 17. Bd3 Nc6 18. h3 Be6 19. Ng5 Kh8 20. Bxh7 f6 21. Qh5 fxg5 22. Bg6+ Kg8 23. Bxe8 Bf7 24. Bxf7+ Rxf7 25. Bxg5 Kf8 26. Re1 Ne7 27. Qh8+ Ng8 28. h4 d4 29. h5 d3 30. h6 d2 31. Rd1 Rd7 32. h7 Kf7 33. Qxg8+ Kg6 34. h8=Q Kxg5 35. Qgxg7+ Kf5 36. Qhh7+ Ke6 37. Qxd7+ Ke5 38. Qg6 Kf4 39. Qdf5# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kjmEJar7"]
+[White "Sufi"]
+[Black "uareterrible"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:26"]
+[WhiteElo "1348"]
+[BlackElo "1308"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "A21"]
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. c4 e5 2. Nc3 Bc5 3. e3 d6 4. Nf3 Bf5 5. e4 Bg6 6. g4 Nf6 7. h3 Nc6 8. d3 O-O 9. Bg5 h6 10. Bd2 Nd4 11. Nxd4 Bxd4 12. Qb3 b6 13. Be3 Bxe3 14. fxe3 c6 15. O-O-O Rb8 16. Qa4 a5 17. Qxc6 h5 18. g5 Ne8 19. Nd5 Nc7 20. Qxc7 Qxg5 21. Qxd6 Rfd8 22. Qa3 Rxd5 23. cxd5 Qxe3+ 24. Kb1 Qf3 25. Bg2 Qxg2 26. Rdg1 Qf2 27. Qd6 Rc8 28. Rc1 Rxc1+ 29. Rxc1 Qe2 30. Qd8+ Kh7 31. Qxb6 Qxd3+ 32. Ka1 Bxe4 33. Qxa5 Bxd5 34. Qd8 Qb5 35. Qd6 Qa5 36. b3 Bg2 37. Rd1 Bxh3 38. Re1 Qxe1+ 39. Kb2 Qe2+ 40. Ka3 Qd1 41. Qxd1 Bf5 42. Qf3 g6 43. b4 Bg4 44. Qg3 Kh6 45. Qxe5 g5 46. b5 h4 47. b6 Kh5 48. b7 h3 49. b8=Q Kh4 50. Qbh8+ Bh5 51. Qe4+ g4 52. Qf6+ Kg3 53. Qe3+ Kg2 54. Qff2+ Kh1 55. Qg1# 1-0
+

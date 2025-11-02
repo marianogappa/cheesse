@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/GpudLr8e"]
+[White "Wolt95"]
+[Black "seyed111"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:21"]
+[WhiteElo "1315"]
+[BlackElo "2003"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[ECO "A80"]
+[Opening "Queen's Pawn Game: Veresov Attack, Dutch System"]
+[TimeControl "480+0"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.18] } 1... d5 { [%eval 0.2] } 2. Nc3 { [%eval 0.0] } 2... f5 { [%eval 0.45] } 3. Bf4 { [%eval 0.45] } 3... e6 { [%eval 0.44] } 4. Nb5 { [%eval 0.51] } 4... Na6 { [%eval 0.52] } 5. c4 { [%eval 0.16] } 5... c6 { [%eval 0.31] } 6. Nd6+?? { [%eval -3.55] } 6... Bxd6 { [%eval -3.43] } 7. Bxd6 { [%eval -3.51] } 7... Qxd6 { [%eval -3.54] } 8. c5 { [%eval -3.74] } 8... Qc7 { [%eval -3.62] } 9. Nf3 { [%eval -3.61] } 9... b5?! { [%eval -2.95] } 10. a3 { [%eval -3.2] } 10... Nf6 { [%eval -3.13] } 11. b4 { [%eval -3.17] } 11... Ne4 { [%eval -3.17] } 12. e3 { [%eval -3.26] } 12... O-O { [%eval -3.14] } 13. Qe2 { [%eval -3.37] } 13... Nb8 { [%eval -3.28] } 14. g3 { [%eval -3.5] } 14... Nd7 { [%eval -3.52] } 15. Bg2 { [%eval -3.56] } 15... a6 { [%eval -3.43] } 16. O-O { [%eval -3.44] } 16... Rf6 { [%eval -2.98] } 17. Ng5?? { [%eval -7.0] } 17... Nxg5 { [%eval -6.83] } 18. Qh5 { [%eval -6.99] } 18... Ne4 { [%eval -7.01] } 19. Qe8+ { [%eval -7.48] } 19... Nf8 { [%eval -7.31] } 20. Qh5 { [%eval -7.48] } 20... Rh6 { [%eval -7.22] } 21. Qe8? { [%eval -14.95] } 21... Rg6 { [%eval -11.8] } 22. Bf3 { [%eval -13.24] } 22... Bb7 { [%eval -12.95] } 23. Qxg6 { [%eval -13.47] } 23... hxg6 { [%eval -13.34] } 24. g4 { [%eval -16.23] } 24... fxg4 { [%eval -14.53] } 25. Bxg4 { [%eval -14.47] } 25... Qe7 { [%eval -14.14] } 26. f3 { [%eval -14.64] } 26... Nf6 { [%eval -14.36] } 27. f4 { [%eval -21.09] } 27... Nxg4 { [%eval -20.19] } 0-1
+

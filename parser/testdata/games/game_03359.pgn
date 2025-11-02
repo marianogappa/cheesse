@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/uMwHkYFA"]
+[White "FrenchGeek"]
+[Black "abricot"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:46"]
+[WhiteElo "1809"]
+[BlackElo "2264"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Bd3 Nf6 5. Be3 O-O 6. O-O Nc6 7. h3 e5 8. d5 Ne7 9. c4 Nd7 10. Nbd2 h6 11. Rc1 f5 12. Nb3 Nf6 13. Qc2 fxe4 14. Bxe4 Nxe4 15. Qxe4 Bf5 16. Qh4 g5 17. Bxg5 hxg5 18. Nxg5 Qe8 19. g4 Bd3 20. Rfd1 Qg6 21. Ne6 Rf7 22. Ng5 Raf8 23. Nxf7 Rxf7 24. Qg3 e4 25. Nd4 Bxd4 26. Rxd3 Bxf2+ 27. Qxf2 Rxf2 28. Kxf2 exd3 29. Rd1 Qe4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/xxQLuVzc"]
+[White "joshthemosh"]
+[Black "Kronos1337cerf"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:03"]
+[WhiteElo "1099"]
+[BlackElo "1093"]
+[WhiteRatingDiff "-78"]
+[BlackRatingDiff "+26"]
+[ECO "E00"]
+[Opening "Amar Opening"]
+[TimeControl "900+15"]
+[Termination "Time forfeit"]
+
+1. Nh3 e5 2. e3 Nf6 3. d4 Bd6 4. Bc4 O-O 5. b3 Nc6 6. Qf3 e4 7. Qg3 Bxg3 8. fxg3 d5 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/CU0cJfmh"]
+[White "MG_"]
+[Black "damacope"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:13"]
+[WhiteElo "1506"]
+[BlackElo "1513"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C00"]
+[Opening "French Defense #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Be2 d5 3. e5 c5 4. Bf3 Nc6 5. Ne2 Nxe5 6. Nec3 Nxf3+ 7. Qxf3 b6 8. O-O Bb7 9. d3 Rb8 10. Qe2 Nf6 11. Bg5 Be7 12. f4 O-O 13. Kh1 a6 14. Rg1 d4 15. Ne4 Nxe4 16. dxe4 Bxg5 17. fxg5 Qxg5 18. Nd2 e5 19. Nf3 Qf4 20. g3 Qxe4 21. Qxe4 Bxe4 22. Raf1 Bxc2 23. Nxe5 Be4+ 24. Rg2 Bxg2+ 25. Kxg2 Rfe8 26. Nxf7 d3 27. Rd1 Re2+ 28. Kh3 c4 29. Nd6 b5 30. b3 cxb3 31. axb3 Rd8 32. Nf5 d2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/n9cJgKU4"]
+[White "Hicks1997"]
+[Black "SrDonVergas"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:31"]
+[WhiteElo "1518"]
+[BlackElo "2108"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Bb4 5. Qe2+ Ne7 6. Bd2 O-O 7. a3 Bxc3 8. bxc3 Re8 9. O-O-O c6 10. Qh5 Bf5 11. g4 Bg6 12. Qh3 Qa5 13. Kb2 Qa4 14. Ka2 Qxc2+ 15. Ka1 Qb3 16. Rb1 Qxa3# 0-1
+

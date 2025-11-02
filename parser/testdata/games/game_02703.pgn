@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XweVOTfU"]
+[White "devn13"]
+[Black "yentel"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:08"]
+[WhiteElo "1579"]
+[BlackElo "1582"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "240+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nc6 4. d5 Nb8 5. c4 Qf6 6. Nc3 a6 7. Bd3 Be7 8. O-O h6 9. Qa4+ Bd7 10. Qb4 b6 11. a4 a5 12. Qb3 Qg6 13. g3 Bg4 14. Nd2 Qh5 15. Re1 Bg5 16. Be2 Bxd2 17. Bxd2 Nf6 18. f3 Bd7 19. f4 Ng4 20. Bxg4 Qxg4 21. fxe5 dxe5 22. c5 O-O 23. cxb6 cxb6 24. Qxb6 Na6 25. Qxa5 h5 26. b4 Rfc8 27. b5 Nc7 28. Qb4 h4 29. Ne2 hxg3 30. Nxg3 Ne8 31. Qd6 Nf6 32. Qxe5 Rc2 33. Qf4 Qxf4 34. Bxf4 Rc4 35. Rf1 Nxe4 36. Nxe4 Rxe4 37. Bg3 Rg4 38. Rf3 Bxb5 39. Rf4 Rxf4 40. Bxf4 Bc4 41. Kf2 Bxd5 42. Ke3 Be6 43. Kd4 Bd7 44. a5 Be6 45. Kc5 f6 46. a6 g5 47. Bg3 f5 48. Kc6 f4 49. Kb7 Re8 50. Bf2 Re7+ 51. Kb8 Re8+ 52. Kc7 Bc4 53. a7 Kg7 54. a8=Q Re7+ 0-1
+

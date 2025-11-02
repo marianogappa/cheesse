@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/q2uXgwl2"]
+[White "arruru"]
+[Black "CuddlyBear"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:44"]
+[WhiteElo "1799"]
+[BlackElo "1890"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "C36"]
+[Opening "King's Gambit Accepted, Abbazia Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. c4 Bc5 6. d4 Qe7+ 7. Be2 Bb4+ 8. Nc3 O-O 9. O-O Bxc3 10. bxc3 Ne4 11. Bd2 Nxd2 12. Qxd2 Qe3+ 13. Qxe3 fxe3 14. Ne5 Nd7 15. Rae1 Nxe5 16. dxe5 Re8 17. c5 Rxe5 18. c4 c6 19. Bf3 cxd5 20. Bxd5 Be6 21. Bxb7 Rb8 22. c6 Bxc4 23. Rf4 Bd5 24. a4 Rxb7 25. cxb7 Bxb7 26. Rb4 Bc6 27. Rb8+ Be8 28. Kf1 g6 29. Ke2 Kg7 30. Kf3 Bxa4 31. Rxe3 Bc6+ 32. Kf2 Rxe3 33. Kxe3 Bxg2 34. Kf2 Bd5 35. Rd8 Be6 36. Ra8 h5 37. Rxa7 Kf6 38. Kg3 g5 39. Ra5 Kg6 40. h4 g4 41. Rg5+ Kh6 42. Kf4 f6 43. Ra5 Kg6 44. Ra6 Bf7 45. Rb6 Bc4 46. Rc6 Bf7 47. Rc5 Be8 48. Rc8 Bd7 49. Rg8+ Kh6 50. Rh8+ Kg7 51. Rxh5 Kg6 52. Ra5 f5 53. Ra6+ Kh5 54. Ra7 Be6 55. Re7 Bc8 56. Rh7+ Kg6 57. Rh8 Be6 58. h5+ Kg7 59. Re8 Bf7 60. Re7 Kf8 61. Ra7 Bxh5 62. Kxf5 g3 63. Kf6 g2 64. Ra8+ Be8 65. Ra1 Bc6 66. Rd1 Ke8 67. Re1+ Kd7 68. Rd1+ Kc7 69. Ke7 Kb6 70. Kd6 Ba8 71. Rb1+ Ka7 72. Kc7 Ka6 73. Ra1+ Kb5 74. Rb1+ Kc4 75. Kd6 Kd3 76. Ke5 Ke3 77. Kf5 Be4+ 78. Kg4 Bxb1 79. Kg3 g1=Q+ 80. Kh3 Qc1 81. Kg3 Qg1+ 0-1
+

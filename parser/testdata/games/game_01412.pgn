@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/BQ4nJVh8"]
+[White "Nerones"]
+[Black "Zapfke"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:19"]
+[WhiteElo "1806"]
+[BlackElo "1808"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+14"]
+[ECO "B00"]
+[Opening "Caro-Kann Defense: Hillbilly Attack"]
+[TimeControl "300+5"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Bc4 d5 3. exd5 cxd5 4. Be2 Nc6 5. d4 Nf6 6. Nf3 Bf5 7. Nc3 e6 8. Bg5 Be7 9. O-O O-O 10. h3 Rc8 11. Nh4 Bg6 12. Nxg6 hxg6 13. a3 Qb6 14. Be3 a6 15. b4 Qa7 16. Bf3 Nxb4 17. axb4 Rxc3 18. b5 Rfc8 19. bxa6 bxa6 20. Ra2 a5 21. Bd2 R3c4 22. Bxa5 Qxd4 23. Qe2 Qc5 24. c3 Ne4 25. Bb4 Qc7 26. Bxe7 Qxe7 27. Rfa1 Nxc3 0-1
+

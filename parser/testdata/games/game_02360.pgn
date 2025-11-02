@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sE57qFAi"]
+[White "masternate"]
+[Black "seregin79"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:57"]
+[WhiteElo "1568"]
+[BlackElo "1601"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[TimeControl "120+8"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Be2 g6 4. O-O Bg7 5. c3 Nf6 6. d3 O-O 7. Be3 Nc6 8. Qd2 b5 9. Bh6 Bg4 10. Bxg7 Kxg7 11. h3 Bxf3 12. Bxf3 a5 13. Qe3 Rb8 14. a3 b4 15. Nd2 b3 16. Nxb3 Rxb3 17. Rab1 Qb6 18. Qd2 Rb8 19. d4 Rxb2 20. Rxb2 Qxb2 21. Qxb2 Rxb2 22. e5 Nxe5 23. dxe5 dxe5 24. Bc6 Rb3 25. a4 Rxc3 26. Re1 e4 27. Bxe4 Nxe4 28. Rxe4 Rd3 29. Rxe7 Rd4 30. Rc7 Rc4 31. Kf1 Kf6 32. Ke2 h5 33. Kd3 Rxa4 34. Rxc5 Ra2 35. Kc3 Rxf2 36. Rxa5 Rxg2 37. Kd4 Rg3 38. Re5 Rxh3 39. Re4 Rg3 40. Rf4+ Kg7 41. Ke5 Rg5+ 42. Kd6 Rf5 43. Rxf5 gxf5 44. Ke5 Kg6 45. Kf4 f6 46. Kg3 Kg5 47. Kf3 0-1
+

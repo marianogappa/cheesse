@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/3Lid5ZRU"]
+[White "Merdobey"]
+[Black "Oduar"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:56"]
+[WhiteElo "1561"]
+[BlackElo "1563"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "A40"]
+[Opening "Englund Gambit"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. d4 e5 2. dxe5 Ne7 3. Bf4 Nf5 4. e3 Bc5 5. c3 h6 6. Bg3 g5 7. h3 Bxe3 8. fxe3 Nxe3 9. Qe2 Nd5 10. Nd2 Nc6 11. O-O-O a5 12. Qd3 Nb6 13. Ngf3 a4 14. a3 Na5 15. Nd4 c5 16. Nf5 c4 17. Qd6 Nb3+ 18. Kb1 Ra6 19. Nxb3 Na8 20. Qd4 Rd6 21. Qg4 Rxd1+ 22. Qxd1 axb3 23. Bxc4 d5 24. Qxd5 Bxf5+ 25. Ka1 Qb6 26. Bxb3 Nc7 27. Qc4 Nb5 28. Rd1 Qa5 29. Qxf7# 1-0
+

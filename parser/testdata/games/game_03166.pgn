@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eoKbhJov"]
+[White "Ahmed_Samy"]
+[Black "sukkelaar"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:56"]
+[WhiteElo "1735"]
+[BlackElo "1863"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-15"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 c5 4. c3 Nc6 5. Nf3 Bf5 6. Bb5 e6 7. Ne5 Qc7 8. g4 Bg6 9. Nxg6 Bd6 10. Bxd6 Qxd6 11. Nxh8 cxd4 12. Nxf7 Kxf7 13. Bxc6 bxc6 14. exd4 e5 15. g5 Ne4 16. Qh5+ Kg8 17. Nd2 exd4 18. Nxe4 dxe4 19. O-O-O d3 20. Qg4 Re8 21. Rhe1 Qd5 22. Kb1 c5 23. h4 c4 24. h5 a5 25. g6 h6 26. Qf4 a4 27. Qf7+ Qxf7 28. gxf7+ Kxf7 29. Rxe4 Rxe4 30. b3 axb3 31. axb3 cxb3 32. Rxd3 Re2 33. Rf3+ Ke6 34. c4 b2 35. Rb3 Rxf2 36. Rxb2 Rf1+ 37. Ka2 Rh1 38. Re2+ Kd6 39. Rd2+ Ke5 40. Rd5+ Ke6 41. Kb3 Rh3+ 42. Kb4 Rh4 43. Kb5 Rh1 44. Kc6 Rc1 45. c5 Rb1 46. Rd6+ Ke7 47. Rd7+ Kf6 48. Rb7 Rc1 49. Kd6 Rd1+ 50. Kc7 g5 51. hxg6 h5 52. c6 h4 53. Kb8 Rd8+ 54. Ka7 h3 55. g7 h2 56. Rb1 Kxg7 57. c7 Rh8 58. Kb7 Kg6 59. Rh1 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eDLFMLKy"]
+[White "narkohat"]
+[Black "Holio"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:29"]
+[WhiteElo "2062"]
+[BlackElo "2033"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "A52"]
+[Opening "Budapest Defense: Rubinstein Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Nc6 5. Nf3 Bb4+ 6. Nc3 Qe7 7. Qb3 Bxc3+ 8. Qxc3 d6 9. exd6 cxd6 10. e3 O-O 11. O-O-O Nf6 12. Bd3 Bg4 13. h3 Bxf3 14. gxf3 Ne5 15. Be2 b5 16. Bg5 Nxc4 17. Bxc4 bxc4 18. Bxf6 Qxf6 19. Qxf6 gxf6 20. Rxd6 f5 21. Rg1+ Kh8 22. Rf6 Rab8 23. Rxf5 Rb6 24. Rc5 Rfb8 25. Rxc4 Rxb2 26. Rc8+ Rxc8+ 27. Kxb2 h5 28. Rg5 1-0
+

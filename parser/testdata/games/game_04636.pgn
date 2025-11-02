@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bWaOR2Rf"]
+[White "Bad_Owl"]
+[Black "ertgl"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:50"]
+[WhiteElo "1528"]
+[BlackElo "1492"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "720+2"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 b6 3. Bd3 Bb7 4. O-O d5 5. Nc3 Bc5 6. exd5 Bxd5 7. Nxd5 exd5 8. Re1+ Ne7 9. Bb5+ c6 10. Bd3 O-O 11. Ne5 f6 12. Bxh7+ Kxh7 13. Qh5+ Kg8 14. Ng6 Nxg6 15. Qxg6 Nd7 16. d3 Ne5 17. Qg3 d4 18. Bh6 Rf7 19. a3 Qd7 20. b4 Bd6 21. Re4 Ng4 22. Qxg4 Qxg4 23. Rxg4 Re8 24. Bf4 f5 25. Rh4 Bxf4 26. Rxf4 Re2 27. Rc1 c5 28. bxc5 bxc5 29. h3 g5 30. Rf3 g4 31. hxg4 fxg4 32. Rxf7 Kxf7 33. c3 Kf6 34. cxd4 cxd4 35. Rc4 Ke5 36. Ra4 Re1+ 37. Kh2 Rd1 38. Kg3 Rxd3+ 39. Kxg4 Rc3 40. Rxa7 d3 41. f4+ Kd6 42. Ra6+ Kc5 43. Ra8 d2 44. Rd8 Rc2 45. a4 Kc4 46. a5 Ra2 47. a6 Kc3 48. Rc8+ Kb2 49. Rd8 Kc1 50. Rc8+ Rc2 51. Rd8 Ra2 52. Rc8+ Kd1 53. Rc6 Ra3 54. f5 Ke1 55. Re6+ Kf2 56. Rd6 Ke2 57. Re6+ Re3 58. a7 d1=Q 59. a8=Q Kf2+ 60. Kg5 Rg3+ 61. Kf6 Qd4+ 62. Re5 Re3 63. Qa2+ Kg3 64. Qe6 Qh4+ 65. Kf7 Rxe5 66. Qxe5+ Kg4 67. Qe4+ Kg5 68. Qxh4+ Kxh4 69. Kg6 1-0
+

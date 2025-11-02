@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ra43mwsR"]
+[White "paolobarolo"]
+[Black "Romartin"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:07"]
+[WhiteElo "1922"]
+[BlackElo "1996"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "B57"]
+[Opening "Sicilian Defense: Modern Variations, Main Line"]
+[TimeControl "180+3"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 a6 6. O-O e5 7. Nf3 Be7 8. Re1 O-O 9. Nc3 b5 10. Nd5 Nxd5 11. exd5 Bb7 12. b3 Nd7 13. c4 Nf6 14. a4 b4 15. a5 Qd7 16. Bd2 Qg4 17. h3 Qh5 18. Bxb4 Rfe8 19. Bd2 Rab8 20. Qc2 Bc8 21. Kf1 Bxh3 22. gxh3 Qxf3 23. Bxh7+ Nxh7 24. Re3 Qh1+ 25. Ke2 Qxa1 0-1
+

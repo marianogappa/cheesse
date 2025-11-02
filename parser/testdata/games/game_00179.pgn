@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/I1nCHcaT"]
+[White "kimasteralg"]
+[Black "BigStove"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:32"]
+[WhiteElo "1304"]
+[BlackElo "1300"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-32"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit #2"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 Nf6 3. dxc5 Nxe4 4. Nf3 f5 5. Bc4 d5 6. cxd6 exd6 7. Nc3 Be7 8. Bf4 Qa5 9. Qe2 Be6 10. Bxe6 b5 11. O-O Nc6 12. Bxf5 Nxc3 13. bxc3 Qxc3 14. Bxd6 Nd4 15. Qxe7# 1-0
+

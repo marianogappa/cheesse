@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GGEf4yHx"]
+[White "Mayara"]
+[Black "victor-ch"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:47"]
+[WhiteElo "1885"]
+[BlackElo "1713"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+16"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Soller Gambit"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 e5 2. dxe5 f6 3. Nf3 Bc5 4. e3 b6 5. b3 Bb7 6. Bb2 Nc6 7. Nbd2 Qe7 8. e6 Qxe6 9. Be2 Ne5 10. O-O Nxf3+ 11. Bxf3 Bxf3 12. Nxf3 Ne7 13. Qd3 O-O 14. Rad1 d5 15. Nd4 Bxd4 16. Bxd4 c5 17. Bb2 Rad8 18. Rfe1 f5 19. Qe2 Ng6 20. Qh5 Ne5 21. h3 Rf6 22. Qg5 Nf3+ 23. gxf3 Rg6 24. f4 Rxg5+ 25. fxg5 Qg6 26. f4 Qh5 27. Kg2 h6 28. Rd2 hxg5 29. Be5 g4 30. hxg4 Qxg4+ 31. Kf1 d4 32. Rg2 Qf3+ 33. Kg1 Rd7 34. exd4 cxd4 35. Rf1 Qe3+ 36. Kh1 d3 37. cxd3 Qxd3 38. Rfg1 Rf7 39. Rxg7+ Rxg7 40. Rxg7+ Kf8 41. Rg2 Qf3 42. Kg1 Qd1+ 43. Kh2 Qh5+ 44. Kg1 Qf3 45. Kh2 Qe4 46. Kg1 Qe1+ 47. Kh2 Qh4+ 48. Kg1 Qh6 49. Rh2 Qxf4 50. Rg2 Qh2+ 0-1
+

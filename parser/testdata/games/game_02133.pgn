@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/oN8UYLs8"]
+[White "Esteban_COL"]
+[Black "racim"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:58"]
+[WhiteElo "1829"]
+[BlackElo "1665"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation #2"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. Nf3 c6 4. dxc6 Nxc6 5. d4 Bf5 6. Bb5 e6 7. Nc3 Bd6 8. Ne5 Bxe5 9. dxe5 Nd7 10. Bxc6 bxc6 11. Bf4 O-O 12. Qf3 Bxc2 13. O-O Rc8 14. Rac1 Bg6 15. Ne4 Nb6 16. Nd6 Ra8 17. Rxc6 Nd7 18. Rfc1 f6 19. exf6 Nxf6 20. Qg3 Nd5 21. Be5 Rf5 22. f4 Rf8 23. h4 h5 24. Qxg6 Qxh4 25. Qxg7# 1-0
+

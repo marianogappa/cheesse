@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/b2dbt83t"]
+[White "havokdemolidor"]
+[Black "benwa11ace"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:07"]
+[WhiteElo "1375"]
+[BlackElo "1213"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 f5 4. exf5 exd4 5. Qe2+ Be7 6. Nxd4 Nxd4 7. Qh5+ g6 8. fxg6 Nf6 9. g7+ Nxh5 10. gxh8=Q+ Bf8 11. Qxd4 1-0
+

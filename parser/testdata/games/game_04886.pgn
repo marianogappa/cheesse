@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Bwu2JMJK"]
+[White "SbiVd"]
+[Black "kotranec"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:51"]
+[WhiteElo "1253"]
+[BlackElo "1044"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "900+10"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Bb7 3. Nc3 c5 4. Nf3 f6 5. e5 e6 6. d5 exd5 7. Nxd5 Bxd5 8. Qxd5 Qe7 9. Qxa8 fxe5 10. Qxb8+ 1-0
+

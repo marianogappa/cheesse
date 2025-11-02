@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/gNTdGN4e"]
+[Site "https://lichess.org/rqWcBYJG"]
+[White "jonmagal"]
+[Black "antoniocalvesjc"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:45"]
+[WhiteElo "2133"]
+[BlackElo "1798"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+[ECO "D43"]
+[Opening "Semi-Slav Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. g3 Nbd7 6. Bg2 Be7 7. O-O O-O 8. Qc2 dxc4 9. e4 a6 10. a4 b6 11. e5 Nd5 12. Ne4 Bb7 13. Qxc4 Rc8 14. Be3 b5 15. Qd3 Nb4 16. Qb1 Nb6 17. Neg5 g6 18. axb5 cxb5 19. h4 Nc4 20. h5 Nxe3 21. fxe3 Nc2 22. hxg6 hxg6 23. Nh3 Nxa1 24. Qxa1 Rc2 25. Qb1 Qc7 26. Nf4 Rc8 27. Ne1 Rc1 28. Qd3 Bxg2 29. Kxg2 Qc4 30. Qe4 Qd5 31. Nxd5 exd5 32. Qxd5 Bb4 33. e6 Bxe1 34. exf7+ Kf8 35. Qd6+ Kg7 36. Qf6+ Kf8 37. Qd6+ Kg7 38. Qf6+ Kf8 39. Qh8+ Ke7 40. f8=Q+ Rxf8 41. Qxf8+ Ke6 42. Qf7+ Kd6 43. Rf6# 1-0
+

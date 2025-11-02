@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/6qD8tGYI"]
+[White "fede789"]
+[Black "igna94"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:53"]
+[WhiteElo "1946"]
+[BlackElo "1641"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+[ECO "C42"]
+[Opening "Russian Game: Nimzowitsch Attack"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nf6 6. d4 d5 7. Bg5 c6 8. Qd2 Be7 9. O-O-O O-O 10. Ne5 Nbd7 11. f4 Nxe5 12. fxe5 Ne4 13. Nxe4 dxe4 14. h4 Bxg5 15. hxg5 Be6 16. Qf4 1-0
+

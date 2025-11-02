@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mmMwJc2C"]
+[White "thebearman"]
+[Black "filosofocomegalletas"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:07"]
+[WhiteElo "1500"]
+[BlackElo "1499"]
+[WhiteRatingDiff "-176"]
+[BlackRatingDiff "+12"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.32] } 1... d5 { [%eval 0.25] } 2. e3 { [%eval 0.06] } 2... e6 { [%eval 0.11] } 3. b4? { [%eval -1.14] } 3... Bxb4+ { [%eval -1.1] } 4. Bd2 { [%eval -1.11] } 4... Bxd2+ { [%eval -0.79] } 5. Qxd2 { [%eval -1.1] } 5... Nf6 { [%eval -1.12] } 6. Nh3?! { [%eval -2.0] } 6... O-O { [%eval -1.66] } 7. Qb4 { [%eval -1.95] } 7... a5 { [%eval -1.75] } 8. Qa4 { [%eval -2.14] } 8... Bd7 { [%eval -1.87] } 9. Qa3 { [%eval -2.21] } 9... b5?! { [%eval -1.68] } 10. Nc3?? { [%eval -5.45] } 10... b4 { [%eval -5.29] } 11. Qb2 { [%eval -5.53] } 11... bxc3 { [%eval -5.27] } 12. Qxc3 { [%eval -5.27] } 12... Qe7 { [%eval -4.84] } 13. Qxc7?? { [%eval -11.92] } 13... Qb4+ { [%eval -11.55] } 14. Kd1 { [%eval -14.0] } 14... Bb5?? { [%eval -6.48] } 15. Qc5? { [%eval -9.43] } 15... Bxf1?? { [%eval -4.93] } 16. Qxb4 { [%eval -4.92] } 16... axb4 { [%eval -4.95] } 17. Rxf1 { [%eval -4.87] } 17... Nc6 { [%eval -4.7] } 18. c3? { [%eval -6.13] } 18... bxc3 { [%eval -5.72] } 19. Rc1? { [%eval -7.58] } 19... Ne4? { [%eval -5.95] } 20. f3 { [%eval -5.96] } 20... Nd2 { [%eval -5.92] } 21. Rf2 { [%eval -5.89] } 21... Nc4 { [%eval -5.77] } 22. Rxc3 { [%eval -5.77] } 22... Nb4?! { [%eval -5.08] } 23. a3? { [%eval -6.23] } 23... Nc6? { [%eval -4.47] } 24. g4 { [%eval -4.77] } 24... Rfb8 { [%eval -4.72] } 25. g5?? { [%eval -7.95] } 25... Ne7? { [%eval -5.45] } 26. Nf4? { [%eval -7.1] } 26... Rxa3? { [%eval -5.08] } 0-1
+

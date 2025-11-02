@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/GV4myvQv"]
+[White "Vlupo"]
+[Black "AlanDonAlan"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:23"]
+[WhiteElo "1080"]
+[BlackElo "1485"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "300+10"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 Bf5 3. Bb5+ c6 4. Bd3 Be6 5. Nf3 Bg4 6. Be2 Bxf3 7. Bxf3 e6 8. Nc3 Bb4 9. Bd2 Bxc3 10. Bxc3 h6 11. O-O Nf6 12. g3 Nbd7 13. Qd2 Nf8 14. Ba5 b6 15. Bb4 Ng6 16. a4 a5 17. Bc3 O-O 18. b4 axb4 19. Bxb4 Re8 20. a5 b5 21. a6 Qc8 22. a7 Rd8 23. h4 Rd7 24. h5 Nh8 25. g4 Rdxa7 26. Bc5 Rxa1 27. Rxa1 Rxa1+ 28. Kg2 Qb8 29. Qc3 Rb1 30. Qa3 b4 31. Qa2 Rc1 32. Qb2 Re1 33. Bxb4 c5 34. dxc5 Ne4 35. c6 Ng5 36. c7 Qxc7 37. Bxe1 Ne4 38. Bxe4 dxe4 39. Bc3 f6 40. Qa1 e5 41. Ba5 Qxc2 42. Qa3 g6 43. Qd6 gxh5 44. Qe6+ Nf7 45. gxh5 Qe2 46. Qc8+ Kg7 47. Qh3 Ng5 48. Qd7+ Kf8 49. Bb4+ Kg8 50. Qd8+ Kf7 51. Qe7+ Kg8 52. Qf8+ Kh7 53. Qxf6 Qf3+ 54. Qxf3 exf3+ 55. Kg3 e4 56. Kf4 Kg7 57. Bc3+ Kf7 58. Bd4 Ke6 59. Bc3 Kd5 60. Kg3 Ne6 61. Bg7 Nxg7 0-1
+

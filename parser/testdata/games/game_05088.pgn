@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gQEPPK2T"]
+[White "irenka77"]
+[Black "ybrian"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:33"]
+[WhiteElo "1866"]
+[BlackElo "1865"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit #2"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qe3 g6 5. Nc3 d6 6. Bd2 Bg7 7. O-O-O Nf6 8. f4 O-O 9. h3 a6 10. g4 b5 11. Be2 Rb8 12. g5 Ne8 13. h4 b4 14. Nd5 e6 15. Nf6+ Nxf6 16. gxf6 Qxf6 17. e5 dxe5 18. fxe5 Nxe5 19. c3 a5 20. Nf3 Nxf3 21. Bxf3 b3 22. a3 Ba6 23. h5 Bb7 24. Bxb7 Rxb7 25. hxg6 fxg6 26. Qe4 Rd7 27. Rde1 Rfd8 28. Be3 Qf5 29. Qxf5 exf5 30. Bg5 Rc8 31. Re3 Rc6 32. Reh3 Be5 33. Bh6 Rcd6 34. Re3 Re7 35. Rhe1 g5 36. Bxg5 Rg7 37. Rxe5 Rxg5 38. Re8+ Kg7 39. R1e7+ Kg6 40. Re1 h5 41. Rg8+ Kf6 42. Rf8+ Kg7 43. Rfe8 h4 44. R8e7+ Kf6 45. Re8 h3 46. Rf8+ Kg6 47. Rg8+ Kf6 48. Rh8 Rg3 49. Rh1 Rdd3 0-1
+

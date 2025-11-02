@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/xUN9A6tv"]
+[White "MASTER-WU"]
+[Black "Sergi_27"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:26"]
+[WhiteElo "1441"]
+[BlackElo "1385"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-9"]
+[ECO "B00"]
+[Opening "King's Pawn"]
+[TimeControl "1200+0"]
+[Termination "Time forfeit"]
+
+1. e4 b5 2. Qf3 Nc6 3. Bxb5 a6 4. Bxc6 dxc6 5. e5 Bd7 6. b4 e6 7. Bb2 Bxb4 8. a3 Ba5 9. Ne2 Ne7 10. Qg3 1-0
+

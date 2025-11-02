@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pt7xXVEQ"]
+[White "YaduNivo"]
+[Black "moj911"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:26"]
+[WhiteElo "1209"]
+[BlackElo "973"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-6"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 d5 4. Bxd5 c6 5. Bc4 b5 6. Bb3 a5 7. a3 a4 8. Ba2 c5 9. Nxe5 Nh6 10. d3 Qe7 11. f4 f6 12. Ng4 f5 13. Nxh6 gxh6 14. O-O fxe4 15. Re1 Be6 16. Bxe6 Qxe6 17. Rxe4 Qxe4 18. dxe4 c4 19. c3 Nc6 20. Qh5+ Kd8 21. Qd5+ Kc7 22. Qxb5 Ra5 23. Qxc4 Bc5+ 24. Kf1 h5 25. e5 h4 26. e6 h5 27. f5 h3 28. gxh3 h4 29. f6 Ne5 30. Qf4 Kc6 31. f7 Nxf7 32. exf7 Raa8 33. Qf6+ Bd6 34. Bf4 Rad8 35. Nd2 Kc7 36. Re1 1-0
+

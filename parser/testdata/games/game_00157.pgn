@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PZIlAwN2"]
+[White "silverioalves"]
+[Black "kovachvs"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:26"]
+[WhiteElo "1865"]
+[BlackElo "1833"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "B06"]
+[Opening "Modern Defense: Two Knights Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nf3 Bg7 3. d4 d6 4. Nc3 Nd7 5. Be3 e6 6. Be2 Ne7 7. O-O O-O 8. Re1 c6 9. e5 dxe5 10. dxe5 Nxe5 11. Nxe5 Bxe5 12. Bg5 f6 13. Bh6 Re8 14. Qc1 Qc7 15. g3 Nf5 16. Be3 Bd4 17. Ne4 Bxe3 18. fxe3 Kg7 19. Bg4 b6 20. Qd2 Bb7 21. Qc3 Rf8 22. Rad1 c5 23. Nf2 Nxg3 24. hxg3 Qxg3+ 25. Kf1 Qg2+ 26. Ke2 h5 27. Rg1 Ba6+ 28. Kd2 Qxf2+ 29. Kc1 hxg4 30. Rd7+ Rf7 31. Rdd1 Qf3 32. Qb3 c4 33. Qa3 Bb7 34. Qc3 b5 35. Kb1 Be4 36. Rdf1 Qh3 37. Rf4 Bf3 38. a3 Rh8 39. Rd4 Qh2 40. Re1 Qf2 41. Qb4 a5 42. Qxa5 c3 43. Qxc3 b4 44. Qxb4 Rh1 45. Rxh1 Bxh1 46. Qc3 Qf1+ 47. Ka2 Bd5+ 48. b3 g3 49. Rg4 g2 50. e4 Bxb3+ 51. Qxb3 g1=Q 52. Rxg1 Qxg1 53. Qxe6 Qc5 54. c4 Rc7 55. Kb3 Rb7+ 56. Kc3 Qxa3+ 57. Kd4 Qb2+ 58. Kd3 Rb3# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/1kLoWRq2"]
+[White "sparkky"]
+[Black "Canadageek"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:32"]
+[WhiteElo "1819"]
+[BlackElo "1792"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e3 d5 2. d4 e6 3. c4 Nf6 4. cxd5 Nxd5 5. h3 Nf6 6. a3 Be7 7. Nf3 c6 8. Bd3 Bd7 9. b4 b6 10. Bd2 Bc8 11. Nc3 Nbd7 12. Qc2 Bb7 13. Rc1 Qc7 14. Ne4 a5 15. Nxf6+ Bxf6 16. bxa5 bxa5 17. O-O O-O 18. Qa2 Nb6 19. Rc2 Nd5 20. Rfc1 Qd7 21. Be4 h6 22. Bxd5 exd5 23. Bc3 Qe6 24. Ne5 Rfc8 25. Be1 Bxe5 26. dxe5 Qxe5 27. Qb2 Qxb2 28. Rxb2 c5 1-0
+

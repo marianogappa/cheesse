@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/WYuaDc1L"]
+[White "markast"]
+[Black "jerrimada"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:56"]
+[WhiteElo "1249"]
+[BlackElo "1301"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. g3 d5 2. Bg2 Qd6 3. b3 Nh6 4. Bb2 Na6 5. Nf3 Bf5 6. Nd4 Ng4 7. Nxf5 Qd7 8. e3 Qxf5 9. h3 Qxf2# 0-1
+

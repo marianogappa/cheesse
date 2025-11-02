@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/XkAs1Z46"]
+[White "Nkko"]
+[Black "x1920"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:52"]
+[WhiteElo "1917"]
+[BlackElo "1655"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[ECO "A40"]
+[Opening "Modern Defense"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. d4 g6 2. Bf4 f6 3. Be5 Bg7 4. Bf4 f5 5. e3 g5 6. Be5 h6 7. Bxg7 Rh7 8. Be5 Kf7 9. Bg3 d6 10. h3 e5 11. dxe5 dxe5 12. Qxd8 Nc6 13. Qd5+ Be6 14. Qc5 b6 15. Qxc6 Bd7 16. Qxa8 1-0
+

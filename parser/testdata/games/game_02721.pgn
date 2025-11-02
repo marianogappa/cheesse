@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QBHp1pHv"]
+[White "jayboyoung"]
+[Black "beratberat"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:13"]
+[WhiteElo "1019"]
+[BlackElo "942"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-13"]
+[ECO "C44"]
+[Opening "King's Knight Opening: Normal Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d3 d5 4. Nc3 Bg4 5. Nxd5 Nd4 6. Nxe5 Bxd1 7. Kxd1 Bd6 8. f4 f6 9. Be3 c5 10. c3 Qc8 11. cxd4 cxd4 12. Bxd4 fxe5 13. fxe5 Bf8 14. Rc1 Qg4+ 15. Kd2 Qg5+ 16. Kd1 Qg4+ 17. Kd2 g6 18. h3 Bh6+ 19. Be3 Qg3 20. Rc7 Rd8 21. Rxb7 Ne7 22. Nxe7 Rc8 23. Nxc8 Bxe3+ 24. Kc3 Qxe5+ 25. Kc2 Qc5+ 26. Kb3 Qb5+ 27. Rxb5 Kf7 28. Rb7+ Kf6 29. Nxa7 Rd8 30. Be2 Bc5 31. Nc6 Rd6 32. Rc7 Rd4 33. Nxd4 g5 34. Rf1+ Kg6 35. Rxc5 Kh6 36. Rf6+ Kg7 37. Rcc6 h6 38. Rxh6 g4 39. hxg4 Kf7 40. Rh7+ Kg8 41. Rh5 Kg7 42. a4 Kg8 43. a5 Kf8 44. a6 Ke8 45. a7 Kd8 46. a8=Q+ Kd7 47. Rh7# 1-0
+

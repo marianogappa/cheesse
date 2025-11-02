@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zpcEr1tB"]
+[White "shammies"]
+[Black "SlavaD"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:26"]
+[WhiteElo "2113"]
+[BlackElo "1833"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+[ECO "E81"]
+[Opening "King's Indian Defense: Saemisch Variation, Bobotsov-Korchnoi-Petrosian Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d6 2. c4 Nf6 3. Nc3 g6 4. e4 Bg7 5. f3 O-O 6. Nge2 c5 7. d5 Nbd7 8. Bg5 a6 9. a4 Ne5 10. Ng3 Qb6 11. Qd2 Nfd7 12. Be2 f6 13. Be3 Rf7 14. f4 Bh6 15. fxe5 Bxe3 16. Qxe3 fxe5 17. O-O-O Qb4 18. Rhf1 Nf6 19. Qh6 Bd7 20. h4 Ng4 21. Bxg4 Bxg4 22. Rxf7 Kxf7 23. Qxh7+ Ke8 24. Qg8+ Kd7 25. Qxa8 Bxd1 26. Kxd1 Qb3+ 27. Kc1 Qxc4 28. Qxb7+ Ke8 29. h5 Qd3 30. Qc8+ Kf7 31. hxg6+ Kg7 32. Nf5+ Kxg6 33. Qg8+ Kh5 34. g4# 1-0
+

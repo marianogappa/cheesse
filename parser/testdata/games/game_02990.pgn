@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/VerZBBeO"]
+[White "templex"]
+[Black "alessandrocarvalhaes"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:12"]
+[WhiteElo "1769"]
+[BlackElo "1804"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "C42"]
+[Opening "Russian Game: French Attack"]
+[TimeControl "480+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6 6. Be2 Be7 7. O-O O-O 8. Nc3 c5 9. h3 d5 10. Nh2 d4 11. Ne4 Nd5 12. c4 Nb4 13. a3 N4c6 14. f4 Nd7 15. Bf3 Nf6 16. Ng3 Bd7 17. Bd2 Qc8 18. Re1 Bxh3 19. gxh3 Qxh3 20. Ne4 Rfe8 21. Rf1 Rac8 22. Nxf6+ Bxf6 23. Bxc6 Rxc6 24. Qg4 Qxd3 25. Rfe1 Kf8 26. Rxe8+ Kxe8 27. Re1+ Kf8 28. Qe2 Qxe2 29. Rxe2 d3 30. Rg2 Bxb2 31. a4 Bf6 32. Rg3 Rd6 33. Nf3 h6 34. Kf1 b6 35. Ne1 Rd4 36. Rxd3 Rxf4+ 37. Bxf4 g5 38. Bd6+ Kg7 39. Nf3 g4 40. Ne5 h5 41. Nc6 a5 42. Ne5 g3 43. Rxg3+ Kh6 44. Nxf7+ Kh7 45. Rh3 Kg6 46. Nh8+ Kh6 47. Bf4+ Kg7 48. Rxh5 Kg8 49. Ng6 Kf7 50. Ne5+ Ke6 0-1
+

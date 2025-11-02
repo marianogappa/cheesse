@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/fQNt0meO"]
+[White "Tromto"]
+[Black "ivanoporpora"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:59"]
+[WhiteElo "1408"]
+[BlackElo "1567"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[ECO "A41"]
+[Opening "Queen's Pawn"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 d6 2. Nf3 g6 3. e3 Bh6 4. Bc4 Bg7 5. c3 Nf6 6. Bd2 O-O 7. Qc2 Nc6 8. h4 e5 9. dxe5 Nxe5 10. Nxe5 dxe5 11. Bd3 h5 12. e4 Ng4 13. Bg5 f6 14. Bxf6 Bxf6 15. Nd2 Bxh4 16. O-O-O Nxf2 17. g3 Nxh1 18. Rxh1 Bxg3 19. Rg1 h4 20. Nf3 g5 21. Nxe5 Bxe5 22. b3 Bf4+ 23. Kb2 h3 24. Rh1 h2 25. Qg2 Qf6 26. Be2 Be5 27. Bc4+ Kg7 28. Ka3 Qd6+ 29. Kb2 Qf6 30. Ka3 Bxc3 31. Rf1 Qe7+ 32. Ka4 Qb4# 0-1
+

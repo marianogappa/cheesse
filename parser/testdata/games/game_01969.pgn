@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bAwmXesE"]
+[White "weini2k"]
+[Black "gurbe"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:21"]
+[WhiteElo "1522"]
+[BlackElo "1518"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B57"]
+[Opening "Sicilian Defense: Sozin, not Scheveningen"]
+[TimeControl "900+8"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.25] } 1... c5 { [%eval 0.22] } 2. Nf3 { [%eval 0.25] } 2... d6 { [%eval 0.27] } 3. Bc4 { [%eval 0.14] } 3... Nf6 { [%eval 0.25] } 4. Nc3 { [%eval 0.19] } 4... Nc6 { [%eval 0.21] } 5. d4 { [%eval 0.12] } 5... cxd4 { [%eval 0.2] } 6. Nxd4 { [%eval 0.26] } 6... a6 { [%eval 0.35] } 7. a4 { [%eval 0.05] } 7... Bg4 { [%eval 0.25] } 8. Qd3?! { [%eval -0.57] } 8... g6? { [%eval 0.69] } 9. Bg5?! { [%eval -0.24] } 9... Bg7?! { [%eval 0.63] } 10. Nd5? { [%eval -1.81] } 10... Nxd5? { [%eval -0.31] } 11. Bxd5?? { [%eval -3.54] } 11... Nxd4 { [%eval -3.38] } 12. c3 { [%eval -3.5] } 12... Nc6 { [%eval -3.35] } 13. Qc4 { [%eval -3.73] } 13... O-O { [%eval -3.7] } 14. O-O { [%eval -3.87] } 14... Ne5 { [%eval -3.58] } 15. Qb4?! { [%eval -4.26] } 15... Rb8 { [%eval -3.96] } 16. Bxb7?? { [%eval -9.4] } 16... f6? { [%eval -6.82] } 17. Be3 { [%eval -7.02] } 17... Qc7 { [%eval -6.88] } 18. Ba7?? { [%eval -11.62] } 18... Rxb7 { [%eval -11.39] } 19. Bb6 { [%eval -14.23] } 19... Rxb6 { [%eval -13.72] } 20. Qxb6 { [%eval -19.79] } 20... Qxb6 { [%eval -19.48] } 0-1
+

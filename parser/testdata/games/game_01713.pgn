@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/84RVOljm"]
+[White "catkislav"]
+[Black "hamidouvic"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:32"]
+[WhiteElo "1967"]
+[BlackElo "1608"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "A41"]
+[Opening "Rat Defense: English Rat"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. d4 d6 2. c4 e5 3. dxe5 dxe5 4. Qxd8+ Kxd8 5. Nf3 Nc6 6. Ng5 Ke7 7. Nc3 Nd4 8. Kd2 c6 9. e3 Ne6 10. Nf3 Nf6 11. Nxe5 Nc5 12. f3 Ke6 13. Nd3 Nxd3 14. Bxd3 Bb4 15. a3 Bxc3+ 16. Kxc3 Rd8 17. b3 b5 18. cxb5 Nd5+ 19. Kb2 cxb5 20. Bxb5 Rb8 21. Bc4 Bb7 22. e4 Ke5 23. exd5 Bxd5 24. Re1+ Kf5 25. g4+ Kg6 26. Bxd5 Rxd5 27. Bf4 Rbd8 28. a4 Rd2+ 29. Bxd2 Rxd2+ 30. Kc3 Rxh2 31. Re3 f5 32. Rg1 fxg4 33. Rxg4+ Kf7 34. Rf4+ Kg6 35. Re7 Kg5 36. Rg4+ Kf6 37. Rxa7 g6 38. a5 h5 39. Re4 Rf2 40. Rf4+ Kg5 41. Raf7 h4 42. Rg4+ Kh5 43. Rh7# 1-0
+

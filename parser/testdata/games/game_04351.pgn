@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9V43NiYY"]
+[White "Abdel_Lele"]
+[Black "Mateikonys"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:44"]
+[WhiteElo "1361"]
+[BlackElo "1643"]
+[WhiteRatingDiff "+25"]
+[BlackRatingDiff "-18"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. Qf3 Bg7 3. Bc4 e6 4. Nc3 Nc6 5. Nge2 Ne5 6. Qf4 Nxc4 7. b3 Be5 8. Qf3 Nd6 9. O-O Bxc3 10. Nxc3 Ne7 11. a4 O-O 12. Bb2 f5 13. Qg3 Nxe4 14. Qe5 Kf7 15. Nxe4 fxe4 16. Qg7+ Ke8 17. Qxh7 d5 18. Bg7 Kd7 19. c4 Rf7 20. cxd5 Nf5 21. Qxg6 Rxg7 22. Qxe6# 1-0
+

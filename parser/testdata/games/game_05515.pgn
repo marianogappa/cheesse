@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ZfZH4km3"]
+[White "axiles64"]
+[Black "sergei-chss"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:17"]
+[WhiteElo "2087"]
+[BlackElo "2063"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. Nf3 d5 5. e5 c5 6. c3 Nc6 7. O-O Nge7 8. Bg5 Qd7 9. Qd2 Nf5 10. Bxf5 exf5 11. Na3 Nd8 12. Rfe1 Ne6 13. c4 h6 14. Be3 O-O-O 15. dxc5 d4 16. Bf4 g5 17. cxb6 axb6 18. Nb5 Nxf4 19. Nfxd4 Bc5 20. b4 Bxd4 21. Rad1 Bxe5 22. Qc2 Qxb5 23. cxb5+ Kb8 24. f3 Bc3 25. Qxc3 Ne2+ 26. Rxe2 Rc8 27. Qe3 Rhd8 28. Qe5+ Ka7 29. Qxf5 Rxd1+ 30. Kf2 Rcc1 31. Kg3 Rf1 32. h4 h5 33. hxg5 f6 34. gxf6 Rxf3+ 35. gxf3 Rc3 0-1
+

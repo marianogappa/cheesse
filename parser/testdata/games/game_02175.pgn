@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/QOKU4k2O"]
+[White "klunkerkoenig"]
+[Black "Lvictor"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:12"]
+[WhiteElo "1961"]
+[BlackElo "1924"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. c4 Be7 6. cxd5 Nxd5 7. Bc4 Nb6 8. Bxf7+ Kxf7 9. Qb3+ Qd5 10. Ne5+ Ke8 11. Qe3 Qxg2 12. Rf1 Bh3 13. Nd2 Kd8 14. Nf7+ Kd7 15. Nxh8 Bb4 16. Qe2 Bxd2+ 17. Bxd2 Qxf1+ 18. Qxf1 Bxf1 19. Kxf1 Nc6 20. Nf7 Nxd4 21. Ng5 Nc6 22. Be3 Rf8 23. Rd1+ Kc8 24. Ne6 Rf6 25. Bxb6 axb6 26. Nd4 Nxd4 27. Rxd4 Rc6 28. Rd2 Kb8 29. Ke2 Ka7 30. f3 b5 31. h3 Kb6 32. b3 Re6+ 33. Kd1 Rf6 34. Kc2 Rxf3 35. Rd3 Rxd3 36. Kxd3 Kc6 37. Ke4 Kd6 38. Kf5 c5 39. h4 c4 40. h5 c3 41. b4 c2 42. a4 c1=Q 43. a5 Qh6 44. a6 Qf6+ 45. Ke4 bxa6 46. h6 1-0
+

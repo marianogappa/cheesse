@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7BWGJzjj"]
+[White "Yerkebulan"]
+[Black "CONTRADIQUE"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:47"]
+[WhiteElo "1503"]
+[BlackElo "1606"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[TimeControl "60+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Bc5 3. d4 exd4 4. Nxd4 Qf6 5. Be3 Ne7 6. Nc3 O-O 7. Bd3 Bxd4 0-1
+

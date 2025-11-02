@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/fgsbeoA1"]
+[White "lib3344"]
+[Black "Mondong0"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:51"]
+[WhiteElo "1387"]
+[BlackElo "1517"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+8"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Berlin Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. Qf3 Bc5 4. c3 O-O 5. Be2 Nc6 6. d3 d6 7. h3 a5 8. Qg3 g6 9. Bh6 Re8 10. Bg4 Nxg4 11. hxg4 Qf6 12. g5 Qf4 13. Qxf4 exf4 14. Rh4 d5 15. Rxf4 dxe4 16. Rxe4 Bf5 17. Rxe8+ Rxe8+ 18. Ne2 Bxd3 19. Kd2 Bxe2 20. Na3 Bxf2 21. Nc2 Bg3 22. Ne3 Bf4 23. Kxe2 Rxe3+ 24. Kf2 Re5 25. Rd1 Bxg5 26. Bxg5 Rxg5 27. Rd7 Re5 28. Rxc7 Re7 29. Rc8+ Kg7 30. Ra8 Rd7 31. Ke2 Rd8 32. Rxd8 Nxd8 33. Kd3 Kf6 34. Kc4 h5 35. Kb5 h4 36. Kxa5 g5 37. Kb5 g4 38. Kc4 h3 39. gxh3 gxh3 40. a4 h2 41. a5 h1=Q 42. b4 Qc6+ 43. Kb3 Ne6 44. Kb2 Qc4 45. Kc2 Ng5 46. Kd2 Ne4+ 47. Kc2 Qxc3+ 48. Kd1 Qd2# 0-1
+

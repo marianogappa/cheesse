@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/7668Mr6o"]
+[White "DeannaeD"]
+[Black "antozi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:31"]
+[WhiteElo "1277"]
+[BlackElo "1267"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. d4 Qe7 5. d5 Nd4 6. Nxd4 exd4 7. Qxd4 c5 8. Qd2 Nf6 9. f3 g6 10. Bb5+ Bd7 11. Qd3 a6 12. Bxd7+ Qxd7 13. Bg5 Bg7 14. b3 Nh5 15. Na4 b5 16. Nb6 c4 17. Nxd7 cxd3 18. Nf6+ Bxf6 19. Bxf6 Nxf6 20. O-O-O dxc2 21. Kxc2 Rc8+ 22. Kb2 O-O 23. Rd4 Ra8 24. Rc1 Nd7 25. Rc6 Rfd8 26. Rxd6 Ne5 27. Rxd8+ Rxd8 28. a4 Rb8 29. d6 bxa4 30. d7 Nxd7 31. Rxd7 axb3 32. Ra7 Rb6 33. e5 h5 34. g4 Rc6 35. gxh5 Rc2+ 36. Kxb3 Rc6 37. hxg6 Rxg6 38. f4 Kg7 39. f5 Rb6+ 40. Kc3 Rc6+ 41. Kd4 Rb6 42. h4 Kf8 43. Kd5 Ke8 44. e6 f6 45. e7 Rb5+ 46. Kd6 Rxf5 47. Ra8+ Kf7 48. e8=Q+ Kg7 49. Rxa6 Kh6 50. Qh8+ Kg6 51. Ra8 Rh5 52. Rg8+ Kf5 53. Qxh5+ Kf4 54. Rf8 1-0
+

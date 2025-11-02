@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/p0EvKBmy"]
+[White "sergiokumic"]
+[Black "juangus"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:54"]
+[WhiteElo "1422"]
+[BlackElo "1410"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "D06"]
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+[TimeControl "300+3"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 d5 3. Nc3 Be6 4. Bg5 dxc4 5. e4 Nbd7 6. d5 Bg4 7. f3 Bh5 8. Bxc4 Ne5 9. Bb3 h6 10. Bh4 g5 11. Bg3 Ned7 12. e5 Nh7 13. Rc1 Bg7 14. Nb5 c6 15. dxc6 Qa5+ 16. Nc3 Nxe5 17. cxb7 Rd8 18. Qc2 Nd3+ 19. Qxd3 Rxd3 20. b8=Q+ Qd8 21. Qb5+ 1-0
+

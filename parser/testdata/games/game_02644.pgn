@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RDfPrysG"]
+[White "markoni99"]
+[Black "larsonco"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:58"]
+[WhiteElo "1326"]
+[BlackElo "1503"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+6"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation #4"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c4 Nc6 5. Nf3 Qb6 6. Be3 Qxb2 7. Nbd2 cxd4 8. cxd5 dxe3 9. dxc6 exd2+ 10. Nxd2 Bb4 11. cxb7 Bxb7 12. Qa4+ Ke7 0-1
+

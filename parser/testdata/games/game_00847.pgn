@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8e2Ndwh6"]
+[White "SexyD"]
+[Black "Waffle3z"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:11"]
+[WhiteElo "1155"]
+[BlackElo "1285"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-26"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 c5 2. Qh5 Nf6 3. Qxc5 Nxe4 4. Qf5 Nf6 5. g4 g6 6. Qf4 Bg7 7. g5 Nd5 8. Qf3 e6 9. Nc3 Nxc3 10. dxc3 O-O 11. h4 d5 12. h5 Nc6 13. hxg6 fxg6 14. Qh3 e5 15. Qxh7+ Kf7 16. Rh6 Rg8 17. Qxg6+ Kf8 18. Rh7 Qe7 19. Bh3 Bxh3 20. Rxh3 d4 21. Rf3+ Bf6 22. Rxf6+ Qxf6 23. Qxf6+ Ke8 24. Qe6+ Kf8 25. Qd6+ Ke8 26. Qe6+ Kf8 27. g6 Nd8 28. Qf6+ Ke8 29. Bg5 dxc3 30. Qxe5+ Kf8 31. Qd6+ Kg7 32. Qf6# 1-0
+

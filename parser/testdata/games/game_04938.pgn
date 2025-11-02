@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dVK3L0IT"]
+[White "Robertobatista"]
+[Black "Mascaraque"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:01"]
+[WhiteElo "1328"]
+[BlackElo "1491"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-16"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "180+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Qf6 3. Nc3 c6 4. Bc4 Bd6 5. d3 h6 6. Bg5 Qxg5 7. Qxf7+ Kd8 8. Nf3 Qxg2 9. O-O-O Nf6 10. Rhg1 Qxf3 11. Qxg7 Rg8 12. Bxg8 1-0
+

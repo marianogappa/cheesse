@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/d2OnxMWT"]
+[White "sbarbier"]
+[Black "BishopFingers"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:14"]
+[WhiteElo "1545"]
+[BlackElo "1588"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "B46"]
+[Opening "Sicilian Defense: Paulsen Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 a6 6. Nxc6 bxc6 7. Bd3 Qc7 8. g3 Nf6 9. Bg5 Be7 10. Qe2 h6 11. Bh4 g5 12. e5 Nd5 13. Nxd5 cxd5 14. O-O-O gxh4 15. gxh4 Bxh4 16. Qh5 Bg5+ 17. Kb1 Bb7 18. Rhg1 O-O-O 19. Qxf7 Qxe5 20. Qf3 Kb8 21. Qe2 Bf6 22. c3 Qxe2 23. Bxe2 d4 24. cxd4 Rc8 25. Rc1 Rxc1+ 26. Rxc1 Rc8 27. Rxc8+ Kxc8 0-1
+

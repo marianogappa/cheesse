@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/kUpcdt3F"]
+[White "adhocprog"]
+[Black "jupiter10"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:55"]
+[WhiteElo "1805"]
+[BlackElo "1797"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. d3 dxe4 3. dxe4 Qxd1+ 4. Kxd1 Nf6 5. f3 Be6 6. Nc3 Nc6 7. Bd3 O-O-O 8. Ke2 Nb4 9. a3 Nxd3 10. cxd3 Bb3 11. Be3 e5 12. Nh3 b6 13. Ng5 h6 14. Nh3 Bc5 15. Bxc5 bxc5 16. Rhc1 c4 17. dxc4 Bxc4+ 18. Ke1 Rd4 19. Rd1 Rhd8 20. Rxd4 exd4 21. Na4 Bb5 22. Nc5 d3 23. a4 Bc4 24. b3 Be6 25. Nxe6 fxe6 26. Rd1 g5 27. Nf2 Nh5 28. Nxd3 e5 29. Nxe5 Nf4 30. g3 Re8 31. gxf4 gxf4 32. Nd3 Rg8 33. Kf2 h5 34. Rg1 h4 35. Rxg8+ Kb7 36. Rg4 h3 37. Rxf4 a5 38. Rh4 Kb6 39. Rxh3 c6 40. Rh5 Kb7 41. Nc5+ Kb6 42. Nd3 Kb7 43. Rxa5 Kb6 44. Rc5 Kb7 45. b4 Kb6 46. a5+ Kb7 47. Ne5 Ka6 48. Ke3 Kb7 49. Kd4 Ka6 50. Rxc6+ Kb7 51. Rc5 Ka7 52. b5 Kb7 53. Kd5 Ka8 54. Rc6 Kb7 55. a6+ Kb8 56. b6 Ka8 57. Rh6 1-0
+

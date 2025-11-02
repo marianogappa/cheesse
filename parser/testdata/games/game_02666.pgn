@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RtYabLWE"]
+[White "hexeract"]
+[Black "laventure"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:02"]
+[WhiteElo "1477"]
+[BlackElo "1432"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 Be6 4. e4 f5 5. d5 Bf7 6. exf5 Nf6 7. Bxc4 g6 8. fxg6 Bxg6 9. Nf3 Ne4 10. Nxe4 Bxe4 11. O-O Qd6 12. Re1 Bxf3 13. Qxf3 Rg8 14. Qh5+ Kd8 15. Be3 Na6 16. Rad1 Nb4 17. Bb3 Na6 18. Qxh7 Rg7 19. Qh8 e5 20. dxe6 Qxd1 21. Rxd1+ Ke7 22. Qh4+ Ke8 23. Ba4+ c6 24. Qh5+ Ke7 25. Bg5+ Kxe6 26. Bb3+ Kf5 27. Bh6+ Kf6 28. Bxg7+ Bxg7 29. Rd6+ Ke7 30. Qg6 1-0
+

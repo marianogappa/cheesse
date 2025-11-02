@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4dwVwmQm"]
+[White "jimmythesaint"]
+[Black "leepoung"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:09"]
+[WhiteElo "1569"]
+[BlackElo "1702"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 b6 3. d4 c5 4. Bd3 Bb7 5. O-O d5 6. Re1 a6 7. Nc3 c4 8. Be2 Bb4 9. exd5 Bxd5 10. Ne5 Nf6 11. Bf3 Ra7 12. Bxd5 Nxd5 13. a3 Bxc3 14. bxc3 O-O 15. Qf3 Qe8 16. a4 Nc6 17. Ba3 Nxe5 18. dxe5 b5 19. Bxf8 Kxf8 20. Qe4 g6 21. Qd4 Ra8 22. axb5 axb5 23. Qc5+ Kg7 24. Qxb5 0-1
+

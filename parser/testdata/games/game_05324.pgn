@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/hlDxbRfC"]
+[White "Unknown4u"]
+[Black "Avalanche1997"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:26"]
+[WhiteElo "1964"]
+[BlackElo "1779"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+16"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Wing Gambit"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.33] } 1... c5 { [%eval 0.33] } 2. b4?! { [%eval -0.23] } 2... Nc6?! { [%eval 0.28] } 3. bxc5 { [%eval -0.08] } 3... e6?! { [%eval 0.91] } 4. c3? { [%eval -0.3] } 4... Bxc5?! { [%eval 0.41] } 5. d4 { [%eval 0.39] } 5... Bb6 { [%eval 0.37] } 6. Nf3 { [%eval 0.39] } 6... d5 { [%eval 0.35] } 7. e5 { [%eval 0.09] } 7... f6 { [%eval 0.19] } 8. Bd3 { [%eval 0.07] } 8... fxe5 { [%eval 0.1] } 9. dxe5 { [%eval 0.07] } 9... Nge7 { [%eval 0.24] } 10. O-O { [%eval 0.2] } 10... O-O { [%eval 0.28] } 11. Bxh7+?! { [%eval -0.55] } 11... Kxh7 { [%eval -0.45] } 12. Ng5+ { [%eval -0.43] } 12... Kg8 { [%eval -0.43] } 13. Qh5 { [%eval -0.41] } 13... Rf5 { [%eval -0.38] } 14. Qh7+ { [%eval -0.87] } 14... Kf8 { [%eval -0.29] } 15. Qh8+ { [%eval -0.43] } 15... Ng8 { [%eval 0.0] } 16. Nh7+?? { [%eval -4.84] } 16... Kf7 { [%eval -4.61] } 17. g4 { [%eval -4.45] } 17... Rxe5 { [%eval -4.29] } 18. Bf4 { [%eval -4.33] } 18... Qh4?? { [%eval -1.2] } 19. Ng5+ { [%eval -1.2] } 19... Qxg5 { [%eval -1.17] } 20. Bxg5 { [%eval -1.16] } 20... Rxg5 { [%eval -1.23] } 21. h4?? { [%eval -7.92] } 21... Rxg4+ { [%eval -7.56] } 22. Kh1 { [%eval -7.45] } 22... Nh6 { [%eval -7.62] } 23. Rg1? { [%eval -12.07] } 23... Rxh4+ { [%eval -11.75] } 24. Kg2 { [%eval -11.74] } 24... Nf5 { [%eval -9.83] } 0-1
+

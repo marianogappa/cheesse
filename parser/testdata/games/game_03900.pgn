@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/EanF7fle"]
+[White "chessname1234"]
+[Black "KwebbelkopVsJelly"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:50"]
+[WhiteElo "1842"]
+[BlackElo "1500"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+422"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 e6 3. d3 Nf6 4. c3 d5 5. exd5 exd5 6. Bb5+ Nc6 7. Bxc6+ bxc6 8. d4 cxd4 9. cxd4 Bd6 10. h3 O-O 11. Ne2 Re8 12. O-O Ba6 13. Re1 Rb8 14. Nec3 Rxe1+ 15. Qxe1 Bc8 16. Qd1 Bf5 17. Qf3 Qd7 18. Bg5 Ne4 19. Nxe4 Bxe4 20. Qh5 Rxb2 21. Qg4 Qxg4 22. hxg4 Rxb1+ 23. Rxb1 Bxb1 24. Be3 Bxa2 25. g3 Bc4 26. Kg2 a5 27. Kf3 a4 28. Bc1 a3 29. Bxa3 Bxa3 30. Ke3 Bc1+ 31. Kf3 Bd3 32. g5 Be4+ 33. Kg4 Bb2 34. f3 Bxd4 35. fxe4 dxe4 36. Kf4 e3 37. Kf3 c5 38. Ke2 Kf8 39. g4 Ke7 40. g6 Kd6 41. gxh7 Kd5 42. h8=Q c4 43. Qd8+ Ke5 44. Qe7+ Kd5 45. Qxf7+ Kc5 46. Qe7+ Kb5 47. Qd7+ Kb4 48. Qb7+ Kc3 49. Qb1 g5 50. Kd1 Be5 51. Qc2+ Kd4 52. Qf5 Bf4 53. Ke2 c3 54. Kf3 Kc4 55. Qc2 Kb4 56. Ke2 Kc4 57. Qd3+ Kb3 58. Qc2+ Kxc2 59. Kf3 Kd1 60. Ke4 e2 61. Kf5 e1=Q 62. Kg6 Qe3 63. Kh5 Kd2 64. Kg6 Kd3 65. Kf5 Kd4 66. Kg6 Qe6+ 67. Kh5 Qf7+ 68. Kh6 Qg8 69. Kh5 Qh7# 0-1
+

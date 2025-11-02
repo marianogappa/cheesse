@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/82v2JCaH"]
+[White "Bokone"]
+[Black "TPaunov"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:27"]
+[WhiteElo "1646"]
+[BlackElo "1627"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 e5 4. d3 Nf6 5. Ng5 Be6 6. Bxe6 fxe6 7. Nxe6 Qe7 8. Nxf8 Qxf8 9. Bg5 h6 10. Bh4 g5 11. Bg3 Nc6 12. Nd2 O-O-O 13. h3 Nd4 14. Nf3 d5 15. Nxd4 exd4 16. Qf3 dxe4 17. dxe4 Re8 18. Qf5+ Kd8 19. e5 Nd7 20. Qxf8 Rhxf8 21. O-O Nxe5 22. Bxe5 Rxe5 23. Rfe1 Rfe8 24. Kf1 Rxe1+ 25. Rxe1 Rxe1+ 26. Kxe1 Kd7 27. Ke2 Kd6 28. Kd3 Kd5 29. f3 b5 30. b3 a5 31. c4+ bxc4+ 32. bxc4+ Ke5 33. g3 Kd6 34. Ke4 Ke6 35. a4 Kf6 36. g4 Kg6 37. f4 gxf4 38. Kxf4 d3 39. Ke3 Kg5 40. Kxd3 Kh4 41. Ke4 Kxh3 42. Kf4 Kh4 43. Kf5 Kg3 44. g5 hxg5 45. Kxg5 Kf3 46. Kf5 Ke3 47. Ke5 Kd3 48. Kd5 Kc3 49. Kxc5 Kb3 50. Kb5 Kc3 51. c5 1-0
+

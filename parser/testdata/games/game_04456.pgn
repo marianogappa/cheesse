@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/k5AZQ9iH"]
+[White "Cambador"]
+[Black "jrlegal"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:05"]
+[WhiteElo "1423"]
+[BlackElo "1344"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Queen's Gambit Invitation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. Nf3 e6 2. d4 c5 3. d5 Nf6 4. c4 exd5 5. cxd5 Qa5+ 6. Bd2 Qb5 7. Bc3 Nxd5 8. Qxd5 f6 9. e4 a5 10. Bxb5 1-0
+

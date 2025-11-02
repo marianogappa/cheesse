@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/A7zB7FgF"]
+[White "ManuMou"]
+[Black "hokkabazbilge"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:39"]
+[WhiteElo "1584"]
+[BlackElo "1671"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Zilbermints Gambit"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Nge7 4. Bf4 Ng6 5. Bg3 Qe7 6. Nc3 a6 7. e3 Ncxe5 8. Be2 Nxf3+ 9. Bxf3 c6 10. O-O d5 11. Ne2 Be6 12. Rc1 Qb4 13. a3 Qxb2 14. Rb1 Qxa3 15. Rxb7 Bd6 16. Nd4 Bxg3 17. hxg3 Qd6 18. Qb1 O-O 19. Qb6 Ne5 20. Rb1 Rfd8 21. Qc7 Qf8 22. Nxc6 Nxc6 23. Qxc6 Rac8 24. Qb6 Rxc2 25. Qxa6 h6 26. Qa7 Qc5 27. Qa1 Rc8 28. Rb8 Rc1+ 29. Rxc1 Qxc1+ 30. Qxc1 Rxb8 31. Qc7 Rc8 32. Qd6 Rc1+ 33. Kh2 Rc8 34. Bxd5 Bxd5 35. Qxd5 Kf8 36. Qd6+ Kg8 37. Qe5 Kf8 38. f4 Re8 39. Qc5+ Kg8 40. Qc4 Rxe3 41. g4 1-0
+

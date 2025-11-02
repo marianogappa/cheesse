@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9lrcEit5"]
+[White "ArchaicArchon"]
+[Black "juanbc"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:23"]
+[WhiteElo "1490"]
+[BlackElo "1517"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+9"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 f6 4. dxe5 Nxe5 5. Nxe5 fxe5 6. Qh5+ g6 7. Qxe5+ Qe7 8. Qxh8 Qxe4+ 9. Be2 Qxg2 10. Rf1 Qd5 11. Nc3 Qe6 12. Be3 b6 13. O-O-O Bb7 14. Qd4 O-O-O 15. Bc4 c5 16. Qd3 d5 17. Bg5 Rd7 18. Bb5 c4 19. Bxd7+ Kxd7 20. Nxd5 0-1
+

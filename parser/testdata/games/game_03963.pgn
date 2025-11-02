@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JOi1TKFq"]
+[White "woocasho"]
+[Black "Zoki381"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:05"]
+[WhiteElo "1861"]
+[BlackElo "1840"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "A60"]
+[Opening "Benoni Defense: Modern Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 g6 6. e4 d6 7. Bd3 Bg7 8. Bd2 O-O 9. Nge2 Re8 10. O-O c4 11. Bc2 a6 12. a4 Qc7 13. f3 Nbd7 14. Be3 Nc5 15. Bf2 Bd7 16. Nd4 Nh5 17. Nce2 b5 18. axb5 axb5 19. Rxa8 Rxa8 20. b3 cxb3 21. Nxb3 Nxb3 22. Bxb3 Be5 23. Bd4 Bxd4+ 24. Qxd4 Ra3 25. Rc1 Qa7 26. Rb1 Qa5 27. Kf2 f5 28. e5 b4 29. e6 Bb5 30. e7 Qc7 31. Qxb4 Bxe2 32. Qxa3 Qxe7 33. Re1 Nf4 34. Qa8+ Kg7 35. Qa1+ Kg8 36. Qd4 Nd3+ 37. Qxd3 Bxd3 38. Rxe7 1-0
+

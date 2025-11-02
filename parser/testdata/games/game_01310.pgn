@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ozMadUVU"]
+[White "Brazildude"]
+[Black "MCascardo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:55"]
+[WhiteElo "1689"]
+[BlackElo "1394"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+[ECO "C30"]
+[Opening "King's Gambit Declined, Petrov's Defense"]
+[TimeControl "45+5"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 Nf6 3. fxe5 Nxe4 4. Nf3 Bc5 5. d4 Bb6 6. Bd3 f5 7. exf6 Nxf6 8. Qe2+ Qe7 9. Qxe7+ Kxe7 10. O-O Nd5 11. Bg5+ Nf6 12. Re1+ Kf7 13. Nc3 Nc6 14. Bc4+ 1-0
+

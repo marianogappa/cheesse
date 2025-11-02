@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/4RevmEYO"]
+[White "RRiicchhaarrdd"]
+[Black "puma123456"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:35"]
+[WhiteElo "1615"]
+[BlackElo "1484"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "0+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nc6 3. Qh5 g6 4. Qf3 Nf6 5. Qb3 Qe7 6. Nf3 Bg7 7. Ng5 O-O 8. O-O Bh6 9. Nf3 d6 10. d3 Bxc1 11. Rxc1 Bg4 12. Ng5 Nh5 13. Nf3 Bxf3 14. gxf3 Nf4 15. Nc3 Qg5+ 16. Kf1 Nh3 17. Ke1 Qg1+ 18. Kd2 Qxf2+ 19. Ne2 Nf4 20. d4 Qxe2+ 21. Bxe2 Nxe2 22. Kxe2 exd4 23. c3 Ne5 24. Qd1 dxc3 25. Rxc3 f5 26. Qd5+ Kh8 27. exf5 Rxf5 28. Qe4 Raf8 29. Rf1 Rh5 30. h4 Rff5 31. Qxb7 Rxh4 32. Qc8+ Kg7 33. Qxc7+ Kh6 34. Qxd6 Rh2+ 35. Rf2 Rxf2+ 36. Kxf2 Ng4+ 37. Kg3 Nf6 38. Qf8+ Kh5 39. Rc4 Ne4+ 40. Rxe4 Rxf8 41. Rh4+ Kg5 42. Rxh7 Rb8 43. b3 a6 44. Ra7 Rb6 45. Rd7 Kf5 46. Rd5+ Ke6 47. Rd2 Rb5 48. Kg4 Ra5 49. f4 Kf6 50. Rd6+ Kf7 51. Rd2 Ra3 52. Kg5 a5 53. f5 gxf5 54. Kxf5 Ke7 55. Ke5 a4 56. b4 Re3+ 57. Kd5 Re6 58. Kc5 Ke8 59. Kb5 a3 60. Ka4 Ra6+ 61. Kb3 Ke7 62. b5 Ra5 63. Kb4 Ra7 64. b6 Rb7 65. Kb5 Ke6 66. Kc6 Rb8 67. b7 Rf8 68. Kb6 Ke5 69. Rc2 Rf6+ 70. Ka7 Kd6 71. b8=Q+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/bLcKBsuc"]
+[White "DanGG"]
+[Black "martinapollo11"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:18"]
+[WhiteElo "1503"]
+[BlackElo "1658"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c3 e6 3. c4 Nf6 4. cxd5 exd5 5. Nc3 Nc6 6. g3 Bb4 7. Bd2 O-O 8. a3 Bxc3 9. Bxc3 Be6 10. Bg2 Re8 11. Nf3 Ne7 12. e3 c6 13. e4 dxe4 14. Nd2 Bf5 15. Qb3 b5 16. h3 Ned5 17. g4 Be6 18. Nxe4 Nf4 19. Nxf6+ Qxf6 20. Qc2 Nxg2+ 21. Kf1 Qf3 22. Rh2 Bc4+ 23. Kg1 Bd5 24. Rxg2 Qxg2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oZfIkA6A"]
+[White "ismaeldodo"]
+[Black "Questor"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:58"]
+[WhiteElo "1574"]
+[BlackElo "1586"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-32"]
+[ECO "B07"]
+[Opening "Pirc Defense #5"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 d6 2. e4 a6 3. Nf3 Bg4 4. Be2 e6 5. c4 b6 6. Nc3 c6 7. h3 Bxf3 8. Bxf3 Ra7 9. Qb3 h6 10. O-O Nd7 11. Rd1 Be7 12. d5 c5 13. dxe6 fxe6 14. Bf4 Ndf6 15. e5 g5 16. exf6 Nxf6 17. Bc6+ Kf8 18. Bh2 Rc7 19. Be4 Nxe4 20. Nxe4 Rd7 21. Qf3+ Kg8 22. Qh5 Qe8 23. Qxe8+ 1-0
+

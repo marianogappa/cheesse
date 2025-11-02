@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/ompZMM4A"]
+[White "Mancuelo"]
+[Black "michel93"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:53"]
+[WhiteElo "1446"]
+[BlackElo "1693"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "B28"]
+[Opening "Sicilian Defense: O'Kelly Variation, Normal System"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Bg5 Nxe4 6. Qg4 Nxg5 7. Qxg5 Nc6 8. Nxc6 bxc6 9. Nc3 g6 10. O-O-O Bg7 11. Ne4 Qb6 12. c3 Rb8 13. Rd2 h5 14. Bc4 Bh6 15. Nf6+ exf6 16. Qxf6 Qxb2+ 17. Kd1 Qxd2# 0-1
+

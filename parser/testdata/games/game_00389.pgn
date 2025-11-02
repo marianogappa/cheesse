@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MhxDbloA"]
+[White "Alarch"]
+[Black "hron02"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:21"]
+[WhiteElo "1618"]
+[BlackElo "1666"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C40"]
+[Opening "King's Knight Opening"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Be7 3. Nxe5 d6 4. Nf3 Nf6 5. d3 O-O 6. Nc3 Nc6 7. Be3 Bg4 8. Be2 Ne8 9. Nd4 Bd7 10. Nxc6 Bxc6 11. O-O Bd7 12. Bg4 f5 13. exf5 Bxf5 14. Bxf5 Rxf5 15. Ne4 Rf8 16. Qd2 d5 17. Ng5 d4 18. Bf4 Rxf4 19. Qxf4 Bxg5 20. Qg4 Be7 21. Rfe1 Nf6 22. Qe6+ Kh8 23. Qxe7 Qxe7 24. Rxe7 c5 25. Rxb7 Rf8 26. f3 Re8 27. Kf2 Nh5 28. Rxa7 Nf4 29. g3 Nh3+ 30. Kg2 Ng5 31. f4 Re2+ 32. Kf1 1-0
+

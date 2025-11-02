@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/LQmVvorp"]
+[White "emMars"]
+[Black "naqalsamoht"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:18"]
+[WhiteElo "1442"]
+[BlackElo "1454"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Nimzowitsch System"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Be3 cxd4 6. Bxd4 Nxd4 7. Nxd4 Bd7 8. f4 Bc5 9. Nc3 Qc7 10. Ndb5 Qc6 11. Nd6+ Bxd6 12. Bb5 Qc7 13. exd6 Qxd6 14. a4 O-O-O 15. Qd4 Nf6 16. Qxa7 Bxb5 17. Nxb5 Qxf4 18. Qa8+ Kd7 19. Qxb7+ Ke8 20. Nc7+ Kf8 21. Rf1 Qe5+ 22. Kf2 Ng4+ 23. Kg1 Qxh2# 0-1
+

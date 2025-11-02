@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TJ7DPNT2"]
+[White "arex"]
+[Black "Nio8"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:15"]
+[WhiteElo "1444"]
+[BlackElo "1107"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+[ECO "C70"]
+[Opening "Ruy Lopez: Morphy Defense, Caro Variation"]
+[TimeControl "300+3"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Nf6 6. O-O Bc5 7. Nc3 O-O 8. Nxe5 Nxe5 9. d4 Bb6 10. dxe5 Nxe4 11. Nxe4 Bb7 12. Ng5 Qe8 13. Bf4 h6 14. Nf3 c5 15. Qd6 Bc6 16. Bd5 Rc8 17. Rfe1 Bc7 18. Qxc5 Ba5 19. c3 g5 20. Bg3 g4 21. Nh4 d6 22. exd6 1-0
+

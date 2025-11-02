@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/WE5jc0hp"]
+[White "AligiereTensa"]
+[Black "kingsharkjr"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:54"]
+[WhiteElo "1271"]
+[BlackElo "1175"]
+[WhiteRatingDiff "-30"]
+[BlackRatingDiff "+14"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Nc6 3. e3 Bf5 4. Bxc7 Qxc7 5. e4 Nxd4 6. exf5 Qe5+ 7. Kd2 Nxc2 8. Qf3 Nxa1 9. Qxd5 Qxd5+ 10. Bd3 Rd8 11. Nc3 Qxd3+ 12. Ke1 Qd2+ 13. Kf1 Qc1+ 14. Ke2 Qd2+ 15. Kf3 Qd3+ 16. Kg4 Rd4+ 17. Kg5 f6+ 18. Kh5 Qxf5# 0-1
+

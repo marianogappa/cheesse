@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/WB2Y4mTx"]
+[White "zeitgeist_kaal"]
+[Black "exiit"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:35"]
+[WhiteElo "1663"]
+[BlackElo "1668"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Normal Variation"]
+[TimeControl "0+4"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. e5 Nd5 3. f4 d6 4. d4 c5 5. c4 Nc7 6. d5 dxe5 7. fxe5 g6 8. Nf3 Bg7 9. Bg5 Bg4 10. Be2 Bxf3 11. Bxf3 Bxe5 12. Bh6 Bxb2 13. Nd2 Bxa1 14. Qxa1 Rg8 15. O-O Nd7 16. d6 exd6 17. Re1+ Ne6 18. Bxb7 Rb8 19. Bc6 Qb6 20. Bxd7+ Kxd7 21. Qf6 Ke8 22. Ne4 Qc7 23. Ng5 Qe7 24. Qf3 Kd7 25. Nxe6 fxe6 26. Bf4 e5 27. Be3 Rgf8 28. Qd5 Qe6 29. Qd3 Rb4 30. Bxc5 Rxc4 31. Ba3 e4 32. Qd2 Re8 33. Rd1 e3 34. Qe2 d5 35. Qxc4 e2 36. Rxd5+ 1-0
+

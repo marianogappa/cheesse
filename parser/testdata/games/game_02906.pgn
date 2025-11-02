@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/W6tYGNrH"]
+[White "joca552000"]
+[Black "rikelme"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:55"]
+[WhiteElo "1596"]
+[BlackElo "1081"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-3"]
+[ECO "C42"]
+[Opening "Petrov's Defense #2"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Qe7 4. d4 b6 5. Bd3 c5 6. O-O cxd4 7. Nc4 Nc6 8. Bg5 h6 9. Bh4 Ne5 10. Nxe5 Qxe5 11. f4 Qb5 12. Bxb5 Nxe4 13. Re1 f5 14. Qxd4 Bc5 15. Bf2 Bxd4 16. Bxd4 Rb8 17. Bxg7 Rg8 18. Bxh6 a6 19. Bc4 b5 20. Bxg8 Kd8 21. Bg5+ Kc7 22. Bh7 Nxg5 23. fxg5 d5 24. g6 Be6 25. Rxe6 f4 26. Nd2 d4 27. Nf3 b4 28. Nxd4 a5 29. Rc6+ Kb7 30. g7 Ka8 31. g8=Q Rxg8 32. Bxg8 b3 33. Nxb3 a4 34. Nc5 a3 35. b3 f3 36. gxf3 Ka7 37. Re1 Kb8 38. Rf6 Kc7 1-0
+

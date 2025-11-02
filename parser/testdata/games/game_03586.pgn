@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/NJjdomam"]
+[White "Journey_to_NM"]
+[Black "ianremsen"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:38"]
+[WhiteElo "1951"]
+[BlackElo "1641"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "1800+30"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.31] } 1... Nf6 { [%eval 0.2] } 2. Bf4 { [%eval 0.07] } 2... c5 { [%eval 0.0] } 3. c3 { [%eval -0.16] } 3... e6 { [%eval 0.02] } 4. Nf3 { [%eval 0.0] } 4... Nc6 { [%eval -0.04] } 5. h3 { [%eval -0.46] } 5... b6?! { [%eval 0.18] } 6. e3 { [%eval 0.1] } 6... d5 { [%eval 0.25] } 7. Be2 { [%eval -0.03] } 7... Bd6 { [%eval 0.14] } 8. Bxd6 { [%eval -0.04] } 8... Qxd6 { [%eval 0.0] } 9. O-O { [%eval -0.06] } 9... O-O { [%eval 0.0] } 10. Nbd2 { [%eval -0.12] } 10... c4 { [%eval 0.32] } 11. b3 { [%eval 0.3] } 11... b5 { [%eval 0.58] } 12. Qc2 { [%eval 0.14] } 12... e5?! { [%eval 0.65] } 13. Nxe5 { [%eval 0.36] } 13... Nxe5 { [%eval 0.34] } 14. dxe5 { [%eval 0.43] } 14... Qxe5 { [%eval 0.31] } 15. Nf3 { [%eval 0.12] } 15... Bf5?! { [%eval 0.64] } 16. Nxe5 { [%eval 0.53] } 16... Bxc2 { [%eval 0.56] } 17. Rac1 { [%eval 0.14] } 17... Bf5 { [%eval 0.31] } 18. Rfd1 { [%eval 0.17] } 18... Rfe8 { [%eval 0.17] } 19. Nc6 { [%eval 0.07] } 19... g6 { [%eval 0.25] } 20. g4 { [%eval 0.3] } 20... Be6 { [%eval 0.41] } 21. Nd4 { [%eval 0.29] } 21... Red8? { [%eval 1.42] } 22. Nxb5 { [%eval 1.29] } 22... cxb3 { [%eval 1.25] } 23. axb3 { [%eval 1.21] } 23... Rdb8? { [%eval 3.9] } 24. Nc7 { [%eval 3.79] } 1-0
+

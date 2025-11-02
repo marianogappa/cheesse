@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ATjtJfC6"]
+[White "mario18"]
+[Black "I_will_Dominate"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:38"]
+[WhiteElo "1978"]
+[BlackElo "1965"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "A58"]
+[Opening "Benko Gambit Accepted, Fully Accepted Variation"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. g3 g6 8. Bg2 Bg7 9. Bd2 O-O 10. Nh3 Nbd7 11. O-O Rb8 12. Qc2 Nb6 13. Rfe1 Nc4 14. Rab1 Nxd2 15. Qxd2 Qa5 16. Qe3 Rb7 17. a3 Rfb8 18. Nf4 Ng4 19. Qf3 Bxc3 20. Qxg4 Bxe1 21. Nh3 Bd2 22. e3 Rxb2 23. Rd1 Rb1 24. Ng5 Rxd1+ 25. Qxd1 Bd3 26. Qf3 Rb1+ 27. Bf1 Rxf1+ 28. Kg2 f6 29. Ne6 Qa4 30. Kh3 Bf5+ 31. g4 Bxe6 32. dxe6 Rg1 33. Qe2 Qxg4+ 34. Qxg4 Rxg4 35. Kxg4 h5+ 36. Kf4 Kf8 37. Ke4 Ke8 38. a4 Kd8 39. Kd3 Be1 40. f3 Kc7 41. h3 Kb6 42. Kc4 Bb4 43. e4 Be1 44. f4 Bg3 45. f5 g5 46. Kd5 Be1 47. Kc4 Ka5 48. Kd5 Kxa4 49. Kc6 c4 50. Kd7 c3 51. Kxe7 c2 52. Kf7 c1=Q 53. e7 Qc7 54. Kf8 Qc8+ 0-1
+

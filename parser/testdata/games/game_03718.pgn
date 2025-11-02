@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iBdIZQ6M"]
+[White "leo96"]
+[Black "V-Romanov_2017"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:14"]
+[WhiteElo "2090"]
+[BlackElo "2092"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "C61"]
+[Opening "Ruy Lopez: Bird Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O Bc5 6. c3 Ne7 7. Qh5 b6 8. b4 c6 9. Bc4 d5 10. exd5 Bd6 11. dxc6 O-O 12. b5 a6 13. cxd4 axb5 14. Bxb5 Ra5 15. Nc3 Nxc6 16. d5 Nd4 17. a4 g6 18. Qh6 Be5 19. Ba3 Bg7 20. Qf4 Nxb5 21. axb5 Re8 22. Bb4 Rxa1 23. Rxa1 Bb7 24. d6 Qc8 25. h4 Be5 26. Qg5 h6 27. Qxh6 Qg4 28. Qg5 Qxb4 29. Ra7 Bxc3 30. Rxb7 Re1+ 31. Kh2 Qxd6+ 32. g3 Bxd2 33. Qg4 Qd5 34. Rb8+ Kg7 35. f3 Be3 36. Qc8 Qd2+ 37. Kh3 Rh1+ 38. Kg4 Qd4+ 39. f4 Qd1+ 40. Kg5 f6# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eUlfnvWv"]
+[White "xSmoki"]
+[Black "georgereeves"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:45"]
+[WhiteElo "1549"]
+[BlackElo "1518"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "C30"]
+[Opening "King's Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 d6 3. Nf3 Nc6 4. Bc4 Nf6 5. fxe5 Nxe4 6. exd6 Nxd6 7. Bb3 Be7 8. O-O O-O 9. d3 Be6 10. Nbd2 Bxb3 11. Nxb3 b6 12. Bf4 a5 13. Qe2 Nf5 14. Rae1 Bd6 15. Bxd6 Nxd6 16. Nfd2 Nb4 17. a3 Nxc2 18. Rc1 Nd4 19. Nxd4 Nb7 20. N4f3 Qd5 21. Qe4 Rad8 22. Qxd5 Rxd5 23. Rxc7 Nd6 24. d4 Nf5 25. Rc6 Nxd4 26. Rxb6 Ne2+ 27. Kf2 Nd4 28. Ne4 Nxf3 29. Kxf3 h6 30. Rc1 f5 31. Ng3 Rd3+ 32. Kf4 Rd4+ 33. Ke3 Rdd8 34. Rc7 Rde8+ 35. Kf4 Rf7 36. Rbb7 Rxc7 37. Rxc7 Rb8 38. Nxf5 Rxb2 39. Rxg7+ Kf8 40. Rh7 Rf2+ 41. Ke5 Rxg2 42. Kf6 Rxh2 43. Rh8# 1-0
+

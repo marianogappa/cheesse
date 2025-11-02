@@ -1,0 +1,19 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/BDfPPPP0"]
+[White "Gainux"]
+[Black "abena_abeni"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:17"]
+[WhiteElo "2050"]
+[BlackElo "2354"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[BlackTitle "LM"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. b3 d6 2. Bb2 e5 3. d3 f6 4. Nd2 Ne7 5. h3 Nbc6 6. e4 h5 7. Ngf3 h4 8. d4 g5 9. d5 Nb8 10. Bd3 Nd7 11. c4 a5 12. Qe2 Nc5 13. Bc2 Ng6 14. a3 Nf4 15. Qf1 g4 16. g3 hxg3 17. fxg3 Nxh3 18. Nh4 Rg8 19. Rxh3 gxh3 20. Qf2 Bh6 21. O-O-O f5 22. Nxf5 Qf6 23. Kb1 Bxf5 24. exf5 Bxd2 25. Rxd2 O-O-O 26. Re2 Rdf8 27. Qh2 Qh6 28. Bc1 Qh5 29. Rf2 Qg4 30. f6 Qxg3 31. f7 Rg7 32. Qxg3 Rxg3 33. Bh6 Rxf7 34. Rf6 Rxf6 0-1
+

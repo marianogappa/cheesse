@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/73zG6ZYs"]
+[White "m1ndfactory"]
+[Black "Mohamedyagoub"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:16"]
+[WhiteElo "1666"]
+[BlackElo "1693"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "B25"]
+[Opening "Sicilian Defense: Closed Variation, Traditional"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Nf3 Nxb5 5. Nxb5 Nf6 6. d4 Nxe4 7. Bf4 Qa5+ 8. Nc3 Nxc3 9. bxc3 Qb5 10. Rb1 Qc6 11. O-O cxd4 12. Qxd4 f6 13. Qd3 a5 14. Nd4 Qa6 15. Qe3 d6 16. Ne6 Qc6 17. Rb6 Qd7 18. Nd4 e5 19. Bxe5 fxe5 20. Nf5 Qxf5 21. Qe2 Be7 22. Rd1 O-O 0-1
+

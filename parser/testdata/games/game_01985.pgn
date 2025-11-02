@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JADD0fef"]
+[White "jimmythesaint"]
+[Black "arkjan"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:29"]
+[WhiteElo "1562"]
+[BlackElo "1604"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-13"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf, Lipnitsky Attack"]
+[TimeControl "240+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O Be7 8. Re1 O-O 9. h3 Nc6 10. a3 b5 11. Nxc6 Qc7 12. Bb3 Qxc6 13. Bg5 h6 14. Bh4 e5 15. Qd2 Bb7 16. Rad1 Rad8 17. Bxf6 Bxf6 18. Bd5 Qc7 19. Bxb7 Qxb7 20. Nd5 Bg5 21. f4 exf4 22. Nxf4 Rfe8 23. Qf2 Rxe4 24. Nd5 Rxe1+ 25. Qxe1 Kh8 26. c3 Qd7 27. Kh1 Re8 28. Qf1 Bd8 29. Qf3 Kg8 30. b3 Qc6 31. c4 bxc4 32. bxc4 Qxc4 33. Nf4 Bc7 34. Nd5 Bd8 35. Qg3 Qc5 36. Nf4 d5 37. Rxd5 Qc1+ 38. Kh2 Bc7 39. Rd7 Bxf4 40. Qxf4 Qxf4+ 41. Kh1 Qf1+ 42. Kh2 Qf4+ 43. Kh1 1-0
+

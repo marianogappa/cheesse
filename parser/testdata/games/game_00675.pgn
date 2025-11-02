@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/FiU15K0K"]
+[White "drbedavi"]
+[Black "Mobilis-in-mobile"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:24"]
+[WhiteElo "1863"]
+[BlackElo "1665"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. e3 d5 2. f4 g6 3. Nf3 e5 4. d4 e4 5. Ne5 f6 6. Ng4 Bb4+ 7. c3 Bd6 8. h4 f5 9. Nh2 h6 10. g3 g5 11. fxg5 hxg5 12. hxg5 Bxg3+ 13. Kd2 Qxg5 14. Qe2 f4 15. exf4 Qxf4+ 16. Kc2 Bxh2 17. Bxf4 Bxf4 18. Rxh8 Bg4 19. Rxg8+ Kf7 20. Rxg4 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/pYHTvazj"]
+[White "Delingstone"]
+[Black "alimallahcom"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:35"]
+[WhiteElo "1505"]
+[BlackElo "1698"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-18"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Williams Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nf3 Nc6 3. d4 e5 4. d5 Nce7 5. c4 Ng6 6. Nc3 f5 7. Bd3 fxe4 8. Bxe4 Bd7 9. Bxg6+ hxg6 10. O-O Nf6 11. Re1 Qe7 12. Bg5 O-O-O 13. Ne4 Nxe4 14. Bxe7 Bxe7 15. Rxe4 Bf5 16. Re3 g5 17. b4 g4 18. Nxe5 dxe5 19. Rxe5 Bd7 20. Rxe7 Be8 21. Rxg7 Bh5 22. Qd4 g3 23. fxg3 Be2 24. c5 Bb5 25. a4 Be8 26. b5 Rf8 27. d6 cxd6 28. cxd6 Bd7 29. Rc1+ Kb8 30. Rc7 Rf6 31. Rgxd7 Rdf8 32. Rxb7+ Ka8 33. Qxa7# 1-0
+

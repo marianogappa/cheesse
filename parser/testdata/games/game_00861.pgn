@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zeBVpGvK"]
+[White "Atomheartmother"]
+[Black "Sergio_Indio"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:07"]
+[WhiteElo "1320"]
+[BlackElo "1532"]
+[WhiteRatingDiff "-32"]
+[BlackRatingDiff "+23"]
+[ECO "C30"]
+[Opening "King's Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.31] } 1... e5 { [%eval 0.41] } 2. f4? { [%eval -0.6] } 2... d6?! { [%eval 0.13] } 3. fxe5?? { [%eval -3.79] } 3... dxe5?? { [%eval 0.0] } 4. Nf3 { [%eval -0.05] } 4... Bg4 { [%eval 0.25] } 5. Be2 { [%eval -0.21] } 5... Bxf3 { [%eval 0.11] } 6. Bxf3 { [%eval 0.08] } 6... Nc6 { [%eval 0.32] } 7. O-O { [%eval 0.22] } 7... Nd4 { [%eval 0.5] } 8. Nc3 { [%eval 0.04] } 8... Bc5 { [%eval -0.03] } 9. d3?? { [%eval -3.31] } 9... Nxf3+ { [%eval -3.25] } 10. Kh1 { [%eval -3.31] } 10... Nd4?! { [%eval -2.66] } 11. Be3? { [%eval -3.7] } 11... Nf6 { [%eval -3.67] } 12. Nd5? { [%eval -5.16] } 12... Nxd5 { [%eval -5.11] } 13. exd5 { [%eval -5.1] } 13... Qxd5 { [%eval -5.05] } 14. Bxd4 { [%eval -5.14] } 14... Qxd4 { [%eval -4.95] } 15. Qf3 { [%eval -5.11] } 15... O-O { [%eval -5.05] } 16. Qxb7? { [%eval -6.13] } 16... Rab8 { [%eval -5.84] } 17. Qxc7 { [%eval -5.83] } 17... Rxb2 { [%eval -5.74] } 18. Rae1 { [%eval -6.12] } 18... Rxc2 { [%eval -6.02] } 19. Rxe5?? { [%eval #-6] } 19... Bd6?? { [%eval -6.29] } 20. Qxc2 { [%eval -6.2] } 20... Qxe5 { [%eval -6.17] } 21. g3 { [%eval -6.11] } 21... Qd5+ { [%eval -5.92] } 22. Qg2 { [%eval -5.7] } 22... Qxg2+?! { [%eval -4.81] } 23. Kxg2 { [%eval -4.81] } 23... Rc8 { [%eval -4.56] } 24. Rb1? { [%eval -6.02] } 24... Rc2+ { [%eval -5.75] } 25. Kh3?! { [%eval -6.33] } 25... Rxa2 { [%eval -5.97] } 26. Rb8+?? { [%eval #-8] } 26... Bxb8 { [%eval #-9] } 27. d4 { [%eval #-6] } 27... a5 { [%eval #-10] } 28. d5 { [%eval #-6] } 28... a4 { [%eval #-8] } 0-1
+

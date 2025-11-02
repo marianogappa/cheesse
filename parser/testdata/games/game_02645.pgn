@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/MvD2hAGL"]
+[White "miltonfriedman82"]
+[Black "akiaki100"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:59"]
+[WhiteElo "1734"]
+[BlackElo "1719"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. g3 e6 2. Nf3 d5 3. c3 Nf6 4. d4 Bd6 5. Bg2 Qe7 6. O-O Nc6 7. Bg5 Bd7 8. Re1 h6 9. Bxf6 gxf6 10. Nbd2 O-O-O 11. e4 h5 12. exd5 Nb8 13. c4 h4 14. c5 hxg3 15. cxd6 gxh2+ 16. Kh1 Qxd6 17. dxe6 fxe6 18. Ne4 Qd5 19. Nxf6 Qd6 20. Rc1 Bc6 21. d5 exd5 22. Ng4 Nd7 23. Qc2 Nb6 24. Nge5 Qh6 25. Nxc6 bxc6 26. Ne5 Nc4 27. Nxc6 Qxc6 28. b3 Qg6 29. Qxg6 Rhg8 30. Qc2 Rxg2 31. Kxg2 Rg8+ 32. Kh1 Rf8 0-1
+

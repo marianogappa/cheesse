@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/09MX3Lyp"]
+[White "Kasparovrussian"]
+[Black "hirotomo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:49"]
+[WhiteElo "1658"]
+[BlackElo "1636"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-20"]
+[ECO "B34"]
+[Opening "Sicilian Defense: Accelerated Dragon, Modern Variation"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Qb6 7. Nf5 Qxb2 8. Nxg7+ Kf8 9. Nd5 Qxg7 10. Bb5 a6 11. Bxc6 dxc6 12. Nb6 Be6 13. Nxa8 Nh6 14. Qd8# 1-0
+

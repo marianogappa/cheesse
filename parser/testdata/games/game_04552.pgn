@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/okVaQK1N"]
+[White "Kambalass"]
+[Black "miral123"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:26"]
+[WhiteElo "1787"]
+[BlackElo "1665"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d3 Nc6 3. Be2 Nf6 4. f4 exf4 5. Bxf4 Bc5 6. Nf3 d6 7. Nbd2 O-O 8. c3 Nh5 9. Bg3 Nxg3 10. hxg3 Qf6 11. Qc2 Qg6 12. O-O-O Qxg3 13. d4 Bb6 14. e5 h6 15. Ne4 Qg6 16. Bd3 Bf5 17. Nh4 Qg4 18. Nf6+ gxf6 19. Bxf5 Qf4+ 20. Qd2 Qxd2+ 21. Rxd2 fxe5 22. dxe5 Be3 23. Be4 dxe5 24. Nf5 Bxd2+ 25. Kxd2 f6 26. Nxh6+ Kg7 27. Nf5+ Kf7 28. Rh7+ Ke6 29. Rxc7 Rad8+ 30. Kc2 Rb8 31. b4 Rfc8 32. Ng7+ Kd6 33. Rf7 Nxb4+ 34. Kb3 Nd5 35. c4 Ne3 36. Nf5+ Ke6 37. Re7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xlHRd14z"]
+[White "DocPop"]
+[Black "DOMARBOR"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:10"]
+[WhiteElo "1672"]
+[BlackElo "1670"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "300+1"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 Nc6 3. g3 Nf6 4. Bg2 Bg4 5. O-O e6 6. c3 Bd6 7. Re1 O-O 8. Bg5 Be7 9. Qb3 b6 10. Nfd2 h6 11. Bf4 Nh5 12. Be3 Nf6 13. Bf4 Qd7 14. e4 Na5 15. Qc2 dxe4 16. Nxe4 Bf5 17. Nbd2 Rad8 18. Nxf6+ Bxf6 19. Qd1 c6 20. Nb3 Nc4 21. Qf3 Nxb2 22. Qxc6 Nd3 23. Qxd7 Rxd7 24. Bc6 Rc7 25. Bxc7 Nxe1 26. Rxe1 Rc8 27. Bxb6 axb6 28. d5 exd5 29. Bxd5 Bxc3 30. Re7 Bg6 31. Kg2 Bb4 32. Rb7 Bc5 33. Nxc5 bxc5 34. Rb3 c4 35. Rc3 Bd3 36. Kf3 Kf8 37. Ke3 Ke7 38. Kd4 Bb1 39. Bxc4 Rd8+ 40. Ke3 Ra8 41. Bb3 Bxa2 42. Bxa2 Rxa2 43. Rc7+ Kf6 44. h4 Ra6 45. Rc5 Re6+ 46. Kf3 Kg6 47. Kg2 f5 48. Kh3 Rf6 49. f3 h5 50. Rc7 Kh6 51. g4 fxg4+ 52. fxg4 Rf3+ 53. Kg2 hxg4 54. Rc6+ Kh5 55. Rc5+ Kxh4 56. Rc7 g5 57. Rh7# 1-0
+

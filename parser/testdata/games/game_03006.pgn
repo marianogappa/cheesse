@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/l910aZVD"]
+[White "ldcampodonico"]
+[Black "me_zahra"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:15"]
+[WhiteElo "1613"]
+[BlackElo "1651"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-13"]
+[ECO "A45"]
+[Opening "Trompowsky Attack: Classical Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. Bg5 e6 3. Bxf6 Qxf6 4. e3 d5 5. Bd3 c6 6. a3 a6 7. Nf3 b5 8. Nbd2 Bd7 9. Ne5 Bd6 10. f4 O-O 11. Qf3 Be7 12. Qh5 Qh4+ 13. Qxh4 Bxh4+ 14. g3 Bf6 15. O-O-O h6 16. Nb3 g5 17. Nc5 Be8 18. Nb7 Nd7 19. Nd6 Nxe5 20. dxe5 Be7 21. h4 gxf4 22. gxf4 Rd8 23. Rdg1+ Kh8 24. Rg4 f5 25. Rg2 Bxd6 26. exd6 Rxd6 27. Rhg1 d4 28. c4 dxe3 29. Kc2 bxc4 30. Bxc4 a5 31. Re2 Bf7 32. Rxe3 c5 33. Rge1 Rfd8 34. R1e2 a4 35. b3 axb3+ 36. Kxb3 Rb8+ 37. Ka2 Rd1 38. Bxe6 Bxe6+ 39. Rxe6 Rbb1 40. Rxh6+ Kg7 41. Ree6 Ra1+ 42. Kb3 Rdb1+ 43. Kc4 Rc1+ 44. Kd5 Rd1+ 45. Kc6 c4 46. Rhg6+ Kf7 47. Rgf6+ Kg7 48. Rd6 Rxd6+ 49. Rxd6 c3 50. Rd7+ Kg6 51. Rd6+ Kh5 52. Rd7 Kxh4 53. Rh7+ Kg3 54. Rg7+ Kxf4 55. Rg2 Rc1 56. Rf2+ 1-0
+

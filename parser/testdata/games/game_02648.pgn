@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4choc2AK"]
+[White "georgereeves"]
+[Black "slayerjawor"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:00"]
+[WhiteElo "1520"]
+[BlackElo "1534"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Dutch Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. Nf3 f5 2. Nc3 e6 3. d4 Bb4 4. Bd2 Nc6 5. e4 Bxc3 6. Bxc3 fxe4 7. Ne5 Nge7 8. Nxc6 Nxc6 9. d5 exd5 10. Bxg7 Rg8 11. Bh6 Qf6 12. Qh5+ Qg6 13. Qxg6+ hxg6 14. Be2 Ne5 15. O-O-O c6 16. a3 d6 17. f4 Nf7 18. Bg5 Nxg5 19. fxg5 Bf5 20. h3 O-O-O 21. Bg4 Bxg4 22. hxg4 Rh8 23. Rxh8 Rxh8 24. Kd2 Rh2 25. Rg1 Kd7 26. Ke3 Ke6 27. Kf4 a5 28. c3 b5 29. b3 c5 30. Kg3 Rh8 31. Kf4 Rf8+ 32. Ke3 Ke5 33. Rh1 Rf4 34. Rh4 d4+ 35. cxd4+ cxd4+ 36. Kd2 e3+ 37. Kd3 d5 38. b4 a4 39. g3 Re4 40. Rh6 e2 41. Rh8 e1=Q 42. Re8+ Kd6 43. Rd8+ Kc7 44. Rxd5 Qe3+ 45. Kc2 Qxa3 46. Rc5+ Kb6 47. Rc8 Rxg4 48. Rb8+ Kc7 49. Rxb5 Qxg3 50. Rc5+ Kd6 51. Kb2 Rxg5 52. Rc2 d3 53. Rd2 Qe5+ 54. Kc1 Qc3+ 55. Kd1 Rg1# 0-1
+

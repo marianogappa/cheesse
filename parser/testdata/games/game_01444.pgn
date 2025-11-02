@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/DKz6p22d"]
+[White "kiple"]
+[Black "nedmac101"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:25"]
+[WhiteElo "1373"]
+[BlackElo "1542"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-16"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 Nc6 3. d5 Bb4+ 4. c3 Bxc3+ 5. bxc3 exd5 6. exd5 Nce7 7. Bd3 Nf6 8. c4 O-O 9. Nf3 Re8 10. O-O c6 11. d6 Nf5 12. Re1 Rxe1+ 13. Qxe1 Nh6 14. Bxh6 gxh6 15. Qe5 b6 16. Nbd2 Bb7 17. Ne4 Nxe4 18. Qxe4 c5 19. Qxh7+ Kf8 20. Ne5 Bxg2 21. Qxf7# 1-0
+

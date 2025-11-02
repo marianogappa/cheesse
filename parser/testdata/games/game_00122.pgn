@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gUOPXZ4p"]
+[White "simonwells11"]
+[Black "hasan_safir"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:16"]
+[WhiteElo "1902"]
+[BlackElo "1995"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "A21"]
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+[TimeControl "180+3"]
+[Termination "Normal"]
+
+1. c4 e5 2. Nc3 f5 3. d4 Nc6 4. dxe5 Nxe5 5. e3 Nf6 6. Nf3 d6 7. Nxe5 dxe5 8. Qxd8+ Kxd8 9. f3 Be6 10. Bd2 Bc5 11. O-O-O Ke7 12. Be2 Rhd8 13. Kc2 c6 14. a3 a5 15. Na4 Ba7 16. Bc1 Rab8 17. c5 Rxd1 18. Rxd1 b5 19. cxb6 Bxb6 20. Nxb6 Rxb6 21. Rd2 Bb3+ 22. Kb1 Nd5 23. Rxd5 cxd5 24. Bd3 g6 25. g3 Ke6 26. f4 e4 27. Bc2 Bxc2+ 28. Kxc2 a4 29. Bd2 Kd6 30. Bb4+ Kc6 31. Kc3 Kb5 32. h4 h5 33. Kd4 Kc6 34. Ke5 Ra6 35. Bc3 Kc5 36. Bd4+ Kc4 37. Bc3 Rb6 38. Bd4 Rc6 39. Bc3 Rb6 40. Bd4 Ra6 41. Bc3 Rc6 42. Bd4 Rb6 43. Bc3 Rb3 44. Kf6 Rxc3 45. bxc3 Kxc3 46. Kxg6 d4 47. exd4 Kxd4 48. Kxf5 e3 49. g4 e2 50. gxh5 e1=Q 51. h6 Qe4+ 52. Kg5 Qh7 53. f5 Ke5 54. f6 Ke6 55. h5 Kf7 56. Kg4 Kxf6 0-1
+

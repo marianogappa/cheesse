@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JJhYm3dB"]
+[White "firefrog"]
+[Black "piyontdefne"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:43"]
+[WhiteElo "1320"]
+[BlackElo "1418"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+10"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "300+1"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. cxd5 Qxd5 4. Nc3 Bb4 5. Nf3 Nc6 6. a3 Bxc3+ 7. bxc3 Nf6 8. Bg5 Qc4 9. Qc2 Qd5 10. Bxf6 gxf6 11. e4 Qd6 12. Bb5 Rg8 13. O-O Bd7 14. e5 fxe5 15. dxe5 Nxe5 16. Bxd7+ Nxd7 17. Qxh7 Qf8 18. Rfd1 O-O-O 19. Rab1 Nf6 20. Qc2 Qg7 21. Qb3 Qxg2# 0-1
+

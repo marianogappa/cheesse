@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/flXp2tL4"]
+[White "svarschik1"]
+[Black "mrwhiteee"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:00"]
+[WhiteElo "1373"]
+[BlackElo "1486"]
+[WhiteRatingDiff "-37"]
+[BlackRatingDiff "+8"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.34] } 1... e5 { [%eval 0.44] } 2. Nf3 { [%eval 0.37] } 2... Nc6 { [%eval 0.54] } 3. d4 { [%eval 0.09] } 3... exd4 { [%eval 0.06] } 4. Nxd4 { [%eval 0.06] } 4... Nxd4?! { [%eval 0.69] } 5. Qxd4 { [%eval 0.56] } 5... Nf6?! { [%eval 1.18] } 6. Bg5?! { [%eval 0.39] } 6... Be7 { [%eval 0.67] } 7. Nc3 { [%eval 0.39] } 7... O-O { [%eval 0.88] } 8. O-O-O?! { [%eval 0.38] } 8... d6 { [%eval 0.47] } 9. e5 { [%eval 0.42] } 9... Ng4?! { [%eval 1.04] } 10. exd6?? { [%eval -4.59] } 10... Bxg5+ { [%eval -4.52] } 11. f4 { [%eval -4.64] } 11... Bf6 { [%eval -4.65] } 12. dxc7?? { [%eval -9.4] } 12... Qxd4 { [%eval -9.37] } 13. Rxd4 { [%eval -9.24] } 13... Bxd4 { [%eval -9.06] } 14. h3?! { [%eval -11.11] } 14... Nf2 { [%eval -10.93] } 15. Rh2 { [%eval -12.21] } 15... Bf5? { [%eval -8.37] } 16. g4 { [%eval -8.29] } 16... Be3+ { [%eval -8.42] } 17. Kb1 { [%eval -8.25] } 17... Rfe8 { [%eval -7.8] } 18. gxf5? { [%eval -11.35] } 18... Bxf4 { [%eval -11.06] } 0-1
+

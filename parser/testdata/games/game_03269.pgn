@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/DxgEBS7v"]
+[White "hugolin"]
+[Black "tdh271"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:29"]
+[WhiteElo "1279"]
+[BlackElo "1246"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "600+15"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. d3 Bxf3 5. Qxf3 Qf6 6. Qxf6 Nxf6 7. O-O Nc6 8. c3 Nd4 9. cxd4 exd4 10. Re1 c6 11. e5 dxe5 12. Rxe5+ Be7 13. b3 Nd7 14. Re1 Nc5 15. Ba3 b5 16. Bxc5 bxc4 17. bxc4 Kd7 18. Rxe7+ Kd8 19. Nd2 Re8 20. Rae1 Rxe7 21. Rxe7 Rb8 22. h3 Rb2 23. Ne4 Rxa2 24. Rxf7 Ra1+ 25. Kh2 Ra5 26. Bb4 Ra1 27. Rxg7 a5 28. Bc5 a4 29. Bxd4 Rb1 30. f4 a3 31. f5 a2 32. f6 Ke8 33. Nd6+ Kf8 34. f7 Rd1 35. Rg8+ Ke7 36. f8=Q+ Ke6 37. Nf5 Rxd3 38. Rg5 Rxd4 39. Nxd4+ Kd7 40. Qf1 Kd6 41. Qa1 c5 42. Nf5+ Ke6 1-0
+

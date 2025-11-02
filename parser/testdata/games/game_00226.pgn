@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ukgkkmyI"]
+[White "Keloku"]
+[Black "tpe03"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:37"]
+[WhiteElo "1154"]
+[BlackElo "1228"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 d6 4. dxe5 dxe5 5. Bb5 a6 6. Bxc6+ bxc6 7. Nxe5 Qxd1+ 8. Kxd1 f6 9. Nxc6 Bb7 10. Na5 Bxe4 11. f3 Bb4 12. fxe4 Bxa5 13. Re1 Bxe1 14. Kxe1 Nh6 15. Bxh6 gxh6 16. Nc3 O-O-O 17. Nd5 Rhf8 18. Rd1 c6 19. Nb6+ Kb7 20. Rxd8 Rxd8 21. Nc4 Rd4 22. b3 Rxe4+ 23. Kd2 Rg4 24. g3 h5 25. Nd6+ Kb6 26. c4 h4 27. Nf5 hxg3 28. hxg3 h6 29. Nxh6 Rxg3 30. Nf5 Rg2+ 31. Kc3 Rxa2 32. Kb4 a5+ 33. Kc3 Rf2 34. Nd6 Rf3+ 35. Kb2 Kc5 36. Ne4+ Kb4 37. Nc3 Rxc3 38. Ka2 Rxb3 39. Ka1 Kxc4 40. Ka2 Kc3 41. Ka1 Kc2 42. Ka2 a4 43. Ka1 a3 44. Ka2 f5 45. Ka1 f4 46. Ka2 f3 47. Ka1 f2 48. Ka2 c5 49. Ka1 f1=Q+ 50. Ka2 Qb1# 0-1
+

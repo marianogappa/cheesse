@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/hhCwIKYs"]
+[White "mecitaydin"]
+[Black "biiiibob"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:03"]
+[WhiteElo "1647"]
+[BlackElo "1455"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "C07"]
+[Opening "French Defense: Tarrasch Variation, Open System, Euwe-Keres Line"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.21] } 1... e6 { [%eval 0.2] } 2. d4 { [%eval 0.21] } 2... d5 { [%eval 0.18] } 3. Nd2 { [%eval 0.14] } 3... c5 { [%eval 0.18] } 4. Ngf3 { [%eval 0.1] } 4... Nc6 { [%eval 0.06] } 5. Bb5 { [%eval 0.17] } 5... Qb6?! { [%eval 0.77] } 6. Bxc6+?! { [%eval -0.22] } 6... bxc6 { [%eval -0.06] } 7. e5? { [%eval -1.28] } 7... cxd4 { [%eval -1.1] } 8. O-O { [%eval -1.12] } 8... d3? { [%eval 0.06] } 9. cxd3 { [%eval 0.06] } 9... Bc5? { [%eval 1.28] } 10. Nb3 { [%eval 1.25] } 10... Ne7?! { [%eval 1.84] } 11. Nxc5?! { [%eval 0.87] } 11... Qxc5 { [%eval 0.83] } 12. d4 { [%eval 0.67] } 12... Qb6 { [%eval 0.82] } 13. Rb1 { [%eval 0.72] } 13... Ba6 { [%eval 0.7] } 14. Re1 { [%eval 0.73] } 14... Ng6 { [%eval 0.97] } 15. Bg5 { [%eval 0.48] } 15... O-O { [%eval 0.81] } 16. Be3 { [%eval 0.51] } 16... Rac8 { [%eval 0.69] } 17. a3?! { [%eval 0.16] } 17... Qa5?! { [%eval 0.9] } 18. Bd2 { [%eval 0.87] } 18... Qc7 { [%eval 0.82] } 19. Bb4 { [%eval 0.85] } 19... Bb7? { [%eval 2.14] } 20. Bxf8 { [%eval 2.02] } 1-0
+

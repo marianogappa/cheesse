@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/PeUYf9PG"]
+[White "mohlo"]
+[Black "H2FTW"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:51"]
+[WhiteElo "1465"]
+[BlackElo "1438"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "900+3"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Bb5+ Bd7 5. Bxd7+ Nxd7 6. Nf3 Ngf6 7. O-O e6 8. Re1 Ng4 9. h3 h5 10. hxg4 hxg4 11. Nh2 Qh4 12. Qxg4 Qxh2+ 13. Kf1 Qh1+ 14. Ke2 Qh5 15. Qxh5 Rxh5 16. g4 Re5+ 17. Kf1 Rxe1+ 18. Kxe1 Bb4 19. Na4 O-O-O 20. a3 Ba5 21. b4 Bb6 22. Nxb6+ axb6 23. a4 g6 24. a5 bxa5 25. Rxa5 Kb8 26. d3 f5 27. gxf5 exf5 28. Be3 Re8 29. Kd2 b6 30. Rd5 Nf6 31. Rd4 Ng4 32. Ke2 Nxe3 33. fxe3 g5 34. Kf3 g4+ 35. Kf4 Rf8 36. Rd7 Kc8 37. Rg7 Kb7 38. e4 fxe4+ 39. Kxe4 Re8+ 40. Kf4 Re2 41. c4 Rd2 42. Rxg4 Rxd3 43. Ke4 Rb3 44. b5 Rb4 45. Kd4 Rb3 46. Re4 Rb1 47. Re3 Rd1+ 48. Rd3 Rxd3+ 49. Kxd3 c6 50. bxc6+ Kxc6 51. Kc3 Kc5 52. Kb3 Kc6 53. Kb4 Kb7 54. Kb5 Kc7 55. c5 bxc5 56. Kxc5 1/2-1/2
+

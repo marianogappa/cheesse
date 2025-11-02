@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/gLdyB5Fe"]
+[White "bigjimmo"]
+[Black "CavalloC3"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:25"]
+[WhiteElo "1303"]
+[BlackElo "1146"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+16"]
+[ECO "C46"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "1800+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 h5 5. d4 d6 6. d5 Nd4 7. Nxd4 exd4 8. Qxd4 c5 9. Qe3 Qe7 10. O-O Ng4 11. Bb5+ Bd7 12. Qe1 a6 13. Bc4 Qe5 14. g3 g6 15. f3 Nf6 16. Ne2 h4 17. g4 Bxg4 18. fxg4 Nxg4 19. Bf4 Qxb2 20. Rd1 Qxc2 21. Bd3 Qxa2 22. e5 Qxd5 23. exd6 Bxd6 24. Nc3+ Qe6 25. Ne4 Rd8 26. Bxd6 b6 27. Bxa6 Kd7 28. Bxc5+ Kc7 29. Bb4 Rhe8 30. Qc3+ Kb8 31. Rc1 Qxe4 32. Qc7+ Ka8 33. Qxb6 Qe3+ 34. Kg2 Qxb6 35. Bc5 Qxa6 36. Rxf7 Ne3+ 37. Kh3 Qe6+ 38. Kxh4 Qxf7 39. Bxe3 Rxe3 40. Kg5 Rd6 41. Rc8+ Kb7 42. Rc5 Qf6+ 43. Kh6 Rh3+ 44. Rh5 Rxh5# 0-1
+

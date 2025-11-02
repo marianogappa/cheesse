@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RJIURYLV"]
+[White "Uschi69"]
+[Black "Teniente"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:16"]
+[WhiteElo "1304"]
+[BlackElo "1433"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C20"]
+[Opening "English Opening: The Whale"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. c4 e5 2. e4 d6 3. Nc3 Nc6 4. Nf3 Bg4 5. Be2 Nd4 6. Nxd4 Bxe2 7. Ncxe2 Qg5 8. Nf3 Qxg2 0-1
+

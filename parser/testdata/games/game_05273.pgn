@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/OqbehVIb"]
+[White "climaxboy"]
+[Black "giants4210"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:18"]
+[WhiteElo "1341"]
+[BlackElo "1504"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Scandinavian Variation, Bogoljubov Variation"]
+[TimeControl "1500+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nc3 Nc6 3. e4 dxe4 4. Bb5 Bd7 5. Bxc6 Bxc6 6. d5 Bd7 7. Nxe4 Bf5 8. Nc3 Nf6 9. Bg5 Ne4 10. Nxe4 Bxe4 11. c4 Bxg2 0-1
+

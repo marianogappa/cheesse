@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WMokuTUg"]
+[White "iliastsp"]
+[Black "pterodaktyl_77"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:07"]
+[WhiteElo "1344"]
+[BlackElo "1346"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "C46"]
+[Opening "Three Knights Opening #2"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bb4 4. a3 Bxc3 5. bxc3 Nf6 6. Qe2 O-O 7. d4 Re8 8. dxe5 Nxe5 9. Nxe5 Rxe5 10. Bf4 Rxe4 11. Qxe4 Nxe4 12. f3 Nxc3 13. Bc4 Qe7+ 14. Be3 d6 15. O-O Be6 16. Bxe6 Qxe6 17. Rfe1 Qf6 18. a4 h5 19. Ra3 Nd5 20. Rd3 c6 21. Bd4 Qf5 22. Bb2 c5 23. Red1 Nf4 24. Rxd6 c4 25. R6d4 Qc5 26. a5 Rd8 27. Kf1 Rxd4 28. Bxd4 Qb4 29. Bxa7 Qb2 30. Be3 Nd5 31. Rxd5 Qxc2 32. Rd8+ Kh7 33. Rd2 Qb1+ 34. Ke2 c3 35. Rd1 Qb2+ 36. Kd3 c2 37. Rd2 Qb3+ 38. Ke2 c1=Q 39. Rd3 Qcc2+ 40. Rd2 Qbb1 41. Rxc2 Qxc2+ 42. Kf1 b6 43. axb6 f6 44. b7 f5 45. b8=Q g5 46. Qc7+ Kg6 0-1
+

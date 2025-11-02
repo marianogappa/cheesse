@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/xjNEkN17"]
+[White "andi_ar"]
+[Black "GustavoCXT"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:10"]
+[WhiteElo "1242"]
+[BlackElo "1258"]
+[WhiteRatingDiff "-27"]
+[BlackRatingDiff "+13"]
+[ECO "C20"]
+[Opening "King's Pawn Game"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 0-1
+

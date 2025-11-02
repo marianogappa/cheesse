@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9xkVZBzw"]
+[White "jorquerino"]
+[Black "allep"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:21"]
+[WhiteElo "2412"]
+[BlackElo "2212"]
+[WhiteRatingDiff "-21"]
+[BlackRatingDiff "+17"]
+[WhiteTitle "FM"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed Variation, Korchnoi Defense"]
+[TimeControl "180+1"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 e6 3. g3 d5 4. exd5 exd5 5. Bg2 Nf6 6. d3 h6 7. Nge2 Nc6 8. O-O Be7 9. Nf4 d4 10. Ncd5 O-O 11. Nxe7+ Nxe7 12. h3 Ned5 13. Re1 b6 14. Nxd5 Nxd5 15. Re5 Bb7 16. Qh5 f5 17. Bxh6 Qf6 18. Bxd5+ Bxd5 19. Rxd5 Qe6 20. Qf3 gxh6 21. c4 dxc3 22. bxc3 f4 23. c4 Qxh3 24. Re1 Rae8 25. Re4 fxg3 26. Qxg3+ Qxg3+ 27. fxg3 Rxe4 28. dxe4 Rf3 29. Kg2 Rc3 30. Rd8+ Kf7 31. Rd7+ Ke6 32. Rxa7 Rxc4 33. Rb7 Rb4 34. Rh7 Ke5 35. Kf3 Rb2 36. Rxh6 c4 37. Rc6 b5 38. g4 Rxa2 39. Rc5+ Kd4 40. Rxb5 c3 41. Rd5+ Kc4 42. Rd8 Ra5 43. Rc8+ Rc5 44. Rxc5+ Kxc5 45. Ke3 Kb4 46. e5 Kb3 47. e6 c2 48. Ke4 c1=Q 49. Kf5 Qh6 50. g5 Qg7 51. g6 Kc4 52. e7 Qxe7 53. Kg4 Qg7 54. Kg5 Kd5 55. Kf5 Kd6 56. Kg5 Ke6 57. Kh5 Kf6 58. Kh4 Qxg6 0-1
+

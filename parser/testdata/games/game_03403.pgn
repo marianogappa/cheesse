@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/TUmbzCrS"]
+[White "frarossi90"]
+[Black "RusoTuristo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:57"]
+[WhiteElo "1725"]
+[BlackElo "1804"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "A04"]
+[Opening "Zukertort Opening: St. George Defense"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. Nf3 a6 2. g3 b5 3. Bg2 Bb7 4. O-O e6 5. d4 Nf6 6. Bg5 h6 7. Bf4 c5 8. dxc5 Bxc5 9. b3 Nc6 10. c4 bxc4 11. bxc4 O-O 12. Qb3 Na5 13. Qb2 d6 14. Nc3 Bb6 15. Na4 Ba7 16. Rfd1 Bb8 17. c5 Nc4 18. Qxb7 Ba7 19. Rac1 d5 20. Rxc4 Nh5 21. Bc7 Qf6 22. Be5 Qf5 23. Bh3 Qxh3 24. Rh4 Qf5 25. g4 Qc2 26. Rd4 Qxe2 27. Kg2 Nf6 28. Bxf6 gxf6 29. Rxh6 Kg7 30. Rh3 Qxa2 31. g5 fxg5 32. Nxg5 Rfb8 33. Nxe6+ Kg8 34. Qxd5 Qxd5+ 35. Rxd5 fxe6 36. Rg3+ Kf7 37. Rdg5 Rf8 38. h4 Rab8 39. c6 Rb4 40. Rg7+ Ke8 41. Rxa7 Rxa4 42. c7 Rc4 43. Ra8+ Ke7 44. Rxf8 Kxf8 45. Rg6 Rxc7 46. Rxe6 Rg7+ 47. Kf3 Kf7 48. Rxa6 Rg6 49. Rxg6 Kxg6 50. Kg4 Kg7 51. f4 Kg6 52. f5+ Kg7 53. Kg5 Kg8 54. Kg6 Kh8 55. h5 Kg8 56. h6 Kh8 57. f6 Kg8 58. h7+ Kh8 59. Kf5 Kxh7 60. Ke6 Kg8 61. Ke7 Kh8 62. f7 Kg7 63. f8=Q+ Kh7 64. Qf5+ Kg7 65. Qg4+ Kh6 66. Kf6 Kh7 67. Qg7# 1-0
+

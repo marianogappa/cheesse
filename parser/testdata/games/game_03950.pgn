@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/zGiOb0vN"]
+[White "zixk"]
+[Black "BizarreLawnOrnaments"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:00"]
+[WhiteElo "1131"]
+[BlackElo "1179"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+33"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 d6 3. dxc5 Nf6 4. cxd6 exd6 5. Nc3 Bg4 6. Be2 Bxe2 7. Ngxe2 Nc6 8. O-O Qb6 9. Re1 O-O-O 10. b3 g6 11. Bb2 Bg7 12. Nd4 Nxd4 13. Nd5 Nxd5 14. exd5 Ne2+ 15. Rxe2 Bxb2 16. Rb1 Bd4 17. Qd3 Qc5 18. b4 Qxd5 19. c4 Qf5 20. Qxd4 Qxb1+ 21. Re1 Qxe1# 0-1
+

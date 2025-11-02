@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/vrJECLHf"]
+[White "dragonson7777"]
+[Black "karikas"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:16"]
+[WhiteElo "1695"]
+[BlackElo "1687"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "420+3"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 c5 3. d3 Nc6 4. c3 Nxe5 5. d4 cxd4 6. Qxd4 Nc6 7. Qf4 e5 8. Qg5 Qxg5 9. Bxg5 f6 10. Bh4 Bd6 11. Bb5 Ne7 12. Nd2 O-O 13. Bxc6 bxc6 14. O-O-O Bg4 15. f3 Bf5 16. g4 Be6 17. Bf2 Ng6 18. h4 Nf4 19. Kc2 h6 20. Be3 Ng2 21. Bf2 c5 22. Ne2 d4 23. c4 Rad8 24. Kd3 f5 25. Rh2 Nf4+ 26. Nxf4 exf4 27. g5 h5 28. b3 a5 29. Nb1 Bd7 30. Be1 Bc7 31. a4 Bc6 32. Rf2 Rfe8 33. Bd2 Re7 34. Na3 Rde8 35. Nc2 g6 36. Rb1 Bd6 37. Bxa5 Rb8 38. Bd2 Bxa4 39. Na3 Rxb3+ 40. Rxb3 Bxb3 41. Nb5 Bb8 42. Ba5 Ba4 43. Rb2 Rb7 44. Re2 Bxb5 45. cxb5 Rxb5 46. Bd8 Rb3+ 47. Kc4 Rb7 48. Kxc5 Ba7+ 49. Kc6 Rb3 50. Kd5 d3 51. Re1 d2 52. Rd1 Be3 53. Ke6 Rc3 54. Ra1 Rc1 55. Ra8 d1=Q 56. Bf6+ Kh7 57. Rh8# 1-0
+

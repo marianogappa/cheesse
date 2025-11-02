@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oLIiwrNJ"]
+[White "Chuck_13"]
+[Black "Lacordaire"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:12"]
+[WhiteElo "1994"]
+[BlackElo "1846"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+15"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. b3 Nc6 2. e4 e5 3. Bb2 d6 4. Nc3 Nf6 5. Bb5 Bd7 6. Nge2 Be7 7. O-O O-O 8. Bxc6 Bxc6 9. f3 h6 10. d4 b6 11. dxe5 dxe5 12. Qxd8 Rfxd8 13. Rfd1 Nd7 14. Nd5 Bd6 15. c4 f6 16. Ng3 Nf8 17. Nf5 Bd7 18. Nxd6 cxd6 19. Ba3 Be6 20. Nc7 Bf7 21. Bxd6 Ne6 22. Nxa8 Rxa8 23. Ba3 Nd4 24. Bb2 Nc6 25. Rd6 Nb4 26. a3 Na6 27. Rad1 Nc5 28. b4 Na4 29. Ba1 Bxc4 30. Rd8+ Rxd8 31. Rxd8+ Kh7 32. Rd7 b5 33. Rxa7 Nb6 34. Rb7 Na4 35. Kf2 Kg6 36. g4 Bf7 37. h4 Bc4 38. Kg3 Kh7 39. g5 hxg5 40. hxg5 Kg6 41. gxf6 gxf6 42. Rc7 Bd3 43. Rc6 Kg5 44. f4+ exf4+ 45. Kf3 f5 46. Bf6+ Kh5 47. e5 Be4+ 48. Kf2 Bxc6 49. e6 Kg6 50. Bh4 Nc3 51. Ke1 Nb1 52. Kd1 Nxa3 53. Bf2 Nc4 54. Kc2 Kf6 55. Kd3 Kxe6 56. Kd4 Na3 57. Kc5 Be8 58. Bd4 Nc2 59. Bf2 f3 60. Kb6 Nxb4 61. Kc7 Nd3 62. Kd8 Nxf2 0-1
+

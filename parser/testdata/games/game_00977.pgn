@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/NvzRlD3L"]
+[White "Erfico"]
+[Black "peppefabi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:36"]
+[WhiteElo "1613"]
+[BlackElo "1592"]
+[WhiteRatingDiff "+30"]
+[BlackRatingDiff "-17"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Stonewall Attack"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. e3 d5 3. Bd3 g6 4. Nd2 Bg7 5. Ngf3 Nbd7 6. O-O c5 7. c3 cxd4 8. exd4 e6 9. Re1 Rf8 10. Nf1 Nb6 11. Bg5 Qc7 12. Ne5 Bd7 13. a4 O-O-O 14. a5 Nc4 15. Bxf6 Bxf6 16. Nxc4 dxc4 17. Be4 a6 18. Qf3 Kb8 19. Qxf6 Bc6 20. Bxc6 Qxc6 21. Re5 h5 22. Ne3 h4 23. Rc5 Qd6 24. Nxc4 Qd7 25. Qe5+ Ka8 26. Nb6+ Ka7 27. Nxd7 Rxd7 28. Rc7 Rfd8 29. Qc5+ Ka8 30. Rc8+ 1-0
+

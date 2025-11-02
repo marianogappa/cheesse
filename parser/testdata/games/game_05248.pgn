@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/NxI8Iiqx"]
+[White "mohammadaltalli"]
+[Black "BrunoRed"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:11"]
+[WhiteElo "1318"]
+[BlackElo "1368"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "A45"]
+[Opening "Indian Game: Pawn Push Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. d5 c6 3. dxc6 Nxc6 4. e3 d5 5. b3 a6 6. c4 d4 7. exd4 Qxd4 8. Nf3 Qxa1 9. Ba3 Bg4 10. Be2 Bxf3 11. Bxf3 Qxa2 12. O-O b5 13. Re1 Rd8 14. Qc1 Nd4 15. Qc3 Nxf3+ 16. gxf3 Nd7 17. Kf1 e5 18. Re2 Qxb1+ 19. Kg2 Bxa3 0-1
+

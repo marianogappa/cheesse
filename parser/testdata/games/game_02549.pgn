@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qTPgosFJ"]
+[White "westerlywolf"]
+[Black "Sun75"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:40"]
+[WhiteElo "1797"]
+[BlackElo "1851"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d3 Nc6 3. c4 Bc5 4. Be2 Nf6 5. Nf3 d6 6. O-O h6 7. Re1 Be6 8. Be3 Bxe3 9. fxe3 Qd7 10. Nc3 Ng4 11. Bf1 O-O-O 12. d4 exd4 13. exd4 f5 14. d5 fxe4 15. Nxe4 Bf5 16. dxc6 Qxc6 17. Ng3 1-0
+

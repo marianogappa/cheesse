@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/y2pmidbR"]
+[White "Pezh1984"]
+[Black "Lucin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:59"]
+[WhiteElo "1707"]
+[BlackElo "1937"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-18"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Dutch Variation"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. b3 f5 2. Bb2 Nf6 3. e3 Nc6 4. Qf3 e5 5. Qxf5 d5 6. Qf3 Bd6 7. Bb5 O-O 8. Ne2 a6 9. Bxc6 bxc6 10. d3 Bg4 11. Qg3 Bxe2 12. Kxe2 e4 13. Qg5 exd3+ 14. cxd3 Qd7 15. h3 Rae8 16. Nd2 c5 17. h4 d4 18. e4 Ng4 19. Raf1 c6 20. h5 h6 21. Qh4 Rf4 22. g3 Rff8 23. f3 Ne3 24. Rf2 Qc7 25. Rg1 Nf5 26. Qh3 Bxg3 27. Rfg2 Bf4 28. Kd1 Ne3+ 29. Ke2 Nxg2 30. Rxg2 Bxd2 31. Kxd2 Qf4+ 32. Kc2 Qxf3 33. Qxf3 Rxf3 34. Ba3 Re5 35. Kd2 Rxh5 36. Ke2 Rfh3 37. Kd2 Rh2 38. Rxh2 Rxh2+ 39. Kd1 Rxa2 40. Bxc5 Rb2 41. b4 g5 42. e5 Kf7 43. Kc1 1-0
+

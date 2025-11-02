@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/qX7Q5jNd"]
+[White "babyknoetje"]
+[Black "Joepeger"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:42"]
+[WhiteElo "1325"]
+[BlackElo "1282"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. e5 d6 3. Nf3 dxe5 4. Nxe5 f6 5. Nc4 Be6 6. d3 Bxc4 7. dxc4 Qxd1+ 8. Kxd1 Nc6 9. Bd3 e5 10. Re1 Bd6 11. Be3 b6 12. Nc3 a6 13. Nd5 b5 14. Ke2 Nge7 15. Nxe7 Nxe7 16. Be4 Rb8 17. Rad1 Rb6 18. Rd3 O-O 19. Red1 Rd8 20. Bd2 bxc4 21. Rh3 h6 22. Ba5 Nc8 23. Bxb6 Nxb6 24. Bd5+ Kh8 25. Be6 Na4 26. Rd5 c3 27. bxc3 Nxc3+ 28. Rxc3 1-0
+

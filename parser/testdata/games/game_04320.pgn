@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pCmPFyl8"]
+[White "Ezequiel_SPAIN"]
+[Black "kasparagio"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:34"]
+[WhiteElo "1456"]
+[BlackElo "1514"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Icelandic-Palme Gambit"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 e6 4. dxe6 Bxe6 5. d3 Qe7 6. Be2 c5 7. Bg5 Nc6 8. Bxf6 Qxf6 9. Nc3 a6 10. Qb3 Rb8 11. Qa4 Qg6 12. g3 Bd7 13. Qc2 Nd4 14. Qd2 Be7 15. Qe3 Nc2+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NMlUqGLL"]
+[White "totomad"]
+[Black "karenins_smile"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:53"]
+[WhiteElo "1482"]
+[BlackElo "1393"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. h3 Qf6 5. Nc3 d6 6. Nd5 Qd8 7. c3 Nf6 8. d4 exd4 9. cxd4 Bb4+ 10. Bd2 Bxd2+ 11. Qxd2 Nxe4 12. Qe3 Bf5 13. O-O O-O 14. Nd2 a6 15. Nxe4 Re8 16. f3 Qh4 17. Qf2 Qxf2+ 18. Nxf2 Nxd4 19. Rad1 Nc2 20. Nxc7 Ne3 21. Nxe8 Nxd1 22. Rxd1 Rxe8 23. b3 Bc2 24. Rxd6 b5 25. Bd3 Bxd3 26. Nxd3 a5 27. Kh2 a4 28. bxa4 bxa4 29. Ra6 Re2 30. Rxa4 Rd2 31. Nf4 h6 32. Nh5 Rd5 33. Ng3 Rg5 34. f4 Rc5 35. Ne4 Rf5 36. g3 g5 37. fxg5 hxg5 38. Ra8+ Kg7 39. g4 Re5 40. Ng3 Kg6 41. a4 Re3 42. Nf5 Re2+ 43. Kg3 f6 44. a5 Ra2 45. a6 Ra1 46. a7 Ra2 47. Ne7+ Kf7 48. Nc6 Ra3+ 49. Kh2 Ra2+ 50. Kg1 Ra1+ 51. Kf2 Ra2+ 52. Ke1 Ra3 53. Rb8 Ra1+ 54. Kd2 Ra2+ 55. Kc3 Ra3+ 56. Kb4 Ra6 57. a8=Q Rxa8 58. Rxa8 Kg6 59. Nd4 Kf7 60. Ra7+ Kg6 61. Ra5 Kh6 62. Rf5 Kg6 63. Kc5 Kh6 64. Kd6 Kg6 65. Ke6 Kg7 66. Rxf6 Kh7 67. Kf5 Kg7 68. Rg6+ Kf7 69. Rxg5 Kf8 70. Rh5 Kf7 71. g5 Kg7 72. g6 Kg8 73. Rh7 Kf8 74. Ne6+ Kg8 75. Ng5 Kf8 76. g7+ Kg8 77. Ne6 Kxh7 1/2-1/2
+

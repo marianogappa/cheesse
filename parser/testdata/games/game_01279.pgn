@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/srUDnQIO"]
+[White "mustafa63"]
+[Black "mrmundal"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:46"]
+[WhiteElo "1380"]
+[BlackElo "1432"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+12"]
+[ECO "C55"]
+[Opening "Italian Game: Scotch Gambit"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O d5 6. e5 dxc4 7. exf6 Qxf6 8. Re1+ Be7 9. Bg5 Qd6 10. Nbd2 Be6 11. Bh4 O-O-O 12. Bxe7 Nxe7 13. Ne4 Qf4 14. Nfg5 h6 15. g3 Qf5 16. Nxe6 Qxe6 17. Nc5 Qd6 18. c3 d3 19. b3 Qxc5 20. Rxe7 Qxe7 21. bxc4 Qe2 0-1
+

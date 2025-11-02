@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/MqtoDVnq"]
+[White "el_maurice"]
+[Black "frastornante"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:58"]
+[WhiteElo "1414"]
+[BlackElo "1503"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-14"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.24] } 1... e5 { [%eval 0.28] } 2. Nf3 { [%eval 0.28] } 2... Qf6?! { [%eval 1.13] } 3. d4?! { [%eval 0.55] } 3... Bd6?! { [%eval 1.47] } 4. dxe5 { [%eval 0.98] } 4... Bxe5 { [%eval 0.92] } 5. Nxe5 { [%eval 0.88] } 5... Qxe5 { [%eval 0.89] } 6. Nc3 { [%eval 0.84] } 6... Nc6 { [%eval 1.17] } 7. f4 { [%eval 1.18] } 7... Qe7 { [%eval 1.24] } 8. Be3?! { [%eval 0.71] } 8... d6 { [%eval 1.16] } 9. Qd3 { [%eval 0.87] } 9... Nf6 { [%eval 0.94] } 10. Be2 { [%eval 0.69] } 10... Bg4 { [%eval 0.79] } 11. O-O-O?! { [%eval -0.14] } 11... Bxe2 { [%eval 0.16] } 12. Qxe2 { [%eval -0.29] } 12... O-O-O?! { [%eval 0.52] } 13. g4? { [%eval -0.48] } 13... Nd7? { [%eval 0.59] } 14. Nd5 { [%eval 0.15] } 14... Qe6 { [%eval 0.22] } 15. Qd3 { [%eval -0.02] } 15... Nc5 { [%eval 0.21] } 16. Bxc5 { [%eval 0.0] } 16... dxc5 { [%eval 0.04] } 17. f5 { [%eval -0.08] } 17... Qe5 { [%eval -0.08] } 18. Rhe1 { [%eval -0.3] } 18... Nd4?! { [%eval 0.35] } 19. c4? { [%eval -1.23] } 19... c6 { [%eval -1.25] } 20. Nc3? { [%eval -3.42] } 20... Qf4+? { [%eval -1.27] } 21. Rd2?? { [%eval -8.37] } 21... Nf3? { [%eval -7.23] } 22. Qe2? { [%eval -8.33] } 22... Nxd2 { [%eval -8.11] } 23. Kd1? { [%eval -17.26] } 23... Nf3+ { [%eval -16.75] } 24. Qd2?! { [%eval #-1] } 1-0
+

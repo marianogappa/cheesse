@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/J5Hu6BBz"]
+[White "luiz0361"]
+[Black "Catarsis"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:46"]
+[WhiteElo "1490"]
+[BlackElo "1531"]
+[WhiteRatingDiff "+49"]
+[BlackRatingDiff "-11"]
+[ECO "C47"]
+[Opening "Four Knights Game: Scotch Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 d6 5. d5 Ne7 6. Bb5+ c6 7. Bc4 b5 8. Bd3 Qa5 9. dxc6 Nxc6 10. Bxb5 Be7 11. Bxc6+ Bd7 12. Bxa8 O-O 13. Bd5 Ng4 14. O-O Kh8 15. Ng5 Qd8 16. Nxf7+ Rxf7 17. Bxf7 Bg5 18. f3 Be3+ 19. Bxe3 Nxe3 20. Qe1 Qg5 21. Rf2 Bh3 22. g3 g6 23. Nb5 h5 24. Nxd6 h4 25. Bxg6 hxg3 26. Nf7+ Kg7 27. Nxg5 gxf2+ 28. Qxf2 Kxg6 29. Nxh3 Nc4 30. Qg2+ Kf6 31. Qg5+ Ke6 32. Qg6+ Kd7 33. Rd1+ Kc7 34. Qg7+ Kb6 35. Qg6+ Kb5 36. Rd5+ Kb4 37. a3+ Nxa3 38. bxa3+ Kxa3 39. Rb5 Ka4 40. Qa6# 1-0
+

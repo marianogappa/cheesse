@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/5R4jVWOs"]
+[White "pepi_1800"]
+[Black "ar75123"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:09"]
+[WhiteElo "2018"]
+[BlackElo "1878"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-8"]
+[ECO "C20"]
+[Opening "English Opening: The Whale"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. c4 { [%eval 0.1] } 1... e5 { [%eval -0.01] } 2. e4 { [%eval -0.27] } 2... Nf6 { [%eval -0.26] } 3. Nc3 { [%eval -0.25] } 3... c6?! { [%eval 0.49] } 4. d3?! { [%eval -0.2] } 4... Bb4 { [%eval -0.07] } 5. g3?! { [%eval -0.72] } 5... O-O { [%eval -0.32] } 6. Bg2 { [%eval -0.38] } 6... d6 { [%eval 0.0] } 7. Ne2 { [%eval 0.06] } 7... Bg4 { [%eval 0.06] } 8. O-O { [%eval 0.04] } 8... h6 { [%eval 0.36] } 9. h3 { [%eval 0.27] } 9... Be6 { [%eval 0.32] } 10. f4 { [%eval 0.28] } 10... exf4 { [%eval 0.7] } 11. gxf4 { [%eval 0.62] } 11... Bg4? { [%eval 3.42] } 12. hxg4 { [%eval 3.35] } 12... Nxg4 { [%eval 3.22] } 13. Qe1 { [%eval 3.14] } 13... Bc5+?! { [%eval 4.05] } 14. d4 { [%eval 3.99] } 14... Bb6 { [%eval 3.75] } 15. Qg3 { [%eval 3.79] } 15... h5 { [%eval 4.23] } 16. Bh3?! { [%eval 3.56] } 1-0
+

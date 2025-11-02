@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yiljsELr"]
+[White "Shomi"]
+[Black "are123"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:20"]
+[WhiteElo "1616"]
+[BlackElo "1734"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+26"]
+[ECO "B18"]
+[Opening "Caro-Kann Defense: Classical Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bc4 e6 8. O-O Ngf6 9. Bg5 Be7 10. Re1 O-O 11. Bb3 h6 12. Bf4 c5 13. c4 cxd4 14. Nxd4 a6 15. Rc1 Nc5 16. Bc2 Bxc2 17. Rxc2 Rc8 18. Nf3 Qa5 19. a3 Rfd8 20. Qc1 Nb3 21. Qe3 Qa4 22. Rc3 Rxc4 23. Rxb3 Rxf4 24. Rxb7 Nd5 25. Qa7 Qa5 26. Rb1 Bc5 27. Rb5 Qxb5 0-1
+

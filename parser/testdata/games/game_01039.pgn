@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/WlqxXopD"]
+[White "JoachimEiben"]
+[Black "MightyRobot"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:54"]
+[WhiteElo "2046"]
+[BlackElo "1874"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+21"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Slav Formation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. g3 d5 2. Bg2 c6 3. d3 Nf6 4. Nf3 Bg4 5. O-O e6 6. Nc3 Bb4 7. Bg5 Bxc3 8. bxc3 O-O 9. e4 Nbd7 10. h3 Bxf3 11. Qxf3 h6 12. Bd2 dxe4 13. dxe4 Ne5 14. Qe2 Nc4 15. Bxh6 gxh6 16. Qxc4 Qe7 17. e5 Nd5 18. Qg4+ Kh8 19. c4 Nb4 20. Be4 Rg8 21. Qf4 Qf8 22. a3 Na6 23. Rab1 Nc5 24. Bd3 Rd8 25. Rfe1 b6 26. Qe3 Qg7 27. Rbd1 Na4 28. Qe4 Nc3 29. Qe3 Nxd1 30. Rxd1 c5 31. Kh2 Rd7 32. Qe4 Rd4 33. Qe3 Rh4 34. Qf3 Qxe5 35. Rd2 Rd4 36. Re2 Qg7 37. Re5 Qxe5 38. h4 f5 39. h5 Rh4+ 40. Kg2 Rhg4 41. a4 f4 42. Qb7 Qg7 43. Qe4 fxg3 44. f3 Rg5 45. Qe3 Rxh5 46. a5 Rh2+ 47. Kg1 Rf2 48. Qe4 g2 49. Kxf2 g1=Q+ 50. Ke2 Q1g2+ 51. Ke3 Q2g5+ 52. Ke2 Qg2+ 53. Ke3 Qd4+ 54. Qxd4+ cxd4+ 55. Ke4 Qg6+ 56. Ke5 Qxd3 57. Kd6 Rf8 58. Ke7 Rxf3 59. Ke8 h5 60. Ke7 Rf7+ 61. Ke8 Qe4 0-1
+

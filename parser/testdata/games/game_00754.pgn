@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ZJ1oxMTT"]
+[White "Abror77"]
+[Black "mefanaZagara"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:49"]
+[WhiteElo "1885"]
+[BlackElo "1815"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bc5 5. d3 O-O 6. Bg5 h6 7. Bh4 d6 8. h3 a6 9. a3 b5 10. Ba2 Be6 11. O-O Bxa2 12. Rxa2 g6 13. Nd5 g5 14. Nxg5 hxg5 15. Bxg5 Ne7 16. Bxf6 1-0
+

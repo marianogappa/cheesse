@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ZNt45hNq"]
+[White "DrGogo"]
+[Black "Teldja54"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:32"]
+[WhiteElo "1637"]
+[BlackElo "1726"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "600+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. h3 Nf6 4. Nc3 Be7 5. Be2 h6 6. d3 Be6 7. Be3 Nc6 8. Qd2 d5 9. exd5 Bxd5 10. Nxd5 Nxd5 11. O-O Bb4 12. c3 Nxe3 13. Qxe3 Be7 14. Nxe5 O-O 15. d4 Re8 16. Qc1 Bg5 17. Qc2 Nxe5 18. f4 Bxf4 19. Rxf4 Ng6 20. Rf2 Qh4 21. Bc4 Re7 22. Qxg6 Rf8 23. Qc2 Kh8 24. Raf1 f6 25. Kh2 c6 26. Qf5 b5 27. Bd3 Kg8 28. Qh7+ Kf7 29. Rxf6+ Ke8 30. Rxf8+ Kd7 31. Qf5+ Kc7 32. Qf4+ Qxf4+ 33. R1xf4 Kb6 34. R8f7 Re3 1-0
+

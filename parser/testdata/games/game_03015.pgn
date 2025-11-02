@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Uttn4gdC"]
+[White "Pigiro"]
+[Black "hazretpolat"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:15"]
+[WhiteElo "1459"]
+[BlackElo "1540"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "C42"]
+[Opening "Petrov's Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. d3 Bc5 4. Bg5 h6 5. Bh4 O-O 6. Nxe5 Nc6 7. Ng4 d6 8. Nxf6+ gxf6 9. Qf3 Ne5 10. Qg3+ Ng6 11. Nd2 d5 12. e5 Qe7 13. Nf3 Re8 14. O-O-O fxe5 15. Bxe7 Rxe7 16. d4 exd4 17. Nxd4 Bd6 18. Qf3 h5 19. Qxh5 Bf4+ 20. Kb1 Re5 21. Nf5 Bxf5 22. Qf3 Rae8 23. Be2 Rxe2 24. a3 Bxc2+ 25. Ka2 Bxd1 26. Rxd1 c6 27. g3 Bd6 28. Qb3 Rxf2 29. h4 Ree2 30. Rb1 Rg2 31. Qxb7 Bxg3 32. h5 Nf8 33. Qxc6 Rd2 34. Qc5 Be5 35. a4 Rxb2+ 36. Rxb2 Rxb2+ 37. Ka3 Rh2 38. h6 Rxh6 39. Qe3 Bd6+ 40. Kb3 Rg6 41. Kc2 Rg2+ 42. Kd1 Bb8 43. Qd4 Rg5 44. a5 Ne6 45. Qb4 Rg1+ 46. Kc2 Rg2+ 47. Kb3 Rg1 48. Kc2 Ra1 49. Qxb8+ Kg7 50. Qe5+ Kf8 51. Qxa1 f5 52. Qf6+ Ke8 53. Qxe6+ Kf8 54. Qd6+ Kf7 55. Qxd5+ Kf6 56. Qd4+ Kg5 57. Qxa7 f4 58. Qc5+ Kg4 59. a6 f3 60. Qf2 Kf4 61. a7 Kg4 62. a8=Q Kf4 63. Qaxf3+ Ke5 64. Q2e2+ Kd4 65. Qee4+ Kc5 66. Qff5+ Kd6 67. Qee6+ Kc7 68. Qff7+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Fp9yZatL"]
+[White "aAadesp0908"]
+[Black "Qobjeod"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:52"]
+[WhiteElo "1183"]
+[BlackElo "1134"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+17"]
+[ECO "A10"]
+[Opening "English Opening"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. c4 d6 2. f4 e5 3. fxe5 dxe5 4. d3 Nc6 5. e3 Bb4+ 6. Bd2 Nf6 7. Bxb4 Nxb4 8. Qa4+ Nc6 9. Qd1 Nb4 10. c5 O-O 11. h4 e4 12. a3 Nxd3+ 13. Bxd3 exd3 14. Nc3 Re8 15. h5 Rxe3+ 16. Kf2 Ng4+ 17. Kf1 Qf6+ 18. Nf3 d2 19. Nd5 Re1+ 20. Qxe1 dxe1=Q+ 21. Kxe1 Qe6+ 22. Kd2 Qxd5+ 23. Kc3 Qxc5+ 24. Kd2 Qd5+ 25. Kc2 Bf5+ 26. Kc3 Rd8 27. Rhe1 Qd3+ 28. Kb4 Qd6+ 29. Kb3 Be6+ 30. Kc2 Qc5+ 31. Kb1 Bf5+ 32. Ka2 Qc4+ 33. b3 Qc2# 0-1
+

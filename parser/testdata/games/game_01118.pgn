@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/AGnmDk8H"]
+[White "jordy1991"]
+[Black "mfcampeao"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:12"]
+[WhiteElo "1926"]
+[BlackElo "2188"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "E14"]
+[Opening "Queen's Indian Defense: Spassky System"]
+[TimeControl "900+10"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Bb4+ 6. Bd2 Be7 7. O-O O-O 8. Nc3 Bb4 9. Ne4 Bxd2 10. Nexd2 d6 11. Qc2 Nbd7 12. h3 e5 13. Rfe1 Re8 14. Ng5 h6 15. Nge4 exd4 16. exd4 Re6 17. Re2 Nh5 18. Re3 Nf4 19. Bf1 Nf6 20. Rae1 Nxe4 21. Nxe4 d5 22. Nc3 Qg5 23. cxd5 Rxe3 24. Rxe3 Nxd5 25. Nxd5 Qxd5 26. Qxc7 Rc8 27. Qe5 Qxa2 28. Bd3 Qa4 29. Rg3 g5 30. h4 Qd1+ 31. Kh2 Qh5 32. Qf5 Qxh4+ 33. Rh3 Qf4+ 34. Qxf4 gxf4 35. Rxh6 Rd8 36. d5 Rxd5 37. Be4 Rd7 38. Bxb7 Rxb7 39. Rf6 Rc7 40. Rxf4 Rc2 41. b4 Rb2 42. Kg3 Kf8 43. Re4 f6 44. Kf3 Kf7 45. g4 Rc2 46. Kg3 b5 47. f3 Ra2 48. Kf4 Ra3 49. Kg3 Rc3 50. Kf4 Kg6 51. Rd4 Rc4 52. Ke4 Kg5 53. Ke3 Rxd4 54. Kxd4 Kf4 55. Kc5 Kxf3 56. Kxb5 Kxg4 57. Ka6 f5 58. Kxa7 f4 59. b5 f3 60. b6 f2 61. b7 f1=Q 62. b8=Q Qa1+ 63. Kb7 Qb2+ 64. Kc8 Qh8+ 65. Kb7 1/2-1/2
+

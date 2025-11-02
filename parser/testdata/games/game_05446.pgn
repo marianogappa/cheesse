@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/PGwbuOJk"]
+[White "Jakob2000"]
+[Black "BlackSheeep"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:00"]
+[WhiteElo "1544"]
+[BlackElo "1823"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Nimzo-American Variation"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d5 5. exd5 Qxd5 6. Be3 e5 7. Nc3 Qd8 8. Nxc6 Qxd1+ 9. Rxd1 bxc6 10. Bc4 Bb4 11. a3 Ba5 12. O-O Ne7 13. Rfe1 Bb6 14. Bxb6 axb6 15. Rxe5 O-O 16. Rxe7 Bf5 17. Bb3 c5 18. Rde1 c4 19. Bxc4 Bxc2 20. Nd5 Rab8 21. Bb5 h6 22. h3 Kh7 23. Nf4 Bf5 24. g4 Bc2 25. R1e2 Bb3 26. Bd3+ g6 27. Bxg6+ Kg7 28. Bh5 Rbc8 29. Bg6 Rc1+ 30. Kg2 Rcc8 31. Bf5 h5 32. Nxh5+ Kg8 33. Bxc8 Rxc8 34. Re8+ Rxe8 35. Rxe8+ Kh7 36. f4 Kg6 37. f5+ Kg5 38. Kf3 Bd1+ 39. Ke4 Bb3 40. Rg8+ Kh4 41. Rh8 Bc2+ 42. Ke3 Kxh3 0-1
+

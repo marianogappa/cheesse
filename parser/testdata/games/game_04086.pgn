@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/q6IlMpUW"]
+[White "Asinya"]
+[Black "hashashine"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:25"]
+[WhiteElo "1726"]
+[BlackElo "1727"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Blackburne Gambit"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.22] } 1... d5 { [%eval 0.64] } 2. exd5 { [%eval 0.59] } 2... c6 { [%eval 0.8] } 3. dxc6 { [%eval 0.78] } 3... Nxc6 { [%eval 0.92] } 4. Bb5 { [%eval 0.66] } 4... e5 { [%eval 0.87] } 5. Nc3 { [%eval 0.58] } 5... a6?! { [%eval 1.32] } 6. Bxc6+ { [%eval 1.34] } 6... bxc6 { [%eval 1.26] } 7. d3 { [%eval 0.83] } 7... Bb4 { [%eval 1.0] } 8. Bd2 { [%eval 0.87] } 8... Nf6 { [%eval 0.94] } 9. Nf3 { [%eval 0.79] } 9... O-O { [%eval 0.93] } 10. O-O { [%eval 0.94] } 10... Bg4 { [%eval 1.11] } 11. Re1 { [%eval 1.0] } 11... Qc8 { [%eval 1.3] } 12. Rxe5 { [%eval 1.59] } 12... Bxc3 { [%eval 2.08] } 13. Bxc3 { [%eval 1.67] } 13... Nd5 { [%eval 1.75] } 14. Bd4 { [%eval 1.62] } 14... Nf4?! { [%eval 2.33] } 15. Re3?! { [%eval 1.74] } 15... c5 { [%eval 1.74] } 16. Bc3 { [%eval 1.45] } 16... Nd5 { [%eval 1.64] } 17. Re4 { [%eval 1.58] } 17... Nxc3 { [%eval 1.67] } 18. bxc3 { [%eval 1.51] } 18... Qc6?? { [%eval 5.89] } 19. Re3?? { [%eval 1.43] } 19... Rfe8 { [%eval 1.53] } 20. Qd2 { [%eval 1.18] } 20... Re6?? { [%eval 4.22] } 21. Rxe6? { [%eval 1.92] } 21... Qxe6 { [%eval 2.1] } 22. Re1? { [%eval 0.82] } 22... Qc6? { [%eval 2.68] } 23. h3? { [%eval 0.88] } 23... Bxf3 { [%eval 0.95] } 24. gxf3 { [%eval 0.76] } 24... Qxf3 { [%eval 0.82] } 25. Re3 { [%eval 0.68] } 25... Qf6 { [%eval 0.79] } 26. Kh2 { [%eval 0.4] } 26... h6 { [%eval 0.47] } 27. Qe1 { [%eval 0.49] } 27... Qd6+ { [%eval 0.47] } 28. Kh1 { [%eval 0.0] } 28... Rd8? { [%eval 1.18] } 29. Re8+ { [%eval 1.06] } 29... Kh7 { [%eval 1.33] } 30. Rxd8 { [%eval 1.02] } 30... Qxd8 { [%eval 1.05] } 31. Qe4+ { [%eval 0.93] } 31... Kh8 { [%eval 1.34] } 32. Qf5 { [%eval 1.09] } 32... Qh4 { [%eval 1.35] } 33. Qxf7? { [%eval 0.0] } 33... Qxh3+ { [%eval 0.0] } 34. Kg1 { [%eval 0.0] } 34... Qg4+ { [%eval 0.0] } 35. Kf1 { [%eval 0.0] } 35... Qd1+ { [%eval 0.0] } 36. Kg2 { [%eval 0.0] } 36... Qxc2 { [%eval 0.0] } 37. Qf8+ { [%eval 0.0] } 37... Kh7 { [%eval 0.15] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/43ik3lqo"]
+[White "gap109"]
+[Black "Ostwestfale"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:21"]
+[WhiteElo "1442"]
+[BlackElo "1531"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-15"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. c3 c5 4. d4 exd4 5. cxd4 Nf6 6. dxc5 Qa5+ 7. Nc3 Qxc5 8. Be3 Qb4 9. Qc2 Nc6 10. Bb5 a6 11. Bxc6+ bxc6 12. O-O Be7 13. Nd4 O-O 14. Nxc6 Qb7 15. Nxe7+ Qxe7 16. Rad1 Be6 17. a3 Rac8 18. Qd3 Bb3 19. Rc1 Nxe4 20. Nxe4 Rxc1 21. Rxc1 Be6 22. Qxd6 Qh4 23. Qd4 Bf5 24. Ng3 Qxd4 25. Bxd4 Be6 26. h3 Rb8 27. b4 f6 28. Rc6 Kf7 29. Rxa6 Rd8 30. Bc5 Rd3 31. a4 Bc4 32. Ra7+ Kg6 33. a5 Rd1+ 34. Kh2 Bb5 35. Rb7 Bc4 36. b5 Rb1 37. b6 Rb5 38. Ra7 Kg5 39. Be3+ Kg6 40. a6 Ra5 41. b7 Bxa6 42. Rxa6 Rxa6 43. b8=Q Re6 44. Qf4 Kf7 45. Qc7+ Re7 46. Qc4+ Kg6 47. Ne4 Kf5 48. Ng3+ Ke5 49. f4+ Kd6 50. Nf5+ Kd7 51. Nxe7 Kxe7 52. Qc7+ Ke6 53. Qxg7 Kd5 54. Qxh7 Kc4 55. Qf5 Kb3 56. Qc8 1-0
+

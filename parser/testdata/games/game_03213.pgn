@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Mx1eTS7c"]
+[White "BeefFly"]
+[Black "ThegreatCapablanca"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:10"]
+[WhiteElo "1475"]
+[BlackElo "1414"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C00"]
+[Opening "Rat Defense: Small Center Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d6 3. Nf3 Qe7 4. Nc3 Bd7 5. Be3 f5 6. Bg5 Nf6 7. e5 dxe5 8. dxe5 Nc6 9. exf6 gxf6 10. Bh4 O-O-O 11. Qe2 e5 12. O-O-O Qe6 13. Nd2 Nb4 14. b3 Kb8 15. Nc4 Nc6 16. Qf3 e4 17. Qf4 Bd6 18. Nxd6 cxd6 19. Rxd6 Qe7 20. Re6+ 1-0
+

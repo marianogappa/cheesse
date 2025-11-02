@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ehZXCRce"]
+[White "Zoki381"]
+[Black "woocasho"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:19"]
+[WhiteElo "1828"]
+[BlackElo "1873"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. f3 g6 5. Ne2 Bg7 6. Be3 d6 7. Nd2 Ne7 8. O-O f5 9. exf5 exf5 10. Nf4 Qc8 11. d5 Nxd5 12. Nxd5 Bxd5 13. Bc4 Bc6 14. c3 d5 15. Bb3 O-O 16. f4 Bb7 17. Nf3 Rd8 18. Bd4 Bf8 19. Ne5 c5 20. Bf2 Bg7 21. Qf3 Qc7 22. Bh4 Rd6 23. Qg3 Kh8 24. Rfe1 Nc6 25. Rad1 Nxe5 26. fxe5 Rd7 27. Ba4 Bc6 28. Bb3 Re8 29. Bf6 Bxf6 30. exf6 Rxe1+ 31. Qxe1 Rf7 32. Qe6 c4 33. Bc2 Qd7 34. Re1 Qxe6 35. Rxe6 Bd7 36. Rd6 Kg8 37. a4 Be8 38. b3 Kf8 39. bxc4 dxc4 40. Rd8 Rd7 41. Rxd7 Bxd7 42. Kf2 Kf7 43. Ke3 Kxf6 44. Kd4 Be6 45. g3 h5 46. h4 g5 47. hxg5+ Kxg5 48. Ke3 Kg4 49. Kf2 Bd5 50. Bd1+ Kh3 51. Bxh5 Be4 52. Bg6 Bd3 53. Bh7 Kg4 54. Bg8 f4 55. gxf4 Kxf4 56. Bd5 Ke5 57. Bc6 Kd6 58. Bb5 Kc5 59. Ke3 Bc2 60. Be8 a6 61. Kd2 b5 62. Kxc2 b4 63. cxb4+ Kxb4 64. Kb2 c3+ 65. Kc2 Kc4 66. Bc6 a5 67. Bb5+ Kb4 68. Kc1 Kb3 69. Bc6 Ka3 70. Kc2 Kb4 71. Bb5 Ka3 72. Kxc3 Ka2 73. Kd4 Ka3 74. Kc5 Kb3 75. Kb6 Kb4 76. Ka6 Kc5 77. Kxa5 Kd6 78. Ka6 Kc7 79. Ka7 Kc8 80. a5 Kc7 81. Ba6 Kc6 82. Kb8 Kc5 83. Bb7 Kb5 84. a6 Kb6 85. a7 1-0
+

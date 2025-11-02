@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/o2s6hsJW"]
+[White "ElieWagner"]
+[Black "Hrt0"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:21"]
+[WhiteElo "1312"]
+[BlackElo "1791"]
+[WhiteRatingDiff "+25"]
+[BlackRatingDiff "-26"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense"]
+[TimeControl "600+7"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Nc3 Nf6 3. Bc4 e6 4. Nf3 Nxe4 5. O-O Nxc3 6. dxc3 d5 7. Bb5 Bd7 8. Ng5 a6 9. Be2 Be7 10. b4 Bxg5 11. f4 Bf6 12. Ba3 Bxc3 13. Rb1 O-O 14. Bb2 Bxb4 15. c4 dxc4 16. Bxc4 Na5 17. Qd4 Nxc4 18. Qxg7# 1-0
+

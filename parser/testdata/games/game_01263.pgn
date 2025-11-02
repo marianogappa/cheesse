@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/aG2NHF0B"]
+[White "BeepBeepImaJeep2"]
+[Black "yasserhennawi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:43"]
+[WhiteElo "1472"]
+[BlackElo "1217"]
+[WhiteRatingDiff "-19"]
+[BlackRatingDiff "+35"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+
+1. b3 d6 2. Bb2 Nf6 3. g3 g6 4. Bg2 Bg7 5. f4 O-O 6. e3 c6 7. Qf3 Bg4 8. Qf2 Na6 9. h3 Bf5 10. d3 Nc7 11. e4 Bd7 12. Nd2 e5 13. Ne2 exf4 14. Nxf4 Qe7 15. O-O Rae8 16. Nf3 b5 17. Rae1 Qd8 18. a3 Nxe4 19. dxe4 Bxb2 20. Qxa7 Bc3 21. Rd1 Rxe4 22. Ng5 Qxg5 23. Bxe4 Qxg3+ 24. Ng2 Bxh3 25. Qf2 Qxf2+ 26. Rxf2 d5 27. Bf3 Bd4 28. Rxd4 Ne6 29. Rh4 Bxg2 30. Kxg2 Ng5 31. Kg3 Nxf3 32. Kxf3 f5 33. Rhh2 Re8 34. Rfg2 Kg7 35. Kf4 Kf6 36. Rg5 Re4+ 37. Kf3 Kxg5 38. Rg2+ Kf6 39. Re2 Rxe2 40. Kxe2 h5 41. Kf3 Kg5 42. Kg3 h4+ 43. Kg2 f4 44. a4 Kg4 45. a5 h3+ 46. Kg1 f3 47. a6 Kg3 48. a7 h2+ 49. Kh1 f2 50. a8=Q f1=Q# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/zVu8GU7D"]
+[White "andrewjiang"]
+[Black "Arvasi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:28"]
+[WhiteElo "1404"]
+[BlackElo "1709"]
+[WhiteRatingDiff "+27"]
+[BlackRatingDiff "-19"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "540+0"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Bb7 3. Nc3 g6 4. Nf3 Bg7 5. Be3 d6 6. Bd3 e6 7. O-O Nf6 8. Qe2 O-O 9. Rad1 Ng4 10. h3 Nxe3 11. fxe3 Nc6 12. b3 Nb4 13. a3 Nxd3 14. Qxd3 a5 15. b4 axb4 16. axb4 Ra3 17. Qd2 Ba6 18. Rfe1 Qa8 19. Nb1 Ra1 20. Nc3 Rxd1 21. Rxd1 f5 22. e5 dxe5 23. Nxe5 Bxe5 24. dxe5 Bb7 25. Qd7 Qb8 26. Qxe6+ Rf7 27. Rd7 Qf8 28. Rxc7 Be4 29. Nb5 Kh8 30. Rxf7 Qxb4 31. Qe8+ Qf8 32. Qxf8# 1-0
+

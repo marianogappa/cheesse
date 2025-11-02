@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/6ilUfmFy"]
+[White "balval"]
+[Black "Canadageek"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:29"]
+[WhiteElo "1740"]
+[BlackElo "1768"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 e6 5. Bd3 Nf6 6. Nge2 Be7 7. O-O h6 8. Be3 c6 9. h3 b6 10. Qd2 Bb7 11. Rad1 Nbd7 12. f4 Qc7 13. f5 O-O-O 14. fxe6 fxe6 15. Nf4 Nf8 16. Qe2 g5 17. Ng6 Nxg6 18. Bxg6 Rhg8 19. Bf7 Rg7 20. Bxe6+ Kb8 21. a4 Ka8 22. a5 b5 23. a6 Bxa6 24. Ra1 Qb7 25. Bf5 Bb4 26. Qf2 Rf7 27. Qd2 Nd5 28. Be4 Rxf1+ 29. Rxf1 Bxc3 30. bxc3 b4 31. c4 Bxc4 32. Ra1 Nxe3 33. Qe2 Bxe2 0-1
+

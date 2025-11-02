@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EGsuwd5J"]
+[White "kingslayer29"]
+[Black "odyasovv"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:47"]
+[WhiteElo "1270"]
+[BlackElo "1133"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-7"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nc6 3. Qh5 Qf6 4. d3 d6 5. Bg5 Qg6 6. Qf3 h6 7. Be3 Qf6 8. Qe2 Be6 9. Nf3 Bxc4 10. dxc4 Qd8 11. O-O Be7 12. Re1 a6 13. Nc3 Nb4 14. Nd5 Nxd5 15. cxd5 c6 16. Qc4 cxd5 17. Qxd5 b6 18. Rad1 Nf6 19. Qb3 Nxe4 20. Nxe5 Rf8 21. Bxb6 Qb8 22. Nc6 Qb7 23. Nxe7 Qxe7 24. f3 Qf6 25. Rxe4+ Kd7 26. Qa4+ Kc8 27. Qc6+ Kb8 28. Qc7# 1-0
+

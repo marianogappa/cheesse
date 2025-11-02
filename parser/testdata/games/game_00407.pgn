@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/7rv3QvK0"]
+[White "tattiostspb"]
+[Black "elova77"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:26"]
+[WhiteElo "1476"]
+[BlackElo "1600"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-15"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "1200+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. a3 Nf6 4. Nc3 Nc6 5. Nf3 Be7 6. c5 O-O 7. h3 h6 8. Bf4 b6 9. b4 a6 10. e3 Bb7 11. Bd3 b5 12. O-O Nh7 13. Bxh7+ Kxh7 14. Qd3+ Kh8 15. g4 f5 16. g5 Bxg5 17. Nxg5 hxg5 18. Bg3 Rf6 19. Ne2 Rh6 20. Kh2 g6 21. Rg1 Kg7 22. f4 Qh8 23. fxg5 Rxh3+ 24. Kg2 Qh5 25. Nf4 Rxg3+ 26. Kxg3 Qxg5+ 27. Kf3 Qf6 28. Nh5+ Kf7 29. Nxf6 Kxf6 30. Raf1 a5 31. bxa5 Rxa5 32. Kg3 Ba6 33. Qb3 Ra4 34. Kh4 Rc4 35. Rf2 Ne7 36. Qb2 c6 37. e4 dxe4 38. d5+ Kf7 39. dxe6+ Kxe6 40. Qb3 e3+ 41. Kg3 exf2 42. Qe3+ Re4 43. Qxf2 Nd5 44. Re1 f4+ 45. Kf3 Kf5 46. Rxe4 g5 47. Qc2 Ne3 48. Qd3 g4+ 49. Kf2 b4 50. Rxe3+ Bxd3 51. Rxd3 bxa3 52. Rxa3 g3+ 53. Kf3 Kg5 54. Rd3 Kh4 55. Rd4 Kh3 56. Rxf4 g2 57. Rg4 g1=Q 58. Rxg1 1-0
+

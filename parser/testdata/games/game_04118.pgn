@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/E90zyzbP"]
+[White "thepone"]
+[Black "brunoanono"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:43"]
+[WhiteElo "1262"]
+[BlackElo "1148"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Old Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. e3 b5 4. a4 bxa4 5. Qxa4+ Bd7 6. Qxc4 Nc6 7. Bd3 a5 8. Bd2 Nb4 9. Bxb4 axb4 10. Rxa8 Qxa8 11. Qxb4 e5 12. Qc4 exd4 13. Nf3 Qa4 14. Qxd4 Bb4+ 15. Nc3 Bxc3+ 16. bxc3 Qa1+ 17. Ke2 Qxh1 18. Qxg7 Ne7 19. Qxh8+ Ng8 20. Qxg8+ Ke7 21. Qg5+ f6 22. Qg7+ Ke6 23. Nd4+ Ke5 24. Qxd7 Qxg2 25. Qf5+ Kd6 26. Nb5+ Kc6 27. Be4+ Kb6 28. Bxg2 c6 29. Nd4 c5 30. Qe6+ Ka5 31. Nf5 Ka4 32. Bc6+ Ka3 33. Qc4 Kb2 34. Qxc5 Kc1 35. Qd4 h5 36. Qd2+ Kb1 37. Nd4 h4 38. Be4+ Ka1 39. Nc2+ Kb2 40. Nb4+ Kb3 41. Qa2+ Kxc3 42. Nd5# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/QZ5y7QL4"]
+[White "King_Amapa"]
+[Black "HarpSeal"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:51"]
+[WhiteElo "1917"]
+[BlackElo "1961"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Canal Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bc5 5. d3 d6 6. Bg5 h6 7. Bxf6 Qxf6 8. Nd5 Qd8 9. c3 a6 10. a4 Ba7 11. b4 Be6 12. b5 axb5 13. axb5 Ne7 14. b6 Bxd5 15. Rxa7 Bxc4 16. bxc7 Qc8 17. Qa4+ b5 18. Rxa8 bxa4 19. Rxc8+ Nxc8 20. dxc4 Kd7 21. Kd2 Nb6 22. Kd3 Ra8 23. Ra1 Kxc7 24. Nd2 Kc6 25. Nb1 Ra5 26. Na3 Rc5 27. Rb1 f5 28. f3 fxe4+ 29. fxe4 Nd7 30. Rb4 Ra5 31. Nb5 Ra8 32. Na3 Nc5+ 33. Kc2 g5 0-1
+

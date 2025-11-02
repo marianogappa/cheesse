@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yqdWRfsm"]
+[White "mustang83"]
+[Black "Rezik"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:00"]
+[WhiteElo "1183"]
+[BlackElo "1390"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "90+5"]
+[Termination "Time forfeit"]
+
+1. e4 d5 0-1
+

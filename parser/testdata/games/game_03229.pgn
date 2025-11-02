@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/y12ibpKb"]
+[White "starkjon"]
+[Black "TuZeman"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:14"]
+[WhiteElo "1306"]
+[BlackElo "1214"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-12"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. d4 e5 3. d5 Nd4 4. Be3 Bb4+ 5. c3 Bxc3+ 6. bxc3 Nb5 1-0
+

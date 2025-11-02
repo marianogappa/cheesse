@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/3BKdlpvX"]
+[White "laima1965"]
+[Black "carlosf101"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:09"]
+[WhiteElo "1774"]
+[BlackElo "2003"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Two Pawn Attack, Lasker Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Qb3 c6 6. Nc3 Nxc3 7. dxc3 d5 8. Bg5 Qc7 9. Nf3 Bg4 10. c4 Bxf3 11. Qxf3 Qxe5+ 12. Be3 Qxb2 13. Rc1 e6 14. cxd5 cxd5 15. Bb5+ Qxb5 0-1
+

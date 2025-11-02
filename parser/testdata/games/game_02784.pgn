@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/mwLpr4Dq"]
+[White "mejjes"]
+[Black "RustyRussell"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:26"]
+[WhiteElo "1281"]
+[BlackElo "1290"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "C44"]
+[Opening "King's Knight Opening: Normal Variation"]
+[TimeControl "1800+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d3 d5 4. exd5 Qxd5 5. Bg5 e4 6. dxe4 Qxe4+ 7. Be3 Nb4 8. Bd3 Qc6 9. Na3 Qe6 10. O-O Nxa2 11. Re1 Bxa3 12. Bc5 Bxc5 13. Rxe6+ Bxe6 14. b3 Nb4 15. Ne5 O-O-O 16. Qf3 Bd4 17. Ra4 Bd5 18. Qg3 Bxe5 19. Qg4+ Be6 20. Qxb4 Nf6 21. Rxa7 Kd7 22. Qb5+ Kd6 23. Qb4+ c5 24. Qb6+ Ke7 25. Rxb7+ Rd7 26. Qxc5+ Bd6 27. Qa7 Rc8 28. Rxd7+ Bxd7 29. g3 Nd5 30. Bxh7 Rxc2 31. Bxc2 Nb4 32. Bf5 1-0
+

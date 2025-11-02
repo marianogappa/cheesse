@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Ni7qnFIR"]
+[White "yentel"]
+[Black "devn13"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:55"]
+[WhiteElo "1592"]
+[BlackElo "1568"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d3 d5 3. Nc3 d4 4. Nb1 Nf6 5. Qf3 c5 6. h3 Bd6 7. Be2 O-O 8. Qg3 g6 9. h4 Nc6 10. a3 b5 11. h5 Be6 12. h6 Kh8 13. Bg5 c4 14. Bh4 Qa5+ 15. Nd2 Nh5 16. Bxh5 gxh5 17. Bf6# 1-0
+

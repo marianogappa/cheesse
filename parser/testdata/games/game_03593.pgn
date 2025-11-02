@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uzeyEoBC"]
+[White "MACROSPACE-1"]
+[Black "DOC57"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:43"]
+[WhiteElo "1605"]
+[BlackElo "1558"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Levitsky Attack"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Bg5 f6 3. Bh4 g5 4. Bg3 h5 5. h3 Bf5 6. Nc3 e6 7. Nb5 Bd6 8. Nxd6+ cxd6 9. e3 Qc7 10. Ne2 Bxc2 11. Qc1 Na6 12. Nc3 Bg6 13. Nb5 Qxc1+ 14. Rxc1 Ne7 15. Nxd6+ Kf8 16. Rc8+ Rxc8 17. Nxc8 Nxc8 18. Bxa6 bxa6 19. O-O Nd6 20. Rc1 Kg7 21. Bxd6 Rd8 22. Bc5 Ra8 23. Rc3 a5 24. Ra3 a6 25. Rxa5 Be4 26. b4 Bd3 27. f3 f5 28. Kf2 Kf6 29. Ke1 Bb5 30. a4 Bc4 31. Kd2 e5 32. b5 exd4 33. b6 Rb8 34. exd4 f4 35. g4 hxg4 36. hxg4 Ke6 37. Ke1 Kd7 38. Kf2 Kc6 39. Ke1 Rxb6 40. Bxb6 Kxb6 41. Rxd5 Bxd5 42. Kd2 Ka5 43. Kc3 Kxa4 44. Kd3 Kb5 45. Kc3 Ka4 46. Kd3 Ka3 47. Kc3 a5 48. Kc2 Ka2 49. Kc3 a4 50. Kb4 a3 51. Kc5 Bb3 52. d5 Bxd5 53. Kxd5 Kb2 54. Ke5 a2 55. Kf5 a1=Q 56. Kxg5 Kc1 57. Kxf4 Qf6+ 58. Kg3 Kd2 59. f4 Ke3 60. g5 1-0
+

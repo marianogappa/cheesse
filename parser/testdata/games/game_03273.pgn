@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/GgioPOu0"]
+[White "Pato16"]
+[Black "CarlosRim"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:29"]
+[WhiteElo "1628"]
+[BlackElo "1571"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C77"]
+[Opening "Ruy Lopez: Morphy Defense, Anderssen Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 Bc5 6. Bxc6 dxc6 7. Nxe5 O-O 8. Nf3 Bg4 9. O-O Qd7 10. Bg5 Qe6 11. Bxf6 Qxf6 12. Nbd2 Rae8 13. h3 Bh5 14. Qe1 Bxf3 15. Nxf3 Qg6 16. Nh4 Qg5 17. Nf3 Re6 18. Nxg5 Rg6 19. Nf3 Re8 20. Qc3 Ree6 21. Qxc5 Ref6 22. Kh1 Rh6 23. Kh2 Rxh3+ 24. gxh3 Rxf3 25. Qe5 g6 26. Qxc7 Kg7 27. Rae1 Rf6 28. Re3 Re6 29. f4 Kh6 30. Qxb7 f5 31. Qxa6 fxe4 32. Rxe4 Rxe4 33. dxe4 Kh5 34. e5 Kh6 35. e6 Kg7 36. e7 Kf7 37. e8=Q+ Kxe8 38. Qxc6+ Kf7 39. a4 Kg7 40. a5 Kh6 41. a6 Kh5 42. a7 Kh4 43. a8=Q Kh5 44. Qf3+ Kh4 45. c3 g5 46. c4 g4 47. Qxg4# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1pYo0LkA"]
+[White "BUCEFULO"]
+[Black "HugoEmilio"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:02"]
+[WhiteElo "1749"]
+[BlackElo "1683"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. c3 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. d4 b5 8. O-O c4 9. b3 Ne7 10. Bg5 h6 11. Bh4 Qa5 12. b4 Qb6 13. a3 Nf5 14. Bg3 Nxg3 15. fxg3 Be7 16. Nfd2 O-O 17. Nf3 a5 18. Nbd2 axb4 19. axb4 Rxa1 20. Qxa1 f6 21. Qa5 Qxa5 22. bxa5 f5 23. Ra1 Ra8 24. Nh4 b4 25. cxb4 Bxb4 26. Ndf3 Rxa5 27. Rxa5 Bxa5 28. Ng6 c3 29. Ne1 Ba4 30. Kf2 c2 31. Nxc2 Bxc2 32. Ke3 Kf7 33. Nf4 Be4 34. h3 g5 35. Ne2 Bxg2 36. h4 gxh4 37. gxh4 Be1 38. Nf4 Be4 39. h5 Bg3 40. Nd3 Bxd3 41. Kxd3 Ke7 42. Ke3 f4+ 43. Kf3 Kd7 44. Kg4 Kc6 45. Kf3 Kb5 46. Ke2 Kc4 47. Kd2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5basSUuI"]
+[White "heinrich16"]
+[Black "JK6"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:27"]
+[WhiteElo "1526"]
+[BlackElo "1542"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation #2"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Be7 5. c4 Nf6 6. Nc3 O-O 7. Be2 c5 8. Nb3 b6 9. O-O Bb7 10. Bf3 Nc6 11. Nd5 Nxd5 12. exd5 Ne5 13. Be2 f5 14. f4 Ng4 15. Bxg4 fxg4 16. Qxg4 Bc8 17. Qe2 a6 18. Re1 Bf6 19. Qc2 b5 20. Bd2 a5 21. cxb5 a4 22. Nc1 Bd4+ 23. Kh1 Bf5 24. Qd1 Qb6 25. Bc3 Qxb5 26. Bxd4 cxd4 27. Qxd4 Rae8 28. Re6 Qf1+ 29. Qg1 Qxf4 30. Rxd6 Qxd6 31. b3 Qxd5 32. bxa4 Qa5 33. Nb3 Qxa4 34. Nc5 Qb4 35. a3 Qb6 36. a4 Re5 37. Rc1 Bg6 38. Nd7 Qxg1+ 39. Kxg1 Ree8 40. Nxf8 Kxf8 41. a5 Ra8 42. Ra1 Bd3 43. Kf2 Ba6 44. Ke3 Rb8 45. g4 Rb3+ 46. Kf4 Rh3 47. Ra2 Rb3 48. h4 h6 0-1
+

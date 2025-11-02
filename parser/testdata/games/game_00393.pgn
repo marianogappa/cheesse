@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/r7QliMPR"]
+[White "PinkCat"]
+[Black "CMAG82"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:22"]
+[WhiteElo "1718"]
+[BlackElo "1724"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. c3 Bd7 6. Bd3 Qb6 7. O-O Nge7 8. dxc5 Qxc5 9. Be3 Qa5 10. b4 Qc7 11. Bc5 b6 12. Bd6 Qb7 13. Qe2 a6 14. Nd4 b5 15. a4 Ng6 16. Bxf8 Kxf8 17. Nxc6 Bxc6 18. axb5 axb5 19. Bxg6 hxg6 20. Rxa8+ Qxa8 21. Nd2 Qd8 22. Qd3 Qh4 23. h3 Qg5 24. Nf3 Qf4 25. Nd4 Bd7 26. Re1 Rh5 27. Qe3 Qg5 28. Qxg5 Rxg5 29. g4 f6 30. f4 1-0
+

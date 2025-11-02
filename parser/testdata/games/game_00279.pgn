@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4CS7BWoD"]
+[White "alexandreTEDEFONCE"]
+[Black "Carlseng"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:53"]
+[WhiteElo "2084"]
+[BlackElo "2324"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Bd6 5. Nc3 Ne7 6. Bd3 O-O 7. Bxh7+ Kxh7 8. Ng5+ Kg8 9. Qh5 Bf5 10. O-O Bg6 11. Qh3 Nbc6 12. Be3 Nb4 13. f4 Nf5 14. g4 Nxe3 15. Qxe3 Nxc2 16. Qh3 Nxa1 17. f5 Qxg5 18. fxg6 fxg6 19. Rxa1 Rae8 20. Qg2 Qe3+ 21. Kh1 c6 0-1
+

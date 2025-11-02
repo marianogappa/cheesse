@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/XqYupX1g"]
+[White "svizzero"]
+[Black "a-man"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:05"]
+[WhiteElo "1273"]
+[BlackElo "1257"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Nf3 f6 3. e3 e5 4. c4 exd4 5. Qxd4 c5 6. Qxd5 Qxd5 7. cxd5 c4 8. Bxc4 Bb4+ 9. Bd2 Bxd2+ 10. Nbxd2 a6 11. e4 b5 12. Bd3 Nd7 13. O-O Nc5 14. Bc2 Nxe4 15. Nxe4 f5 16. Nd6+ Kd7 17. Nf7 Nf6 18. Nxh8 Bb7 19. Rfe1 Nxd5 20. Rad1 Rxh8 21. Bxf5+ Kd6 22. Be4 Rf8 23. Rd2 Kc5 24. Rc1+ Kb4 25. Bxd5 Bxd5 26. Rxd5 Ka5 27. a3 Kb6 28. b4 a5 29. Rd6+ Kb7 30. Rc5 Kb8 31. Rxb5+ Kc7 32. Ra6 1-0
+

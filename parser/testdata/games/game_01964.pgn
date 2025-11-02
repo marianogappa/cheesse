@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/LP1fNCGa"]
+[White "asandrey2"]
+[Black "soufle"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:23"]
+[WhiteElo "1983"]
+[BlackElo "2001"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+11"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Pin Variation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 Nc6 7. f3 Nxd4 8. Bg5 Be7 9. Qd2 h6 10. Be3 Nc6 11. O-O-O d5 12. e5 Nxe5 13. Bb5+ Bd7 14. Bf4 Nc6 15. g4 O-O 16. g5 hxg5 17. Bxg5 a6 18. Bd3 Ne5 19. f4 Nxd3+ 20. Qxd3 Ng4 21. h4 f5 22. Nxd5 exd5 23. Qxd5+ Rf7 24. Qxd7 Bxg5 25. Qxf7+ Kxf7 26. Rxd8 Bxf4+ 27. Kd1 Rxd8+ 28. Ke2 Rd2+ 29. Kf3 Be5 0-1
+

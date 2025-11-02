@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HBhKepKb"]
+[White "ElCretino78"]
+[Black "EaSy_LaMbORGhiNi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:49"]
+[WhiteElo "1832"]
+[BlackElo "1868"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+42"]
+[ECO "C91"]
+[Opening "Ruy Lopez: Closed Variations, Bogoljubov Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.27] } 1... e5 { [%eval 0.35] } 2. Nf3 { [%eval 0.31] } 2... Nc6 { [%eval 0.27] } 3. Bb5 { [%eval 0.25] } 3... a6 { [%eval 0.25] } 4. Ba4 { [%eval 0.27] } 4... Nf6 { [%eval 0.33] } 5. O-O { [%eval 0.23] } 5... Be7 { [%eval 0.41] } 6. Re1 { [%eval 0.38] } 6... b5 { [%eval 0.42] } 7. Bb3 { [%eval 0.34] } 7... d6 { [%eval 0.46] } 8. c3 { [%eval 0.28] } 8... O-O { [%eval 0.41] } 9. d4 { [%eval 0.15] } 9... Bg4 { [%eval 0.26] } 10. Nbd2?! { [%eval -0.62] } 10... Na5? { [%eval 0.66] } 11. Bc2 { [%eval 0.26] } 11... c5 { [%eval 0.69] } 12. d5 { [%eval 0.41] } 12... c4 { [%eval 0.69] } 13. Nf1 { [%eval 0.36] } 13... Re8 { [%eval 0.74] } 14. h3 { [%eval 0.33] } 14... Bd7 { [%eval 0.33] } 15. Ng3 { [%eval 0.28] } 15... g6 { [%eval 0.61] } 16. h4?! { [%eval -0.06] } 16... h5 { [%eval 0.14] } 17. Ng5 { [%eval -0.16] } 17... Nb7 { [%eval -0.05] } 18. Be3 { [%eval -0.26] } 18... Qc7 { [%eval 0.0] } 19. f4?! { [%eval -0.63] } 19... Ng4 { [%eval -0.31] } 20. Qe2?! { [%eval -0.82] } 20... Nc5?! { [%eval -0.26] } 21. fxe5?! { [%eval -1.08] } 21... dxe5 { [%eval -0.91] } 22. Qf3 { [%eval -1.39] } 22... Rf8 { [%eval -1.39] } 23. Bd2? { [%eval -2.6] } 23... Nb7?! { [%eval -1.79] } 24. Rf1 { [%eval -1.78] } 24... Nd6 { [%eval -1.32] } 25. Nh3? { [%eval -3.17] } 25... Qc5+ { [%eval -2.93] } 26. Kh1 { [%eval -2.99] } 26... f5?! { [%eval -2.17] } 27. Bh6?? { [%eval -7.06] } 27... Rf7?? { [%eval -2.56] } 28. exf5? { [%eval -4.61] } 28... Bxf5?? { [%eval -0.94] } 29. Bxf5 { [%eval -1.1] } 29... Nxf5 { [%eval -1.24] } 30. Nxf5? { [%eval -2.9] } 30... Rxf5 { [%eval -2.62] } 31. Qe2? { [%eval -5.02] } 31... Nxh6 { [%eval -4.87] } 32. Rxf5 { [%eval -5.04] } 32... Nxf5 { [%eval -4.69] } 33. Rf1?? { [%eval -20.93] } 33... Qe3?? { [%eval -6.18] } 34. Qd1?? { [%eval -12.08] } 34... Ng3+ { [%eval -10.32] } 0-1
+

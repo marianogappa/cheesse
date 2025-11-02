@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CaIRufMD"]
+[White "evigel"]
+[Black "John_McClane"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "2454"]
+[BlackElo "2409"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "D70"]
+[Opening "Neo-Gruenfeld Defense: Goglidze Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. a4 Bg7 7. a5 N6d7 8. Nc3 O-O 9. Be3 c5 10. d5 Na6 11. Qd2 Nb4 12. h4 Rb8 13. h5 b6 14. hxg6 fxg6 15. Bc4 bxa5 16. d6+ Kh8 17. Bh6 Ne5 18. Bxg7+ Kxg7 19. Qh6+ Kf6 20. dxe7 Nc2+ 21. Kf1 Qxe7 22. Nd5+ Ke6 23. Nxe7+ Kxe7 24. Qg7+ Nf7 25. Rxh7 1-0
+

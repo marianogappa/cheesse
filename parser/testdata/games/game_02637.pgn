@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HPMT0gDt"]
+[White "apl48"]
+[Black "Jombibo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:59"]
+[WhiteElo "1545"]
+[BlackElo "1342"]
+[WhiteRatingDiff "-21"]
+[BlackRatingDiff "+19"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "120+8"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nc6 5. Bb5 Bd7 6. Qe2 a6 7. Bxc6 Bxc6 8. O-O f6 9. Nc3 e6 10. a3 Qd7 11. b4 b5 12. Bf4 Bd6 13. Bxd6 Qxd6 14. Rae1 Ne7 15. Qxe6 Qxe6 16. Rxe6 Ra7 17. Rfe1 Kf7 18. Nh4 Re8 19. Nf5 Nxf5 20. Rxc6 Rxe1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/3P0ZmHyj"]
+[White "klunkerkoenig"]
+[Black "Lvictor"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:40"]
+[WhiteElo "1941"]
+[BlackElo "1945"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e3 e6 2. Be2 d5 3. Nf3 c5 4. d3 Nc6 5. O-O Nf6 6. c3 Be7 7. Bd2 O-O 8. b3 d4 9. c4 dxe3 10. Bxe3 b6 11. h3 Bb7 12. Nbd2 Qd7 13. Ne4 Rfd8 14. Qc2 Nb4 15. Qc3 Nxe4 16. dxe4 Bxe4 17. a3 Nc6 18. Rad1 Qc7 19. g3 Qb7 20. Nd2 Bf5 21. g4 Bg6 22. f4 Nd4 23. Bxd4 cxd4 24. Qg3 d3 25. Bf3 Bc5+ 26. Kh2 Qc7 27. h4 h6 28. g5 h5 29. Ne4 Bxe4 30. Bxe4 Bd6 31. Rxd3 Rdb8 32. Rfd1 Rd8 33. Qf3 Bxf4+ 34. Kh3 Rxd3 35. Rxd3 Rb8 36. Rd7 e5 37. Rxc7 Rd8 38. Rb7 Rd2 39. Qg2 Rf2 40. Qxf2 Bxg5 41. Qf3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/rKTIPx0k"]
+[White "gronemann"]
+[Black "Andrexov"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:32"]
+[WhiteElo "2013"]
+[BlackElo "1813"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-6"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Englund Gambit"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Bf4 Qb4+ 5. Bd2 Qxb2 6. Bc3 Bb4 7. Bxb4 Qxa1 8. Bc3 Qxa2 9. e3 Nh6 10. Bd3 O-O 11. O-O Qe6 12. Nbd2 d6 13. exd6 Qxd6 14. Qa1 f6 15. Ne4 Qe7 16. Rb1 Ng4 17. Bb2 Nge5 18. Ba3 Nxf3+ 19. gxf3 Qf7 20. Bxf8 Qxf8 21. Qa4 Bd7 22. Rxb7 Ne5 23. Qb3+ Kh8 24. Rxc7 Bf5 25. Nc5 Nxd3 26. Nxd3 Bxd3 27. cxd3 1-0
+

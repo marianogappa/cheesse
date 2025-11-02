@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Zi55OhB3"]
+[White "somberscott"]
+[Black "parmenides_aletheia"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:13"]
+[WhiteElo "1126"]
+[BlackElo "1051"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "E00"]
+[Opening "Amar Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. Nh3 b5 1-0
+

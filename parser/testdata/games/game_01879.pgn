@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/XVpUNLDM"]
+[White "OMB1"]
+[Black "peppefabi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:04"]
+[WhiteElo "1607"]
+[BlackElo "1575"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+20"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 g6 4. c3 Bg7 5. e3 O-O 6. h3 Nbd7 7. Ne5 e6 8. Bd3 c5 9. Nd2 c4 10. Bc2 Nxe5 11. Bxe5 a6 12. O-O b5 13. Bxf6 Bxf6 14. e4 dxe4 15. Bxe4 Rb8 16. Qe2 Bg7 17. Bf3 Bb7 18. Bxb7 Rxb7 19. Qf3 Rd7 20. Ne4 e5 21. dxe5 Bxe5 22. Rad1 Rxd1 23. Rxd1 Qe7 24. Ng3 Bxg3 25. fxg3 Re8 26. a3 Qe2 27. Qxe2 Rxe2 28. Rd6 Rxb2 29. Rxa6 Rb3 30. Ra5 Rxc3 31. Rxb5 Rxa3 32. Rc5 Rc3 33. g4 Rc1+ 34. Kf2 c3 35. Ke3 c2 36. Kd2 Rg1 37. Kxc2 Rxg2+ 38. Kd1 Rg3 39. g5 Rxg5 40. Ke2 Rh5 41. Rxh5 gxh5 42. Kf3 Kg7 43. Kf4 Kg6 44. h4 h6 45. Ke5 f5 46. Kf4 Kf6 47. Ke3 Ke5 48. Kf3 f4 49. Ke2 Kf5 50. Kf3 Ke5 51. Kf2 Ke4 52. Ke2 f3+ 53. Kf2 Kf4 54. Kf1 Kg3 55. Kg1 Kxh4 56. Kf2 Kg4 0-1
+

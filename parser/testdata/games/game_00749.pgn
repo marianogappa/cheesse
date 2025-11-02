@@ -1,0 +1,18 @@
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/y1DfysJe"]
+[White "nurgima"]
+[Black "Sinthe"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:46"]
+[WhiteElo "1283"]
+[BlackElo "1468"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+[TimeControl "-"]
+[Termination "Normal"]
+
+1. Nf3 Nc6 2. Nc3 e5 3. e4 Nf6 4. Bc4 Bc5 5. d3 O-O 6. Be3 Bb4 7. O-O d6 8. Qe2 Bg4 9. Bg5 a6 10. h3 Be6 11. Bxe6 fxe6 12. Rad1 Nd4 13. Nxd4 exd4 14. Nb1 Qd7 15. Qf3 e5 16. Rfe1 Qf7 17. c3 Bc5 18. Nd2 dxc3 19. bxc3 Rae8 20. Rb1 Nh5 21. Rxb7 Bxf2+ 22. Kxf2 h6 23. Bh4 Nf4 24. Nc4 Qd5 25. Rxc7 Nxd3+ 26. Ke3 Qb5 27. Kxd3 Qb8 28. Qh5 Qxc7 29. Re3 Rc8 30. Rg3 Qxc4+ 31. Kc2 Qxa2+ 32. Kd3 Qb1+ 33. Ke3 Rxc3+ 34. Kd2 Rxg3 35. Bxg3 Qxe4 36. Qh4 Qxg2+ 37. Ke3 Qf3+ 38. Kd2 Qg2+ 39. Ke3 Rb8 40. Qc4+ d5 41. Qxa6 Rb3+ 42. Qd3 Qxg3+ 43. Kd2 Qxd3+ 44. Kc1 Qe2 45. h4 Rc3+ 46. Kb1 Rc2 47. h5 Rb2+ 48. Ka1 Rd2 49. Kb1 Qe1# 0-1
+

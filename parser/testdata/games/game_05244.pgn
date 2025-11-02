@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1SBWIyl8"]
+[White "marquez7"]
+[Black "Dauren_517"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:10"]
+[WhiteElo "1408"]
+[BlackElo "1402"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-23"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 g6 3. e5 e6 4. Nf3 d5 5. exd6 Bxd6 6. d3 a6 7. a3 Nc6 8. Nc3 Nd4 9. Nxd4 cxd4 10. Ne4 f5 11. Nxd6+ Qxd6 12. O-O Nf6 13. Re1 O-O 14. Rxe6 Bxe6 15. Bxe6+ Qxe6 16. Bh6 Rfe8 17. h3 Rac8 18. Qd2 b6 19. b4 Rc6 20. Bg5 Nd5 21. a4 Nc3 22. b5 axb5 23. axb5 Nxb5 24. Qb4 Nc3 25. Ra7 Qe1+ 26. Kh2 Nd5 27. Qxd4 Rd6 28. Qg7# 1-0
+

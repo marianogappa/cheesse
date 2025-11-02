@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qaxOrDML"]
+[White "MonteiroERM"]
+[Black "franzzi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:05"]
+[WhiteElo "1703"]
+[BlackElo "1803"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-15"]
+[ECO "D53"]
+[Opening "Queen's Gambit Declined: 4.Bg5 Be7"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bg5 e6 3. c4 Be7 4. Nc3 d5 5. e3 h6 6. Bh4 c6 7. Bd3 O-O 8. Nf3 Nbd7 9. Qc2 dxc4 10. Bxc4 Nd5 11. Bxe7 Qxe7 12. Bxd5 exd5 13. O-O-O a5 14. Na4 Qd6 15. Nc5 b6 16. Nxd7 Bxd7 17. Ne5 Be8 18. Kb1 c5 19. f4 c4 20. e4 b5 21. Rhe1 f6 22. Nf3 dxe4 23. Qxe4 Bf7 24. Nh4 c3 25. Nf5 Qb4 26. b3 Bxb3 27. Ne7+ Kf7 28. Qg6# 1-0
+

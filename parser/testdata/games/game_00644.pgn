@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZOG2TP1W"]
+[White "st716"]
+[Black "SSStepan333"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:20"]
+[WhiteElo "1221"]
+[BlackElo "1216"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+14"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation #3"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 e6 3. d4 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 Nf6 6. Nf3 Ne4 7. Qb4 b6 8. Nc3 a5 9. Nxe4 axb4 10. Neg5 O-O 11. Bb5 h6 12. Nh3 c6 13. Bxc6 Nxc6 14. O-O Ne7 15. b3 b5 16. Rfc1 Ba6 17. c3 bxc3 18. Rxc3 Qb6 19. Rd1 b4 20. Rc5 Qxc5 21. dxc5 Rac8 22. Rc1 f6 23. exf6 gxf6 24. g4 e5 25. g5 hxg5 26. Rc2 e4 27. Nd4 g4 28. Nf4 f5 29. Nde6 Rfe8 30. Nxd5 Nxd5 31. c6 Nc3 32. c7 Bd3 33. Rc1 Rxe6 34. Kg2 Rxc7 35. Kg3 Ne2+ 36. Kh4 Nxc1 37. Kg5 Rg7+ 38. Kxf5 Rgg6 39. Kf4 Ne2+ 40. Kf5 Nd4+ 41. Kf4 Nc2 42. Kf5 e3+ 43. Kf4 exf2 44. Kg3 f1=Q 45. Kh4 Qh3# 0-1
+

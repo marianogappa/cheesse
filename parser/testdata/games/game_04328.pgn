@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wl1bYBnD"]
+[White "steveclank"]
+[Black "mehrsam_esm1395"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:39"]
+[WhiteElo "1596"]
+[BlackElo "1700"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "D21"]
+[Opening "Queen's Gambit Accepted: Normal Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Bg4 4. e3 Qd5 5. Nc3 Bxf3 6. Nxd5 Bxd1 7. Nc3 Bh5 0-1
+

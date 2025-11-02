@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QuXgqngq"]
+[White "TONYBRAZIL"]
+[Black "Nebril"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:55"]
+[WhiteElo "1203"]
+[BlackElo "1336"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-15"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense"]
+[TimeControl "180+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Bxf7+ Kxf7 5. c3 Nxe4 6. O-O d5 7. d3 Nf6 8. d4 Bg4 9. Ng5+ Ke7 10. Qb3 exd4 11. Qxb7 dxc3 12. Re1+ Ne4 13. Qxc6 Bd7 14. Qxd5 Be6 15. Qxe6# 1-0
+

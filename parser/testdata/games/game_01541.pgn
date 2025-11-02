@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/KK9CGvTU"]
+[White "AngelSeba"]
+[Black "David0709"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:46"]
+[WhiteElo "1140"]
+[BlackElo "1127"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C25"]
+[Opening "Vienna Game: Max Lange Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nh6 4. Qh5 Qe7 5. Nf3 Nd4 6. Nxe5 Nxc2+ 7. Kf1 Nxa1 8. Nxf7 Nxf7 9. Ke1 g6 10. Qb5 c6 11. Qb6 axb6 12. Bxf7+ Qxf7 13. Kd1 Qxf2 14. Re1 Qxg2 15. Re2 Qg1+ 16. Re1 Qxh2 17. Re2 Qh1+ 18. Re1 Qh5+ 19. Re2 d5 20. exd5+ Be7 21. dxc6 bxc6 22. d3 Bg4 23. b4 Qh1+ 24. Kd2 Bxe2 25. Kxe2 Qh2+ 26. Ke3 Bg5+ 27. Ke4 O-O 28. Bb2 Rfe8+ 29. Kd4 Qf4+ 30. Ne4 Rxe4+ 31. dxe4 Qe3+ 32. Ke5 Re8+ 33. Kd6 Qf4+ 34. Kxc6 Qf6+ 35. Kb5 Re5+ 36. Bxe5 Qxe5+ 37. Kxb6 Bd8+ 38. Kc6 Qc7+ 39. Kd5 Nc2 40. b5 Ne3+ 41. Ke6 Qe7# 0-1
+

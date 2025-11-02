@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4QVSNTvR"]
+[White "etaoin"]
+[Black "imagrouchyguy"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:54"]
+[WhiteElo "1469"]
+[BlackElo "1584"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "B80"]
+[Opening "Sicilian Defense: Scheveningen Variation, English Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. Qd2 Be7 8. f4 Nbd7 9. O-O-O O-O 10. f5 e5 11. Nf3 b5 12. Rg1 Bb7 13. Bd3 Rc8 14. g4 b4 15. Ne2 Nxe4 16. Bxe4 Bxe4 17. Ne1 Bh4 18. Ng3 Bxg3 19. Rxg3 Qa5 20. Kb1 b3 21. axb3 Qxd2 22. Bxd2 d5 23. Rc1 Nc5 24. Bb4 Nxb3 25. Bxf8 Kxf8 26. Rxb3 1-0
+

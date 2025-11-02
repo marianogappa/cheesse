@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0XfjQ6I4"]
+[White "ssi"]
+[Black "mazatec"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:35"]
+[WhiteElo "1717"]
+[BlackElo "1635"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "C87"]
+[Opening "Ruy Lopez: Closed Variations, Averbakh Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. O-O a6 5. Ba4 Nf6 6. Re1 Be7 7. d4 O-O 8. d5 Nb8 9. h3 b5 10. Bb3 Nbd7 11. a4 Nc5 12. axb5 Ncxe4 13. bxa6 Bxa6 14. Nbd2 Nc5 15. c4 Qd7 16. Bc2 Nb7 17. b4 c5 18. b5 Bxb5 19. Rxa8 Rxa8 20. cxb5 Qxb5 21. Ne4 Nxd5 22. Qxd5 Ra1 23. Neg5 Qe8 24. Qe4 1-0
+

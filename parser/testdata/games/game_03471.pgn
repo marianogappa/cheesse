@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KjXmZQBD"]
+[White "lctrs"]
+[Black "Pau225"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:13"]
+[WhiteElo "1493"]
+[BlackElo "1324"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. Bf4 Bd6 3. Be5 Bxe5 4. dxe5 Nc6 5. Nf3 b6 6. e3 Bb7 7. Bd3 h6 8. c3 Nce7 9. Nbd2 Bxf3 10. Nxf3 d6 11. O-O dxe5 12. Nxe5 Nf6 13. Qe2 O-O 14. Rad1 Ned5 15. c4 Qd6 16. f4 Nxe3 17. Qxe3 g6 18. Bxg6 Qb4 19. Bd3 Qxb2 20. Qg3+ Kh8 21. Qh3 Kg7 22. Ng4 Nxg4 23. Qxg4+ Kh8 24. Qh5 f5 25. Qxh6+ Kg8 26. Rf3 Rf6 27. Rg3+ Kf7 28. Qh7+ Ke8 29. Rg8+ Rf8 30. Rxf8+ Kxf8 31. Qh6+ Ke7 32. Qh7+ Kf6 33. Be2 Rf8 34. Qh4+ Kf7 35. Rd7+ 1-0
+

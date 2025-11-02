@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OISWFJrY"]
+[White "Mashhour1985"]
+[Black "Aerfest"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:46"]
+[WhiteElo "1755"]
+[BlackElo "2043"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[ECO "B00"]
+[Opening "Caro-Kann Defense: Hillbilly Attack"]
+[TimeControl "180+1"]
+[Termination "Normal"]
+
+1. e4 c6 2. Bc4 d5 3. exd5 cxd5 4. Bb5+ Nc6 5. Nf3 Qb6 6. Nc3 Nf6 7. O-O Bg4 8. h3 Bh5 9. a4 e6 10. a5 Qc7 11. d3 Bd6 12. Ba4 O-O 13. Nb5 Qd7 14. Nbd4 Rac8 15. c4 e5 16. c5 Bxc5 17. Nxe5 Bxd1 18. Rxd1 Nxe5 19. Bxd7 Nfxd7 20. Nb3 d4 21. Bf4 Ng6 22. Bg3 Rfe8 23. Rac1 Bb4 24. Rc4 Rxc4 25. dxc4 Nc5 26. Nxd4 Bxa5 27. Nb5 h6 28. Rd5 Ne4 29. Rd7 Nxg3 30. fxg3 Bb6+ 31. Kh2 Re2 32. Rxb7 Re1 33. h4 Ne5 34. Nxa7 Bg1+ 35. Kh3 h5 36. Nc8 Ng4 37. Ne7+ Kh7 38. Nd5 Bd4 0-1
+

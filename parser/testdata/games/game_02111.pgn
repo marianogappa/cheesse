@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qLSSpa0y"]
+[White "xhessnuub"]
+[Black "beratberat"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:58"]
+[WhiteElo "954"]
+[BlackElo "960"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-18"]
+[ECO "C25"]
+[Opening "Vienna Game: Max Lange Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. d3 f6 4. f3 Bb4 5. Bd2 Nh6 6. Qe2 Qe7 7. O-O-O b6 8. a3 Bc5 9. Be3 Nd4 10. Bxd4 exd4 11. Nd5 Ba6 12. Nxe7 Kxe7 13. c4 d5 14. exd5+ Kd6 15. Qe6# 1-0
+

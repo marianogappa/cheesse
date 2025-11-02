@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/83KQwGHI"]
+[White "misumatto"]
+[Black "gorynyh"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:16"]
+[WhiteElo "1603"]
+[BlackElo "1615"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "-1"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 d6 6. Nc3 c5 7. Qd1 Be6 8. Bb5+ Bd7 9. Bc4 a6 10. O-O b5 11. Bd5 Ra7 12. Qh5 g6 13. Qf3 Qf6 14. Qe3 Qe5 15. f4 Qd4 16. Qxd4 cxd4 17. Ne2 Be6 18. Bxe6 fxe6 19. Nxd4 e5 20. fxe5 dxe5 21. Nc6 Rc7 22. Nxe5 Rxc2 23. Rd1 Bc5+ 24. Kf1 Nf6 25. Rd2 Rxd2 26. Bxd2 Nxe4 27. Ba5 O-O+ 28. Ke2 Ng5 29. Rc1 Bd4 30. Nd3 Re8+ 31. Kd2 Ne4+ 32. Kc2 Nd6 33. Kb1 Nc4 34. Bc3 Bxc3 35. Rxc3 Re2 36. b3 Nd2+ 37. Kc1 Ne4 38. Rc8+ Kg7 39. Rc2 Rxc2+ 40. Kxc2 Kf6 41. b4 Kf5 42. h3 h5 43. Kb3 Nd2+ 44. Kc3 Nc4 45. Nc5 a5 46. a4 axb4+ 47. Kxb4 Nd6 48. axb5 Kf4 49. Nd3+ Kg3 50. Kc5 Nxb5 51. Kxb5 Kxg2 52. Nf4+ Kg3 53. Nxg6 Kxh3 54. Kb4 Kg4 55. Kc3 Kg5 56. Ne5 h4 57. Nf3+ Kg4 58. Nxh4 1/2-1/2
+

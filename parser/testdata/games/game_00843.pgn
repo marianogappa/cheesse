@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/s5UCJ0Qq"]
+[White "bchessguru"]
+[Black "Merblacky123"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:10"]
+[WhiteElo "1772"]
+[BlackElo "1794"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B43"]
+[Opening "Sicilian Defense: Kan Variation, Knight Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 d6 6. Bd3 Nd7 7. O-O Qc7 8. Be3 b5 9. b4 Qxc3 10. e5 dxe5 11. Ne2 Qxb4 12. Be4 Rb8 13. Ba7 Qxe4 14. Bxb8 Nxb8 15. Nc3 Qc6 16. Qd3 Bb7 17. Rfd1 Qxg2# 0-1
+

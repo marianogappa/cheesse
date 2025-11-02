@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/6XzEmXaJ"]
+[White "pampopp"]
+[Black "bachkop999"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:06"]
+[WhiteElo "1397"]
+[BlackElo "1369"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+13"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Franco-Nimzowitsch Variation"]
+[TimeControl "0+2"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Nf3 e6 3. d4 Be7 4. d5 exd5 5. exd5 Nb8 6. c4 Nf6 7. Be2 O-O 8. O-O h6 9. b3 d6 10. Bb2 Bf5 11. Nbd2 Qc8 12. Nd4 Nbd7 13. Nxf5 Ne5 14. Bxe5 Qxf5 15. Bxf6 Bxf6 16. Nf3 Be5 17. Nd4 Qf4 18. Nc2 Qxh2# 0-1
+

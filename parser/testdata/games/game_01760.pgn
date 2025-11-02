@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pXvg8PGp"]
+[White "vassallo2016"]
+[Black "hakannoktay"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:36"]
+[WhiteElo "1394"]
+[BlackElo "1415"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Van der Wiel Attack"]
+[TimeControl "300+1"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.17] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.27] } 2... d5 { [%eval 0.34] } 3. e5 { [%eval 0.35] } 3... Bf5 { [%eval 0.41] } 4. Nc3 { [%eval 0.1] } 4... e6 { [%eval 0.2] } 5. Nf3 { [%eval 0.2] } 5... c5 { [%eval 0.31] } 6. dxc5 { [%eval -0.01] } 6... Bxc5 { [%eval 0.0] } 7. Bd2?! { [%eval -0.64] } 7... Nc6 { [%eval -0.31] } 8. Ng5? { [%eval -2.93] } 8... h6? { [%eval -1.31] } 9. Nf3 { [%eval -1.39] } 9... Nge7 { [%eval -1.12] } 10. Bb5?! { [%eval -1.73] } 10... a6 { [%eval -1.5] } 11. Bxc6+ { [%eval -1.68] } 11... Nxc6 { [%eval -1.55] } 12. Be3?? { [%eval -4.68] } 12... Bxe3? { [%eval -2.08] } 13. fxe3 { [%eval -1.95] } 13... O-O { [%eval -1.8] } 14. O-O { [%eval -1.92] } 14... Qb6 { [%eval -1.85] } 15. Re1?! { [%eval -2.73] } 15... Qxb2 { [%eval -2.69] } 16. Qd2 { [%eval -2.96] } 16... Qxc2 { [%eval -2.71] } 17. Qxc2 { [%eval -2.95] } 17... Bxc2 { [%eval -2.79] } 18. Rac1 { [%eval -2.84] } 18... Bf5 { [%eval -2.56] } 19. h3?! { [%eval -3.35] } 19... b5? { [%eval -1.52] } 20. Nd4? { [%eval -3.15] } 20... Nxe5?! { [%eval -2.24] } 21. g4? { [%eval -4.35] } 21... Be4?! { [%eval -3.57] } 22. Nxe4 { [%eval -3.54] } 22... Nf3+?? { [%eval 1.28] } 23. Nxf3 { [%eval 1.2] } 23... dxe4 { [%eval 1.32] } 24. Ne5 { [%eval 1.13] } 24... Rac8 { [%eval 1.06] } 25. Rxc8? { [%eval 0.0] } 25... Rxc8 { [%eval 0.0] } 26. Nd7 { [%eval -0.04] } 26... Rc2 { [%eval -0.12] } 27. a3 { [%eval -0.27] } 27... Ra2 { [%eval 0.0] } 28. Nc5 { [%eval -0.08] } 28... Rxa3 { [%eval -0.08] } 29. Nxe4 { [%eval -0.08] } 29... b4 { [%eval -0.04] } 30. Nc5?! { [%eval -0.6] } 30... b3?! { [%eval 0.05] } 31. Nd3?! { [%eval -0.61] } 31... a5 { [%eval -0.56] } 32. Rb1?! { [%eval -1.41] } 32... a4?! { [%eval -0.47] } 33. Rc1? { [%eval -2.85] } 33... Ra2 { [%eval -2.94] } 34. Rc8+? { [%eval -4.27] } 34... Kh7 { [%eval -4.16] } 35. Rb8 { [%eval -4.07] } 35... Rd2 { [%eval -3.78] } 36. Nb4?? { [%eval -11.51] } 36... b2 { [%eval -10.2] } 37. Na6?! { [%eval #-6] } 37... Rd1+?! { [%eval -16.56] } 38. Kf2?! { [%eval #-13] } 38... b1=Q { [%eval #-12] } 39. Rxb1 { [%eval #-13] } 39... Rxb1 { [%eval #-21] } 40. Nc5 { [%eval #-12] } 40... a3 { [%eval -60.57] } 41. Na4?! { [%eval #-9] } 41... a2 { [%eval #-8] } 42. Nc3 { [%eval #-8] } 42... Rb2+ { [%eval #-7] } 43. Kf3 { [%eval #-7] } 43... a1=Q { [%eval #-6] } 0-1
+

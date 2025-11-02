@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/22U6LjQp"]
+[White "onurduyuyorum"]
+[Black "VOX767"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:20"]
+[WhiteElo "1218"]
+[BlackElo "1070"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+15"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. f3 d4 3. c3 d3 4. Nh3 f5 5. exf5 Bxf5 6. Nf4 e5 7. g4 exf4 8. gxf5 Qe7+ 9. Kf2 Qh4+ 10. Kg1 Bc5+ 11. Kg2 Qf2+ 12. Kh3 g5 13. Bxd3 h5 14. Re1+ Ne7 15. Rxe7+ Bxe7 16. Qf1 Qh4+ 17. Kg2 g4 18. fxg4 hxg4 19. f6 Qxh2# 0-1
+

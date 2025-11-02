@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/DNEzDRao"]
+[White "Jackson-CBX"]
+[Black "YellowKiDD"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:39"]
+[WhiteElo "1640"]
+[BlackElo "1570"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C62"]
+[Opening "Ruy Lopez: Steinitz Defense"]
+[TimeControl "1200+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d3 Bd7 5. Ng5 Qf6 6. Bc4 Be6 7. Nxe6 fxe6 8. O-O a6 9. Be3 h5 10. c3 g5 11. d4 g4 12. dxe5 Nxe5 13. Bd4 Nh6 14. g3 Nf3+ 15. Kh1 e5 16. Be3 h4 17. Be2 hxg3 18. fxg3 Nxh2 19. Rxf6 Nf3 20. Bxh6 Bxh6 21. Bxf3 Be3+ 22. Kg2 O-O-O 23. Bxg4+ Kb8 24. Kf3 Ba7 25. Na3 Rh7 26. b4 Rg8 27. Be6 Rgg7 28. Rf8# 1-0
+

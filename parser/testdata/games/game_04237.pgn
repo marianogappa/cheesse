@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AebpasmL"]
+[White "XQXQ"]
+[Black "EastNasty"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:12"]
+[WhiteElo "918"]
+[BlackElo "1146"]
+[WhiteRatingDiff "+142"]
+[BlackRatingDiff "-20"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Qh5 Nf6 3. Qxc5 Nxe4 4. Qe3 Ng5 5. Qxg5 f6 6. Qg3 g5 7. d4 Bh6 8. Qg4 O-O 9. Qh5 e5 10. Qxh6 exd4 11. Bd3 d5 12. Qxh7# 1-0
+

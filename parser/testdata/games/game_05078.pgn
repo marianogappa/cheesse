@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FbL1RqmV"]
+[White "riesgo27"]
+[Black "Alekhzin"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:31"]
+[WhiteElo "1246"]
+[BlackElo "1273"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Qe2 Qg6 5. Nd5 Na6 6. Qf3 Bg4 7. Qe3 O-O-O 8. Bxa6 Rxd5 9. f3 Bd7 10. Qxa7 Re5+ 11. Ne2 Bc6 12. Qa8+ Kd7 13. Qxf8 bxa6 14. O-O h6 15. Nf4 Qf6 16. d3 g5 17. Nh5 Qg6 18. g4 Rh7 19. Qb8 Nf6 20. Nxf6+ exf6 21. Bd2 h5 22. Ba5 Ke6 23. Qxc7 Bd5 24. Qd7+ Kxd7 0-1
+

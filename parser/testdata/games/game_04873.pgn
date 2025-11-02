@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/NaFP1Bp2"]
+[White "torodan"]
+[Black "wochirw"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:48"]
+[WhiteElo "1261"]
+[BlackElo "1306"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-17"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Qf6 3. Nf3 Bc5 4. d3 Nh6 5. Bg5 O-O 6. Bxf6 gxf6 7. Nh4 d6 8. Nf5 Bxf5 9. exf5 Nd7 10. Qg4+ Kh8 11. Qh5 Ng8 12. Bxf7 Rae8 13. Bg6 Re7 14. Nc3 Nb6 15. Ne4 d5 16. Nxc5 c6 17. O-O-O d4 18. Ne6 Rc8 19. Nc5 Rf8 20. g4 Nd5 21. Ne6 Nf4 22. Nxf4 Rg7 23. Ne6 a6 24. Nxf8 b5 25. Ne6 a5 26. Nxg7 a4 27. Qxh7# 1-0
+

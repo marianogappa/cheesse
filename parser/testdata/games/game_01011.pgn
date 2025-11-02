@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/UnHAAHZt"]
+[White "fantockan"]
+[Black "Karlchen"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:45"]
+[WhiteElo "1502"]
+[BlackElo "1536"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. e5 e6 3. d4 d5 4. exd6 Qxd6 5. Nf3 Be7 6. Nc3 Nf6 7. Be2 O-O 8. Be3 Nbd7 9. Qd2 b5 10. Bf4 Qb4 11. a3 Qa5 12. Qd3 c5 13. Bd2 c4 14. Qe3 Qd8 15. Nxb5 Bb7 16. Bb4 Bxb4+ 17. axb4 Nd5 18. Qd2 c3 19. bxc3 N7f6 20. Ne5 Rc8 21. c4 Ne7 22. c5 Bxg2 23. Rg1 Be4 24. Nd6 Ra8 25. Nxe4 Nxe4 26. Qe3 Nf6 27. O-O-O Qd5 28. Nd3 Qa2 29. Kd2 Ned5 30. Qf3 a5 31. Ra1 Qc4 32. bxa5 Qb5 33. Rgb1 Qe8 34. Ne5 Nd7 35. Bb5 Nc7 36. Bxd7 Qe7 37. Ba4 Qf6 38. Qxf6 gxf6 39. Nd7 Rfd8 40. Nxf6+ Kg7 41. Ne4 Nd5 42. Nd6 Nf4 43. f3 Rg8 44. Ne4 Kh6 45. Rg1 Rxg1 46. Rxg1 Rb8 47. Bd7 Rb3 48. c6 Rxf3 49. c7 Nd5 50. c8=Q Rc3 51. Bxe6 Rxc8 52. Bxc8 Nf6 53. Bf5 1-0
+

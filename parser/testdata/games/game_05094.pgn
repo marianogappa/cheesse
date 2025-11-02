@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/3VrQKtuT"]
+[White "GLSlick"]
+[Black "RaulA46"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:35"]
+[WhiteElo "1828"]
+[BlackElo "1600"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+19"]
+[ECO "C00"]
+[Opening "French Defense: La Bourdonnais Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. f4 d5 3. e5 c5 4. Nf3 Nc6 5. d4 Qb6 6. b3 cxd4 7. Nxd4 Nxd4 8. Be3 Bb4+ 9. c3 Nc2+ 10. Qxc2 Qxe3+ 11. Qe2 Bxc3+ 12. Nxc3 Qxc3+ 13. Kf2 Qxa1 14. Qb5+ Bd7 15. Qxb7 Qxa2+ 16. Kg3 Rc8 17. Bb5 Qxb3+ 18. Kg4 Qxb5 19. Qxa7 Ne7 20. h4 O-O 21. h5 h6 22. Kh4 Nf5+ 23. Kg4 Qe2+ 24. Kh3 Qe3+ 25. Qxe3 Nxe3 26. g4 d4 27. g5 hxg5 28. fxg5 d3 29. h6 gxh6 30. gxh6 Kh7 31. Kg3 d2 32. Kf3 d1=Q+ 33. Rxd1 Nxd1 34. Ke2 Nc3+ 35. Kd3 Nd5 36. Ke4 Kxh6 37. Kd3 Kg5 38. Ke4 Ra8 39. Kd4 Rh8 40. Kc5 Kf5 41. Kd6 f6 42. Kxd7 fxe5 43. Kd6 e4 44. Kc6 Nf4 45. Kd6 e3 46. Kc6 Rhd8 47. Kc7 Rd1 48. Kc6 Ra2 49. Kc5 Rc2+ 50. Kb4 Rb1+ 51. Ka3 Rb7 52. Ka4 Ra2# 0-1
+

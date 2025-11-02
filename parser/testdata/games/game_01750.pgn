@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5eUoLxMd"]
+[White "aridder"]
+[Black "olaskaansar"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:39"]
+[WhiteElo "1145"]
+[BlackElo "1443"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+21"]
+[ECO "A08"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. g3 c5 2. Bg2 d5 3. Nf3 Qb6 4. Nc3 Nf6 5. O-O Bg4 6. Qe1 e6 7. e4 Be7 8. d3 O-O 9. Na4 Qc7 10. Be3 dxe4 11. Ng5 Nd5 12. Bxe4 Nxe3 13. fxe3 Bxg5 14. c3 Nd7 15. d4 f5 16. Bc2 e5 17. Bb3+ Kh8 18. Nxc5 Nxc5 19. dxc5 Qxc5 20. h4 Bxe3+ 21. Kg2 e4 22. Be6 Bf3+ 23. Kh3 Bg4+ 24. Kh2 Rad8 25. Rd1 Bxd1 26. Bxf5 Rd2+ 27. Kh3 Rxf5 28. g4 Rxf1 29. Qxf1 Rf2 30. Qxd1 Qf8 31. b4 Qf3+ 32. Qxf3 Rxf3+ 33. Kg2 Bd2 34. g5 Bxc3 35. h5 Bxb4 36. g6 hxg6 37. hxg6 Rf6 38. Kg3 Rxg6+ 39. Kf4 Ra6 40. Kxe4 Rxa2 41. Ke5 Rd2 42. Ke6 a5 43. Kf7 a4 44. Kg6 a3 45. Kf5 a2 46. Kg6 a1=Q 47. Kg5 Qe5+ 48. Kg6 Rg2+ 49. Kf7 Qf5+ 50. Ke8 Re2+ 51. Kd8 Be7+ 52. Kc7 Rc2+ 53. Kb8 Qc8+ 54. Ka7 Bc5# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/wlXH2lxj"]
+[White "polaniec"]
+[Black "wyyysotski"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:48"]
+[WhiteElo "1744"]
+[BlackElo "1819"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "A15"]
+[Opening "English Opening: Anglo-Indian Defense"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. c4 Nf6 2. e3 e5 3. a3 Nc6 4. Nc3 Bc5 5. b4 Be7 6. d4 O-O 7. d5 Nb8 8. c5 d6 9. cxd6 Bxd6 10. e4 c5 11. Bd3 cxb4 12. axb4 Bxb4 13. Bd2 Bc5 14. Nf3 Bxf2+ 15. Kxf2 Ng4+ 16. Kg1 Qb6+ 17. Kf1 Qf2# 0-1
+

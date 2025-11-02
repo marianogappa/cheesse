@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/YIB2nv0Z"]
+[White "MaxV"]
+[Black "force342"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:09"]
+[WhiteElo "1799"]
+[BlackElo "1766"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "D10"]
+[Opening "Slav Defense"]
+[TimeControl "300+30"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 c6 3. c5 Bf5 4. Nc3 h6 5. Bf4 Nf6 6. Qb3 Qd7 7. e3 Nh5 8. Be5 f6 9. Bxb8 Rxb8 10. Nf3 Bg4 11. Be2 g5 12. h3 Bxf3 13. Bxf3 Ng7 14. Bg4 Qc7 15. Qa4 a6 16. Nxd5 Qd8 17. Nb6 e5 18. Bd7+ Ke7 19. dxe5 fxe5 20. Qe4 Kf6 21. b4 Qc7 22. Rd1 a5 23. a3 Be7 24. Qf3+ Kg6 25. O-O Rhf8 26. Qe4+ Kf7 27. Qh7 Rh8 28. Qe4 Rhf8 29. Nc4 Bf6 30. Rd6 Kg8 31. Nxe5 Rbd8 32. Rfd1 Rxd7 33. Nxd7 Re8 34. Qc4+ Kh8 35. Nxf6 Nf5 36. Nxe8 Qxd6 37. Nxd6 Nxe3 38. fxe3 b6 39. cxb6 g4 40. hxg4 h5 41. gxh5 c5 42. bxa5 Kg7 43. Qf4 Kg8 44. Rc1 c4 45. Rxc4 Kh8 46. Nb5 Kg8 47. Qg4+ Kh8 48. Qd7 Kg8 49. Rc8# 1-0
+

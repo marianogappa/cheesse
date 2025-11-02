@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/hrMEzea3"]
+[White "playingastaurus"]
+[Black "GustavoCXT"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:20"]
+[WhiteElo "1219"]
+[BlackElo "1215"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+16"]
+[ECO "E00"]
+[Opening "Indian Game: East Indian Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 e6 3. e3 c5 4. Nf3 cxd4 5. Nxd4 d5 6. Nd2 a6 7. f3 dxc4 8. Nxc4 b5 9. Nd2 Qc7 10. f4 Bb7 11. g3 Bxh1 12. b3 Bb4 13. a4 Ne4 14. Bd3 Nxd2 15. Bxd2 Bxd2+ 16. Qxd2 Bb7 17. Kd1 Nc6 18. axb5 axb5 19. Nxb5 Rxa1+ 20. Ke2 Qb6 21. Qb2 Rh1 22. Nd6+ Ke7 23. Nf5+ Kf8 24. Qxg7+ Ke8 25. Qxh8+ Kd7 26. Qf8 Rxh2+ 27. Kf3 Ne7+ 28. Kg4 Nxf5 0-1
+

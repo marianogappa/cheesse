@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/M1IxVa0f"]
+[White "owlynx"]
+[Black "JLAK"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:43"]
+[WhiteElo "1752"]
+[BlackElo "1685"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+12"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation, Monte Carlo Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 h6 5. Nc3 Nf6 6. Nf3 Be7 7. Be2 O-O 8. O-O c5 9. Be3 Nc6 10. a3 Qb6 11. Rb1 Be6 12. cxd5 Nxd5 13. Nxd5 Bxd5 14. Qd2 cxd4 15. Nxd4 Nxd4 16. Bxd4 Qd8 17. Bc3 Be6 18. Qe3 Bf5 19. Qg3 Bf6 20. Rbc1 Re8 21. Bf3 Be4 22. Bxe4 Rxe4 23. Rfe1 Rxe1+ 24. Rxe1 Rc8 25. Bxf6 Qxf6 26. Qg4 Rc2 27. Re8+ Kh7 28. Qe4+ Qg6 29. Qxg6+ Kxg6 30. Re7 Rc1+ 0-1
+

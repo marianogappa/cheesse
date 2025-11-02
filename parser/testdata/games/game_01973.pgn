@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QWymX89g"]
+[White "Poiskowik32"]
+[Black "Jura25"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:26"]
+[WhiteElo "2270"]
+[BlackElo "2200"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "A54"]
+[Opening "Old Indian Defense: Two Knights Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 d6 4. d4 Bd7 5. dxe5 dxe5 6. Nxe5 Bb4 7. Nxd7 Nbxd7 8. Bd2 O-O 9. a3 Bxc3 10. Bxc3 Ne4 11. Qd4 Nxc3 12. Qxc3 Qe7 13. e3 Nc5 14. Be2 Qg5 15. Bf3 Rfe8 16. O-O Ne4 17. Bxe4 Rxe4 18. Rad1 Rg4 19. g3 Qe7 20. Rd4 Rxd4 21. exd4 Re8 22. Qd3 Qe2 23. Rd1 g6 24. b4 f5 25. d5 f4 26. Qxe2 Rxe2 27. c5 Ra2 28. d6 cxd6 29. cxd6 fxg3 30. hxg3 Rxa3 31. d7 Rb3 32. d8=Q+ Kg7 33. Rd7+ Kh6 34. Qh4# 1-0
+

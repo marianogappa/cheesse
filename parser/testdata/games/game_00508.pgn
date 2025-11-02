@@ -1,0 +1,19 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/vTlsLBrh"]
+[White "lichesschaob"]
+[Black "donateIIo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:52"]
+[WhiteElo "2648"]
+[BlackElo "2665"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-13"]
+[BlackTitle "GM"]
+[ECO "C96"]
+[Opening "Ruy Lopez: Closed Variations, Closed Defense #2"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 Bb7 11. d4 exd4 12. cxd4 Nd7 13. Nbd2 Re8 14. Nf1 Bf6 15. Ng3 g6 16. b3 c5 17. Bf4 Nc6 18. d5 Nb4 19. a3 Bxa1 20. axb4 Bc3 21. Bxd6 Bxe1 22. Qxe1 cxb4 23. Qxb4 Nf6 24. Be5 Rc8 25. Bd3 Nxd5 26. exd5 Qxd5 27. Be4 Rc1+ 28. Kh2 Qd1 29. Bxb7 Rxe5 30. h4 Re8 31. Bxa6 Rb1 32. Bxb5 Rf8 33. Bc4 Qd8 34. Qc5 Rd1 35. Qg5 Qxg5 36. hxg5 Kg7 37. Ne4 h6 38. Kg3 hxg5 39. Nexg5 Rd7 40. Ne5 Ra7 41. Ngxf7 Re8 42. f4 Kf6 43. Nd6 g5 44. Nxe8+ Ke7 45. Ng7 gxf4+ 46. Kxf4 1-0
+

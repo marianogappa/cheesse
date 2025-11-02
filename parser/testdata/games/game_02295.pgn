@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Bh3zhPyi"]
+[White "kashefi3"]
+[Black "chrisargento"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:41"]
+[WhiteElo "1559"]
+[BlackElo "1553"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. Bd3 Be7 6. O-O O-O 7. Re1 Bg4 8. Nbd2 b6 9. c4 dxc4 10. Bxc4 c5 11. dxc5 Bxc5 12. Qb3 Nc6 13. Ne4 Bxf3 14. Qxf3 Nd4 15. Nxf6+ Qxf6 16. Qxf6 gxf6 17. Bd3 Rad8 18. Be3 Nf3+ 19. gxf3 Rxd3 20. Bxc5 bxc5 21. Kg2 Kh8 22. Re7 Rg8+ 23. Kf1 Rxf3 24. Rxf7 Rh3 25. Rxf6 Rxh2 26. Ke2 Rgg2 27. Rc1 Kg7 28. Rf3 Rh5 29. Rd1 Re5+ 30. Kf1 Rg6 31. Rd7+ Kh6 32. Rxa7 Rge6 33. Rff7 Re1+ 34. Kg2 Rg6+ 35. Kf3 Rb1 36. Rxh7+ Kg5 37. Rab7 Rc6 38. a4 c4 39. a5 c3 40. bxc3 Rxb7 41. Rxb7 Ra6 42. c4 Kf5 43. Rb5+ Ke6 44. Ke4 Kd6 45. Rb7 Kc6 46. Rb6+ Rxb6 47. axb6 Kxb6 48. Kd5 Kc7 49. f4 Kd7 50. f5 Ke7 51. c5 Kd7 52. f6 Ke8 53. Ke6 Kf8 54. c6 Ke8 55. f7+ Kf8 56. c7 Kg7 57. c8=Q Kg6 58. Qg8+ Kh6 59. Kf6 Kh5 60. Qg5# 1-0
+

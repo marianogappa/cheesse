@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VJd9xhIx"]
+[White "LordViper"]
+[Black "jerrimada"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:05"]
+[WhiteElo "1214"]
+[BlackElo "1184"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 e6 2. f4 Nf6 3. e3 d5 4. g4 Bb4+ 5. c3 Bd6 6. g5 Ne4 7. Bg2 Na6 8. c4 Bb4+ 9. Nc3 Nxc3 10. Bd2 Nxd1 0-1
+

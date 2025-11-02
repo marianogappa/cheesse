@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Q6VVJ6HB"]
+[White "A_nton"]
+[Black "gv68"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:12"]
+[WhiteElo "1379"]
+[BlackElo "1422"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Qf6 4. Nc3 a6 5. Nd5 Qd6 6. Bc4 b5 7. Bd3 Nf6 8. c4 Nb4 9. Nxf6+ Qxf6 10. Be2 Bc5 11. O-O Qf4 12. cxb5 axb5 13. Bxb5 Qxe4 14. Re1 Qf4 15. d4 Bxd4 16. Bxf4 O-O 17. Nxd4 exd4 18. Qg4 d5 19. Qg3 Nc2 20. Bh6 g6 21. Bxf8 Kxf8 22. Qxc7 Nxe1 23. Rxe1 Rxa2 24. Re8+ Kg7 25. Qe5+ Kh6 26. Rxc8 Ra1+ 27. Bf1 d3 28. Qf4+ Kg7 29. Rc7 Ra2 30. Qxf7+ Kh6 31. Qxh7+ Kg5 32. h4+ Kf5 33. g4+ Kxg4 34. Qxg6+ Kf4 35. Qg3+ Ke4 36. Qe3+ Kf5 37. Rf7+ Kg6 38. Qe6+ Kh5 39. Rh7# 1-0
+

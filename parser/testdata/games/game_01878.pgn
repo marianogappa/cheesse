@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/BDZKk0Bt"]
+[White "Afredoford"]
+[Black "Carabias2017"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:04"]
+[WhiteElo "1708"]
+[BlackElo "1529"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 Nf6 3. Nc3 d5 4. exd5 Nxd5 5. Nxd5 Qxd5 6. c4 Qd8 7. d4 Bb4+ 8. Bd2 Be7 9. Be2 O-O 10. O-O Bf6 11. Bc3 b6 12. Qc2 Nc6 13. Rfd1 Bb7 14. d5 exd5 15. Rxd5 Qe7 16. Bxf6 Qxf6 17. Rdd1 Na5 18. b4 Nc6 19. a3 Rad8 20. Qe4 Nd4 21. Qxb7 Nxf3+ 22. Bxf3 Rxd1+ 23. Rxd1 Qb2 24. Qxc7 Qxa3 25. Rd8 Qxb4 26. Rxf8+ Qxf8 27. Qxa7 Qb4 28. Qb8+ Qf8 29. Qxb6 Qa3 30. g3 h6 31. Bd5 Qe7 32. Kg2 Kh7 33. c5 1-0
+

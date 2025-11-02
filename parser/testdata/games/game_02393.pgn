@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rjW84z3N"]
+[White "RFRANCA"]
+[Black "walisongugu"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:06"]
+[WhiteElo "1680"]
+[BlackElo "1662"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "D10"]
+[Opening "Slav Defense #2"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Bf5 4. e3 e6 5. Bd3 Ne7 6. Bxf5 Nxf5 7. Nf3 Bb4 8. Qc2 Nd7 9. a3 Bxc3+ 10. Qxc3 O-O 11. O-O h6 12. Re1 Nb6 13. b3 Ne7 14. Bb2 f5 15. Rac1 g5 16. Ne5 h5 17. Qc2 h4 18. Qe2 Qe8 19. f3 Ng6 20. f4 g4 21. Kh1 Nxe5 22. dxe5 Qg6 23. Rg1 Rf7 24. a4 a6 25. a5 Nd7 26. cxd5 exd5 27. Qd3 g3 28. h3 Re8 29. Qd4 Re6 30. b4 Nf8 31. Rc2 Qh5 32. Qb6 Ng6 33. Qd8+ Kg7 34. Bd4 Qh6 35. Bc5 Ne7 36. Qb6 Ng6 37. Bd4 Qh8 38. Rgc1 Qh5 39. Qc5 Ne7 40. Qc3 Kg6 41. Bc5 d4 42. Bxd4 Nd5 43. Qc5 Qh8 44. Rd2 Qd8 45. Qb6 Rd7 46. Qxd8 Rxd8 47. Rcd1 1-0
+

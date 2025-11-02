@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NqJp1DCo"]
+[White "blow81"]
+[Black "Itwasme"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:21"]
+[WhiteElo "1561"]
+[BlackElo "1489"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "B27"]
+[Opening "Sicilian Defense: Jalalabad Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 c5 3. Bc4 Nc6 4. d3 h6 5. Nc3 g5 6. Bd2 Bg7 7. Nb5 a6 8. Nd6+ Kf8 9. Be3 b5 10. Bxc5 Nge7 11. Bb3 Kg8 12. Nxf7 d5 13. Nxd8 1-0
+

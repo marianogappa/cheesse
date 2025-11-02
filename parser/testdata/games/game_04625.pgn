@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/HlQ0ODvt"]
+[White "BohemeRoyal"]
+[Black "Guliaka"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:41"]
+[WhiteElo "1746"]
+[BlackElo "1832"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "C28"]
+[Opening "Bishop's Opening: Vienna Hybrid"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. Nc3 e5 3. Bc4 Nc6 4. d3 Bb4 5. Bg5 h6 6. Bh4 d6 7. Ne2 Na5 8. Bd5 g5 9. Bg3 Nxd5 10. exd5 b6 11. a3 Bxc3+ 12. Nxc3 Nb7 13. Ne4 O-O 14. Qh5 Kg7 15. h4 f5 16. hxg5 fxe4 17. Qxh6+ Kf7 18. dxe4 Qe7 19. g6+ Ke8 20. g7 Rg8 21. Qh8 Qf7 22. Qxg8+ Qxg8 23. Rh8 Kf7 24. Rxg8 Kxg8 25. O-O-O Kxg7 26. f4 Bg4 27. Rf1 Rh8 28. fxe5 Nc5 29. exd6 Nxe4 30. Be5+ Kg6 31. Bxh8 Nxd6 32. Be5 Bf5 33. Bxd6 cxd6 34. g3 Bxc2 35. Rf2 Bb3 36. Rc2 Bxd5 0-1
+

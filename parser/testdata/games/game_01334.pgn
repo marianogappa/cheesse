@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BboKVqzz"]
+[White "ellocodrasco"]
+[Black "DSNiPER"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:59"]
+[WhiteElo "1231"]
+[BlackElo "1214"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "C60"]
+[Opening "Ruy Lopez: Cozio Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. Bxc6 Nxc6 5. O-O d6 6. h3 Nd4 7. d3 Nxf3+ 8. Qxf3 g6 9. Bg5 Qxg5 0-1
+

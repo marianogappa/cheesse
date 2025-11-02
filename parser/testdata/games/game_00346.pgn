@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/QZAIzDnP"]
+[White "DutchMountain2"]
+[Black "Moobert"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:07"]
+[WhiteElo "1600"]
+[BlackElo "1597"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation #2"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. e5 e6 3. d4 c5 4. c3 Qb6 5. Nf3 Nc6 6. a4 a6 7. a5 Nxa5 8. Ra2 Nb3 9. Be3 c4 10. Nbd2 Na5 11. b4 cxb3 12. Nxb3 Qxb3 13. Rxa5 Qxc3+ 14. Bd2 Qc7 15. Bd3 b6 16. Ra1 Bd7 17. O-O Ne7 18. Rc1 Qb7 19. Bb4 Ng6 20. Bxf8 Nxf8 21. Ng5 h6 22. Nf3 Bc6 23. Nh4 Nd7 24. Qg4 O-O 25. f4 Bb5 26. Bb1 a5 27. f5 exf5 28. Nxf5 g6 29. Nxh6+ Kg7 30. Nf5+ Kg8 31. Ne7+ Kg7 32. Rf6 Nxe5 33. dxe5 Qxe7 0-1
+

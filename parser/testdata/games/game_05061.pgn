@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/m9sO6UiT"]
+[White "brudi"]
+[Black "dummytrump"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:29"]
+[WhiteElo "1574"]
+[BlackElo "1684"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "C44"]
+[Opening "King's Knight Opening: Normal Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nc6 2. Nf3 e5 3. d3 Bc5 4. Qe2 a6 5. Be3 Ba7 6. Bxa7 Rxa7 7. Qe3 Ra8 8. Nc3 d6 9. Be2 Nf6 10. O-O h6 11. d4 Bg4 12. d5 Ne7 13. h3 Bd7 14. Nd2 Ng6 15. Nc4 O-O 16. Bh5 Nxh5 17. Qf3 Nhf4 18. g3 Nxh3+ 19. Kh2 Ng5 20. Qe3 Bb5 21. b3 Qc8 22. a4 Qh3+ 23. Kg1 Bd7 24. f4 exf4 25. gxf4 Qxe3+ 26. Nxe3 Nh7 27. Kf2 f5 28. Ke2 fxe4 29. Nxe4 Rae8 30. Kd3 Nxf4+ 31. Kd4 Ne2+ 32. Kd3 Ng5 33. Kxe2 Nxe4 34. Rxf8+ Kxf8 35. Kd3 1-0
+

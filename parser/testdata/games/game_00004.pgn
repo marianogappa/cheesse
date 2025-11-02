@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gWphZAU6"]
+[White "DarkGandalfor"]
+[Black "BUCEFULO"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "1753"]
+[BlackElo "1744"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C42"]
+[Opening "Russian Game: Three Knights Game"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 c6 4. Bc4 d5 5. exd5 cxd5 6. Bb5+ Bd7 7. Nxe5 Bxb5 8. Nxb5 a6 9. Nd4 Bc5 10. Nb3 Qb6 11. d4 Bd6 12. O-O O-O 13. Bf4 Bxe5 14. dxe5 Ne4 15. Qxd5 Qg6 16. Qxb7 Nd7 17. Qxd7 Rfd8 18. Qc6 Rdc8 19. Qd5 Rd8 20. Qc4 Rac8 21. Qxa6 Rxc2 22. Qa7 Rxb2 23. Rad1 Nd2 24. Rxd2 Rbxd2 25. Bxd2 h6 26. Bf4 Qe4 27. Bg3 g5 28. Qa5 Rd5 29. Re1 Qc4 30. Qa8+ Kh7 31. e6 fxe6 32. Qb7+ Kg6 33. Rxe6+ Kf5 34. Qf7+ Kg4 35. h3# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/5F85o77H"]
+[White "morocco10"]
+[Black "zvonee94"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:50"]
+[WhiteElo "1105"]
+[BlackElo "1370"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+4"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Qh4 3. Qf3 f6 4. g3 Qh6 5. Nc3 Nc6 6. d3 g5 7. h4 Nd4 8. Qd1 d6 9. Nd5 Ne6 10. c3 c6 11. hxg5 Qxh1 12. Kf1 cxd5 13. Bxd5 Rb8 14. Qa4+ b5 15. Qxa7 Rb7 16. Qa8 Rg7 17. Qxc8+ Nd8 18. Qe6+ Nxe6 0-1
+

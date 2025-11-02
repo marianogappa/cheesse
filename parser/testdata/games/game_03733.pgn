@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0Mu2P6Ht"]
+[White "xloxx"]
+[Black "shammies"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:16"]
+[WhiteElo "2065"]
+[BlackElo "2116"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2 a6 9. dxc5 Nxc5 10. O-O-O b5 11. Kb1 b4 12. Ne2 Ne4 13. Qe1 a5 14. Ned4 Nxd4 15. Nxd4 Bd7 16. Bd3 Nc5 17. h4 a4 18. Rh3 b3 19. a3 bxc2+ 20. Bxc2 Rb8 21. Bd2 O-O 22. Ba5 Qc8 23. Ka1 Qb7 24. Bc3 Nb3+ 25. Bxb3 axb3 26. g4 Qa6 27. Kb1 Bxa3 28. bxa3 Qxa3 29. Qd2 Rfc8 30. Qb2 Qa4 31. Rc1 Rb7 32. Bd2 Rxc1+ 33. Bxc1 Be8 34. Rxb3 Rxb3 35. Nxb3 Qe4+ 36. Ka2 Bb5 37. Ka3 Qa4# 0-1
+

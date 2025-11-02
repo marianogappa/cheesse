@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/8HGEPmJ3"]
+[White "Abdouch"]
+[Black "markhinsch"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:15"]
+[WhiteElo "1359"]
+[BlackElo "1266"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-10"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nge7 4. d3 d5 5. exd5 Nxd5 6. Bxd5 Qxd5 7. Nc3 Qe6 8. Ng5 Qg6 9. Nb5 a6 10. Nxc7+ Kd8 11. Nxa8 Bf5 12. Nb6 Ke7 13. Nd5+ Ke8 14. Nc7+ Ke7 15. O-O 1-0
+

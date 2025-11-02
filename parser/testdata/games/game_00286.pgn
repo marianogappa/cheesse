@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/RKfzkYFU"]
+[White "mateusz29"]
+[Black "Iridium77"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:54"]
+[WhiteElo "1597"]
+[BlackElo "1500"]
+[WhiteRatingDiff "-168"]
+[BlackRatingDiff "+11"]
+[ECO "B25"]
+[Opening "Sicilian Defense: Closed Variation, Traditional"]
+[TimeControl "60+1"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bc4 d6 4. Nf3 e6 5. Qe2 a6 6. b4 Nxb4 7. e5 Nxc2+ 8. Kd1 Nxa1 9. Ng5 Qxg5 10. Ne4 Qxe5 11. Qf3 d5 12. Nxc5 dxc4 0-1
+

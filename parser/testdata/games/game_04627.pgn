@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Uvz4jHPC"]
+[White "lncorruptible"]
+[Black "Jhpm"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:45"]
+[WhiteElo "1732"]
+[BlackElo "1811"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+8"]
+[ECO "B00"]
+[Opening "Borg Defense"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. e4 g5 2. d4 e6 3. Nc3 h6 4. Be3 Bg7 5. Nge2 Ne7 6. Qd2 O-O 7. O-O-O f5 8. f4 g4 9. g3 c6 10. h3 h5 11. hxg4 hxg4 12. Bg2 d5 13. exf5 exf5 14. Rh2 Nd7 15. Rdh1 Nf6 16. Nd1 Qb6 17. c3 Qa5 18. Kb1 b5 19. Nf2 Rb8 20. c4 Qxd2 21. Bxd2 bxc4 22. Bc3 Ne4 23. Nxe4 dxe4 24. Rh5 Nd5 25. Rg5 Be6 26. Bd2 Rb7 27. Nc3 Rfb8 28. Nxd5 Rxb2+ 29. Kc1 cxd5 30. Bc3 Rxg2 31. Rh6 Bf7 32. Rc6 Rxg3 33. Kc2 Rg2+ 34. Kc1 g3 35. Rxf5 Rg1+ 36. Kc2 g2 37. Rg5 Kh7 38. Kd2 Rbb1 39. Ke2 Bh6 40. Rg4 Bh5 41. Rc7+ Kh8 42. Rc8+ Bf8 43. Rc7 Bxg4+ 0-1
+

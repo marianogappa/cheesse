@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wbdLcxiK"]
+[White "nonafryed2"]
+[Black "NaViD27"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:49"]
+[WhiteElo "1939"]
+[BlackElo "1886"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "C11"]
+[Opening "French Defense: Classical Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. f3 Bb4 5. Bd3 c5 6. dxc5 Nc6 7. Bg5 d4 8. a3 Bxc5 9. Nce2 Be7 10. Bb5 e5 11. f4 Qa5+ 12. Nc3 dxc3 13. Bxc6+ bxc6 14. b4 Qd8 15. fxe5 Qxd1+ 16. Rxd1 Nxe4 17. Bxe7 Kxe7 18. Nf3 Bg4 19. h3 Bxf3 20. gxf3 Nd2 0-1
+

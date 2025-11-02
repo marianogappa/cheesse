@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4CKey3Fa"]
+[White "dchesster"]
+[Black "Hosseinkabir"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:10"]
+[WhiteElo "1448"]
+[BlackElo "1525"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+71"]
+[ECO "A45"]
+[Opening "Trompowsky Attack: Borg Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 g5 4. Be3 h6 5. f3 Nf6 6. Bf2 d5 7. e4 dxe4 8. fxe4 Nxe4 9. Be3 Bg7 10. Qg4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uEYqAxD9"]
+[White "kiple"]
+[Black "BrazilianStorm"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:13"]
+[WhiteElo "1532"]
+[BlackElo "1425"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "B00"]
+[Opening "Ware Defense"]
+[TimeControl "240+4"]
+[Termination "Normal"]
+
+1. e4 a5 2. d4 a4 3. a3 d6 4. Nc3 f5 5. d5 g6 6. Qd4 Bd7 7. Qxh8 fxe4 8. Qxg8 Bf5 9. Bh6 Kd7 10. Bb5+ c6 11. dxc6+ bxc6 12. Bxa4 Na6 13. Qc4 Bxh6 14. Qxc6+ Ke6 15. Nxe4 Rc8 16. Bb3+ Ke5 17. Qd5+ Kf4 18. g3+ Kg4 19. f3+ Kh5 20. g4+ Kh4 21. gxf5 Qb6 22. Qd3 gxf5 23. Ng3 Bf4 24. Nxf5+ Kg5 25. Nh3+ Kf6 26. Nxf4 Nb4 27. axb4 Qxb4+ 28. Kd1 Qxf4 29. Nxe7 Kxe7 30. Ra7+ Ke8 31. Re1+ Kf8 32. Re4 Qxh2 33. Rf7+ Kg8 34. Rg4+ Kh8 35. Qd4+ Qe5 36. Qxe5+ dxe5 37. Rgg7 Rd8+ 38. Ke2 Ra8 39. Rxh7+ Kg8 40. Ra7+ Kf8 41. Rh8# 1-0
+

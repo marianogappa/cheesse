@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/bor7MWmv"]
+[White "MardiProf"]
+[Black "dartfax8"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:24"]
+[WhiteElo "1961"]
+[BlackElo "1492"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-1"]
+[ECO "D03"]
+[Opening "Queen's Pawn Game: Torre Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 Nc6 4. Nbd2 e6 5. e3 Be7 6. Bd3 Bd7 7. c3 Ne4 8. Bxe7 Kxe7 9. Nxe4 Re8 10. Ned2 Kf8 11. Qc2 e5 12. dxe5 Nxe5 13. Nxe5 Rxe5 14. Nf3 h6 15. Nxe5 1-0
+

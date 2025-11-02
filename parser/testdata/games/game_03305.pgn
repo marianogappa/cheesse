@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XBCQ5fZz"]
+[White "ferguson"]
+[Black "cmahonen"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:32"]
+[WhiteElo "1732"]
+[BlackElo "1674"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "D53"]
+[Opening "Queen's Gambit Declined: 4.Bg5 Be7"]
+[TimeControl "240+2"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 a6 6. Nf3 Nc6 7. Be2 Ne4 8. Bxe7 Qxe7 9. cxd5 Nxc3 10. bxc3 exd5 11. O-O Bg4 12. h3 h5 13. Rb1 b6 14. Qa4 Bd7 15. Qc2 g5 16. c4 g4 17. cxd5 Nd8 18. Ne5 gxh3 19. Qxc7 Rc8 20. Qxd7+ Qxd7 21. Nxd7 Kxd7 22. Rxb6 hxg2 23. Kxg2 h4 24. Bg4+ Kc7 25. Rc1+ Kxb6 26. Rxc8 Rg8 27. Kh3 Rf8 28. Kxh4 f5 29. Bxf5 Nb7 30. Rxf8 Nd6 31. Bd3 Ka5 32. Rf6 Nb5 33. Rxa6+ Kxa6 34. a4 Kb6 35. Bxb5 Kc7 36. e4 Kd6 37. e5+ Kxd5 38. f4 Kxd4 39. e6 Ke4 40. Kg5 Kd5 41. f5 Kd6 42. Bd7 Ke7 43. f6+ Kf8 44. e7+ Kf7 45. e8=Q# 1-0
+

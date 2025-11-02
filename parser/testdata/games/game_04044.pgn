@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Gs8AMOnq"]
+[White "PEKOINDARTT"]
+[Black "BornWild"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:24"]
+[WhiteElo "1664"]
+[BlackElo "1675"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-12"]
+[ECO "C00"]
+[Opening "French Defense: La Bourdonnais Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. f4 d5 3. exd5 Qxd5 4. Nf3 Nc6 5. d4 Nf6 6. c4 Qe4+ 7. Be2 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Ng4 10. Nc3 Qe3 11. h3 Qf2+ 12. Kd1 Ne3+ 13. Kc1 Nxc4 14. Bxc4 Qxd2+ 15. Kxd2 O-O 16. d5 exd5 17. Bxd5 Nb4 18. Bb3 Bf5 19. g4 Rad8+ 20. Ke3 Rfe8+ 21. Kf2 Nd3+ 22. Kg3 Be4 23. Rhf1 Nc5 24. Rae1 Bd3 25. Rxe8+ Rxe8 26. Re1 Rxe1 27. Nxe1 Ne4+ 28. Nxe4 Bxe4 29. Bc2 Bxc2 30. Nxc2 f6 31. Kf3 Kf7 32. Ke4 Ke6 33. Nd4+ Kd7 34. Kd5 g6 35. f5 c6+ 36. Kc5 b6+ 37. Kc4 Kd6 38. fxg6 hxg6 39. b4 Ke5 40. Nxc6+ Kf4 41. Nxa7 Kg3 42. Kb5 Kxh3 43. Kxb6 Kxg4 44. Nc6 f5 45. Nd4 f4 46. a4 f3 47. Nxf3 Kxf3 48. a5 g5 49. a6 g4 50. a7 g3 51. a8=Q+ Kf2 52. Qh1 g2 53. Qxg2+ Kxg2 54. Kc7 Kf3 55. b5 Ke4 56. b6 Kd5 57. b7 Ke6 58. b8=Q Kf7 59. Qb6 Ke8 60. Qe6+ Kf8 61. Qd7 Kg8 62. Kd6 Kh8 63. Ke6 Kg8 64. Kf6 Kf8 65. Qf7# 1-0
+

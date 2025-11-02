@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vhVZJPfY"]
+[White "permaby"]
+[Black "borisio1975"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:34"]
+[WhiteElo "1199"]
+[BlackElo "1233"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "D04"]
+[Opening "Queen's Pawn Game: Colle System, Anti-Colle"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 Nf6 3. Nf3 Bf5 4. Bd3 e6 5. Nc3 Bd6 6. Bd2 O-O 7. O-O Bxd3 8. cxd3 Nc6 9. Nb5 Nb4 10. a3 Nxd3 11. Ba5 Nxb2 12. Qb3 Nc4 13. Bb4 c6 14. Nxd6 Nxd6 15. Bxd6 Qxd6 16. Qxb7 Rab8 17. Qxa7 Ne4 18. Ne5 f6 19. Nd7 Nd2 20. Nxb8 Rxb8 21. Rfd1 Ne4 22. Rab1 Rxb1 23. Rxb1 Ng5 24. Rb8+ Qf8 25. Rxf8+ Kxf8 26. Qa8+ 1-0
+

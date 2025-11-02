@@ -1,0 +1,19 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/rEjlLzm9"]
+[White "koko2"]
+[Black "HooCee"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:51"]
+[WhiteElo "2167"]
+[BlackElo "2307"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[BlackTitle "FM"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. e3 Nf6 2. Nc3 d5 3. f4 c5 4. Bb5+ Nc6 5. Bxc6+ bxc6 6. f5 e6 7. Nf3 exf5 8. O-O Be7 9. d3 O-O 10. e4 g6 11. exf5 Bxf5 12. Bh6 Re8 13. Bg5 h6 14. Bd2 c4 15. Qc1 cxd3 16. cxd3 Bc5+ 17. Kh1 Ng4 18. Be1 Ne3 19. Rf2 Ng4 20. Rf1 Qb6 21. h3 Ne3 22. Rf2 Re7 23. Re2 Rae8 24. Bf2 Ng4 25. Bxc5 Qxc5 26. Rxe7 Rxe7 27. Qd1 Nf2+ 28. Kh2 Nxd1 29. Rxd1 Qd6+ 30. Kg1 Re2 31. Rf1 Rxb2 32. Rf2 Qb4 33. Rxb2 Qxb2 34. Nd1 Qe2 35. Nf2 Bxd3 36. Ng4 Qf1+ 37. Kh2 Be4 38. Ne3 Bxf3 39. Nxf1 Bxg2 40. Kxg2 Kg7 0-1
+

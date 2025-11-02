@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9jdc08PE"]
+[White "richandi"]
+[Black "Ostwestfale"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:19"]
+[WhiteElo "1487"]
+[BlackElo "1520"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d3 Nf6 3. Nf3 c6 4. Bg5 d6 5. Be2 h6 6. Bh4 g5 7. Bg3 d5 8. Nxe5 dxe4 9. dxe4 Qxd1+ 10. Bxd1 Nxe4 11. O-O Nxg3 12. fxg3 Bc5+ 13. Kh1 Nd7 14. Nxf7 Rf8 15. Bh5 Ke7 16. Nc3 b5 17. Rae1+ Ne5 18. Rxe5+ Kd7 19. Rxc5 Kc7 20. Rf6 Re8 21. h3 Be6 22. Rxc6+ Kxc6 23. Ne5+ Kd6 24. Bxe8 Kxe5 25. Rf8 Bd7 26. Rf7 Bxe8 27. Rf8 Ke6 28. Ne4 Ke7 29. Rh8 Bc6 30. Rxa8 Bxa8 31. Nc5 Kd6 32. Nd3 Kd5 33. Nb4+ Kc4 34. Na6 Be4 35. c3 Kd3 36. Nc5+ Ke3 37. Nxe4 Kxe4 38. Kh2 Kd3 39. h4 Kc2 40. hxg5 hxg5 41. Kh3 Kxb2 42. Kg4 Kxc3 43. Kxg5 Kb2 44. g4 Kxa2 45. Kf6 b4 46. g5 b3 47. g6 b2 48. g7 b1=Q 49. g8=Q+ Qb3 50. Qxb3+ Kxb3 51. g4 a5 52. g5 a4 53. g6 a3 54. g7 a2 55. g8=Q+ Kb2 56. Qb8+ Ka3 57. Qa7+ Kb2 58. Qb6+ Ka3 59. Qa5+ Kb2 60. Qb4+ Ka1 61. Qa3 Kb1 0-1
+

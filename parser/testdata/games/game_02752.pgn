@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GFVIniQK"]
+[White "usclambox"]
+[Black "Jojen"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:20"]
+[WhiteElo "1754"]
+[BlackElo "1704"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "C33"]
+[Opening "King's Gambit Accepted, Bishop's Gambit"]
+[TimeControl "120+6"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d6 4. Nc3 Qh4+ 5. Kf1 Bg4 6. Nf3 Qh5 7. d4 Nc6 8. Nd5 O-O-O 9. c3 g5 10. h3 Bxf3 11. Qxf3 Qxf3+ 12. gxf3 Bg7 13. h4 f6 14. Kg2 Nge7 15. Kh3 Nxd5 16. Bxd5 Ne7 17. Be6+ Kb8 18. Rg1 h6 19. Bd2 Ng6 20. Kg4 Nxh4 21. Rh1 h5+ 22. Kh3 Nxf3 23. Be1 g4+ 24. Kg2 Rde8 25. Bf5 d5 26. exd5 Re2+ 27. Kf1 Rhe8 28. Bh4 Rxb2 29. a4 Rbe2 30. a5 Nxh4 31. Rxh4 R2e3 32. Rc1 g3 33. Rxh5 Rf3+ 34. Kg1 a6 35. Be6 c6 36. Kg2 Rf2+ 37. Kg1 cxd5 38. Bxd5 Bf8 39. Rb1 Bd6 40. Rxb7+ Kc8 41. Rb6 Re1# 0-1
+

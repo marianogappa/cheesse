@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/9UvFjLJS"]
+[White "clama"]
+[Black "Andinhosjc"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:49"]
+[WhiteElo "1520"]
+[BlackElo "1530"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. e5 d6 4. d4 cxd4 5. Nxd4 Nxe5 6. Bb5+ Bd7 7. Qe2 Qa5+ 8. Bd2 Qb6 9. c3 O-O-O 10. O-O Bg4 11. f3 Bd7 12. Bf4 Bxb5 13. Qe4 Bxf1 14. Kxf1 Qxb2 15. Nb3 Nf6 16. Qd4 Kb8 17. Be3 Rc8 18. Qxa7+ Kc7 19. Qb6+ Kd7 20. Qxb7+ Rc7 21. Qb5+ Rc6 22. N1d2 Qxc3 23. Rc1 Qxe3 24. Qb7+ Ke6 25. Na5 Rxc1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vfyPKnz1"]
+[White "koala2588"]
+[Black "adyummi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:25"]
+[WhiteElo "1516"]
+[BlackElo "1674"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-177"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Maroczy Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. d3 Nc6 3. f4 e5 4. Nf3 d5 5. fxe5 Bb4+ 6. c3 Nxe4 7. dxe4 Bc5 8. exd5 Qh4+ 9. Nxh4 Nxe5 10. Bf4 Bg4 11. Qa4+ c6 12. Bxe5 Rd8 13. Nd2 Rxd5 14. Bxg7 Rg8 15. Qxg4 Be3 16. Ndf3 Rd2 17. Bc4 Kd8 18. Bxf7 Re8 19. Bxe8 Kxe8 20. Qe6+ Kd8 21. Qxe3 Rxg2 22. Bf6+ Kd7 23. O-O-O+ Kc7 24. Bd8+ Kc8 25. Qe6+ Kb8 26. Nxg2 b6 27. Qxc6 b5 28. Ba5 b4 29. Rd8# 1-0
+

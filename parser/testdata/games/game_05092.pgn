@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/kpWBKF1D"]
+[White "gont"]
+[Black "TKPIW"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:34"]
+[WhiteElo "1533"]
+[BlackElo "1530"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "60+2"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 Qe4+ 4. Be2 Bf5 5. d3 Qa4 6. Nc3 Qa5 7. Bd2 c6 8. Ne4 Qb6 9. Neg5 Qxb2 10. O-O Qb6 11. Bf4 e6 12. Rb1 Qd8 13. c4 b6 14. d4 Bxb1 15. Qxb1 h6 16. Ne4 g5 17. Be3 Be7 18. d5 cxd5 19. cxd5 Qxd5 20. Nc3 Qb7 21. Ne5 Nf6 22. Bb5+ Nfd7 23. Nxf7 Kxf7 24. Bxd7 Qxd7 25. Rd1 Qb7 26. Nb5 Nc6 27. Nd4 Nxd4 28. Bxd4 Rad8 29. Qb3 Qe4 30. Bxh8 Rxd1+ 31. Qxd1 Qc6 32. Qe2 Qc1+ 33. Qf1 Qb2 34. h4 Qxa2 35. Bd4 Qd5 36. Be3 gxh4 37. Bxh6 a5 38. Be3 a4 39. Bxb6 a3 40. Be3 a2 41. Qa1 Bf6 0-1
+

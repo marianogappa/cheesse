@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/2weK25E6"]
+[White "robot2000"]
+[Black "jhatrick"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:33"]
+[WhiteElo "1821"]
+[BlackElo "1768"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "D45"]
+[Opening "Semi-Slav Defense: Main Line"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Bd6 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 Bb7 9. O-O Nbd7 10. Qc2 O-O 11. e4 e5 12. dxe5 Nxe5 13. Nxe5 Bxe5 14. f4 Bd4+ 15. Kh1 c5 16. e5 Nd5 17. Bxh7+ Kh8 18. Be4 Nb4 19. Qe2 Bxe4 20. Qxe4 a6 21. a3 g6 22. axb4 cxb4 23. Ne2 Bb6 24. Be3 Kg7 25. Bxb6 Qxb6 26. Nd4 Rh8 27. Qc6 Qxd4 28. Qf6+ Kg8 29. Rad1 Qe4 30. Rd8+ Rxd8 31. Qxd8+ Kh7 32. Qf6 Qd3 33. Qh4+ Kg8 34. Qd8+ Kg7 35. Qf6+ Kg8 36. Qd8+ Qxd8 37. g3 Qd3 38. Kg2 Qd2+ 39. Rf2 Rxh2+ 40. Kxh2 Qxf2+ 41. Kh3 Qf3 42. b3 Kg7 43. Kh4 f6 44. g4 fxe5 45. f5 gxf5 46. gxf5 Qf4+ 47. Kh3 Qxf5+ 48. Kg2 Kg6 49. Kg1 Qe4 50. Kh2 Qc2+ 51. Kg3 1-0
+

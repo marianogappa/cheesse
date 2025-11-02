@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/B4fKRbiS"]
+[White "gochica"]
+[Black "TheJhinius"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:26"]
+[WhiteElo "2108"]
+[BlackElo "2001"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "B25"]
+[Opening "Sicilian Defense: Closed Variation, Traditional"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 Nf6 4. e5 Ng4 5. Qe2 Qc7 6. Nd5 Qb8 7. d4 cxd4 8. Bf4 e6 9. h3 Nh6 10. Bxh6 exd5 11. Bd2 Bb4 12. O-O-O O-O 13. Bxb4 Nxb4 14. a3 Nc6 15. Qd3 Nxe5 16. Qxd4 Ng6 17. Qxd5 b6 18. h4 Bb7 19. Qxd7 Bxf3 20. gxf3 Qf4+ 21. Kb1 Qxf3 22. Bc4 Ne5 23. Qd5 Qxd5 24. Bxd5 Rad8 25. Bb3 Nc6 26. Rhg1 Rxd1+ 27. Rxd1 Rd8 28. Rxd8+ Nxd8 29. Bd5 Kf8 30. c4 f6 31. b4 Ke7 32. Kc2 Kd6 33. Kc3 g5 34. hxg5 fxg5 35. Bf3 Ne6 36. Bh5 Nf4 37. Bg4 h5 38. Bf5 h4 39. Be4 h3 40. Kd4 h2 41. c5+ bxc5+ 42. bxc5+ Ke6 43. c6 Kd6 44. a4 Nh3 45. a5 Nxf2 46. Bf3 h1=Q 47. Bxh1 Nxh1 48. Kc4 Kxc6 49. a6 Kb6 50. Kd4 Kxa6 51. Ke5 Nf2 52. Kf5 g4 53. Kg5 g3 54. Kf4 g2 55. Kf3 g1=Q 56. Ke2 Qe1+ 57. Kxe1 Ng4 58. Ke2 Ne5 59. Kd2 Nc6 60. Kc3 Kb6 61. Kb3 a5 62. Ka3 Kb5 63. Ka2 a4 64. Ka1 Kb4 0-1
+

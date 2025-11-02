@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/EGKjdtIn"]
+[White "ridox"]
+[Black "angelitotrece"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:59"]
+[WhiteElo "1597"]
+[BlackElo "1742"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined: Traditional Variation"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Be7 5. e3 c5 6. dxc5 Qa5+ 7. Nc3 Qxc5 8. Qd4 Qxd4 9. exd4 O-O 10. c5 Nc6 11. a3 h6 12. Bh4 Ne4 13. Bxe7 Nxe7 14. Nxe4 dxe4 15. Nd2 f5 16. O-O-O Bd7 17. Nc4 Ba4 18. Rd2 Rfd8 19. Nd6 b6 20. b4 a5 21. Kb2 Bc6 22. Bc4 Bd5 23. Bb3 axb4 24. axb4 Bxb3 25. Kxb3 bxc5 26. dxc5 Rdb8 27. Ra2 Rxa2 28. Kxa2 Rxb4 29. Rc1 Nc6 30. Ka3 Rd4 31. Rc2 Rd3+ 32. Ka4 g5 33. g3 Kf8 34. h3 Ke7 35. Nc8+ Kd7 36. Nb6+ Kc7 37. Nc4 Nd4 38. Rb2 Kc6 0-1
+

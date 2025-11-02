@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mnMrwcpe"]
+[White "antiquity"]
+[Black "ubiramesq"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:45"]
+[WhiteElo "1258"]
+[BlackElo "1522"]
+[WhiteRatingDiff "+27"]
+[BlackRatingDiff "-17"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 Nc6 3. Bg5 Bf5 4. e3 Nf6 5. c4 dxc4 6. Bxc4 h6 7. Bh4 Bxb1 8. Rxb1 Na5 9. Bd3 b6 10. O-O e6 11. h3 Be7 12. Re1 O-O 13. e4 Nh5 14. Bxe7 Qxe7 15. e5 Nf4 16. Ba6 c6 17. Qd2 Nd5 18. a3 f6 19. b4 Nb7 20. Bxb7 Qxb7 21. exf6 Rxf6 22. Ne5 Nf4 23. Ng4 c5 24. Nxf6+ gxf6 25. f3 cxd4 26. Qxf4 d3 27. Qxf6 d2 28. Qg6+ Kf8 29. Qxh6+ Ke8 30. Qxd2 Ke7 31. Qg5+ Kd6 32. Rbd1+ Kc7 33. Qe7+ Kb8 34. Rd8+ Qc8 35. Rxc8+ Kxc8 36. Qxe6+ Kb7 37. Qd7+ Ka6 38. Re5 Rg8 39. b5+ Ka5 40. Qxa7# 1-0
+

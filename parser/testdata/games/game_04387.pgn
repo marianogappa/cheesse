@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/V84qFHD1"]
+[White "ytrer"]
+[Black "ryamo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:54"]
+[WhiteElo "1497"]
+[BlackElo "1445"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nf3 b6 3. d4 Bb7 4. e5 d6 5. Bf4 Bxf3 6. Qxf3 dxe5 7. Bxe5 c6 8. c4 Bb4+ 9. Nc3 Nd7 10. a3 Nxe5 11. dxe5 Bc5 12. Bd3 Qd4 13. O-O Rd8 14. Qxc6+ Kf8 15. Rad1 Qxe5 16. Nb5 Ne7 17. Qb7 Qxb2 18. Qc7 Rc8 19. Qd7 a6 20. Nd6 Bxd6 21. Qxd6 g6 22. Be4 Rxc4 23. Bf3 Rc8 24. Bb7 Re8 25. Qc7 Kg7 26. Qd6 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/SGXqy3GS"]
+[White "luigi41"]
+[Black "sean914ny"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:19"]
+[WhiteElo "1629"]
+[BlackElo "1441"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "C68"]
+[Opening "Ruy Lopez: Exchange Variation, Lutikov Variation"]
+[TimeControl "1800+25"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.22] } 1... e5 { [%eval 0.19] } 2. Nf3 { [%eval 0.19] } 2... Nc6 { [%eval 0.27] } 3. Bb5 { [%eval 0.28] } 3... a6 { [%eval 0.19] } 4. Bxc6 { [%eval 0.36] } 4... bxc6 { [%eval 0.79] } 5. O-O { [%eval 0.59] } 5... d6 { [%eval 0.72] } 6. d4 { [%eval 0.52] } 6... exd4 { [%eval 0.65] } 7. Nxd4 { [%eval 0.69] } 7... Nf6?! { [%eval 1.21] } 8. Nxc6 { [%eval 1.04] } 8... Qd7 { [%eval 1.27] } 9. Nd4 { [%eval 1.02] } 9... Nxe4? { [%eval 2.4] } 10. Re1 { [%eval 2.37] } 10... d5 { [%eval 2.55] } 11. f3 { [%eval 2.49] } 11... Bc5 { [%eval 2.46] } 12. fxe4 { [%eval 2.39] } 12... O-O { [%eval 2.47] } 13. c3 { [%eval 2.05] } 13... dxe4 { [%eval 2.24] } 14. Rxe4 { [%eval 2.01] } 14... Bb7 { [%eval 2.02] } 15. Re1 { [%eval 1.82] } 15... Rae8 { [%eval 1.68] } 16. b4?? { [%eval -6.7] } 16... Rxe1+? { [%eval -3.92] } 17. Qxe1 { [%eval -3.84] } 17... Bxd4+ { [%eval -3.56] } 18. Kh1?? { [%eval #-4] } 18... Bxg2+?! { [%eval -15.68] } 19. Kxg2 { [%eval -14.06] } 19... Qd5+?? { [%eval -4.31] } 20. Kh3? { [%eval -5.8] } 20... Qf3+ { [%eval -5.57] } 21. Qg3 { [%eval -5.35] } 21... Qxc3?? { [%eval 15.58] } 22. Nxc3 { [%eval 15.35] } 1-0
+

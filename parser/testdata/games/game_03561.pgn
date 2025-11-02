@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RzYBdfex"]
+[White "sfishman59"]
+[Black "rollercoaster3"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:38"]
+[WhiteElo "1714"]
+[BlackElo "1745"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-60"]
+[ECO "E61"]
+[Opening "King's Indian Defense: Semi-Classical Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.27] } 1... d6 { [%eval 0.55] } 2. c4 { [%eval 0.35] } 2... Nf6 { [%eval 0.6] } 3. Nf3 { [%eval 0.55] } 3... g6 { [%eval 0.54] } 4. Nc3 { [%eval 0.58] } 4... Bg7 { [%eval 0.66] } 5. e3 { [%eval 0.35] } 5... O-O { [%eval 0.47] } 6. Be2 { [%eval 0.21] } 6... c5 { [%eval 0.29] } 7. O-O { [%eval 0.4] } 7... Bg4 { [%eval 0.68] } 8. h3 { [%eval 0.76] } 8... Bxf3 { [%eval 0.8] } 9. Bxf3 { [%eval 0.76] } 9... Nc6 { [%eval 0.76] } 10. dxc5 { [%eval 0.65] } 10... dxc5 { [%eval 0.7] } 11. Qa4 { [%eval 0.32] } 11... Qb6 { [%eval 0.48] } 12. Bxc6 { [%eval 0.32] } 12... bxc6 { [%eval 0.6] } 13. Qc2 { [%eval 0.28] } 13... Rab8?! { [%eval 0.9] } 14. b3 { [%eval 0.83] } 14... Ne4 { [%eval 0.94] } 15. Bb2?! { [%eval 0.4] } 15... Nd6 { [%eval 0.81] } 16. Rfd1 { [%eval 0.55] } 16... a5?! { [%eval 1.21] } 17. Na4 { [%eval 1.14] } 17... Qa7 { [%eval 1.24] } 18. Bxg7 { [%eval 1.24] } 18... Kxg7 { [%eval 1.28] } 19. Rd2 { [%eval 1.16] } 19... f5 { [%eval 1.55] } 20. Rad1 { [%eval 1.22] } 20... Rf7?! { [%eval 1.73] } 21. Qc3+ { [%eval 1.65] } 21... Kg8 { [%eval 1.96] } 22. Qe5 { [%eval 1.91] } 22... Rbf8 { [%eval 2.3] } 23. Nxc5 { [%eval 2.2] } 23... Ne4? { [%eval 3.66] } 24. Nxe4 { [%eval 3.48] } 24... fxe4 { [%eval 3.49] } 25. Rd7 { [%eval 3.37] } 25... Qb6? { [%eval 4.51] } 26. Rxe7 { [%eval 4.32] } 26... Qb4?? { [%eval 61.95] } 27. Rxf7 { [%eval 32.21] } 27... Rxf7 { [%eval 21.19] } 28. Qxe4?? { [%eval 4.5] } 28... Qf8 { [%eval 4.95] } 29. Rd2?! { [%eval 4.2] } 1-0
+

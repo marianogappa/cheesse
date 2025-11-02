@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/KT3NGjwq"]
+[White "Aminkh"]
+[Black "romisekg"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:02"]
+[WhiteElo "1562"]
+[BlackElo "1844"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+6"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Scandinavian Variation, Advance Variation"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. d4 d5 3. e5 e6 4. c4 Bb4+ 5. Bd2 dxc4 6. Bxc4 Qxd4 7. Bb5 Qxe5+ 8. Qe2 Qxb2 9. Bxc6+ bxc6 10. Qe4 Bxd2+ 11. Nxd2 Qxa1+ 12. Nb1 Rb8 13. Qxc6+ Kf8 14. Qxc7 Rxb1+ 15. Kd2 Qd4+ 16. Ke2 Ba6+ 17. Kf3 Qd3+ 18. Kg4 Rb4+ 19. f4 Nh6+ 20. Kh4 g5+ 21. Kh5 Qg6# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/HtcGMqTj"]
+[White "Unclelu"]
+[Black "OhKonner"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:37"]
+[WhiteElo "1328"]
+[BlackElo "1351"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C23"]
+[Opening "Bishop's Opening: Philidor Counterattack"]
+[TimeControl "1200+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 c6 3. Bxf7+ Kxf7 4. Qh5+ g6 5. Qxe5 Bg7 6. Qf4+ Nf6 7. Nc3 Re8 8. d3 d5 9. e5 Nd7 10. Nf3 Kg8 11. d4 c5 12. O-O cxd4 13. exf6 Nxf6 14. Nxd4 Re4 15. Nxe4 Nh5 16. Qg5 Bf5 17. Qxd8+ Rxd8 18. Ng5 Bxd4 19. h3 h6 20. g4 Ng3 21. Re1 Bxg4 22. hxg4 hxg5 23. Bxg5 Ne4 24. Bxd8 Bxb2 25. Rab1 Bc3 26. Re3 Bd4 27. Rd3 Bxf2+ 28. Kg2 b6 29. Rxd5 Nc3 30. Rg5 Nxb1 31. Kxf2 Kh7 32. Rd5 Nc3 33. Rd7+ Kh6 34. g5+ Kh5 35. Kg3 Nxa2 36. Rh7# 1-0
+

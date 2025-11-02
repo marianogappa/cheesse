@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cf7Wv6LR"]
+[White "suchabag"]
+[Black "micuenta"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:14"]
+[WhiteElo "1174"]
+[BlackElo "1221"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-12"]
+[ECO "C30"]
+[Opening "King's Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 f6 3. Nf3 d6 4. Bc4 Ne7 5. O-O c6 6. Nc3 b5 7. Bb3 a5 8. a4 Ba6 9. d3 b4 10. Ne2 d5 11. fxe5 fxe5 12. Nxe5 dxe4 13. dxe4 Qxd1 14. Rxd1 Ng6 15. Nf7 Rg8 16. Bg5 Nd7 17. Nd4 Ra7 18. Nxc6 Nc5 19. Rd8# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/dHzkBJpz"]
+[White "maliuk"]
+[Black "Petran71"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:36"]
+[WhiteElo "1508"]
+[BlackElo "1381"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Bb7 3. Nc3 g6 4. Bc4 Bg7 5. Nf3 e6 6. e5 Bxf3 7. Qxf3 Nc6 8. Be3 Bh6 9. O-O-O Bxe3+ 10. Qxe3 d5 11. exd6 cxd6 12. d5 Ne5 13. dxe6 Nxc4 14. exf7+ Kxf7 15. Qf4+ Nf6 16. Qxc4+ Kg7 17. Rhe1 Rc8 18. Qa6 Re8 19. Rxe8 Qxe8 20. Qxa7+ Kh8 21. Qxb6 Rb8 22. Qxd6 Ne4 23. Qd4+ Kg8 24. Re1 1-0
+

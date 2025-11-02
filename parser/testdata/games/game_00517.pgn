@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/0CgtXVBL"]
+[White "Megarachne"]
+[Black "FA9024"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:54"]
+[WhiteElo "1990"]
+[BlackElo "1820"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. Nf3 d6 3. Bf4 Qe7 4. Nc3 Nd7 5. e4 c6 6. Bd3 e5 7. dxe5 dxe5 8. Bg3 h6 9. Qe2 Qf6 10. O-O g5 11. Nd2 Ne7 12. f3 Ng6 13. Nc4 Nf4 14. Bxf4 gxf4 15. a4 Rg8 16. Kh1 Qg7 17. Rg1 Nc5 18. Nd1 Ne6 19. c3 Bd7 20. Nf2 O-O-O 21. b4 Ng5 22. b5 Be6 23. bxc6 Bxc4 24. cxb7+ Kb8 25. Bxc4 Bc5 26. Rab1 Rd6 27. Bd5 Rgd8 28. Rb5 Be3 29. c4 Rg8 30. c5 Bxf2 31. Qxf2 Rxd5 32. exd5 Rc8 33. bxc8=Q+ Kxc8 34. d6 Kd7 35. Rb7+ Ke6 36. Re7+ Kd5 37. Rd1+ Kc6 38. Rc7# 1-0
+

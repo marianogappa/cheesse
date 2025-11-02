@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/2tcFiSTp"]
+[White "heitorlm"]
+[Black "squarepig"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:42"]
+[WhiteElo "1430"]
+[BlackElo "1549"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+[ECO "B03"]
+[Opening "Alekhine Defense"]
+[TimeControl "480+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. exd6 cxd6 5. Bc4 Nb6 6. d5 Nxc4 7. b3 Nb6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xMZaSxYD"]
+[White "khelaslou"]
+[Black "Norvoll"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:58"]
+[WhiteElo "1994"]
+[BlackElo "1914"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. f4 { [%eval -0.17] } 1... d5 { [%eval -0.2] } 2. Nf3 { [%eval -0.2] } 2... e6 { [%eval -0.2] } 3. e3 { [%eval -0.16] } 3... c6 { [%eval -0.12] } 4. b3 { [%eval -0.03] } 4... Nf6 { [%eval -0.1] } 5. Bb2 { [%eval -0.03] } 5... Be7 { [%eval 0.0] } 6. Be2 { [%eval -0.1] } 6... b5 { [%eval 0.14] } 7. O-O { [%eval 0.1] } 7... Bb7 { [%eval 0.18] } 8. d4 { [%eval 0.07] } 8... Nbd7 { [%eval 0.11] } 9. Nc3 { [%eval -0.26] } 9... a5 { [%eval -0.14] } 10. a4 { [%eval -0.49] } 10... b4 { [%eval -0.54] } 11. Nb1 { [%eval -0.54] } 11... Ba6 { [%eval -0.17] } 12. Nbd2 { [%eval -0.27] } 12... Bxe2 { [%eval -0.16] } 13. Qxe2 { [%eval -0.19] } 13... O-O { [%eval -0.2] } 14. e4 { [%eval -0.22] } 14... dxe4 { [%eval -0.26] } 15. Ng5 { [%eval -0.66] } 15... Nd5 { [%eval -0.18] } 16. Ndxe4?! { [%eval -0.8] } 16... f5? { [%eval 2.16] } 17. Nxe6 { [%eval 2.13] } 17... Qb6?! { [%eval 2.79] } 18. N4g5? { [%eval 0.65] } 18... Rfe8 { [%eval 0.82] } 19. Qh5 { [%eval 0.75] } 19... N5f6?? { [%eval #2] } 20. Qf7+ { [%eval #1] } 1-0
+

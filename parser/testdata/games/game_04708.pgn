@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bbLkhJa2"]
+[White "Pirlo65"]
+[Black "Delpawn"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:01"]
+[WhiteElo "1836"]
+[BlackElo "1857"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Anti-Torre"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 Bg4 3. Ne5 Be6 4. h3 f6 5. Nf3 Nc6 6. Bf4 h6 7. e3 g5 8. Bh2 Bg7 9. Bb5 Bd7 10. a3 Nb8 11. Bxd7+ Nxd7 12. Nbd2 e6 13. Nb3 Ne7 14. Qd3 f5 15. Qc3 Nc6 16. Nc5 Nxc5 17. Qxc5 Bf8 18. Qc3 Bd6 19. Bxd6 Qxd6 20. O-O-O O-O-O 21. g3 g4 22. hxg4 fxg4 23. Nh4 Rhf8 24. Rhf1 Rf6 25. Qe1 Rdf8 26. Rd2 Qxg3 27. fxg3 Rxf1 28. Qxf1 Rxf1+ 29. Rd1 Rxd1+ 30. Kxd1 e5 31. c3 exd4 32. exd4 Ne7 33. Kd2 Ng8 34. Ke3 Nf6 35. Kf4 Ne4 36. Kxg4 Kd7 37. Kf4 Kc6 38. Nf5 Kb5 39. Ne7 Ka4 40. Nxd5 Nxg3 41. Kxg3 Kb3 42. Nxc7 Kxb2 43. d5 Kxc3 44. d6 Kb3 45. d7 Kxa3 46. d8=Q a5 47. Qd3+ Ka4 48. Qb5+ Ka3 49. Qxa5+ Kb3 50. Qb5+ Ka3 51. Qxb7 Ka4 52. Ne6 Ka3 53. Ng7 Ka2 54. Kf3 Ka3 55. Ke4 Ka2 56. Kd4 Ka1 57. Kc4 Ka2 58. Kc3 Ka1 59. Qb2# 1-0
+

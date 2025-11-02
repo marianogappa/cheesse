@@ -1,0 +1,18 @@
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/2DfmXKBM"]
+[White "haschme"]
+[Black "Trosky77"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:08"]
+[WhiteElo "2061"]
+[BlackElo "1771"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-8"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation"]
+[TimeControl "-"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 h6 7. Be3 Nc6 8. Bc4 Qe7 9. O-O Nxe4 10. Nxc6 bxc6 11. Nxe4 Qxe4 12. Bb3 Qg6 13. Qf3 d5 14. Rfe1 Be7 15. Bc5 Be6 16. Bxe7 Kxe7 17. Qf4 Kd7 18. Re3 Rhe8 19. Rg3 Qf6 20. Qxf6 gxf6 21. Rd1 Rab8 22. h3 c5 23. Bxd5 Bxd5 24. Rxd5+ Kc6 25. Rf5 Rxb2 26. Rxf6+ Kb7 27. Rxf7 Rxc2 28. Rgg7 Rc8 29. Kf1 Rxa2 30. Rf5 c4 31. Rc5 Rc2 32. Rg4 Re8 33. Rgxc4 Rce2 34. Rxc7+ Kb6 35. R7c6+ Ka5 36. Kg1 Re1+ 37. Kh2 Rf8 38. Rc2 Rf1 39. Ra2+ Kb5 40. Rcxa6 R1xf2 41. Rxf2 Rxf2 42. Rxh6 Kc5 43. Re6 Kd5 44. Re8 Rf4 45. Kg3 Rf6 46. h4 Rg6+ 47. Kh3 Re6 48. Rxe6 Kxe6 49. Kg4 Kf6 50. Kh5 Kf5 51. g4+ Kf4 52. Kg6 Kxg4 53. h5 Kh4 54. h6 Kg4 55. h7 Kf4 56. h8=Q Ke4 57. Qd8 Ke5 58. Qd3 Ke6 59. Qd4 Ke7 60. Qd5 Kf8 61. Qf7# 1-0
+

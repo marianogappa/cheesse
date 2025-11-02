@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/n0iTaoDA"]
+[White "Mauriciano"]
+[Black "azeta12"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:21"]
+[WhiteElo "1095"]
+[BlackElo "1369"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "1200+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 Nc6 3. Qh5 e6 4. f4 Nf6 5. Qe2 Nd4 6. Qd3 a6 7. Ne2 b5 8. Na3 bxc4 9. Nxc4 Bb7 10. e5 Nxe2 11. Qxe2 Nd5 12. Qe4 Rb8 13. d4 Nb4 14. Qe3 Nxc2+ 15. Kd2 Nxe3 16. Nxe3 Qa5+ 17. Kd1 cxd4 18. Nc4 Qa4+ 19. b3 Qb5 20. Kd2 Bb4+ 21. Kd3 Bxg2 22. Rd1 Qb7 23. Bb2 Qe4# 0-1
+

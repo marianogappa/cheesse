@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/zUAAeS9H"]
+[White "malew89001"]
+[Black "arielbarja"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:17"]
+[WhiteElo "1630"]
+[BlackElo "1637"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+13"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qd6 3. c4 Qe5+ 4. Be2 Bg4 5. f3 Bf5 6. g4 Bd3 7. Nc3 Nf6 8. Nb5 a6 9. Nc3 e6 10. dxe6 fxe6 11. b4 Bxb4 12. Bb2 Bxe2 13. Ngxe2 Nc6 14. Nb5 Qxb2 15. Nxc7+ Kd8 16. Nxa8 Qe5 17. O-O Bc5+ 18. Kh1 Nd4 19. Nxd4 Bxd4 20. Re1 Qc5 21. Rxe6 Bxa1 22. Qxa1 Kd7 23. Rb6 Rxa8 24. Rb3 b5 25. Rd3+ Ke7 26. Qe1+ Kf7 27. g5 Qxc4 28. Rc3 Re8 29. Qg3 Qf1+ 30. Qg1 Qxg1+ 31. Kxg1 Nd5 32. Rd3 Nb4 33. Rd7+ Re7 34. Rd4 Nxa2 35. Rf4+ Kg6 36. h4 Nc1 37. Kg2 Ne2 38. Rf8 h5 39. Kf2 Nd4 40. Kg3 Nf5+ 41. Kf4 Rf7 42. Rb8 Nd4+ 43. Ke4 Nxf3 44. Rb6+ Kh7 45. g6+ Kg8 46. Rb8+ Rf8 47. Rxf8+ Kxf8 48. Kxf3 a5 49. Ke3 a4 50. Kd3 a3 51. Kc2 b4 52. Kb3 Ke7 53. Ka2 Kf6 54. d4 Ke6 55. Kb3 Kd5 56. Kxb4 a2 0-1
+

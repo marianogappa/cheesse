@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0obVOtN5"]
+[White "wsliang"]
+[Black "ugurkoseoglu19"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:19"]
+[WhiteElo "1477"]
+[BlackElo "1530"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "C57"]
+[Opening "Italian Game: Two Knights Defense, Lolli Attack"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. d4 Nxd4 7. c3 b5 8. cxd4 bxc4 9. Qf3 Bb4+ 10. Bd2 Bxd2+ 11. Nxd2 Qxg5 12. Qxd5 Rb8 13. Nxc4 Be6 14. Qc6+ Ke7 15. Qxc7+ Kf6 16. Qxe5+ Qxe5+ 17. Nxe5 Rxb2 18. O-O Rxa2 19. Rxa2 Bxa2 20. Ra1 Bd5 21. Rxa7 Rb8 22. h4 Rb1+ 23. Kh2 Rb2 24. f4 Rxg2+ 25. Kh3 Rg1 26. Ng4+ Ke6 27. Ne3 Rh1+ 28. Kg3 Rg1+ 29. Kf2 Rd1 30. Nxd1 1-0
+

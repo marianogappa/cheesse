@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/ZKmUhsIy"]
+[White "lib3344"]
+[Black "rugarpik"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:22"]
+[WhiteElo "1367"]
+[BlackElo "1602"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+5"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nc6 3. Qf3 Nf6 4. c3 d6 5. h3 Be7 6. d3 O-O 7. Bb3 Be6 8. Bd1 d5 9. Qg3 Bd6 10. Bh6 Nh5 11. Bxh5 g6 12. Bxf8 Qxf8 13. Bg4 Qh6 14. Bxe6 Qc1+ 15. Ke2 Qxb2+ 16. Kd1 fxe6 17. h4 Qxa1 18. h5 Qxb1+ 19. Kd2 Qxa2+ 20. Kd1 Qb3+ 21. Kd2 Ne7 22. hxg6 Nxg6 23. Nf3 dxe4 24. Nh4 Qb2+ 25. Ke3 Bc5+ 26. d4 Qxc3+ 27. Ke2 Qxg3 28. fxg3 exd4 29. Nxg6 hxg6 30. Rc1 Bb6 31. Rc4 Rf8 32. Rc1 Rf5 33. Rh1 Rc5 34. Rd1 Rc2+ 35. Rd2 Rxd2+ 36. Kxd2 Kf7 37. Ke2 Kf6 38. Kd2 Ke5 39. Ke2 d3+ 40. Kd2 Kd4 41. g4 e3+ 42. Ke1 Ba5+ 43. Kd1 e2+ 44. Kc1 e1=Q+ 45. Kb2 Qc3+ 46. Kb1 Qd2 47. Ka1 Bc3+ 48. Kb1 Qc2# 0-1
+

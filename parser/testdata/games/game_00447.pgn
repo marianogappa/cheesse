@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VzEQ6vtB"]
+[White "sgbrito"]
+[Black "Urriellu"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:33"]
+[WhiteElo "1847"]
+[BlackElo "1834"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. Bd3 Bd6 6. c3 O-O 7. O-O Bg4 8. Re1 Nbd7 9. h3 Bh5 10. Bg5 c6 11. Nbd2 Qc7 12. Qc2 Rfe8 13. Bf5 Bf4 14. g4 Bg6 15. Bxg6 hxg6 16. c4 Bxg5 17. Nxg5 Qf4 18. Ngf3 Ne4 19. cxd5 cxd5 20. Qd3 Ndf6 21. Rac1 Re7 22. Qe3 Qxe3 23. Rxe3 Rae8 24. Nxe4 Nxe4 25. Kg2 f5 26. Ne5 Kh7 27. f3 f4 28. Re2 Nd6 29. Rec2 Nb5 30. Rd1 g5 31. Rc5 Nxd4 32. Rxd4 Rxe5 33. Rdxd5 Re2+ 34. Kf1 Re1+ 0-1
+

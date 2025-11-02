@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5oHVO6WN"]
+[White "solna"]
+[Black "fulton"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:58"]
+[WhiteElo "1840"]
+[BlackElo "1714"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "A40"]
+[Opening "English Defense #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 b6 2. c4 Bb7 3. Nc3 e6 4. e4 Nf6 5. Bd3 Be7 6. f4 d6 7. Nf3 O-O 8. O-O Nbd7 9. h3 c5 10. d5 exd5 11. cxd5 a6 12. a4 b5 13. axb5 axb5 14. Ra7 Rxa7 15. Bxb5 Ba6 16. Re1 Bxb5 17. Nxb5 Rb7 18. Qd3 Qb6 19. e5 dxe5 20. fxe5 Qxb5 21. Qxb5 Rxb5 22. d6 Nxe5 23. dxe7 Nxf3+ 24. gxf3 Re8 25. Bg5 Nd5 26. Bh4 f6 27. Rd1 c4 28. Bg3 Rxe7 0-1
+

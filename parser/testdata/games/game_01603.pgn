@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/A70nTXch"]
+[White "MijoGrande"]
+[Black "BigRonBuckeye"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:02"]
+[WhiteElo "1351"]
+[BlackElo "1325"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+14"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bb5 a6 3. Ba4 b5 4. Bb3 c4 5. Bxc4 bxc4 6. Qf3 e6 7. e5 Nc6 8. d4 Nxd4 9. Qxa8 Nxc2+ 10. Kd2 Nxa1 11. Qf3 Qa5+ 12. Qc3 Bb4 13. Nf3 Bxc3+ 14. bxc3 0-1
+

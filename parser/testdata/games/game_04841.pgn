@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/M17RlnAZ"]
+[White "Mtty17"]
+[Black "josemoli01"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:41"]
+[WhiteElo "1861"]
+[BlackElo "1724"]
+[WhiteRatingDiff "+21"]
+[BlackRatingDiff "-8"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Nf3 Bf5 5. Bc4 Nf6 6. O-O Nc6 7. d4 O-O-O 8. Be3 Ng4 9. Qe2 e5 10. dxe5 Ncxe5 11. Nxe5 Nxe5 12. Bb3 Bc5 13. Bxc5 Qxc5 14. Rad1 Rhe8 15. Rxd8+ Kxd8 16. Re1 Qc6 17. Rd1+ Kc8 18. Qb5 Qxb5 19. Nxb5 a6 20. Nd4 Bg6 21. Re1 f6 22. f4 Nf3+ 23. Nxf3 Rxe1+ 24. Nxe1 Kd7 25. Kf2 c5 26. Ke3 b5 27. c3 a5 28. a4 b4 29. cxb4 axb4 30. Nd3 Kd6 31. a5 Kc6 32. a6 Kb5 33. Bc4+ Kb6 34. Nxc5 Kxc5 35. a7 Be8 36. a8=Q Bc6 37. Qa6 Bxg2 38. Qb5+ Kd6 39. Qxb4+ Kd7 40. Qd2+ Kc7 41. Qxg2 Kd6 42. Qd5+ Ke7 43. Qe6+ Kd8 44. Qf7 Kc8 45. Ba6+ Kb8 46. Qb7# 1-0
+

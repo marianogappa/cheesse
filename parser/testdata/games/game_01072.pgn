@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/A0rFOLZp"]
+[White "dobbo"]
+[Black "Freitasjr"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:00"]
+[WhiteElo "1900"]
+[BlackElo "2017"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+[ECO "B52"]
+[Opening "Sicilian Defense: Canal Attack, Main Line"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.26] } 1... c5 { [%eval 0.27] } 2. Nf3 { [%eval 0.21] } 2... d6 { [%eval 0.27] } 3. Bb5+ { [%eval 0.22] } 3... Bd7 { [%eval 0.31] } 4. Bxd7+ { [%eval 0.25] } 4... Nxd7 { [%eval 0.27] } 5. O-O { [%eval 0.26] } 5... e6 { [%eval 0.34] } 6. c3 { [%eval 0.19] } 6... Ngf6 { [%eval 0.14] } 7. Qe2 { [%eval 0.14] } 7... Be7 { [%eval 0.14] } 8. d4 { [%eval 0.14] } 8... cxd4 { [%eval 0.18] } 9. cxd4 { [%eval 0.14] } 9... O-O { [%eval 0.2] } 10. Nc3 { [%eval 0.17] } 10... a6 { [%eval 0.4] } 11. e5 { [%eval 0.35] } 11... dxe5 { [%eval 0.45] } 12. dxe5 { [%eval 0.27] } 12... Nd5 { [%eval 0.43] } 13. Ne4? { [%eval -0.72] } 13... Qb6?! { [%eval -0.2] } 14. Be3 { [%eval -0.4] } 14... Nxe3 { [%eval -0.27] } 15. fxe3?! { [%eval -0.89] } 15... Nc5 { [%eval -0.4] } 16. Nfd2? { [%eval -2.37] } 16... Qxb2 { [%eval -2.12] } 17. Rab1 { [%eval -2.5] } 17... Qxe5 { [%eval -2.3] } 18. Rf3?? { [%eval -6.66] } 18... Nxe4 { [%eval -6.66] } 0-1
+

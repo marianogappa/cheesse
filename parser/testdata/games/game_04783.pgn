@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CtcVtxCl"]
+[White "Ewen_Steiner"]
+[Black "aymounos"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:26"]
+[WhiteElo "2214"]
+[BlackElo "1384"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Catalan Formation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. g3 d5 2. Bg2 e6 3. c4 dxc4 4. Qa4+ c6 5. Qxc4 Nd7 6. Nf3 Nb6 7. Qc2 Nf6 8. d4 Nfd5 9. e4 Nf6 10. O-O Bd7 11. Nc3 Nc4 12. Rd1 Bb4 13. e5 Nd5 14. Ne4 Ncb6 15. Bg5 f6 16. exf6 gxf6 17. Bh6 f5 18. Bg5 Qc8 19. Nf6+ Nxf6 20. Bxf6 Rg8 21. Ne5 Be7 22. Bxe7 Kxe7 23. Re1 Nd5 24. Nc4 Rg4 25. Qxf5 Qg8 26. Bh3 Rxd4 27. b3 Rf8 28. Qh5 Qf7 29. Qxf7+ Rxf7 30. Ne5 Rf8 31. Nxd7 Kxd7 32. Rxe6 Rd3 33. Re3+ Kd6 34. Rxd3 Kc7 35. Re1 Nb4 36. Rd7+ Kb6 37. Ree7 Nxa2 38. Rxb7+ Kc5 39. Rxa7 Rf3 40. Rxa2 Rxb3 41. Rd7 Rb1+ 42. Kg2 Kc4 43. Rc2+ Kb3 44. Rxc6 Re1 45. Rb7+ Ka4 46. Ra6# 1-0
+

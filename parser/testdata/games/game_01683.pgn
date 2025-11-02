@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/l8olmmIp"]
+[White "GierP"]
+[Black "gozyasidamlasi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:21"]
+[WhiteElo "1387"]
+[BlackElo "1124"]
+[WhiteRatingDiff "+27"]
+[BlackRatingDiff "-20"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "360+0"]
+[Termination "Time forfeit"]
+
+1. d3 d5 2. Bf4 Nf6 3. h3 Bf5 4. e3 e6 5. Be2 Nc6 6. Nf3 Bb4+ 7. Nbd2 Bxd2+ 8. Qxd2 O-O 9. O-O g6 10. Qc3 Nh5 11. Nd4 Nxf4 12. exf4 Nxd4 13. Qxd4 Qd6 14. Qe5 Qxe5 15. fxe5 b6 16. c3 Rfe8 17. d4 Be4 18. Rad1 Bc2 19. Rd2 Bf5 20. Bd3 Bxd3 21. Rxd3 c5 22. b3 cxd4 23. cxd4 Rac8 24. Rfd1 Rc2 25. R1d2 Rxd2 26. Rxd2 Rc8 27. f4 Rc1+ 28. Kf2 a5 29. Ke2 b5 30. Rd1 Rxd1 31. Kxd1 b4 32. Kc2 Kg7 33. Kb2 Kh6 34. a3 Kh5 35. g3 g5 36. fxg5 Kxg5 37. axb4 axb4 38. Kc2 h5 39. Kd3 h4 40. gxh4+ Kxh4 41. Ke3 Kxh3 42. Kf4 Kh4 43. Kf3 Kg5 44. Ke3 f5 45. Kf3 Kg6 46. Kf4 Kf7 47. Kg5 Ke7 48. Kf4 Kf7 49. Kg5 Kg7 50. Kf4 Kg6 51. Kf3 Kg5 52. Kg3 Kh5 53. Kf4 Kh4 54. Kf3 Kg5 55. Kg3 Kh5 56. Kf3 Kh4 57. Kf4 Kh3 58. Kg5 Kg3 59. Kf6 f4 60. Kxe6 f3 61. Kxd5 f2 62. e6 f1=Q 63. e7 Qf7+ 64. Kd6 Qf6+ 65. Kd7 Qxd4+ 66. Ke6 Qb6+ 67. Kf7 Qc7 68. Kf8 Qc8+ 69. e8=Q Qc3 70. Qg6+ Kf4 71. Qh6+ Kg4 72. Qe6+ Kg5 73. Qe7+ Kg6 74. Qd6+ Kf5 75. Qd7+ Ke5 76. Qg7+ Kd5 77. Qg5+ Kd4 78. Qg4+ Kd3 79. Qg6+ Kd4 80. Qg7+ Kd3 81. Qh7+ Kd4 82. Qd7+ Ke3 83. Qe6+ Kd4 84. Qd6+ Ke3 85. Qh6+ Kd3 86. Qh3+ Kc2 87. Qh7+ 1-0
+

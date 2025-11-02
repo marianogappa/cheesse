@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/PphMUarV"]
+[White "Maziozare"]
+[Black "malestro"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:13"]
+[WhiteElo "1935"]
+[BlackElo "2304"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+2"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. b3 d6 2. Bb2 Nd7 3. f4 c6 4. Nf3 b5 5. e3 Bb7 6. a4 a6 7. axb5 axb5 8. Rxa8 Qxa8 9. Be2 e6 10. Nc3 Ngf6 11. d3 Be7 12. O-O b4 13. Qe1 c5 14. Qg3 bxc3 15. Bxc3 g6 16. Ra1 Qb8 17. h3 O-O 18. Ng5 Nd5 19. Bb2 Bf6 20. Bxf6 N7xf6 21. e4 Nb4 22. Bd1 h6 23. Nf3 Kh7 24. Qh4 Qd8 25. Ng5+ Kg7 26. Nf3 Nh5 27. Qg4 f5 28. exf5 exf5 29. Qh4 Qxh4 30. Nxh4 Nxf4 31. Bf3 Bxf3 32. Nxf3 Nxc2 33. Ra6 Rd8 34. Nd2 Nxd3 35. Nc4 Ncb4 36. Rb6 Nd5 37. Ra6 N3b4 38. Ra7+ Kf6 39. Kf2 Nf4 40. h4 h5 41. g3 Nfd3+ 42. Ke3 Ne5 43. Na5 Nbc6 44. Nxc6 Nxc6 45. Rc7 Ne5 46. Kf4 Rb8 47. Ra7 Rb4+ 48. Ke3 Rxb3+ 49. Kf2 Ng4+ 50. Kg2 c4 51. Rc7 c3 52. Kf3 Ne5+ 53. Ke2 Rb2+ 54. Kd1 c2+ 55. Kc1 Ra2 56. Rc8 Nd3+ 57. Kd2 c1=Q+ 58. Kxd3 Qxc8 59. Kd4 Qc5+ 60. Kd3 Ra3+ 61. Kd2 Qf2+ 62. Kc1 Ra1# 0-1
+

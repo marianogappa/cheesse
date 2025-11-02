@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/IHfm2BUL"]
+[White "Fran_52"]
+[Black "lmmontes"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:38"]
+[WhiteElo "1375"]
+[BlackElo "1226"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. Bb5 a6 5. Bxc6+ bxc6 6. b3 c5 7. Bb2 c6 8. Na4 Bg4 9. O-O f5 10. exf5 Bxf5 11. c4 e4 12. Nh4 Nh6 13. Nxf5 Nxf5 14. Qe1 Qe7 15. d3 Rg8 16. dxe4 Nh4 17. e5 Kd7 18. Nb6+ Ke6 19. Nxa8 Qg5 20. Qe4 dxe5 21. Nc7+ Kd6 22. Ne8+ Ke6 23. Nc7+ Kd6 24. Rad1+ Kxc7 25. Qxe5+ Qxe5 26. Bxe5+ Bd6 27. Bxd6+ Kb6 28. a4 a5 29. Be7 Re8 30. Bxh4 Re2 31. Rde1 Rb2 32. Bd8+ Kb7 33. Re7+ Kc8 34. Bxa5 Rxb3 35. Rc7+ Kb8 36. Rd1 Ra3 37. Rd8# 1-0
+

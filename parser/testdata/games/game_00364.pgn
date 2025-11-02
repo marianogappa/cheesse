@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/omKSUV34"]
+[White "affluential"]
+[Black "alexpower2000"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:07"]
+[WhiteElo "1517"]
+[BlackElo "1396"]
+[WhiteRatingDiff "+24"]
+[BlackRatingDiff "-7"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bf4 Ne4 5. Nb5 Bd6 6. Nxd6+ cxd6 7. cxd5 exd5 8. e3 h5 9. Ne2 g5 10. Bxg5 Qxg5 11. Nf4 Nc6 12. Bb5 a6 13. Ba4 b5 14. Bb3 Be6 15. Rc1 Na5 16. O-O h4 17. h3 Nc4 18. Bxc4 bxc4 19. Qa4+ Ke7 20. Qb4 Rab8 21. Qa5 Rhg8 22. Kh2 Nxf2 23. Rxf2 Qg3+ 24. Kg1 Qxe3 25. Qc7+ Ke8 26. Qxb8+ Ke7 27. Qxg8 Qxc1+ 28. Rf1 Qe3+ 29. Kh1 Qxd4 30. Nxe6 fxe6 31. Rf7# 1-0
+

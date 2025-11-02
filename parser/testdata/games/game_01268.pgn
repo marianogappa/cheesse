@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9ten7aSv"]
+[White "danielillochess"]
+[Black "CoolMagma"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:43"]
+[WhiteElo "1505"]
+[BlackElo "1070"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+190"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "120+2"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.25] } 1... g6 { [%eval 0.64] } 2. d4 { [%eval 0.53] } 2... Bg7 { [%eval 0.6] } 3. e5?! { [%eval -0.28] } 3... b6? { [%eval 0.89] } 4. c3?! { [%eval 0.26] } 4... Bb7 { [%eval 0.41] } 5. Nf3 { [%eval 0.37] } 5... e6 { [%eval 0.46] } 6. g3?! { [%eval -0.08] } 6... Ne7 { [%eval 0.07] } 7. Bg2 { [%eval -0.07] } 7... h5?! { [%eval 0.55] } 8. O-O { [%eval 0.42] } 8... Nf5 { [%eval 0.7] } 9. Bg5 { [%eval 0.8] } 9... Ne7 { [%eval 1.22] } 10. Re1 { [%eval 1.16] } 10... Bh6?! { [%eval 2.07] } 11. Qc1? { [%eval 0.96] } 11... Bxg5 { [%eval 0.91] } 12. Qxg5 { [%eval 0.98] } 12... Na6 { [%eval 1.17] } 13. Qxg6?? { [%eval -9.41] } 13... fxg6 { [%eval -9.4] } 14. Nbd2 { [%eval -9.36] } 14... c5 { [%eval -9.16] } 15. a3?! { [%eval -9.9] } 15... cxd4 { [%eval -9.58] } 16. cxd4 { [%eval -10.38] } 16... Nf5 { [%eval -10.14] } 17. Nc4 { [%eval -11.69] } 17... Bxf3 { [%eval -11.52] } 18. Bxf3 { [%eval -11.43] } 18... Rc8 { [%eval -11.07] } 19. Nd6+ { [%eval -11.68] } 19... Ke7? { [%eval -8.89] } 20. Nxc8+ { [%eval -8.97] } 20... Qxc8 { [%eval -8.67] } 21. Rac1? { [%eval -9.97] } 21... Qf8? { [%eval -8.97] } 22. Bg2? { [%eval -10.12] } 22... Nxd4 { [%eval -9.84] } 23. b4 { [%eval -11.15] } 23... b5 { [%eval -10.29] } 24. Rc3 { [%eval -10.38] } 24... h4 { [%eval -10.02] } 25. Re4 { [%eval -10.45] } 25... Nc6 { [%eval -10.09] } 26. Rf4 { [%eval -11.81] } 26... Qg7 { [%eval -11.44] } 27. Rcf3 { [%eval -13.45] } 27... Nxe5 { [%eval -13.04] } 28. Rf7+ { [%eval -20.8] } 0-1
+

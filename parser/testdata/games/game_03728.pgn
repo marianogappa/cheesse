@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/q87I1n0Y"]
+[White "OzanCK"]
+[Black "moorich"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:16"]
+[WhiteElo "1448"]
+[BlackElo "1385"]
+[WhiteRatingDiff "-77"]
+[BlackRatingDiff "+12"]
+[ECO "C20"]
+[Opening "King's Pawn Game: King's Head Opening #2"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. f3 f5 3. exf5 Nf6 4. Bd3 d5 5. c4 e4 6. fxe4 dxe4 7. Bc2 Bxf5 8. d3 Qe7 9. Qh5+ Bg6 10. Qd1 exd3+ 11. Ne2 dxc2 12. Nc3 cxd1=Q+ 13. Kxd1 0-1
+

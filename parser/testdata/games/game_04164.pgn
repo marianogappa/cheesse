@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/RsHJ6c1p"]
+[White "HardWoodPusher"]
+[Black "Nkko"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:48"]
+[WhiteElo "1908"]
+[BlackElo "1916"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.2] } 1... c5 { [%eval 0.28] } 2. Nc3 { [%eval 0.24] } 2... e6 { [%eval 0.39] } 3. f3?! { [%eval -0.45] } 3... Nc6 { [%eval -0.42] } 4. Nge2 { [%eval -0.5] } 4... d5 { [%eval -0.41] } 5. exd5 { [%eval -0.67] } 5... exd5 { [%eval -0.83] } 6. d4? { [%eval -2.01] } 6... Nf6? { [%eval -0.03] } 7. Be3 { [%eval -0.09] } 7... cxd4 { [%eval 0.34] } 8. Nxd4 { [%eval 0.44] } 8... Be7 { [%eval 0.5] } 9. Nxc6? { [%eval -0.67] } 9... bxc6 { [%eval -0.54] } 10. Bd3? { [%eval -3.06] } 10... O-O? { [%eval -0.73] } 11. O-O? { [%eval -2.15] } 11... a6? { [%eval -0.24] } 12. Bf4 { [%eval -0.62] } 12... a5?! { [%eval -0.06] } 13. Ne2?! { [%eval -0.75] } 13... Ba6 { [%eval -0.26] } 14. c3 { [%eval -0.48] } 14... Bxd3 { [%eval -0.24] } 15. Qxd3 { [%eval -0.27] } 15... Bd6 { [%eval 0.0] } 16. Rad1 { [%eval -0.41] } 16... Qc7 { [%eval -0.06] } 17. Bxd6 { [%eval 0.0] } 17... Qxd6 { [%eval 0.0] } 18. g3 { [%eval -0.01] } 18... Rab8 { [%eval -0.15] } 19. b3 { [%eval -0.16] } 19... Rfe8 { [%eval -0.06] } 20. c4 { [%eval -0.41] } 20... Rbd8 { [%eval -0.23] } 21. cxd5 { [%eval -0.28] } 21... cxd5?! { [%eval 0.29] } 22. Nf4 { [%eval 0.0] } 22... d4 { [%eval 0.0] } 23. Rfe1 { [%eval -0.06] } 23... h6 { [%eval 0.0] } 24. Rxe8+ { [%eval 0.0] } 24... Nxe8 { [%eval 0.0] } 25. Kf2 { [%eval 0.0] } 25... Nf6 { [%eval 0.0] } 26. Ne2 { [%eval 0.0] } 26... Qe5 { [%eval 0.45] } 27. Nxd4 { [%eval 0.45] } 27... Nh7 { [%eval 0.8] } 28. Qe3 { [%eval 0.56] } 28... Qc5 { [%eval 0.58] } 0-1
+

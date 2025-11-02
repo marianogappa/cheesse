@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/8TXGmh0Y"]
+[White "RomanoIV"]
+[Black "znight"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:33"]
+[WhiteElo "1905"]
+[BlackElo "2273"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+7"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[TimeControl "900+16"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 e6 7. O-O b5 8. Re1 Be7 9. Qf3 Bb7 10. a3 O-O 11. Bg5 Nbd7 12. Qh3 Ne5 13. Rad1 Rc8 14. f3 Qc7 15. Be3 Rfe8 16. Nde2 d5 17. exd5 Nxd3 18. Rxd3 Nxd5 19. Bf2 b4 20. axb4 Nxb4 21. Rd2 Bg5 22. f4 Bf6 23. Red1 Rcd8 24. Qe3 Nxc2 25. Rxd8 Rxd8 26. Rxd8+ Qxd8 27. Qb6 Qd7 28. h3 h6 29. Bc5 Ne1 30. Qd6 Qxd6 31. Bxd6 Bxg2 32. Kf2 Bh4+ 33. Ng3 Bxh3 34. Kxe1 Bxg3+ 35. Ke2 Bg4+ 36. Ke3 f5 37. Ne2 Bxe2 38. Kxe2 g5 39. Kf3 Bxf4 40. Bxf4 gxf4 41. Kxf4 Kf7 42. b4 Kf6 43. Kg3 e5 44. Kh4 e4 45. Kg3 0-1
+

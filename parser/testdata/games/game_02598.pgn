@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OVj0nhsh"]
+[White "darewing"]
+[Black "Darth_Craft"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:49"]
+[WhiteElo "2119"]
+[BlackElo "2239"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Grand Prix Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.37] } 1... c5 { [%eval 0.3] } 2. Nc3 { [%eval 0.27] } 2... Nc6 { [%eval 0.36] } 3. f4 { [%eval -0.08] } 3... e6 { [%eval 0.0] } 4. Nf3 { [%eval -0.02] } 4... a6 { [%eval 0.06] } 5. g3 { [%eval 0.04] } 5... d5 { [%eval 0.05] } 6. e5 { [%eval -0.24] } 6... Be7 { [%eval -0.05] } 7. Bg2 { [%eval -0.44] } 7... b5 { [%eval -0.07] } 8. d3 { [%eval -0.39] } 8... Bb7 { [%eval -0.4] } 9. O-O { [%eval -0.33] } 9... g6 { [%eval -0.2] } 10. Bd2 { [%eval -0.48] } 10... h5 { [%eval -0.53] } 11. Qe1 { [%eval -0.49] } 11... Nh6 { [%eval -0.35] } 12. h3 { [%eval -0.69] } 12... Qb6 { [%eval -0.75] } 13. Kh2 { [%eval -0.78] } 13... Nf5 { [%eval -0.79] } 14. Ng5 { [%eval -0.93] } 14... Bxg5?! { [%eval -0.33] } 15. fxg5 { [%eval -0.57] } 15... O-O-O { [%eval -0.23] } 16. a3 { [%eval -0.21] } 16... Qc7 { [%eval -0.29] } 17. Bf4 { [%eval -0.18] } 17... Kb8 { [%eval -0.08] } 18. b4 { [%eval -0.43] } 18... cxb4 { [%eval -0.05] } 19. axb4 { [%eval -0.09] } 19... Nxb4?! { [%eval 0.81] } 20. Qd2? { [%eval -0.95] } 20... Rc8? { [%eval 0.7] } 21. Ra3? { [%eval -2.16] } 21... Nc6?? { [%eval 0.87] } 22. Nxd5 { [%eval 0.99] } 22... exd5 { [%eval 0.73] } 23. Bxd5? { [%eval -1.72] } 23... Qe7? { [%eval -0.36] } 24. Bxc6?? { [%eval -4.22] } 24... Rxc6 { [%eval -3.89] } 25. e6+?? { [%eval -6.95] } 25... Ka8 { [%eval -6.27] } 26. exf7?? { [%eval -9.54] } 26... Qxa3 { [%eval -8.75] } 27. Qe3? { [%eval #-8] } 27... Nxe3 { [%eval #-7] } 0-1
+

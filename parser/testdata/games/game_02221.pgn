@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/NmbMUJDl"]
+[White "havokdemolidor"]
+[Black "lama11"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:24"]
+[WhiteElo "1372"]
+[BlackElo "1456"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Bc5 3. Nxe5 Qh4 4. d4 Qxe4+ 5. Be3 Nc6 6. Bd3 Qxg2 7. Qh5 Qxh1+ 8. Kd2 Nxe5 9. dxe5 Bxe3+ 10. Kxe3 Qe1+ 11. Kf3 Qh1+ 12. Ke2 Qd5 13. Bxh7 Ne7 14. Nc3 Qc4+ 15. Kd2 Qf4+ 16. Ke2 g6 17. Qh3 d6 18. e6 Bxe6 19. Nd5 Bxh3 20. Nxf4 Rxh7 21. Nxh3 Rxh3 22. Re1 O-O-O 23. Kf1 Nd5 24. c4 Nf4 25. Re4 Nd3 26. b4 Rxh2 27. a3 f5 28. Rd4 Nxf2 29. c5 dxc5 30. bxc5 Rxd4 31. c6 bxc6 32. a4 Rxa4 33. Kg1 Ng4 34. Kf1 Ra1# 0-1
+

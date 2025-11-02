@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/xOYpiZI3"]
+[White "capricornwon"]
+[Black "xdaay"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:40"]
+[WhiteElo "1686"]
+[BlackElo "1817"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-15"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 Bf5 3. Nf3 d4 4. Bc4 Nc6 5. O-O e6 6. Re1 Bc5 7. c3 Nge7 8. cxd4 Nxd4 9. d3 O-O 10. Nh4 Ng6 11. Nxf5 Nxf5 12. Nd2 Qd4 13. Ne4 Qxe5 14. Ng5 Qd6 15. Qf3 c6 16. Bf4 Qd7 17. Rad1 Rad8 18. Qh3 h6 19. Nxf7 Nxf4 20. Qg4 Nd5 21. Nxd8 Qxd8 22. a3 Kh7 23. Rxe6 Nfe7 24. Qe4+ Kh8 25. Qe5 Bxf2+ 26. Kh1 Bh4 27. Rxh6+ Kg8 28. Rxh4 Rf6 29. Rg4 Qd6 30. Qh5 b5 31. Bb3 Nf5 32. Re1 g6 33. Re8+ Kf7 34. Qh7+ 1-0
+

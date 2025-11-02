@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/3AKmkEGR"]
+[White "nabawy"]
+[Black "axiles64"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:09"]
+[WhiteElo "2067"]
+[BlackElo "2076"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Noteboom Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nf3 dxc4 4. Nc3 e6 5. Bf4 Nf6 6. e4 Bb4 7. e5 Nd5 8. Rc1 Qa5 9. Bd2 Bxc3 10. bxc3 Qxa2 11. Ng5 b5 12. Qh5 Rf8 13. Qh6 gxh6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/8hzCusEH"]
+[White "faibel_eclipse"]
+[Black "jozarov"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:10"]
+[WhiteElo "1839"]
+[BlackElo "2196"]
+[WhiteRatingDiff "+22"]
+[BlackRatingDiff "-22"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. e3 g6 3. f4 Bg7 4. c3 O-O 5. Nf3 d6 6. Bd3 Bg4 7. O-O Nc6 8. Nbd2 e5 9. fxe5 dxe5 10. Qe1 Bxf3 11. gxf3 exd4 12. exd4 Re8 13. Ne4 Nh5 14. Qf2 f5 15. Bg5 Qd7 16. Ng3 1-0
+

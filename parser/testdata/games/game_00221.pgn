@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/K9zE6ULp"]
+[White "bilbobalboa"]
+[Black "goncabj7"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:39"]
+[WhiteElo "1866"]
+[BlackElo "1389"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-12"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted, King's Knight Gambit"]
+[TimeControl "1200+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Bc5 4. d4 Bb4+ 5. c3 Ba5 6. Bc4 Nf6 7. Bxf4 Nxe4 8. O-O O-O 9. Bd3 d5 10. Qc2 Nd7 11. Nbd2 Nxd2 12. Qxd2 h6 13. Bxh6 gxh6 14. Qxh6 Nb6 15. Qh7# 1-0
+

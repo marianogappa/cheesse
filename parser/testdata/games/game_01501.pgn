@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/BcFyv6SA"]
+[White "ger456"]
+[Black "GrohlRinghio"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:38"]
+[WhiteElo "1749"]
+[BlackElo "1416"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 Qg6 5. Bf3 Nf6 6. Nge2 Bg4 7. Bxb7 Bxe2 8. Qxe2 Qxg2 9. Rf1 Qxb7 10. d3 e6 11. b3 Bb4 12. Bb2 a5 13. O-O-O Nbd7 14. Na4 c5 15. c3 Bxc3 16. Bxc3 Nb6 17. Bxf6 Nxa4 18. Bxg7 Rg8 19. Qe5 Rc8 20. Bf6 Qd5 21. Qxd5 exd5 22. bxa4 c4 23. dxc4 Rxc4+ 24. Kb1 Rb4+ 25. Ka1 Rxa4 26. Rxd5 Rg6 27. Re1+ Kf8 28. Rd8# 1-0
+

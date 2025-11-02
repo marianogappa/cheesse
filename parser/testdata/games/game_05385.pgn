@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MF88Dwtt"]
+[White "logcabinrecluse"]
+[Black "danka11"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:45"]
+[WhiteElo "1876"]
+[BlackElo "1916"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C25"]
+[Opening "Vienna Game: Max Lange Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Bc5 4. Qg4 g6 5. Qg3 d6 6. d3 Nd4 7. Kd1 Qd7 8. Nge2 Qg4 9. Be3 Qxg3 10. hxg3 Nxe2 11. Nxe2 Bxe3 12. fxe3 Be6 13. Bb3 Bxb3 14. axb3 Nf6 15. Rf1 Ng4 16. Kd2 O-O 17. d4 a6 18. d5 Kg7 19. c4 Rad8 20. b4 h5 21. b5 axb5 22. cxb5 Ra8 23. Nc3 Nf6 24. Kd3 Nd7 25. b4 f6 26. Kc2 Nb6 27. Kb3 Rxa1 28. Rxa1 Ra8 29. Ra5 Rxa5 30. bxa5 Nd7 31. Na4 Kf7 32. a6 bxa6 33. bxa6 Nb8 34. a7 Na6 35. a8=Q Nc5+ 36. Nxc5 dxc5 37. Kc4 f5 38. Kxc5 fxe4 39. Kc6 g5 40. Kxc7 h4 41. Qc6 hxg3 42. Kd7 g4 43. Qe6+ Kg7 44. Ke7 Kh7 45. Qxg4 Kh6 46. Kf6 Kh7 47. Qg7# 1-0
+

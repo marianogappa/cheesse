@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/tnDkCqYn"]
+[White "HUARI_10"]
+[Black "Lpardo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:41"]
+[WhiteElo "1491"]
+[BlackElo "1629"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "300+10"]
+[Termination "Normal"]
+
+1. d3 c5 2. c4 Nc6 3. g3 e6 4. Bg2 Nf6 5. Nf3 Be7 6. b3 a6 7. Bb2 O-O 8. Nc3 d6 9. Qc2 e5 10. e3 Nb4 11. Qd2 Rb8 12. a3 Nc6 13. Ng5 Na5 14. b4 Nb3 15. Qc2 Nxa1 16. Bxa1 Bf5 17. e4 Bg6 18. h3 h6 19. Nf3 cxb4 20. axb4 Qb6 21. b5 axb5 22. Nxb5 Ra8 23. Bc3 Nd7 24. O-O Nc5 25. Nh2 Na4 26. Bd2 Qc6 27. f4 Qc5+ 28. Kh1 Bf6 29. Qb3 Qb6 30. Bb4 Nc5 31. f5 Bh7 32. Ng4 Bg5 33. h4 Nxb3 34. hxg5 hxg5 35. Bxd6 Rfe8 36. Nxe5 Nd4 37. Nd7 Qc6 38. Ne5 Qb6 39. Nd7 Qc6 40. Nf6+ gxf6 41. e5 Qb6 42. Nc7 Nxf5 43. Nxa8 Rxa8 44. Be4 Nxg3+ 45. Kg2 Nxf1 46. Kxf1 Bxe4 47. dxe4 fxe5 48. Bxe5 Qb1+ 0-1
+

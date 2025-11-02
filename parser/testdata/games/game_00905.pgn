@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/WgkPg23H"]
+[White "Pawka-10"]
+[Black "JwillKram"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:24"]
+[WhiteElo "1147"]
+[BlackElo "1986"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Maroczy Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. d3 e5 3. Nf3 Nc6 4. c4 Bc5 5. Bg5 d6 6. Nc3 h6 7. Bh4 Bb4 8. a3 Bxc3+ 9. bxc3 Bg4 10. a4 g5 11. Bg3 Nh5 12. Rb1 b6 13. c5 bxc5 14. d4 cxd4 15. cxd4 O-O 16. Rc1 Nxd4 17. Nxd4 Bxd1 18. Rxd1 exd4 19. Rxd4 Qf6 20. Rd5 Qc3+ 21. Ke2 Qc4+ 22. Ke1 Qxe4+ 23. Be2 Qxd5 24. h4 Nf4 25. hxg5 Nxe2 26. Kxe2 Rae8+ 27. Kf1 Qd1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ZEmyzv5C"]
+[White "AligiereTensa"]
+[Black "kingsharkjr"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:38"]
+[WhiteElo "1232"]
+[BlackElo "1193"]
+[WhiteRatingDiff "-33"]
+[BlackRatingDiff "+13"]
+[ECO "A20"]
+[Opening "English Opening: King's English Variation"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. c4 e5 2. Qa4 Nf6 3. e4 c6 4. d4 d5 5. dxe5 dxc4 6. exf6 Bg4 7. Bxc4 Qd1+ 8. Qxd1 Bxd1 9. Kxd1 Nd7 10. Nf3 O-O-O 11. Ng5 Ne5+ 12. Ke1 Bb4+ 13. Kf1 h6 14. Nxf7 Rhe8 15. Nh8 Re6 16. Ng6 Rxf6 17. Nxe5 Re6 18. Nxc6 Rxe4 19. Nxb4 Rde8 20. Bg5 Re1# 0-1
+

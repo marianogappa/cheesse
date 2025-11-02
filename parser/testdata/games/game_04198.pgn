@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/lo3VncYy"]
+[White "Cejnat"]
+[Black "Momo314"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:02"]
+[WhiteElo "1537"]
+[BlackElo "1068"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-3"]
+[ECO "C40"]
+[Opening "King's Knight Opening"]
+[TimeControl "360+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Bd6 3. Nc3 a6 4. Bc4 b5 5. Bb3 b4 6. Nd5 Bb7 7. d3 Bxd5 8. Bxd5 c6 9. Bc4 a5 10. Bg5 f6 11. Bh4 Nh6 12. h3 g5 13. Bg3 g4 14. hxg4 Nxg4 15. Nxe5 Bxe5 16. Qxg4 Bxg3 17. Qxg3 d5 18. exd5 cxd5 19. Bb5+ Nd7 20. O-O-O Qe7 21. Rde1 O-O-O 22. Rxe7 Ne5 23. Ba6+ Kb8 24. Qe3 d4 25. Qe4 Rde8 26. Qb7# 1-0
+

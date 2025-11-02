@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/r4tuSGYa"]
+[White "Jon4zzz"]
+[Black "javig"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:49"]
+[WhiteElo "1353"]
+[BlackElo "1356"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. e4 Qf6 3. Nf3 c5 4. e5 Qe7 5. Nc3 cxd4 6. Nxd4 Nh6 7. Bxh6 gxh6 8. Qf3 Qg5 9. Ndb5 Qxe5+ 10. Be2 a6 11. Na3 Bb4 12. O-O Bxc3 13. Qxc3 Qxc3 14. bxc3 O-O 15. Rad1 d5 16. c4 dxc4 17. Nxc4 Nc6 18. Bf3 Nb4 19. Nb6 Rb8 20. Nxc8 Rbxc8 21. Bxb7 Rxc2 22. Rc1 Rxc1 23. Rxc1 Nxa2 24. Ra1 Nc3 25. Bxa6 Ra8 26. Ra3 Nb5 27. Ra4 Nc3 28. Ra3 Ne4 29. f3 Nc5 30. Rc3 Nxa6 31. g4 Nb4 32. Kf2 Ra2+ 33. Ke3 Nd5+ 0-1
+

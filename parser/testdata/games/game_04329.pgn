@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/wmOw3Tzh"]
+[White "jozarov"]
+[Black "TheGreatest2"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:39"]
+[WhiteElo "2195"]
+[BlackElo "1991"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Barry Attack, Gruenfeld Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Be2 c5 7. Ne5 cxd4 8. exd4 Bf5 9. Qd2 Ne4 10. Nxe4 Bxe4 11. O-O Nc6 12. f3 Bf5 13. c3 Rc8 14. Rfe1 Bxe5 15. Bxe5 f6 16. Bg3 e5 17. Bb5 exd4 18. cxd4 Qb6 19. Bxc6 bxc6 20. Bd6 Rfe8 21. Bc5 Qb7 22. b3 Bd7 23. Qf4 Bf5 24. g4 Bd3 25. Qxf6 Rxe1+ 26. Rxe1 Qg7 27. Qxg7+ Kxg7 28. Re7+ Kf6 29. Rxa7 Re8 30. Kf2 Re2+ 31. Kg3 Re3 32. Ra8 Be4 33. Rf8+ Kg7 34. Rf4 g5 35. Rf8 Rc3 36. a4 Rxc5 37. dxc5 Kxf8 38. fxe4 dxe4 39. Kf2 Ke7 40. Ke3 Ke6 41. Kxe4 Kf6 42. a5 h6 43. a6 Ke6 44. a7 h5 45. a8=Q hxg4 46. Qxc6+ Kf7 47. Qd5+ Kg6 48. Qf5+ Kh6 49. Qf6+ Kh5 50. Ke5 Kh4 51. Qh6# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/jcqxQgYL"]
+[White "ihatechessboricua"]
+[Black "Klushki-com"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:54"]
+[WhiteElo "1818"]
+[BlackElo "1887"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. e4 b6 2. Ba6 Bxa6 3. d4 Bb7 4. c4 e6 5. d5 exd5 6. cxd5 d6 7. Nc3 Nd7 8. Bf4 Ngf6 9. Nf3 Be7 10. O-O O-O 11. a4 h6 12. b4 c5 13. b5 a6 14. bxa6 Bxa6 15. Re1 Re8 16. Ne2 Bf8 17. Ng3 g5 18. Be3 Ng4 19. Qb3 Nxe3 20. Qxe3 Nf6 21. Nf5 Rxe4 22. Qd2 Rxe1+ 23. Rxe1 Bg7 24. Ne7+ Kh7 25. Nf5 Ne4 26. Rxe4 Be5 27. Nxe5 dxe5 28. Rxe5 f6 29. Re7+ Qxe7 30. Nxe7 Re8 31. Qe3 Kg7 32. Qe4 Kf7 33. Qe6+ Kf8 34. Qc6 Rxe7 35. Qxb6 Re1# 0-1
+

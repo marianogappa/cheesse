@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/S1xszUID"]
+[White "Palestine48"]
+[Black "serega70-70"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:28"]
+[WhiteElo "1243"]
+[BlackElo "1300"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "A40"]
+[Opening "Montevideo Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 Nc6 2. d5 Nb8 3. e4 d6 4. g4 e5 5. g5 h6 6. Qh5 g6 7. Qh4 h5 8. f4 f6 9. fxe5 dxe5 10. Bb5+ Bd7 11. Bxd7+ Nxd7 12. Nf3 Qe7 13. c4 O-O-O 14. b3 a6 15. Ba3 Qg7 16. gxf6 Ngxf6 17. Ng5 Bxa3 18. Nxa3 Nc5 19. b4 Nfxe4 20. bxc5 Nxg5 21. Qxg5 Rhf8 22. O-O-O e4 23. c6 Qa1+ 24. Kd2 Qxa2+ 25. Ke1 Qxa3 26. Qxg6 Qc3+ 27. Rd2 e3 28. cxb7+ Kxb7 29. Qc6+ Kc8 30. Qxa6+ Kd7 31. Qb5+ Kc8 32. Qa6+ Kd7 33. Qe6# 1-0
+

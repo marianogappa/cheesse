@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/CbFfT941"]
+[White "Kasparovrussian"]
+[Black "witold22"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:27"]
+[WhiteElo "1656"]
+[BlackElo "1782"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-15"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Scandinavian Variation, Geschev Gambit"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.4] } 1... d5 { [%eval 0.64] } 2. exd5 { [%eval 0.63] } 2... Nf6 { [%eval 0.69] } 3. Nc3 { [%eval 0.23] } 3... c6?! { [%eval 0.75] } 4. dxc6 { [%eval 0.73] } 4... Nxc6 { [%eval 0.75] } 5. Nf3 { [%eval 0.82] } 5... e5 { [%eval 0.81] } 6. Bb5 { [%eval 0.58] } 6... Bg4?! { [%eval 1.15] } 7. h3 { [%eval 0.99] } 7... Bh5?! { [%eval 1.67] } 8. g4 { [%eval 1.79] } 8... Nxg4? { [%eval 3.01] } 9. hxg4 { [%eval 3.06] } 9... Bxg4 { [%eval 2.96] } 10. Rg1?! { [%eval 2.26] } 10... h5 { [%eval 2.22] } 11. Qe2 { [%eval 2.24] } 11... Bd6 { [%eval 2.4] } 12. Qe4 { [%eval 2.25] } 12... Qb6?! { [%eval 3.01] } 13. Bxc6+?! { [%eval 2.05] } 13... bxc6?! { [%eval 2.7] } 14. Nxe5? { [%eval 0.81] } 14... O-O-O? { [%eval 2.15] } 15. d4?! { [%eval 1.51] } 15... Bxe5 { [%eval 1.77] } 16. dxe5 { [%eval 1.79] } 16... Kb7? { [%eval 2.91] } 17. Rxg4 { [%eval 2.81] } 17... hxg4 { [%eval 2.78] } 18. Bd2? { [%eval 1.02] } 18... Rd4?! { [%eval 1.64] } 19. Qg2 { [%eval 1.14] } 19... Rhd8? { [%eval 2.32] } 20. O-O-O { [%eval 2.22] } 20... Qb4 { [%eval 2.67] } 21. Be3 { [%eval 2.39] } 21... Rxd1+ { [%eval 2.37] } 22. Nxd1 { [%eval 2.18] } 22... Qe1? { [%eval 3.5] } 23. Qxg4 { [%eval 3.12] } 1-0
+

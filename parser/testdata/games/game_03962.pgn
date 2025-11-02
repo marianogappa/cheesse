@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/zpjnov2V"]
+[White "Dentalen"]
+[Black "Joel49"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:05"]
+[WhiteElo "1185"]
+[BlackElo "1182"]
+[WhiteRatingDiff "-131"]
+[BlackRatingDiff "+8"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 Qf6 3. Nc3 Bb4 4. Nf3 Nc6 5. Bg5 Qg6 6. e3 f6 7. Bh4 e5 8. dxe5 Nxe5 9. Nxe5 fxe5 10. Bd3 Qxg2 11. Be4 Qxe4 12. a3 Qxh1+ 13. Ke2 Qxh2 14. Bg3 Qh5+ 15. f3 Bd6 16. Nb5 Rb8 17. Nxd6+ cxd6 18. Qxd6 Ra8 19. Bxe5 Qg5 20. Kf2 Qh4+ 21. Ke2 Qxc4+ 22. Kf2 Qc2+ 23. Kg3 Qg6+ 24. Kf2 Qc2+ 25. Kg3 Qg6+ 26. Kf2 Qxd6 27. Bxd6 h5 28. Be5 Rh7 29. Kg3 h4+ 30. Kh3 d6+ 31. Kh2 dxe5 32. Rh1 Ne7 33. Kg2 Nf5 34. e4 Ne3+ 35. Kf2 h3 36. Kxe3 a5 37. Kd3 b5 38. Kc3 Be6 39. Kd3 Rd8+ 40. Kc3 Rc8+ 41. Kd2 b4 42. axb4 a4 43. Rc1 Rd8+ 44. Kc2 h2 45. Rh1 Rc8+ 46. Kb1 g5 47. Ka1 g4 48. fxg4 Bxg4 49. b3 a3 50. Ka2 Ra8 51. b5 Bf3 52. Rb1 Bxe4 53. Re1 Rh4 54. b6 Rb8 55. Kxa3 Rxb6 56. b4 Ra6+ 57. Kb3 Re6 58. b5 Bd5+ 59. Ka3 Rh3+ 60. Ka4 e4 61. Ka5 e3 62. b6 Rh7 63. Ka6 Ra7+ 64. Kb5 h1=Q 65. Rxh1 Bxh1 66. bxa7 Re5+ 67. Kb6 Re7 68. a8=Q+ Bxa8 69. Ka6 e2 70. Ka5 e1=Q+ 71. Ka6 Qa1+ 72. Kb5 Qb2+ 73. Kc5 Qc3+ 74. Kd6 Qd4# 0-1
+

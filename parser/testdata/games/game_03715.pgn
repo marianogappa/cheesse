@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/luyECnK0"]
+[White "wifiwifiwifi"]
+[Black "baroodi21"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:14"]
+[WhiteElo "1600"]
+[BlackElo "1621"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Saduleto Variation"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e6 4. Bxc4 Nd7 5. Nf3 Nb6 6. Bd3 h6 7. O-O Be7 8. Be3 c6 9. Qb3 Nf6 10. Nc3 Ng4 11. d5 Nxe3 12. fxe3 cxd5 13. exd5 Nxd5 14. Nxd5 Qxd5 15. Qxd5 exd5 16. Bb5+ Bd7 17. Bxd7+ Kxd7 18. Ne5+ Ke8 19. Nxf7 Rf8 20. Ne5 Rxf1+ 21. Rxf1 Bf6 22. Ng6 Kd7 23. b3 Re8 24. Kf2 Bh4+ 25. Nxh4 Rf8+ 26. Nf3 Kd6 27. Rd1 g5 28. e4 g4 29. Rxd5+ Kc6 30. Rh5 gxf3 31. gxf3 Rf6 32. Ke3 b5 33. a3 a6 34. b4 Rd6 35. f4 Kb6 36. h4 a5 37. Rd5 Rc6 38. Rc5 Rd6 39. e5 Rg6 40. Kf3 axb4 41. axb4 h5 42. Rd5 Kc6 43. Rd6+ Rxd6 44. exd6 Kxd6 45. Ke4 Kc6 46. Ke5 Kb6 47. Ke6 Kc6 48. f5 Kb6 49. f6 Kc6 50. f7 Kc7 51. f8=Q Kb6 52. Qc5+ Ka6 53. Qxh5 Kb6 54. Qc5+ Ka6 55. Qc6+ Ka7 56. Qxb5 Ka8 57. Qg5 Kb7 58. h5 Kc6 59. h6 Kb6 60. h7 Kc6 61. h8=Q Kb6 62. Qc5+ Ka6 63. Qa8# 1-0
+

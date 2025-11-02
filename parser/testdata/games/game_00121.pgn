@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/zQeC30n1"]
+[White "OMB1"]
+[Black "TkzonKy"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:15"]
+[WhiteElo "1590"]
+[BlackElo "1629"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-12"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. d3 d5 2. d4 Nc6 3. c3 Bf5 4. Bf4 e6 5. e3 Bd6 6. Bg3 Nf6 7. Bd3 O-O 8. Qc2 Bxd3 9. Qxd3 Ne4 10. Nd2 Nxg3 11. hxg3 g6 12. Ngf3 f6 13. e4 dxe4 14. Nxe4 Rf7 15. O-O f5 16. Nxd6 cxd6 17. Rfe1 Qf6 18. Qc4 Re8 19. Re2 Rc7 20. Rae1 d5 21. Qd3 Rce7 22. Ne5 Nxe5 23. Rxe5 Qg5 24. Qe3 Qxe3 25. R1xe3 Kf7 26. f3 Rc8 27. g4 fxg4 28. fxg4 Rc6 29. Rf3+ Kg7 30. Kf2 Rf7 31. Rxf7+ Kxf7 32. Kf3 Kf6 33. g5+ Ke7 34. Kf4 Rc8 35. Re3 Rf8+ 36. Kg4 Rf2 37. Rf3 Rxb2 38. a4 Rxg2+ 39. Rg3 Rxg3+ 40. Kxg3 Kf7 41. Kg4 Kg7 42. Kh4 h6 43. gxh6+ Kxh6 44. Kg4 a6 45. a5 g5 46. Kg3 Kh5 47. Kh3 g4+ 48. Kg3 Kg5 49. Kg2 Kf4 50. Kf2 g3+ 51. Kg2 Ke3 52. Kxg3 Kd3 53. Kf4 Kxc3 54. Ke5 Kb4 55. Kxe6 Kc4 56. Ke5 Kb5 57. Kxd5 Kxa5 58. Ke6 Kb6 59. d5 a5 60. d6 a4 61. d7 a3 62. d8=Q+ Kb5 63. Qd1 Kb4 64. Qb1+ Kc3 65. Kd5 b5 66. Kc5 1-0
+

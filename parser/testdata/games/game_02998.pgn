@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/N8CRmm0X"]
+[White "geetanshkumar"]
+[Black "AlekDavian"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:14"]
+[WhiteElo "1598"]
+[BlackElo "1761"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Qf6 3. Bc4 d6 4. h3 h6 5. d3 g5 6. Be3 g4 7. hxg4 Bxg4 8. Nc3 c6 9. d4 a5 10. dxe5 dxe5 11. Rh4 Bxf3 12. Qxf3 Qxf3 13. gxf3 b5 14. Be2 Be7 15. Rh1 Na6 16. O-O-O Nf6 17. a3 Nd7 18. f4 O-O-O 19. fxe5 Nxe5 20. Bf4 Ng6 21. Bg4+ Kb7 22. Rd2 Nxf4 23. Rhd1 Rxd2 24. Rxd2 Bg5 25. Rd7+ Nc7 26. Rxf7 Nd3+ 27. Kb1 Nxf2 28. a4 Nxg4 0-1
+

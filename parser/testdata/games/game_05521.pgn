@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eony9nn5"]
+[White "Riccardoscacchi"]
+[Black "are123"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:18"]
+[WhiteElo "1759"]
+[BlackElo "1737"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-30"]
+[ECO "B19"]
+[Opening "Caro-Kann Defense: Classical, Spassky Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5 Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. c3 e6 12. Bf4 c5 13. O-O-O cxd4 14. Nxd4 Be7 15. Rhe1 O-O 16. Ne4 a6 17. Qh3 b5 18. Nxe6 fxe6 19. Qxe6+ Kh8 20. Nxf6 Rxf6 21. Rxd7 Rxe6 22. Rxd8+ Rxd8 23. Rxe6 Bf6 24. Rxa6 Re8 25. Be3 Re5 26. g4 Re4 27. Ra8+ Kh7 28. Rb8 Rxg4 29. Rxb5 Rh4 30. a4 Rh1+ 31. Kc2 Ra1 32. a5 Kh8 33. b4 Kg8 34. Bc5 Ra3 35. Bd4 Bg5 36. Rb8+ Kf7 37. Ra8 g6 38. hxg6+ Kxg6 39. a6 h5 40. a7 Kh7 41. b5 h4 42. b6 h3 43. b7 h2 44. Rh8+ Kg6 45. Rxh2 Bf4 46. Rg2+ Kf5 47. a8=Q 1-0
+

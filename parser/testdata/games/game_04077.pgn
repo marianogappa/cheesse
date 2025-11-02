@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/IVyAAIdg"]
+[White "kochab666"]
+[Black "astrolawn"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:31"]
+[WhiteElo "1843"]
+[BlackElo "1796"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense #2"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O O-O 6. Bxc6 dxc6 7. Nxe5 Qd4 8. Nf3 Qd6 9. h3 Nh5 10. Be3 Nf4 11. Bxf4 Qxf4 12. Nbd2 Be6 13. d4 Be7 14. c3 f5 15. exf5 Bxf5 16. Ne5 Bd6 17. Ndf3 Rad8 18. Qb3+ Kh8 19. Qxb7 c5 20. Qb3 Bg6 21. Nxg6+ hxg6 22. Ne5 Bxe5 23. dxe5 Qxe5 24. Qc2 Qf6 25. Rad1 Rde8 26. Rd7 Rf7 27. Rfd1 Ref8 28. Rxf7 Qxf7 29. f3 Qf6 30. Qa4 Qb6 31. Qb3 c4+ 32. Kh1 Qxb3 33. axb3 cxb3 34. Rd7 Rc8 35. Kh2 Kg8 36. Kg3 Kf8 37. Kg4 a5 38. Kg5 c5 39. Kxg6 Rc6+ 40. Kg5 a4 41. Rd8+ Kf7 42. Ra8 a3 43. Rxa3 c4 44. Ra7+ Kg8 45. f4 Kh7 46. Kg4 1-0
+

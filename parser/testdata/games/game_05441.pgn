@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bdo9drrq"]
+[White "KEPLEE"]
+[Black "kriebelmeneus"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:58"]
+[WhiteElo "1349"]
+[BlackElo "1408"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-13"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 Nc6 4. d3 Nge7 5. Be3 d5 6. exd5 Nxd5 7. Nb5 Bg4 8. h3 Bxf3 9. gxf3 a6 10. Nc3 Bb4 11. Bd2 O-O 12. Ne4 Bxd2+ 13. Qxd2 Nd4 14. Qd1 f5 15. Nc3 Nxc3 16. bxc3 Ne6 17. Qb1 b5 18. Rg1 g6 19. Qc1 c5 20. c4 Nd4 21. cxb5 Nxf3+ 22. Kd1 Nxg1 23. Bg2 Ra7 24. bxa6 Rxa6 25. Kd2 Nxh3 26. Bxh3 e4 27. Qf1 c4 28. Ke3 Qb6+ 29. Kf4 cxd3 30. cxd3 exd3 31. a4 Qd4+ 32. Kg3 Rxa4 33. Rd1 Ra3 34. Kg2 Rc3 35. Qe1 Rc2 36. Qe6+ Rf7 37. Qb3 d2 38. Qxc2 Qd5+ 39. Kg1 Rd7 40. Bg2 Qd4 41. Qa2+ Kg7 42. Bc6 Re7 43. Rxd2 Re8 44. Rxd4 1-0
+

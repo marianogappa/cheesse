@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZUesloE4"]
+[White "rollercoaster3"]
+[Black "sfishman59"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:58"]
+[WhiteElo "1671"]
+[BlackElo "1724"]
+[WhiteRatingDiff "+74"]
+[BlackRatingDiff "-10"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Panov Attack"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.31] } 1... c6 { [%eval 0.45] } 2. d4 { [%eval 0.37] } 2... d5 { [%eval 0.5] } 3. exd5 { [%eval 0.36] } 3... cxd5 { [%eval 0.39] } 4. c4 { [%eval 0.13] } 4... Nf6 { [%eval 0.22] } 5. Nc3 { [%eval 0.2] } 5... Bf5?! { [%eval 0.8] } 6. Nf3 { [%eval 0.48] } 6... e6 { [%eval 0.53] } 7. Be2?! { [%eval -0.08] } 7... Be7 { [%eval 0.02] } 8. O-O { [%eval -0.09] } 8... O-O { [%eval 0.09] } 9. Bg5?! { [%eval -0.52] } 9... h6?! { [%eval 0.22] } 10. Bh4?! { [%eval -0.64] } 10... Nc6 { [%eval -0.29] } 11. h3 { [%eval -0.57] } 11... Ne4 { [%eval -0.19] } 12. Bxe7 { [%eval -0.16] } 12... Qxe7 { [%eval 0.04] } 13. cxd5 { [%eval 0.0] } 13... Nxc3 { [%eval 0.0] } 14. bxc3 { [%eval 0.07] } 14... exd5 { [%eval 0.08] } 15. Re1 { [%eval 0.0] } 15... Qc7 { [%eval 0.14] } 16. Qb3 { [%eval 0.06] } 16... Rad8 { [%eval 0.08] } 17. c4? { [%eval -1.07] } 17... Na5 { [%eval -1.1] } 18. Qa4?! { [%eval -1.61] } 18... dxc4 { [%eval -1.43] } 19. Rac1 { [%eval -1.45] } 19... Rc8 { [%eval -0.97] } 20. Ne5 { [%eval -0.88] } 20... Rfe8 { [%eval -0.78] } 21. Bh5 { [%eval -0.9] } 21... Nc6?? { [%eval 5.02] } 22. Bxf7+ { [%eval 4.77] } 22... Kh8? { [%eval 6.35] } 23. Bxe8 { [%eval 6.02] } 23... Rxe8 { [%eval 5.91] } 24. Ng6+?? { [%eval 0.6] } 24... Bxg6 { [%eval 0.78] } 25. Rxe8+ { [%eval 0.64] } 25... Bxe8 { [%eval 0.52] } 26. d5 { [%eval 0.26] } 26... Qf4? { [%eval 2.14] } 27. Re1? { [%eval 1.08] } 27... Ne5?? { [%eval 64.28] } 28. Qxe8+ { [%eval 20.05] } 28... Kh7 { [%eval 18.37] } 29. Rxe5 { [%eval 10.95] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/47zLMyk0"]
+[White "Reymex"]
+[Black "Inciapter"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:57"]
+[WhiteElo "2142"]
+[BlackElo "2073"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+12"]
+[ECO "A80"]
+[Opening "Dutch Defense: Krejcik Gambit"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 f5 2. g4 d5 3. gxf5 Bxf5 4. Bh3 Qd7 5. Bxf5 Qxf5 6. Nf3 Nf6 7. Nc3 Nc6 8. Rg1 e6 9. Rg5 Qh3 10. Bf4 O-O-O 11. Qd3 h6 12. Rg3 Qh5 13. O-O-O g5 14. Be5 Nxe5 15. dxe5 Nd7 16. Qb5 c6 17. Qa4 a6 18. e4 Nc5 19. Qa5 Be7 20. exd5 exd5 21. Nd4 Qg6 22. f4 Rhf8 23. f5 Rxf5 24. Nxf5 Qxf5 25. b4 Ne4 26. Nxe4 Qxe4 27. a3 Qxe5 28. Qb6 Bf6 29. Rgd3 g4 30. a4 Qa1+ 31. Kd2 Bg5+ 32. Ke2 Qe5+ 33. Kf1 Rf8+ 34. Kg1 h5 35. b5 axb5 36. axb5 Qc7 37. Qxc7+ Kxc7 38. bxc6 bxc6 39. c4 d4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ppUY2571"]
+[White "MarcosRomam"]
+[Black "sexonac"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:52"]
+[WhiteElo "1680"]
+[BlackElo "1646"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+13"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bc4 d6 5. h3 Nf6 6. d3 h6 7. a3 a6 8. b4 Ba7 9. O-O Nd4 10. Be3 Qe7 11. Rc1 Bd7 12. Nd5 Nxd5 13. exd5 Ba4 14. Qd2 O-O-O 15. c3 Nxf3+ 16. gxf3 Bxe3 17. fxe3 Qg5+ 18. Kh2 f5 19. Rg1 Qf6 20. Rg2 g5 21. Rcg1 Rhg8 22. Rg3 h5 23. d4 e4 24. fxe4 fxe4 25. R1g2 h4 26. Rf2 hxg3+ 27. Kxg3 Qh6 28. Be2 Qh4+ 29. Kh2 g4 30. Bxg4+ Rxg4 31. Rg2 Rxg2+ 32. Qxg2 Bd7 33. c4 Rh8 34. Kg1 Qe1+ 35. Qf1 Qxe3+ 36. Kg2 Bxh3+ 37. Kh1 Bxf1# 0-1
+

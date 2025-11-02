@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pjLDaQSE"]
+[White "ledofin16"]
+[Black "Alvaroalcombate"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:51"]
+[WhiteElo "1338"]
+[BlackElo "1313"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+13"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Reversed Mexican Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. Nc3 c6 3. d4 Bg4 4. h3 Bxf3 5. exf3 Nf6 6. Be2 e6 7. O-O Bb4 8. Bd2 Bxc3 9. Bxc3 O-O 10. Bb4 Re8 11. f4 b6 12. a4 a5 13. Bc3 Ne4 14. Qd3 c5 15. dxc5 bxc5 16. f3 Nxc3 17. Qxc3 c4 18. Rfd1 Qd6 19. Bxc4 Qxf4 20. Be2 Nd7 21. Rd4 Qe5 22. Qd2 Nb6 23. Bb5 Red8 24. c4 g6 25. Re1 Qf6 26. Bc6 Rac8 27. Bb5 dxc4 28. Rf4 Rxd2 29. Rxf6 Rxb2 30. Ba6 Rd8 31. Rf4 Rdd2 32. Bxc4 Nxc4 33. Rxc4 Rxg2+ 34. Kf1 Rbf2# 0-1
+

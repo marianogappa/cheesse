@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Du4NSrfH"]
+[White "alexcicocico"]
+[Black "jrdykstr"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:42"]
+[WhiteElo "1473"]
+[BlackElo "1489"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "C40"]
+[Opening "King's Knight Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Bd6 3. Nc3 c5 4. Bc4 Nc6 5. O-O Bb8 6. Re1 d6 7. a3 Nf6 8. d3 O-O 9. Bg5 h6 10. Bh4 Re8 11. h3 a6 12. Qd2 b5 13. Bd5 Bb7 14. Bxc6 Bxc6 15. g4 g5 16. Nxg5 Nxg4 17. hxg4 hxg5 18. Bxg5 Qd7 19. Kg2 Qxg4+ 20. Kf1 b4 21. axb4 cxb4 22. Nd5 Bxd5 23. exd5 Ba7 24. Re4 Qh3+ 25. Ke2 Qg2 26. Be3 Kf8 27. Bxa7 Rxa7 28. Qxb4 f5 29. Qxd6+ Kg8 30. Rxe5 Rxe5+ 31. Qxe5 Qg4+ 32. f3 Qg2+ 33. Ke3 Qg5+ 34. f4 Qg3+ 35. Kd4 Qf2+ 36. Kc3 Qc5+ 37. Kd2 Qb4+ 38. Kc1 Rc7 39. Qxc7 Qe1# 0-1
+

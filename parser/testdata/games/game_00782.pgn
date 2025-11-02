@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RMwXFtkJ"]
+[White "yahoojames"]
+[Black "gabridaponte"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:53"]
+[WhiteElo "1693"]
+[BlackElo "1801"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-14"]
+[ECO "B07"]
+[Opening "Pirc Defense #4"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. Nc3 Nf6 3. d3 e5 4. Nf3 Bg4 5. Bg5 Be7 6. Be2 Nc6 7. h3 Bh5 8. Bxf6 Bxf6 9. Nd5 Bxf3 10. Bxf3 Nd4 11. Bg4 O-O 12. O-O c6 13. Nc3 Bg5 14. Ne2 f5 15. Nxd4 exd4 16. Bxf5 Qf6 17. Rb1 d5 18. Qg4 dxe4 19. Bxe4 Qf4 20. Qxf4 Rxf4 21. Bf3 Re8 22. Rbe1 Rff8 23. Re4 Rxe4 24. Bxe4 h6 25. Re1 Re8 26. Bh7+ Kf8 27. Rxe8+ Kxe8 28. g3 c5 29. f4 Bf6 30. Be4 b6 31. Kg2 Ke7 32. Kf3 Kd6 33. Kg4 Ke6 34. Bb7 Kd6 35. Kf5 b5 36. Ke4 a5 37. h4 c4 38. Bd5 Kc5 39. dxc4 bxc4 40. h5 d3 41. cxd3 cxd3 42. Bb3 d2 43. g4 Bxb2 44. Kd3 Bc1 45. g5 Kd6 46. gxh6 gxh6 47. Ke4 Ke7 48. f5 Kf6 49. a4 Bb2 50. Be6 1-0
+

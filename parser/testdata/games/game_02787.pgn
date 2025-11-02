@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/9QwFHdcj"]
+[White "IlCorsaro"]
+[Black "web_studio"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:27"]
+[WhiteElo "1392"]
+[BlackElo "1505"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "A40"]
+[Opening "Englund Gambit Declined, Reversed French"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e3 e5 2. d4 exd4 3. exd4 d5 4. Qe2+ Qe7 5. Qxe7+ Bxe7 6. Nc3 Be6 7. Bd3 Bb4 8. Bd2 Nc6 9. Nf3 Nf6 10. a3 Ba5 11. O-O-O O-O 12. Ne5 Bb6 13. Nxc6 bxc6 14. h3 Bxd4 15. f3 c5 16. Ne2 Be5 17. f4 Bd6 18. g4 c4 19. Bf5 Bxf5 20. gxf5 Ne4 21. Nd4 Nxd2 22. Rxd2 Bxf4 23. Nc6 Rfe8 24. Kd1 Bxd2 25. Kxd2 a5 26. Kc3 Re3+ 27. Kd4 Re2 28. c3 Rxb2 29. Kxd5 Rb3 30. Kxc4 Rxa3 31. Rd1 h6 32. Ne7+ Kh7 33. Rd7 c6 34. Rc7 Ra6 35. Nxc6 a4 36. Kb5 Ra8 37. Rxf7 Rb3+ 38. Kc4 Rb1 39. Nb4 a3 40. f6 Kg6 41. Rxg7+ Kxf6 42. Rh7 Kg6 0-1
+

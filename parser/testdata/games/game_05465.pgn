@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2JBVNFLo"]
+[White "superflo"]
+[Black "smhcpp"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:02"]
+[WhiteElo "1442"]
+[BlackElo "1715"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-18"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e3 e6 2. c4 d5 3. cxd5 exd5 4. Nf3 Bd6 5. b3 Ne7 6. Bb2 O-O 7. Bd3 Bf5 8. Qc2 Bxd3 9. Qxd3 Nd7 10. g4 Re8 11. h4 Ne5 12. Nxe5 Bxe5 13. Bxe5 Ng6 14. Bg3 Ne5 15. Bxe5 Rxe5 16. f4 Re4 17. Nc3 Re8 18. Qxd5 Qe7 19. Qg5 f6 20. Qd5+ Kh8 21. g5 Rad8 22. Qg2 Qd6 23. Nb5 Qxf4 24. O-O-O Qe5 25. a4 a6 26. Nd4 c5 27. Nf3 Qa1+ 28. Kc2 Qa2+ 29. Kc1 Qxb3 30. gxf6 Qc4+ 31. Kb2 Qb4+ 32. Kc1 gxf6 33. d4 cxd4 34. Rxd4 Rc8+ 35. Kd1 Qb1+ 36. Ke2 Rc2+ 37. Nd2 Qb3 38. Rd7 Rxe3+ 39. Kd1 Rxd2+ 40. Kxd2 Qb2+ 41. Kxe3 Qxg2 42. Rhd1 Qg3+ 43. Ke4 Qxh4+ 44. Kf5 Qg5+ 45. Ke6 Qe5+ 46. Kf7 Qg5 47. Rd8+ Qg8+ 48. Rxg8# 1-0
+

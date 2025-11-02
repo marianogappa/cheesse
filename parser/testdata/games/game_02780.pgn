@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/okTFBuV4"]
+[White "BLISSYMEISTER"]
+[Black "snaketehan"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:26"]
+[WhiteElo "1486"]
+[BlackElo "1519"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Nimzowitsch System"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Nc3 Qb6 6. Bb5 Bd7 7. Bxc6 Bxc6 8. dxc5 Bxc5 9. O-O Ne7 10. a3 d4 11. Ne4 f5 12. Nxc5 Qxc5 13. Nxd4 Qxe5 14. Re1 Be4 15. f4 Qf6 16. g4 Qg6 17. h3 Qh6 18. gxf5 Qxh3 19. Rxe4 O-O 20. Nxe6 Rxf5 21. Qf1 Qg4+ 22. Qg2 Qd1+ 23. Kh2 Rh5+ 24. Kg3 Nf5+ 25. Kf2 Qxc2+ 26. Re2 Qb3 27. Be3 Re8 28. Rc1 Qxe6 29. Bxa7 Qxe2+ 30. Kg1 Rh4 31. Qd5+ Kh8 32. Qxf5 Rg4+ 33. Kh1 Qg2# 0-1
+

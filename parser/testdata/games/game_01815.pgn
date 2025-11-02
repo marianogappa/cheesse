@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Hq7Kkna8"]
+[White "dm16147"]
+[Black "Norbe88"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:49"]
+[WhiteElo "1422"]
+[BlackElo "1421"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Qe2 d5 5. exd5 Nxd5 6. Nxe5 Nf4 7. Nxc6+ Be6 8. Nxd8 Nxe2 9. Nxe6 fxe6 10. Bxe2 Bb4 11. O-O a6 12. a3 Bc5 13. Nc3 Rf8 14. Ne4 Bb6 15. d3 Bxf2+ 16. Nxf2 Rxf2 17. Rxf2 Rd8 18. Bh5+ g6 19. Bg5 Rxd3 20. cxd3 e5 21. Bg4 e4 22. dxe4 b5 23. Re1 c5 24. e5 c4 25. e6 b4 26. e7 bxa3 27. Rf8# 1-0
+

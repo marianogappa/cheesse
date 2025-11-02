@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/uaiTpCi8"]
+[White "UMBERTOGALEAZZI42"]
+[Black "sochilov"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:59"]
+[WhiteElo "1419"]
+[BlackElo "1412"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "C42"]
+[Opening "Russian Game: Urusov Gambit"]
+[TimeControl "600+15"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Bc5 4. Bxf7+ Kxf7 5. Nxe5+ Ke6 6. d4 Bd6 7. d5+ Ke7 8. Nf3 Re8 9. O-O Kf8 10. e5 Bxe5 11. Re1 Bd6 12. Bg5 h6 13. Bh4 g5 14. Nxg5 hxg5 15. Bxg5 Re5 16. Nc3 Rxg5 17. Qd2 Rg6 18. Qe3 Bxh2+ 19. Kxh2 Ng4+ 20. Kg1 Nxe3 21. fxe3 Qh4 22. Rf1+ Rf6 23. Ne4 Rxf1+ 24. Rxf1+ Ke7 25. d6+ cxd6 26. Rf4 Qe1+ 27. Kh2 Qxe3 28. g3 Qe2+ 29. Kh3 Qxc2 30. g4 Qd3+ 31. Kh4 d5 32. Nc5 Qh7+ 33. Kg3 d6 34. Nd3 Qxd3+ 0-1
+

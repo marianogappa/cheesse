@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/DRxuuMSq"]
+[White "Flaccid"]
+[Black "balack"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:09"]
+[WhiteElo "2455"]
+[BlackElo "2231"]
+[WhiteRatingDiff "-33"]
+[BlackRatingDiff "+5"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "45+0"]
+[Termination "Time forfeit"]
+
+1. e4 b6 2. Nc3 Bb7 3. d4 e6 4. Nf3 Nf6 5. Bd3 d5 6. Qe2 Nxe4 7. Nxe4 dxe4 8. Bxe4 Bxe4 9. Qxe4 c6 10. O-O Be7 11. Re1 Qd5 12. Qe3 O-O 13. b3 b5 14. Bb2 Nd7 15. Nd2 Nb6 16. Ne4 a5 17. Rac1 b4 18. g3 h6 19. h4 Rfd8 20. c4 bxc3 21. Bxc3 a4 22. Kh2 axb3 23. axb3 Qxb3 24. g4 Nd5 25. Qf3 Qb8+ 26. Kg2 Nf4+ 27. Kh1 Bxh4 28. g5 Bxg5 29. Nxg5 hxg5 30. d5 Rxd5 31. Rg1 g4 32. Qg3 Rh5+ 33. Qh2 Rxh2+ 34. Kxh2 Ne2+ 35. Rg3 Nxc1 36. Bd2 Qxg3+ 37. Kxg3 Ra3+ 38. Be3 Ne2+ 39. Kxg4 Rxe3 40. fxe3 Nc3 41. Kf3 Nd5 42. Ke4 Nxe3 43. Kxe3 f6 44. Kd3 Kf7 45. Ke3 e5 46. Ke2 Ke6 47. Ke3 f5 48. Ke2 g5 49. Kf2 f4 50. Ke2 e4 51. Kf2 Kf5 52. Ke2 g4 53. Kf2 Ke5 54. Ke2 f3+ 55. Kf1 Kf4 56. Ke1 e3 57. Kf1 g3 58. Ke1 f2+ 59. Kd1 Kf3 60. Kc2 g2 61. Kc3 g1=Q 62. Kc4 Qd1 63. Kc5 e2 64. Kb6 e1=Q 65. Kc7 Qc3 66. Kc8 Qd5 67. Kb7 1/2-1/2
+

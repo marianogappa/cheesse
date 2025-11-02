@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TRjAEzLt"]
+[White "CONTRADIQUE"]
+[Black "Yerkebulan"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:43"]
+[WhiteElo "1598"]
+[BlackElo "1512"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "60+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nc6 3. Qh5 g6 4. Qf3 Nf6 5. Nc3 Bg7 6. Nd5 O-O 7. d3 Nxd5 8. Bxd5 d6 9. h4 h5 10. c3 Re8 11. Bxf7+ Kh8 12. Bxg6 Rf8 13. Qxh5+ 1-0
+

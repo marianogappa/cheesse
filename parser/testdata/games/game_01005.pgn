@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ymLytCCc"]
+[White "Anopiloric"]
+[Black "takasnina"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:43"]
+[WhiteElo "1702"]
+[BlackElo "1587"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "C00"]
+[Opening "French Defense: Steinitz Attack"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 e6 2. e5 c6 3. d4 d5 4. c3 h6 5. Nf3 b5 6. a4 Qb6 7. axb5 cxb5 8. Qb3 Bd7 9. Bd3 a5 10. O-O a4 11. Qd1 Ne7 12. Nh4 Nec6 13. Qg4 h5 14. Qf3 Be7 15. Qg3 Bxh4 16. Qxh4 Ne7 17. b3 Nf5 18. Bxf5 exf5 19. bxa4 bxa4 20. Ba3 Be6 21. Qe7# 1-0
+

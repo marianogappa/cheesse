@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/TO1oTglY"]
+[White "shallowpurple"]
+[Black "Demosthenes_Locke"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:04"]
+[WhiteElo "1289"]
+[BlackElo "1286"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Franco-Sicilian Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. d4 Nc6 4. c3 Nf6 5. Bd3 d5 6. e5 Ne4 7. Bb5 a6 8. Bxc6+ bxc6 9. Be3 Qa5 10. Qd2 Nxd2 0-1
+

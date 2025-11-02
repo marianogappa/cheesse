@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/1Q3ANX3M"]
+[White "Valsimot"]
+[Black "patrikeckeskog"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "1861"]
+[BlackElo "1902"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Englund Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Bf4 Qb4+ 5. Bd2 Qxb2 6. Nc3 Qa3 7. e4 Bb4 8. Nd5 Bxd2+ 9. Qxd2 Nge7 10. Nxc7+ Kd8 11. Nxa8 Qb2 12. Rd1 Nxe5 13. Qa5+ b6 14. Qxe5 Qxe5 15. Nxe5 Rf8 16. Bb5 d5 17. exd5 Bb7 18. Nc6+ Nxc6 19. dxc6+ 1-0
+

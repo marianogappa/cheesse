@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Yr8tmSGs"]
+[White "paparazzo"]
+[Black "KlimV"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:03"]
+[WhiteElo "1110"]
+[BlackElo "1102"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "1200+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qh5 4. Nd5 g6 5. Qxh5 gxh5 6. Nxc7+ Kd7 7. Nxa8 Nc6 8. Bb5 e5 9. Bxc6+ Kxc6 10. d3 Bb4+ 11. c3 Bc5 12. Nf3 f6 13. O-O Ne7 14. b4 Bd6 15. Be3 Bf5 16. Bc5 Rxa8 17. Bxd6 Kxd6 18. Rad1 Nd5 19. Nh4 Rc8 20. Nxf5+ Ke6 21. Ng7+ Kf7 22. Nxh5 Nxc3 23. Rc1 Ne2+ 24. Kh1 Rxc1 25. Rxc1 Nxc1 26. d4 exd4 27. Nf4 f5 28. Kg1 Kf6 29. a3 d3 30. Nd5+ Ke5 31. Nc3 Ne2+ 32. Nxe2 dxe2 33. g3 e1=Q+ 34. Kg2 f4 35. gxf4+ Kxf4 36. b5 a6 37. bxa6 bxa6 38. h3 Qe2 39. h4 Qf3+ 40. Kf1 Qd3+ 41. Kg2 Qf3+ 42. Kf1 Qh3+ 43. Kg1 Kf3 44. a4 Qg2# 0-1
+

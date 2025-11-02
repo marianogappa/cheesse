@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TUYLPpcP"]
+[White "quebrantahuesos"]
+[Black "desano"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:22"]
+[WhiteElo "1903"]
+[BlackElo "1745"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[ECO "A00"]
+[Opening "Polish Opening: Outflank Variation"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. b4 c6 2. c4 d5 3. e3 e5 4. Bb2 f6 5. a3 a5 6. b5 c5 7. d3 d4 8. exd4 cxd4 9. Nf3 Bg4 10. Be2 Qd7 11. O-O b6 12. Nbd2 Bc5 13. Ne4 Nh6 14. Nxc5 bxc5 15. Nd2 Bxe2 16. Qxe2 O-O 17. Ne4 Qe7 18. a4 Nd7 19. Bc1 Nf7 20. Bd2 Nb6 21. f4 Rfe8 22. fxe5 Qxe5 23. Bf4 Qe6 24. Qf3 Nxc4 25. Nxc5 Qe3+ 26. Bxe3 Nxe3 27. Rfe1 Nc2 28. Rxe8+ Rxe8 29. Rc1 Nb4 30. b6 Rb8 31. b7 Ne5 32. Qe4 Nbc6 33. Qd5+ Kf8 34. Nd7+ Nxd7 35. Qxd7 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DRHNJ6hI"]
+[White "lewy18"]
+[Black "serbianknight_1389"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:49"]
+[WhiteElo "2136"]
+[BlackElo "2258"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Bayonet Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 c6 2. e4 d5 3. e5 Bf5 4. g4 Bc8 5. Bd3 e6 6. h4 c5 7. c3 Nc6 8. Ne2 Qb6 9. Nd2 cxd4 10. cxd4 Nxd4 11. Nxd4 Qxd4 12. Nf3 Qb6 13. Qc2 Bb4+ 14. Kf1 h6 15. Be3 Qd8 16. Qa4+ Bd7 17. Qxb4 Bc6 18. Nd4 Bd7 19. Qd6 Ne7 20. Ke2 a6 21. Rhc1 Nc6 22. Nxc6 Bxc6 23. Bd4 Qxd6 24. exd6 f6 25. Bg6+ Kd7 26. Bc5 Rab8 27. Ba3 b5 28. f4 b4 29. Rc2 bxa3 30. bxa3 Kxd6 31. Rac1 Rhc8 32. Ke3 Bb7 33. Rxc8 Rxc8 34. Rxc8 Bxc8 35. Bd3 Kc5 36. g5 hxg5 37. hxg5 e5 38. Bg6 Be6 39. f5 d4+ 40. Ke4 Bxa2 41. gxf6 gxf6 42. Bf7 Bxf7 0-1
+

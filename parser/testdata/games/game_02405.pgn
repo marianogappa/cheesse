@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/340pwpqb"]
+[White "darko9963"]
+[Black "jolijumper"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:10"]
+[WhiteElo "1754"]
+[BlackElo "1752"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "C30"]
+[Opening "King's Gambit"]
+[TimeControl "480+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 d6 3. Nf3 Nc6 4. Bc4 Nf6 5. Nc3 Be7 6. Bxf7+ Kxf7 7. O-O exf4 8. Ng5+ Kg8 9. Rxf4 h6 10. Nf3 g5 11. Rxf6 Bxf6 12. d4 Bg4 13. Qd3 Bxf3 14. gxf3 Nxd4 15. Nd5 Bg7 16. c3 Nc6 17. Be3 Ne5 18. Qd1 c6 19. Nb4 Qf6 20. Qb3+ Kh7 21. Rf1 Nxf3+ 22. Kg2 g4 23. Qc2 Qh4 24. Rh1 Qh3+ 25. Kf2 Raf8 26. e5+ Kg8 27. Qc1 Nxh2+ 28. Ke2 Qg2+ 29. Kd3 Bxe5 30. Nc2 Rf3 31. Rg1 Qh3 32. Kc4 d5+ 33. Kb3 g3 34. Bf2 Kh7 35. Be1 g2 36. Nd4 Rf1 37. Qc2+ Kg7 38. Rxg2+ Qxg2 39. Qxg2+ Kh7 40. Bg3 Rg8 41. Qxh2 Rxg3 42. Qc2+ Kh8 43. Ne6 Rfg1 44. Nf8 Rg7 45. Ne6 Re7 46. Nc5 Rg4 0-1
+

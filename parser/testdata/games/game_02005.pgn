@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/B0hIJ0IV"]
+[White "dobbo"]
+[Black "bog601"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:32"]
+[WhiteElo "1892"]
+[BlackElo "1753"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "B04"]
+[Opening "Alekhine Defense: Modern Variation, Schmid Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nb6 5. Bd3 Bg4 6. O-O Nc6 7. Bf4 Bxf3 8. Qxf3 Nxd4 9. Qxb7 Rb8 10. Qe4 Ne6 11. Nc3 g6 12. Rad1 Bg7 13. Bb5+ Nd7 14. exd6 cxd6 15. Rfe1 O-O 16. Bxd7 Qxd7 17. h4 Rxb2 18. Nd5 Nxf4 19. Nxf4 e6 20. h5 d5 21. Qd3 Qc6 22. hxg6 fxg6 23. Nxe6 Rc8 24. Nxg7 Kxg7 25. Qd4+ Kg8 26. Qxb2 1-0
+

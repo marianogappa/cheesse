@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/a5ci3yxm"]
+[White "Realmadrid7"]
+[Black "librodearena"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:01"]
+[WhiteElo "1858"]
+[BlackElo "1799"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nc6 4. Bc4 Nf6 5. O-O g6 6. d3 Bg7 7. Nd5 O-O 8. h3 a6 9. a4 Nxd5 10. exd5 Na5 11. Ba2 b5 12. Bd2 b4 13. Nh2 Bxb2 14. Rb1 Bg7 15. Kh1 Bd7 16. f4 Bxa4 17. f5 Bb5 18. Ng4 Bd7 19. Nh6+ Kh8 20. Ng4 Bxf5 21. Rxf5 gxf5 22. Nh6 Qe8 23. g4 Rg8 24. gxf5 Bxh6 25. Bxh6 f6 26. Qe2 Qf7 27. Rf1 b3 28. cxb3 Rab8 29. d4 Qxd5+ 30. Kh2 cxd4 31. b4 Qe5+ 32. Bf4 Qxe2+ 0-1
+

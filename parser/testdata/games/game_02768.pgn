@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/JGVWcp6d"]
+[White "Karong"]
+[Black "Janashia"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:24"]
+[WhiteElo "1359"]
+[BlackElo "1373"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense"]
+[TimeControl "720+5"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bd2 Nc6 5. Nf3 Nxd4 6. Nxd4 d5 7. e3 dxc4 8. Bxc4 c5 9. Nf3 a6 10. a3 Ba5 11. O-O b5 12. Ba2 Qd3 13. Ne5 Qd6 14. Nf3 Qd3 15. b4 cxb4 16. axb4 Bxb4 17. Bb1 Qc4 18. Ne2 Ne4 19. Bxe4 Qxe4 20. Bxb4 Qxb4 21. Qd4 Qxd4 22. Nfxd4 b4 23. Rab1 a5 24. Rfc1 e5 25. Nb5 O-O 26. Rc5 Ba6 27. Nc7 Ra7 28. Nxa6 Rxa6 29. Ra1 Rb8 30. Rcxa5 Rxa5 31. Rxa5 b3 32. Ra1 Rc8 33. Rb1 Rd8 34. h3 Rb8 35. Nc1 b2 36. Nd3 f5 37. Rxb2 Rxb2 38. Nxb2 Kf7 39. Nc4 Ke6 40. g4 fxg4 41. hxg4 h6 42. Kg2 g6 43. Kg3 e4 44. Nd2 Ke5 45. f3 exf3 46. Nxf3+ Ke4 47. Kf2 h5 48. g5 Kf5 49. Kg3 Ke4 50. Nh4 Kxe3 51. Nxg6 Ke4 52. Nf4 Kf5 53. g6 Kf6 54. Kh4 Kg7 55. Kxh5 Kf6 56. Kh6 Kf5 57. Nh5 Ke6 58. g7 Kf7 59. Kh7 Ke6 60. g8=Q+ Ke7 61. Qg5+ Kd6 62. Qe3 Kd5 63. Kg6 Kd6 64. Kf6 Kd5 65. Qe5+ Kc4 66. Ke6 Kd3 67. Nf4+ Kc4 68. Qd5+ Kb4 69. Kd6 Kc3 70. Ne2+ Kb4 71. Qc5+ Kb3 72. Kd5 Kb2 73. Kd4 Kb3 74. Qc3+ Ka2 75. Nc1+ Kb1 76. Ne2 Ka2 77. Kd3 Kb1 78. Qc2+ Ka1 79. Qc1+ Ka2 80. Nc3+ Kb3 81. Nd5 Ka4 82. Qc4+ Ka3 83. Qb4+ Ka2 84. Nc3+ Ka1 85. Qb1# 1-0
+

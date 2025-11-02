@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/I1Keyv6l"]
+[White "woodhouse91"]
+[Black "musang"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:38"]
+[WhiteElo "1587"]
+[BlackElo "1560"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "D10"]
+[Opening "Slav Defense #3"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 c6 4. a4 e6 5. e4 Nf6 6. e5 Nd5 7. Bxc4 Nxc3 8. bxc3 Be7 9. Nf3 O-O 10. O-O Nd7 11. Re1 Nb6 12. Bf1 Nd5 13. Qc2 a5 14. Bd2 f5 15. Qc1 c5 16. Ng5 cxd4 17. cxd4 b6 18. g3 Bb7 19. Nxe6 Qc8 20. Nxf8 Qxf8 21. Qc2 Rc8 22. Qd3 Ra8 23. Bh3 g6 24. Bg2 Qd8 25. Qb3 Kg7 26. Rac1 Rb8 27. h4 h5 28. Rb1 Nb4 29. Bxb4 Bxb4 30. Bxb7 Bxe1 31. Rxe1 Rxb7 32. d5 f4 33. e6 fxg3 34. fxg3 Qe7 35. Qc3+ Kh7 36. Qe5 1-0
+

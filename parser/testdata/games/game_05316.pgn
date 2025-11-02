@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/emu9owie"]
+[White "dododa"]
+[Black "Dolmance"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:27"]
+[WhiteElo "1905"]
+[BlackElo "1982"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. b3 e5 2. d3 Nc6 3. Bb2 Bd6 4. g3 Nf6 5. Bg2 Qe7 6. c4 Bb4+ 7. Nc3 d6 8. Nf3 O-O 9. O-O Be6 10. Nd2 Bxc3 11. Bxc3 d5 12. cxd5 Nxd5 13. Qc2 Nxc3 14. Qxc3 Nd4 15. Rfe1 c6 16. Nf3 Nxf3+ 17. Bxf3 f6 18. d4 exd4 19. Qxd4 Rfd8 20. Qc3 Qf7 21. Rad1 Bd5 22. e4 Be6 23. Rxd8+ Rxd8 24. Rd1 Rxd1+ 25. Bxd1 Qd7 26. Bf3 Qd6 27. Qa5 a6 28. Qb6 Bc8 29. Qa7 Kf7 30. Qa8 Qc7 31. a4 a5 32. Qa7 Be6 33. Bd1 Ke7 34. Qc5+ Qd6 35. Qxd6+ Kxd6 36. f4 Kc5 37. f5 Bf7 38. Kf2 Kb4 39. Ke3 Bxb3 40. Bxb3 Kxb3 41. Kd4 Kxa4 42. e5 fxe5+ 43. Kxe5 Kb4 44. h4 a4 45. g4 a3 46. g5 a2 47. f6 a1=Q+ 48. Ke6 gxf6 49. gxf6 Qe1+ 50. Kd7 Qd2+ 51. Ke6 Qe3+ 52. Kd7 Qd4+ 53. Ke6 Qe4+ 54. Kf7 Qg6+ 0-1
+

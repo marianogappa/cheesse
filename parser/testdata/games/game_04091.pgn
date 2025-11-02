@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/PSBZ4nIb"]
+[White "guillaume1986"]
+[Black "Lvfe"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:31"]
+[WhiteElo "1469"]
+[BlackElo "1504"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Bayonet Attack"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.16] } 1... c6 { [%eval 0.52] } 2. d4 { [%eval 0.31] } 2... d5 { [%eval 0.58] } 3. e5 { [%eval 0.44] } 3... Bf5 { [%eval 0.35] } 4. g4 { [%eval -0.1] } 4... Be4 { [%eval 0.04] } 5. f3 { [%eval -0.07] } 5... Bg6 { [%eval 0.3] } 6. Bd3?! { [%eval -0.37] } 6... Bxd3 { [%eval -0.14] } 7. Qxd3 { [%eval -0.14] } 7... e6 { [%eval -0.08] } 8. h4?! { [%eval -0.62] } 8... Nd7?! { [%eval -0.12] } 9. g5?! { [%eval -0.74] } 9... c5 { [%eval -0.83] } 10. dxc5 { [%eval -1.22] } 10... Bxc5 { [%eval -1.18] } 11. Be3 { [%eval -1.64] } 11... Bxe3 { [%eval -1.78] } 12. Qxe3 { [%eval -1.67] } 12... Ne7 { [%eval -1.91] } 13. Qb3 { [%eval -1.72] } 13... Qc7 { [%eval -1.46] } 14. c3? { [%eval -3.12] } 14... Nxe5 { [%eval -3.02] } 15. Qa4+?! { [%eval -3.86] } 15... Nd7? { [%eval -2.58] } 16. Ne2 { [%eval -2.19] } 16... g6?! { [%eval -1.57] } 17. Nd4? { [%eval -3.55] } 17... O-O { [%eval -3.12] } 18. Nb5?? { [%eval -10.38] } 18... Qg3+ { [%eval -10.3] } 19. Kd2 { [%eval -10.31] } 19... Qg2+ { [%eval -10.02] } 20. Kd3?! { [%eval #-5] } 20... Qxh1?! { [%eval -13.52] } 21. Nc7 { [%eval -25.53] } 21... Nb6 { [%eval -16.02] } 22. Nxa8 { [%eval -25.98] } 22... Nxa4 { [%eval -24.74] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XJg1YhaN"]
+[White "Domination1000"]
+[Black "saad_500"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:11"]
+[WhiteElo "1796"]
+[BlackElo "1759"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "A10"]
+[Opening "English Opening: Anglo-Dutch Defense"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. c4 f5 2. g3 Nf6 3. Bg2 e5 4. Nc3 Be7 5. d3 O-O 6. e4 fxe4 7. Nxe4 Nc6 8. Ne2 Bb4+ 9. Bd2 d6 10. O-O Bg4 11. Bxb4 Nxb4 12. Nxf6+ Rxf6 13. Bxb7 Rb8 14. Bg2 Bf5 15. Be4 Bxe4 16. dxe4 Nc6 17. Qd2 Qd7 18. a3 Qg4 19. Qe3 Rf3 20. Qd2 Qxe4 21. Rac1 Rfb3 22. Nc3 Qxc4 23. Nd5 Qd4 24. Qxd4 Nxd4 25. Nxc7 Ne2+ 26. Kg2 Nxc1 27. Rxc1 Rxb2 28. Nd5 Ra2 29. Rc3 Rbb2 30. Rc8+ Kf7 31. Rc7+ Ke6 32. Nb4 Rxf2+ 33. Kh3 Rxh2+ 34. Kg4 h5+ 35. Kg5 Rag2 36. Rc3 Rh3 37. Nc6 Rgxg3+ 38. Rxg3 Rxg3+ 39. Kxh5 g6+ 40. Kh4 Rxa3 41. Nd8+ Kd7 42. Nf7 a5 43. Kg5 e4 44. Kxg6 e3 45. Ng5 e2 0-1
+

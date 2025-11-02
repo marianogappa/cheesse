@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YsjoGk7m"]
+[White "mishgul"]
+[Black "TYR88"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:42"]
+[WhiteElo "1250"]
+[BlackElo "1236"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-85"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 d5 2. f4 Bf5 3. e3 Nc6 4. Bb5 a6 5. Bxc6+ bxc6 6. g4 Bc8 7. f5 e6 8. Bd2 Rb8 9. Bc3 g6 10. Na3 gxf5 11. g5 f6 12. Qh5+ Kd7 13. O-O-O fxg5 14. Qf7+ Kd6 15. Nf3 Nh6 16. Qh5 c5 17. dxc5+ Kxc5 18. b4+ Kd6 19. Be5+ Kc6 20. Nd4+ Kb6 21. Qe2 Bxb4 22. Bxh8 Qxh8 23. Nab5 Ka5 24. Nb3+ Ka4 25. Rd4 Rxb5 26. c3 Ka3 27. Qb2+ Ka4 28. Rxb4+ Rxb4 29. cxb4 Kxb4 30. Qxh8 Kc4 31. Qxc8 Kd3 32. Qxc7 Kxe3 33. Qxh7 Kf3 34. Qxh6 Kf4 35. Qxg5+ Ke5 36. Re1+ Kd6 37. Qd8+ Kc6 38. Qe8+ Kd6 39. Qd8+ Kc6 40. Qe8+ Kb6 41. Qxe6+ Kb5 42. Qxd5+ Kb6 43. Qa5+ Ka7 44. Nc5 Ka8 45. Qxa6+ Kb8 46. Re8+ Kc7 47. Re7+ Kd8 48. Qd6+ Kc8 49. Qc7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/LUbodXRu"]
+[White "saito78"]
+[Black "etiopia"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:21"]
+[WhiteElo "1663"]
+[BlackElo "1698"]
+[WhiteRatingDiff "+36"]
+[BlackRatingDiff "-11"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 Nc6 5. cxd6 exd6 6. Nd2 b6 7. Ngf3 Bb7 8. Bc4 Ne5 9. Nxe5 dxe5 10. Qa4+ Nd7 11. O-O Bc5 12. Bd3 O-O 13. Nf3 f5 14. exf5 Bxf3 15. gxf3 Qh4 16. Qxh4 Nf6 17. Bg5 1-0
+

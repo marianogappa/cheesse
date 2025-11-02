@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/YKcRxJkD"]
+[White "Teglife10"]
+[Black "wisemansfear"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:47"]
+[WhiteElo "1343"]
+[BlackElo "1422"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+8"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "300+15"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 d6 3. d4 cxd4 4. cxd4 Nf6 5. Nc3 g6 6. Bd3 Bg7 7. Nf3 O-O 8. O-O d5 9. e5 Ng4 10. h3 Nh6 11. Ne2 Nc6 12. Nf4 Nf5 13. Ne2 Nfxd4 14. Nfxd4 Nxd4 15. Nxd4 Bxe5 16. Nf3 Bg7 17. Ng5 Qb6 18. b3 Bxa1 19. Be3 Bd4 20. Bxd4 Qxd4 21. Nf3 Qb2 22. Bb1 Rd8 23. Re1 e6 24. Ng5 Rd6 25. Re2 Qf6 26. Nf3 d4 27. Rd2 e5 28. Ne1 Bf5 29. Bxf5 Qxf5 30. Nd3 e4 31. Ne1 Re8 32. Rxd4 Red8 33. Rxd6 Rxd6 34. Qxd6 Qa5 35. Qb8+ Kg7 36. Qxb7 Qxe1+ 37. Kh2 a5 38. Kg3 e3 39. Qc7 exf2 0-1
+

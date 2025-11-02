@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/brAlRCdT"]
+[White "AquilesMiranda"]
+[Black "Leart"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:04"]
+[WhiteElo "1622"]
+[BlackElo "1394"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+18"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. Ke2 d5 3. exd5 Nf6 4. c4 e6 5. dxe6 Nc6 6. exf7+ Kxf7 7. Ke1 Be7 8. Nf3 Bf5 9. Be2 Nd4 10. Nxd4 Qxd4 11. d3 Ng4 12. Be3 Nxe3 13. fxe3 Qxb2 14. Nd2 Rhf8 15. Rf1 Kg8 16. e4 Bd7 17. Rb1 Qd4 18. Rxb7 Rxf1+ 19. Bxf1 g6 20. Nf3 Qc3+ 21. Kf2 Rd8 22. Rxa7 Qf6 23. Be2 Bd6 24. Kg1 Bb8 25. Rb7 g5 26. Nd2 Bf4 27. Nb3 Qa6 28. Na5 Qxa5 29. Bg4 Bxg4 30. Qb1 Rxd3 31. Qb2 Be3+ 32. Kf1 Qc7 33. Rxc7 Rd1# 0-1
+

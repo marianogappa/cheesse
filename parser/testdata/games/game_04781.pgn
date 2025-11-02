@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/vvc5y5d1"]
+[White "el_maurice"]
+[Black "daytimeniga"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:21"]
+[WhiteElo "1461"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-196"]
+[ECO "B27"]
+[Opening "Sicilian Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... c5 { [%eval 0.19] } 2. Nf3 { [%eval 0.18] } 2... a5?! { [%eval 1.06] } 3. d4 { [%eval 1.07] } 3... cxd4 { [%eval 1.25] } 4. Nxd4 { [%eval 1.25] } 4... b5? { [%eval 2.46] } 5. Nc3?! { [%eval 1.52] } 5... Ra7? { [%eval 3.24] } 6. Ncxb5?! { [%eval 2.31] } 6... Rb7 { [%eval 2.54] } 7. Be3?! { [%eval 1.63] } 7... d6 { [%eval 1.79] } 8. Be2 { [%eval 1.31] } 8... Bd7?! { [%eval 2.04] } 9. a4 { [%eval 2.15] } 9... Nc6?! { [%eval 2.81] } 10. O-O { [%eval 2.67] } 10... Nxd4 { [%eval 2.73] } 11. Bxd4 { [%eval 2.41] } 11... f5?? { [%eval 8.63] } 12. exf5? { [%eval 6.36] } 12... Bxf5 { [%eval 6.45] } 13. Bd3? { [%eval 4.11] } 13... g6?? { [%eval 9.7] } 14. Bxf5? { [%eval 8.45] } 14... gxf5? { [%eval 10.99] } 15. Qd3?? { [%eval 4.62] } 15... h5?? { [%eval 11.26] } 16. Qxf5? { [%eval 7.49] } 16... e6? { [%eval 17.8] } 17. Qxe6+ { [%eval 16.5] } 17... Be7 { [%eval 19.22] } 18. Rfe1 { [%eval 15.95] } 18... Qb6?! { [%eval #12] } 19. Bxb6?! { [%eval 27.76] } 19... Rxb6 { [%eval 26.87] } 20. Nc7+ { [%eval 24.95] } 20... Kd8?! { [%eval #11] } 21. Nd5 { [%eval #10] } 21... Nf6 { [%eval #2] } 22. Nxb6?! { [%eval #4] } 1-0
+

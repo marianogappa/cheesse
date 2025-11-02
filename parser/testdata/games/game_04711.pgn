@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ulhOvzft"]
+[White "Kitan"]
+[Black "triluarca"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:08"]
+[WhiteElo "1312"]
+[BlackElo "1341"]
+[WhiteRatingDiff "-25"]
+[BlackRatingDiff "+9"]
+[ECO "D11"]
+[Opening "Slav Defense: Modern Line"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. c4 c6 3. d4 e6 4. Bg5 Be7 5. e3 Nf6 6. c5 Nbd7 7. Bd3 Bxc5 8. dxc5 Nxc5 9. O-O O-O 10. Nc3 b5 11. Bc2 a5 12. Re1 h6 13. Bxf6 Qxf6 14. Qb1 g6 15. e4 d4 16. e5 Qg7 17. Ne4 Nxe4 18. Rxe4 c5 19. b3 Bb7 20. Rg4 Bxf3 21. gxf3 Kh7 22. h4 h5 23. Rg5 Rad8 24. Kh2 Rd5 25. f4 c4 26. bxc4 bxc4 27. Qb7 Rfd8 28. Bxg6+ fxg6 29. Qxg7+ Kxg7 30. Rag1 Kh7 31. Rxg6 R8d7 32. Rxe6 d3 33. Rgg6 d2 34. Rh6+ Kg7 35. Reg6+ Kf8 36. Rh8+ Kf7 37. Rf6+ Ke7 38. Rh7+ Kd8 39. Rf8+ Kc7 40. Rxd7+ Rxd7 41. e6 d1=Q 42. Rf7 Rxf7 43. exf7 Qd8 44. f5 Qe7 45. Kg3 Qxf7 46. Kf4 Qf6 47. f3 Qxh4+ 48. Ke5 Qe7+ 49. Kf4 Qf6 50. Ke4 c3 51. Kf4 c2 52. Ke4 c1=Q 53. Kd5 Qch6 54. Kc5 Qhg5 55. Kc4 Qgxf5 56. Kb3 Qxf3+ 57. Ka4 Q3f4+ 58. Kxa5 Q6d4 59. Kb5 Qfe5+ 60. Ka6 Qed6+ 61. Ka5 Q4c5+ 62. Ka4 Qdd4+ 63. Kb3 Qcc3# 0-1
+

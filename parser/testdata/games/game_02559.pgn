@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Y2dhGt3D"]
+[White "chessname1234"]
+[Black "moacir"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:43"]
+[WhiteElo "1830"]
+[BlackElo "1548"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+[ECO "C20"]
+[Opening "Bishop's Opening: Boi Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Bc4 Bc5 3. d3 Ne7 4. Nf3 d5 5. exd5 Bg4 6. h3 Bxf3 7. Qxf3 O-O 8. O-O Nd7 9. c3 Nb6 10. b4 Nxc4 11. dxc4 Bd6 12. c5 e4 13. Qxe4 f5 14. Qd4 Bh2+ 15. Kxh2 f4 16. Bxf4 Ng6 17. Bg3 h5 18. d6 h4 19. dxc7 Qe7 20. Bd6 Qd7 21. Bxf8 Qxc7+ 22. Bd6 Qf7 23. Nd2 Rd8 24. Nf3 Nf4 25. Ne5 Qf5 26. Ng4 Ne2 27. Qc4+ Kh8 28. Qxe2 Rxd6 29. cxd6 Qd5 30. Qe8+ 1-0
+

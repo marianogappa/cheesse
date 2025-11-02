@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rJxlQuXs"]
+[White "zombakk"]
+[Black "carpediem257"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:35"]
+[WhiteElo "1731"]
+[BlackElo "1759"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "D06"]
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.2] } 1... d5 { [%eval 0.31] } 2. c4 { [%eval 0.1] } 2... Nf6 { [%eval 0.37] } 3. Nc3 { [%eval 0.09] } 3... Bg4? { [%eval 1.19] } 4. Bf4?! { [%eval 0.33] } 4... a6?! { [%eval 0.94] } 5. Nb5?? { [%eval -3.67] } 5... axb5 { [%eval -3.59] } 6. cxb5? { [%eval -4.67] } 6... e6? { [%eval -3.42] } 7. Rc1?! { [%eval -4.18] } 7... Bd6?! { [%eval -3.41] } 8. Bg5? { [%eval -4.75] } 8... O-O { [%eval -4.41] } 9. h4? { [%eval -5.7] } 9... Bb4+ { [%eval -5.47] } 10. Rc3? { [%eval -7.18] } 10... Bxc3+ { [%eval -6.76] } 11. bxc3 { [%eval -6.66] } 11... Nbd7 { [%eval -6.4] } 12. f3?! { [%eval -7.23] } 12... Bh5? { [%eval -5.07] } 13. Qb1? { [%eval -6.31] } 13... Nb6 { [%eval -6.05] } 14. Nh3 { [%eval -6.32] } 14... h6 { [%eval -6.0] } 15. Be3? { [%eval -7.41] } 15... Bg6 { [%eval -7.23] } 16. Qb2? { [%eval -10.35] } 16... Nc4 { [%eval -10.04] } 17. Qd2 { [%eval -17.75] } 17... Nxd2 { [%eval -17.38] } 18. Bxd2 { [%eval -17.27] } 18... Qd6 { [%eval -16.86] } 19. g4 { [%eval -31.05] } 19... Qb6 { [%eval -15.57] } 20. e3 { [%eval -17.37] } 20... Qa5 { [%eval -16.79] } 21. c4 { [%eval -20.51] } 21... Qxa2 { [%eval -19.85] } 22. Be2 { [%eval -19.91] } 22... Qb1+ { [%eval -19.34] } 23. Kf2?! { [%eval #-10] } 23... Qxh1 { [%eval -34.27] } 0-1
+

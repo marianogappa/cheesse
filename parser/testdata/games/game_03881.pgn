@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/d4clueSm"]
+[White "josemoli01"]
+[Black "glimmer_85"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:49"]
+[WhiteElo "1736"]
+[BlackElo "1749"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+10"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bd2 O-O 5. Nf3 d5 6. cxd5 exd5 7. Qc2 h6 8. O-O-O Bxc3 9. Qxc3 Ne4 10. Qe3 Nc6 11. g4 Bxg4 12. Rg1 Bh5 13. Qxh6 Bg6 14. Qe3 Re8 15. Nh4 Qxh4 16. f4 Nxd2 17. Rxd2 Rxe3 18. f5 Bxf5 19. Rg3 Rxg3 20. hxg3 Qxg3 21. e4 Bxe4 22. Rg2 Qe1# 0-1
+

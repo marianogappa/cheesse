@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/2Jv8TaFO"]
+[White "ugulmezoglu"]
+[Black "mecitaydin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:49"]
+[WhiteElo "1764"]
+[BlackElo "1656"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "E00"]
+[Opening "Amar Opening"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. Nh3 e5 2. g3 d5 3. Bg2 Be6 4. O-O Qd7 5. f3 Bxh3 6. e3 Bxg2 7. Kxg2 h5 8. e4 h4 9. exd5 hxg3 10. hxg3 Qh3+ 11. Kf2 Qh2+ 12. Ke3 Qxg3 13. Rf2 Bc5+ 14. d4 Bxd4+ 15. Ke2 Qxf2+ 16. Kd3 Nc6 17. Be3 Nb4+ 18. Kc4 Bxe3 19. Kxb4 a5+ 20. Kb3 b5 21. Nc3 a4+ 22. Kb4 Bc5+ 23. Kxb5 Rb8+ 24. Kc6 Ne7+ 25. Kxc7 1-0
+

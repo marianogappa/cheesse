@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/QvqT9sFi"]
+[White "CapitainPlanet"]
+[Black "Uparciuch"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:34"]
+[WhiteElo "1366"]
+[BlackElo "1345"]
+[WhiteRatingDiff "+31"]
+[BlackRatingDiff "-11"]
+[ECO "A43"]
+[Opening "Old Benoni Defense"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.12] } 1... c5?! { [%eval 0.64] } 2. Nf3?! { [%eval -0.08] } 2... cxd4 { [%eval 0.08] } 3. Nxd4 { [%eval -0.09] } 3... e6 { [%eval 0.36] } 4. b3 { [%eval -0.12] } 4... Qe7?! { [%eval 0.73] } 5. Bb2 { [%eval 0.43] } 5... a6 { [%eval 0.75] } 6. e3 { [%eval 0.79] } 6... g5? { [%eval 2.9] } 7. g3? { [%eval 1.02] } 7... f6? { [%eval 2.25] } 8. Bg2 { [%eval 1.82] } 8... f5? { [%eval 4.81] } 9. Qh5+? { [%eval 3.23] } 9... Qf7 { [%eval 3.38] } 10. Qxg5? { [%eval 2.03] } 10... h6?! { [%eval 2.62] } 11. Qf4 { [%eval 2.27] } 11... Qe7? { [%eval 4.81] } 12. Ne2? { [%eval 2.27] } 12... e5? { [%eval 4.72] } 13. Bxe5 { [%eval 4.69] } 13... Rh7?! { [%eval 5.22] } 14. Qxf5? { [%eval 4.09] } 14... Rf7 { [%eval 4.24] } 15. Qh5 { [%eval 4.04] } 15... Qc5?! { [%eval 4.99] } 16. Nd4?? { [%eval -0.35] } 16... Bd6?? { [%eval 4.26] } 17. Nf3?? { [%eval 0.38] } 17... Nf6 { [%eval 0.39] } 18. Qh4? { [%eval -0.64] } 18... Bxe5 { [%eval -0.47] } 19. Nxe5 { [%eval -0.39] } 19... Qxe5 { [%eval -0.21] } 20. Qd4?! { [%eval -0.77] } 20... Qxd4 { [%eval -0.53] } 21. exd4 { [%eval -0.54] } 21... Re7+ { [%eval -0.39] } 22. Kd2 { [%eval -0.44] } 22... Ne4+ { [%eval -0.45] } 23. Kd3? { [%eval -3.15] } 23... Nxf2+ { [%eval -3.15] } 24. Kd2 { [%eval -3.25] } 24... Nxh1 { [%eval -3.13] } 25. Bxh1 { [%eval -3.15] } 25... Ra7 { [%eval -2.71] } 26. Nc3 { [%eval -2.73] } 26... Rf7 { [%eval -2.55] } 27. Nd5 { [%eval -2.8] } 27... Rf2+ { [%eval -2.75] } 28. Kc3? { [%eval -4.1] } 28... b5 { [%eval -4.0] } 29. Re1+ { [%eval -4.22] } 29... Kf7? { [%eval -1.91] } 30. Re7+ { [%eval -2.06] } 30... Kg6?? { [%eval 8.64] } 31. Be4+ { [%eval 8.06] } 31... Kh5? { [%eval 10.61] } 32. Re5+ { [%eval 10.02] } 32... Kg4?! { [%eval #2] } 33. Ne3+ { [%eval #1] } 1-0
+

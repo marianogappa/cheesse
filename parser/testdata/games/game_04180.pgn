@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IOYEvsZL"]
+[White "canyouheerme"]
+[Black "typos"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:58"]
+[WhiteElo "1684"]
+[BlackElo "1790"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-14"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 d6 5. c3 dxc3 6. Nxc3 h6 7. O-O Bg4 8. Qb3 Bxf3 9. Bxf7+ 1-0
+

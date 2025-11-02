@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/2uUT3FdF"]
+[White "Khatir"]
+[Black "kostas5678"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:25"]
+[WhiteElo "1638"]
+[BlackElo "1638"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e3 e6 2. Be2 d5 3. d4 Nf6 4. Bd2 Nc6 5. c3 Ne4 6. b4 a6 7. Nf3 Bd6 8. O-O O-O 9. c4 Ne7 10. c5 Bxh2+ 11. Nxh2 Nf5 12. f3 Neg3 13. Rf2 Qh4 14. Nc3 b6 15. c6 Re8 16. Bd3 e5 17. Nxd5 Ra7 18. Bxf5 Bxf5 19. dxe5 Rxe5 20. e4 Bh3 21. Bc3 Rg5 22. Ne7+ Kf8 23. Qd8# 1-0
+

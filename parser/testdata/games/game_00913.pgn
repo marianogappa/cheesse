@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cBSYGQ9Q"]
+[White "InsaneChessPlayer"]
+[Black "apelsins"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:22"]
+[WhiteElo "2496"]
+[BlackElo "2475"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "D59"]
+[Opening "Queen's Gambit Declined: Tartakower Defense, Makogonov Exchange Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Bg5 Be7 5. Nf3 h6 6. Bh4 O-O 7. e3 b6 8. cxd5 Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Be6 12. Qa4 c5 13. Qa3 Rc8 14. Bb5 Qb7 15. O-O c4 16. Ba4 b5 17. Bd1 b4 18. Qa4 a5 19. Ne5 Nd7 20. Bf3 Nxe5 21. dxe5 Qc7 22. Rfd1 Qxe5 23. Qb5 Qxb2 24. Bxd5 Bxd5 25. Qxd5 c3 26. Qb3 Qxb3 27. axb3 a4 28. bxa4 b3 29. Kf1 c2 30. Rd2 b2 0-1
+

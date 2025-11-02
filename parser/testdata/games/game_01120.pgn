@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ujzZfSMZ"]
+[White "alefar"]
+[Black "supermonster2"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:12"]
+[WhiteElo "1678"]
+[BlackElo "1734"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "D01"]
+[Opening "Richter-Veresov Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bg5 Nf6 3. Nc3 g6 4. Bxf6 exf6 5. e3 Bg7 6. Bd3 O-O 7. Qd2 c6 8. Nge2 Be6 9. O-O-O Qd7 10. f4 f5 11. h3 a5 12. h4 b5 13. h5 a4 14. Nb1 b4 15. a3 bxa3 16. Nxa3 Qb7 17. hxg6 fxg6 18. g4 fxg4 19. f5 Bxf5 20. Bxf5 Rxf5 21. Nf4 Nd7 22. Ne6 Rb8 23. Qc3 Rf6 24. Nxg7 Kxg7 25. Rhg1 Rf3 26. Rxg4 Qb4 27. Rd3 Rf1+ 28. Kd2 Rf2+ 29. Kd1 Qxb2 30. Qxb2 Rxb2 31. Ke1 Rh2 32. Rg1 Nb6 33. e4 Nc4 34. exd5 Nxa3 35. Rxa3 Rb1# 0-1
+

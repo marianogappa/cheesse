@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/q1jFtx1X"]
+[White "SCIENS"]
+[Black "Prasonio"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:41"]
+[WhiteElo "1680"]
+[BlackElo "1774"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. c4 e6 2. b3 d5 3. Bb2 dxc4 4. bxc4 Nc6 5. d3 Nf6 6. Nf3 Be7 7. g3 O-O 8. Bg2 Bd7 9. O-O Re8 10. Nc3 e5 11. Rb1 Bf5 12. Nd2 Bg6 13. h3 Bd6 14. Nde4 Nxe4 15. Nxe4 Bxe4 16. dxe4 Bc5 17. e3 Qxd1 18. Rfxd1 Rad8 19. Rd5 Rxd5 20. exd5 Nb4 21. a3 Nd3 22. Bf1 Nxb2 23. Rxb2 e4 24. Rxb7 Bb6 25. c5 Bxc5 26. Rxc7 Bb6 27. Rc6 Rd8 28. d6 Bc5 0-1
+

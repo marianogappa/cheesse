@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/S0Y4ysbF"]
+[White "ottobitunbyte"]
+[Black "Subcontrary"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:07"]
+[WhiteElo "1622"]
+[BlackElo "1664"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "B28"]
+[Opening "Sicilian Defense: O'Kelly Variation, Normal System"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 a6 3. d4 d5 4. e5 Bg4 5. Be2 Nc6 6. dxc5 e6 7. Nd4 Bxe2 8. Qxe2 Bxc5 9. Nb3 Bb6 10. O-O Qc7 11. Bf4 f6 12. Qh5+ g6 13. Qh3 Qf7 14. exf6 Nxf6 15. Re1 Ne4 16. Rxe4 dxe4 17. Be3 Bxe3 18. Qxe3 O-O 19. Nc3 Nb4 20. Rc1 Nd5 21. Nxd5 exd5 22. Nc5 Rad8 23. c3 a5 24. a4 b6 25. Nb3 Qf4 26. Qxb6 Rb8 27. Qe6+ Kh8 28. g3 Qxf2+ 29. Kh1 Rxb3 30. Qxd5 Rxb2 31. Qd4+ Qxd4 32. cxd4 Rff2 33. Rc8+ Kg7 34. Rc7+ Kh6 0-1
+

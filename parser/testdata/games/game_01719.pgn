@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bUfJdy6W"]
+[White "captainsky13"]
+[Black "TheGentholet008"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:33"]
+[WhiteElo "1352"]
+[BlackElo "1406"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[ECO "C20"]
+[Opening "King's Pawn Game: King's Head Opening #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f3 d5 3. exd5 Nf6 4. Nc3 Nxd5 5. Nxd5 Qxd5 6. d3 Bb4+ 7. Bd2 Bc5 8. c4 Qd4 9. Bc3 Qf2# 0-1
+

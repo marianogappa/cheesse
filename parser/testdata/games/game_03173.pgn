@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MVehRy2A"]
+[White "melquiades10"]
+[Black "ArKen"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:59"]
+[WhiteElo "1807"]
+[BlackElo "1866"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C35"]
+[Opening "King's Gambit Accepted, Cunningham Defense, McCormick Defense"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. Nc3 O-O 6. O-O Nxe4 7. Bxf7+ Rxf7 8. Nxe4 d5 9. Nc3 d4 10. Ne2 d3 11. Nc3 c5 12. cxd3 Qxd3 13. Kh1 Nc6 14. b3 Bg4 15. Bb2 Nd4 16. Ne5 Bxd1 17. Nxd3 Be2 18. Ne5 Bxf1 19. Nxf7 Bxg2+ 20. Kxg2 Kxf7 21. Nd5 g5 22. Re1 Bd6 23. Bxd4 cxd4 24. Re4 Bc5 25. Nc7 Rc8 26. Ne6 Kf6 27. Nxc5 Rxc5 28. Rxd4 Rc2 29. a4 Ke5 30. Rd7 h5 31. Kf3 g4+ 32. Ke2 Rb2 33. Rxb7 g3 34. hxg3 fxg3 35. Rh7 Kf4 36. Rxh5 g2 37. Rh4+ Kg3 38. Rh8 g1=Q 39. Rg8+ Kh2 40. Rh8+ Kg2 41. Rg8+ Kh1 42. Rh8+ Qh2+ 43. Rxh2+ Kxh2 44. Ke3 Rxb3+ 45. d3 Ra3 46. Ke4 Rxa4+ 47. d4 Kg3 48. Ke5 Kf3 49. d5 Ra3 50. d6 Rd3 51. Ke6 a5 52. d7 a4 0-1
+

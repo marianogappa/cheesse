@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/y24ZAeiD"]
+[White "Wojti1984"]
+[Black "xesmaster"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:50"]
+[WhiteElo "1273"]
+[BlackElo "1222"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-11"]
+[ECO "C00"]
+[Opening "French Defense: Steinitz Attack"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e6 2. e5 Nc6 3. d4 Nge7 4. Qf3 Nd5 5. Bc4 Nxd4 6. Qd3 Nf5 7. Bxd5 exd5 8. Qxd5 Be7 9. g4 c6 10. Qd3 Nh4 11. Nc3 O-O 12. Qh3 Qa5 13. Nf3 Nxf3+ 14. Qxf3 Qxe5+ 15. Ne4 Bb4+ 16. c3 Ba5 17. Bf4 Qe6 18. O-O Re8 19. Ng5 Qc4 20. Rfe1 Rxe1+ 21. Rxe1 Qxa2 22. Re8# 1-0
+

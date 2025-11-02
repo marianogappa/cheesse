@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6gGo81Q4"]
+[White "cptreyfox"]
+[Black "shamsi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:57"]
+[WhiteElo "2076"]
+[BlackElo "2214"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-15"]
+[ECO "B33"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Exchange Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nxc6 Bb4 7. Nxb4 O-O 8. Bg5 1-0
+

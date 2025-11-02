@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IGPdn1wa"]
+[White "Ovlop"]
+[Black "Empyrosis"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:28"]
+[WhiteElo "1340"]
+[BlackElo "1610"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "300+1"]
+[Termination "Normal"]
+
+1. d4 e6 2. d5 exd5 3. Qxd5 Nf6 4. Qd3 d5 5. Bg5 c6 6. Nf3 Qa5+ 7. c3 Ne4 8. Bd2 Qb6 9. b4 Nxf2 10. Qe3+ Ne4 11. Nd4 Be7 12. a4 Nxd2 13. Nxd2 O-O 14. a5 Qc7 15. g3 c5 16. Nb5 Qd7 17. Na3 cxb4 18. cxb4 Bxb4 19. Nc2 Be7 20. Bg2 Re8 21. Qd3 Bf6 22. Rc1 Bb2 23. Rb1 Bf6 24. O-O Nc6 25. Bxd5 Nxa5 26. e4 Be5 27. Nf3 Bc7 28. Ra1 Bb6+ 29. Kh1 Qd8 30. Nfd4 Bxd4 31. Nxd4 Be6 32. Bxb7 Rb8 33. Rab1 Rxb7 34. Nxe6 fxe6 35. Qxd8 Rxd8 36. Rxb7 Nxb7 37. e5 Re8 38. Rf5 Nc5 0-1
+

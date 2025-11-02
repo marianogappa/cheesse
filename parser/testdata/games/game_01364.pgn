@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/m9lk65RD"]
+[White "dxdy"]
+[Black "j64u2"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:09"]
+[WhiteElo "1628"]
+[BlackElo "1908"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[ECO "B00"]
+[Opening "St. George Defense"]
+[TimeControl "300+9"]
+[Termination "Time forfeit"]
+
+1. e4 a6 2. d4 b5 3. a4 Bb7 4. d5 c6 5. axb5 cxb5 6. Nf3 d6 7. g3 Nd7 8. Bg2 g6 9. Ng5 Bg7 10. Qf3 Ngf6 11. Qc3 O-O 12. O-O Nxd5 13. Qe1 N5b6 14. Nc3 Nc4 15. b3 Nce5 16. Bf4 Rc8 17. Bd2 Qb6 18. Nd5 Bxd5 19. exd5 Ng4 20. Qxe7 Bxa1 21. Qxd7 Bd4 22. Be3 Bxe3 23. fxe3 Nxe3 24. Nxh7 Nxf1+ 25. Kxf1 Kxh7 26. Qh3+ Kg7 27. Be4 Qe3 28. Qh4 Rce8 0-1
+

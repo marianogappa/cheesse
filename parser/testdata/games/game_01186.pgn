@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/FldrvMvp"]
+[White "Ovent"]
+[Black "V1962"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:28"]
+[WhiteElo "1720"]
+[BlackElo "1810"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-27"]
+[ECO "C00"]
+[Opening "French Defense: King's Indian Attack"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. d3 e6 2. e4 b6 3. Nf3 Bb7 4. Be2 g6 5. O-O Bg7 6. c3 Qe7 7. Nbd2 h6 8. Nb3 Nc6 9. Nbd4 O-O-O 10. b4 f5 11. a4 fxe4 12. dxe4 d5 13. exd5 Rxd5 14. Bc4 Nxd4 15. Nxd4 Bxd4 16. Bxd5 Bxc3 17. Bxb7+ Kxb7 18. Qf3+ 1-0
+

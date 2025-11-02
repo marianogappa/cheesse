@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tMD7MrkW"]
+[White "militan"]
+[Black "cevil1001"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:57"]
+[WhiteElo "1627"]
+[BlackElo "1780"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "C53"]
+[Opening "Italian Game: Classical Variation #2"]
+[TimeControl "180+1"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 Bg4 8. h3 Bh5 9. O-O Nge7 10. Bb5 O-O 11. Bg5 Bxf3 12. Qxf3 Nxd4 13. Qd3 Bxc3 14. bxc3 Nxb5 15. Qxb5 b6 16. Qd3 Qd7 0-1
+

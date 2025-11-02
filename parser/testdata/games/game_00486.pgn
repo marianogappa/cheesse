@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/al7ADzCp"]
+[White "rahroo"]
+[Black "josuecomandu"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:48"]
+[WhiteElo "1750"]
+[BlackElo "1962"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "B33"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Exchange Variation"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 cxd4 5. Nxd4 e5 6. Nxc6 bxc6 7. Bc4 Bb4 8. O-O Bxc3 9. bxc3 Nxe4 10. Bxf7+ Kxf7 11. Qh5+ g6 12. Qxe5 Nf6 13. Bg5 Re8 14. Qd4 d5 15. Rad1 Be6 16. f4 Bf5 17. Rde1 Be4 18. f5 gxf5 19. Qf2 Rg8 20. Qh4 Rg6 21. c4 Qb6+ 22. Kh1 h6 23. Rxe4 hxg5 24. Qf2 Nxe4 25. Qxf5+ Rf6 26. Qh7+ Ke6 27. Rxf6+ Nxf6 28. cxd5+ cxd5 0-1
+

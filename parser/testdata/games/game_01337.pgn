@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/bH8eKwtv"]
+[White "serbaru"]
+[Black "Feijoh"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:58"]
+[WhiteElo "1645"]
+[BlackElo "1505"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "B07"]
+[Opening "Pirc Defense #5"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.35] } 1... d6 { [%eval 0.46] } 2. d4 { [%eval 0.47] } 2... g6 { [%eval 0.64] } 3. Nf3 { [%eval 0.52] } 3... Nf6 { [%eval 0.56] } 4. c4?! { [%eval -0.4] } 4... c6? { [%eval 0.67] } 5. Nc3 { [%eval 0.62] } 5... e6?! { [%eval 1.16] } 6. Bg5 { [%eval 0.93] } 6... Bg7?! { [%eval 1.64] } 7. e5?! { [%eval 1.03] } 7... h6? { [%eval 3.7] } 8. exf6 { [%eval 3.81] } 8... Bxf6 { [%eval 3.79] } 9. Bxf6 { [%eval 3.79] } 9... Qxf6 { [%eval 3.73] } 10. Be2 { [%eval 3.37] } 10... Nd7 { [%eval 3.68] } 11. O-O { [%eval 3.68] } 11... O-O { [%eval 3.69] } 12. b3 { [%eval 3.37] } 12... Qg7 { [%eval 3.61] } 13. Qc2?! { [%eval 3.1] } 13... f5 { [%eval 3.12] } 14. Bd3?! { [%eval 2.44] } 14... e5 { [%eval 2.48] } 15. Ne2? { [%eval 0.67] } 15... e4 { [%eval 0.68] } 16. Bxe4 { [%eval 0.75] } 16... fxe4 { [%eval 0.81] } 17. Qxe4 { [%eval 0.9] } 17... Nf6 { [%eval 0.82] } 18. Qh4? { [%eval -1.88] } 18... Bf5? { [%eval 0.43] } 19. Ng3?! { [%eval -0.13] } 19... Bd7? { [%eval 1.1] } 20. Rae1?? { [%eval -2.07] } 20... Rae8?? { [%eval 1.12] } 21. Rxe8 { [%eval 1.16] } 21... Rxe8 { [%eval 1.15] } 22. Re1?? { [%eval -3.36] } 22... Rxe1+ { [%eval -3.19] } 23. Nxe1 { [%eval -3.06] } 23... Kh7?? { [%eval 1.23] } 24. Nf3?? { [%eval -1.81] } 24... Kg8?? { [%eval 1.35] } 25. Ne4 { [%eval 1.03] } 25... Nxe4 { [%eval 1.38] } 26. Qxe4 { [%eval 1.27] } 26... d5? { [%eval 3.04] } 27. cxd5 { [%eval 2.91] } 27... cxd5?! { [%eval 3.7] } 28. Qxd5+ { [%eval 3.64] } 28... Kh7 { [%eval 3.54] } 29. Ne5 { [%eval 3.22] } 29... Bf5 { [%eval 3.14] } 30. Qd6 { [%eval 3.0] } 30... a6?! { [%eval 3.52] } 31. f3 { [%eval 3.52] } 31... h5 { [%eval 3.45] } 32. h3 { [%eval 3.31] } 32... h4?! { [%eval 3.91] } 33. Kh2 { [%eval 3.45] } 33... a5 { [%eval 3.91] } 34. g4 { [%eval 3.47] } 34... hxg3+ { [%eval 3.25] } 35. Kxg3 { [%eval 3.08] } 35... a4? { [%eval 4.47] } 36. bxa4 { [%eval 4.39] } 1-0
+

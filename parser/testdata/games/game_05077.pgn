@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Ea4kLJXU"]
+[White "andreataranto"]
+[Black "Whiplash775"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:31"]
+[WhiteElo "1612"]
+[BlackElo "1847"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 e6 4. c4 Ne7 5. Bd3 d6 6. Nc3 Nd7 7. O-O b6 8. Bg5 Bb7 9. e5 dxe5 10. Nxe5 O-O 11. h4 Nxe5 12. dxe5 Bxe5 13. h5 Qd7 14. hxg6 hxg6 15. f4 Bd4+ 16. Kh1 Bg7 17. Qc2 Nf5 18. Ne4 Nd4 19. Qf2 f6 20. Bxf6 Bxf6 21. Nxf6+ Rxf6 22. Qh4 Qh7 23. Qxh7+ Kxh7 0-1
+

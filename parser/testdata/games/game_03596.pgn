@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/yBxTDnn3"]
+[White "karimbenbourenane"]
+[Black "baiabenji"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:42"]
+[WhiteElo "1525"]
+[BlackElo "1670"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+6"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "660+7"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nf6 4. d3 c6 5. a3 d5 6. exd5 cxd5 7. Bb5+ Bd7 8. Bxd7+ Nbxd7 9. O-O Bd6 10. Re1 O-O 11. Bg5 Re8 12. Nc3 h6 13. Bd2 e4 14. dxe4 dxe4 15. Nd4 Qc7 16. Ncb5 Bxh2+ 17. Kh1 Qe5 18. f4 Bxf4 19. Bxf4 Qxf4 20. Ne6 Rxe6 21. Qxd7 Nxd7 0-1
+

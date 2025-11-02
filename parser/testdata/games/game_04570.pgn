@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/owMX2hHl"]
+[White "Teldja54"]
+[Black "ecterminio53"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:31"]
+[WhiteElo "1699"]
+[BlackElo "1480"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-10"]
+[ECO "C30"]
+[Opening "King's Gambit: Panteldakis Countergambit"]
+[TimeControl "600+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 f5 3. Nc3 exf4 4. Nf3 Bb4 5. d3 d6 6. Bxf4 Qf6 7. Bg5 Bxc3+ 8. bxc3 Qxc3+ 9. Bd2 Qc5 10. d4 Qc6 11. Bd3 Ne7 12. exf5 Nxf5 13. Qe2+ Ne7 14. Bb5 1-0
+

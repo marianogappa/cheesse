@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fTMuH2fl"]
+[White "cirurgiao"]
+[Black "retiro"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:24"]
+[WhiteElo "1478"]
+[BlackElo "1458"]
+[WhiteRatingDiff "+20"]
+[BlackRatingDiff "-11"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.25] } 1... e5 { [%eval 0.3] } 2. Nf3 { [%eval 0.12] } 2... Nc6 { [%eval 0.37] } 3. Bc4 { [%eval 0.17] } 3... Nf6 { [%eval 0.2] } 4. O-O { [%eval -0.06] } 4... Be7 { [%eval 0.24] } 5. Re1 { [%eval 0.24] } 5... O-O { [%eval 0.27] } 6. Nc3 { [%eval 0.26] } 6... a6 { [%eval 0.38] } 7. Qe2 { [%eval 0.03] } 7... Na5?! { [%eval 0.79] } 8. d4?! { [%eval 0.15] } 8... exd4 { [%eval 0.19] } 9. Nxd4 { [%eval 0.17] } 9... Nxc4 { [%eval 0.26] } 10. Qxc4 { [%eval 0.18] } 10... b6? { [%eval 1.26] } 11. Nd5?! { [%eval 0.35] } 11... Bc5? { [%eval 2.74] } 12. c3? { [%eval 0.33] } 12... Re8?! { [%eval 1.02] } 13. e5? { [%eval -0.37] } 13... Nxd5?! { [%eval 0.27] } 14. Qxd5 { [%eval 0.33] } 14... c6 { [%eval 0.23] } 15. Qf3 { [%eval 0.27] } 15... Bb7?! { [%eval 0.83] } 16. b4?! { [%eval 0.13] } 16... Bxd4 { [%eval 0.39] } 17. cxd4 { [%eval 0.37] } 17... c5?? { [%eval 3.63] } 18. Qxb7 { [%eval 3.6] } 18... cxd4?! { [%eval 4.36] } 19. Bb2 { [%eval 4.38] } 19... d3 { [%eval 4.83] } 20. Rad1 { [%eval 4.8] } 20... a5 { [%eval 4.83] } 21. bxa5 { [%eval 4.75] } 21... bxa5 { [%eval 4.75] } 22. Bc3 { [%eval 4.58] } 22... a4?! { [%eval 5.16] } 23. a3 { [%eval 4.69] } 23... Qe7?! { [%eval 5.32] } 24. Bb4 { [%eval 5.19] } 24... d6? { [%eval 7.02] } 25. Qd5? { [%eval 5.37] } 25... Qe6? { [%eval 6.76] } 26. Qxd6? { [%eval 4.82] } 26... Qxd6?? { [%eval 9.54] } 27. exd6 { [%eval 8.33] } 27... Rxe1+? { [%eval 12.88] } 28. Rxe1 { [%eval 12.57] } 28... f6 { [%eval 12.67] } 29. d7 { [%eval 12.07] } 29... Rd8 { [%eval 53.39] } 30. Re8+ { [%eval 53.27] } 30... Rxe8?! { [%eval #1] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1fNcSmB7"]
+[White "WooFChat"]
+[Black "lctrs"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:33"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+175"]
+[BlackRatingDiff "-7"]
+[ECO "C55"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. c3 Bc5 5. Bb3 Nf6 6. Bc2 O-O 7. d3 d6 8. Be3 Bb6 9. Bxb6 axb6 10. O-O Bg4 11. Nbd2 Ne7 12. h3 Bd7 13. Re1 c5 14. Nf1 b5 15. Ng3 b4 16. Nf5 Ng6 17. Nxd6 Bxh3 18. Nxb7 Qd7 19. Nxc5 Qg4 20. g3 Nf4 21. Nh2 Qg5 22. d4 exd4 23. cxd4 Rae8 24. Ba4 Ng4 25. Bxe8 Nxh2 26. Kxh2 Bg4 27. gxf4 Qxf4+ 28. Kg1 Bxd1 29. Raxd1 Rxe8 30. Nd3 Qg4+ 31. Kf1 Rxe4 32. Rxe4 Qxd1+ 33. Ne1 b3 34. Re8+ Kh7 35. axb3 Qxb3 36. Re7 f6 37. Re2 Qd5 38. Rd2 Qc4+ 39. Nd3 Qxd4 40. b4 g5 41. b5 h5 42. Ke1 h4 43. Kd1 h3 44. Nb2 Qb4 45. Nd3 Qxb5 46. f3 h2 47. Nf2 h1=Q+ 48. Nxh1 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/5lOaxAqo"]
+[White "kenpachii"]
+[Black "Bob-omb"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:02"]
+[WhiteElo "1528"]
+[BlackElo "1498"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 bxc6 6. Nxe5 O-O 7. Bg5 Bb7 8. d4 Bb6 9. O-O d5 10. exd5 cxd5 11. Qf3 Bxd4 12. Bxf6 Qxf6 13. Nd7 Qxf3 14. gxf3 Rfe8 15. c3 Be5 16. Na3 Re6 17. Rfe1 Rae8 18. h4 Rh6 19. Nxe5 d4 20. cxd4 Ree6 21. Nb5 Rxh4 22. Nxc7 Reh6 23. Ng4 Rh1+ 24. Kg2 Rxe1 25. Rxe1 1-0
+

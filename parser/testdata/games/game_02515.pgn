@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/MjeJKOYB"]
+[White "skompas"]
+[Black "KINGOFRUBIES"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:34"]
+[WhiteElo "1519"]
+[BlackElo "1763"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Stonewall Attack"]
+[TimeControl "420+15"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. e3 d5 3. Bd3 g6 4. Qe2 Bg7 5. Nc3 O-O 6. Nf3 Bg4 7. e4 Nc6 8. Qe3 Bxf3 9. Qxf3 Nxd4 10. Qe3 c5 11. Ne2 Ng4 12. Qg3 h5 13. Nxd4 Bxd4 14. O-O c4 15. Be2 Be5 16. Bf4 Bxb2 17. Rab1 c3 18. Bxg4 hxg4 19. exd5 Qxd5 20. Be5 f6 21. Bxc3 Bxc3 22. Qxc3 Rac8 23. Qg3 f5 24. Qh4 Rf7 25. Rfd1 Qxa2 26. Rxb7 Qxc2 27. Rf1 a5 28. Rxe7 Qc4 29. Rxf7 Qxf7 30. Ra1 a4 31. h3 Qc4 32. hxg4 fxg4 33. Qf6 Kh7 34. Qh4+ Kg7 35. Qe7+ Kg8 36. Qf6 Rc6 37. Qd8+ Kg7 38. Qe7+ Kg8 39. Qe8+ Kg7 40. Rxa4 Qxa4 41. Qxc6 Qxc6 42. Kh2 Qf6 43. f3 Qh4+ 44. Kg1 g3 45. Kf1 Qh1+ 46. Ke2 Qxg2+ 47. Ke3 Kf6 48. Kf4 g5+ 49. Kg4 Qf2 50. f4 gxf4 51. Kh3 f3 52. Kg4 g2 53. Kf4 g1=Q 0-1
+

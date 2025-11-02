@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RVUbFqoE"]
+[White "Zubuntus"]
+[Black "setya1370"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:36"]
+[WhiteElo "1489"]
+[BlackElo "1513"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bd2 d5 5. c5 c6 6. f3 O-O 7. Qc2 Nbd7 8. e3 b6 9. Bd3 bxc5 10. Nge2 cxd4 11. Nxd4 Nc5 12. Be2 Ba6 13. a3 Bxe2 14. Ncxe2 Bxd2+ 15. Kxd2 Qa5+ 16. b4 Nce4+ 17. fxe4 Nxe4+ 18. Kc1 Qb6 19. Ng3 Rac8 20. Nxe4 dxe4 21. Kb2 c5 22. Ka2 cxd4 23. Qxe4 dxe3 24. Rad1 Rc2+ 25. Qxc2 Qb7 26. Rhg1 Rc8 27. Qd3 Qc6 28. Qd8+ Qe8 29. Qxe8+ Rxe8 30. Rge1 f5 31. Rxe3 Kf7 32. Rd7+ Re7 33. Rxe7+ Kxe7 34. Kb3 g5 35. Kc4 h5 36. Kd4 Kf6 37. a4 f4 38. Re4 Kf5 39. Re5+ Kg4 40. h3+ Kg3 41. Rxg5+ Kh4 42. Re5 Kg3 43. Rxe6 Kxg2 44. Ke4 f3 45. Rf6 f2 46. Rxf2+ Kxf2 47. Kf4 Kg2 48. Kg5 Kxh3 49. Kxh5 Kg3 50. Kg5 Kf3 51. Kf5 Ke3 52. Ke5 Kd3 53. Kd5 Kc3 54. Kc5 Kb3 55. a5 Ka4 56. Kc4 Ka3 57. Kb5 Kb3 58. a6 Ka3 59. Ka5 Kb3 60. b5 Kc4 61. b6 axb6+ 62. Kxb6 Kb4 63. a7 Kc4 64. a8=Q Kd4 1/2-1/2
+

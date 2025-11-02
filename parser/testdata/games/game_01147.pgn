@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HNgmHECb"]
+[White "GMILOPES"]
+[Black "birinhajr"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:15"]
+[WhiteElo "2116"]
+[BlackElo "1973"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+15"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Wing Gambit Deferred"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 e6 3. b4 d6 4. bxc5 dxc5 5. c3 Nf6 6. e5 Nd5 7. d4 cxd4 8. cxd4 Bb4+ 9. Nbd2 O-O 10. Bd3 f5 11. exf6 Nxf6 12. O-O Nc6 13. Bb2 Nd5 14. Ne4 Be7 15. Rc1 Bd7 16. Ne5 Nxe5 17. dxe5 Rc8 18. Qh5 Nf4 19. Nf6+ Bxf6 20. Bxh7+ Kh8 21. Qg4 Kxh7 22. exf6 Rxf6 23. Qh4+ Kg8 24. Rxc8 Bxc8 25. Bxf6 Qxf6 26. Qxf6 gxf6 27. Rd1 Nd5 28. Rc1 Bd7 29. h4 Bc6 30. g4 Kg7 31. Kh2 a6 32. Kg3 f5 33. g5 e5 34. Re1 e4 35. f4 e3 36. h5 Bb5 37. Kf3 e2 38. Rc1 Nc3 39. Kf2 Ne4+ 40. Ke1 Bc6 41. Kxe2 Ng3+ 42. Ke3 Nxh5 43. a4 Kg6 44. a5 Ng7 45. Rd1 Ne6 46. Rd6 Kf7 47. g6+ Ke7 48. Rd2 Kf6 49. Rd6 Ke7 50. Rd2 Ng7 51. Rd4 Ne6 52. Rd6 Ng7 53. Re6+ Kxe6 0-1
+

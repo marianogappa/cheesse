@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/al0xdGmg"]
+[White "almir179"]
+[Black "timothybdalton"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:12"]
+[WhiteElo "991"]
+[BlackElo "938"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-11"]
+[ECO "C30"]
+[Opening "King's Gambit Declined: Keene's Defense #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 Qh4+ 3. g3 Qh6 4. fxe5 Bb4 5. c3 Bc5 6. d4 Bb6 7. Bxh6 Nxh6 8. Qf3 f6 9. exf6 gxf6 10. Qxf6 Rf8 11. Qxh6 d6 12. Qxh7 Nc6 13. Be2 Be6 14. Bh5+ Bf7 15. Bxf7+ Rxf7 16. Qh8+ Rf8 17. e5 O-O-O 18. e6 Rxh8 19. Nh3 Rxh3 20. O-O Re8 21. Re1 Reh8 22. Nd2 Rxh2 23. Nf3 Rxb2 24. Ng5 Rg8 25. Ne4 Nxd4 26. e7 Nc2+ 27. Nf2 Rxg3+ 28. Kf1 Nxa1 29. e8=Q# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zH8BUFIW"]
+[White "Liborianer123"]
+[Black "Pierre_Brunetot"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:40"]
+[WhiteElo "1677"]
+[BlackElo "1450"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+17"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nge7 5. Nc3 d6 6. h3 Bd4 7. Nxd4 Nxd4 8. Be3 Ng6 9. Bxd4 exd4 10. Ne2 c5 11. b4 Ne5 12. bxc5 Nxc4 13. dxc4 dxc5 14. c3 d3 15. Nc1 d2+ 16. Qxd2 Qxd2+ 17. Kxd2 Be6 18. Kd3 Rd8+ 19. Ke3 Bxc4 20. Nb3 Bxb3 21. axb3 a6 22. b4 c4 23. Rhd1 Rc8 24. Rd4 Ke7 25. Rad1 Rhd8 26. Rxd8 Rxd8 27. Rxd8 Kxd8 28. Kd4 b5 29. Kc5 Kc7 30. f4 f6 31. g4 g5 32. h4 gxh4 33. Kd4 h3 34. Ke3 h2 35. Kf2 h1=Q 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/glXwbuYG"]
+[White "mal2tin"]
+[Black "neurilene"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:37"]
+[WhiteElo "1798"]
+[BlackElo "1378"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+[ECO "C42"]
+[Opening "Russian Game: Urusov Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Qe7 4. d3 d6 5. Nc3 h6 6. Kf1 c6 7. Be3 Bg4 8. h3 Bh5 9. g4 Bg6 10. Nh4 Qd7 11. Nxg6 fxg6 12. f4 g5 13. f5 Be7 14. Qe2 b5 15. Bb3 d5 16. h4 gxh4 17. exd5 cxd5 18. d4 e4 19. Rxh4 Nh7 20. Rh2 Nc6 21. Bxd5 O-O-O 22. Be6 Qxe6 23. fxe6 Ng5 24. Bxg5 Bxg5 25. d5 Nd4 26. Qxe4 Rhf8+ 27. Rf2 Nxc2 28. Qxc2 Be3 29. Nxb5+ Kb8 30. Qc7+ Ka8 31. Rxf8 Rxf8+ 32. Ke2 Bb6 33. e7 Re8 34. Qxb6 axb6 35. Nc7+ Kb7 36. Nxe8 g5 37. Rc1 b5 38. d6 Ka6 39. d7 b4 40. d8=Q Kb5 41. Qd5+ Ka4 42. b3+ Ka3 43. Qa5+ Kb2 44. Kd2 h5 45. Nd6 h4 46. Nc4# 1-0
+

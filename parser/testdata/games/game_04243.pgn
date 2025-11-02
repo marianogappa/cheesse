@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VSsyOC5i"]
+[White "jimmythesaint"]
+[Black "rindane"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:14"]
+[WhiteElo "1574"]
+[BlackElo "1666"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-14"]
+[ECO "C44"]
+[Opening "Scotch Game: Goering Gambit, Double Pawn Sacrifice"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 Nc6 5. Nf3 Nf6 6. e5 Nh5 7. O-O Be7 8. Nxc3 O-O 9. Nd5 Na5 10. Nxe7+ Qxe7 11. Bd3 g6 12. Bg5 Qc5 13. Bh6 Re8 14. Re1 Nc6 15. Be2 Nxe5 16. Nh4 d6 17. Bxh5 gxh5 18. Qxh5 Nf3+ 19. Qxf3 Rxe1+ 20. Rxe1 1-0
+

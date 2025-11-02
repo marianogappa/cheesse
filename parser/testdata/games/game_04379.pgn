@@ -1,0 +1,18 @@
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/ol7qWv46"]
+[White "MarkDiaz"]
+[Black "Adam9"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:52"]
+[WhiteElo "2190"]
+[BlackElo "1557"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-1"]
+[ECO "C48"]
+[Opening "Four Knights Game: Spanish Variation"]
+[TimeControl "-"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 d5 5. Nxe5 Be6 6. Nxc6 Qd7 7. Ne5 Nxe4 8. Bxd7+ Bxd7 9. Nxd7 Nxf2 10. Qe2+ Kxd7 11. Qxf2 Bc5 12. Qxf7+ Be7 13. Nxd5 Rhe8 14. O-O c6 15. Qf5+ Kd6 16. Nxe7 Rxe7 17. d4 1-0
+

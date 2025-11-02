@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7OG0reQy"]
+[White "locus_au"]
+[Black "zantelope"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:09"]
+[WhiteElo "1196"]
+[BlackElo "1052"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation, Pseudo-Catalan"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 e6 4. Bg2 Bb4+ 5. c3 Ba5 6. Bg5 O-O 7. Nbd2 Qd6 8. Bxf6 gxf6 9. O-O f5 10. Nb3 Bb6 11. Qd2 f4 12. gxf4 Kh8 1-0
+

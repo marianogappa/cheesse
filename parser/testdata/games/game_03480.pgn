@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/92J8EZbR"]
+[White "Napoleon_Dynamite"]
+[Black "dennise"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:15"]
+[WhiteElo "1249"]
+[BlackElo "1178"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-9"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Damiano Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. Nf3 f6 2. e4 e5 3. Nc3 Nc6 4. a3 a6 5. b4 b5 6. Bb2 d6 7. d4 exd4 8. Nxd4 Ne5 9. f4 Ng6 10. Qh5 Ne7 11. f5 Bxf5 12. exf5 Qd7 13. fxg6 hxg6 14. Qxh8 O-O-O 15. O-O-O g5 16. h4 Ng6 17. Qh5 Nxh4 18. Rxh4 g6 19. Qxg6 gxh4 20. Qxf6 Bg7 21. Qxh4 a5 22. g3 axb4 23. Bh3 bxc3 24. Bxd7+ Rxd7 25. Bxc3 Rf7 26. Re1 Bf6 27. Re8+ Kb7 28. Qe4+ Ka7 29. Nxb5+ Ka6 30. Qc6# 1-0
+

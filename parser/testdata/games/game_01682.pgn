@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/6MZ6XgBU"]
+[White "Iridium77"]
+[Black "gont"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:20"]
+[WhiteElo "1513"]
+[BlackElo "1531"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "60+2"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 Nf6 6. Bd3 Be7 7. O-O O-O 8. h3 b6 9. Qa4 d5 10. e5 Bd7 11. Qb3 Ne4 12. Qxd5 Nc5 13. Nc3 Be6 14. Qxd8 Raxd8 15. Be2 f5 16. f4 Ne4 17. Nxe4 fxe4 18. Be3 Bf5 19. c3 c5 20. Rad1 Rxd1 21. Rxd1 Bh4 22. Rd5 Rc8 23. Kh2 g6 24. g3 Be6 25. Rd6 Bf7 26. gxh4 Bxa2 27. c4 Bb3 28. Rd7 a5 29. Rb7 Rc6 30. Kg3 Ba4 31. Kg4 h5+ 32. Kg5 1-0
+

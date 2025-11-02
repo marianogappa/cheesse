@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fM7H4TTq"]
+[White "xkef"]
+[Black "syudi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:38"]
+[WhiteElo "1888"]
+[BlackElo "1736"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "B27"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 g6 3. Nc3 Bg7 4. Bc4 e6 5. O-O Nc6 6. d3 Nge7 7. Bf4 O-O 8. Bd6 b6 9. Nb5 a6 10. Bc7 Qe8 11. Nd6 Bxb2 12. Rb1 Bg7 13. Rxb6 Nd4 14. Nxd4 cxd4 15. f4 Nc6 16. Nxe8 Rxe8 17. Bd6 a5 18. a3 h6 19. Qf3 Kh7 20. f5 Nd8 21. fxg6+ fxg6 22. e5 Ra7 23. Bb8 Rb7 24. Rxb7 Bxb7 25. Qf4 Rf8 26. Qg3 Rg8 27. Bd6 Nc6 28. Bb5 g5 29. Bxc6 Bxc6 30. Rf7 Kh8 31. h4 gxh4 32. Qxh4 Kh7 33. Qg4 Kh8 34. Qg6 a4 35. Bf8 Rxf8 36. Qxg7# 1-0
+

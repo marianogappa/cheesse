@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8FvFTmhU"]
+[White "SAPEROCOXD"]
+[Black "Matachipachus"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:21"]
+[WhiteElo "1735"]
+[BlackElo "1743"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[ECO "A41"]
+[Opening "Queen's Pawn"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d6 2. Nf3 e6 3. e3 Ne7 4. Be2 Ng6 5. O-O Be7 6. c4 O-O 7. Nc3 b6 8. Qc2 Bb7 9. b3 Nd7 10. Bb2 f5 11. Rac1 a6 12. d5 e5 13. e4 f4 14. Ne1 Nh4 15. f3 Qe8 16. g3 fxg3 17. hxg3 Ng6 18. Kg2 Qf7 19. Rh1 Nf6 20. Nd3 Bc8 21. Rcf1 Bd7 22. f4 exf4 23. Nxf4 Nxf4+ 24. Rxf4 Qg6 25. Qd1 h6 26. Bh5 Nxh5 27. Qxh5 Qxh5 28. Rxh5 Rxf4 29. gxf4 Rf8 30. f5 Bg5 31. Ne2 g6 32. Rh1 gxf5 33. exf5 Rxf5 34. Ng3 Rf4 35. Bc1 Rg4 36. Bxg5 hxg5 37. Kf3 Kg7 38. Re1 Rf4+ 39. Kg2 Kg6 40. Re7 Rf7 41. Re1 g4 42. Re4 Kg5 43. Ne2 Bf5 44. Re8 Kf6 45. Ng3 Kg5 46. Rg8+ Kf4 47. Re8 Bd7 48. Re1 Kg5 49. Re4 Bf5 50. Re3 Bd7 51. Re4 Rf4 52. Re7 Bf5 53. Nxf5 Rxf5 54. Rxc7 Kf4 55. Rc6 Rf6 56. Rxb6 Rf7 57. Rxa6 Re7 58. Rxd6 Re2+ 59. Kf1 Rxa2 60. Rg6 g3 61. d6 Kf3 62. Ke1 Ke3 63. Rxg3+ Kf4 64. Rd3 Ke4 65. Rd2 Ra1+ 66. Ke2 Ra8 67. d7 Rd8 68. c5 Ke5 69. c6 Ke6 70. b4 Ke7 71. b5 Rh8 72. Kd1 Rh2 73. Kc2 Rh5 74. b6 Rc5+ 75. Kd1 Rxc6 76. Re2+ Kxd7 77. Rb2 Kc8 78. Kd2 Kb8 79. Kd3 Kb7 80. Kd4 Rxb6 81. Rxb6+ Kxb6 1/2-1/2
+

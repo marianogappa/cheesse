@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/QST8unxS"]
+[White "YAnimal46"]
+[Black "VSF01"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:39"]
+[WhiteElo "1882"]
+[BlackElo "2168"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "C30"]
+[Opening "King's Gambit Declined, Classical Variation"]
+[TimeControl "120+12"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. f5 g6 5. fxg6 hxg6 6. c3 Qe7 7. b4 Bb6 8. a4 a5 9. d3 Bg4 10. Be2 axb4 11. cxb4 Nc6 12. Bd2 Bxf3 13. Bxf3 Bd4 0-1
+

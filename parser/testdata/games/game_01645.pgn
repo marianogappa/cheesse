@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FvNqk601"]
+[White "tamagrout"]
+[Black "kavas"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:12"]
+[WhiteElo "1764"]
+[BlackElo "1772"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "C30"]
+[Opening "King's Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 d6 3. Nf3 Nc6 4. Bc4 Nf6 5. O-O exf4 6. d4 Nxe4 7. Bxf4 Nf6 8. Bg5 Be7 9. c3 O-O 10. Nbd2 Ng4 11. Bxe7 Nxe7 12. Qe2 Re8 13. Qd3 d5 14. Bb3 c6 15. Qb1 h6 16. h3 Ne3 17. Re1 Bf5 18. Qc1 Ng6 19. Nh2 Nf4 20. Ndf3 Nd3 21. Qc2 Nxc2 22. Rxe8+ Qxe8 23. Bxc2 Qe3+ 24. Kh1 Nf2+ 25. Kg1 Bxc2 26. Re1 Qxe1+ 27. Nxe1 Nd3 28. Nxc2 Nxb2 29. Kf2 Nd3+ 30. Ke3 Nb2 31. Nf3 Re8+ 32. Kf4 Na4 33. Ne5 Nxc3 34. Ne3 Ne2+ 35. Kf3 Nxd4+ 36. Kf4 Ne2+ 37. Kf5 g6+ 38. Kf6 Re6# 0-1
+

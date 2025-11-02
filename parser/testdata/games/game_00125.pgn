@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/TjtsGWdK"]
+[White "TENPLE"]
+[Black "Anna32232"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:16"]
+[WhiteElo "1735"]
+[BlackElo "1700"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "D04"]
+[Opening "Queen's Pawn Game: Colle System"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 Nf6 3. Nf3 Bg4 4. Nbd2 e6 5. Be2 Bd6 6. h3 Bh5 7. a3 Nbd7 8. c4 dxc4 9. Bxc4 Nb6 10. Be2 Nbd5 11. b4 c6 12. Bb2 b5 13. O-O Ng4 14. hxg4 Bxg4 15. g3 Qf6 16. Ne5 Bxe2 17. Qxe2 Bxe5 18. dxe5 Qh6 19. Nf3 O-O 20. e4 Ne7 21. Kg2 Rfd8 22. Rh1 Qg6 23. Nh4 Qg5 24. Rh2 Rd2 25. Bc1 Rxe2 26. Bxg5 Ng6 27. Nxg6 fxg6 28. Rah1 h5 29. g4 Rxe4 30. gxh5 Rg4+ 31. Kf1 Rxg5 32. hxg6 1-0
+

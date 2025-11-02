@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IDmebmNA"]
+[White "linotte"]
+[Black "Namenox"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:11"]
+[WhiteElo "1554"]
+[BlackElo "1549"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A46"]
+[Opening "Indian Game: Wade-Tartakower Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 Nf6 2. d4 d6 3. e3 g6 4. Nbd2 Bg7 5. Bd3 O-O 6. O-O Nbd7 7. Ng5 c5 8. dxc5 Nxc5 9. Bc4 a6 10. Nxf7 Rxf7 11. Bxf7+ Kxf7 12. Nf3 Bg4 13. h3 Bf5 14. Ng5+ Ke8 15. b3 Nfe4 16. Rb1 Rc8 17. Nxe4 Nxe4 18. Bb2 Nf6 19. Rc1 Bxc2 20. Rxc2 Rxc2 21. Qxc2 e5 22. Rd1 1-0
+

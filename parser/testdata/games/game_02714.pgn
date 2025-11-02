@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/2Y82gw6p"]
+[White "yehia226"]
+[Black "BNK"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:12"]
+[WhiteElo "1821"]
+[BlackElo "1678"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+15"]
+[ECO "D06"]
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 Nxd5 4. Nf3 Bg4 5. h3 Bh5 6. g4 Bg6 7. Qb3 Nb6 8. Bg2 Nc6 9. Be3 Qd5 10. Qxd5 Nxd5 11. Nc3 Nxe3 12. fxe3 O-O-O 13. O-O e6 14. a4 f5 15. Ne5 Nxe5 16. dxe5 fxg4 17. hxg4 Bc5 18. Rf3 Rhf8 19. Raf1 Rf7 20. Rxf7 Bxe3+ 21. Kh2 Bd4 22. Rxg7 Bxe5+ 23. Kh3 Bxg7 24. Be4 Bxe4 25. Nxe4 Bxb2 26. Rf7 h6 27. Rh7 Bc1 28. Nc5 Re8 29. e4 b6 30. Na6 Bf4 31. Rf7 Bd6 32. Rf6 Kb7 33. Nxc7 Kxc7 34. Rxh6 Kc6 35. g5 Kc5 36. g6 Kb4 37. g7 Be5 38. Rg6 Rg8 39. Rxe6 Bxg7 40. Re7 a5 41. Rb7 Bd4 42. e5 Re8 43. Kg4 Rxe5 44. Rc7 Rc5 45. Rd7 Rc4 46. Kf3 Bc5 47. Ke2 Kxa4 48. Rc7 Kb3 49. Kd3 Rc3+ 50. Ke2 Rc2+ 51. Kd1 a4 52. Rh7 a3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/nIiyHegV"]
+[White "y_alrooby"]
+[Black "Courtclerk32"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:55"]
+[WhiteElo "1727"]
+[BlackElo "1764"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+48"]
+[ECO "E61"]
+[Opening "King's Indian Defense"]
+[TimeControl "480+3"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e3 O-O 5. Bd3 d6 6. Nge2 Bf5 7. e4 Bg4 8. f3 Bh5 9. g4 Nxg4 10. fxg4 Bxg4 11. Be3 f5 12. h3 Bh5 13. exf5 gxf5 14. Nf4 Bxd1 15. Ne6 Qe8 16. Rg1 Rf7 17. Nxc7 Qc6 18. Nxa8 Qf3 19. Bf2 Qxd3 20. Nxd1 Qxc4 21. b3 Qe6+ 22. Kf1 Kf8 23. Rc1 Nc6 24. Nc7 Qh6 25. Rc4 e5 26. d5 Rxc7 27. dxc6 Rxc6 28. Rh4 Qc1 29. Kg2 h6 30. Be3 Qc2+ 31. Bf2 f4 32. Kh2 d5 33. Rhg4 Rc7 34. h4 Qxa2 35. b4 h5 36. Rg6 e4 37. R6g2 f3 38. Bc5+ Rxc5 39. Rxa2 Be5+ 40. Kh1 Rc1 41. Rxa7 Bd4 42. Rf1 Bxa7 43. Kh2 d4 44. Kg3 d3 45. Kf4 e3 46. Rxf3 Rxd1 47. Kg5+ Ke7 48. Kxh5 e2 49. Kg6 e1=Q 50. Rf7+ Kd6 51. b5 Qe7 52. Rf2 Rg1+ 53. Kf5 Bxf2 54. b6 Qe5# 0-1
+

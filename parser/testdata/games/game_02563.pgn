@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/JXAIpOc5"]
+[White "fantockan"]
+[Black "Moobert"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:45"]
+[WhiteElo "1525"]
+[BlackElo "1619"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line, Mieses Variation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. d4 Qa5+ 4. Nc3 Nf6 5. Bd2 c6 6. Ne4 Qf5 7. Nxf6+ exf6 8. Nf3 Bd6 9. Bd3 Qe6+ 10. Be3 O-O 11. O-O Qd7 12. h3 Qc7 13. g3 Bxh3 14. Re1 Bg4 15. Be2 Nd7 16. Qd2 Bxg3 17. fxg3 Qxg3+ 18. Kf1 Bxf3 19. Bxf3 Qxf3+ 20. Bf2 Nb6 21. Re3 Qh1+ 22. Bg1 Nd5 23. Rg3 Rfe8 24. Qg2 Qxg2+ 25. Rxg2 Ne3+ 26. Bxe3 Rxe3 27. Re2 Rxe2 28. Kxe2 Re8+ 29. Kd3 h5 30. Rf1 h4 31. Rf3 g5 32. c4 Kg7 33. b4 Kg6 34. a4 Kh5 35. b5 g4 36. Rf5+ Kg6 37. Rf1 h3 38. bxc6 bxc6 39. Rg1 f5 40. d5 cxd5 41. cxd5 Re4 42. d6 Kf6 43. d7 Ke7 44. Rf1 Kxd7 45. Rxf5 Rxa4 46. Rxf7+ Ke6 47. Rg7 Ra3+ 48. Ke4 Ra4+ 49. Ke3 h2 50. Kf2 g3+ 51. Rxg3 h1=Q 52. Rg1 Qh2+ 53. Rg2 Ra2+ 54. Kf1 Qxg2+ 55. Ke1 Qe2# 0-1
+

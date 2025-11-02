@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/zzJKIyaK"]
+[White "Ahmed257"]
+[Black "Abdullah_Muhammad_66"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:08"]
+[WhiteElo "1657"]
+[BlackElo "1767"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+12"]
+[ECO "C50"]
+[Opening "Italian Game: Schilling-Kostic Gambit"]
+[TimeControl "600+10"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.21] } 1... e5 { [%eval 0.35] } 2. Nf3 { [%eval 0.36] } 2... Nc6 { [%eval 0.3] } 3. Bc4 { [%eval 0.13] } 3... Nd4?! { [%eval 1.05] } 4. Nxd4 { [%eval 1.12] } 4... exd4 { [%eval 1.04] } 5. c3?! { [%eval 0.44] } 5... Nf6 { [%eval 0.41] } 6. O-O { [%eval 0.35] } 6... Nxe4 { [%eval 0.5] } 7. Re1 { [%eval 0.16] } 7... d5 { [%eval 0.21] } 8. Bb3?! { [%eval -0.32] } 8... Be6 { [%eval 0.0] } 9. c4 { [%eval 0.0] } 9... dxc4 { [%eval 0.03] } 10. Bxc4? { [%eval -1.25] } 10... Nxf2?? { [%eval 2.19] } 11. Kxf2?? { [%eval -1.93] } 11... Qh4+ { [%eval -1.31] } 12. Kg1?! { [%eval -1.99] } 12... Bd6 { [%eval -1.86] } 13. g3 { [%eval -2.0] } 13... Bxg3 { [%eval -1.5] } 14. hxg3?? { [%eval -6.32] } 14... Qxg3+ { [%eval -5.91] } 15. Kf1?? { [%eval -21.85] } 15... O-O-O { [%eval -16.45] } 16. Bxe6+?! { [%eval #-8] } 16... fxe6 { [%eval #-7] } 17. d3 { [%eval #-5] } 17... Rdf8+ { [%eval #-4] } 0-1
+

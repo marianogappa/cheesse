@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/J4GW3wEY"]
+[White "KLICKO1974"]
+[Black "dr4ke"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:33"]
+[WhiteElo "1611"]
+[BlackElo "1569"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "C00"]
+[Opening "French Defense: Two Knights Variation"]
+[TimeControl "900+10"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.14] } 1... e6 { [%eval 0.17] } 2. Nf3 { [%eval 0.02] } 2... d5 { [%eval 0.14] } 3. Nc3 { [%eval 0.0] } 3... d4 { [%eval 0.11] } 4. Ne2 { [%eval 0.15] } 4... Nc6 { [%eval 0.48] } 5. c3 { [%eval 0.39] } 5... d3 { [%eval 0.85] } 6. Ned4 { [%eval 0.83] } 6... e5? { [%eval 2.25] } 7. Nxc6 { [%eval 2.26] } 7... bxc6 { [%eval 2.35] } 8. Nxe5 { [%eval 2.35] } 8... Bg4?? { [%eval 6.85] } 9. Qxg4 { [%eval 6.49] } 1-0
+

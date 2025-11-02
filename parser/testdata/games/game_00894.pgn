@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/FRSX1eue"]
+[White "chitranj"]
+[Black "mosssss"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:19"]
+[WhiteElo "1962"]
+[BlackElo "1786"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-5"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. Nf3 Bb4+ 3. c3 Bf8 4. h3 Bd6 5. g4 Bf8 6. Bg2 b6 7. e4 Bb7 8. e5 Bxf3 9. Bxf3 d5 10. c4 c6 11. cxd5 cxd5 12. Nc3 Nd7 13. O-O Rc8 14. Be3 Bb4 15. Rc1 Bxc3 16. Rxc3 Rxc3 17. bxc3 Ne7 18. Qb3 Nc6 19. Rc1 Qc8 20. c4 Na5 21. Qb5 Nxc4 22. Be2 Nxe3 23. Rxc8+ Ke7 24. fxe3 a6 25. Rxh8 axb5 26. Bxb5 f6 27. Bxd7 Kxd7 28. exf6 gxf6 29. Rxh7+ Kd6 30. Rh6 e5 31. Rxf6+ Ke7 32. dxe5 d4 33. g5 dxe3 34. Kf1 e2+ 35. Kxe2 b5 36. a3 b4 37. axb4 Kd7 38. b5 Kc7 39. Ke3 Kb7 40. Ke4 Kc7 41. h4 Kd7 42. h5 Ke7 43. h6 Kd7 44. h7 Ke7 45. h8=Q 1-0
+

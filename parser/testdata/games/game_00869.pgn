@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VV4dwo6L"]
+[White "mpastor"]
+[Black "schachopfer"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:14"]
+[WhiteElo "1496"]
+[BlackElo "1492"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Berlin Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 h6 4. a3 Be7 5. Nf3 d6 6. Nc3 c6 7. Ba2 a5 8. Ne2 b5 9. Ng3 Nbd7 10. Nf5 Nc5 11. Nxg7+ Kf8 12. Nf5 Bxf5 13. exf5 Rg8 14. Bxh6+ Ke8 15. Ng5 d5 16. Nf3 Rxg2 17. Nxe5 Qd6 18. Bf4 d4 19. Bxf7+ Kf8 20. Ng6+ Kxf7 21. Bxd6 Bxd6 22. Qf3 Rg4 23. Qxc6 Re8+ 24. Kd2 Bf4+ 25. Kd1 Ncd7 26. Nxf4 Rxf4 27. Kd2 Rxf2+ 28. Kd1 Ree2 29. c4 Rxb2 30. cxb5 Rb3 31. Qc4+ Kg7 32. Qxb3 Nc5 33. Qb1 Ng4 34. Rg1 Rxh2 35. Rxg4+ Kf6 36. Rg1 Kxf5 37. Ra2 Ke6 38. Rxh2 a4 39. Qb4 Nxd3 40. Qc4+ Ke5 41. Qxd3 Kd5 42. Re1 Kc5 43. Qf5+ Kc4 44. Re4 Kc3 45. Qc5+ Kd3 0-1
+

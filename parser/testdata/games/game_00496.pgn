@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/maVFkoj3"]
+[White "breakpad"]
+[Black "DIEGO_M"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:47"]
+[WhiteElo "1510"]
+[BlackElo "1620"]
+[WhiteRatingDiff "-20"]
+[BlackRatingDiff "+8"]
+[ECO "A00"]
+[Opening "Anderssen Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. a3 { [%eval -0.09] } 1... c6 { [%eval 0.23] } 2. b4 { [%eval -0.19] } 2... d5 { [%eval -0.05] } 3. Bb2 { [%eval -0.07] } 3... Nf6 { [%eval -0.09] } 4. Bxf6?! { [%eval -0.64] } 4... exf6 { [%eval -0.56] } 5. c3 { [%eval -0.83] } 5... Bd6 { [%eval -0.88] } 6. d4 { [%eval -0.85] } 6... Bf5 { [%eval -0.51] } 7. e3 { [%eval -0.66] } 7... Bg6 { [%eval -0.41] } 8. f4? { [%eval -1.81] } 8... O-O { [%eval -1.64] } 9. g3? { [%eval -2.7] } 9... h6? { [%eval -1.64] } 10. h4? { [%eval -2.66] } 10... Be4? { [%eval -1.48] } 11. Bd3?? { [%eval -6.17] } 11... Bxh1 { [%eval -6.04] } 12. Qe2 { [%eval -6.52] } 12... Be4?! { [%eval -5.97] } 13. Nd2?! { [%eval -6.72] } 13... Bxd3 { [%eval -6.54] } 14. Qxd3 { [%eval -6.41] } 14... Re8 { [%eval -6.39] } 15. Ndf3? { [%eval -7.54] } 15... Qe7 { [%eval -7.27] } 16. O-O-O? { [%eval -9.44] } 16... Qxe3+? { [%eval -8.35] } 17. Qxe3 { [%eval -8.47] } 17... Rxe3 { [%eval -8.2] } 18. Nh3? { [%eval -15.72] } 18... Rxf3 { [%eval -14.42] } 19. Ng5 { [%eval -19.16] } 19... Rxc3+ { [%eval -18.98] } 20. Kb2 { [%eval -19.05] } 20... Rxg3 { [%eval -18.67] } 21. Nh3 { [%eval -22.08] } 21... Rxh3 { [%eval -21.61] } 22. Re1 { [%eval -22.15] } 22... Nd7 { [%eval -21.47] } 23. Re8+?! { [%eval #-4] } 23... Rxe8 { [%eval #-3] } 0-1
+

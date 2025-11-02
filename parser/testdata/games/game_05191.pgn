@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/A3HuTiLx"]
+[White "fenestr"]
+[Black "smels72"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:57"]
+[WhiteElo "1206"]
+[BlackElo "1493"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-18"]
+[ECO "C21"]
+[Opening "Center Game: Kieseritzky Variation #3"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 c5 4. c3 dxc3 5. Nxc3 Nf6 6. Bc4 a6 7. Ng5 d5 8. Nxd5 Be6 9. Nxf6+ Qxf6 10. Qa4+ Nc6 11. Bd5 b5 12. Bxc6+ Ke7 13. Bxb5 h6 14. Nf3 g5 15. Bxa6 Bg7 16. O-O Bc8 17. Qa3 Rxa6 18. Qxc5+ Qd6 19. Qxd6+ Rxd6 20. Be3 Bb7 21. Rfd1 Rhd8 22. Rdc1 Bxe4 23. Rc7+ Kf8 24. Bc5 Bxb2 25. Rd1 Bxf3 26. Bxd6+ Kg7 27. gxf3 Be5 28. Bxe5+ Kg6 29. Rxd8 Kf5 30. Bd6 Ke6 31. Ba3 f5 32. Rf8 1-0
+

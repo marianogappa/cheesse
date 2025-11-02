@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QenoYP6x"]
+[White "palmlucas"]
+[Black "kessiyena"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:06"]
+[WhiteElo "1745"]
+[BlackElo "1776"]
+[WhiteRatingDiff "+24"]
+[BlackRatingDiff "-11"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. h3 Nc6 4. c3 Nf6 5. Qc2 Be7 6. Bc4 O-O 7. O-O Be6 8. Bb3 a6 9. Re1 Re8 10. a3 b5 11. d4 exd4 12. cxd4 Bxb3 13. Qxb3 Bf8 14. Nc3 Rc8 15. Bg5 h6 16. Bh4 Be7 17. Rad1 Nh7 18. Bg3 Bf6 19. e5 Bg5 20. h4 Be7 21. e6 fxe6 22. Rxe6 Bf6 23. Rxe8# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/C1bLfmRw"]
+[White "Inny"]
+[Black "forchetta"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:00"]
+[WhiteElo "1793"]
+[BlackElo "1806"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C00"]
+[Opening "Rat Defense: Small Center Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d6 2. e4 e6 3. c4 Ne7 4. Nc3 Ng6 5. Nf3 Be7 6. Bd3 O-O 7. O-O a6 8. a3 c6 9. b4 d5 10. e5 c5 11. bxc5 dxc4 12. Bxc4 Nc6 13. Be3 b5 14. Bd3 Bb7 15. Be4 Rc8 16. g3 Ba8 17. Qc2 Na5 18. Bxa8 Rxa8 19. Rfd1 Nc6 20. Na2 a5 21. Nc3 Rb8 22. Rab1 b4 23. axb4 axb4 24. Na2 Qa5 25. Bd2 Qa3 26. Nxb4 Nxb4 27. Bxb4 Rxb4 28. Rxb4 Qxb4 29. Rb1 Qa5 30. Nd2 Qa6 31. Qc4 Qc6 32. Rb6 Qd5 33. Qxd5 exd5 34. Nb3 h6 35. c6 Rc8 36. Na5 Bd8 37. Ra6 Ne7 38. Nb7 Rxc6 39. Ra8 Rc8 40. Rxc8 Nxc8 41. Nxd8 Nb6 42. Kg2 Kf8 43. Kf3 Ke8 44. Nc6 Kd7 45. Nb4 Ke6 46. Ke3 f6 47. f4 g6 48. g4 fxe5 49. fxe5 Nc4+ 50. Kf4 g5+ 51. Kf3 Nd2+ 52. Kf2 Ne4+ 53. Kf3 Nd2+ 54. Kf2 Ne4+ 55. Kf3 Nc3 56. Nc2 Ne4 57. Ne3 Nd2+ 58. Kg2 Ne4 59. Nf5 Nc3 60. Nxh6 Nb5 61. Nf5 Nc3 62. h4 gxh4 63. Nxh4 Ne2 64. Nf5 Nf4+ 65. Kg3 Ng6 66. Nh4 Ne7 67. Kf4 Nc6 68. Nf3 Ne7 69. g5 Ng6+ 70. Kg4 Kf7 71. Kf5 Ne7+ 72. Kg4 Ng6 73. Nh4 Nh8 74. g6+ Nxg6 75. Nxg6 Kxg6 76. Kf4 Kf7 77. Kf5 Ke7 78. e6 Kd6 79. Kf6 Kc7 80. e7 Kd7 81. Kf7 Kd6 82. e8=Q Kc7 83. Qe6 Kb7 84. Qxd5+ Kc7 85. Qe5+ Kc6 86. d5+ Kd7 87. Qe7+ Kc8 88. d6 Kb8 89. Qc7+ Ka8 90. Qc6+ Ka7 91. d7 Kb8 92. d8=Q+ Ka7 93. Qdc7# 1-0
+

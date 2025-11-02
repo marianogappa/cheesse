@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IulEJOvM"]
+[White "kazlatan"]
+[Black "fsamelo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:43"]
+[WhiteElo "2211"]
+[BlackElo "2197"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit"]
+[TimeControl "240+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 d6 5. Nxd4 Bd7 6. O-O Nf6 7. Nc3 Be7 8. Nf5 Bxf5 9. exf5 O-O 10. Nd5 Nxd5 11. Qxd5 Bf6 12. c3 Qd7 13. Re1 Rfe8 14. Bd2 Rxe1+ 15. Rxe1 Re8 16. Re4 Rxe4 17. Qxe4 Qe7 18. Qxe7 Nxe7 19. g4 d5 20. Bd3 c5 21. f4 Nc6 22. g5 Be7 23. Be3 Bd6 24. Kf2 d4 25. cxd4 Nxd4 26. b4 b6 27. h4 Kf8 28. h5 h6 29. f6 Ne6 30. fxg7+ Kxg7 31. bxc5 Nxc5 32. Bf5 Nb7 33. Bd4+ Kf8 34. gxh6 Bc5 35. Ke3 Nd6 36. Bd3 Bxd4+ 37. Kxd4 Ne8 38. Ke5 Kg8 39. Bc4 Nc7 40. f5 Kh7 41. Bxf7 Kxh6 42. f6 Nb5 43. Bc4 Nc7 44. Kd6 Ne8+ 45. Ke7 Nxf6 46. Kxf6 Kxh5 47. Ke6 Kg4 48. Kd6 Kf4 49. Kc6 Ke4 50. Kb7 Kd4 51. Bg8 Kc5 52. Kxa7 b5 53. Ka6 Kb4 54. Bf7 1-0
+

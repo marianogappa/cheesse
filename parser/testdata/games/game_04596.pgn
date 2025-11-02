@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qC1724VN"]
+[White "MUXE"]
+[Black "monter86"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:38"]
+[WhiteElo "1566"]
+[BlackElo "1532"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "300+4"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bf4 d6 3. Nc3 b6 4. e4 Bb7 5. Bd3 Nbd7 6. Nf3 e6 7. h3 Be7 8. O-O Nh5 9. Bh2 O-O 10. Re1 f5 11. exf5 exf5 12. Nh4 Bxh4 13. Qxh5 Qg5 14. Qxg5 Bxg5 15. Nb5 Rae8 16. Nxc7 Rxe1+ 17. Rxe1 f4 18. Ne6 Re8 19. Kf1 Nf8 20. Nxg5 Bxg2+ 21. Kg1 Rxe1+ 22. Kxg2 Ra1 23. a3 Ng6 24. Kf3 Ra2 25. Bxf4 Nxf4 26. Kxf4 Rxb2 27. Kf5 Rb1 28. Ke6 Re1+ 29. Kxd6 h6 30. Ne4 Rh1 31. Ke6 Rxh3 32. d5 Rf3 33. Ke7 h5 34. d6 Rf7+ 35. Kd8 h4 36. Ng5 Rf8+ 37. Kc7 Rxf2 38. d7 Rf8 39. d8=Q 1-0
+

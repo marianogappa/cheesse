@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dXACGDoz"]
+[White "papopapirus"]
+[Black "juanpablo11"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:51"]
+[WhiteElo "1853"]
+[BlackElo "1756"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "A00"]
+[Opening "Polish Opening: Baltic Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. b4 d5 2. Bb2 Bf5 3. e3 e6 4. h3 Bxb4 5. Bxg7 f6 6. Bxh8 Kf7 7. Qh5+ Bg6 8. Qh4 Bf8 9. g4 Bh6 10. Nf3 Bxc2 11. g5 fxg5 12. Qd4 Nf6 13. Bxf6 Qxf6 14. Ne5+ Ke7 15. Qc3 c6 16. Qa3+ Ke8 17. d4 Nd7 18. Ng4 Qf3 19. Nd2 Qxh1 20. Nxh6 Nf6 21. Qd6 Bd3 22. Qxe6+ Kd8 23. Qd6+ Nd7 24. Nf7+ Kc8 25. Qe6 Rb8 26. Ne5 Bxf1 27. Nxf1 Qxh3 28. Qxh3 Kc7 29. Nxd7 Rd8 30. Nc5 b6 31. Qxh7+ Kb8 32. Qb7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yR2m1fCk"]
+[White "cebelica"]
+[Black "geisel"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:02"]
+[WhiteElo "1710"]
+[BlackElo "1650"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. d3 g6 4. Be2 Bg7 5. Nbd2 Nf6 6. Nf1 d6 7. Ng3 O-O 8. O-O Bd7 9. c3 e5 10. a3 Bg4 11. Ne1 Bd7 12. Rb1 Rc8 13. Bf3 a6 14. Be3 Ne8 15. Qc1 f5 16. exf5 Bxf5 17. Nxf5 Rxf5 18. Bg4 Rf8 19. Bxc8 Qxc8 20. Bh6 Bxh6 21. Qxh6 Qf5 22. Qe3 Nf6 23. f3 Ng4 24. Qe2 Nh6 25. Nc2 Ne7 26. Qe4 Qg5 27. Qe3 Qh5 28. Ne1 Nhf5 29. Qe4 Qg5 30. Nc2 Nh4 31. Qg4 Qh6 32. Ne3 Kh8 33. g3 Nhf5 34. Nxf5 Nxf5 35. f4 Ne3 36. Qg5 Qxg5 37. fxg5 Rxf1+ 38. Rxf1 Nxf1 39. Kxf1 Kg7 40. h4 Kf7 41. Ke2 Ke6 42. Ke3 Kf5 43. Kf3 d5 44. g4+ Ke6 45. Ke3 b5 46. b3 a5 47. d4 b4 48. axb4 cxb4 49. cxb4 axb4 50. dxe5 Kxe5 51. Kf3 1-0
+

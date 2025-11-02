@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oSPbwMV3"]
+[White "BrownDwarf"]
+[Black "cloakanddagger"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:37"]
+[WhiteElo "1682"]
+[BlackElo "1818"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-15"]
+[ECO "C62"]
+[Opening "Ruy Lopez: Steinitz Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. d4 exd4 6. Nxd4 Nce7 7. Bc4 Nc6 8. Nxc6 Bxc6 9. Bd5 Bxd5 10. Qxd5 c6 11. Qd4 Qd7 12. e5 d5 13. Bf4 Ne7 14. Nc3 Nf5 15. Qd3 Bc5 16. a3 O-O 17. b4 Bb6 18. Ne2 f6 19. Ng3 Nxg3 20. Bxg3 fxe5 21. Bxe5 Bc7 22. Qd4 Bxe5 23. Qxe5 Rf5 24. Qd4 Rf6 25. c4 Rd6 26. c5 Rf6 27. Rae1 Re8 28. Rxe8+ Qxe8 29. Qd2 Re6 30. f3 Re3 31. a4 Ra3 32. a5 a6 33. Re1 Qf7 34. Qe2 h6 35. Qe8+ Qxe8 36. Rxe8+ Kh7 37. Rb8 d4 38. Rxb7 d3 39. Rd7 Rb3 40. Kf2 Kg6 41. Ke3 Kf6 42. Rxd3 Rxb4 43. Rd6+ Kf7 44. Rxc6 Rb5 45. Rxa6 Rxc5 46. Rb6 1-0
+

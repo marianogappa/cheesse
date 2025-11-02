@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LyqkZf7H"]
+[White "AAFA16"]
+[Black "Cezary_Wagner"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:41"]
+[WhiteElo "1222"]
+[BlackElo "1363"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-15"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. c5 Nd7 6. b4 Be7 7. Nf3 b6 8. Bd3 Bxd3 9. Qxd3 bxc5 10. bxc5 Nh6 11. Nc3 O-O 12. Bxh6 gxh6 13. O-O Rb8 14. Rae1 Bg5 15. Nxg5 Qxg5 16. Re3 Kh8 17. Rg3 Qh5 18. h3 Rg8 19. Ne2 Nf8 20. Rxg8+ Kxg8 21. Ng3 Qh4 22. Re1 Ng6 23. Qa6 Qxd4 24. Qxa7 Qc3 25. Qxb8+ Kg7 26. Nh5# 1-0
+

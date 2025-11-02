@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/B8kRwv5V"]
+[White "russiabear"]
+[Black "LoStrano"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:18"]
+[WhiteElo "1381"]
+[BlackElo "1518"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-15"]
+[ECO "D00"]
+[Opening "Amazon Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Qd3 Nf6 3. Bg5 Nc6 4. Nf3 Nb4 5. Qb5+ c6 6. Qxb4 Ne4 7. Nbd2 e5 8. Bxd8 Bxb4 9. Bg5 Bg4 10. O-O-O Bxf3 11. Nxe4 Bxe4 12. f3 Bf5 13. g4 Bg6 14. h4 h6 15. Be3 O-O 16. h5 Bh7 17. dxe5 a6 18. g5 hxg5 19. Bxg5 Rfe8 20. f4 Bf5 21. h6 gxh6 22. Bxh6 Re6 23. Rg1+ Kh7 24. Bg5 Kg6 25. Bf6+ Kh7 26. e3 Rg8 27. Rh1+ Kg6 28. Be2 1-0
+

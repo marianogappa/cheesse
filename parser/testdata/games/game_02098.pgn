@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rr2N7YRp"]
+[White "fabioferasa"]
+[Black "kapitonov"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:51"]
+[WhiteElo "1573"]
+[BlackElo "1576"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+11"]
+[ECO "E76"]
+[Opening "King's Indian Defense: Steiner Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5 O-O 6. f3 h6 7. Be3 e5 8. d5 Nbd7 9. Qd2 Kh7 10. Nh3 a6 11. Be2 Re8 12. O-O Nf8 13. Nf2 g5 14. Bxg5 hxg5 15. Qxg5 Bh6 16. Qh4 Ng6 17. Qg3 Rg8 18. h3 Nf4 19. Qh2 Rxg2+ 20. Qxg2 Nxg2 21. Kxg2 Nh5 22. Kh2 Bf4+ 23. Kh1 Ng3+ 24. Kg2 Nxf1 25. Bxf1 Qg5+ 26. Ng4 f5 27. exf5 Bxf5 28. Ne4 Bxe4 29. fxe4 Qh4 30. Be2 Qg3+ 31. Kh1 Qxh3+ 32. Kg1 Rg8 0-1
+

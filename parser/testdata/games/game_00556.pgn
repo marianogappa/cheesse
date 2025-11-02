@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/KRP5FJ2n"]
+[White "CarlosRim"]
+[Black "mamadu"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:02"]
+[WhiteElo "1553"]
+[BlackElo "1642"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "C70"]
+[Opening "Ruy Lopez: Morphy Defense, Classical Defense Deferred"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Bc5 5. O-O b5 6. Bb3 Nf6 7. Re1 O-O 8. c3 d5 9. h3 dxe4 10. Ng5 Bd7 11. Nxe4 Qc8 12. Nxc5 Bxh3 13. g3 Bg4 14. Kg2 Bxd1 15. Rxd1 Qg4 16. Rh1 Rad8 17. d3 e4 18. dxe4 Nxe4 19. Nxe4 Qxe4+ 20. Kh2 Rd6 21. Nd2 Rh6+ 22. Kg1 Qxh1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/HrEuow7i"]
+[White "tsaros_84"]
+[Black "Ciotadingue"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:43"]
+[WhiteElo "1740"]
+[BlackElo "1524"]
+[WhiteRatingDiff "-19"]
+[BlackRatingDiff "+18"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bc5 5. d3 h6 6. Be3 Bb6 7. Qd2 d6 8. h3 Be6 9. Bb3 O-O 10. O-O-O Na5 11. Bxe6 fxe6 12. d4 exd4 13. Nxd4 Qd7 14. g4 Nc4 15. Qe2 Nxe3 16. Qxe3 e5 17. Qg3 exd4 18. Ne2 Qa4 19. Kb1 Nxe4 20. Qh4 Nxf2 21. g5 hxg5 22. Qxg5 Nxd1 23. Rxd1 Rae8 24. Nf4 d3 25. Nh5 Qxc2+ 26. Ka1 Qxd1+ 27. Qc1 Qxc1# 0-1
+

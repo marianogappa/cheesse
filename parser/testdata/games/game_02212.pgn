@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tBEUcQL9"]
+[White "AScale"]
+[Black "pedropablo72"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:21"]
+[WhiteElo "1487"]
+[BlackElo "1563"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation, Barmen Defense"]
+[TimeControl "120+3"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. Nf3 Nf6 5. g3 Bg4 6. Bg2 e6 7. O-O Nc6 8. d3 Be7 9. Bg5 O-O 10. c4 Qd7 11. Qd2 Rfd8 12. Rd1 h6 13. Be3 Nb4 14. Ne5 Qc7 15. Nxg4 Nxg4 16. a3 Nxe3 17. Qxe3 Nc2 18. Qd2 Nxa1 19. Nc3 Nb3 20. Qe3 Nd4 21. Ne4 Rab8 22. Rd2 Nb3 23. Rc2 Na1 24. Rc1 Nb3 25. Rc3 Na5 26. b4 cxb4 27. axb4 Nc6 28. b5 Na5 29. Ra3 b6 30. Qf3 Bxa3 31. h4 Be7 32. Bh3 Bf8 33. Kg2 f6 34. Nd2 Qb7 35. Ne4 f5 36. Bxf5 exf5 37. Qxf5 Rxd3 38. Qg4 Qf7 39. h5 Bc5 40. f3 Qxf3+ 41. Qxf3 Rxf3 42. Kxf3 Nxc4 43. g4 Ne5+ 44. Kf4 Nd3+ 45. Kf5 Rf8+ 46. Kg6 Nf4# 0-1
+

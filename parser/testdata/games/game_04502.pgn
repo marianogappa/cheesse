@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zL7uyozt"]
+[White "Draleon"]
+[Black "joxe77"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:16"]
+[WhiteElo "1856"]
+[BlackElo "1775"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "D08"]
+[Opening "Queen's Gambit Refused: Albin Countergambit, Normal Line"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. e3 Bc5 6. exd4 Nxd4 7. Nxd4 Bxd4 8. Be2 Bxe5 9. Qxd8+ Kxd8 10. O-O Be6 11. Nd2 Ne7 12. Nf3 Bd6 13. Rd1 Ke8 14. Bg5 h6 15. Bh4 g5 16. Bg3 Bxg3 17. hxg3 f5 18. Nd4 Kf7 19. Bf3 Bxc4 20. b3 Bd5 21. Bxd5+ Nxd5 22. Nxf5 Nc3 23. Rd3 Nb5 24. a4 Nd6 25. Nxd6+ cxd6 26. Rxd6 Rhd8 27. Rad1 Ke7 28. Rxd8 Rxd8 29. Rxd8 Kxd8 30. f4 Kd7 31. Kf2 Kd6 32. Ke3 Kd5 33. Kd3 a6 34. b4 b6 35. f5 Ke5 36. g4 Kf6 37. Kd4 h5 38. gxh5 Kxf5 39. a5 b5 40. Kc5 g4 41. Kb6 Kg5 42. h6 Kxh6 43. Kxa6 Kh5 44. Kxb5 Kh4 45. a6 Kg3 46. a7 Kxg2 47. a8=Q+ Kh2 48. Qa2+ Kg1 49. Qe2 g3 50. Kc5 g2 51. b5 Kh2 52. Qh5+ Kg3 53. Qg6+ Kf2 54. Qxg2+ Kxg2 55. b6 1-0
+

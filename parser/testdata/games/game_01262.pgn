@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/iADjHQ3I"]
+[White "Dimo1"]
+[Black "ReallyWilly"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:45"]
+[WhiteElo "1548"]
+[BlackElo "1609"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "C46"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nf3 Nf6 4. Nc3 Na5 5. Bxf7+ Kxf7 6. Nxe5+ Ke8 7. Nd5 Nxd5 8. exd5 Qe7 9. Qe2 d6 10. Nf3 Qxe2+ 11. Kxe2 Bg4 12. Re1 Kd7 13. Kf1 Bxf3 14. gxf3 b6 15. d3 Re8 16. Be3 c5 17. dxc6+ Nxc6 18. c3 g6 19. Rad1 Bg7 20. d4 Rhf8 21. Kg2 Ne7 22. c4 Nf5 23. b4 Nxe3+ 24. fxe3 Rf7 25. e4 Ref8 26. Rf1 Rf4 27. a4 d5 28. cxd5 Kd6 29. Kg3 R4f7 30. h4 Rc7 31. Rc1 Rfc8 32. Rc6+ Rxc6 33. dxc6 Kxc6 34. d5+ Kd6 35. Rb1 h5 36. f4 Rc4 37. Kf3 Bf6 38. a5 Bxh4 39. Rb3 Be7 40. axb6 axb6 41. b5 Kc5 42. f5 gxf5 43. exf5 Kxd5 44. Rd3+ Ke5 45. Rd7 Bf6 46. Rb7 Rf4+ 47. Ke2 h4 48. Rxb6 h3 49. Ra6 h2 50. Ra1 Kxf5 51. Rh1 Rh4 52. b6 Be5 53. b7 Bb8 54. Kf3 Rh8 55. Kg2 Ke4 56. Re1+ Kd3 57. Rd1+ Ke2 58. Rh1 Rh7 0-1
+

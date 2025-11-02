@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3cXuHYYh"]
+[White "atteppurg"]
+[Black "CMAG82"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:11"]
+[WhiteElo "1661"]
+[BlackElo "1723"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Nimzowitsch System"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. d4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. dxc5 Bxc5 8. O-O Ne7 9. c3 Ng6 10. b4 Bb6 11. a4 Rc8 12. b5 Bd7 13. Ba3 Bc5 14. Bxc5 Rxc5 15. Qd4 Qc7 16. Nfd2 O-O 17. Nb3 Rc4 18. Qd3 Nxe5 19. Qe3 Re4 20. Qxa7 Rc8 21. Qa5 Qc4 22. N3d2 Qd3 23. Nxe4 Qxe4 24. Nd2 Qc2 25. Rad1 Rxc3 26. Qd8+ 1-0
+

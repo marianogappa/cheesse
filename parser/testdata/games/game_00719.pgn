@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/xb3uTkAD"]
+[White "coucicasas"]
+[Black "rusPlayer"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:41"]
+[WhiteElo "1778"]
+[BlackElo "1634"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+15"]
+[ECO "A11"]
+[Opening "English Opening: Caro-Kann Defensive System"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. c4 c6 2. g3 d5 3. cxd5 cxd5 4. Bg2 Nc6 5. d3 e5 6. Nf3 Bb4+ 7. Bd2 Bxd2+ 8. Qxd2 Nf6 9. O-O O-O 10. Nc3 e4 11. dxe4 dxe4 12. Qxd8 Rxd8 13. Ng5 h6 14. Ngxe4 Nxe4 15. Nxe4 Rb8 16. Rfd1 Bf5 17. Nc5 Nd4 18. e3 Nc2 19. Rac1 Nb4 20. Nxb7 Rxd1+ 21. Rxd1 Nxa2 22. Ra1 Nb4 23. Rxa7 Nd3 24. b3 Be6 25. Be4 Nc1 26. b4 Ne2+ 27. Kg2 Nc3 28. Ra3 Nxe4 29. Nc5 Nxc5 30. bxc5 g5 31. Rc3 Rc8 32. c6 Bd5+ 33. f3 Bxc6 34. e4 f5 35. Kf2 fxe4 36. fxe4 Rf8+ 37. Ke3 Bb7 38. e5 g4 39. Kd4 Rd8+ 40. Ke3 Bf3 41. h4 h5 42. Kf4 Rf8+ 43. Kg5 Kh7 44. Re3 Bd1 45. e6 Bc2 46. e7 Rf5# 0-1
+

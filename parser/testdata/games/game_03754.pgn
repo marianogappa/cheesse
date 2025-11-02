@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/yI3vuVCt"]
+[White "vudpeker1"]
+[Black "sas23"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:18"]
+[WhiteElo "1407"]
+[BlackElo "1320"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Berlin Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. c3 Bc5 4. Qf3 O-O 5. d3 b6 6. h3 Bb7 7. Bg5 Be7 8. Nd2 h6 9. Bxf6 Bxf6 10. Ne2 Nc6 11. b4 a6 12. Ng3 b5 13. Bd5 g6 14. Nb3 Rb8 15. Nc5 Bc8 16. Bxc6 dxc6 17. O-O Be7 18. a4 Bxc5 19. bxc5 bxa4 20. Rxa4 Rb3 21. Rc1 Qe7 22. d4 exd4 23. Rxd4 Qxc5 24. Qf6 Rxc3 25. Rxc3 Qxc3 26. Rd8 Qe1+ 27. Nf1 Qxe4 28. Rxf8+ Kxf8 29. Qh8+ Ke7 30. Qxc8 a5 31. Qxc7+ Kf6 32. Qd8+ Qe7 33. Qxa5 c5 34. Qc3+ Qe5 35. Qxe5+ Kxe5 36. Nd2 Kd4 37. Kf1 Kd3 38. Ke1 c4 39. Kd1 c3 40. Nf3 c2+ 41. Kc1 Kc3 42. Ne5 f5 43. Nxg6 f4 44. Ne5 h5 45. Ng6 Kb3 46. Nxf4 h4 47. Ng6 Kc3 48. Nxh4 Kd4 49. g4 1-0
+

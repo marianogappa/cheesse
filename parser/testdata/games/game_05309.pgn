@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/HYUWXctW"]
+[White "gerdlpr"]
+[Black "matarata"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:25"]
+[WhiteElo "1346"]
+[BlackElo "1406"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+9"]
+[ECO "D06"]
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Nf6 3. e3 c6 4. Nc3 Be6 5. Qf3 dxc4 6. b3 Bg4 7. Qf4 e6 8. Bxc4 Bb4 9. Bd2 Bd6 10. Qg5 g6 11. f3 h6 12. Qh4 Bh5 13. Ne4 g5 14. Qh3 Nxe4 15. fxe4 Bg6 16. Ne2 Bxe4 17. O-O h5 18. Ng3 g4 19. Qh4 Qxh4 20. Nxe4 Bxh2+ 21. Kh1 Bg3+ 22. Kg1 Qh2# 0-1
+

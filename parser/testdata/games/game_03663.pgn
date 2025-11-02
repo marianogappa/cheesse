@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/moxb2rTA"]
+[White "elsi"]
+[Black "miskob"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:59"]
+[WhiteElo "2193"]
+[BlackElo "2117"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+12"]
+[ECO "B03"]
+[Opening "Alekhine Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. b3 g6 7. Bb2 Bg7 8. Nd2 O-O 9. h3 Nc6 10. Ngf3 e5 11. d5 Ne7 12. a4 Nd7 13. Qc2 a5 14. Ne4 Nf6 15. Nxf6+ Bxf6 16. Nd2 b6 17. Ne4 Bg7 18. Be2 Bf5 19. Bd3 Bxe4 20. Bxe4 f5 21. Bd3 Bh6 22. O-O Qd7 23. Bc1 Bg7 24. Be3 Rab8 25. Rae1 Rfc8 26. f4 e4 27. Be2 Kh8 28. Rd1 Ng8 29. Bd4 Nf6 30. Qc3 Qe7 31. Rfe1 Kg8 32. Rd2 Nh5 33. Rf1 Bxd4+ 34. Qxd4 Qh4 35. Bxh5 Qxh5 36. Qf6 Rd8 37. Re1 Qh6 38. Re3 Qg7 39. Qxg7+ Kxg7 40. g4 Kf6 41. Kg2 h6 42. Kg3 h5 43. g5+ Ke7 44. Kf2 Kd7 45. Rc3 Kc7 46. Ke3 Kb7 47. Kd4 Rbc8 48. Rb2 Rc5 49. b4 axb4 50. Rxb4 Ka6 51. Ra3 Rb8 52. a5 Rxa5 53. Rba4 Rc8 54. Rxa5+ bxa5 55. Rb3 Rc7 56. Ra3 Rb7 57. Ra4 Rb4 58. Ra3 Kb6 59. Kc3 Ka6 60. c5 dxc5 61. d6 Rd4 62. h4 Kb5 63. d7 Rxd7 64. Rb3+ Kc6 65. Ra3 Ra7 66. Kc4 a4 67. Ra1 a3 0-1
+

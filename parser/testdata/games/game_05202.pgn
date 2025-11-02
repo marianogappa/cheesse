@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/ZrFi73Qw"]
+[White "GodlikeMoves"]
+[Black "hiphappy"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:59"]
+[WhiteElo "1811"]
+[BlackElo "2014"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "A40"]
+[Opening "Englund Gambit"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 e5 2. c3 exd4 3. cxd4 d5 4. Nc3 Nf6 5. e3 Bb4 6. Bb5+ c6 7. Be2 O-O 8. Nf3 Ne4 9. Qc2 Bg4 10. O-O Nd7 11. h3 Bxf3 12. Bxf3 Nxc3 13. bxc3 Bd6 14. c4 dxc4 15. Qxc4 Nb6 16. Qd3 Qc7 17. Be2 Rad8 18. Bd1 Rfe8 19. Bc2 g6 20. Bd2 Nd5 21. e4 Nb4 22. Bxb4 Bxb4 23. e5 c5 24. Bb3 Rxd4 25. Qf3 Rxe5 26. Rad1 Rxd1 27. Rxd1 Qe7 28. Rd8+ Kg7 29. Rd3 b5 30. Bc2 c4 31. Rd4 Bc5 32. Rg4 Bd6 33. h4 Re1# 0-1
+

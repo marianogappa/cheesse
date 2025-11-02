@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WPTaBUG7"]
+[White "bchessguru"]
+[Black "female_supremacy"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:23"]
+[WhiteElo "1771"]
+[BlackElo "1713"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. d4 Bg7 3. e5 c5 4. Be3 Qb6 5. b3 d6 6. Nf3 Qb4+ 7. Nfd2 cxd4 8. Bf4 dxe5 9. Bg3 Nc6 10. Bc4 e6 11. O-O Nf6 12. Re1 Nd5 13. a3 Qe7 14. Nf3 O-O 15. Nxe5 Nxe5 16. Bxe5 f6 17. Bxd4 Qd6 18. Bxd5 Qxd5 19. c4 Qf5 20. b4 e5 21. Bc5 Re8 22. Qe2 b6 23. Be3 Bb7 24. c5 Rac8 25. cxb6 axb6 26. Bxb6 Rc2 27. Qe3 Rec8 28. Nd2 Qe6 29. Bc5 f5 30. Qd3 Qc6 31. Nf3 e4 32. Qxc2 exf3 33. Qc4+ Kh8 34. g3 Bxa1 35. Rxa1 Qf6 36. Rc1 Ba6 37. Qxa6 Qxa6 38. Bd4+ Kg8 39. Rxc8+ Qxc8 40. Bc5 Kf7 41. h4 h6 42. Kh2 g5 43. hxg5 hxg5 44. Kh3 g4+ 45. Kh4 Qh8+ 46. Kg5 Qf6+ 47. Kf4 Ke6 0-1
+

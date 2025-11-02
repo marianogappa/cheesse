@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Nl68zVUJ"]
+[White "maxrocko"]
+[Black "permaby"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:51"]
+[WhiteElo "1205"]
+[BlackElo "1208"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 d6 4. d4 Be6 5. d5 Bg4 6. dxc6 bxc6 7. Bg5 Qb8 8. h3 Bxf3 9. Qxf3 Qxb2 10. Qxf7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/4wJVKIa8"]
+[White "joca552000"]
+[Black "fcolpo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:11"]
+[WhiteElo "1589"]
+[BlackElo "1417"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 Qg6 5. Nf3 Qxg2 6. Rg1 Qh3 7. d4 Qe6 8. Ng5 Qf6 9. Be3 e6 10. Nge4 Qh4 11. Qd2 Qxh2 12. O-O-O Nc6 13. Bb5 Bd7 14. d5 exd5 15. Nxd5 Bd6 16. Nxd6+ cxd6 17. Nc7+ Ke7 18. Nxa8 Nf6 19. Bf4 Qh5 20. Qxd6+ Ke8 21. Nc7+ Kd8 22. Bxc6 bxc6 23. Qxc6 Qa5 24. Qa8+ Ke7 25. Qxh8 Qxa2 26. Rge1+ Be6 27. Qd8# 1-0
+

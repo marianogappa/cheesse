@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/9naDLsbm"]
+[Site "https://lichess.org/f1OPY9R5"]
+[White "Lichanon"]
+[Black "aditorra70"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:39"]
+[WhiteElo "1759"]
+[BlackElo "1244"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-1"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. h3 Bh5 5. Nc3 f5 6. exf5 Qf6 7. g4 Bxg4 8. hxg4 e4 9. Nxe4 Qe7 10. d3 d5 11. Bxd5 Qb4+ 12. c3 Qb6 13. Be3 Qxb2 14. Nfg5 c6 15. Bf7+ Ke7 16. Bc5+ Kd7 17. Bxf8 Na6 18. Be6+ Kc7 19. Bd6+ Kb6 20. Rb1 Qxb1 21. Qxb1+ Ka5 22. Bb4+ Nxb4 23. Qxb4+ Ka6 24. Nc5# 1-0
+

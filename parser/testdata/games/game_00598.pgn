@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/btrSH8LK"]
+[White "tomamisz"]
+[Black "geniediablo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:12"]
+[WhiteElo "1705"]
+[BlackElo "1886"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+12"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. e3 d6 3. g3 Nd7 4. Bg2 Ne7 5. Nf3 Ng6 6. O-O Be7 7. c4 O-O 8. b3 Bf6 9. Bb2 Rb8 10. Nbd2 b6 11. Qc2 Bb7 12. Ne4 Be7 13. Nc3 Bf6 14. Rad1 e5 15. dxe5 Ngxe5 16. Nxe5 Bxg2 17. Kxg2 Nxe5 18. Nd5 Be7 19. Nxe7+ Qxe7 20. Bxe5 Qxe5 21. Rd5 Qe6 22. Qf5 Qxf5 23. Rxf5 c6 24. Rd1 d5 25. cxd5 cxd5 26. Rfxd5 a6 27. Rd6 a5 28. a4 b5 29. Ra6 bxa4 30. bxa4 h5 31. Rxa5 h4 32. Rb5 hxg3 33. hxg3 g6 34. Rdb1 Ra8 35. a5 Kg7 36. Ra1 Rfe8 37. a6 Re7 38. Rb7 Rxb7 39. axb7 Rxa1 40. b8=Q Re1 41. Qe5+ Kg8 42. e4 Re2 43. Kf3 Ra2 44. Qe8+ Kg7 45. e5 Ra6 46. Qe7 Re6 47. Qc5 g5 48. Kg4 Kg6 49. f4 gxf4 50. gxf4 Kg7 51. f5 Re8 52. Qc6 Rg8 53. Kf4 Kh7 54. Qf6 Rf8 55. e6 Kg8 56. e7 Re8 57. Qd6 f6 58. Qd8 Kf7 59. Qd6 Rxe7 60. Qd5+ Kf8 61. Kg4 Re5 62. Qd6+ Kf7 63. Qd7+ Re7 64. Qd5+ Kf8 65. Kh5 Kg7 66. Qg2+ Kf8 67. Kh6 Rf7 68. Qg6 Ke7 69. Qg1 Rf8 70. Qe3+ Kd8 71. Qd4+ Ke7 72. Qc5+ Kf7 73. Qc7+ Ke8 74. Qc6+ Kf7 0-1
+

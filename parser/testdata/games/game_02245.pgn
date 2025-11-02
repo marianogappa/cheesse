@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/wz1fDDB8"]
+[White "Chandra-PW"]
+[Black "Good_Cheater"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:31"]
+[WhiteElo "2359"]
+[BlackElo "2249"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Nc6 6. O-O Bg4 7. c3 Bxf3 8. Qxf3 e6 9. Bg5 Be7 10. Qh3 h6 11. Nd2 Nd7 12. Bxe7 Qxe7 13. Rfe1 O-O-O 14. Nf3 Kb8 15. Rad1 Nf6 16. Qg3+ Qc7 17. Qxg7 Qe7 18. Ne5 Rdf8 19. Bb5 Nxe5 20. dxe5 Nd7 21. Bxd7 Qxd7 22. c4 Rhg8 23. Qxh6 Qc6 24. cxd5 exd5 25. Qd6+ Qxd6 26. exd6 Rg6 27. Rxd5 Rd8 28. Re7 Rgxd6 29. Rxd6 Rxd6 30. Kf1 Rf6 31. g4 a6 32. h3 Rf3 33. Kg2 Rf6 34. Re8+ Kc7 35. Re2 Kb6 36. Kg3 Ka7 37. f4 Rg6 38. g5 Rd6 39. h4 Rd3+ 40. Kg4 Rd1 41. h5 Rg1+ 42. Kf5 Rh1 43. h6 Rh2 44. Re7 Re2 45. Rxf7 Rxb2 46. h7 Rb6 47. h8=Q Rb5+ 48. Kg4 Rb6 49. Qd4 1-0
+

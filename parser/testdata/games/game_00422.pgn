@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jzZM5wSU"]
+[White "matcarra"]
+[Black "Rafless"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:29"]
+[WhiteElo "1338"]
+[BlackElo "1401"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "D91"]
+[Opening "Gruenfeld Defense: Three Knights Variation, Petrosian System"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 d5 3. Nf3 g6 4. Nc3 Bg7 5. Bg5 O-O 6. e3 c6 7. Be2 Nbd7 8. Qc2 c5 9. h4 cxd4 10. exd4 Ne4 11. Nxe4 dxe4 12. Qxe4 Nf6 13. Rd1 Nxe4 0-1
+

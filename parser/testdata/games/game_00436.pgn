@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UNqEhTDI"]
+[White "angel555"]
+[Black "tranfunzel"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:30"]
+[WhiteElo "1218"]
+[BlackElo "1228"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e3 d5 2. Nf3 Nc6 3. c3 e5 4. Bb5 Bd7 5. O-O Nf6 6. a4 Bd6 7. h4 e4 8. Nd4 Nxd4 9. Bxd7+ Qxd7 10. cxd4 c6 11. b3 Bc7 12. Ba3 c5 13. dxc5 Qe6 14. b4 Qe5 15. Nc3 Qh2# 0-1
+

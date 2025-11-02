@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/NTYcAQVF"]
+[White "darddan"]
+[Black "ali_h_al_d"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:03"]
+[WhiteElo "1707"]
+[BlackElo "1505"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[TimeControl "420+2"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Bc5 3. Bc4 a6 4. Nxe5 b5 5. Nxf7 d5 6. Nxd8 Kxd8 7. Bxd5 1-0
+

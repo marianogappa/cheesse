@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7tuUYFl3"]
+[White "pandadoll"]
+[Black "Dawutcrespodavut42"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:51"]
+[WhiteElo "1413"]
+[BlackElo "1324"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "B00"]
+[Opening "St. George Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 a6 2. f4 e5 3. Nf3 Nc6 4. Bc4 d6 5. O-O Nf6 6. fxe5 dxe5 7. d3 h6 8. Nc3 Bg4 9. Nd5 Nd4 10. h3 Bxf3 11. Rxf3 Nxf3+ 12. Qxf3 b5 13. Bb3 Nxd5 14. Bxd5 Rb8 15. Qxf7# 1-0
+

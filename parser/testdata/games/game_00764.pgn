@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Onesfc3A"]
+[White "reikier_tab"]
+[Black "alexlondero"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:51"]
+[WhiteElo "1079"]
+[BlackElo "1173"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+9"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. c4 e6 2. e3 c5 3. Nf3 Nc6 4. b3 b6 5. Bb2 Bb7 6. Nc3 h6 7. Bd3 Nf6 8. Ne4 Be7 9. a4 Nb4 10. Bxf6 Nxd3+ 11. Ke2 Nb2 12. Bxb2 Bxe4 13. Ne5 Bxg2 14. Rg1 Be4 15. Rxg7 Bf6 16. Rxf7 Bxe5 17. Bxe5 Kxf7 18. f3 d6 19. fxe4 dxe5 20. Qf1+ Ke7 21. Qg2 Rg8 22. Qh3 Qd7 23. Rf1 Rgf8 24. Qh4+ Kd6 25. Rxf8 Rxf8 26. Qxh6 Qf7 27. Qf4 Qh5+ 28. Kd3 Rxf4 29. exf4 exf4 30. e5+ Kxe5 31. Kc3 f3 32. d4+ Kf6 33. dxc5 bxc5 34. b4 f2 35. bxc5 f1=Q 36. Kb4 Qb1+ 37. Ka5 Qxc5+ 38. Ka6 Qbb6# 0-1
+

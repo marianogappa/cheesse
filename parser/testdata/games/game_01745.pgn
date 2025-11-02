@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xln9Z5Ce"]
+[White "zafran181"]
+[Black "byGarooh"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:37"]
+[WhiteElo "1245"]
+[BlackElo "1128"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-19"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "360+0"]
+[Termination "Time forfeit"]
+
+1. g3 d5 2. Bg2 Bf5 3. b3 Nc6 4. Bb2 Nb4 5. d3 e6 6. a3 Nc6 7. h3 e5 8. Nc3 e4 9. d4 e3 10. Nxd5 g6 11. Nxe3 Bg7 12. Bxc6+ bxc6 13. Nxf5 gxf5 14. Qd3 Qd5 15. Nf3 O-O-O 16. O-O-O Nh6 17. Kb1 f4 18. g4 f5 19. Ng5 Rhf8 20. Nxh7 fxg4 21. Nxf8 Nf5 22. hxg4 Nxd4 23. Bxd4 Bxd4 24. Rh5 Qg2 25. Qa6+ Kb8 26. Nd7+ Rxd7 27. Qxc6 1-0
+

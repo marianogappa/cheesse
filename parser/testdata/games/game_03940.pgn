@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/MyvvdcIM"]
+[White "Arminas"]
+[Black "linomennone"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:01"]
+[WhiteElo "1037"]
+[BlackElo "1428"]
+[WhiteRatingDiff "+25"]
+[BlackRatingDiff "-21"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 Bd6 6. e5 Be7 7. Be2 Nh6 8. Bxh6 O-O 9. Qg4 Bf6 10. exf6 Qxf6 11. Bg5 Qxb2 12. Bh6 Qxa1 13. c3 Qxb1+ 14. Kd2 g6 15. Bxf8 Qxh1 16. Bh6 d5 17. Qf4 Qxg2 18. Qf6 Qg5+ 19. Bxg5 Kf8 20. Bh6+ Ke8 21. Bb5+ Bd7 22. Bxd7+ Kxd7 23. Qg7 Re8 24. Qxf7+ Kd8 25. Bg5+ Kc8 26. Qxe8# 1-0
+

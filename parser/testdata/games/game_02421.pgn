@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/MNNFJmIh"]
+[White "timoha60"]
+[Black "cellius63"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:12"]
+[WhiteElo "1718"]
+[BlackElo "1737"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "C30"]
+[Opening "King's Gambit Declined, Queen's Knight Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 Bc5 4. Bc4 Nf6 5. d3 Ng4 6. d4 exd4 7. Nxd4 d6 8. c3 Qh4+ 9. g3 Qh3 10. Na3 Nxh2 11. Nab5 Qxg3+ 12. Kd2 Qxf4+ 13. Kc2 Qxe4+ 14. Bd3 Qg2+ 15. Ne2 O-O 16. Bf4 Nf3 17. Bxh7+ Kh8 18. Be4+ Kg8 19. Bh7+ Kh8 20. Be4+ Nh2 21. Rxh2+ Qxh2 22. Bxh2 f5 23. Bxc6 bxc6 24. Qh1 Kg8 25. Nxc7 Rb8 26. Nf4 Bb7 27. Ng6 Rf6 28. Ne7+ Kf7 29. Bf4 Kxe7 30. Re1+ Kf7 31. Qh5+ g6 32. Qh7+ Kf8 33. Qe7+ Kg8 34. Qxf6 d5 35. Qxg6+ Kh8 36. Rh1# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/t6rUpItr"]
+[White "mightydogg"]
+[Black "mekpepik"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:37"]
+[WhiteElo "1870"]
+[BlackElo "1694"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+17"]
+[ECO "C21"]
+[Opening "Danish Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. c3 Nc6 4. cxd4 d5 5. e5 Bb4+ 6. Nc3 Nge7 7. Nf3 O-O 8. h3 h6 9. Bd3 Be6 10. O-O Nf5 11. Ne2 Be7 12. Bf4 Nb4 13. Bb1 Rc8 14. a3 Na6 15. b4 c6 16. Bd3 Nc7 17. Qa4 a6 18. Nd2 b5 19. Qd1 Bg5 20. Nb3 Bd7 21. Bxg5 Qxg5 22. Nc5 Be6 23. Rc1 Ne7 24. Ng3 f5 25. exf6 Rxf6 26. Qd2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DG47QcPW"]
+[White "sawyerdimeo"]
+[Black "steobeo"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:04"]
+[WhiteElo "1108"]
+[BlackElo "1204"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-3"]
+[ECO "C44"]
+[Opening "King's Pawn Game: Tayler Opening"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. Nc3 Bc5 5. O-O d5 6. exd5 Nxd5 7. Bc4 1/2-1/2
+

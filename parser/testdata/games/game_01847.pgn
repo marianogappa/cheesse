@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/iHuybKeB"]
+[White "pechopolla"]
+[Black "qrs"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:53"]
+[WhiteElo "1638"]
+[BlackElo "1489"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-76"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense: Ragozin Variation"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Bb4 5. a3 Bxc3+ 6. bxc3 dxc4 7. Bg5 h6 8. Bh4 g5 9. Bg3 b6 10. e3 Nc6 11. Bxc4 Ne4 12. Qc2 Nxg3 13. hxg3 Qf6 14. Bb5 Bd7 15. Qa4 Nb8 16. Ne5 Qe7 17. Nc6 Nxc6 18. Bxc6 O-O-O 19. Qa6+ Kb8 20. Qb7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/KSIofvir"]
+[White "felipedias"]
+[Black "Hade23"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:17"]
+[WhiteElo "1852"]
+[BlackElo "1791"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qf6 5. Nb5 Bc5 6. Qe2 Bb6 7. N1c3 a6 8. Nd5 Qd8 9. Nxb6 cxb6 10. Nd6+ Kf8 11. Qf3 Qf6 12. Bf4 Nd4 13. Qc3 Nxc2+ 14. Qxc2 Qxf4 15. Nxc8 Nf6 16. Nxb6 Re8 17. Be2 Nxe4 18. Nxd7+ Kg8 19. O-O Ng5 20. Rfe1 h5 21. Bxh5 Rxe1+ 22. Rxe1 g6 23. Re8+ Kg7 24. Qc3+ f6 25. Rxh8 Kxh8 26. Nxf6 gxh5 27. Nxh5+ 1-0
+

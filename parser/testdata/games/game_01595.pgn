@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/mvKLIyt5"]
+[White "reno26"]
+[Black "Silverrida"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:58"]
+[WhiteElo "1492"]
+[BlackElo "1476"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "B27"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 g6 3. Nc3 e6 4. e5 Nc6 5. h4 Nge7 6. Ne4 Nd5 7. c4 Nf4 8. d3 Nd4 9. Bxf4 Bg7 10. Nd6+ Ke7 11. Bg5+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7TVhYttn"]
+[White "SAPEROCOXD"]
+[Black "Matachipachus"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:15"]
+[WhiteElo "1734"]
+[BlackElo "1744"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "A41"]
+[Opening "Queen's Pawn"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d6 2. Nf3 e6 3. e4 Ne7 4. Bd3 Ng6 5. O-O Be7 6. e5 d5 7. Bxg6 hxg6 8. c4 dxc4 9. Nbd2 b5 10. a4 Bd7 11. b3 c3 12. Ne4 b4 13. d5 exd5 14. Qxd5 Bc6 15. Qxd8+ Bxd8 16. Re1 O-O 17. Be3 Be7 18. Bc5 Bxc5 19. Nxc5 Bxf3 20. gxf3 Re8 21. Nd3 Na6 22. Rad1 c5 23. Nc1 Rad8 24. f4 Kf8 25. Kg2 Nc7 26. Nd3 Ne6 27. Re3 Nxf4+ 28. Kf3 Nxd3 29. Rexd3 Rxd3+ 30. Rxd3 c2 0-1
+

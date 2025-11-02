@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Tgv67RT1"]
+[White "Belial"]
+[Black "iwlsmokeu"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:54"]
+[WhiteElo "1633"]
+[BlackElo "1601"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 c5 3. c3 a6 4. d4 Nc6 5. d5 exd5 6. exd5 Nb8 7. Be2 d6 8. O-O h6 9. c4 Nf6 10. Nc3 Be7 11. b3 Nbd7 12. Bb2 O-O 13. Rb1 Rb8 14. Qc2 b5 15. cxb5 axb5 16. Nxb5 Qb6 17. a4 Nxd5 18. Bc4 Nb4 19. Qc3 Ba6 20. Qxg7# 1-0
+

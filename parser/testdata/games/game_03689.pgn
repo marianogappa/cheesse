@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Sdy95KFE"]
+[White "aroncyruz"]
+[Black "mattsmith925"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:06"]
+[WhiteElo "1503"]
+[BlackElo "1547"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "C58"]
+[Opening "Italian Game: Two Knights Defense, Polerio Defense, Kieseritzky Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 Nxc4 7. dxc4 Be7 8. Nc3 O-O 9. Be3 Bg4 10. Qd2 a6 11. h3 Bf5 12. g4 Bg6 13. Nf3 Bd6 14. c5 Be7 15. Nxe5 Nd7 16. Nxg6 fxg6 17. d6 cxd6 18. cxd6 Bf6 19. Qd5+ Kh8 20. Qc4 Ne5 21. Qd5 b5 22. Ne4 Nf3+ 23. Kf1 Bxb2 24. Rb1 Ba3 25. Ng5 Qd7 26. Ne6 Qxd6 27. Qxd6 Bxd6 28. Nxf8 Rxf8 29. Kg2 Ne5 30. f4 Nc4 0-1
+

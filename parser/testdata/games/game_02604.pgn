@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GURRAkW6"]
+[White "mara1984"]
+[Black "Lepta"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:51"]
+[WhiteElo "1630"]
+[BlackElo "1830"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Van der Wiel Attack"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. Nf3 Ne7 6. h3 Bg6 7. Bd3 Nf5 8. Bg5 Be7 9. Bxf5 Bxf5 10. Bxe7 Qxe7 11. g4 Bg6 12. h4 h6 13. h5 Bh7 14. Qe2 Nd7 15. O-O-O Qb4 16. Rdg1 O-O-O 17. g5 hxg5 18. Nxg5 Rdf8 19. h6 gxh6 20. Rxh6 Bg6 21. Rxh8 Rxh8 22. Nxe6 Bxc2 23. a3 Qe7 24. Nc5 Nxc5 25. dxc5 Bg6 26. f4 Qxc5 27. Qg4+ Kb8 28. f5 Bxf5 29. Qg3 Be6 30. b4 Qc4 31. Kd2 a6 0-1
+

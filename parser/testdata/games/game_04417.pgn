@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FYdmfN71"]
+[White "gengis78"]
+[Black "vigatova"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:49"]
+[WhiteElo "1639"]
+[BlackElo "1798"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-16"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "180+2"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Bc4 e6 3. Nf3 d5 4. exd5 exd5 5. Bb5+ Bd7 6. Bxd7+ Qxd7 7. O-O Nc6 8. d4 cxd4 9. Re1+ Be7 10. Nxd4 Nf6 11. Nxc6 bxc6 12. Qe2 O-O 13. Qxe7 Rfe8 14. Qb4 c5 15. Rxe8+ Rxe8 16. Qc3 d4 17. Qd2 Ne4 18. Qd1 Qf5 19. f3 Nd6 20. Na3 Qe5 21. Bd2 Nf5 22. Qe1 Qxe1+ 23. Rxe1 Kf8 24. Rxe8+ Kxe8 25. Kf2 Kd7 26. Nc4 Ke6 27. g4 Ne7 28. f4 Kd5 29. b3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/niXj73KX"]
+[White "fnazari"]
+[Black "kasparagio"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:59"]
+[WhiteElo "1478"]
+[BlackElo "1504"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 e6 4. dxe6 Bxe6 5. Nf3 Qe7 6. Nb5 Bc4+ 0-1
+

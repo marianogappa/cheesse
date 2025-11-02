@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/n3mNbAID"]
+[White "Jeremmy"]
+[Black "ahmedelzamalkawy"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:50"]
+[WhiteElo "1306"]
+[BlackElo "1696"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+2"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+[TimeControl "900+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Be3 Bxe3 6. fxe3 O-O 7. d4 exd4 8. exd4 Nxe4 9. Nc3 d5 10. Bb5 Nxc3 11. bxc3 Bg4 12. h3 Bh5 13. g4 Bg6 14. Ne5 Nxe5 15. dxe5 c6 16. Bd3 Qh4+ 17. Kd2 Qf2+ 18. Qe2 Qxe2+ 19. Kxe2 Rae8 20. Bxg6 fxg6 21. Rhf1 Rxe5+ 22. Kd3 Rfe8 23. Rae1 Rxe1 24. Rxe1 Rxe1 0-1
+

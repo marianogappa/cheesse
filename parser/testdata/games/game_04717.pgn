@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/g2wI47pK"]
+[White "Moobert"]
+[Black "moacir"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:08"]
+[WhiteElo "1613"]
+[BlackElo "1539"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C22"]
+[Opening "Center Game: Normal Variation"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qa4 Bc5 5. Nf3 Nge7 6. Bd3 b6 7. Bg5 Bb7 8. O-O a5 9. Nbd2 Na7 10. Nb3 c6 11. Nxc5 bxc5 12. Qc4 Nb5 13. Qxc5 d6 14. Qe3 f6 15. Bh4 O-O 16. Rfe1 Re8 17. Qf4 Ng6 18. Qg3 c5 19. Bxb5 d5 20. Bxe8 Qxe8 21. exd5 Qb5 22. Qd6 Nf8 23. b3 a4 24. Bxf6 gxf6 25. Qxf6 Qd7 26. Ng5 Bxd5 27. Re7 Qxe7 28. Qxe7 Rb8 29. Re1 Rb7 30. Qd6 Bf7 31. Nxf7 1-0
+

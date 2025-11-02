@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/KHSiqtfO"]
+[White "malachai57"]
+[Black "Radiohead3"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:58"]
+[WhiteElo "1638"]
+[BlackElo "1621"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "B54"]
+[Opening "Sicilian Defense #2"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 a6 5. Bc4 Nf6 6. Qf3 e6 7. Bg5 Be7 8. Nc3 e5 9. Nf5 b5 10. Bb3 Bxf5 11. exf5 h6 12. Bxf6 Bxf6 13. Qxa8 O-O 14. Nd5 Qd7 15. Nxf6+ gxf6 16. O-O Qxf5 17. Rad1 Nc6 18. Qxc6 1-0
+

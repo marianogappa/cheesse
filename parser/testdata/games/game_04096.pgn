@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/CxinmGch"]
+[White "koko2"]
+[Black "chessjim79"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:38"]
+[WhiteElo "2161"]
+[BlackElo "2136"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-11"]
+[ECO "C00"]
+[Opening "French Defense: King's Indian Attack"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. d3 e6 2. e4 b6 3. Nc3 Bb7 4. Nf3 Nf6 5. Bg5 d6 6. Bxf6 Qxf6 7. Be2 Qg6 8. Qd2 c5 9. O-O-O h6 10. h4 Be7 11. h5 Qf6 12. g4 d5 13. Rhg1 dxe4 14. Nxe4 Bxe4 15. dxe4 O-O 16. e5 Qf4 17. Qxf4 Nc6 18. g5 Nb4 19. gxh6 g6 20. hxg6 f5 21. h7+ Kg7 22. Rh1 Rh8 23. Qh6# 1-0
+

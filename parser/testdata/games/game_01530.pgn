@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IpGdCQu0"]
+[White "leshakiev"]
+[Black "ElBusta"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:39"]
+[WhiteElo "2004"]
+[BlackElo "2181"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "A85"]
+[Opening "Dutch Defense: Queen's Knight Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. c4 f5 2. d4 Nf6 3. Nc3 d6 4. g3 g6 5. Bg2 Bg7 6. Qb3 O-O 7. Bxb7 Bxb7 8. Qxb7 Nbd7 9. Qb3 Kh8 10. Bd2 e5 11. e3 exd4 12. exd4 Re8+ 13. Nge2 Rb8 14. Qc2 c5 15. O-O Ng4 16. Nb5 Rxe2 17. Nxd6 Bxd4 18. Nf7+ Kg8 19. Nxd8 Rxd8 20. Qd3 Rde8 21. Be3 R2xe3 22. fxe3 Rxe3 23. Qxe3 Nxe3 0-1
+

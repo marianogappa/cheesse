@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/B7ea3kdS"]
+[White "theresidentsheep"]
+[Black "enzin"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:23"]
+[WhiteElo "1750"]
+[BlackElo "1712"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Bf5 5. c4 Nf6 6. Bd3 Bd6 7. O-O Bxd3 8. Qxd3 O-O 9. cxd5 Nxd5 10. Nc3 Nxc3 11. bxc3 Nd7 12. Re1 Nf6 13. Bg5 Be7 14. Ne5 Re8 15. Rab1 b6 16. Nc4 h6 17. Bh4 Qd7 18. Bg3 c5 19. Ne5 Qd8 20. dxc5 Qxd3 21. Nxd3 Bxc5 22. Nxc5 bxc5 23. Bd6 Rxe1+ 24. Rxe1 c4 25. Bb4 Re8 26. Rxe8+ Nxe8 27. Kf1 Nc7 28. Ke2 Nd5 29. a3 f6 30. Kf3 Kf7 31. Ke4 Ke6 32. Kd4 a6 33. Kxc4 Nb6+ 34. Kc5 Nd7+ 35. Kc6 Ne5+ 36. Kc5 Nd3+ 37. Kb6 Nxf2 38. Kxa6 Ng4 39. h3 Ne3 40. g3 Nf1 41. g4 Ne3 42. Kb5 h5 43. c4 hxg4 44. hxg4 Nxg4 45. c5 Ne5 46. c6 Nxc6 47. Kxc6 f5 48. Be1 f4 49. a4 g5 50. a5 g4 51. a6 f3 52. a7 f2 53. Bxf2 g3 54. Bxg3 Kf5 55. a8=Q Kg4 56. Qe8 Kh3 1/2-1/2
+

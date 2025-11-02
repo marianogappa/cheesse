@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/LxObfnvu"]
+[White "yassinesentissi1998"]
+[Black "jache"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:45"]
+[WhiteElo "1772"]
+[BlackElo "1652"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Lasker-Dunne Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 e6 4. d3 Nge7 5. f4 d5 6. Nf3 dxe4 7. dxe4 f5 8. exf5 exf5 9. O-O g6 10. Nc3 Bg7 11. Re1 O-O 12. Be3 b6 13. Ng5 Bb7 14. Ne6 Qxd1 15. Raxd1 Rf6 16. Ng5 Na5 17. Bxb7 Nxb7 18. Rd7 Re6 19. Rxb7 Re8 20. Bf2 Rxe1+ 21. Bxe1 Bxc3 22. Bxc3 Nd5 23. Rg7+ Kf8 24. Nxh7# 1-0
+

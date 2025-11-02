@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/3Vnx7ydj"]
+[White "Gainux"]
+[Black "MSC_Govahi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:10"]
+[WhiteElo "2051"]
+[BlackElo "1795"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-4"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. b3 e6 2. Bb2 Nf6 3. d3 d5 4. Nd2 c5 5. h3 Be7 6. a3 Nc6 7. e4 O-O 8. Ngf3 dxe4 9. dxe4 Nd7 10. Bd3 Bf6 11. Ra2 Bxb2 12. Rxb2 Qf6 13. Ra2 Nde5 14. O-O Nd4 15. Nxd4 cxd4 16. Nf3 Nc6 17. Qe2 e5 18. a4 Qh6 19. Raa1 Qg6 20. Kh2 f5 21. Nh4 Qg5 22. Nxf5 Bxf5 23. exf5 Rae8 24. Qg4 Qf6 25. Rae1 h6 26. f4 exf4 27. Rxe8 Rxe8 28. Qxf4 Ne5 29. Re1 Nxd3 30. Rxe8+ Kf7 31. Qe4 Nc5 32. Qd5+ Ne6 33. Rxe6 1-0
+

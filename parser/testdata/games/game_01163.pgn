@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/LMx0bEKe"]
+[White "Basejump"]
+[Black "leonardo_loureiro"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:21"]
+[WhiteElo "1680"]
+[BlackElo "1593"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "C47"]
+[Opening "Four Knights Game: Scotch Variation Accepted"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nxd4 Bc5 6. Nxc6 bxc6 7. Be3 Bxe3 8. fxe3 O-O 9. Qd4 Re8 10. O-O-O d6 11. Bc4 a5 12. e5 Rxe5 13. Qxe5 d5 14. Qg5 Qe7 15. Bb3 Qb4 16. Na4 Ne4 17. Qf4 Rb8 18. c3 Qb7 19. Qe5 Be6 20. Rhf1 c5 21. Nxc5 Nxc5 22. Bxd5 Qxb2# 0-1
+

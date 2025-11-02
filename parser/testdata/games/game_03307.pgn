@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fWt90Hl4"]
+[White "hatem73"]
+[Black "GMSulbr"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:32"]
+[WhiteElo "1689"]
+[BlackElo "1781"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-15"]
+[ECO "D04"]
+[Opening "Queen's Pawn Game: Colle System"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 Bg4 4. h3 Bh5 5. g4 Nxg4 6. hxg4 Bxg4 7. Be2 e6 8. Ne5 Bf5 9. Bg4 Be4 10. Bf3 Bf5 11. Bh5 g6 12. Bg4 Nd7 13. Bxf5 gxf5 14. Nxd7 Qxd7 15. Bd2 O-O-O 16. Nc3 a6 17. Qb1 Bd6 18. Qd1 Qe7 19. Qh5 Rdg8 20. O-O-O Rg5 21. Qh4 f6 22. Rdg1 Qg7 23. Rxg5 fxg5 24. Qh5 c6 25. Na4 Kc7 26. Ba5+ Kd7 27. Nc5+ Bxc5 28. dxc5 g4 29. Qh2 h5 30. Qc7+ 1-0
+

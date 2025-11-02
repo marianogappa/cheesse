@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hgn2WUhb"]
+[White "rollercoaster3"]
+[Black "iran-man"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:04"]
+[WhiteElo "1711"]
+[BlackElo "1897"]
+[WhiteRatingDiff "-40"]
+[BlackRatingDiff "+6"]
+[ECO "C28"]
+[Opening "Vienna Game: Vienna Gambit"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 Nf6 3. Nc3 Bb4 4. Nf3 Bxc3 5. bxc3 Nxe4 6. Qe2 d5 7. fxe5 O-O 8. Bb2 c5 9. d4 Nc6 10. O-O-O Qa5 11. Qd3 cxd4 12. cxd4 Nb4 13. Qb3 Nxa2+ 14. Kb1 Nac3+ 15. Kc1 Nxd1 16. Kxd1 Nf2+ 17. Ke2 Nxh1 18. Qd3 Bg4 19. h3 Ng3+ 20. Ke3 Bxf3 21. Kxf3 Nxf1 22. Qxf1 Qb4 23. Ba1 Qc4 24. c3 Qxf1+ 0-1
+

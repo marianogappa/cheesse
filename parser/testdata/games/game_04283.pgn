@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mjeGOnYF"]
+[White "Romartin"]
+[Black "vodenicar"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:22"]
+[WhiteElo "2005"]
+[BlackElo "1940"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+15"]
+[ECO "C35"]
+[Opening "King's Gambit Accepted, Cunningham Defense, Bertin Gambit"]
+[TimeControl "180+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. g3 fxg3 6. O-O gxh2+ 7. Kh1 Bf6 8. e5 d5 9. exf6 Nxf6 10. Bb3 O-O 11. d3 Bh3 12. Bg5 Bxf1 13. Qxf1 c6 14. Nbd2 Nbd7 15. Qg2 Kh8 16. Rf1 Qc7 17. c3 Rae8 18. Bc2 Qd6 19. d4 Ne4 20. Nxe4 dxe4 21. Nxh2 f5 22. Bf4 Qg6 23. Qxg6 hxg6 24. Rg1 Kh7 25. Nf1 Nf6 26. Ne3 Nh5 27. Be5 Re6 28. Bd1 Kh6 29. Bxh5 Kxh5 30. Kg2 g5 31. Nc4 f4 32. Bxg7 Rf7 33. Be5 Kg4 34. Kf2+ Kf5 35. b3 Rh7 36. Nb2 Rh2+ 37. Rg2 Rxg2+ 38. Kxg2 g4 39. Nd1 g3 40. c4 Kg4 41. Bb8 Rh6 42. Kg1 Rh2 43. Bxa7 Rxa2 44. Bc5 Ra1 45. d5 cxd5 46. cxd5 Rxd1+ 47. Kg2 f3# 0-1
+

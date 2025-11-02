@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LlWsLmUn"]
+[White "cahill"]
+[Black "Xhemo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:30"]
+[WhiteElo "1966"]
+[BlackElo "1873"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 c6 3. Nc3 d5 4. Nf3 h6 5. Be2 Bb4 6. e5 Bxc3+ 7. bxc3 Ne7 8. O-O Nf5 9. Re1 Nd7 10. Ba3 b6 11. Bd3 Ne7 12. c4 c5 13. c3 Bb7 14. Rb1 Rb8 15. Qa4 a6 16. dxc5 bxc5 17. Bxc5 O-O 18. Bd6 dxc4 19. Bxb8 cxd3 20. Bd6 Bxf3 21. gxf3 Re8 22. Rb7 Nf8 23. Re3 Nfg6 24. Rxd3 Qc8 25. Qxa6 Nc6 26. Rb6 Ngxe5 27. Qxc8 Rxc8 28. Bxe5 Nxe5 29. Rbd6 Nxd3 30. Rxd3 Ra8 31. Rd2 Kf8 32. Kf1 Ke7 33. Ke2 Rc8 34. Rc2 Kd6 35. Ke3 Kc5 36. Kd3 Rd8+ 37. Ke2 Kc4 38. Rd2 Ra8 39. Rc2 f6 40. Ke3 g6 41. f4 f5 42. Kd2 Rd8+ 43. Ke2 Rd5 44. f3 Ra5 45. Kd2 Ra3 46. h3 h5 47. h4 Ra5 48. Rb2 Rd5+ 49. Kc2 Rc5 50. Rb4+ Kd5 51. Kd3 Kc6 52. Rc4 Kd5 53. Rxc5+ Kxc5 54. c4 Kd6 55. Kd4 Kc6 56. c5 Kc7 57. Ke5 Kc6 58. Kxe6 Kxc5 59. Kf6 Kd5 60. Kxg6 Ke6 61. Kg5 Kd5 62. Kxf5 Kc4 63. Kg5 Kb4 64. Kxh5 Ka3 65. f5 Kxa2 66. f6 Kb2 67. f7 Kc2 68. f8=Q Kd2 69. f4 Ke2 70. f5 Kf3 71. f6 Kf4 72. f7 Kf5 73. Qg8 Kf6 74. f8=Q+ Ke5 75. Qg5+ Kd4 76. Qff4+ Kd3 77. Qgg3+ 1-0
+

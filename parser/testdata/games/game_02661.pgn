@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/G6wCKhf4"]
+[White "axadon"]
+[Black "FranChupyChess"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:02"]
+[WhiteElo "1918"]
+[BlackElo "1892"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "D10"]
+[Opening "Slav Defense #2"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 e6 7. Nf3 Be7 8. Bd3 Nd7 9. O-O Nf6 10. Bg5 O-O 11. Bxf6 Bxf6 12. e5 Be7 13. Qe2 a5 14. Qe4 g6 15. Rab1 Qd5 16. Qe2 b5 17. Be4 Qd7 18. Rxb5 Ba6 19. c4 Bxb5 20. cxb5 Rab8 21. Bxc6 Qc7 22. a4 Bb4 23. Ng5 h6 24. Ne4 Kg7 25. Qf3 Be7 26. Rc1 Qa7 27. Qc3 Rfd8 28. Nc5 Bxc5 29. dxc5 Qc7 30. g3 Qe7 31. b6 Qg5 32. Bb5 Rd5 33. f4 Qd8 34. Qxa5 Rd2 35. Qc3 Qd5 36. Bf1 Ra8 37. c6 Rxa4 38. c7 Raa2 39. c8=Q Rxh2 40. Q8c6 Rag2+ 0-1
+

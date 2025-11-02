@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7ZOCXsNc"]
+[White "admiral_foo"]
+[Black "globo73"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:06"]
+[WhiteElo "1409"]
+[BlackElo "1425"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C01"]
+[Opening "French Defense: Franco-Hiva Gambit I"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.24] } 1... e6 { [%eval 0.34] } 2. e4 { [%eval 0.2] } 2... f5? { [%eval 1.26] } 3. f3? { [%eval -0.16] } 3... fxe4 { [%eval -0.24] } 4. fxe4?! { [%eval -0.97] } 4... Qh4+ { [%eval -1.04] } 5. g3?? { [%eval -4.06] } 5... Qxe4+ { [%eval -3.97] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HyU7gFfM"]
+[White "Goldenjoh"]
+[Black "RaulHuerta"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:33"]
+[WhiteElo "1836"]
+[BlackElo "1925"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+7"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Qf6 3. Bc4 h6 4. d3 Ne7 5. Nc3 c6 6. O-O Ng6 7. Be3 d6 8. d4 Be7 9. dxe5 dxe5 10. Qe2 O-O 11. Rfd1 Rd8 12. h3 Nd7 13. Nh2 Ndf8 14. f3 b5 15. Bb3 a5 16. a3 b4 17. axb4 Bxb4 18. Ng4 Bxg4 19. hxg4 Nf4 20. Bxf4 Qxf4 21. Rd3 Ng6 22. Rad1 Rxd3 23. Rxd3 Qc1+ 24. Kh2 Nf4 25. Qd2 Qxb2 26. Rd8+ Rxd8 27. Qxd8+ Kh7 28. Na4 Qc1 29. Qe8 Ne2 30. Bxf7 Qg1+ 31. Kh3 Qh1# 0-1
+

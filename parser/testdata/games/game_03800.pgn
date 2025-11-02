@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/V9GqoyXr"]
+[White "Fiuza2100"]
+[Black "rondinellepb"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:26"]
+[WhiteElo "2037"]
+[BlackElo "2247"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "C00"]
+[Opening "French Defense: Steiner Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e6 2. c4 d5 3. cxd5 exd5 4. exd5 Nf6 5. Bb5+ Nbd7 6. Nc3 Bd6 7. Qe2+ Qe7 8. Qxe7+ Bxe7 9. Nf3 a6 10. Bxd7+ Bxd7 11. O-O O-O 12. d4 Rad8 13. Bg5 h6 14. Bf4 Bd6 15. Bxd6 cxd6 16. Rfe1 b5 17. a3 a5 18. b4 Rc8 19. Rac1 axb4 20. axb4 Rfe8 21. Kf1 Rxe1+ 22. Kxe1 Ne4 23. Ne2 Rxc1+ 24. Nxc1 Nc3 25. Kd2 Nxd5 26. Na2 Bf5 27. Nc3 Nxc3 28. Kxc3 Be4 29. Ne1 Kf8 30. f3 Bd5 31. Nc2 Bc6 32. Ne3 g6 33. d5 Bd7 34. Kd4 Ke7 35. Ng4 Bxg4 36. fxg4 Kf6 37. Ke4 Kg5 38. h3 Kh4 39. Kf3 f6 40. Kf4 h5 41. gxh5 Kxh5 42. g3 f5 43. g4+ fxg4 44. hxg4+ Kh4 45. g5 Kh5 46. Ke4 Kxg5 47. Kd4 Kf4 48. Kd3 Kf3 49. Kd4 g5 0-1
+

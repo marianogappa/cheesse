@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FuCdKAyl"]
+[White "hafiz2016"]
+[Black "doncapucino"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:15"]
+[WhiteElo "2323"]
+[BlackElo "2298"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-12"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Bb7 3. Nc3 e6 4. Bd3 Bb4 5. Bd2 Nf6 6. Qe2 c5 7. dxc5 bxc5 8. Nf3 Nc6 9. e5 Bxc3 10. Bxc3 Nd5 11. Bd2 Qb6 12. b3 Ncb4 13. Be4 f5 14. exf6 Nxf6 15. Bd3 Nxd3+ 16. Qxd3 O-O 17. O-O Ng4 18. Ng5 g6 19. h3 c4 20. Qe2 Nf6 21. Qxc4 Ba6 22. Qh4 Bxf1 23. Rxf1 Rac8 24. c4 d5 25. Be3 Qc6 26. Bd4 Rc7 27. Be5 Rd7 28. cxd5 exd5 29. Bd4 Ne4 30. Nf3 Rdf7 31. Ne5 Qf6 32. Qxf6 Rxf6 33. Nd7 1-0
+

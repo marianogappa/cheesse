@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/aA0LoRyT"]
+[White "jc_cabezas96"]
+[Black "Sando00"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:53"]
+[WhiteElo "1451"]
+[BlackElo "1437"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bb5 Nd4 5. Nxd4 Bxd4 6. O-O c6 7. Bc4 b5 8. Bb3 Nf6 9. Ne2 Nxe4 10. d3 Nc5 11. Nxd4 exd4 12. Re1+ Ne6 13. Qf3 O-O 14. Bxe6 fxe6 15. Qg3 d6 16. Bh6 Qf6 17. Bg5 Qg6 18. Re2 e5 19. Rae1 Rf5 20. Bh4 Qxg3 21. Bxg3 Be6 22. b3 a5 23. c4 a4 24. cxb5 cxb5 25. h3 axb3 26. axb3 Bxb3 27. Kh2 b4 28. Bxe5 dxe5 29. Rxe5 Rxe5 30. Rxe5 Bc2 31. Rb5 1-0
+

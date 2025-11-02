@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/JllOuAKO"]
+[White "eiid"]
+[Black "OVERLORD720"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:49"]
+[WhiteElo "1667"]
+[BlackElo "1646"]
+[WhiteRatingDiff "-32"]
+[BlackRatingDiff "+11"]
+[ECO "D53"]
+[Opening "Queen's Gambit Declined: Modern Variation, Heral Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Bxf6 Bxf6 6. Nf3 O-O 7. e3 Re8 8. Bd3 dxc4 9. Bxc4 Nc6 10. O-O e5 11. dxe5 Qxd1 12. Raxd1 Nxe5 13. Nxe5 Bxe5 14. Nd5 Be6 15. f4 Bd6 16. b3 Red8 17. Rfe1 c6 18. Nc3 Bxc4 19. bxc4 Bb4 20. Rxd8+ Rxd8 21. Rc1 Rd3 22. Rd1 Rxc3 23. Rd8+ Bf8 0-1
+

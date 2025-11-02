@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VPhvyhKo"]
+[White "ruppaner"]
+[Black "kurdederouen"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:09"]
+[WhiteElo "1895"]
+[BlackElo "1795"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+13"]
+[ECO "A00"]
+[Opening "Gedult's Opening"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. f3 e5 2. Nh3 d5 3. Nf2 Nf6 4. e3 e4 5. d4 exf3 6. gxf3 c5 7. c3 Nc6 8. b3 Bf5 9. Bd3 Bxd3 10. Qxd3 cxd4 11. exd4 Bd6 12. Bg5 O-O 13. Nd2 Re8+ 14. Kf1 h6 15. Bh4 Bf4 16. Bg3 Re3 17. Bxf4 Rxd3 18. Nxd3 Qd7 19. Kg2 g5 20. Bg3 Qf5 21. Nf2 Qc2 22. Rad1 Qxc3 23. Nf1 Nxd4 24. Rd3 Qc5 25. Be5 Nxf3 26. Rxf3 Nd7 27. Ba1 Re8 28. Ng3 Ne5 29. Rf5 Ng6 30. Rf6 Nh4+ 31. Kf1 Qb5+ 32. Kg1 Re1+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/X5XtZGvL"]
+[White "drbedavi"]
+[Black "Mobilis-in-mobile"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:17"]
+[WhiteElo "1868"]
+[BlackElo "1660"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+17"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "0+1"]
+[Termination "Normal"]
+
+1. e3 d5 2. f4 Bg4 3. Nf3 Bxf3 4. Qxf3 c5 5. Be2 e5 6. O-O e4 7. Qf2 Nf6 8. d3 g6 9. dxe4 Bg7 10. e5 Ne4 11. Qe1 O-O 12. Nc3 Nxc3 13. bxc3 d4 14. Bb2 dxc3 15. Bxc3 Nc6 16. a4 Nb4 17. Bxb4 cxb4 18. c3 a5 19. cxb4 axb4 20. Qxb4 Ra7 21. Qd4 Qxd4 22. exd4 Rfa8 23. Bf3 Rxa4 24. Bxb7 R8a7 25. Be4 Rxa1 26. f5 Rxf1+ 27. Kxf1 gxf5 28. Bxf5 f6 29. e6 Kf8 30. d5 Ke7 31. Be4 Ra4 32. Kf2 Rxe4 33. Kf3 Re5 34. d6+ Kxd6 35. e7 Rxe7 36. g4 h6 37. h4 f5 38. Kf4 fxg4 39. Kxg4 Re5 40. h5 Rg5+ 41. Kf4 Ke6 42. Ke4 Kf6 43. Kd4 Kf5+ 44. Kc4 Kg4 45. Kd3 Kxh5 46. Ke2 Kh4 47. Kf3 Rg6 48. Kf2 Kh3 49. Kf1 Kh2 50. Kf2 Kh1 51. Kf3 Kh2 52. Kf4 Kh3 53. Kf5 Rg1 54. Kf4 Kg2 55. Kf5 Kf1 56. Ke4 h5 57. Ke3 h4 58. Kd2 h3 59. Kd3 h2 60. Kc4 h1=R 61. Kd3 Kg2 62. Ke2 Kg3 63. Ke3 Kg4 64. Ke4 Kg5 65. Kd5 Kh6 66. Ke6 Rf1 67. Kd7 Rh2 68. Ke8 Re2+ 69. Kd7 Rd1+ 70. Kc6 Rc2+ 71. Kb5 Rdc1 72. Ka4 Rb1 73. Ka3 Rc8 74. Ka4 Ra8# 0-1
+

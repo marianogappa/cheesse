@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/M6wJwvBr"]
+[White "Alvaroalcombate"]
+[Black "SparrowSparrow"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:02"]
+[WhiteElo "1326"]
+[BlackElo "1229"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+14"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Berlin Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. c3 Bc5 5. Bg5 O-O 6. Bxf6 Qxf6 7. Qf3 Qd6 8. Ne2 a6 9. O-O b5 10. Bd5 Bb7 11. Nd2 Nb4 12. cxb4 Bxb4 13. Bxb7 Rab8 14. Bd5 Bxd2 15. Rad1 Qb4 16. Qf5 Qxb2 17. f4 d6 18. fxe5 dxe5 19. Bxf7+ Kh8 20. Qh5 Bh6 21. Ng3 Be3+ 22. Kh1 h6 23. Qf3 Bf4 24. Nh5 Rxf7 25. Nxf4 Rxf4 26. Qg3 Qxa2 27. Rxf4 exf4 28. Qxf4 Qe2 29. Rf1 Rg8 0-1
+

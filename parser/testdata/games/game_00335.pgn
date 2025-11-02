@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/jY3jrUrl"]
+[White "jffcampeao"]
+[Black "laima1965"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:06"]
+[WhiteElo "1793"]
+[BlackElo "1761"]
+[WhiteRatingDiff "-26"]
+[BlackRatingDiff "+13"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Accepted, Paulsen Formation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Bc4 e6 5. Nxc3 Nc6 6. Nf3 a6 7. Bg5 Qc7 8. Rc1 Nf6 9. Bxf6 gxf6 10. Qd2 h5 11. a3 Bh6 12. Qc2 Bxc1 13. Qxc1 Ne5 14. Be2 b5 15. O-O Rg8 16. Qf4 Nxf3+ 17. Qxf3 Qe5 18. Qe3 Qg5 19. Qf3 Bb7 20. Rd1 f5 21. Rd4 e5 22. Rd5 Bxd5 23. Nxd5 Rc8 24. h3 d6 25. exf5 Rc1+ 26. Kh2 h4 27. Qb3 Qxg2# 0-1
+

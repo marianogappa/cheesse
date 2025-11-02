@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kXHkSXby"]
+[White "Unjeunegarcon"]
+[Black "geniediablo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:30"]
+[WhiteElo "1638"]
+[BlackElo "1871"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+9"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.05] } 1... e6 { [%eval 0.22] } 2. Nf3 { [%eval 0.03] } 2... d6?! { [%eval 0.54] } 3. d4 { [%eval 0.6] } 3... Ne7 { [%eval 0.81] } 4. Be2 { [%eval 0.68] } 4... Nd7 { [%eval 0.68] } 5. O-O { [%eval 0.66] } 5... Ng6 { [%eval 0.69] } 6. c4 { [%eval 0.67] } 6... Be7 { [%eval 0.66] } 7. Nc3 { [%eval 0.63] } 7... Bf6 { [%eval 0.7] } 8. Be3 { [%eval 0.62] } 8... e5 { [%eval 0.93] } 9. Qd2 { [%eval 0.7] } 9... O-O { [%eval 0.75] } 10. Rfe1 { [%eval 0.51] } 10... a6 { [%eval 0.8] } 11. Rad1 { [%eval 0.67] } 11... b6 { [%eval 0.96] } 12. Nd5 { [%eval 0.72] } 12... exd4 { [%eval 0.79] } 13. Bxd4 { [%eval 0.45] } 13... Bxd4 { [%eval 0.94] } 14. Nxd4 { [%eval 0.77] } 14... Nde5?! { [%eval 1.7] } 15. f4 { [%eval 2.04] } 15... Nd7?? { [%eval 5.18] } 16. Nc6 { [%eval 5.01] } 16... Qh4 { [%eval 4.95] } 17. g3 { [%eval 4.56] } 17... Qh6? { [%eval 6.11] } 18. Nxc7 { [%eval 6.02] } 18... Bb7 { [%eval 6.03] } 19. Qxd6 { [%eval 5.77] } 19... Nc5? { [%eval 7.26] } 20. Nxa8 { [%eval 7.05] } 20... Bxa8 { [%eval 6.98] } 21. f5?? { [%eval 2.58] } 21... Nxe4? { [%eval 3.66] } 22. Qa3 { [%eval 3.65] } 22... Bxc6 { [%eval 3.58] } 23. fxg6?! { [%eval 2.67] } 23... fxg6?? { [%eval 7.41] } 24. Qb3?? { [%eval 0.0] } 24... Kh8?? { [%eval 5.65] } 25. Rf1 { [%eval 4.48] } 25... Re8? { [%eval 6.88] } 26. Qxb6?? { [%eval 3.75] } 26... Ba8?? { [%eval 13.84] } 27. Rf4?? { [%eval 1.67] } 27... Ng5?? { [%eval #17] } 28. Rh4?? { [%eval 1.97] } 28... Nh3+ { [%eval 2.0] } 29. Kf1 { [%eval 1.54] } 29... Rf8+?? { [%eval 7.34] } 30. Ke1 { [%eval 7.06] } 0-1
+

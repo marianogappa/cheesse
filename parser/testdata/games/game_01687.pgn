@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/y4BkoQw9"]
+[White "Tromto"]
+[Black "timkomate"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:22"]
+[WhiteElo "1430"]
+[BlackElo "1318"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+15"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Hartlaub-Charlick Gambit"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 e5 2. dxe5 d6 3. Nf3 dxe5 4. Nxe5 Qd5 5. Bf4 Qxd1+ 6. Kxd1 Bd6 7. e3 Bxe5 8. Bxe5 Ne7 9. Bd3 O-O 10. Ke2 f6 11. Bc3 Nd5 12. Rd1 Bg4+ 13. f3 Bf5 14. g4 Bxd3+ 15. cxd3 Nb6 16. e4 Nc6 17. f4 g5 18. Kf3 gxf4 19. Kxf4 Ne7 20. Nd2 Nc4 21. Nxc4 b5 22. Ne5 Rad8 23. Rf1 fxe5+ 24. Kxe5 Rxf1 25. Rxf1 Nc6+ 26. Kf4 Rxd3 27. Be1 Rd1 28. e5 Nd4 29. Ke4 Nc2 30. Kf5 Nxe1 31. e6 Kf8 32. Kf6 Ke8 33. e7 c5 34. g5 c4 35. g6 hxg6 36. Rg1 g5 37. Rxg5 Nf3 38. Rg8+ Kd7 39. e8=Q+ Kd6 40. Kf7 Re1 41. Qd8+ Ke5 42. Rg5+ Kf4 0-1
+

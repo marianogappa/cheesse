@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mjK9R4OE"]
+[White "SexyD"]
+[Black "gb1010"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:36"]
+[WhiteElo "1160"]
+[BlackElo "1364"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Bc4 e5 3. Qf3 Nf6 4. d3 d6 5. Nh3 Nd4 6. Qe3 Nxc2+ 7. Kd1 Nxe3+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Ldm4wjz6"]
+[White "KentVika"]
+[Black "eldocbus"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:55"]
+[WhiteElo "1693"]
+[BlackElo "1815"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Be7 5. e4 d6 6. Nf3 Nbd7 7. Bd3 b6 8. O-O Bb7 9. d5 c6 10. dxe6 fxe6 11. b3 O-O 12. Bb2 h6 13. h3 d5 14. exd5 exd5 15. cxd5 cxd5 16. Rc1 Rc8 17. b4 Bd6 18. Nb5 Bb8 19. Re1 a6 20. Nbd4 Re8 21. Ne6 Qe7 22. Nc5 Qd6 23. Rxe8+ Nxe8 24. Nxb7 Rxc1 25. Qxc1 Qe7 26. Bxa6 Ndf6 27. Qc8 Bf4 28. Bxf6 gxf6 29. Qg4+ Bg5 30. Nxg5 fxg5 31. Qe2 Qd7 32. Kh2 Nc7 33. Qe5 Nxa6 34. Nd6 Nc7 35. Nf5 Kh7 36. Qf6 Qxf5 37. Qxf5+ Kg8 38. Qc8+ Kf7 39. Qxc7+ Ke6 40. Qxb6+ Ke5 41. Qxh6 Kf4 42. Qd6+ Ke4 43. f3+ Kd4 44. b5 Kc4 45. b6 d4 46. b7 d3 47. b8=Q Kc3 48. Qbc7+ Kd2 0-1
+

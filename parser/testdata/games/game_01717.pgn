@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/f3CjYaI3"]
+[White "doogsiakdov"]
+[Black "catujo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:29"]
+[WhiteElo "1763"]
+[BlackElo "1749"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 b6 2. d3 Bb7 3. g3 e6 4. Bg2 c5 5. Nf3 Nc6 6. O-O Nf6 7. a4 a5 8. Nc3 h5 9. Nb5 Be7 10. c3 d5 11. e5 Nd7 12. d4 c4 13. b3 cxb3 14. Qxb3 Ba6 15. Ba3 Rb8 16. Rab1 g6 17. Ne1 Rb7 18. Nd3 Na7 19. Rfc1 h4 20. Bxe7 Qxe7 21. Nd6+ Kf8 22. Nxb7 Bxb7 23. Nf4 hxg3 24. fxg3 g5 25. Ne2 Nc8 26. Qb5 f5 27. exf6 Nxf6 28. Rf1 Kg7 29. Qd3 Ng4 30. h3 Nf6 31. g4 Ne4 32. Ng3 Nxg3 33. Qxg3 Rf8 34. Qe5+ Kh7 35. Rxf8 Qxf8 36. Rf1 Qe7 37. Qf6 Qxf6 38. Rxf6 Bc6 39. Rxe6 Bxa4 40. Rc6 Bxc6 41. Bf1 Ne7 42. Bd3+ Kg7 43. Bf5 Kf6 44. Bd3 Ng6 45. c4 dxc4 46. Bxc4 Nf4 47. Kf2 Nxh3+ 48. Kg3 Nf4 49. Kf2 b5 50. Ba2 a4 51. Bb1 b4 52. Bd3 a3 53. Bb5 Bxb5 54. d5 b3 55. Ke3 b2 0-1
+

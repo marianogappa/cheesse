@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Z2ddVu59"]
+[White "AlekDavian"]
+[Black "geetanshkumar"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:38"]
+[WhiteElo "1777"]
+[BlackElo "1580"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+18"]
+[ECO "C20"]
+[Opening "King's Pawn Opening: 2.b3"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. b3 Nc6 3. d3 g6 4. c3 Bg7 5. h3 d6 6. g4 a6 7. f4 exf4 8. Bxf4 Na7 9. a4 b5 10. d4 b4 11. e5 bxc3 12. Nxc3 h5 13. gxh5 Qh4+ 14. Ke2 Qxf4 15. Nd5 Qe4+ 16. Ne3 Qxh1 17. Bg2 Qh2 18. Nf3 Qg3 19. Nd5 Qxg2+ 20. Ke3 Bh6+ 21. Kd3 Bf5+ 22. Kc3 Rc8 23. Ne3 Bxe3 24. Kb4 Nc6+ 25. Kc3 Bd2+ 26. Nxd2 Qxh3+ 27. Kb2 Qd3 28. exd6 Qxd4+ 29. Kc1 Qxa1+ 30. Nb1 Qxb1+ 31. Kd2 Qxd1+ 32. Kxd1 Rd8 33. d7+ Rxd7+ 34. Ke2 Rxh5 35. a5 Rh3 36. b4 Rdd3 37. Kf2 Rh2+ 38. Kg1 Rdd2 39. b5 axb5 40. a6 Ra2 41. a7 Rhb2 42. Kh1 Rb1# 0-1
+

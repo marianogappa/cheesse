@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/AGLwXM0x"]
+[White "Abdullah_Muhammad_66"]
+[Black "Ahmed257"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:36"]
+[WhiteElo "1752"]
+[BlackElo "1666"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-9"]
+[ECO "C44"]
+[Opening "Scotch Game: Goering Gambit, Double Pawn Sacrifice"]
+[TimeControl "600+10"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 Nc6 5. Nf3 Be7 6. Qd5 1-0
+

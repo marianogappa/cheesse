@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/9Z0lXBDJ"]
+[White "nurliz"]
+[Black "yunusist21"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:30"]
+[WhiteElo "1644"]
+[BlackElo "1644"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "480+2"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nc6 4. dxe5 Bg4 5. Bb5 a6 6. Bxc6+ bxc6 7. O-O Bxf3 8. Qxf3 dxe5 9. Rd1 Bd6 10. Nc3 Nf6 11. Bg5 O-O 12. b3 h6 13. Bh4 g5 14. Bg3 Qe7 15. h3 Ba3 16. Rab1 Rad8 17. Qf5 Nh5 18. Bxe5 f6 19. Qg6+ Kh8 20. Bh2 Nf4 21. Qxh6+ Kg8 22. Bxf4 gxf4 23. Qxf4 Qg7 24. Re1 Bb4 25. Re3 Bc5 26. Rg3 Bd6 27. Rxg7+ Kxg7 28. Qg4+ Kf7 29. h4 Rg8 30. Qh5+ Ke7 31. Qh7+ Ke6 32. Qf5+ Ke7 33. h5 Rg5 34. Qh7+ Ke6 35. e5 Bxe5 36. Ne4 Rg4 37. f3 Rgg8 38. Re1 Rde8 39. Nc5+ Kd5 40. Nd7 Bh2+ 41. Kf1 1-0
+

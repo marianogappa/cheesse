@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/2zHThov2"]
+[White "Flippomanic"]
+[Black "mat_cin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:14"]
+[WhiteElo "1198"]
+[BlackElo "1186"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nc6 4. d5 Nd4 5. Be3 f6 6. Bxd4 exd4 7. Nxd4 b6 8. Bb5+ Bd7 9. Bxd7+ Qxd7 10. Nc3 g6 11. Ncb5 f5 12. f3 Bg7 13. Ne6 Qxb5 14. Nxc7+ Kd8 15. Nxb5 1-0
+

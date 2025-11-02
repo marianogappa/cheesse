@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/depjC0KK"]
+[White "Nicolaskasparov"]
+[Black "bfs"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:58"]
+[WhiteElo "1448"]
+[BlackElo "1705"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Pirc Invitation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. Nf3 d6 2. e4 g6 3. Bc4 Bg7 4. Ng5 Nh6 5. Qf3 O-O 6. Bxf7+ Nxf7 7. Nxf7 Rxf7 8. Qh3 Bxh3 9. gxh3 Nc6 10. d3 e5 11. Bg5 Qxg5 12. Nd2 Qh4 13. O-O-O Rxf2 14. Rhf1 Raf8 15. Rxf2 Rxf2 16. Rf1 Bh6 17. Rxf2 Qxf2 18. b4 Qxd2+ 19. Kb2 Qxb4+ 20. Ka1 Qc3+ 21. Kb1 Nd4 22. a4 Qxc2+ 23. Ka1 Nb3# 0-1
+

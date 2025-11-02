@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/GHxBQZrB"]
+[White "Danny_D"]
+[Black "fenestr"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:27"]
+[WhiteElo "1262"]
+[BlackElo "1182"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "C00"]
+[Opening "French Defense: King's Indian Attack"]
+[TimeControl "45+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... e6 { [%eval 0.26] } 2. d3 { [%eval -0.22] } 2... c5 { [%eval 0.09] } 3. c4 { [%eval -0.12] } 3... Nc6 { [%eval 0.0] } 4. Be2 { [%eval 0.0] } 4... d5 { [%eval 0.06] } 5. Nh3?! { [%eval -0.54] } 5... dxc4 { [%eval -0.08] } 6. dxc4 { [%eval -0.13] } 6... a6 { [%eval 0.25] } 7. Bg5?! { [%eval -0.31] } 7... Bd7?? { [%eval 6.4] } 8. Bxd8 { [%eval 6.42] } 8... Rxd8 { [%eval 6.45] } 9. Qd2 { [%eval 6.04] } 9... e5 { [%eval 6.06] } 10. Nc3? { [%eval 3.28] } 10... Be6?? { [%eval 6.43] } 11. Nd5 { [%eval 6.31] } 11... Bxd5 { [%eval 6.77] } 12. exd5 { [%eval 6.65] } 12... Nd4 { [%eval 6.62] } 13. d6? { [%eval 5.17] } 13... Rxd6 { [%eval 5.41] } 14. Bd3 { [%eval 5.33] } 14... Nf6 { [%eval 5.67] } 15. Qa5 { [%eval 5.31] } 15... Be7 { [%eval 5.43] } 16. Qc7? { [%eval 4.05] } 16... O-O?? { [%eval 10.22] } 17. Qxb7?? { [%eval 5.08] } 17... Re8?! { [%eval 6.04] } 18. Qb3?? { [%eval -4.33] } 18... Ng4?? { [%eval 6.05] } 19. Qb7 { [%eval 5.59] } 19... Nf5?? { [%eval 9.99] } 20. Qxe7?? { [%eval -0.32] } 20... Rxe7?? { [%eval 3.73] } 21. Ng5?? { [%eval -4.84] } 21... g6?? { [%eval -0.27] } 22. Ne6?? { [%eval -4.87] } 22... Rexe6 { [%eval -4.68] } 23. f3? { [%eval -7.45] } 23... Rxd3 { [%eval -7.27] } 24. fxg4 { [%eval -7.09] } 24... Re3+?? { [%eval -1.92] } 25. Kf2 { [%eval -1.89] } 25... Rd6?! { [%eval -1.34] } 26. Kg1?? { [%eval -6.83] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/u4Q5DOJY"]
+[White "unnamed1"]
+[Black "RussianMachine"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:50"]
+[WhiteElo "1030"]
+[BlackElo "992"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "A44"]
+[Opening "Semi-Bononi"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 d6 3. d5 c5 4. Nc3 f5 5. Bb5+ Nc6 6. dxc6 bxc6 7. Bxc6+ Bd7 8. Bxa8 Bb5 9. Nxb5 Qxa8 10. Nc7+ Kd7 11. Nxa8 Kc6 12. Bd2 1-0
+

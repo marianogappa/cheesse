@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/t2bFeVFR"]
+[White "barschina"]
+[Black "zombakk"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:15"]
+[WhiteElo "1774"]
+[BlackElo "1722"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "A10"]
+[Opening "English Opening: Anglo-Scandinavian Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. c4 d5 2. Nc3 dxc4 3. Qa4+ Nc6 4. Qxc4 Be6 5. Qa4 Qd4 6. Qd1 Nb4 7. a3 Nd3+ 8. exd3 Nf6 9. Nf3 Qd7 10. Be2 g6 11. O-O Bg7 12. d4 h5 13. h3 h4 14. d3 Bxh3 15. Ne5 Qxd4 16. Nf3 Qd8 17. gxh3 c6 18. Ne4 Nd5 19. Rb1 Qc8 20. Kh2 Qc7+ 21. Kg2 f5 22. Neg5 Nf4+ 23. Bxf4 Qxf4 24. Ne6 Qh6 25. Nc7+ Kd7 26. Nxa8 Kc8 27. Qc1 Qh7 28. Ng5 Qg8 29. Qc4 Qd8 30. Nf7 Qd5+ 31. Qxd5 cxd5 32. Nxh8 Kb8 33. Rbc1 b6 34. Nf7 Kxa8 35. Rc8+ Kb7 36. Rc2 Bf6 37. Bf3 e6 38. Re1 e5 39. Nxe5 1-0
+

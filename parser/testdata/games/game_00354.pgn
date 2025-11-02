@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/eiLBSsWO"]
+[White "asssquare"]
+[Black "andreatorre"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:08"]
+[WhiteElo "1762"]
+[BlackElo "1760"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C30"]
+[Opening "King's Gambit"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 d6 3. Nf3 Nc6 4. Bc4 Bg4 5. O-O h6 6. d3 Be7 7. Be3 Na5 8. Bb3 Nxb3 9. axb3 Bxf3 10. Qxf3 Nf6 11. fxe5 dxe5 12. Qf5 Qd6 13. Nc3 g6 14. Qf2 a6 15. Nb5 Qc6 16. Nc3 g5 17. Kh1 Rf8 18. Qf5 Qe6 19. Qxe6 fxe6 20. h3 Nh5 21. Rxf8+ Bxf8 22. Kh2 Nf4 23. Ra5 Bd6 24. g3 Ng6 25. d4 exd4 26. Bxd4 O-O-O 27. Kg2 e5 28. Be3 c6 29. Ra3 Bxa3 30. bxa3 Kd7 31. Kf3 Ke6 32. Kg4 Nf8 33. Kh5 Nd7 34. Kxh6 Rh8+ 35. Kxg5 Rxh3 36. Kg4 Rh2 37. Kf3 Rxc2 38. Na4 b5 39. Nb6 Nxb6 40. Bxb6 Rc3+ 41. Kg4 Rxb3 42. Bc5 Kf6 43. Kh4 Rb1 44. g4 Kg6 45. Kg3 Re1 46. Kf3 Rf1+ 47. Kg2 Rf4 48. Kg3 Rxe4 49. Kf3 Rc4 50. Bb4 e4+ 51. Ke3 Kg5 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/vi4egjuh"]
+[White "MaziarUIQ"]
+[Black "faibel_eclipse"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:39"]
+[WhiteElo "2000"]
+[BlackElo "1822"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+18"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Marshall Gambit"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 c6 3. Nc3 d5 4. e4 Bd7 5. e5 Ne7 6. f4 Nf5 7. Nf3 Be7 8. Bd3 O-O 9. Bxf5 exf5 10. O-O Be6 11. cxd5 cxd5 12. Be3 Nc6 13. Rc1 f6 14. a3 fxe5 15. fxe5 f4 16. Bf2 h6 17. Qc2 Rc8 18. Qb1 Bf5 19. Qa2 Be6 20. Qb1 Bf5 21. Qa2 Be6 22. Nd2 Kh8 23. Nde4 Bf5 24. Ng3 fxg3 25. Bxg3 Be4 26. Nxe4 dxe4 27. Rfd1 Nxd4 28. Rxc8 Qxc8 29. Rxd4 Bc5 30. Bf2 Rxf2 31. Kxf2 Bxd4+ 32. Kg3 Bxe5+ 33. Kf2 Qc2+ 34. Ke3 Qd3+ 35. Kf2 Bd4+ 36. Ke1 Qe3+ 37. Kd1 Qf2 38. b4 Qxa2 39. Ke1 e3 40. b5 Qd2+ 41. Kf1 Qf2# 0-1
+

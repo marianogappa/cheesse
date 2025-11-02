@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/fXnE7zDw"]
+[White "mustafa63"]
+[Black "mrmundal"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:15"]
+[WhiteElo "1369"]
+[BlackElo "1448"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-16"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 d6 5. a4 Bg4 6. c3 Qf6 7. b4 Nxb4 8. cxb4 Bxb4+ 9. Bd2 Bc5 10. Nc3 Bd4 11. Nd5 Qd8 12. Rb1 Nf6 13. Bg5 h6 14. Bxf6 gxf6 15. h3 c6 16. Nxf6+ Qxf6 17. hxg4 Bc3+ 18. Kf1 O-O-O 19. Qb3 Rd7 20. Qxc3 d5 21. exd5 e4 22. dxe4 Qxc3 23. dxc6 bxc6 24. Ba6+ Kd8 25. Rb8+ Ke7 26. Rxh8 Qxh8 27. g3 Qb2 28. Kg2 Qb4 29. Bc8 Rc7 30. Bf5 Qxa4 31. Rxh6 c5 32. Ne5 c4 33. Nxc4 Qxc4 34. Rh7 Rb7 35. Bg6 1-0
+

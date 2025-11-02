@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/JAIXFBSO"]
+[White "demotedpawn"]
+[Black "nakulma13"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:34"]
+[WhiteElo "1984"]
+[BlackElo "1969"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-10"]
+[ECO "A40"]
+[Opening "Modern Defense"]
+[TimeControl "0+1"]
+[Termination "Normal"]
+
+1. d4 g6 2. c3 Bg7 3. Nd2 Nf6 4. e4 O-O 5. e5 d6 6. exf6 exf6 7. Ngf3 Re8+ 8. Be2 Qe7 9. Rf1 Nc6 10. Nc4 Bg4 11. Be3 Bxf3 12. gxf3 f5 13. f4 Qe4 14. f3 Qxe3 15. Nxe3 Rxe3 16. Qd2 Rae8 17. Kf2 Rxe2+ 18. Qxe2 1-0
+

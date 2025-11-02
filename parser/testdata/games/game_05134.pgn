@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/d1xpxhvE"]
+[White "jbchess66"]
+[Black "andreari1"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:40"]
+[WhiteElo "1049"]
+[BlackElo "969"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+59"]
+[ECO "C40"]
+[Opening "Elephant Gambit"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.35] } 1... e5 { [%eval 0.47] } 2. Nf3 { [%eval 0.43] } 2... d5 { [%eval 0.79] } 3. d3?! { [%eval -0.14] } 3... dxe4 { [%eval 0.0] } 4. dxe4 { [%eval -0.39] } 4... Bg4? { [%eval 1.81] } 5. Bb5+?! { [%eval 0.85] } 5... c6?! { [%eval 1.61] } 6. Bg5?? { [%eval -3.84] } 6... f6? { [%eval -1.46] } 7. h3? { [%eval -3.85] } 7... Bh5? { [%eval -2.21] } 8. g4? { [%eval -3.54] } 8... Bg6? { [%eval -2.24] } 9. Nxe5?! { [%eval -3.12] } 9... Bxe4? { [%eval -0.99] } 10. Bd3?? { [%eval -5.76] } 10... Bb4+? { [%eval -4.33] } 11. c3 { [%eval -4.52] } 11... Bxd3?? { [%eval -0.22] } 12. Nxd3 { [%eval -0.31] } 12... Bc5? { [%eval 1.81] } 13. Be3? { [%eval -0.31] } 13... Qd5? { [%eval 0.7] } 14. f3?? { [%eval -2.5] } 14... Na6?? { [%eval 4.13] } 15. Nxc5 { [%eval 4.01] } 15... Nxc5 { [%eval 4.38] } 16. c4?? { [%eval -1.0] } 16... Qd3?? { [%eval 3.41] } 17. Bxc5 { [%eval 3.46] } 17... Rd8? { [%eval 5.02] } 18. Kf2?? { [%eval -3.77] } 18... Qxc4?? { [%eval 10.66] } 19. Re1+ { [%eval 10.17] } 19... Ne7?! { [%eval #2] } 20. Bxe7?? { [%eval -2.82] } 20... Rxd1 { [%eval -2.59] } 21. Na3?? { [%eval -9.67] } 21... Rd2+?? { [%eval -1.76] } 22. Kg3 { [%eval -2.0] } 22... Qd3 { [%eval -1.87] } 23. Re4?? { [%eval -8.01] } 23... Rd1? { [%eval -5.2] } 24. Bb4+? { [%eval -6.97] } 24... Kf7?! { [%eval -6.46] } 25. Re7+ { [%eval -6.89] } 25... Kg6 { [%eval -6.6] } 26. Rxd1 { [%eval -6.58] } 26... Qxd1 { [%eval -6.28] } 27. Kh4?? { [%eval #-6] } 27... h5?! { [%eval -11.63] } 28. gxh5+?! { [%eval #-3] } 28... Rxh5+ { [%eval #-2] } 29. Kg4 { [%eval #-2] } 29... Qd4+?! { [%eval #-5] } 30. Kg3 { [%eval #-2] } 30... Qxb4?! { [%eval -55.97] } 31. Re4 { [%eval -55.1] } 31... Qe1+?? { [%eval 2.28] } 32. Kg4?? { [%eval #-1] } 32... Qg1+?! { [%eval #-1] } 0-1
+

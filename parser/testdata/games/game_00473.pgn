@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/zlWo0rNw"]
+[White "chitranj"]
+[Black "mosssss"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:40"]
+[WhiteElo "1949"]
+[BlackElo "1796"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-5"]
+[ECO "A41"]
+[Opening "Queen's Pawn"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. d4 d6 2. Bg5 Bg4 3. Nf3 Bf5 4. e4 f6 5. exf5 fxg5 6. Nxg5 h6 7. Qh5+ g6 8. Qxg6+ Kd7 9. Qe6+ Kc6 10. Nc3 Qd7 11. Bb5+ Kb6 12. Bxd7 Nxd7 13. Qxd7 Nf6 14. Qb5# 1-0
+

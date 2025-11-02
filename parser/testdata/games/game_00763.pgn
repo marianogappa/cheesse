@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/CIIiuha5"]
+[White "tejohnso"]
+[Black "CrimsonEeek"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:51"]
+[WhiteElo "1323"]
+[BlackElo "1258"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-28"]
+[ECO "B07"]
+[Opening "Pirc Defense #2"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 d6 3. d4 Bg4 4. Nf3 c5 5. d5 g6 6. Bb5+ Nfd7 7. h3 a6 8. Ba4 b5 9. Bb3 b4 10. Na4 h5 11. hxg4 Bg7 12. a3 hxg4 13. Rxh8+ Bxh8 14. Ng5 Ne5 15. f4 c4 16. fxe5 cxb3 17. exd6 Qxd6 18. cxb3 Qg3+ 19. Kf1 f6 20. Bd2 fxg5 21. Bxb4 a5 22. Be1 Qf4+ 23. Bf2 g3 24. Rc1 Nd7 25. Rc2 gxf2 26. Rxf2 Qxe4 27. Re2 Qxd5 28. Qe1 Qxb3 29. Rxe7+ Kd8 30. Re8+ Kc7 31. Rxa8 Qxa4 32. Rxh8 Nc5 33. Qe7+ Kc6 34. Rc8+ Kd5 35. Rxc5+ Kd4 36. Qd6+ Ke4 37. Re5+ Kf4 38. Qf6+ Kg4 39. Qf3+ Kh4 40. Qh3# 1-0
+

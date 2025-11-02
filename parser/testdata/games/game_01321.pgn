@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/MA3sO11Y"]
+[White "mertsondal"]
+[Black "pantythief"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:58"]
+[WhiteElo "1509"]
+[BlackElo "2035"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+1"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation, Open"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Qxd4 a6 5. Nc3 Qc7 6. Bf4 Qxf4 7. g3 Qxf3 0-1
+

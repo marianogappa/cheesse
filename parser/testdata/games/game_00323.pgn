@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/tnGrRF9P"]
+[White "ndalatando"]
+[Black "Rafael43"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:04"]
+[WhiteElo "1515"]
+[BlackElo "1589"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "420+3"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. Be3 Bg4 6. Be2 Nf6 7. Nc3 c6 8. h3 Bh5 9. g4 Bg6 10. Qd2 O-O 11. g5 Ne4 12. Nxe4 dxe4 13. Ne5 Bxe5 14. dxe5 Qxd2+ 15. Bxd2 f5 16. h4 Nd7 17. h5 Bf7 18. g6 hxg6 19. hxg6 Bxg6 20. O-O-O Nxe5 21. Bc3 Ng4 22. f3 Nf2 23. Rhg1 Nxd1 24. Rxg6 Nxc3 25. bxc3 exf3 26. Bxf3 Rae8 27. Kb2 0-1
+

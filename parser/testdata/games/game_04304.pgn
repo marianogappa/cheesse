@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/k6Ak9wL7"]
+[White "rovkaspa"]
+[Black "Andrexov"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:33"]
+[WhiteElo "1917"]
+[BlackElo "1794"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+15"]
+[ECO "B07"]
+[Opening "King's Pawn Game: Maroczy Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 e5 3. Nc3 exd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. f4 Nf6 8. Nf3 Be7 9. O-O O-O 10. Be3 Ng4 11. Bf2 Bf6 12. Qd3 Nxf2 13. Rxf2 Re8 14. Raf1 g6 15. e5 Bg7 16. Ng5 f5 17. exf6 Bxf6 18. f5 Bxg5 19. fxg6 Be3 20. gxh7+ Kh8 21. Kh1 Bxf2 22. Qg6 Bd4 23. h4 Qxh4# 0-1
+

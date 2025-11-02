@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/BUv9VN9w"]
+[White "keitico"]
+[Black "aryanbalyan"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:49"]
+[WhiteElo "2047"]
+[BlackElo "1838"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-23"]
+[ECO "A07"]
+[Opening "King's Indian Attack: Keres Variation #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. Nf3 { [%eval 0.25] } 1... d5 { [%eval 0.21] } 2. g3 { [%eval -0.26] } 2... Bg4 { [%eval 0.23] } 3. Bg2 { [%eval 0.2] } 3... Nf6 { [%eval 0.28] } 4. b3 { [%eval 0.08] } 4... c6 { [%eval 0.2] } 5. Bb2 { [%eval 0.14] } 5... Nbd7 { [%eval 0.15] } 6. O-O { [%eval 0.12] } 6... e6 { [%eval 0.15] } 7. h3 { [%eval 0.06] } 7... Bf5 { [%eval 0.29] } 8. d3 { [%eval 0.25] } 8... Be7 { [%eval 0.52] } 9. Nbd2 { [%eval 0.41] } 9... O-O { [%eval 0.4] } 10. c4 { [%eval 0.05] } 10... a5?! { [%eval 0.63] } 11. Nh4 { [%eval 0.5] } 11... Bg6 { [%eval 0.64] } 12. Nxg6 { [%eval 0.54] } 12... hxg6 { [%eval 0.51] } 13. Nf3 { [%eval 0.44] } 13... a4 { [%eval 0.54] } 14. Qc2 { [%eval 0.52] } 14... a3 { [%eval 0.56] } 15. Bc3 { [%eval 0.44] } 15... b5 { [%eval 0.44] } 16. cxd5 { [%eval 0.3] } 16... cxd5 { [%eval 0.43] } 17. Qd2 { [%eval 0.28] } 17... Qb6 { [%eval 0.41] } 18. Bb4 { [%eval 0.37] } 18... Bxb4 { [%eval 0.35] } 19. Qxb4 { [%eval 0.4] } 19... Qa5 { [%eval 0.77] } 20. Qxa5 { [%eval 0.71] } 20... Rxa5 { [%eval 0.77] } 21. Rac1 { [%eval 0.54] } 21... Raa8 { [%eval 0.93] } 22. Rc7?! { [%eval 0.3] } 22... Rfc8?! { [%eval 1.17] } 23. Rfc1 { [%eval 1.0] } 23... Nb6 { [%eval 1.42] } 24. Ne5?! { [%eval 0.91] } 1-0
+

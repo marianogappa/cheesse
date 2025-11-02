@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/bWx6buVo"]
+[White "carlosf101"]
+[Black "serhaTimur"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:47"]
+[WhiteElo "2017"]
+[BlackElo "2113"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "E00"]
+[Opening "Catalan Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Qe7 5. Nc3 d5 6. Bg2 dxc4 7. e4 c5 8. d5 exd5 9. Nge2 dxe4 10. O-O Bg4 11. Qa4+ Nbd7 12. Qc2 Bxe2 13. Nxe2 Bxd2 14. Qxd2 O-O-O 15. Qc2 Nb6 16. Nc3 e3 17. f4 Rd2 18. Qf5+ Nbd7 19. Rfe1 e2 20. Kf2 Re8 21. Rac1 Qe3# 0-1
+

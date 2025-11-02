@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/EywgeNvy"]
+[White "bobbytal"]
+[Black "Kostya_Fedorenko"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:27"]
+[WhiteElo "1705"]
+[BlackElo "1315"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+[ECO "C00"]
+[Opening "French Defense #2"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Bc4 d5 3. d4 dxc4 4. Nd2 b5 5. a4 c6 6. axb5 cxb5 7. c3 Nf6 8. e5 Nd5 9. Ngf3 Be7 10. Ne4 Bb7 11. O-O Nxc3 12. Nxc3 Bxf3 13. Qxf3 Nd7 14. Nxb5 a6 15. Qxa8 Qxa8 16. Nc7+ Kd8 17. Nxa8 1-0
+

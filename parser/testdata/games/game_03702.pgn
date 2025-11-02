@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/LBzwAXTW"]
+[White "mike81"]
+[Black "ChessDefense"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:11"]
+[WhiteElo "1249"]
+[BlackElo "1216"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C30"]
+[Opening "King's Gambit"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 Be7 3. Nf3 Bf6 4. fxe5 Bxe5 5. Bc4 Qe7 6. O-O Bd6 7. e5 Bxe5 8. Nxe5 Qc5+ 9. d4 d6 10. Bxf7+ Kd8 11. dxc5 b6 12. cxd6 cxd6 13. Qxd6+ Nd7 14. Nxd7 Ne7 15. Bg5 h6 16. Qxe7+ 1-0
+

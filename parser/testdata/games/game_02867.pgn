@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/pIZxE2h4"]
+[White "rusom"]
+[Black "DenisRazumov"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:43"]
+[WhiteElo "2023"]
+[BlackElo "1520"]
+[WhiteRatingDiff "-23"]
+[BlackRatingDiff "+21"]
+[ECO "B45"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Nf6 6. Nxc6 bxc6 7. e5 Nd5 8. Ne4 Bb7 9. c4 Nc7 10. Bd3 Bb4+ 11. Bd2 Bxd2+ 12. Qxd2 c5 13. O-O Bxe4 14. Bxe4 Rb8 15. b3 O-O 16. Rad1 Rb7 17. Qxd7 Qxd7 18. Rxd7 Rbb8 19. Rxc7 f5 20. Bf3 Rb6 21. Rxa7 Rf7 22. Rd1 Rxa7 23. Rd2 Rba6 24. a4 Rb6 25. Rd3 g5 26. g3 g4 27. Bd1 h5 28. h3 Rab7 29. hxg4 hxg4 30. Kf1 Rh7 31. Ke2 Kf7 32. Rd7+ Kg6 33. Rd8 Rc6 34. Ke3 Rh2 35. a5 Ra6 36. Rd6 Rxa5 37. Rxe6+ Kf7 38. Rd6 Ra1 39. Bc2 Ra2 40. Bxf5 Raxf2 41. Bxg4 Ke7 42. Rd7+ Ke8 43. e6 Rf8 44. Rc7 Rf6 45. Rxc5 Rhh6 46. Re5 Ke7 47. c5 Rh7 48. b4 Rhh6 49. b5 Kd8 50. b6 Rh7 0-1
+

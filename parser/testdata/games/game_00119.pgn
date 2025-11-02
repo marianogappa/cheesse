@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/pLhpbnE2"]
+[White "Antilion"]
+[Black "bachkop999"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:14"]
+[WhiteElo "1835"]
+[BlackElo "1371"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-1"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "0+2"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.15] } 1... d5 { [%eval 0.18] } 2. Nf3 { [%eval 0.15] } 2... c6 { [%eval 0.35] } 3. e3 { [%eval 0.19] } 3... Bg4 { [%eval 0.38] } 4. Be2 { [%eval 0.22] } 4... e6 { [%eval 0.28] } 5. Nbd2 { [%eval 0.22] } 5... Bd6 { [%eval 0.31] } 6. b3 { [%eval 0.11] } 6... Nf6 { [%eval 0.26] } 7. Bb2 { [%eval 0.16] } 7... O-O { [%eval 0.12] } 8. O-O { [%eval 0.12] } 8... Re8 { [%eval 0.16] } 9. Ne5 { [%eval 0.0] } 9... Bf5 { [%eval 0.39] } 10. c4 { [%eval 0.03] } 10... Bxe5?! { [%eval 0.55] } 11. dxe5 { [%eval 0.47] } 11... Ne4 { [%eval 0.47] } 12. Nxe4 { [%eval 0.41] } 12... dxe4?! { [%eval 1.23] } 13. Qxd8 { [%eval 1.25] } 13... Rxd8 { [%eval 1.25] } 14. Rfd1 { [%eval 1.34] } 14... Re8 { [%eval 1.79] } 15. Rd2 { [%eval 1.32] } 15... Na6 { [%eval 1.34] } 16. Rad1 { [%eval 1.35] } 16... g6? { [%eval 3.92] } 17. g4 { [%eval 3.88] } 17... g5? { [%eval 5.7] } 18. gxf5 { [%eval 5.37] } 18... h6? { [%eval 7.64] } 19. fxe6 { [%eval 7.42] } 1-0
+

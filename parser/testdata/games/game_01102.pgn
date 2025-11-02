@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JZO0iyOy"]
+[White "Maxou971"]
+[Black "ardp1955"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:07"]
+[WhiteElo "1191"]
+[BlackElo "1236"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "B53"]
+[Opening "Sicilian Defense: Chekhover Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Qe3 Nb4 6. Bd2 Nxc2+ 7. Ke2 Nxe3 8. fxe3 Bg4 9. h3 Bxf3+ 10. gxf3 Nf6 11. Bg2 e5 12. Nc3 d5 13. Rac1 d4 14. Nb5 d3+ 15. Kf2 Rc8 16. Rxc8 Qxc8 17. Rc1 Qe6 18. Nc7+ Kd8 19. Nxe6+ fxe6 20. Bf1 Be7 21. Bxd3 Rf8 22. Ba5+ b6 23. Bd2 Nd7 24. Ba6 Nc5 25. Ke2 Nxa6 26. a4 Nc5 27. b3 Bh4 28. Rc3 g5 29. b4 Nxa4 30. Rd3+ Ke7 31. Ra3 b5 32. Rd3 Nb2 33. Ra3 Nc4 34. Rxa7+ Kf6 35. f4 Rd8 36. Bc3 Nd6 0-1
+

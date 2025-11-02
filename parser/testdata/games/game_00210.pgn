@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TtD3jFmm"]
+[White "fumetsu"]
+[Black "Snitcher"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:37"]
+[WhiteElo "1037"]
+[BlackElo "1099"]
+[WhiteRatingDiff "-36"]
+[BlackRatingDiff "+10"]
+[ECO "C20"]
+[Opening "Portuguese Opening"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Bb5 Nf6 3. Nf3 a6 4. Ba4 b5 5. Bb3 Nc6 6. d4 exd4 7. c3 Nxe4 8. Nbd2 Qe7 9. cxd4 Nxd2+ 10. Kxd2 Qb4+ 11. Kc2 d5 12. Qe2+ Be7 13. Re1 Bf5+ 14. Kd1 Nxd4 15. Qxe7+ Qxe7 16. Rxe7+ Kxe7 17. Nxd4 Bg6 18. Nc6+ Kd6 19. Nd4 Rhe8 20. Bf4+ Re5 21. Bg3 Kc5 22. Bxe5 Re8 23. Bxc7 Re4 24. Nf3 Kc6 25. Rc1+ Kd7 26. a4 Ke6 27. Ne5 Bh5+ 28. Kc2 f6 29. Bxd5+ Kxd5 30. Rd1+ Ke6 0-1
+

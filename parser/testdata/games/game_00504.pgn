@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/D6IjBtDB"]
+[White "marco1306"]
+[Black "Gutbae"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:50"]
+[WhiteElo "1442"]
+[BlackElo "1209"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[TimeControl "360+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 h6 4. O-O Nf6 5. Re1 a6 6. d4 cxd4 7. Qxd4 Nc6 8. Qd1 e5 9. Nc3 b5 10. Bd5 Nxd5 11. exd5 Ne7 12. Nxe5 Bb7 13. Nf3 g6 14. Bf4 Bg7 15. Ne4 Bxb2 16. Nxd6+ Kf8 17. Nxb7 Qd7 18. Bd6 Re8 19. Bxe7+ Rxe7 20. Rxe7 Qxe7 21. Rb1 Ba3 22. Qd4 Qxb7 23. Qxh8+ Ke7 24. Qe5+ Kf8 25. d6 Qd7 26. Qe7+ Qxe7 27. dxe7+ Bxe7 28. Rd1 Kg7 29. Rd7 Bc5 30. Rd4 Bxd4 31. Ne5 1-0
+

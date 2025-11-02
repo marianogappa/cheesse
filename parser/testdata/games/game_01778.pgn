@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/sQO3mBWg"]
+[White "adhocprog"]
+[Black "ayathustra"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:41"]
+[WhiteElo "1836"]
+[BlackElo "1878"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B07"]
+[Opening "Pirc Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 Nf6 3. e5 dxe5 4. dxe5 Qxd1+ 5. Kxd1 Ng4 6. Be3 Nxe5 7. Nf3 Bg4 8. Be2 Bxf3 9. gxf3 Nbc6 10. Nd2 O-O-O 11. Kc1 f5 12. Bf4 e6 13. Nb3 Bd6 14. a3 h6 15. h4 Rhg8 16. Rg1 Ne7 17. c3 Nd5 18. Bd2 f4 19. Kc2 g5 20. hxg5 hxg5 21. Rad1 Rd7 22. Rg2 Rh7 23. Rdg1 Nf7 24. Bc4 c6 25. Bd3 Rh3 26. c4 Nf6 27. Nd4 Kd7 28. Nf5 exf5 29. Bxf5+ Kc7 30. Bxh3 Ne5 31. Bg4 Nxc4 32. Bc3 Nd5 33. Bf5 Re8 34. Be4 Nf6 35. Bd5 Nxd5 36. b3 Re2+ 37. Kc1 Nxa3 38. Bb2 Nb5 39. Kb1 Ndc3+ 40. Bxc3 Nxc3+ 41. Ka1 Ra2# 0-1
+

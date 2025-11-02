@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/jhVSJGkJ"]
+[White "aria1358"]
+[Black "Discalie"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:20"]
+[WhiteElo "1717"]
+[BlackElo "1823"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+8"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Barry Attack, Gruenfeld Variation"]
+[TimeControl "420+10"]
+[Termination "Normal"]
+
+1. Nc3 d5 2. d4 Nf6 3. Nf3 g6 4. Bf4 Bg7 5. e3 O-O 6. Be2 c6 7. O-O Bf5 8. Qd2 Nbd7 9. a3 Nb6 10. b3 Be4 11. Nxe4 Nxe4 12. Qd3 Re8 13. Ne5 f6 14. Nf3 e5 15. Bg3 Nxg3 16. fxg3 e4 17. Qd2 exf3 18. Rxf3 f5 19. Raf1 Bh6 20. h4 Nd7 21. h5 Nf6 22. hxg6 hxg6 23. Qe1 Bxe3+ 24. Kh2 Bxd4 25. c4 Ng4+ 26. Kh3 Kg7 27. Qd1 Rh8# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/42Oxaau9"]
+[White "LifeAsAChessPlayer"]
+[Black "homoeporediensis"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:16"]
+[WhiteElo "2043"]
+[BlackElo "2015"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "A40"]
+[Opening "Modern Defense: Beefeater Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. d5 Bxc3+ 5. bxc3 f5 6. Nf3 Qa5 7. Qc2 Nf6 8. Bg5 Ne4 9. Rc1 d6 10. h4 h6 11. Bf4 Nd7 12. Nd2 Ndf6 13. f3 Nxd2 14. Qxd2 Bd7 15. Bxh6 O-O-O 16. Bg5 Rde8 17. e3 Nh5 18. Kf2 e5 19. Be2 f4 20. exf4 exf4 21. Bd3 Bf5 22. Bxf5+ gxf5 23. Rhe1 Re5 24. Rxe5 dxe5 25. d6 Kd7 26. Qd5 Qxa2+ 27. Kg1 Ng3 28. Qxb7+ 1-0
+

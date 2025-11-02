@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YWwwLBsl"]
+[White "bot66"]
+[Black "marasmamarasma"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:15"]
+[WhiteElo "1795"]
+[BlackElo "1554"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+[TimeControl "60+8"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. c3 e6 4. cxd4 d5 5. e5 Ne7 6. Bg5 h6 7. Bh4 Nbc6 8. Nc3 Qb6 9. Qd2 Nf5 10. Bg3 Bb4 11. Rc1 O-O 12. Nge2 Ncxd4 13. f4 Ne3 14. Nxd4 Nc4 15. Bxc4 dxc4 16. Bf2 Rd8 17. O-O Qa5 18. a3 Be7 19. Qe2 b5 20. Ndxb5 Bb7 21. Qxc4 Rac8 22. Qa4 Qa6 23. Qxa6 Bxa6 24. a4 Rd2 25. Ne4 Rxb2 26. Rxc8+ Bxc8 27. Bxa7 Ra2 28. Nec3 Bb4 29. Nxa2 1-0
+

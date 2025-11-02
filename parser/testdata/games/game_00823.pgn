@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WjUOJ9h5"]
+[White "Termopolis"]
+[Black "triluarca"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:03"]
+[WhiteElo "1242"]
+[BlackElo "1333"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. e3 c6 3. Bd3 Be6 4. f3 Qd7 5. Qe2 g6 6. a3 Bg7 7. g4 f5 8. h3 fxg4 9. hxg4 Nf6 10. Qf2 O-O 11. Nh3 Nxg4 12. Qh4 Rxf3 13. Nf2 Nxe3 14. Bxe3 Rxe3+ 15. Be2 Re4 16. Qxh7+ Kf7 17. Nxe4 dxe4 18. Rf1+ Bf5 19. Bg4 e6 20. Nc3 Na6 21. O-O-O Rh8 22. Bxf5 exf5 23. Rxf5+ gxf5 24. Nxe4 Rxh7 25. Ng5+ Kg6 26. Rg1 Kf6 27. Nxh7+ Kf7 28. Ng5+ Kg8 0-1
+

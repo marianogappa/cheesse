@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tgTq6CHn"]
+[White "CIFR1"]
+[Black "zirbes123"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:11"]
+[WhiteElo "1666"]
+[BlackElo "1588"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+14"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "420+1"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 c5 3. h3 Bf5 4. Bb5+ Nc6 5. Bxc6+ bxc6 6. d3 e6 7. Bf4 Ne7 8. Nf3 Ng6 9. Bg3 Be7 10. Nbd2 O-O 11. Nf1 f6 12. Ne3 fxe5 13. Nxe5 Nxe5 14. Bxe5 Bd6 15. Bxd6 Qxd6 16. Nxf5 Rxf5 17. O-O Raf8 18. Qd2 e5 19. Rae1 Qf6 20. c3 Re8 21. Re3 e4 22. Qe2 Rfe5 23. Qg4 Rg5 24. Qd7 Rf8 25. dxe4 dxe4 26. Qxa7 Qh6 27. Rxe4 Qxh3 28. g3 Rxg3+ 29. fxg3 0-1
+

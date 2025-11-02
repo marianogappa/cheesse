@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/FYcgzxZA"]
+[White "Regdax"]
+[Black "Suskunkral"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:07"]
+[WhiteElo "1629"]
+[BlackElo "1579"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[TimeControl "360+3"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Bc5 3. Nxe5 Nf6 4. Nc3 d6 5. Nd3 Bb6 6. e5 dxe5 7. Nxe5 Qe7 8. f4 Nc6 9. Qe2 Nd4 10. Qd3 Ng4 11. Be2 Nf2 12. Kxf2 Nxc2+ 13. Kf1 Nxa1 14. Nd5 Qd6 15. Nxb6 Qxd3 16. Bxd3 axb6 17. Kf2 Rxa2 18. Re1 O-O 19. Bc4 Ra5 20. b4 Ra4 21. Re4 Be6 22. Bb5 Raa8 23. Re3 Nc2 24. Rc3 Nd4 25. Bd7 Bxd7 26. Nxd7 Rfc8 27. Bb2 c5 28. bxc5 Nb5 29. Re3 Re8 30. Nxb6 Rxe3 31. dxe3 Ra2 32. Nc4 Na3 33. Nxa3 Rxb2+ 34. Kf3 Ra2 35. Nb5 Ra5 36. Nd6 Rxc5 37. Nxb7 Rb5 38. Nd6 Rd5 39. Nc4 Rc5 40. Ne5 f6 41. Nd3 Rc2 42. Nb4 Rc4 43. Nd5 Kf7 44. h4 h5 45. g3 Rc1 46. Nb4 Rf1+ 47. Ke2 Rg1 48. Kf2 Rb1 49. Nc2 Rb2 50. Kf3 Rxc2 51. Ke4 Rg2 52. Kf3 Rb2 53. Ke4 Rb4+ 54. Kf3 Ke6 55. Kf2 Kf5 56. Kf3 g6 57. Kf2 Kg4 58. Kg2 Rb2+ 59. Kf1 Kxg3 60. e4 Kxf4 61. e5 fxe5 0-1
+

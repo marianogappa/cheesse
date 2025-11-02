@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/dithKEJO"]
+[White "BulletToothTony"]
+[Black "pvdyck"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:39"]
+[WhiteElo "1688"]
+[BlackElo "1765"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Bf5 3. e3 e6 4. c3 Nf6 5. Nf3 c5 6. Bd3 Ne4 7. Ne5 c4 8. Bc2 Bd6 9. a3 Qh4 10. Ba4+ Ke7 11. Bg3 Nxg3 12. fxg3 Qg5 13. Qe2 Bxe5 14. dxe5 Nc6 15. Bc2 Nxe5 16. Bxf5 Qxf5 17. Rf1 Nd3+ 18. Kd2 Qe4 19. b3 b5 20. bxc4 bxc4 21. a4 Rhb8 22. Na3 Rb2+ 23. Nc2 Rab8 24. Qf3 Rxc2+ 25. Kxc2 Ne5+ 26. Kd2 Rb2+ 27. Ke1 Nxf3+ 28. gxf3 Qxe3+ 29. Kd1 Qd2# 0-1
+

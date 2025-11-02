@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LYzOf0hJ"]
+[White "pombeira"]
+[Black "lukapetar"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:32"]
+[WhiteElo "1612"]
+[BlackElo "1787"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "240+0"]
+[Termination "Time forfeit"]
+
+1. g3 e6 2. Bg2 c6 3. e4 d5 4. exd5 cxd5 5. d3 Bd6 6. Nf3 Ne7 7. Bg5 f6 8. Be3 O-O 9. O-O Nd7 10. Qc1 Ng6 11. Kh1 Qc7 12. Ng1 b6 13. a3 Rb8 14. b4 Kh8 15. c3 Nde5 16. Qd2 f5 17. Bf4 Nxf4 18. gxf4 Ng4 19. h3 Bxf4 20. Qe2 Nh6 21. c4 Bd7 22. Nc3 d4 23. Na2 e5 24. Nf3 e4 25. dxe4 fxe4 26. Nxd4 Be5 27. Rad1 Qxc4 28. Qxc4 Rbc8 29. Qa6 Rce8 30. Bxe4 Bxd4 31. Rxd4 Bxh3 32. Bg2 Be6 33. Qxa7 Bxa2 34. Qxb6 Nf5 35. Rg4 Bf7 36. Qb5 Bg6 37. Be4 Nd6 38. Qc6 Nxe4 39. Rxg6 hxg6 40. Qxg6 Nf6 41. Kg2 Re4 42. Rh1+ Kg8 0-1
+

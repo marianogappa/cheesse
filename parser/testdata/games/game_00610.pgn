@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/yYJyJe83"]
+[White "PaulOCarroll"]
+[Black "zinoukako"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:13"]
+[WhiteElo "1404"]
+[BlackElo "1574"]
+[WhiteRatingDiff "-19"]
+[BlackRatingDiff "+7"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "480+8"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 c6 4. d3 Bg4 5. Be2 Nd7 6. O-O h5 7. d4 f6 8. b3 Qe7 9. a4 g5 10. b4 h4 11. b5 Nh6 12. bxc6 bxc6 13. dxe5 Nxe5 14. Rb1 Qf7 15. Nxe5 dxe5 16. Bxg4 Qc4 17. Bh5+ Ke7 18. Be2 Qxc3 19. Rb3 Qd4 20. Qxd4 exd4 21. Rd1 c5 22. c3 Rd8 23. Ba3 Kf7 24. Rdb1 d3 25. Rb7+ Kg6 26. Bd1 d2 27. a5 Rd3 28. Bxc5 Bxc5 29. R1b5 Rxc3 30. Rxa7 Rc1 31. Kf1 Bxa7 32. Rd5 Rxd1+ 33. Ke2 Re1+ 34. Kxd2 Rxe4 35. Kd3 Ra4 36. g3 h3 37. f4 gxf4 38. gxf4 Rxf4 39. a6 Rf2 40. Rd7 Ra8 41. Rb7 Rxh2 42. Kc4 Rc2+ 43. Kd5 h2 44. Rb1 Nf5 45. Ke4 Rh8 46. Rh1 Ra2 0-1
+

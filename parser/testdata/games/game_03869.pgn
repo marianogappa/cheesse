@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/N0IH12Kd"]
+[White "infed1"]
+[Black "VladEpishin"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:46"]
+[WhiteElo "1902"]
+[BlackElo "2142"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. f4 c5 2. e3 Nc6 3. c3 d5 4. d4 Nf6 5. Nf3 g6 6. Bd3 Bg7 7. O-O O-O 8. Nbd2 b6 9. Ne5 Bb7 10. Qe2 Ne8 11. a4 a5 12. Bb5 Qd6 13. Nb3 f6 14. Nf3 e5 15. Nbd2 e4 16. Ne1 cxd4 17. exd4 Rc8 18. g3 f5 19. Ng2 Nf6 20. Ne3 Na7 21. c4 Nxb5 22. cxb5 Rc7 23. Rb1 Rfc8 24. Nb3 Qb4 25. Qd1 Qxa4 26. Nc5 Qxd1 0-1
+

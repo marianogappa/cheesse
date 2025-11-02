@@ -1,0 +1,18 @@
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/4VKc8TvR"]
+[White "Rustlane"]
+[Black "BioHazaaard"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:43"]
+[WhiteElo "1866"]
+[BlackElo "1572"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-23"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Veresov Attack, Anti-Veresov"]
+[TimeControl "-"]
+[Termination "Normal"]
+
+1. Nc3 d5 2. d4 Bg4 3. Nf3 Bxf3 4. exf3 Nf6 5. Bd3 g6 6. O-O h6 7. Qe2 Qd6 8. Nb5 Qd7 9. Qe5 Nc6 10. Qxc7 Rc8 11. Qe5 Nxe5 12. dxe5 Nh5 13. Nxa7 Rc7 14. Bb5 Rc6 15. Rd1 b6 16. Bxc6 Bg7 17. Rxd5 Nf6 18. Bxd7+ Nxd7 19. Rb5 Bxe5 20. Be3 h5 21. Rd1 g5 22. Nc6 Bxb2 23. Bxg5 Bf6 24. Rxb6 Nxb6 25. Rd8# 1-0
+

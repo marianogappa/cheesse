@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/G5TAlSa7"]
+[White "bojanknife"]
+[Black "blhck"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:26"]
+[WhiteElo "1709"]
+[BlackElo "1693"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. d3 e6 2. Nf3 d5 3. g3 Nf6 4. Bg2 Bd6 5. O-O c5 6. c4 d4 7. e3 Nc6 8. exd4 cxd4 9. a3 a5 10. Re1 O-O 11. Nbd2 Re8 12. Nf1 Qc7 13. Bg5 Be7 14. N3d2 h6 15. Bxf6 Bxf6 16. Ne4 Be7 17. Nfd2 e5 18. Nf1 Rb8 19. Rc1 b6 20. c5 b5 21. Nd6 Rd8 22. Qh5 Bxd6 23. cxd6 Rxd6 24. Qxe5 Nxe5 25. Rxc7 Nxd3 26. Re8+ Kh7 27. Be4+ g6 28. Rxf7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/WcnLkXkm"]
+[White "xdaay"]
+[Black "Bishop26"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:11"]
+[WhiteElo "1824"]
+[BlackElo "1761"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Levitsky Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bg5 Nc6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Bb4 6. Qd3 O-O 7. a3 Bd6 8. Nb5 Be7 9. Bf4 Qd7 10. Nxc7 e5 11. dxe5 Ne4 12. Nxa8 b6 13. Nd2 Nxd2 14. Nxb6 axb6 15. Qxd2 Nb8 16. Rd1 Bb7 17. e4 Qf5 18. exf5 1-0
+

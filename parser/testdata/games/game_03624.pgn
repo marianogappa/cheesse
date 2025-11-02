@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fLV082uS"]
+[White "h2pi"]
+[Black "pan79"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:50"]
+[WhiteElo "1292"]
+[BlackElo "1321"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Mengarini's Opening"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. a3 Bc5 3. Bc4 Qf6 4. Qe2 a6 5. d3 b5 6. Ba2 d6 7. Nf3 h6 8. Nc3 c6 9. Be3 Bxe3 10. Qxe3 g5 11. h3 Be6 12. Bxe6 Qxe6 13. g3 c5 14. g4 a5 15. Nd5 Na6 16. O-O-O b4 17. axb4 axb4 18. Rdg1 Kd7 19. Nb6+ Kc7 20. Nxa8+ Kb7 21. Kd2 Ne7 22. Ra1 Rxa8 23. Ra4 b3 24. c3 Nc7 25. Rha1 Nc6 26. Rxa8 Nxa8 27. d4 cxd4 28. cxd4 Nxd4 29. Nxd4 exd4 30. Qd3 Nb6 31. Qxd4 d5 32. Rc1 Nc4+ 33. Kc3 f5 34. Qxd5+ Qxd5 35. exd5 Nb6 36. Kxb3 f4 37. d6 Kb8 38. Rd1 Kc8 39. Kb4 Kd7 40. Kb5 Nc8 41. Kc5 f3 42. b4 Kd8 43. Kc6 Na7+ 44. Kb7 Nc8 45. d7 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/lkezBXXX"]
+[White "danielsonn"]
+[Black "Questor"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:04"]
+[WhiteElo "1382"]
+[BlackElo "1639"]
+[WhiteRatingDiff "+21"]
+[BlackRatingDiff "-18"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "840+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Bf5 3. Nc3 c6 4. Nf3 h6 5. e3 e6 6. h3 Nf6 7. Bd3 Bxd3 8. Qxd3 Nbd7 9. O-O Bd6 10. Bxd6 Ne4 11. Nxe4 dxe4 12. Qxe4 Nf6 13. Qe5 Nd7 14. Qg3 g5 15. Ba3 Nf6 16. c3 Rg8 17. Ne5 Ne4 18. Qf3 f5 19. Qh5+ 1-0
+

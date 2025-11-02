@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/N5aSsACM"]
+[White "al10"]
+[Black "JUANKARODA"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:16"]
+[WhiteElo "1736"]
+[BlackElo "1725"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C30"]
+[Opening "King's Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 d6 3. Nf3 Bg4 4. Bc4 Nf6 5. d3 Nc6 6. c3 Be7 7. O-O O-O 8. Qe1 Nh5 9. h3 Bxf3 10. Rxf3 Nxf4 11. Bxf4 exf4 12. Rxf4 Ne5 13. Nd2 c6 14. d4 Ng6 15. Rf1 Bh4 16. Qe2 Bg5 17. Nf3 Nf4 18. Qf2 Ng6 19. Qg3 Bf4 20. Qg4 b5 21. Bb3 a5 22. a4 b4 23. g3 Bh6 24. Kg2 c5 25. Bd5 Rb8 26. h4 cxd4 27. cxd4 Ne7 28. Bc4 d5 29. exd5 Nxd5 30. Qe4 Ne3+ 31. Kh3 Nxc4 32. d5 Nd6 0-1
+

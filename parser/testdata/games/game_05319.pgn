@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QXJr79Je"]
+[White "RodrigoDPonce"]
+[Black "ha1989"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:23"]
+[WhiteElo "1630"]
+[BlackElo "1506"]
+[WhiteRatingDiff "+31"]
+[BlackRatingDiff "-7"]
+[ECO "D10"]
+[Opening "Slav Defense: Exchange Variation"]
+[TimeControl "300+2"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.14] } 1... d5 { [%eval 0.33] } 2. c4 { [%eval 0.19] } 2... c6 { [%eval 0.27] } 3. cxd5 { [%eval 0.31] } 3... cxd5 { [%eval 0.34] } 4. Nc3 { [%eval 0.1] } 4... e6 { [%eval 0.29] } 5. Nf3 { [%eval 0.18] } 5... Bb4 { [%eval 0.4] } 6. a3 { [%eval 0.16] } 6... Ba5?! { [%eval 0.72] } 7. b4 { [%eval 0.56] } 7... Bb6 { [%eval 0.82] } 8. Qc2 { [%eval 0.52] } 8... Nf6 { [%eval 0.51] } 9. Bg5 { [%eval 0.48] } 9... h6 { [%eval 0.64] } 10. Bh4 { [%eval 0.53] } 10... g5 { [%eval 0.37] } 11. Nxg5? { [%eval -1.5] } 11... hxg5 { [%eval -1.6] } 12. Bxg5 { [%eval -1.69] } 12... Bxd4 { [%eval -1.63] } 13. e4?! { [%eval -2.5] } 13... dxe4?? { [%eval 0.92] } 14. Nxe4?? { [%eval -4.89] } 14... Rh5?? { [%eval 2.22] } 15. h4?? { [%eval -4.91] } 15... Rxg5? { [%eval -3.02] } 16. hxg5?! { [%eval -3.57] } 16... Nxe4 { [%eval -3.26] } 17. Qxe4?? { [%eval -6.81] } 17... Qb6?? { [%eval 0.95] } 18. Ra2? { [%eval -0.56] } 18... Bd7?! { [%eval 0.0] } 19. Rd2 { [%eval 0.0] } 19... Bc3 { [%eval 0.0] } 20. Qd3? { [%eval -2.08] } 20... Bxd2+? { [%eval 0.0] } 21. Qxd2 { [%eval 0.0] } 21... Ke7 { [%eval 0.51] } 22. Qc3? { [%eval -1.21] } 22... Nc6 { [%eval -1.12] } 23. Qf6+ { [%eval -1.1] } 23... Kd6 { [%eval -0.98] } 24. Qf4+? { [%eval -2.54] } 24... Ne5? { [%eval 0.0] } 25. Qd2+?? { [%eval -3.08] } 25... Qd4?? { [%eval #6] } 26. Qxd4+ { [%eval #5] } 1-0
+

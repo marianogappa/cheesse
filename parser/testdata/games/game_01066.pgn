@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/LG0QfNcx"]
+[White "Scveik"]
+[Black "Djabby"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:55"]
+[WhiteElo "1149"]
+[BlackElo "1270"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+7"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed Variation"]
+[TimeControl "600+5"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nf6 4. Bb5+ Bd7 5. Bxd7+ Qxd7 6. d4 cxd4 7. Nxd4 Nc6 8. Nxc6 Qxc6 9. O-O Nxe4 10. Nxe4 Qxe4 11. f3 Qe5 12. f4 Qf6 13. b3 g6 14. Bb2 Qe6 15. Re1 Qf5 16. Rf1 Rg8 17. h3 O-O-O 18. g4 Qe4 19. Qe1 Qxc2 20. Qc1 Qxc1 21. Raxc1+ Kb8 22. Ba3 Bh6 23. Bb4 e5 24. Ba5 Rde8 25. Bc7+ Ka8 26. Bxd6 exf4 27. Bxf4 Bxf4 28. Rxf4 g5 29. Rfc4 a6 30. a4 Kb8 31. b4 Rc8 32. Rxc8+ Rxc8 33. Rb1 Rc4 34. Kf2 b5 35. axb5 axb5 36. Ke3 Rc3+ 37. Kd2 Rxh3 38. Kc2 Rh4 39. Rf1 Rxg4 40. Rxf7 h5 41. Rf8+ Kc7 42. Rf7+ Kd6 43. Rf6+ Ke5 44. Rb6 h4 45. Rxb5+ Ke4 46. Rb8 h3 47. Re8+ Kf3 48. b5 h2 49. Rh8 Rh4 50. Rf8+ Kg3 51. b6 h1=Q 52. b7 Qxb7 53. Rf1 Qg2+ 54. Kd1 Qxf1+ 55. Kd2 Rc4 56. Ke3 Qf3+ 57. Kd2 Qc3+ 58. Ke2 Rb4 59. Kd1 Qb2 60. Ke1 Ra4 61. Kf1 Ra1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VZUQfwV9"]
+[White "Andrew74"]
+[Black "luckyredhot"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:42"]
+[WhiteElo "1701"]
+[BlackElo "1734"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "B56"]
+[Opening "Sicilian Defense: Classical Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be3 g6 7. Bb5 Bd7 8. Bxc6 bxc6 9. O-O Bg7 10. f3 O-O 11. Qd2 Re8 12. Rad1 Qb8 13. Na4 c5 14. Nxc5 dxc5 15. Nb3 c4 16. Nc5 Bc6 17. b3 cxb3 18. axb3 Qc8 19. Qa5 Nd7 20. Na6 Bb7 21. Nb4 Bc3 22. Qa4 Nc5 23. Bxc5 Qxc5+ 24. Kh1 Bxb4 0-1
+

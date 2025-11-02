@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ohsPP02e"]
+[White "TravisLodge"]
+[Black "Fjsanchez24"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:23"]
+[WhiteElo "1327"]
+[BlackElo "1154"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-6"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Bc5 3. c3 Nf6 4. d4 Bb6 5. dxe5 Nxe4 6. Nd4 Qh4 7. g3 Qe7 8. Qg4 Ng5 9. f4 Ne4 10. Qxg7 Rf8 11. Qxh7 Nc6 12. Qxe4 d5 13. Qxd5 Be6 14. Nxe6 fxe6 15. Qd1 Rd8 16. Qh5+ Rf7 17. b4 Kf8 18. Qh8# 1-0
+

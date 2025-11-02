@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/yyHczk7D"]
+[White "UnderPrez"]
+[Black "FuturechessGM27"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:06"]
+[WhiteElo "2001"]
+[BlackElo "2018"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 d6 3. d4 cxd4 4. cxd4 Nf6 5. Nc3 e5 6. dxe5 dxe5 7. Qb3 Nc6 8. Nf3 Bd6 9. Bb5 O-O 10. O-O a6 11. Bxc6 bxc6 12. Rd1 Qc7 13. Bg5 Be6 14. Qc2 Nd7 15. Rac1 Nb6 16. b3 c5 17. Be3 Rac8 18. Qe2 Rfd8 19. Rd2 Qb7 20. Rcd1 Bc7 21. Nh4 g6 22. f4 exf4 23. Bf2 Rxd2 24. Rxd2 c4 25. Bxb6 Bxb6+ 26. Kh1 cxb3 27. axb3 Rxc3 28. Qd1 Rc8 29. Rd6 Ba7 30. Nf5 gxf5 31. exf5 Bxf5 32. Qh5 Bg6 33. Qg5 Rc1+ 0-1
+

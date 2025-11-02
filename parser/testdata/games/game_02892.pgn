@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MbWAvfGJ"]
+[White "Benyamin2940"]
+[Black "francescotoddy0613"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:50"]
+[WhiteElo "1657"]
+[BlackElo "1670"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. d4 Bg4 5. d5 Nd4 6. Be2 Nxe2 7. Qxe2 Nf6 8. h3 Bd7 9. Bg5 Be7 10. O-O-O a6 11. h4 c6 12. dxc6 Bxc6 13. h5 h6 14. Bd2 Qb6 15. Be3 Qd8 16. Nxe5 Qc7 17. Nxc6 bxc6 18. Bd4 Rb8 19. e5 dxe5 20. Bxe5 Qb6 21. Bxb8 Qxb8 22. Rde1 Qb7 23. Na4 Nd5 24. Nc5 Qc7 25. c4 Nb4 26. a3 Qf4+ 27. Kb1 Qf5+ 28. Kc1 Na2+ 29. Kd1 Qxc5 30. b4 Nc3+ 31. Kc2 Nxe2 32. bxc5 Nd4+ 33. Kc3 Nf5 34. g4 O-O 35. gxf5 Bxc5 36. a4 Bxf2 37. Ref1 Bc5 38. f6 gxf6 39. Rxf6 a5 40. Rxh6 Rd8 41. Rxc6 Bb4+ 42. Kc2 Rd2+ 43. Kb1 Ra2 44. h6 Rxa4 45. h7+ Kh8 46. Rc8+ Kg7 47. h8=Q+ Kg6 48. Rh6+ Kf5 49. Qf6+ Ke4 50. Rh4+ Kd3 51. Rd8+ Ke3 52. Qe5+ Kf2 53. Rf4+ Kg3 54. Qg5+ Kh3 55. Rh8# 1-0
+

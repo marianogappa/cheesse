@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/aitGxqJ7"]
+[White "ChessDefense"]
+[Black "mike81"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:32"]
+[WhiteElo "1206"]
+[BlackElo "1260"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. Ng5 Bxd1 5. Kxd1 Qxg5 6. d4 Qxg2 7. Re1 Qxf2 8. dxe5 Qd4+ 9. Bd3 Qxe5 10. Rf1 Nd7 11. Rf5 Qxh2 12. Bf4 Qh1+ 13. Kd2 Qg2+ 14. Kc3 O-O-O 15. Nd2 Ne5 16. Bxe5 dxe5 17. Rxe5 Bd6 18. Bc4 Bxe5+ 19. Kb3 Qxd2 20. Rd1 Qxd1 21. Bxf7 Nf6 22. Bg8 Rhxg8 23. Kc4 Rd4+ 24. Kc3 Nxe4+ 25. Kb3 Nc5+ 26. Kc3 Qf3# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YWjbzRfc"]
+[White "Playbs81"]
+[Black "skanerterry"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:46"]
+[WhiteElo "1301"]
+[BlackElo "1304"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "300+4"]
+[Termination "Normal"]
+
+1. d4 e6 2. Nf3 d5 3. Bg5 Nf6 4. e3 Nc6 5. Bb5 Bd7 6. Ne5 Nxe5 7. Bxd7+ Nexd7 8. Nc3 h6 9. Bxf6 Qxf6 10. O-O Nb6 11. e4 Nc4 12. e5 Qg5 13. g3 Bb4 14. h4 Bxc3 15. hxg5 hxg5 16. bxc3 O-O-O 17. Qg4 f6 18. exf6 gxf6 19. Qxe6+ Rd7 20. Qxf6 Rhh7 21. Qf8+ Rd8 22. Qf5+ Kb8 23. Qxh7 1-0
+

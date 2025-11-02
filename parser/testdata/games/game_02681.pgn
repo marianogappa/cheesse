@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/61eukN2S"]
+[White "Trickstter"]
+[Black "igor4554"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:04"]
+[WhiteElo "1590"]
+[BlackElo "1368"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Tennison Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 f5 4. Bc4 h6 5. Qh5+ Kd7 6. Nf7 Qe8 7. Qxf5+ Kc6 8. Qb5# 1-0
+

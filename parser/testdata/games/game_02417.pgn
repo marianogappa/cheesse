@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/ob5UDdqp"]
+[White "timour"]
+[Black "ROD1969"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:12"]
+[WhiteElo "1665"]
+[BlackElo "1784"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+[ECO "A51"]
+[Opening "Indian Game: Budapest Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e5 3. e3 Bb4+ 4. Bd2 Nc6 5. a3 Bxd2+ 6. Qxd2 exd4 7. exd4 O-O 8. Bd3 Re8+ 9. Ne2 Nxd4 0-1
+

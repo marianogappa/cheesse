@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hz8W3QPL"]
+[White "militan"]
+[Black "cevil1001"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:30"]
+[WhiteElo "1621"]
+[BlackElo "1786"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[ECO "C64"]
+[Opening "Ruy Lopez: Classical Variation"]
+[TimeControl "180+1"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O d6 5. h3 Bd7 6. c3 a6 7. Ba4 b5 8. Bb3 Nf6 9. d4 exd4 10. cxd4 Bb6 11. e5 dxe5 12. dxe5 Ne4 13. Be3 O-O 14. Qd3 Nc5 15. Bxc5 Bxc5 16. Bc2 g6 17. Qd5 Bb6 18. Rd1 Nb4 19. Qd2 Nxc2 20. Qxc2 Qe7 21. Nc3 Bf5 22. Qe2 Rad8 23. Nd5 Qc5 24. Nxb6 cxb6 25. Rxd8 Rxd8 26. Nh4 Be6 27. Kh1 Rd5 0-1
+

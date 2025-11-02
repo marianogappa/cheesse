@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/KWLzicUQ"]
+[White "mostafa1888"]
+[Black "JohnnySka"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:35"]
+[WhiteElo "1671"]
+[BlackElo "1980"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+[ECO "A40"]
+[Opening "Modern Defense"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. d4 g6 2. g3 Bg7 3. Bg2 c5 4. Nf3 cxd4 5. Nxd4 Nc6 6. c3 Qb6 7. Nxc6 bxc6 8. O-O d6 9. Qb3 Qxb3 10. axb3 Bd7 11. b4 Nf6 12. Bg5 O-O 13. Nd2 Rfb8 14. Nb3 a6 15. Nd4 Nd5 16. Nb3 f6 17. Bd2 Kf8 18. e4 Nc7 19. Be3 Ne6 20. Rfd1 Ke8 21. Na5 Kd8 22. f4 Kc7 23. f5 Nd8 24. g4 Nb7 25. Nb3 c5 26. bxc5 dxc5 27. Bxc5 Nxc5 28. Nxc5 Bc6 29. Ne6+ Kc8 30. Nxg7 Rxb2 31. fxg6 hxg6 32. Ne6 f5 33. gxf5 gxf5 34. Nd4 Bb7 35. Nxf5 Rxg2+ 36. Kxg2 Bxe4+ 37. Kg3 Bxf5 38. Rf1 e6 39. Kf4 Kc7 40. Ke5 Kb6 41. Rfd1 Rh8 42. Rd6+ Kc7 43. Rdxa6 Rxh2 44. Rc1 Rh5 45. Kd4 Rh4+ 46. Ke5 Re4+ 47. Kf6 Rc4 48. Ra3 Bh3 49. Rh1 Rf4+ 50. Ke5 Rf3 51. Ke4 Rg3 52. Kf4 Rd3 53. Ke4 Bf5+ 54. Ke5 Kc6 55. Rh6 Kc5 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/d3IlBPfP"]
+[White "Elements4"]
+[Black "ibrahimbaysaal"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:49"]
+[WhiteElo "1030"]
+[BlackElo "1247"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[ECO "C20"]
+[Opening "King's Pawn Game"]
+[TimeControl "900+5"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.32] } 1... e5 { [%eval 0.43] } 2. Nh3?! { [%eval -0.52] } 2... Nf6 { [%eval -0.55] } 3. Bc4?! { [%eval -1.28] } 3... Nxe4 { [%eval -1.24] } 4. Qh5?! { [%eval -1.84] } 4... Nd6? { [%eval -0.08] } 5. Qxe5+ { [%eval -0.11] } 5... Qe7 { [%eval -0.14] } 6. Bxf7+?? { [%eval -3.23] } 6... Nxf7 { [%eval -3.16] } 7. Qxe7+ { [%eval -3.21] } 7... Bxe7 { [%eval -3.34] } 8. Nf4 { [%eval -3.44] } 8... O-O { [%eval -3.25] } 9. Nc3 { [%eval -3.45] } 9... Re8 { [%eval -3.21] } 10. d4 { [%eval -3.59] } 10... Bg5+ { [%eval -3.14] } 11. Be3?? { [%eval -6.72] } 11... Nc6?? { [%eval -1.82] } 12. f3?? { [%eval -9.11] } 12... Rxe3+ { [%eval -8.79] } 13. Nfe2 { [%eval -8.84] } 13... Re6?? { [%eval -5.58] } 14. O-O? { [%eval -8.54] } 14... Re8?! { [%eval -7.64] } 15. Rae1 { [%eval -7.86] } 15... d5? { [%eval -5.82] } 16. f4? { [%eval -7.43] } 16... Bh4 { [%eval -7.24] } 17. g3 { [%eval -7.3] } 17... Bf6?! { [%eval -6.65] } 18. g4?? { [%eval -11.33] } 18... Bh4 { [%eval -9.75] } 19. Rd1 { [%eval -11.43] } 19... Bxg4 { [%eval -11.17] } 20. Nc1 { [%eval -13.14] } 20... Bxd1 { [%eval -12.97] } 21. Rxd1 { [%eval -12.86] } 21... Re1+ { [%eval -11.2] } 0-1
+

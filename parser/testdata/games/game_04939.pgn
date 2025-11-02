@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/uLblqiuU"]
+[White "angelrc"]
+[Black "magix56"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:01"]
+[WhiteElo "1359"]
+[BlackElo "1306"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-27"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. cxd5 Qxd5 4. Nf3 Nc6 5. Nc3 Qf5 6. Bg5 f6 7. Bh4 a5 8. e3 g5 9. Bd3 Qg4 10. h3 Qxg2 11. Rh2 Qxh2 12. Nxh2 gxh4 13. Qh5+ Ke7 14. Qxh4 Nb4 15. Bxh7 Nc2+ 16. Kd2 Nxa1 17. Qe4 f5 18. Qh4+ Ke8 19. Nb5 Kd7 20. Qh5 Bb4+ 21. Kd3 c6 22. Qf7+ Ne7 23. Nc3 Re8 24. Bg6 b6 25. Qxe8+ Kd6 26. Qd8+ Bd7 27. Qxa8 Nxg6 28. a3 Bxc3 29. bxc3 Nb3 30. Qb8+ Ke7 31. Qxb6 a4 32. Qa7 f4 33. Qxa4 Nc1+ 34. Kc4 fxe3 35. fxe3 Ne2 36. Qa7 e5 37. Ng4 exd4 38. cxd4 Kd6 39. Ne5 Nxe5+ 40. dxe5+ Ke6 41. Qc7 Ng3 42. Kd4 Nf5+ 43. Ke4 Ng3+ 44. Kd3 Nf5 45. a4 Ng3 46. Qd6+ Kf5 47. Qxd7+ Kg5 48. Qxc6 Nf5 49. Qf6+ Kh5 50. Qxf5+ Kh4 51. e6 Kg3 52. e7 1-0
+

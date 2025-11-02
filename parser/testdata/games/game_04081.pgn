@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DKemHykY"]
+[White "akbk"]
+[Black "empiezo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:36"]
+[WhiteElo "1501"]
+[BlackElo "1449"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+13"]
+[ECO "C41"]
+[Opening "Philidor Defense #4"]
+[TimeControl "240+3"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. d4 exd4 5. Nxd4 Nf6 6. Nc3 O-O 7. O-O Bd7 8. f4 Nc6 9. Nf3 Bg4 10. a3 Na5 11. Ba2 b5 12. b4 Nc4 13. Bxc4 bxc4 14. Qd4 Bxf3 15. Rxf3 Nd7 16. Qxc4 Bf6 17. Bb2 Nb6 18. Qd3 Re8 19. Rb1 a5 20. b5 a4 21. Nd5 Nxd5 22. Qxd5 Bxb2 23. Rxb2 Qf6 24. e5 dxe5 25. fxe5 Qg5 26. Qxf7+ Kh8 27. Rb1 Qxe5 28. Rbf1 h6 29. c4 Qd4+ 30. Kh1 Rf8 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/C0NpBCN4"]
+[White "Grass_Mud_Horse"]
+[Black "rude2cool"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:05"]
+[WhiteElo "1554"]
+[BlackElo "1583"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+9"]
+[ECO "B09"]
+[Opening "Pirc Defense: Austrian Attack"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.15] } 1... d6 { [%eval 0.48] } 2. d4 { [%eval 0.43] } 2... Nf6 { [%eval 0.41] } 3. Nc3 { [%eval 0.41] } 3... g6 { [%eval 0.67] } 4. f4 { [%eval 0.41] } 4... Bg7 { [%eval 0.39] } 5. Nf3 { [%eval 0.45] } 5... a6 { [%eval 0.64] } 6. e5 { [%eval 0.63] } 6... dxe5 { [%eval 0.89] } 7. fxe5 { [%eval 0.87] } 7... Ng4?! { [%eval 1.86] } 8. Bc4? { [%eval 0.56] } 8... O-O?! { [%eval 1.5] } 9. Ng5? { [%eval -0.07] } 9... e6?? { [%eval 4.22] } 10. Qxg4 { [%eval 4.03] } 10... Nc6?! { [%eval 4.56] } 11. d5?? { [%eval 0.0] } 11... Nxe5 { [%eval 0.37] } 12. Qh4?! { [%eval -0.46] } 12... h6 { [%eval -0.31] } 13. dxe6? { [%eval -1.45] } 13... Nxc4 { [%eval -1.21] } 14. exf7+? { [%eval -2.97] } 14... Rxf7 { [%eval -3.0] } 15. Qxc4 { [%eval -3.05] } 15... hxg5 { [%eval -2.51] } 16. Rf1? { [%eval -3.87] } 16... Qe7+ { [%eval -3.66] } 17. Ne2? { [%eval -5.04] } 17... Be6 { [%eval -4.71] } 18. Qd3?! { [%eval -5.62] } 18... Bf5 { [%eval -5.44] } 19. Qc4? { [%eval -7.21] } 19... Re8? { [%eval -4.99] } 20. g4?? { [%eval -15.4] } 20... b5 { [%eval -14.8] } 21. Qxf7+ { [%eval -15.26] } 21... Qxf7 { [%eval -14.35] } 22. Bxg5 { [%eval -22.34] } 22... Qe6 { [%eval -19.21] } 23. O-O-O { [%eval -23.34] } 23... Bxg4 { [%eval -14.17] } 24. Nd4 { [%eval -15.29] } 24... Bxd4 { [%eval -14.31] } 25. Rxd4 { [%eval -13.37] } 25... Qe5?? { [%eval -2.25] } 26. Rd8?? { [%eval #-10] } 26... Rxd8?! { [%eval -16.48] } 27. Bxd8 { [%eval -15.06] } 27... Qe3+ { [%eval -9.87] } 28. Kb1 { [%eval -9.37] } 28... Qe2? { [%eval -6.57] } 29. Rc1 { [%eval -6.52] } 29... c5 { [%eval -6.17] } 30. Bb6 { [%eval -6.51] } 30... c4 { [%eval -6.15] } 31. Rg1? { [%eval -7.9] } 31... Bf5 { [%eval -6.95] } 32. h4?? { [%eval #-4] } 32... Qxc2+ { [%eval #-3] } 0-1
+

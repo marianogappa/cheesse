@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jKonUbMc"]
+[White "xXDreicoXx"]
+[Black "Vuko"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:15"]
+[WhiteElo "1347"]
+[BlackElo "1343"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 d6 4. d4 Nxd4 5. Nxd4 cxd4 6. Qxd4 e5 7. Qa4+ Bd7 8. Qb3 Nf6 9. Qxb7 Be7 10. Bb5 Bxb5 11. Qxb5+ Nd7 12. Nd5 O-O 13. O-O Nc5 14. Be3 Nxe4 15. Qc4 Nf6 16. Nxf6+ Bxf6 17. Rad1 Be7 18. a4 Rc8 19. Qg4 Rxc2 20. Bxa7 Rxb2 21. Rb1 Rxb1 22. Rxb1 Qa5 23. h3 Qxa7 24. Ra1 g6 25. a5 h5 26. Qc4 Qd4 27. Qb5 Bd8 28. a6 Qxa1+ 29. Kh2 d5 30. Qb7 d4 31. a7 Bf6 32. g4 e4 33. gxh5 Be5+ 34. Kg2 d3 35. Qe7 Bd4 36. hxg6 Bxa7 37. gxf7+ Rxf7 38. Qg5+ Rg7 39. Qxg7+ Kxg7 40. h4 d2 41. Kg3 d1=Q 42. Kf4 Qd2+ 43. Kg4 Qa3 44. h5 Qxf2 45. Kg5 Qag3# 0-1
+

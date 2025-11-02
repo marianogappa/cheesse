@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/fcywPgRN"]
+[White "davinci123a"]
+[Black "Vudu"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:11"]
+[WhiteElo "1306"]
+[BlackElo "1267"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-11"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Ne7 3. Qxe5 d6 4. Qf4 Ng6 5. Qf3 Qe7 6. Bb5+ c6 7. Bc4 Ne5 8. Qc3 f5 9. d4 Nxc4 10. Qxc4 Qxe4+ 11. Ne2 Be7 12. f3 Qh4+ 13. g3 Qf6 14. O-O d5 15. Qd3 O-O 16. h4 Bd6 17. Bg5 Qg6 18. f4 h6 19. h5 Qh7 20. Bh4 g5 21. fxg5 hxg5 22. Bxg5 Qxh5 23. Bc1 Qh3 24. Bf4 Bb4 25. c3 Ba5 26. b4 Bb6 27. Kf2 Qh2+ 28. Kf3 Be6 29. Na3 Nd7 30. Rh1 Ne5+ 31. Ke3 Qg2 32. Bxe5 Qe4+ 33. Qxe4 dxe4 34. Bd6 Rfd8 35. Bf4 c5 36. dxc5 Rd3+ 37. Kf2 Rf3+ 38. Ke1 Bd8 39. Rf1 Rd3 40. Rd1 b6 41. Rxd3 exd3 42. Nc1 Bc4 43. Rf3 Bd5 44. Rxd3 Bf3 45. Rxf3 Bc7 46. Bxc7 Re8+ 47. Kd2 1-0
+

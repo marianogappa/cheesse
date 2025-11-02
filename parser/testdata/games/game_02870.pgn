@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5Vze1qEt"]
+[White "TheGentholet008"]
+[Black "iceteper"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:45"]
+[WhiteElo "1415"]
+[BlackElo "1373"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "C21"]
+[Opening "Center Game: Kieseritzky Variation #4"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 c5 4. Bc4 d6 5. Ng5 Nh6 6. Qf3 Be6 7. Bxe6 fxe6 8. Nxe6 Qf6 9. Qxf6 gxf6 10. Nc7+ Kd8 11. Nxa8 Ng4 12. O-O Nc6 13. Bf4 Nb4 14. Na3 Nxc2 15. Nxc2 1-0
+

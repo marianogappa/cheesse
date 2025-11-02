@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zXlDgjlz"]
+[White "fsamelo"]
+[Black "kazlatan"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:02"]
+[WhiteElo "2187"]
+[BlackElo "2222"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "A56"]
+[Opening "Vulture Defense"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 c5 3. d5 Ne4 4. Qc2 Qa5+ 5. Nd2 f5 6. g3 g6 7. Bg2 Nd6 8. Nf3 Bg7 9. O-O Na6 10. Rb1 Qxa2 11. e4 O-O 12. Ne1 Nb4 13. Qd1 fxe4 14. Nxe4 Qxb1 15. Nxc5 Nxc4 16. Ned3 Nxd3 17. Nxd3 d6 18. Qb3 Na5 19. Qb5 a6 20. Qxa5 Qxd3 21. Bg5 Bf6 22. Bh6 Re8 23. Qc7 Bg4 24. Qxb7 Rab8 25. Qd7 Bxd7 0-1
+

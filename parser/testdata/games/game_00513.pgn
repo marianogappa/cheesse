@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UXaAzDUO"]
+[White "MS_Love"]
+[Black "patroklos1048"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:54"]
+[WhiteElo "2008"]
+[BlackElo "2030"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "B07"]
+[Opening "King's Pawn Game: Maroczy Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 e5 3. Nc3 exd4 4. Qxd4 Nf6 5. Bg5 Be7 6. Nf3 O-O 7. Qd2 a6 8. Bd3 b5 9. a3 Bg4 10. Nd4 c5 11. Nf5 Bxf5 12. exf5 c4 13. Be2 d5 14. Bf3 Ne4 15. Nxe4 Bxg5 16. Nxg5 Re8+ 17. Kd1 h6 18. Bxd5 Ra7 19. h4 hxg5 20. hxg5 Rd7 21. Kc1 Rxd5 22. Qf4 Rd4 23. Qf3 Qxg5+ 24. Kb1 Rde4 25. Ka2 Rh4 26. g4 Nd7 27. Rxh4 Qxh4 28. Rh1 Qg5 29. Qh3 f6 30. Qh8+ Kf7 31. Qh3 Ne5 32. Rd1 Qxg4 33. Rd7+ Kg8 34. Qxg4 Nxg4 35. Ra7 Nxf2 36. Rxa6 Ne4 37. Rb6 Ng3 38. Rxb5 Nxf5 39. a4 Re5 40. a5 Rxb5 41. Ka3 Rxa5+ 42. Kb4 Ra8 43. Kxc4 Rc8+ 44. Kb3 Nd6 45. Ka2 Nb5 46. c3 Nxc3+ 47. bxc3 Rxc3 48. Kb2 Re3 49. Kc2 f5 50. Kd2 f4 51. Kd1 g5 52. Kd2 g4 53. Kd1 g3 54. Kd2 g2 0-1
+

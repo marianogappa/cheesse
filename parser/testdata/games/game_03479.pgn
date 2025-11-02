@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/4LkNMQHo"]
+[White "evanrunburg"]
+[Black "charmandcolor"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:17"]
+[WhiteElo "1516"]
+[BlackElo "1479"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "B54"]
+[Opening "Sicilian Defense #2"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nc6 5. c3 a6 6. Be2 Nf6 7. Nd2 g6 8. O-O Bd7 9. b4 Bg7 10. Bb2 Nxd4 11. cxd4 Rc8 12. Nf3 Nxe4 13. Qb3 O-O 14. Bc4 e6 15. d5 Bxb2 16. Qxb2 Rxc4 17. dxe6 Bxe6 18. Rad1 b5 19. Ne5 Qc7 20. Nxc4 Bxc4 21. Rc1 Qa7 22. Rfd1 d5 23. Ra1 Re8 24. a4 bxa4 25. Rxa4 Bb5 26. Ra5 Rd8 27. Qd4 Qxd4 28. Rxd4 Nc3 29. Kh1 Re8 30. Ra3 Re1# 0-1
+

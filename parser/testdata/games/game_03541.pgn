@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/q962UAm2"]
+[White "kama"]
+[Black "LONGERRS"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:23"]
+[WhiteElo "1144"]
+[BlackElo "851"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+[ECO "C47"]
+[Opening "Four Knights Game: Scotch Variation Accepted"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 e5 3. d4 Nc6 4. Nf3 exd4 5. Nxd4 Bc5 6. Nxc6 bxc6 7. Qe2 g6 8. e5 Ng8 9. b3 f6 10. Bb2 fxe5 11. Qxe5+ Ne7 12. Qxh8+ Kf7 13. Qxh7+ Kf6 14. Nb5+ Ke6 15. Qxg6+ Nxg6 16. Bc4+ Kf5 17. Nd4+ Kf6 18. Nxc6+ Kg5 19. Nxd8 d6 20. O-O-O Nf4 21. Nf7+ Kg6 22. Rd2 Nxg2 23. Bd3+ Kxf7 24. Rg1 Ne3 25. Rg7+ Ke8 26. Bg6+ Kd8 27. Bf6# 1-0
+

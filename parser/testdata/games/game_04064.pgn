@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RfYq39Y8"]
+[White "patpat1234"]
+[Black "donatello9"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:30"]
+[WhiteElo "1553"]
+[BlackElo "1533"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Nimzowitsch System"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d5 3. e5 e6 4. d4 cxd4 5. Nxd4 Nc6 6. Bb5 Bd7 7. Bxc6 bxc6 8. O-O c5 9. Nf3 Ne7 10. b3 Ng6 11. Re1 Be7 12. c4 d4 13. g3 O-O 14. Bf4 Bc6 15. Nbd2 Nxf4 16. gxf4 f5 17. Qe2 h6 18. Nf1 Bxf3 19. Qxf3 Qe8 20. Ng3 g5 21. Qh5 Qxh5 22. Nxh5 gxf4 23. Nxf4 Bg5 24. Nxe6 Rf7 25. Nxc5 Rg7 26. Ne6 Rg6 27. Nxd4 Be3+ 28. Kh1 Bxd4 29. e6 Bxa1 30. e7 Re8 0-1
+

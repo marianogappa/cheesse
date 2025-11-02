@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7qYMfrZa"]
+[White "murateren"]
+[Black "DennisMadrigal"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:20"]
+[WhiteElo "2102"]
+[BlackElo "2117"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "D06"]
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 Qxd5 4. Nc3 Qa5 5. Nf3 c6 6. Bg5 Bg4 7. Bxf6 gxf6 8. e4 Bh6 9. h3 Bh5 10. Bc4 Bg6 11. O-O Rg8 12. e5 Nd7 13. e6 fxe6 14. Bxe6 Rg7 15. d5 Bh5 16. dxc6 Bxf3 17. cxd7+ Kf8 18. Qxf3 Rd8 19. Qxb7 Qg5 20. f4 Qc5+ 21. Kh1 Qd6 22. Qe4 Rg3 23. Rad1 Qb6 24. Nd5 Qb8 25. Qxh7 Bg7 26. Qe4 Bh8 27. Qh7 Bg7 28. Qg8# 1-0
+

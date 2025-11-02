@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/qyzMTkct"]
+[White "megaserg86"]
+[Black "Enrof"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:08"]
+[WhiteElo "2082"]
+[BlackElo "1975"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+32"]
+[ECO "C21"]
+[Opening "Danish Gambit"]
+[TimeControl "0+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Nf3 c2 5. Qxc2 d6 6. a3 Nc6 7. Bd3 Bg4 8. Nc3 Nge7 9. Be3 g6 10. O-O Bg7 11. Kh1 O-O 12. Nd5 Nxd5 13. exd5 Ne5 14. Nxe5 Bxe5 15. f4 Bg7 16. f5 Qd7 17. Rae1 gxf5 18. Bxf5 Bxf5 19. Rxf5 Be5 20. Rg5+ Kh8 21. Bf2 f6 22. Rh5 Qg7 23. Bh4 Rg8 24. g3 Rae8 25. Qf5 Ref8 26. Qh3 Qg6 27. Rxh7+ Qxh7 28. Bxf6+ Rg7 29. Qxh7+ Kxh7 30. Bxg7 Kxg7 31. Kg2 Kg6 32. b4 Kg5 33. Rc1 Rc8 34. b5 Bd4 35. a4 Bc5 36. Rc4 Rf8 37. h4+ Kh5 38. Kh3 Rf3 39. Re4 Rf1 40. Re7 Bb6 41. Rh7+ Kg6 42. Rh8 Ra1 43. Kg4 Rxa4+ 44. Kh3 Kg7 45. Rh5 Rb4 46. Rg5+ Kf6 47. Rh5 Rxb5 48. g4 Rb3+ 49. Kg2 Kg6 50. Rf5 Rb2+ 51. Kf3 Rb1 52. h5+ Kg7 53. Kf4 Rf1+ 54. Kg5 Rxf5+ 55. Kxf5 Bd4 56. Ke6 a5 57. Kd7 Bb6 58. g5 a4 59. Ke6 a3 60. Kf5 a2 61. h6+ Kg8 62. g6 Bd4 63. Ke6 a1=Q 64. Kd7 Be3 65. Kxc7 Qb2 66. Kxd6 Qb6+ 67. Ke7 Qxg6 68. d6 Bc5 69. h7+ Kxh7 70. Kd7 Qxd6+ 71. Kc8 b6 72. Kb7 Qe7+ 73. Ka6 Bg1 74. Kb5 Qc5+ 75. Ka6 b5 76. Ka5 b4+ 77. Ka4 Qc3 78. Ka5 b3+ 79. Ka4 b2 80. Kb5 b1=R+ 81. Ka4 Qa1# 0-1
+

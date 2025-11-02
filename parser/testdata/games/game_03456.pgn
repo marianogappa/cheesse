@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/WfD55CGl"]
+[White "speddygonzalez"]
+[Black "glopezp25"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:00"]
+[WhiteElo "1375"]
+[BlackElo "1466"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+16"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.28] } 1... d5 { [%eval 0.58] } 2. exd5 { [%eval 0.62] } 2... Qxd5 { [%eval 0.84] } 3. Nc3 { [%eval 0.5] } 3... Qa5 { [%eval 0.77] } 4. d3?! { [%eval 0.08] } 4... e6 { [%eval 0.46] } 5. Bd2 { [%eval 0.39] } 5... c6 { [%eval 0.64] } 6. Nf3 { [%eval 0.53] } 6... Nf6 { [%eval 0.87] } 7. Ne4 { [%eval 0.85] } 7... Qd8 { [%eval 0.85] } 8. g3?! { [%eval 0.29] } 8... Nbd7 { [%eval 0.63] } 9. Bg2 { [%eval 0.29] } 9... Nxe4 { [%eval 0.31] } 10. dxe4 { [%eval 0.28] } 10... e5 { [%eval 0.46] } 11. Bh3 { [%eval 0.0] } 11... Bd6 { [%eval 0.25] } 12. Bg5 { [%eval 0.0] } 12... Nf6 { [%eval 0.18] } 13. Bxf6 { [%eval 0.1] } 13... Qxf6 { [%eval 0.04] } 14. Bf1?! { [%eval -0.78] } 14... Bg4 { [%eval -0.85] } 15. Be2? { [%eval -2.24] } 15... Rd8 { [%eval -2.16] } 16. Qd2?? { [%eval -5.2] } 16... Bxf3 { [%eval -5.06] } 17. O-O?! { [%eval -5.83] } 17... Bb4? { [%eval -3.99] } 18. Qxb4 { [%eval -4.08] } 18... Bxe2 { [%eval -3.97] } 19. Rfe1 { [%eval -3.96] } 19... Bf3?! { [%eval -3.22] } 20. Qb3? { [%eval -4.58] } 20... Rd4 { [%eval -4.31] } 21. Re3 { [%eval -4.19] } 21... Bxe4? { [%eval -1.3] } 22. Qxb7?? { [%eval -4.44] } 22... Bxc2? { [%eval -2.91] } 23. Qxc6+?? { [%eval -17.54] } 23... Qxc6 { [%eval -16.99] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Q3t4Wpzf"]
+[White "iMinichrispy"]
+[Black "MrPantz"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:56"]
+[WhiteElo "1663"]
+[BlackElo "1582"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 g6 4. a3 Bg7 5. d3 Nc6 6. Nc3 e6 7. h3 Nge7 8. Be3 Qb6 9. Qc1 O-O 10. Bh6 Rd8 11. Bxg7 Kxg7 12. h4 h5 13. g4 hxg4 14. Ng1 Ng8 15. h5 d5 16. h6+ Kh7 17. exd5 exd5 18. Bxd5 Re8+ 19. Nge2 Nd4 20. Bxf7 Nxe2 21. Nxe2 Re7 22. Bxg8+ Kxg8 23. b3 Bf5 24. Qg5 Rae8 25. h7+ Kh8 26. O-O-O Rxe2 27. Kb2 c4 28. Rd2 cxb3 29. cxb3 Qd4+ 30. Ka2 Qxf2 31. Rd1 Rxd2+ 32. Rxd2 Re2 33. Qf6+ Kxh7 34. Qf7+ Kh6 35. Rxe2 Qxe2+ 36. Kb1 Bxd3+ 37. Kc1 Qc2# 0-1
+

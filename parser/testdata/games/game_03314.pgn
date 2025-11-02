@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GWxODeSt"]
+[White "nazarokoko"]
+[Black "HUAYTR"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:35"]
+[WhiteElo "1418"]
+[BlackElo "1481"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf, Lipnitsky Attack"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 a6 5. Bc4 Nf6 6. Nc3 Nc6 7. Bg5 Nxd4 8. Qxd4 e5 9. Qd2 Be7 10. O-O-O b5 11. Bb3 b4 12. Bxf6 bxc3 13. Qxc3 Bxf6 14. Qc6+ Bd7 15. Qxd6 1-0
+

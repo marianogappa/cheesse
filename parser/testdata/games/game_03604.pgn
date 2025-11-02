@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/09W52UCu"]
+[White "zizonaz"]
+[Black "MarioCrippa"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:41"]
+[WhiteElo "1875"]
+[BlackElo "1902"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 e6 4. c3 a6 5. d4 cxd4 6. cxd4 d5 7. exd5 exd5 8. Bb3 Nf6 9. Nc3 Bb4 10. O-O O-O 11. Qd3 Re8 12. Bg5 h6 13. Bxf6 Qxf6 14. Bc2 Bxc3 15. Qh7+ Kf8 16. bxc3 Ke7 17. Rfe1+ Be6 18. Ne5 Nxe5 19. dxe5 Qg5 20. Qd3 b5 21. Qd4 Kf8 22. f4 Qg4 23. Re3 g5 24. fxg5 Qxd4 25. cxd4 hxg5 26. Rf3 Rac8 27. Bg6 Rc4 28. Raf1 Re7 29. Rd1 Rec7 30. h3 Kg7 31. Bh5 Rc1 32. Rxc1 Rxc1+ 33. Kh2 Rc4 34. Rd3 Bf5 35. Rd2 Be4 36. Bd1 a5 37. Kg3 b4 38. h4 gxh4+ 39. Kxh4 Rc3 40. Bg4 f5 41. Bd1 Kf7 42. g4 fxg4 43. Kxg4 Ke6 44. Kg5 Rg3+ 45. Kf4 Rg1 46. Bg4+ Ke7 47. e6 a4 48. Rh2 b3 49. axb3 axb3 50. Rb2 Bc2 51. Bh3 Rb1 52. Rxb1 Bxb1 53. Ke3 b2 0-1
+

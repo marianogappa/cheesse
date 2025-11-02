@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DuCkXY0c"]
+[White "jowil"]
+[Black "CWSSB"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:17"]
+[WhiteElo "1423"]
+[BlackElo "1378"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bc4 Qf6 4. Qf5 Bc5 5. Qxf6 Nxf6 6. c3 Nxe4 7. f3 Nf2 8. d4 exd4 9. Kxf2 dxc3+ 10. Kg3 cxb2 11. Bxb2 O-O 12. Ne2 Re8 13. Re1 Ne5 14. Nf4 Bd6 15. Bb3 h6 16. Nd3 Kh8 17. Nxe5 Bxe5+ 18. Rxe5 Rxe5 19. Bxe5 d6 20. Bd4 c5 21. Bc3 b5 22. Bxf7 b4 23. Bb2 Bf5 24. Nd2 Rf8 25. Bb3 Bd3 26. Rd1 Ba6 27. Bc4 Bxc4 28. Nxc4 a5 29. Rxd6 a4 30. Rd7 Rc8 31. Bxg7+ Kg8 32. Nb6 Rc6 33. Nxa4 c4 34. Kg4 c3 35. Be5 c2 36. Bf4 c1=Q 37. Bxc1 Rxc1 38. Kh5 Rc4 39. Nb2 Rc2 40. Kg6 Kf8 41. Nd3 b3 42. axb3 Rc6+ 43. Kf5 Ke8 44. Rh7 Rc3 45. Ne5 Rxb3 46. Ke6 Rb6+ 47. Kf5 Rf6+ 48. Kxf6 Kd8 49. Ke6 Kc8 50. Kd6 Kb8 51. Kc6 1-0
+

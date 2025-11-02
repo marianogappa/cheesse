@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/zGFS6qJY"]
+[White "Kasparovrussian"]
+[Black "hirotomo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:36"]
+[WhiteElo "1668"]
+[BlackElo "1616"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+24"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.35] } 1... c5 { [%eval 0.31] } 2. Nf3 { [%eval 0.27] } 2... Nc6 { [%eval 0.3] } 3. Nc3 { [%eval 0.29] } 3... g6 { [%eval 0.36] } 4. Bb5 { [%eval 0.28] } 4... Bg7 { [%eval 0.34] } 5. Nd5?! { [%eval -0.35] } 5... e6 { [%eval 0.01] } 6. Nf4?! { [%eval -0.54] } 6... Qb6 { [%eval -0.17] } 7. Qe2 { [%eval -0.43] } 7... a6 { [%eval -0.07] } 8. Ba4 { [%eval -0.49] } 8... Nge7 { [%eval -0.49] } 9. O-O { [%eval -0.55] } 9... O-O { [%eval -0.31] } 10. d3 { [%eval -0.37] } 10... d6 { [%eval -0.43] } 11. c3 { [%eval -0.45] } 11... e5 { [%eval -0.37] } 12. Nd5 { [%eval -0.39] } 12... Qd8 { [%eval 0.09] } 13. Bg5 { [%eval 0.12] } 13... f6 { [%eval 0.34] } 14. Be3?! { [%eval -0.27] } 14... Be6 { [%eval -0.15] } 15. Bb3 { [%eval -0.19] } 15... Kh8 { [%eval 0.11] } 16. h4 { [%eval -0.24] } 16... h5 { [%eval 0.18] } 17. Qd2 { [%eval -0.13] } 17... Qd7? { [%eval 2.13] } 18. Bh6? { [%eval -0.06] } 18... Rfe8? { [%eval 2.04] } 19. Bxg7+ { [%eval 1.84] } 19... Kxg7 { [%eval 1.91] } 20. Nxf6? { [%eval -0.03] } 20... Kxf6 { [%eval -0.22] } 21. Qg5+? { [%eval -2.52] } 21... Kg7 { [%eval -2.43] } 22. g4? { [%eval -4.79] } 22... Bxg4 { [%eval -4.67] } 23. Nh2?! { [%eval -5.2] } 23... Bh3?! { [%eval -4.54] } 24. Rfe1 { [%eval -4.57] } 24... Rf8 { [%eval -4.35] } 25. a3?! { [%eval -5.27] } 25... b5? { [%eval -4.03] } 26. f4? { [%eval -6.85] } 26... Rxf4?! { [%eval -5.89] } 27. Re3?! { [%eval -6.7] } 27... Raf8?! { [%eval -5.98] } 28. Rg3? { [%eval -7.94] } 28... Bg4? { [%eval -6.28] } 29. Qxg4?? { [%eval -15.52] } 29... Rxg4 { [%eval -12.43] } 30. Rxg4 { [%eval -16.62] } 30... Rf4 { [%eval -9.89] } 31. Re1 { [%eval -18.85] } 31... Rxg4+ { [%eval -18.59] } 32. Nxg4 { [%eval -18.49] } 32... Qxg4+ { [%eval -18.0] } 33. Kf2 { [%eval -18.83] } 33... c4 { [%eval -16.32] } 0-1
+

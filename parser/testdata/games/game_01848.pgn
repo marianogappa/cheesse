@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/3G4cJCRO"]
+[White "IVIED"]
+[Black "Schmu"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:55"]
+[WhiteElo "1524"]
+[BlackElo "1255"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. Bf4 g6 3. Nc3 Ne7 4. Nb5 Bg7 5. Nxc7+ Qxc7 6. Bxc7 O-O 7. Bxb8 b6 8. Nf3 Rxb8 9. e3 Ba6 10. Bxa6 d5 11. Qd3 Rbc8 12. Ne5 Rc7 13. Qb5 f6 14. Nd7 Rf7 15. O-O Rxc2 16. Rfc1 f5 17. Rxc2 Bf6 18. Rc7 Kg7 19. Rxa7 Ng8 20. Qxb6 h5 21. Nxf6 Kxf6 22. Rxf7+ 1-0
+

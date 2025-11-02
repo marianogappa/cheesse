@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/DZ5c8POS"]
+[White "mabrown86"]
+[Black "Batdog"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:57"]
+[WhiteElo "1555"]
+[BlackElo "1583"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[TimeControl "480+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Qf6 4. Bg5 Qg6 5. dxe5 Qxe4+ 6. Qe2 Qb4+ 7. Nc3 Qxb2 8. Bc1 Qxc3+ 0-1
+

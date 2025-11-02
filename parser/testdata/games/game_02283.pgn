@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DdnaFX68"]
+[White "ytrer"]
+[Black "ykt_sakha"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:39"]
+[WhiteElo "1488"]
+[BlackElo "1434"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C44"]
+[Opening "Ponziani Opening: Jaenisch Counterattack"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. Bd3 Bc5 5. O-O a6 6. h3 d6 7. Bc2 Be6 8. d4 Ba7 9. d5 Bxh3 10. gxh3 Ne7 11. Kh2 Ng6 12. Rg1 Qd7 13. Qf1 O-O-O 14. Bg5 Nf4 15. Bxf4 exf4 16. Nbd2 g5 17. Nxg5 Rhg8 18. Rg2 h6 19. Ngf3 Rg6 20. Qe2 Rdg8 21. Rag1 R8g7 22. Nh4 Rg5 23. Nf5 R7g6 24. Nf3 Rxg2+ 25. Rxg2 Nh5 26. Rxg6 fxg6 27. Nxh6 g5 28. Ng4 Qh7 29. Nxg5 Qg6 30. Ne6 Ng7 31. Nxg7 Qxg7 32. Qf3 Qf7 33. Nh6 Qf6 34. Nf5 1-0
+

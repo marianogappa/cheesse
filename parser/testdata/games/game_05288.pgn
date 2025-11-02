@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qu8Td87r"]
+[White "jdcano1984"]
+[Black "Masbruto"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:22"]
+[WhiteElo "1702"]
+[BlackElo "1740"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+11"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. c3 Nc6 5. d4 Qb6 6. Na3 cxd4 7. cxd4 Bb4+ 8. Bd2 Nxd4 9. Bxb4 Qxb4+ 10. Qd2 Nxf3+ 11. gxf3 Qxd2+ 12. Kxd2 Ne7 13. Bb5+ Bd7 14. Bxd7+ Kxd7 15. Rhg1 a6 16. Rac1 g6 17. Nc2 Nf5 18. Ne3 Nh4 19. Ke2 Rac8 20. Rcd1 Rc6 21. Rg4 Nf5 22. Nxf5 exf5 23. Rgd4 Ke6 24. Rxd5 Rhc8 25. f4 h5 26. Rd7 R8c7 27. Rd8 Rc2+ 28. Kf3 Rxb2 29. R1d6+ Ke7 30. Rd3 Rxa2 31. Kg3 a5 32. h4 a4 33. Ra8 b6 34. Ra6 b5 35. Ra5 b4 36. Rd4 b3 37. Raxa4 Rxa4 38. Rxa4 Rb7 39. Rb4 Rxb4 0-1
+

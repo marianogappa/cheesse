@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/FBcurAUk"]
+[White "Babouchgrad"]
+[Black "dadu85"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:57"]
+[WhiteElo "1675"]
+[BlackElo "1685"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Ponziani Gambit"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 Nxe4 4. dxe5 Bc5 5. Bxf7+ Kf8 6. Qf3 Bxf2+ 7. Kf1 Ng5 8. Bxg5 Qxg5 9. Kxf2 d5 10. e6 Nc6 11. Nh3 Qh4+ 12. g3 Qd4+ 13. Kg2 Ne5 14. Bh5+ Nxf3 15. Bxf3 Bxe6 16. Nc3 Qd2+ 17. Be2 d4 18. Rhf1+ Ke7 19. Rad1 Qh6 20. Nd5+ Bxd5+ 21. Bf3 Bxf3+ 22. Rxf3 Qc6 23. Kf2 Rhf8 24. Nf4 Qxc2+ 0-1
+

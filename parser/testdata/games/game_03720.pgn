@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/G0eOGMBx"]
+[White "dastuck77"]
+[Black "smiks"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:11"]
+[WhiteElo "1619"]
+[BlackElo "1582"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "300+4"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. e3 e6 3. a3 Nf6 4. Nc3 Nc6 5. Nf3 a6 6. Bd3 Bd6 7. e4 dxe4 8. Nxe4 Nxe4 9. Bxe4 h6 10. Bxc6+ bxc6 11. O-O O-O 12. Be3 Bb7 13. Qd2 Qf6 14. c3 e5 15. dxe5 Bxe5 16. Nxe5 Qxe5 17. Bd4 Qf5 18. Qe2 c5 19. Bxg7 Kxg7 20. h3 Qg6 21. Qg4 Bc8 22. Qxg6+ fxg6 23. Rae1 c4 24. Re7+ Rf7 25. Rxf7+ Kxf7 26. Re1 Be6 27. a4 Rd8 28. Re2 Rd5 29. f4 Ra5 30. g4 Rxa4 31. Kg2 Ra5 32. Kg3 Rd5 33. Kg2 c6 34. Rf2 a5 35. Kg3 Rd3+ 36. Kg2 Bd5+ 37. Kh2 Rf3 38. Re2 Rxf4 39. Re5 Re4 40. Rxe4 Bxe4 41. Kg3 Kf6 42. Kf4 Bd3 43. h4 g5+ 44. hxg5+ hxg5+ 45. Kf3 Ke5 46. Ke3 Bf1 47. Kf3 c5 48. Ke3 Bh3 49. Kf3 Bxg4+ 50. Kxg4 Ke4 51. Kxg5 Kd3 52. Kf5 Kc2 53. Ke5 Kxb2 54. Kd5 Kxc3 55. Kxc5 Kb3 56. Kb5 c3 57. Kxa5 c2 58. Ka6 c1=Q 0-1
+

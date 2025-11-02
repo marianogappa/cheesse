@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/7cTCtGXt"]
+[White "buka_jnr"]
+[Black "angel5644"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:13"]
+[WhiteElo "1457"]
+[BlackElo "1534"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+8"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nf3 d6 3. Bc4 Bg7 4. d4 a6 5. e5 b5 6. Bd5 c6 7. Be4 d5 8. Bd3 Bg4 9. Bg5 Qd7 10. h3 Bf5 11. g4 Bxd3 12. Qxd3 e6 13. Nbd2 Qc7 14. Nb3 Nd7 15. Nc5 Nxc5 16. dxc5 Bxe5 17. Nxe5 Qxe5+ 18. Be3 Rd8 19. c3 Nf6 20. O-O Ne4 21. f4 Qc7 22. Bd4 Rg8 23. a4 Ke7 24. axb5 axb5 25. b3 Ra8 26. Be5 Rxa1 27. Bxc7 Rxf1+ 28. Kxf1 Ra8 29. Ke2 Ra2+ 30. Ke3 Rh2 31. Qb1 Rxh3+ 32. Kd4 Rh2 33. Qa1 Rd2+ 34. Ke5 f6# 0-1
+

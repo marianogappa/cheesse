@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4gpxr7dS"]
+[White "phlp87"]
+[Black "francescotoddy0613"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:51"]
+[WhiteElo "1646"]
+[BlackElo "1659"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B45"]
+[Opening "Sicilian Defense: Paulsen Variation, Normal Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.22] } 1... c5 { [%eval 0.27] } 2. Nf3 { [%eval 0.29] } 2... Nc6 { [%eval 0.43] } 3. d4 { [%eval 0.19] } 3... cxd4 { [%eval 0.34] } 4. Nxd4 { [%eval 0.33] } 4... e6 { [%eval 0.39] } 5. Nc3 { [%eval 0.3] } 5... Bc5 { [%eval 0.35] } 6. Nxc6 { [%eval 0.31] } 6... bxc6 { [%eval 0.3] } 7. f4?! { [%eval -0.2] } 7... Ne7 { [%eval -0.03] } 8. Qf3 { [%eval -0.28] } 8... Bb7 { [%eval 0.05] } 9. Be2 { [%eval -0.28] } 9... d5 { [%eval -0.4] } 10. Bd3 { [%eval -0.52] } 10... O-O { [%eval -0.47] } 11. Ne2?! { [%eval -1.36] } 11... Bb6 { [%eval -0.87] } 12. Qh5? { [%eval -1.98] } 12... g6 { [%eval -1.86] } 13. Qh3?! { [%eval -2.46] } 13... c5 { [%eval -2.06] } 14. exd5?! { [%eval -2.69] } 14... Bxd5?! { [%eval -1.72] } 15. Bd2? { [%eval -4.0] } 15... c4 { [%eval -3.8] } 16. Bc3? { [%eval -5.81] } 16... cxd3 { [%eval -5.67] } 17. Qh6?? { [%eval -16.33] } 17... Nf5 { [%eval -15.51] } 0-1
+

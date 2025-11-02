@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qjFfivrC"]
+[White "ibartok"]
+[Black "balack"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:28"]
+[WhiteElo "2173"]
+[BlackElo "2301"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Three Knights Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. e3 O-O 6. Bd3 dxc4 7. Bxc4 b6 8. O-O Bb7 9. Ne5 c5 10. Bb3 Nc6 11. Nxc6 Bxc6 12. Re1 Rc8 13. Qd3 Ba8 14. h3 h6 15. a4 Nd7 16. Bc2 f5 17. Bb3 Rf6 18. d5 c4 19. Bxc4 Ne5 20. Qe2 Nxc4 21. Rd1 e5 22. e4 Bc5 23. Kh2 Nd6 24. exf5 Rxf5 25. Be3 Qf6 26. Bxc5 Rxc5 27. f3 Rf4 28. Rd2 Bb7 29. Ne4 Nxe4 30. fxe4 Kh7 31. b4 Rc3 32. a5 Bc8 33. axb6 axb6 34. d6 Bd7 35. Ra7 Bxh3 36. gxh3 Rxh3+ 37. Kxh3 Qh4+ 38. Kg2 Rg4+ 39. Qxg4 Qxg4+ 40. Kf2 Qf4+ 41. Ke1 Qxe4+ 42. Kd1 Qb1+ 43. Ke2 Qe4+ 44. Kd1 Qg4+ 45. Kc1 Qc8+ 46. Rc2 Qb8 47. Rcc7 Kg6 48. Rxg7+ Kf5 49. Rgc7 Qg8 50. Rf7+ Ke4 51. Rf1 Qg5+ 52. Kb2 Qd2+ 53. Ka3 Qd3+ 54. Ka4 Qxf1 55. d7 Qd3 56. Rc7 b5+ 57. Ka5 Qd6 58. Rc3 Qxd7 59. Re3+ Kf5 60. Ka6 Ke6 0-1
+

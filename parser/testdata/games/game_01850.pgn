@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/fbSq05go"]
+[White "kintachezz"]
+[Black "Chess21000klm"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:49"]
+[WhiteElo "1333"]
+[BlackElo "1308"]
+[WhiteRatingDiff "-21"]
+[BlackRatingDiff "+11"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "1800+10"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.39] } 1... e5 { [%eval 0.32] } 2. Nf3 { [%eval 0.33] } 2... d6 { [%eval 0.32] } 3. d3 { [%eval 0.03] } 3... Nc6 { [%eval 0.24] } 4. Be2 { [%eval 0.24] } 4... d5 { [%eval 0.27] } 5. d4?! { [%eval -0.46] } 5... Nf6?! { [%eval 0.16] } 6. Bb5?! { [%eval -0.43] } 6... dxe4?! { [%eval 0.41] } 7. Nxe5 { [%eval 0.34] } 7... Bb4+? { [%eval 1.83] } 8. c3 { [%eval 1.76] } 8... Bd6 { [%eval 2.01] } 9. Nxc6 { [%eval 1.9] } 9... bxc6 { [%eval 1.94] } 10. Bxc6+ { [%eval 1.98] } 10... Bd7 { [%eval 1.98] } 11. Bxa8 { [%eval 1.89] } 11... Qxa8 { [%eval 1.9] } 12. O-O { [%eval 1.85] } 12... h6 { [%eval 2.32] } 13. Re1 { [%eval 2.1] } 13... Qd5 { [%eval 2.09] } 14. Nd2 { [%eval 1.95] } 14... Bc6? { [%eval 3.25] } 15. b4?! { [%eval 2.31] } 15... e3?! { [%eval 3.1] } 16. Rxe3+ { [%eval 3.13] } 16... Kd7 { [%eval 3.06] } 17. Nf3? { [%eval 1.56] } 17... Nh5?? { [%eval 5.93] } 18. Qe1? { [%eval 3.74] } 18... Nf4 { [%eval 4.2] } 19. Ba3? { [%eval 1.41] } 19... Nxg2 { [%eval 1.53] } 20. Kxg2 { [%eval 1.58] } 20... Qg5+ { [%eval 1.62] } 21. Kf1 { [%eval 1.37] } 21... Qf4?? { [%eval 7.2] } 22. Qd2?? { [%eval 1.43] } 22... Bxf3 { [%eval 1.18] } 23. c4?? { [%eval -2.16] } 23... Re8 { [%eval -1.68] } 24. Rae1?? { [%eval #-5] } 24... Qxh2 { [%eval #-4] } 25. Rxf3 { [%eval #-1] } 25... Qh1# 0-1
+

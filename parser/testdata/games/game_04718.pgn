@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/2Y8eXtN4"]
+[White "Djabby"]
+[Black "Scveik"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:11"]
+[WhiteElo "1277"]
+[BlackElo "1140"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+18"]
+[ECO "C47"]
+[Opening "Four Knights Game: Scotch Variation"]
+[TimeControl "600+5"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Nf3 e5 3. Nc3 Nf6 4. d4 d6 5. d5 Bg4 6. Be2 Nd4 7. Nxd4 exd4 8. Qxd4 Bxe2 9. Nxe2 c5 10. Qc3 Nxe4 11. Qe3 Qe7 12. f3 Nf6 13. Qxe7+ Bxe7 14. O-O Nxd5 15. Re1 Bh4 16. g3 Bf6 17. Nc3+ Be5 18. Nxd5 O-O 19. Bd2 Bxb2 20. Rab1 Bd4+ 21. Be3 Bxe3+ 22. Rxe3 b6 23. c4 a6 24. Rxb6 g6 25. Rxd6 Rab8 26. Rxa6 Rb1+ 27. Kg2 Rc1 28. Nf6+ Kg7 29. Nd7 Rc8 30. Ra4 Rc7 31. Ne5 Rb7 32. Nd3 Rc2+ 33. Kh3 h5 34. Nxc5 Rbb2 35. Nd3 Rxh2# 0-1
+

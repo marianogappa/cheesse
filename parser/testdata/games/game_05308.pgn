@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/V4byAUbc"]
+[White "Lifesaburrito"]
+[Black "SANMARPE"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:25"]
+[WhiteElo "1694"]
+[BlackElo "1807"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-15"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 c6 5. c3 Bd6 6. Bd3 Ne7 7. O-O Bf5 8. Re1 Bxd3 9. Qxd3 Qd7 10. Qe2 O-O 11. Bg5 f6 12. Bh4 Kf7 13. Bg3 Na6 14. Bxd6 Qxd6 15. Nbd2 Nc7 16. Nb3 Rfe8 17. Nc5 b6 18. Nd3 Rad8 19. Qd2 g5 20. Re2 h5 21. Rae1 Ng6 22. h3 Rxe2 23. Rxe2 Nf4 24. Nxf4 Qxf4 25. Qxf4 gxf4 26. Nh2 Ne6 27. Nf3 Ng5 28. Nh4 Ne4 29. f3 Ng3 30. Re1 Rd6 31. Kf2 Re6 32. Rxe6 Kxe6 33. b3 c5 34. Ng6 a5 35. Nxf4+ Kf5 36. Kxg3 h4+ 37. Kxh4 Kxf4 38. g3+ Kxf3 39. g4 Kf4 40. Kh5 cxd4 41. cxd4 Ke4 42. h4 Kxd4 43. g5 Ke5 44. gxf6 d4 45. f7 d3 46. f8=Q d2 47. Qd8 d1=Q+ 48. Qxd1 Ke4 49. Qd6 Kf3 50. Qxb6 a4 51. Qa5 axb3 52. axb3 Ke3 53. b4 Kd3 54. b5 Kd4 55. b6 Ke4 56. Qb4+ Kd5 57. b7 Kc6 58. b8=Q 1-0
+

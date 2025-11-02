@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/WxyQkC6t"]
+[White "chrisfabian"]
+[Black "JoachimEiben"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "1978"]
+[BlackElo "2035"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+11"]
+[ECO "A00"]
+[Opening "Grob Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. g4 g6 2. Bg2 Bg7 3. c4 d6 4. Qb3 c6 5. h3 e5 6. e3 Ne7 7. Nc3 O-O 8. d3 Nd7 9. Qc2 Nc5 10. b4 Nd7 11. Bb2 a6 12. a3 f5 13. g5 Qc7 14. h4 b6 15. h5 Bb7 16. hxg6 hxg6 17. Nge2 d5 18. Kd2 dxc4 19. dxc4 Rad8 20. Ke1 e4 21. Rd1 Ne5 22. Na2 Nd3+ 23. Kf1 Nxb2 24. Rxd8 Qxd8 25. Nac3 Nd3 26. Nf4 Nxf4 27. exf4 Qd3+ 28. Qxd3 exd3 29. Nd1 Rd8 30. Bf3 Nc8 31. Kg2 Nd6 32. Re1 Ne4 33. Bxe4 fxe4 34. Kg3 c5 35. Rg1 Bd4 36. Ne3 Bxe3 37. fxe3 d2 38. Rd1 cxb4 39. Kf2 bxa3 40. Ke2 0-1
+

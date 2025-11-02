@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/kHqu92vF"]
+[White "Buddel13"]
+[Black "Valentage"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:24"]
+[WhiteElo "1691"]
+[BlackElo "1796"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "C02"]
+[Opening "French Defense: Advance, Steinitz Variation"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e6 2. e5 d5 3. d4 c5 4. dxc5 Nc6 5. Nf3 Bxc5 6. Bb5 Bd7 7. Bg5 Qa5+ 8. Nc3 Nxe5 9. Bxd7+ Nxd7 10. O-O Ngf6 11. Re1 O-O 12. Ne5 Qc7 13. Nb5 Qb6 14. a4 Bxf2+ 15. Kh1 Bxe1 16. Qxe1 a6 17. Nc3 Rac8 18. Ra3 h6 19. Rb3 Qd4 20. Nxd7 Nxd7 21. Be3 Qe5 22. Bd2 Qxe1+ 23. Bxe1 Nc5 24. Rb4 a5 25. Rg4 Rfd8 26. Bd2 Kh8 27. Nb5 Ne4 28. Bxa5 Nf2+ 29. Kg1 Nxg4 30. Bxd8 Rxd8 31. h3 Ne3 32. c3 e5 33. Nc7 d4 34. Kf2 Nd1+ 35. Ke2 Nxb2 36. cxd4 exd4 37. a5 0-1
+

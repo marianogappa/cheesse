@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3jMaVlj1"]
+[White "peppiniello"]
+[Black "Biggyswa"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:12"]
+[WhiteElo "1319"]
+[BlackElo "1538"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "C46"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "480+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bb4 5. Ng5 d5 6. exd5 Na5 7. Qf3 Nxc4 8. d6 Bxc3 9. Qxc3 Nxd6 10. Qb3 O-O 11. d3 b6 12. O-O h6 13. Nf3 Be6 14. Qb4 e4 15. dxe4 Nfxe4 16. Ne5 Qe8 17. Bf4 Nf6 18. Rae1 Nd5 19. Qd4 Nf5 20. Qe4 f6 21. Nd3 Nxf4 22. Nxf4 Bd7 23. Ng6 Qxg6 24. Qd5+ Qf7 25. Qe4 Rae8 26. Qb7 Qc4 27. Qxa7 Qxc2 28. g3 Rxe1 29. Rxe1 Nd4 30. Re7 Nf3+ 31. Kg2 Qc6 0-1
+

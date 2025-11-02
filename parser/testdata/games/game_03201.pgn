@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/StAf84EY"]
+[White "tkls"]
+[Black "Bluekiller"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:03"]
+[WhiteElo "1105"]
+[BlackElo "2009"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+0"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense, Declined Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. Nf3 Nc6 2. e4 g6 3. h4 Bg7 4. c3 h5 5. Ng5 Nh6 6. f4 d5 7. f5 Qd6 8. fxg6 Qg3+ 9. Ke2 Bg4+ 10. Nf3 fxg6 11. Kd3 Ne5+ 12. Kd4 Nxf3+ 13. Kxd5 O-O-O+ 14. Kc5 Qd6+ 15. Kc4 Ne5+ 16. Kb3 Bxd1# 0-1
+

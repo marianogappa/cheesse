@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/kwD8ZKSt"]
+[White "TillyTornado"]
+[Black "bozigom"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:24"]
+[WhiteElo "1483"]
+[BlackElo "1552"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+9"]
+[ECO "C44"]
+[Opening "Scotch Game: Goering Gambit"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 Be7 5. cxd4 d6 6. Nc3 Bg4 7. Be2 Nf6 8. h3 Bh5 9. Be3 Qd7 10. a3 h6 11. Qc2 a6 12. g4 Bg6 13. Nd2 O-O 14. f4 d5 15. f5 Bh7 16. e5 Ne4 17. Ndxe4 dxe4 18. Qxe4 Bh4+ 19. Kf1 Rfe8 20. Rd1 Rab8 21. Nd5 Ne7 22. Nf4 Bg5 23. Kg2 Bxf4 24. Bxf4 Nd5 25. Kg3 c6 26. Bd3 Nxf4 27. Qxf4 b6 28. Rhf1 c5 29. Be4 cxd4 30. Rxd4 Qxd4 31. Rf3 Rxe5 32. Re3 Rbe8 33. Kf3 b5 34. g5 hxg5 35. Qxg5 Rxe4 36. Rxe4 Qxe4+ 0-1
+

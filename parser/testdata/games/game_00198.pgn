@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/ELewP0xz"]
+[White "rubengihr"]
+[Black "maverickden"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:36"]
+[WhiteElo "1844"]
+[BlackElo "1668"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[ECO "C67"]
+[Opening "Ruy Lopez: Berlin Defense, Rio Gambit Accepted"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 f6 6. dxe5 Nxe5 7. Nxe5 fxe5 8. Qh5+ g6 9. Qxe5+ Qe7 10. Qxh8 Nf6 11. Bd2 Kd8 12. Re1 1-0
+

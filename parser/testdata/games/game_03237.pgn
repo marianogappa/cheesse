@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ygFH1vjT"]
+[White "Chaman"]
+[Black "Tromto"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:15"]
+[WhiteElo "1420"]
+[BlackElo "1401"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. f4 c5 2. Nf3 Nc6 3. e3 d6 4. c3 g6 5. d4 Bg7 6. Bb5 Bd7 7. d5 Nb8 8. Bxd7+ Nxd7 9. O-O Ngf6 10. Nbd2 O-O 11. e4 a6 12. e5 dxe5 13. fxe5 Nh5 14. c4 f6 15. e6 Nb8 16. Ne4 b5 17. Nh4 g5 18. Nf5 Qe8 19. Nxg7 Kxg7 20. Qxh5 Qxh5 21. Nxg5 fxg5 22. Rxf8 Kxf8 23. Be3 Kg8 24. Rf1 Nc6 25. Bxc5 Nd4 26. Bxd4 Rf8 27. Re1 Rf7 28. Re5 Rf4 29. Rxg5+ Qxg5 30. h4 Qxh4 31. g3 Qxg3+ 0-1
+

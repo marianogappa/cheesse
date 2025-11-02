@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/3u9Sks6K"]
+[Site "https://lichess.org/Swzlwnnz"]
+[White "militarchess"]
+[Black "machisoldado"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:42"]
+[WhiteElo "1742"]
+[BlackElo "1824"]
+[WhiteRatingDiff "+55"]
+[BlackRatingDiff "-28"]
+[ECO "E61"]
+[Opening "King's Indian Defense"]
+[TimeControl "420+2"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Bf4 d6 5. e3 O-O 6. Bd3 Nbd7 7. Bg5 h6 8. Bh4 c6 9. f4 e5 10. dxe5 dxe5 11. Nf3 exf4 12. exf4 Re8+ 13. Ne2 Qb6 14. Bf2 Qb5 15. cxb5 Ng4 16. O-O Bxb2 17. Rb1 Bg7 18. Qb3 Ndf6 19. Bxg6 Be6 20. Qa4 fxg6 21. bxc6 bxc6 22. Rb7 Bd5 23. Rxa7 Rxa7 24. Qxa7 Nxf2 25. Rxf2 Ne4 26. Qd7 Rb8 27. Rf1 Bf8 28. Qc7 Bc5+ 29. Nfd4 Rb4 30. Qd8+ Kg7 31. Qd7+ Kg8 32. f5 Bxd4+ 33. Nxd4 Rxd4 34. fxg6 Rd2 35. Qh7# 1-0
+

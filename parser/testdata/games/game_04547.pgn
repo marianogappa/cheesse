@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/YHmUZfo6"]
+[White "Benjito"]
+[Black "trippinboris"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:27"]
+[WhiteElo "1810"]
+[BlackElo "1854"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 g6 3. Nc3 Nc6 4. Nf3 Bg7 5. O-O Nf6 6. d3 O-O 7. Be3 d6 8. Nd5 Ng4 9. Rb1 Nxe3 10. Nxe3 a6 11. Bb3 b5 12. a4 b4 13. Re1 Bb7 14. Nc4 Rb8 15. e5 dxe5 16. Ncxe5 Nxe5 17. Nxe5 Qc7 18. Nf3 Qc6 19. Rxe7 Rbe8 20. Rxe8 Rxe8 21. Qd2 Qf6 22. Bc4 Bxf3 23. gxf3 Qxf3 24. b3 Re2 0-1
+

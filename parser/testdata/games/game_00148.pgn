@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/LZ81U4W3"]
+[White "Laborg"]
+[Black "Crackpotrealist1"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:21"]
+[WhiteElo "1539"]
+[BlackElo "1267"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "E50"]
+[Opening "Nimzo-Indian Defense: 4.e3 e8g8, 5.Nf3, without ...d5"]
+[TimeControl "60+2"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 b6 6. Bd3 Bb7 7. O-O h6 8. Re1 d5 9. cxd5 Nxd5 10. Qc2 Nxc3 11. bxc3 Be7 12. e4 Nd7 13. a4 a5 14. Ba3 c5 15. dxc5 Nxc5 16. Bxc5 Bxc5 17. Bb5 Rc8 18. Rad1 Qe7 19. Rd7 Qf6 20. Rxb7 Rfd8 21. Rd7 Rf8 22. Red1 g5 23. e5 Qg7 24. h3 g4 25. hxg4 Qxg4 26. Qd2 Kh7 27. Qd3+ Kh8 28. Rd8 Rcxd8 29. Qxd8 Rxd8 30. Rxd8+ Kg7 31. Bd3 Qxa4 32. c4 Qa1+ 33. Bf1 Qa3 34. Rd3 Qa2 35. Rd2 Qa3 36. Rd3 Qb4 37. Rd2 a4 38. Ra2 a3 39. Nd2 Qb2 40. Rxb2 axb2 41. Bd3 Bb4 42. Nb1 Bc3 43. f4 Bxe5 44. fxe5 f6 45. exf6+ Kxf6 46. Kf2 1-0
+

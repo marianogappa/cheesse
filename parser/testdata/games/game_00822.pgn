@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/L1AYawSQ"]
+[White "sharky2017"]
+[Black "salvadordodo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:03"]
+[WhiteElo "1682"]
+[BlackElo "1695"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Krause Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 c5 3. dxc5 e6 4. a3 Nf6 5. Bg5 Nc6 6. e3 Bxc5 7. Bb5 O-O 8. O-O h6 9. Bh4 Be7 10. c4 dxc4 11. Bxc4 b6 12. Nc3 Bb7 13. b4 Nh7 14. Bg3 Bf6 15. Qc2 Qe7 16. Bd3 Ng5 17. Nxg5 Bxg5 18. Rad1 Bh4 19. Bf4 Bg5 20. Bg3 Bh4 21. Bf4 Bg5 22. Ne4 Bxf4 23. exf4 Nd4 24. Qc3 Bxe4 25. Bxe4 Nf5 26. Bxf5 exf5 27. Rfe1 Rac8 28. Qb3 Qh4 29. g3 Qh5 30. Rd5 g6 31. Rd7 g5 32. fxg5 Qxg5 33. Qf3 h5 34. Rd5 Rc1 35. Re5 Rxe1+ 36. Rxe1 h4 37. Re5 h3 38. Rxf5 Qc1+ 39. Qd1 0-1
+

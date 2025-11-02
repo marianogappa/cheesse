@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SzEHecA6"]
+[White "fghcc"]
+[Black "KredincruiZe"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:37"]
+[WhiteElo "1456"]
+[BlackElo "1476"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Nge2 Nc6 5. d4 Qd6 6. g3 Bf5 7. Bg2 Nf6 8. O-O e6 9. Bg5 O-O-O 10. Nb5 a6 11. Bxc6 Qxc6 12. Na7+ Kb8 13. Nxc6+ bxc6 14. Bxf6 gxf6 15. Qd2 Rd5 16. Nf4 Rb5 17. c4 Rb7 18. Qa5 Ka7 19. a4 Bb4 20. Qxf5 exf5 21. Nh5 Rd8 22. Nxf6 Rxd4 23. Nxh7 Rd2 24. b3 Bc5 25. Rab1 Rd3 26. Ng5 Rdxb3 27. Rxb3 Rxb3 28. Nxf7 Rb4 29. Nd8 Rxa4 30. Nxc6+ Kb6 31. Ne5 c6 32. h4 Bd4 33. Nd7+ Kc7 34. Nf8 Rxc4 35. Ne6+ Kd6 36. Nxd4 Rxd4 37. Ra1 f4 38. Rxa6 fxg3 39. fxg3 Rd2 40. Ra3 Ke6 41. Kf1 Kf6 42. Ke1 Rc2 43. Kd1 Rc5 44. Ke2 Kg6 45. Kf3 Kh5 46. Ra6 Rf5+ 47. Kg2 Kg4 48. Rxc6 Re5 49. Rc4+ Kh5 50. Kf3 Rf5+ 51. Rf4 Re5 52. Re4 Rc5 53. Kf4 Rc8 54. Re5+ Kh6 55. g4 Rc4+ 56. Kf5 Rc2 57. g5+ Kh5 58. g6 Kxh4 59. g7 Rg2 60. Kf6 1-0
+

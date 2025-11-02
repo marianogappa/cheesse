@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/YP82b5xZ"]
+[White "Jamie_C"]
+[Black "Mari003"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:04"]
+[WhiteElo "1488"]
+[BlackElo "1521"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation, Open"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 c5 3. Nf3 cxd4 4. Qxd4 Nc6 5. Qe3 b6 6. Bb5 Bc5 7. Qe2 Nd4 8. Nxd4 Bxd4 9. O-O a6 10. Ba4 a5 11. c3 Ba6 12. Qf3 Bxf1 13. Kxf1 Bf6 14. Nd2 Nh6 15. Nc4 O-O 16. Be3 g6 17. Bxh6 Bg7 18. Be3 Qc7 19. Nxb6 Rab8 20. Nxd7 Qxh2 21. g3 Qh3+ 22. Qg2 Qg4 23. Nxf8 Bxf8 24. f3 Qh5 25. Kf2 Qe5 26. Rh1 Qd6 27. Qh2 Rxb2+ 28. Kg1 Rxh2 29. Rxh2 Qxg3+ 30. Rg2 Qe1+ 31. Kh2 Qxe3 32. Bd1 Bd6+ 33. Kh1 Qxc3 34. a4 Qe1+ 35. Rg1 Qh4+ 36. Kg2 Bc5 37. Rh1 Qg5+ 38. Kf1 Qd8 39. Be2 Qd4 40. Rh2 Qxa4 41. Rg2 Qa1+ 0-1
+

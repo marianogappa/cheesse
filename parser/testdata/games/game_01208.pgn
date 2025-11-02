@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/YZb0lfL8"]
+[White "serhaTimur"]
+[Black "Nabeelchess"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:31"]
+[WhiteElo "2111"]
+[BlackElo "2120"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "D11"]
+[Opening "Slav Defense: Modern Line"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nf3 e6 4. g3 f5 5. c5 Nf6 0-1
+

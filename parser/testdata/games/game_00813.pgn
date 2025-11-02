@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/exruOAxb"]
+[White "Colby1965"]
+[Black "mikegriffin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:58"]
+[WhiteElo "1758"]
+[BlackElo "1726"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 h6 6. a3 O-O 7. b4 Bb6 8. b5 Nd4 9. Nxd4 Bxd4 10. c3 Bb6 11. a4 a5 12. bxa6 bxa6 13. a5 Ba7 14. Ba3 Re8 15. Kh1 c5 16. f4 d6 17. f5 Qxa5 18. Bb2 Qb6 19. Qb3 Qxb3 20. Bxb3 Bb8 21. Bc4 a5 22. h3 Nd7 23. g4 Nb6 24. Bb5 Rf8 25. f6 g5 26. Rf2 Bd7 27. Bxd7 Nxd7 28. Nd2 Bc7 29. Nc4 Bd8 30. Raf1 Ra6 31. Bc1 Kh7 32. Ne3 Rg8 33. Nd5 Rg6 34. c4 Ra7 35. Ne7 Nxf6 36. Nxg6 Kxg6 37. Bd2 Ng8 38. Kh2 f6 39. Kg3 a4 40. h4 a3 41. h5+ Kg7 42. Bc3 Ba5 43. Bxa5 Rxa5 44. Ra2 Ne7 45. Rfa1 Nc6 46. Rxa3 Rxa3 47. Rxa3 Kf7 48. Ra6 Nd4 49. Ra7+ Ke6 50. Rh7 Ne2+ 51. Kf3 Nf4 52. Rxh6 Nxd3 53. Rg6 Nf4 54. Rg8 Kf7 55. Rd8 Ke7 56. Ra8 Nd3 57. h6 Kf7 58. h7 Ne1+ 59. Kf2 1-0
+

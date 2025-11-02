@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/Y6lsCuLB"]
+[White "drybiedog"]
+[Black "gochica"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:22"]
+[WhiteElo "1662"]
+[BlackElo "2073"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation #2"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 Nf6 3. Nc3 d5 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Bb5 cxd4 8. Nxd4 Nxd4 9. Qxd4 a6 10. Bd3 b5 11. Qf2 b4 12. Na4 Qa5 13. b3 Nc5 14. Nxc5 Bxc5 15. Qf3 Bd4 16. Rb1 Qxa2 17. c4 bxc3 18. Qe2 Qxe2+ 19. Kxe2 Bd7 20. Bc2 Bb6 21. g4 Bb5+ 22. Bd3 d4 23. h4 Rc8 24. Ba3 Bc5 25. b4 Bb6 26. Rbc1 O-O 27. g5 Rfd8 28. h5 c2 29. g6 fxg6 30. hxg6 h6 31. Bxb5 axb5 32. Kd3 Rc3+ 33. Kd2 Rxa3 34. Rxc2 d3 35. Rc6 Ra2+ 36. Kc3 Be3 37. Rxe6 d2 38. Rd1 Bxf4 39. Kb3 Ra7 40. Kc3 Rc7+ 41. Kb3 Rc1 42. Rxd2 Bxd2 43. Re7 Bg5 44. e6 Bxe7 0-1
+

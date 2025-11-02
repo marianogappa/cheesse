@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/VNALuDJ1"]
+[White "kingsharkjr"]
+[Black "AligiereTensa"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:50"]
+[WhiteElo "1189"]
+[BlackElo "1241"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+19"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Bc5 3. Bc4 Bxf2+ 4. Kxf2 f6 5. Qe1 f5 6. Kf1 fxe4 7. Qxe4 Qg5 8. Nxe5 Qxe5 9. Qxe5+ Ne7 10. Kf2 d6 11. Rg1 dxe5 12. Re1 Bg4 13. Rxe5 c6 14. Bd5 cxd5 15. Rxd5 Be6 16. d4 Bxd5 17. Bg5 Nf5 18. Nc3 Nxd4 19. Nxd5 Nxc2 20. Be7 Nxa1 21. b4 Nd7 22. b5 Nb6 23. Nc7+ Kxe7 24. Nxa8 Nd5 25. a4 Nc7 0-1
+

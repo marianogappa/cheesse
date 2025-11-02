@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/UcBUfoZ9"]
+[White "H2FTW"]
+[Black "mohlo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:05"]
+[WhiteElo "1425"]
+[BlackElo "1477"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-12"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted"]
+[TimeControl "900+3"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. Bf4 Nc6 4. Nc3 Qxd4 5. Bxc7 Qxd1+ 6. Rxd1 Bd7 7. e3 Rc8 8. Ba5 Nxa5 9. Nf3 Ba4 10. Nxa4 b5 11. Nc3 b4 12. Nb5 b3 13. a3 a6 14. Nc3 e6 15. Be2 Rd8 16. O-O Rxd1 17. Rxd1 Be7 18. Ne5 Nf6 19. Nxc4 Nxc4 20. Bxc4 O-O 21. Bxa6 Rd8 22. Rxd8+ Bxd8 23. Bc4 Ba5 24. Bxb3 Bxc3 25. bxc3 Nd5 26. c4 Nc3 27. a4 Kf8 28. c5 Ke7 29. Bc4 Kd8 30. Bb5 Kc7 31. Kf1 e5 32. Ke1 e4 33. Kd2 Nd5 34. f3 f5 35. f4 h6 36. h3 g5 37. fxg5 hxg5 38. g3 Nb4 39. h4 gxh4 40. gxh4 Nd5 41. h5 f4 42. exf4 Nxf4 43. h6 Ng6 44. h7 Kb7 45. Ke3 Kc7 46. Kxe4 Kd8 47. Kf5 Ne7+ 48. Kf6 Nd5+ 49. Kg7 Nc7 50. h8=Q+ Ke7 51. Qh4+ Ke6 52. Qe4# 1-0
+

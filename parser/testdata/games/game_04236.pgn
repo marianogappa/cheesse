@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/m8IMiotA"]
+[White "bakminfo"]
+[Black "michmichlamalice"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:12"]
+[WhiteElo "1367"]
+[BlackElo "1367"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nc6 3. c3 Nf6 4. Qc2 Bc5 5. Nf3 O-O 6. O-O d5 7. exd5 Nxd5 8. Bxd5 Qxd5 9. c4 Qe6 10. a3 Re8 11. b4 Be7 12. Bb2 a6 13. Nc3 Nd4 14. Nxd4 exd4 15. Nd5 Bf6 16. Nxc7 Be5 17. Nxe6 1-0
+

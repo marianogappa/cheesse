@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cmnWRNUy"]
+[White "adampekar"]
+[Black "ssi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:33"]
+[WhiteElo "1695"]
+[BlackElo "1733"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+[TimeControl "180+2"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Nf6 5. e5 Nd7 6. e6 fxe6 7. Ng5 Nf6 8. Qf3 Bd7 9. c3 Ne5 10. Bxd7+ Qxd7 11. Qh3 h6 12. Nxe6 g5 13. d4 g4 14. Nxf8 gxh3 15. Nxd7 Nexd7 16. g3 O-O-O 17. Bf4 e5 18. dxe5 dxe5 19. Be3 b6 20. Nd2 Ng4 21. b4 Ndf6 22. bxc5 Nxe3 23. fxe3 Rxd2 24. Rxf6 Rg2+ 25. Kf1 Rxh2 26. Kg1 Rg2+ 27. Kh1 bxc5 28. Raf1 Rxg3 29. Rf8+ Rxf8 30. Rxf8+ Kb7 31. Re8 Rxe3 32. Kh2 Kc6 33. Rh8 Rxc3 34. Rh7 a5 35. Rxh6+ Kd5 36. Rh8 e4 37. Rd8+ Kc4 38. Re8 Kb4 39. Rxe4+ Ka3 40. Re8 Kxa2 41. Ra8 Ra3 42. Ra6 c4 43. Rc6 Kb3 44. Kxh3 c3 45. Rb6+ Ka2 46. Kg4 c2 47. Rc6 Kb2 48. Kf4 c1=Q+ 49. Rxc1 Kxc1 50. Ke4 Rc3 51. Kd4 Rc8 52. Kd5 a4 0-1
+

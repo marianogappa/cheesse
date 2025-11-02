@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/xMDk2oEM"]
+[White "bandit55"]
+[Black "parmenides_aletheia"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:16"]
+[WhiteElo "1247"]
+[BlackElo "1057"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[ECO "D06"]
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 d5 3. e3 dxc4 4. Bxc4 Be6 5. Bxe6 fxe6 6. Nf3 e5 7. Nxe5 e6 8. b4 Bxb4+ 9. Bd2 Qd6 10. Nc4 Bxd2+ 11. Nbxd2 Qb4 12. a3 Qc3 13. Qa4+ c6 14. Nd6+ Ke7 15. Nc8+ Ke8 16. Nd6+ Ke7 17. O-O Kxd6 18. Nc4+ Kd7 19. Ne5+ Ke8 20. Rac1 Qd3 21. Nxd3 1-0
+

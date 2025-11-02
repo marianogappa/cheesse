@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lv8HYA7E"]
+[White "Dollar-USD"]
+[Black "Kevins1"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:45"]
+[WhiteElo "1614"]
+[BlackElo "1592"]
+[WhiteRatingDiff "+30"]
+[BlackRatingDiff "-10"]
+[ECO "C61"]
+[Opening "Ruy Lopez: Bird Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. Ba4 c6 6. Bb3 Bd6 7. d3 h6 8. Nd2 Qc7 9. Nf3 Nf6 10. Qe2 O-O 11. e5 Bxe5 12. Nxe5 Re8 13. Bxf7+ Kh8 14. Bxe8 Nxe8 15. Ng6+ Kh7 16. Qe4 Nf6 17. Nf8+ Kg8 18. Qe7 Qa5+ 19. Bd2 Qh5 20. O-O d5 21. c3 Bf5 22. f3 Rxf8 23. g4 Bxg4 24. fxg4 Qxg4+ 25. Kh1 Qh3 26. Rg1 Ng4 27. Rxg4 Qxg4 28. Rg1 Qh3 29. Qxg7# 1-0
+

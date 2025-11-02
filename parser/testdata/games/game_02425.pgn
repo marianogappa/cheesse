@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/fNQZpq1X"]
+[White "garibanlar"]
+[Black "sam23"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:12"]
+[WhiteElo "1976"]
+[BlackElo "1737"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[ECO "C15"]
+[Opening "French Defense: Winawer Variation, Alekhine Gambit Accepted"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 f5 7. f3 Qh4+ 8. g3 Qh5 9. Bg2 exf3 10. Bxf3 Qf7 11. O-O Nc6 12. d5 exd5 13. Bxd5 Qf6 14. Re1+ Nce7 15. Bf4 c6 16. Be5 Qh6 17. Bb3 Be6 18. Bf4 Bxb3 19. Bxh6 Bxc2 20. Qxc2 Nxh6 21. Qe2 Ng8 22. Qe5 O-O-O 23. Qxg7 Nh6 24. Rxe7 Ng4 25. Rc7+ Kb8 26. Rxb7+ Kc8 27. Qc7# 1-0
+

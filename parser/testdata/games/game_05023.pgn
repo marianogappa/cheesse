@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SuaLeBmT"]
+[White "tirek1982"]
+[Black "Cowlinn"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:21"]
+[WhiteElo "1387"]
+[BlackElo "1261"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 Nf6 5. d4 Bg4 6. Bg5 e6 7. Bxf6 Qxf6 8. Be2 Bxf3 9. Bxf3 Nd7 10. Bxb7 Rb8 11. Bc6 Bb4 12. Bxd7+ Kxd7 13. O-O Bxc3 14. bxc3 g5 15. Qg4 Rhg8 16. Rae1 h5 17. Qxh5 g4 18. Re3 g3 19. Rxg3 Rxg3 20. fxg3 Kd6 21. Rf5 Qe7 22. Rxf7 Qe8 23. Qc5# 1-0
+

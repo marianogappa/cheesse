@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/M9B7qbHy"]
+[White "leo96"]
+[Black "wakayawaka"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:36"]
+[WhiteElo "2093"]
+[BlackElo "1998"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+[ECO "C00"]
+[Opening "Rat Defense: Small Center Defense"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 e6 2. e4 d6 3. Nf3 h6 4. Bd3 g6 5. O-O Bg7 6. e5 d5 7. c4 c6 8. Nc3 a6 9. b3 Ne7 10. Ba3 O-O 11. cxd5 exd5 12. Re1 Be6 13. Na4 b6 14. Qc1 b5 15. Nc5 Re8 16. Nxe6 fxe6 17. Bxe7 Qxe7 18. Bxg6 Rf8 19. Qe3 Ra7 20. Rac1 a5 21. h3 a4 22. Nh2 Qg5 23. Qxg5 hxg5 24. b4 a3 25. Re3 Ra4 26. Rb3 Rf4 27. Nf3 g4 28. hxg4 Rxg4 29. Bh5 Rf4 30. g3 Re4 31. Kf1 Bh6 32. Rc2 Kg7 33. Be8 Na6 34. Bxc6 Nxb4 35. Bxb5 Nxc2 36. Bxa4 Nxd4 37. Rxa3 Nxf3 38. Rxf3 Rxa4 39. Rf6 Ra6 40. f4 d4 41. f5 Rxa2 42. Rxe6 d3 43. Rg6+ Kh7 44. Rd6 d2 45. Ke2 Ra1 46. e6 Re1+ 47. Kf2 d1=Q 48. Rxd1 Rxd1 49. e7 Rd2+ 50. Ke1 Rd3 51. e8=Q Re3+ 52. Qxe3 Bxe3 53. Ke2 Bg5 54. Kf3 Kg7 55. Kg4 Kf6 56. Kh5 Be3 57. g4 Bd2 58. Kh4 Bg5+ 59. Kh5 Be3 60. Kh4 Bf4 61. Kh3 Kg5 62. Kg2 Be5 63. Kf3 Bf6 64. Kg3 Be5+ 65. Kh3 Bf6 66. Kg3 Be5+ 67. Kf3 Bf6 68. Ke4 Kxg4 69. Kd5 Kxf5 1/2-1/2
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/AzDwTFOc"]
+[White "robinsjp"]
+[Black "breakpad"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:11"]
+[WhiteElo "1658"]
+[BlackElo "1608"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+21"]
+[ECO "B27"]
+[Opening "Sicilian Defense: Mongoose Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Qa5 3. c3 f6 4. Bc4 Qd8 5. O-O e6 6. d4 Nh6 7. e5 f5 8. Bxh6 gxh6 9. Nfd2 Qg5 10. f4 Qg6 11. Nf3 Rg8 12. Qe2 a6 13. a4 Nc6 14. Nbd2 d5 15. exd6 Bxd6 16. Ne5 Bxe5 17. dxe5 Ne7 18. Nf3 Nd5 19. Bxd5 exd5 20. Rad1 Be6 21. b4 O-O-O 22. bxc5 h5 23. Nd4 Qxg2+ 24. Qxg2 Rge8 25. Nxe6 Rxe6 26. Rd4 Rg6 27. Rfd1 Rxg2+ 28. Kxg2 Rf8 29. Kf3 Rg8 30. Rxd5 Rg4 31. h3 Rg8 32. Rd6 Kc7 33. Rf6 Re8 34. Rxf5 Kc6 35. Rxh5 b5 36. Rh6+ Kxc5 37. axb5 axb5 38. Rxh7 Kc4 39. Rc7+ Kb3 40. Rb7 Kc4 41. Rb1 Rh8 42. R7xb5 Rxh3+ 43. Kg4 Rxc3 0-1
+

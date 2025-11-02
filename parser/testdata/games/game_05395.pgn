@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jHTqAL8K"]
+[White "MarshallArts"]
+[Black "epicureme"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:43"]
+[WhiteElo "1294"]
+[BlackElo "1260"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-14"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.45] } 1... d5 { [%eval 0.72] } 2. exd5 { [%eval 0.69] } 2... Qxd5 { [%eval 0.69] } 3. Nc3 { [%eval 0.67] } 3... Qa5 { [%eval 0.6] } 4. Nf3 { [%eval 0.57] } 4... Nf6 { [%eval 0.58] } 5. g3 { [%eval 0.36] } 5... c6 { [%eval 0.49] } 6. Bg2 { [%eval 0.47] } 6... Bg4 { [%eval 0.6] } 7. h3 { [%eval 0.5] } 7... Bxf3 { [%eval 0.51] } 8. Bxf3 { [%eval 0.4] } 8... Nbd7 { [%eval 0.44] } 9. d3 { [%eval 0.3] } 9... e5 { [%eval 0.5] } 10. Qe2 { [%eval 0.09] } 10... Bd6 { [%eval 0.31] } 11. Bd2 { [%eval 0.31] } 11... O-O { [%eval 0.32] } 12. O-O-O { [%eval 0.15] } 12... Qc7 { [%eval 0.62] } 13. g4 { [%eval 0.58] } 13... Rfe8?! { [%eval 1.2] } 14. g5 { [%eval 0.98] } 14... e4 { [%eval 1.22] } 15. Nxe4 { [%eval 0.98] } 15... Nxe4 { [%eval 1.1] } 16. Bxe4 { [%eval 1.02] } 16... g6 { [%eval 1.41] } 17. Qg4?! { [%eval 0.78] } 17... Ne5?! { [%eval 1.54] } 18. Qg2 { [%eval 1.42] } 18... Rad8 { [%eval 1.62] } 19. Rde1 { [%eval 1.21] } 19... Be7? { [%eval 3.75] } 20. h4 { [%eval 3.05] } 20... f5? { [%eval 4.33] } 21. Bf3?? { [%eval 1.32] } 21... Nxf3 { [%eval 1.6] } 22. Qxf3 { [%eval 1.55] } 22... Bc5 { [%eval 1.68] } 23. h5 { [%eval 1.48] } 23... Rxe1+?! { [%eval 2.13] } 24. Rxe1 { [%eval 1.98] } 24... gxh5? { [%eval 3.19] } 25. Qxh5? { [%eval 1.91] } 25... Bxf2?? { [%eval #5] } 26. Re8+ { [%eval #4] } 26... Rxe8 { [%eval #4] } 27. Qxe8+ { [%eval #3] } 27... Kg7 { [%eval #3] } 28. Bc3+ { [%eval #2] } 1-0
+

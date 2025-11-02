@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8fVBUWTe"]
+[White "xzxturbogladxzx"]
+[Black "tipacou"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:34"]
+[WhiteElo "1025"]
+[BlackElo "1069"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. d3 e5 3. Qe2 c6 4. Nf3 Bd6 5. exd5 cxd5 6. Nxe5 Bxe5 7. Qxe5+ Kf8 8. Qe3 Nf6 9. Qg5 g6 10. d4 h6 11. Qe5 h5 12. Bg5 Kg7 13. Nc3 Nc6 14. O-O-O Nxe5 15. dxe5 Nh7 16. Bxd8 Rxd8 17. Nxd5 Bg4 18. Rd2 Rac8 19. h3 Bf5 20. g4 Be4 21. c3 Rxd5 22. Rxd5 Bxd5 23. e6 Bxh1 24. gxh5 fxe6 25. hxg6 Nf6 26. h4 Bf3 27. Kd2 Rd8+ 28. Ke3 Be4 29. h5 Rd3+ 30. Kf4 Rf3+ 31. Ke5 Bf5 32. Kd4 Rf4+ 33. Ke5 Rh4 34. Bc4 Rxh5 35. Bxe6 Bxe6+ 36. Kxe6 Kxg6 37. Ke7 Rf5 0-1
+

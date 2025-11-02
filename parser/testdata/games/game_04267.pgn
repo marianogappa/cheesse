@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/BFQT0EkU"]
+[White "jalil14000"]
+[Black "majik19582"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:18"]
+[WhiteElo "1493"]
+[BlackElo "1704"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-18"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[TimeControl "300+6"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 Nf6 4. Nc3 g6 5. d3 Bg7 6. Bg5 O-O 7. Qd2 Nc6 8. h4 a6 9. h5 Nxh5 10. Bh6 b5 11. Bxg7 Nxg7 12. Ng5 Nh5 13. Nxf7 Rxf7 14. Bxf7+ Kxf7 15. Qh6 Ne5 16. Qxh7+ Ng7 17. Rh6 e6 18. f4 Ng4 19. Qxg6+ Kg8 20. Qxg4 e5 21. Qg6 Ra7 22. Nd5 Qa5+ 23. b4 cxb4 24. Nf6+ Kf8 25. Rh8+ Ke7 26. Qxg7+ Ke6 27. Re8+ Re7 28. Qxe7# 1-0
+

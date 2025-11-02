@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/8sZPiZU7"]
+[White "sefoal"]
+[Black "forcemark"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:32"]
+[WhiteElo "1662"]
+[BlackElo "1337"]
+[WhiteRatingDiff "-229"]
+[BlackRatingDiff "+229"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "900+10"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.31] } 1... b6 { [%eval 0.62] } 2. Nf3 { [%eval 0.29] } 2... Bb7 { [%eval 0.31] } 3. Nc3 { [%eval 0.28] } 3... c5 { [%eval 0.71] } 4. d4 { [%eval 0.83] } 4... e6 { [%eval 1.15] } 5. Be3?! { [%eval 0.48] } 5... d5? { [%eval 2.68] } 6. exd5 { [%eval 2.5] } 6... exd5 { [%eval 2.7] } 7. Bb5+ { [%eval 2.46] } 7... Nd7? { [%eval 4.14] } 8. dxc5? { [%eval 1.62] } 8... bxc5? { [%eval 3.97] } 9. Nxd5? { [%eval 2.22] } 9... a6 { [%eval 2.5] } 10. Ba4 { [%eval 2.19] } 10... Nf6? { [%eval 5.02] } 11. Nb6?? { [%eval -2.13] } 11... Rb8?? { [%eval 6.94] } 12. Bf4?? { [%eval 0.42] } 12... Bxf3? { [%eval 2.5] } 13. Qxf3? { [%eval 0.55] } 13... Rxb6 { [%eval 0.45] } 14. O-O-O { [%eval 0.15] } 14... Be7 { [%eval 0.52] } 15. Bd2? { [%eval -1.88] } 15... Rd6? { [%eval -0.28] } 16. Rhe1? { [%eval -1.79] } 16... O-O { [%eval -1.92] } 17. Qg3? { [%eval -2.93] } 17... Nh5?! { [%eval -2.31] } 18. Qg4 { [%eval -2.42] } 18... Ndf6?! { [%eval -1.51] } 19. Qc4? { [%eval -2.92] } 19... Rd4 { [%eval -2.91] } 20. Qxa6 { [%eval -3.05] } 20... Ne4 { [%eval -2.75] } 21. Ba5?? { [%eval -13.35] } 21... Qd5?? { [%eval -2.75] } 22. Bb3?? { [%eval -11.6] } 22... Bg5+ { [%eval -11.45] } 23. Bd2 { [%eval -11.37] } 23... Bxd2+ { [%eval -10.68] } 24. Rxd2 { [%eval -9.98] } 24... c4?? { [%eval -4.82] } 25. Bxc4?? { [%eval -9.75] } 25... Qg5 { [%eval -9.0] } 26. Rxe4? { [%eval #-2] } 26... Qxd2+ { [%eval #-1] } 27. Kb1 { [%eval #-1] } 27... Qd1# 0-1
+

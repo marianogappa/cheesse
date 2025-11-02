@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/dGnCAcus"]
+[Site "https://lichess.org/qWmQysvR"]
+[White "simo21211"]
+[Black "Tahaa2000"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:58"]
+[WhiteElo "1487"]
+[BlackElo "1456"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Scandinavian Variation, Exchange Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. d4 Nc6 4. Nf3 Nxd4 5. Qxd4 Qa5+ 6. Bd2 Qf5 7. Bd3 Qg4 8. Qxg4 Bxg4 9. h3 Bxf3 10. gxf3 O-O-O 11. Nc3 e5 12. O-O-O f5 13. Bxf5+ Kb8 14. Bg5 Rxd1+ 15. Rxd1 Bd6 16. Nb5 h6 17. Nxd6 hxg5 18. Nf7 Rh4 19. Rd8# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/K1pyvcSP"]
+[White "courtem"]
+[Black "bleumoses"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:17"]
+[WhiteElo "1348"]
+[BlackElo "1559"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "60+8"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 e6 5. d4 c6 6. Bf4 Bd6 7. Qd2 Qc7 8. g3 Bxf4 9. gxf4 Nf6 10. Bd3 Nbd7 11. f5 exf5 12. Bxf5 Nb6 13. O-O-O Bxf5 14. Rde1+ Be6 15. Ng5 O-O 16. Nxe6 fxe6 17. Rxe6 Nc4 18. Qg5 Qb6 19. b3 Qxd4 20. Rg1 Rf7 21. Qg3 Qd2+ 22. Kb1 Na3+ 23. Kb2 Nxc2 24. Re2 Qd4 25. Rxc2 Ne4 26. Qxg7+ Rxg7 0-1
+

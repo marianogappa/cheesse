@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/yMMU3z8G"]
+[White "Xavier92100"]
+[Black "Crisptapeworm"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:38"]
+[WhiteElo "1103"]
+[BlackElo "1075"]
+[WhiteRatingDiff "+24"]
+[BlackRatingDiff "-10"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.25] } 1... c5 { [%eval 0.4] } 2. Bb5?! { [%eval -0.1] } 2... Nc6?! { [%eval 0.41] } 3. Bxc6 { [%eval 0.14] } 3... bxc6 { [%eval 0.11] } 4. d4?! { [%eval -0.46] } 4... cxd4 { [%eval -0.23] } 5. Qxd4 { [%eval -0.29] } 5... d5 { [%eval -0.22] } 6. Nf3 { [%eval -0.28] } 6... Nf6 { [%eval -0.12] } 7. Nc3 { [%eval -0.16] } 7... e6 { [%eval -0.23] } 8. O-O { [%eval -0.07] } 8... c5 { [%eval -0.24] } 9. Qa4+ { [%eval -0.46] } 9... Bd7 { [%eval -0.44] } 10. Qa6 { [%eval -0.58] } 10... dxe4?! { [%eval 0.16] } 11. Ne5 { [%eval 0.18] } 11... Bd6?? { [%eval 4.67] } 12. Qxd6 { [%eval 4.31] } 1-0
+

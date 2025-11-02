@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Xo1q2mBy"]
+[White "janito"]
+[Black "alexacuatic"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:34"]
+[WhiteElo "1740"]
+[BlackElo "1723"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Nc6 3. e3 Bf5 4. a3 e6 5. c4 Bd6 6. c5 Bxf4 7. exf4 Qf6 8. Nf3 Bg4 9. Be2 Bxf3 10. Bxf3 Qxd4 11. Qxd4 Nxd4 12. O-O Nxf3+ 13. gxf3 Nf6 14. Re1 Nh5 15. f5 Kd7 16. Nc3 exf5 17. Nxd5 Rhe8 18. Red1 Kc8 19. b4 c6 20. Nc3 Kc7 21. Rd6 Rad8 22. Rad1 Rxd6 23. Rxd6 Rd8 24. Rd1 Rxd1+ 25. Nxd1 Kd7 26. Ne3 Ke6 27. a4 f4 28. Nc4 Kd5 29. Nd6 b6 30. Nc8 bxc5 31. bxc5 Kxc5 32. Nxa7 Kb6 33. Nc8+ Ka5 34. Nd6 c5 35. Nxf7 Kxa4 36. Ne5 Kb4 37. Nd3+ Kc3 38. Nxc5 Kd2 39. Kg2 Nf6 40. Ne6 Nd5 41. Nxg7 Ke2 42. Ne6 h5 43. h4 Kd3 44. Ng7 Nf6 45. Ne6 Nd5 46. Ng5 Ke2 47. Ne6 Ke1 48. Nd4 Kd2 49. Kf1 Kd3 50. Ne6 Kc4 51. Ke2 Kb5 52. Kd2 Kc6 53. Ng7 Nf6 54. Kd3 Kd6 55. Kd4 Ke7 56. Ke5 Kf7 57. Nf5 Kg6 58. Kxf4 Nd5+ 59. Ke5 Nc3 60. Ng3 Nd1 61. Ne4 Kh6 62. f4 Nb2 63. f5 Kg7 64. f6+ Kf7 65. Ng5+ Kf8 66. Ke6 Nd3 67. Nh7+ Kg8 68. f7+ Kxh7 69. f8=Q Nf4+ 70. Qxf4 Kg7 71. Qf7+ Kh6 72. Qf4+ Kg7 73. Qg5+ Kh7 74. Kf7 1-0
+

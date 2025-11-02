@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/v3Ytz1Mx"]
+[White "emMars"]
+[Black "IamNegator"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:53"]
+[WhiteElo "1415"]
+[BlackElo "1672"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-18"]
+[ECO "B07"]
+[Opening "Pirc Defense #5"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. d4 g6 3. d5 Bg7 4. Nc3 Nf6 5. Bd3 Bd7 6. Nf3 O-O 7. Bg5 Re8 8. Bxf6 Bxf6 9. h4 Bg7 10. g4 e5 11. g5 Bg4 12. Ne2 Bxf3 13. Rh3 Bxe2 14. Bxe2 c6 15. h5 Nd7 16. hxg6 fxg6 17. Bg4 Nb6 18. Be6+ Kh8 19. Qg4 Rf8 20. Qh4 h6 21. gxh6 Qxh4 22. Rxh4 Bf6 23. h7 Bxh4 24. O-O-O Rxf2 25. Rh1 Rf4 26. Bg8 Raf8 27. Kd2 Bg5 28. Kc3 Rf3+ 29. Kb4 Nxd5+ 30. Ka5 b6+ 31. Ka6 R3f4 32. exd5 Ra4+ 33. Kb7 Rf7+ 34. Kxc6 Rc7+ 35. Kxd6 Rd4 36. Kxc7 Rxd5 37. Kc6 Rd6+ 38. Kxd6 Be7+ 39. Kxe5 Kg7 40. Ke6 Bf6 41. h8=Q+ Kf8 42. Bh7+ Bxh8 43. Bxg6 Kg7 44. Rh7+ Kxg6 45. Rf7 Kg5 46. Rf6 Kg4 47. Rg6+ Kf3 48. Kd5 1-0
+

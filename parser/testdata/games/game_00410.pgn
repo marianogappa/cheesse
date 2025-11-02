@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/DBOZOi8O"]
+[White "Eva02"]
+[Black "adhocprog"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:26"]
+[WhiteElo "1746"]
+[BlackElo "1848"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Drazic Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 e6 3. d4 a6 4. Be3 b6 5. dxc5 bxc5 6. Nc3 Bb7 7. Qd2 d6 8. O-O-O Nc6 9. e5 d5 10. Kb1 d4 11. Bb5 dxe3 12. Bxc6+ Bxc6 13. Qxe3 Qc7 14. Rd2 Nh6 15. Rhd1 Nf5 16. Qf4 Be7 17. g4 Nh6 18. h3 O-O 19. Ng5 Rab8 20. Nce4 Qb7 21. b3 c4 22. Nd6 Bxd6 23. exd6 cxb3 24. axb3 Bd5 25. Kb2 a5 26. d7 e5 27. Qe4 Bxe4 28. Nxe4 Rfd8 29. f3 Ra8 30. Rd3 a4 31. f4 a3+ 32. Kb1 Ra7 33. Ka1 Rxd7 0-1
+

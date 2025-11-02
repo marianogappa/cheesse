@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/y0WUrNY6"]
+[White "claudio54"]
+[Black "Chemix"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:56"]
+[WhiteElo "1578"]
+[BlackElo "1311"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "C20"]
+[Opening "English Opening: The Whale"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. c4 e5 2. e4 Nf6 3. d3 c6 4. Bg5 Bc5 5. Nf3 Qe7 6. Be2 Qe6 7. O-O d6 8. Nc3 Nbd7 9. a3 O-O 10. b4 Bb6 11. Na4 Bc7 12. c5 d5 13. Nc3 d4 14. Na2 h6 15. Bh4 b6 16. cxb6 axb6 17. Nc1 Qg4 18. Bg3 c5 19. Nxe5 Qe6 20. Nxd7 Qxd7 21. Bxc7 Qxc7 22. bxc5 bxc5 23. Nb3 Nd7 24. Qc2 Bb7 25. Nxd4 Rac8 26. Nb5 Qb6 27. a4 Ba6 28. Rab1 Rc6 29. Qc4 Ne5 30. Qd5 Ng6 31. Bh5 Qc7 32. Nxc7 1-0
+

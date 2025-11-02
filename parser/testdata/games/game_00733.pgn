@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SLh6Plu2"]
+[White "Ash58"]
+[Black "WarCraftS"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:43"]
+[WhiteElo "1723"]
+[BlackElo "1679"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "B08"]
+[Opening "Pirc Defense: Classical Variation, Schlechter Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be3 b6 7. Bd3 Bb7 8. a3 Nc6 9. b3 e5 10. d5 Ne7 11. O-O Nd7 12. Nh2 c5 13. f4 a6 14. Rb1 b5 15. Ng4 h5 16. Nh2 b4 17. axb4 cxb4 18. Ne2 Nc5 19. Ng3 exf4 20. Bxf4 Nxd3 21. cxd3 Qb6+ 22. Kh1 Qd4 23. Nxh5 gxh5 24. Qxh5 Qxd3 25. Ng4 Ng6 26. Bh6 Bxh6 27. Qxh6 Qd4 28. h4 Qg7 29. Qg5 Ne5 30. Nf6+ Kh8 31. Qh5+ 1-0
+

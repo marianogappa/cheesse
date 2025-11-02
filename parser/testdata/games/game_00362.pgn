@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/raufeMMz"]
+[White "Flubbing"]
+[Black "mostafaabdelmalik"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:12"]
+[WhiteElo "1487"]
+[BlackElo "1516"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+22"]
+[ECO "A41"]
+[Opening "Modern Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 d6 2. c4 g6 3. Nc3 Bg7 4. Bg5 Nf6 5. Qd2 O-O 6. Bh6 Bxh6 7. Qxh6 Nc6 8. Nf3 Bg4 9. h3 Bxf3 10. exf3 Nxd4 11. Be2 Nc2+ 12. Kd2 Nxa1 13. Rxa1 c5 14. Rh1 Qb6 15. Nd5 Qxb2+ 16. Ke3 Nxd5+ 17. Ke4 Qd4# 0-1
+

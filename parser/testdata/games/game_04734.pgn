@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RYIp3hY0"]
+[White "gandg"]
+[Black "inogda"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:14"]
+[WhiteElo "1675"]
+[BlackElo "1649"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "180+3"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Bb7 3. d5 g6 4. c4 Bg7 5. Nc3 c6 6. Bd3 d6 7. Nf3 c5 8. O-O e6 9. Re1 Nf6 10. Bg5 e5 11. Qd2 h6 12. Be3 Ng4 13. a3 Nd7 14. b4 Nxe3 15. Qxe3 h5 16. Nb5 Nf8 17. bxc5 bxc5 18. a4 Bh6 19. Qe2 a6 20. Nc3 Rb8 21. Reb1 g5 22. Rb6 Qxb6 0-1
+

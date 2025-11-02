@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/9naDLsbm"]
+[Site "https://lichess.org/tJVjV4On"]
+[White "vincible"]
+[Black "yas1993"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "1563"]
+[BlackElo "1652"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[ECO "C46"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Be7 5. b3 O-O 6. Bb2 Nxe4 7. Nxe4 d5 8. Bxd5 Qxd5 9. d3 Nd4 10. Nxd4 exd4 11. Qf3 Qa5+ 12. Kd1 Bf5 13. Bxd4 Bxe4 14. Qxe4 Bg5 15. Be3 f5 16. Qe6+ Kh8 17. Bxg5 Rfe8 18. Qc4 b5 19. Qd4 h6 20. Bd2 Qa3 21. Bc3 Qe7 22. Qb4 Qe2+ 23. Kc1 Qxf2 24. Kb2 a5 25. Qxb5 a4 26. Rhf1 a3+ 27. Kc1 Qxf1+ 28. Kd2 Re2# 0-1
+

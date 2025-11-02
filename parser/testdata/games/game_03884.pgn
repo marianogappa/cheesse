@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/2ekx1whr"]
+[White "MikeVolinets"]
+[Black "cnotesjazz"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:49"]
+[WhiteElo "1387"]
+[BlackElo "1524"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-18"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. c3 Be7 4. g3 Nf6 5. Bg2 Bg4 6. O-O Nxe4 7. Qa4+ 1-0
+

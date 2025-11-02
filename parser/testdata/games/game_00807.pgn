@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hwF72VpL"]
+[White "elvanvanero"]
+[Black "Rackattack"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:58"]
+[WhiteElo "2133"]
+[BlackElo "2031"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "D25"]
+[Opening "Queen's Gambit Accepted: Janowski-Larsen Variation"]
+[TimeControl "240+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 Bg4 5. Bxc4 e6 6. Qb3 c5 7. Qxb7 Bxf3 8. Qxf3 Nbd7 9. dxc5 Bxc5 10. O-O O-O 11. Nc3 Ne5 12. Qe2 Nxc4 13. Qxc4 Rc8 14. Qe2 Qe7 15. e4 Rfd8 16. Be3 Bb4 17. Bd2 Qb7 18. f3 Bc5+ 19. Be3 Bxe3+ 20. Qxe3 Qxb2 21. Na4 Qb5 22. Qb3 Qa6 23. Rfc1 Rb8 24. Qc4 Qa5 25. h3 h6 26. Nc3 Nd7 27. Ne2 Ne5 28. Qc7 Qb5 29. Ng3 Nd3 30. Rc2 Nb4 31. Rb2 Qb6+ 32. Qxb6 Rxb6 33. Rab1 Rdb8 34. a3 Nd3 35. Rxb6 Rxb6 36. Rxb6 axb6 37. Kf1 Kf8 38. Ke2 Nc5 39. Kd2 Ke7 40. Kc3 Kd6 41. Kb4 Kc6 42. Nh5 g6 43. Nf6 Nd3+ 44. Kc3 Ne1 45. Ng4 Nxg2 46. Ne5+ Kb5 47. Nxf7 Ne1 48. Nxh6 Nxf3 49. Nf7 Ka4 50. Kb2 Nd2 51. e5 Nc4+ 52. Ka2 Nxa3 53. Nd8 Nb5 54. Nxe6 Kb4 55. Nf4 Nc3+ 56. Ka1 g5 57. Ng6 Ne4 58. Ne7 Kc5 59. Nf5 Nc3 60. e6 Nd5 61. e7 1-0
+

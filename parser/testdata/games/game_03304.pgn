@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/sJlCnMUQ"]
+[White "TheGreatest2"]
+[Black "labuverr"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:31"]
+[WhiteElo "1975"]
+[BlackElo "1594"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 Nc6 4. c3 e6 5. Nd2 Bd6 6. Bg3 Bxg3 7. hxg3 O-O 8. Ngf3 Ne8 9. Bd3 f6 10. Qc2 g6 11. Bxg6 Qe7 12. Rxh7 Qxh7 13. Bxh7+ Kf7 14. Qg6+ Ke7 15. e4 Rf7 16. Bg8 Rf8 17. Qh7+ Kd8 18. exd5 exd5 19. Nh4 Ne7 20. Ng6 Nxg6 21. Qxg6 Be6 22. Bxe6 Ke7 23. O-O-O Kxe6 24. Re1+ Kd6 25. Nf3 Kc6 26. c4 Rd8 27. cxd5+ Rxd5 28. Qe4 Kd6 29. Nd2 Rf7 30. Nc4+ Kd7 31. Qxe8# 1-0
+

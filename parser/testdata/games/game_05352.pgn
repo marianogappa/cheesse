@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/JhzeA1Jt"]
+[White "CatsAreAwesome"]
+[Black "CuriousKnight"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:36"]
+[WhiteElo "1797"]
+[BlackElo "2004"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 d5 4. cxd5 exd5 5. Nf3 c6 6. g3 Bd6 7. Bg2 Bg4 8. O-O Ne4 9. Ne5 Bf5 10. f3 Nxc3 11. bxc3 Bg6 12. e4 dxe4 13. fxe4 O-O 14. Nxg6 h6 15. e5 fxg6 16. exd6 g5 17. a4 Qxd6 18. Ba3 Qd7 19. Rxf8+ Kh7 20. Qd3+ g6 21. Be4 Qg7 22. Bxg6+ Qxg6 23. Rh8+ Kg7 24. Qxg6+ Kxg6 25. Re1 a5 26. Ree8 Kh5 27. Rxb8 Ra6 28. Ra8 Rb6 29. Bb4 axb4 30. a5 Rb5 31. c4 Rf5 32. h3 b3 33. g4+ Kh4 34. gxf5 Kg3 35. f6 b2 36. Rhe8 b1=Q+ 37. Re1 Qxe1# 0-1
+

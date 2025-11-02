@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/pywYcOfF"]
+[White "sigiar"]
+[Black "prorabartur66"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:53"]
+[WhiteElo "1959"]
+[BlackElo "1823"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+14"]
+[ECO "A21"]
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. c4 e5 2. Nc3 d6 3. e4 Nf6 4. d3 h6 5. Be2 c6 6. h3 Be7 7. Nf3 Nbd7 8. b4 b6 9. a4 c5 10. b5 a6 11. Bb2 axb5 12. axb5 Rxa1 13. Qxa1 O-O 14. Nd5 Nxd5 15. exd5 Nf6 16. Nd2 Bf5 17. f3 Nh5 18. O-O Ng3 19. Qd1 Nxf1 20. Kxf1 Bg5 21. Ne4 Bxe4 22. dxe4 Qa8 23. Qb3 Qa7 24. Bd1 Ra8 25. Ke2 Qa5 26. Bc3 Qa2+ 27. Kd3 Qxb3 28. Bxb3 Ra3 29. Kc2 g6 30. g3 h5 31. h4 Bh6 32. Kb2 Ra8 33. g4 hxg4 34. fxg4 Bf4 35. Be1 Kg7 36. Bc2 Rh8 37. Bd1 Rf8 38. Kc2 f5 39. Bf3 fxg4 40. Bxg4 Bh6 41. Kd3 Rf4 42. Be2 Rf8 43. h5 gxh5 44. Bxh5 Ra8 45. Bc3 Kf6 46. Bg4 Rg8 47. Bf5 Rg3+ 48. Kc2 Bf4 49. Be1 Rg2+ 50. Kd3 Kg5 51. Bh3 Rh2 52. Bf5 Bc1 53. Be6 Kf4 54. Bf5 Ra2 55. Bh4 Ra3+ 56. Kc2 Be3 57. Be7 Bd4 58. Bxd6 Rc3+ 59. Kd2 Rxc4 60. Bc7 Rb4 61. d6 Rxb5 62. d7 Rb2+ 63. Kc1 b5 64. d8=Q b4 65. Qh4+ Ke3 66. Qg3+ Ke2 67. Bg4+ Kf1 68. Qf3+ Ke1 69. Qh1+ Kf2 70. Bd8 Kg3 71. Qh3+ Kf2 72. Bh4+ Kg1 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/yIfpjtNk"]
+[White "GeorgeWBush"]
+[Black "dismas"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:10"]
+[WhiteElo "2188"]
+[BlackElo "1890"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. f4 d5 2. Nf3 Nf6 3. d3 Nc6 4. c3 g6 5. d4 Bg7 6. e3 Ne4 7. Bd3 f5 8. Nbd2 a6 9. O-O O-O 10. Qe1 e6 11. a3 b5 12. h4 Bf6 13. g3 Bd7 14. Kg2 Kf7 15. Rh1 h6 16. h5 g5 17. Ne5+ Bxe5 18. fxe5 f4 19. exf4 Nxd2 20. Bxd2 gxf4 21. Bxf4 Rh8 22. Qe3 Qf8 23. Raf1 Ke7 24. Bg5+ hxg5 25. Qxg5+ Ke8 26. Bg6+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZfiXxJEw"]
+[White "J-F91"]
+[Black "PapoKarla"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:10"]
+[WhiteElo "1903"]
+[BlackElo "1836"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "D21"]
+[Opening "Queen's Gambit Accepted: Normal Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Bf5 4. Nc3 e6 5. e4 Bg4 6. Bxc4 Nc6 7. Be3 Bxf3 8. gxf3 Bb4 9. Rc1 Qd7 10. Bb5 O-O-O 11. Qa4 Bxc3+ 12. Rxc3 a6 13. Bxc6 bxc6 14. Qxa6+ Kb8 15. Rb3# 1-0
+

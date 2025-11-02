@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/x8SUlfzQ"]
+[White "Akibab"]
+[Black "farsteer"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:01"]
+[WhiteElo "1666"]
+[BlackElo "1722"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nc6 5. Bb5 h6 6. Nc3 Nf6 7. O-O Bg4 8. Bf4 e6 9. h3 Bxf3 10. Qxf3 Qb6 11. Rad1 a6 12. Bxc6+ bxc6 13. b3 c5 14. dxc5 Qxc5 15. Na4 Qxc2 16. Rc1 Qxa2 17. Nb6 Rd8 18. Qg3 Ba3 19. Qxg7 Rg8 20. Qxf6 Bxc1 21. Bxc1 Qxb3 22. Be3 Rg6 23. Qh8+ Ke7 24. Bc5+ Rd6 25. Bxd6+ Kxd6 26. Qd8+ Ke5 27. Qc7+ Kf5 28. Qxf7+ Rf6 29. Qh7+ Ke5 30. Nd7+ Kd6 31. Nxf6 a5 32. Qd7+ Ke5 33. Ng4+ Kf5 34. Qh7+ Kg5 35. Qxh6+ Kf5 36. Qf6+ Ke4 37. Qe5+ Kd3 38. Qe3+ Kc4 39. Rc1+ Kb4 40. Qd4+ Ka3 41. Rc3 Ka2 42. Qd2+ Ka3 43. Rxb3+ Kxb3 44. Qd3+ Kb4 45. Ne3 Kc5 46. Qc3+ Kd6 47. Qxa5 Ke5 48. Qb6 Kf6 49. f4 Kf7 50. Nxd5 exd5 0-1
+

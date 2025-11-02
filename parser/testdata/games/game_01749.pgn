@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/XI51Y7u3"]
+[White "bachkop999"]
+[Black "pampopp"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:34"]
+[WhiteElo "1381"]
+[BlackElo "1386"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Berlin Defense"]
+[TimeControl "0+2"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.41] } 1... e5 { [%eval 0.44] } 2. Bc4 { [%eval 0.04] } 2... Nf6 { [%eval 0.06] } 3. d3 { [%eval 0.0] } 3... c6 { [%eval -0.07] } 4. Be3?! { [%eval -0.6] } 4... b5?! { [%eval 0.01] } 5. Bb3 { [%eval 0.14] } 5... a5 { [%eval 0.18] } 6. a4 { [%eval 0.2] } 6... b4 { [%eval 0.25] } 7. c3 { [%eval -0.21] } 7... Ba6 { [%eval 0.1] } 8. Nf3 { [%eval 0.09] } 8... Be7?! { [%eval 0.74] } 9. O-O?! { [%eval 0.01] } 9... O-O?! { [%eval 0.56] } 10. Re1 { [%eval 0.08] } 10... c5?! { [%eval 0.97] } 11. cxb4?! { [%eval 0.4] } 11... axb4 { [%eval 0.55] } 12. a5? { [%eval -0.84] } 12... Nc6 { [%eval -0.84] } 13. d4? { [%eval -1.93] } 13... cxd4 { [%eval -1.92] } 14. Nxd4? { [%eval -3.68] } 14... exd4 { [%eval -3.62] } 15. Bxd4 { [%eval -3.34] } 15... Nxd4 { [%eval -3.35] } 16. Qxd4 { [%eval -3.05] } 16... d6 { [%eval -2.94] } 17. Nd2 { [%eval -3.12] } 17... Qc7?! { [%eval -2.43] } 18. Rac1?! { [%eval -3.25] } 18... Qb7?! { [%eval -2.45] } 19. Re3? { [%eval -3.69] } 19... Qa7 { [%eval -3.2] } 20. Qd3?? { [%eval -10.25] } 20... Qb7?? { [%eval -2.87] } 21. Rh3?? { [%eval -10.42] } 21... Bxd3 { [%eval -10.2] } 0-1
+

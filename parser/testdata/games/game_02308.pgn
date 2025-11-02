@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/oFMiUFbt"]
+[White "pimentel"]
+[Black "Vox182"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:45"]
+[WhiteElo "1531"]
+[BlackElo "1542"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A40"]
+[Opening "Modern Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 g6 2. e3 Bg7 3. Bd2 e5 4. Bc3 exd4 5. Bxd4 Nf6 6. Bc4 O-O 7. c3 d5 8. Bd3 Bf5 9. Bxf5 gxf5 10. Qf3 Ne8 11. Qh3 Bxd4 12. Qg3+ Ng7 13. cxd4 Nc6 14. Ne2 Nb4 15. Na3 Qe7 16. O-O b6 17. Nf4 Qd6 18. Nb5 Qc6 19. Nh5 Qg6 20. Qxg6 fxg6 21. Nf6+ Rxf6 22. Nxc7 Rc8 23. Rac1 Rc6 24. Nxd5 Nxd5 25. Rxc6 Rxc6 26. h3 Nb4 27. a3 Nd3 28. b4 b5 29. Rd1 Nb2 30. Rd2 Nc4 31. Rd3 Ne8 32. g3 Ned6 33. d5 Rc8 34. f3 Nb2 35. Rd2 Rc1+ 36. Kg2 Ndc4 37. Rd4 Nxe3+ 38. Kf2 Nbd1+ 39. Ke2 Rc2+ 40. Kd3 Nb2+ 41. Kxe3 Rc3+ 42. Kf4 Nc4 43. d6 h6 44. d7 g5+ 45. Kxf5 Rxf3+ 46. Kg4 Ne5+ 47. Kh5 Nxd7 48. Rxd7 Rxg3 49. Kg6 Rxa3 50. Rd8# 1-0
+

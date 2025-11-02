@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/s13FMrBR"]
+[White "nedmac101"]
+[Black "indretasting"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:04"]
+[WhiteElo "1519"]
+[BlackElo "1838"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. d3 e6 2. Bg5 Be7 3. Bxe7 Qxe7 4. Nc3 Qb4 5. e4 Qxb2 6. Nce2 Ne7 7. Ng3 O-O 8. Be2 Nbc6 9. Nf3 Nb4 10. Rb1 Nxc2+ 11. Kf1 Ne3+ 12. fxe3 Qa3 13. Nd2 Ng6 14. Nc4 Qe7 15. d4 d5 16. exd5 exd5 17. Ne5 c6 18. Nxg6 fxg6+ 19. Bf3 Qf7 20. Kf2 Bg4 21. Rf1 Bxf3 22. gxf3 g5 23. Kg1 Qc7 24. f4 gxf4 25. exf4 Rae8 26. Qf3 Re3 27. f5 Rxf3 28. Rxf3 Rxf5 29. Rxf5 Qxg3+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/nao7B3vF"]
+[White "babacha"]
+[Black "Hiruko"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:04"]
+[WhiteElo "1571"]
+[BlackElo "1547"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "1200+0"]
+[Termination "Normal"]
+
+1. d3 e5 2. e4 Bc5 3. Nf3 Nc6 4. a3 a6 5. b4 Ba7 6. g3 d6 7. Bg2 Be6 8. c4 Nd4 9. O-O b5 10. Ra2 Nf6 11. Rb2 O-O 12. Nxd4 Bxd4 13. Rc2 Rc8 14. Bg5 h6 15. Bxf6 Qxf6 16. c5 dxc5 17. bxc5 Bb3 18. Kh1 Bxc5 19. Qe2 Bxc2 20. Qxc2 Bd4 21. Nd2 c5 22. Nf3 Rc6 23. Bh3 c4 24. Nxd4 exd4 25. dxc4 bxc4 26. f4 d3 27. Qd2 Qe7 28. Qc3 Rd8 29. Bg2 Qc5 30. f5 Qd4 31. Qa5 Rcc8 32. Qxa6 f6 33. Qe6+ Kh8 34. Bf3 Re8 35. Qa6 d2 36. a4 Rxe4 37. Qxc8+ Kh7 38. Bxe4 Qxe4+ 39. Kg1 Qe1 40. Rxe1 dxe1=Q+ 41. Kg2 Qe4+ 42. Kf2 Qxf5+ 43. Ke2 Qc2+ 44. Ke1 Qxa4 45. Qf5+ Kh8 46. Qc8+ 1/2-1/2
+

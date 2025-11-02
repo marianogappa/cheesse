@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GjLEKI8f"]
+[White "darewing"]
+[Black "shahram_ab"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:54"]
+[WhiteElo "2110"]
+[BlackElo "2067"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "C26"]
+[Opening "Vienna Game: Stanley Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 c6 4. Nf3 d6 5. d3 Be7 6. h3 b5 7. Bb3 b4 8. Ne2 a5 9. a4 Na6 10. Be3 O-O 11. Ng3 Be6 12. Bxe6 fxe6 13. Ng5 Qd7 14. O-O d5 15. Bb6 Nb8 16. Nf3 Bd6 17. Re1 d4 18. Bxd4 exd4 19. e5 Bc7 20. exf6 Bxg3 21. fxg7 Bxf2+ 22. Kxf2 Qxg7 23. Rxe6 Nd7 24. Qe2 Rf7 25. Re8+ Rf8 26. Rxa8 Rxa8 27. Qe6+ Kh8 28. Re1 Rg8 29. g4 Rf8 30. Qe7 Nf6 31. Kg3 Nd5 32. Qxg7+ Kxg7 33. Re6 c5 34. Re5 Rd8 35. Ng5 Ne3 36. Rxe3 dxe3 37. Ne6+ Kf6 38. Nxd8 Ke5 39. Nb7 Kd4 40. Kf3 c4 41. dxc4 b3 42. cxb3 Kd3 43. Nc5+ Kd2 44. Ne4+ Kd3 45. Nc3 Kd2 46. h4 h6 47. g5 hxg5 48. hxg5 Kc2 49. g6 Kxb3 50. Ne2 Kxc4 51. Kxe3 Kb3 52. g7 Kxb2 53. g8=Q Ka3 54. Qc4 Kb2 55. Qc3+ 1-0
+

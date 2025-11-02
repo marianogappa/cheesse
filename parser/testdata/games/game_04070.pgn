@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MfvDMxQJ"]
+[White "aminam"]
+[Black "DrCrowUkr"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:31"]
+[WhiteElo "1647"]
+[BlackElo "1607"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "C68"]
+[Opening "Ruy Lopez: Exchange Variation, Lutikov Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. d3 d5 6. Nxe5 Qf6 7. Nf3 dxe4 8. dxe4 Bg4 9. h3 Bxf3 10. Qxf3 Qxf3 11. gxf3 O-O-O 12. O-O Nf6 13. Bg5 Be7 14. Nc3 h6 15. Bxf6 Bxf6 16. Rad1 Bxc3 17. bxc3 g6 18. Kg2 f5 19. exf5 gxf5 20. f4 Rhg8+ 21. Kf3 Rge8 22. Rd3 Re4 23. Rfd1 Rxd3+ 24. cxd3 Ra4 25. Rd2 Ra3 26. c4 Kd7 27. Ke2 Kd6 28. Kd1 Kc5 29. Kc2 Kd4 30. h4 Rxa2+ 31. Kc1 Ra3 32. Kc2 Rc3+ 33. Kb2 Rxd3 34. Rxd3+ Kxd3 35. Kb3 Kd4 36. Kb4 c5+ 37. Kb3 Ke4 0-1
+

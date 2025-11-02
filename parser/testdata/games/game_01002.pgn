@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/vIeWAUsz"]
+[White "Bigode90"]
+[Black "dseward5"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:42"]
+[WhiteElo "1115"]
+[BlackElo "1005"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Bc5 3. Nf3 Nc6 4. O-O Nf6 5. d3 O-O 6. d4 d5 7. Bb5 Qd7 8. Be3 exd4 9. Bxd4 Nxd4 10. Nxd4 dxe4 11. Bxd7 Bxd7 12. Nb3 Bg4 13. Qd2 Rad8 14. Qa5 b6 15. Qa4 a5 16. Nxc5 bxc5 17. Qxa5 Nd7 18. Nc3 Bf5 19. Rae1 Ra8 20. Qxc7 Rac8 21. Qf4 g6 22. Nxe4 g5 23. Qxf5 Rce8 24. Qxd7 Rxe4 25. Rxe4 h6 26. a4 f5 27. Re8 Rxe8 28. Qxe8+ Kg7 29. a5 c4 30. a6 f4 31. a7 g4 32. a8=Q f3 33. gxf3 gxf3 34. Qxf3 h5 35. Qfxh5 c3 36. bxc3 Kf6 37. Re1 Kg7 38. c4 Kf6 39. c5 Kg7 40. c6 Kf6 41. Qe6+ Kg7 42. c7 Kf8 43. c8=Q+ Kg7 44. Qg5+ Kh7 45. Qee7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FBpwHAvv"]
+[White "kasparovakis"]
+[Black "asdfqwertyuiop4"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:48"]
+[WhiteElo "1381"]
+[BlackElo "1216"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+22"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "180+2"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Bc4 e6 3. Nh3 Ne7 4. d3 d5 5. Bb3 d4 6. a3 Nbc6 7. Qf3 f5 8. Qh5+ g6 9. Qf3 Ne5 10. Qg3 N7c6 11. Ng5 Qe7 12. Bf4 Qf6 13. Bxe5 Nxe5 14. Ba4+ Bd7 15. Bxd7+ Nxd7 16. Nf3 O-O-O 17. Nbd2 Nb6 18. Ne5 Bd6 19. Ndf3 Nd7 20. Qh3 Nxe5 21. Nxe5 Qxe5 22. O-O-O Rhf8 23. g4 fxe4 24. dxe4 Qxe4 25. Rde1 Qd5 26. f3 Qxf3 27. Qxf3 Rxf3 28. Rxe6 Kd7 29. Re4 Re8 30. Rxe8 Kxe8 31. Re1+ Kd7 32. h4 Bg3 33. Re4 Bxh4 34. Re5 Rf1+ 35. Kd2 Kd6 36. Re4 Bg5+ 37. Kd3 h5 38. gxh5 gxh5 39. Rg4 Bc1 40. Rg6+ Kd5 41. Rg7 h4 42. c4+ Kc6 43. Rg6+ Kc7 44. Rg7+ Kb6 45. a4 Ka5 46. b3 Kb4 47. Rxb7+ Ka3 48. a5 Rf3+ 49. Ke4 Rxb3 50. Rxa7 h3 51. Rh7 Re3+ 52. Kd5 Ka4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/2Y4fH3H1"]
+[White "italovieira"]
+[Black "pepi_1800"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:59"]
+[WhiteElo "2005"]
+[BlackElo "2029"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.26] } 1... c5 { [%eval 0.26] } 2. Nf3 { [%eval 0.26] } 2... d6 { [%eval 0.26] } 3. Nc3 { [%eval 0.26] } 3... a6 { [%eval 0.26] } 4. d4 { [%eval 0.26] } 4... cxd4 { [%eval 0.28] } 5. Nxd4 { [%eval 0.28] } 5... e5 { [%eval 0.5] } 6. Nb3 { [%eval 0.3] } 6... Nf6 { [%eval 0.36] } 7. Be3 { [%eval 0.27] } 7... Be7 { [%eval 0.29] } 8. f3 { [%eval 0.18] } 8... O-O { [%eval 0.16] } 9. Be2 { [%eval -0.04] } 9... Be6 { [%eval 0.07] } 10. Nd5 { [%eval -0.13] } 10... Nxd5 { [%eval -0.02] } 11. exd5 { [%eval -0.12] } 11... Bf5 { [%eval -0.13] } 12. Bd3 { [%eval -0.27] } 12... Qc8 { [%eval -0.02] } 13. Qd2 { [%eval -0.18] } 13... Bxd3 { [%eval -0.16] } 14. Qxd3 { [%eval -0.1] } 14... f5 { [%eval -0.01] } 15. O-O-O { [%eval -0.02] } 15... Qd7 { [%eval 0.35] } 16. g4?! { [%eval -0.29] } 16... f4?! { [%eval 0.26] } 17. Bb6 { [%eval -0.2] } 17... Bd8?! { [%eval 0.48] } 18. Bf2 { [%eval 0.28] } 18... Qf7 { [%eval 0.6] } 19. Kb1 { [%eval 0.44] } 19... Nd7 { [%eval 0.54] } 20. h4 { [%eval 0.2] } 20... Bb6 { [%eval 0.21] } 21. Be1 { [%eval -0.06] } 21... Rac8 { [%eval 0.19] } 22. a4?! { [%eval -0.78] } 22... Nc5 { [%eval -0.64] } 23. Nxc5 { [%eval -0.82] } 23... Bxc5 { [%eval -0.48] } 24. h5 { [%eval -0.84] } 24... Rfe8?! { [%eval -0.25] } 25. g5 { [%eval -0.18] } 25... h6? { [%eval 1.88] } 26. gxh6 { [%eval 1.75] } 26... gxh6 { [%eval 2.16] } 27. Bh4? { [%eval -0.59] } 27... Qh7?? { [%eval #9] } 28. Rhg1+ { [%eval #8] } 28... Bxg1 { [%eval #8] } 29. Rxg1+ { [%eval #7] } 29... Qg7 { [%eval #7] } 30. Rxg7+ { [%eval #6] } 30... Kxg7 { [%eval #6] } 31. Qg6+ { [%eval #5] } 1-0
+

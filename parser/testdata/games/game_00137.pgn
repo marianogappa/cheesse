@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SkHCJ4Ro"]
+[White "ares873"]
+[Black "pokermoon"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:19"]
+[WhiteElo "1797"]
+[BlackElo "1738"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 Nf6 4. Bf4 a6 5. a4 Bf5 6. e3 Nc6 7. Bxc4 e6 8. Qb3 Rb8 9. Rd1 Bb4 10. Ne2 O-O 11. O-O h6 12. d5 exd5 13. Nxd5 Nxd5 14. Bxd5 Bd6 15. h3 Bxf4 16. Bxf7+ Rxf7 17. Rxd8+ Rxd8 18. Nxf4 Rb8 19. g4 Be4 20. Ne6 Kh7 21. Ng5+ hxg5 22. Qxf7 Ne5 23. Qxc7 Nf3+ 24. Kg2 Rf8 25. Qc5 Rf6 26. Rd1 Nh4+ 27. Kf1 Bg2+ 28. Kg1 Bxh3 29. Qxg5 Nf3+ 30. Kh1 Nxg5 31. f4 Nf3 32. Rf1 Bxg4 33. Rg1 Rg6 34. Kg2 Nh4+ 35. Kg3 Bd1+ 36. Kf2 Rxg1 37. Kxg1 1-0
+

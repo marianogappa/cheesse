@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bdOANmWM"]
+[White "mbh14"]
+[Black "maurolty"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:45"]
+[WhiteElo "1182"]
+[BlackElo "1205"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+11"]
+[ECO "C20"]
+[Opening "King's Pawn Game: King's Head Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. f3 e5 2. e4 Nf6 3. Nc3 d5 4. Nh3 dxe4 5. fxe4 Ng4 6. Nd5 c6 7. Ne3 Qf6 8. Nxg4 Qh4+ 9. Nhf2 Bxg4 10. g3 Bxd1 11. gxh4 Bf3 12. Rg1 Bc5 13. c3 Bxe4 14. d3 Bf5 15. c4 O-O 16. Bh6 Re8 17. Bxg7 Bb4+ 18. Kd1 e4 19. dxe4 Bxe4 20. Bf6+ Kf8 21. c5 b6 22. cxb6 axb6 23. Bc4 Nd7 24. Bd4 b5 25. Bb3 c5 26. Bg7+ Ke7 27. Nxe4 Rg8 28. Bf6+ Nxf6 29. Kc2 Nxe4 30. Raf1 Rxg1 31. Rxg1 c4 32. a3 Bc5 33. Ba2 Bxg1 0-1
+

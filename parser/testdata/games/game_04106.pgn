@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bOnWyOH6"]
+[White "Colako"]
+[Black "SquirrelMustard"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:41"]
+[WhiteElo "1544"]
+[BlackElo "1529"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-74"]
+[ECO "C22"]
+[Opening "Center Game: Berger Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nf6 4. Qe3 Nc6 5. Nc3 b6 6. Be2 Bc5 7. Qg3 O-O 8. Bh6 g6 9. Bxf8 Kxf8 10. O-O-O Bb7 11. Nf3 Bd6 12. Qg5 Kg7 13. h4 Ne7 14. Bd3 Nh5 15. g4 Bf4+ 16. Qxf4 Nxf4 17. h5 Nxd3+ 18. cxd3 a6 19. h6+ Kg8 20. Ng5 c6 21. Rhe1 b5 22. f4 f6 23. Nf3 Kf7 24. f5 gxf5 25. gxf5 Ng8 26. Rh1 Qf8 27. e5 fxe5 28. Nxe5+ Ke7 29. Rde1 Kd8 30. Rh5 Nxh6 31. Reh1 Nxf5 32. Rxh7 Qc5 33. Nxd7 Qe3+ 34. Kc2 Nd4+ 35. Kb1 Qxd3+ 36. Ka1 Nc2+ 37. Kb1 Na3+ 38. Ka1 Qxd7 39. Rxd7+ Kc8 40. Rdh7 1-0
+

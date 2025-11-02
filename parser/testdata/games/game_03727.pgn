@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DxhSK4t3"]
+[White "afberretta"]
+[Black "mons54"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:17"]
+[WhiteElo "1291"]
+[BlackElo "1222"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-34"]
+[ECO "B00"]
+[Opening "King's Pawn Game: Nimzowitsch Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nc6 2. e4 1-0
+

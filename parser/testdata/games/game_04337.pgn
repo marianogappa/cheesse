@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/wibCL24o"]
+[White "Lifesaburrito"]
+[Black "wallablado"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:35"]
+[WhiteElo "1708"]
+[BlackElo "1862"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.3] } 1... c5 { [%eval 0.23] } 2. Nf3 { [%eval 0.25] } 2... Nc6 { [%eval 0.46] } 3. c3 { [%eval 0.25] } 3... d5 { [%eval 0.24] } 4. exd5 { [%eval 0.28] } 4... Qxd5 { [%eval 0.33] } 5. d4 { [%eval 0.27] } 5... Bg4 { [%eval 0.35] } 6. Be2 { [%eval 0.22] } 6... cxd4 { [%eval 0.38] } 7. cxd4 { [%eval 0.31] } 7... e5?! { [%eval 1.29] } 8. Nxe5?? { [%eval -2.98] } 8... Nxe5?? { [%eval 0.4] } 9. dxe5 { [%eval 0.0] } 9... Qxd1+?! { [%eval 0.62] } 10. Bxd1 { [%eval 0.45] } 10... Bxd1 { [%eval 0.56] } 11. Kxd1 { [%eval 0.53] } 11... O-O-O+ { [%eval 0.72] } 12. Ke2 { [%eval 0.69] } 12... Bc5 { [%eval 1.04] } 13. Be3?! { [%eval 0.31] } 13... Bxe3 { [%eval 0.54] } 14. Kxe3 { [%eval 0.05] } 14... Ne7?! { [%eval 1.04] } 15. f4?! { [%eval 0.12] } 15... Nd5+?! { [%eval 0.78] } 16. Ke2? { [%eval -1.8] } 16... f6? { [%eval -0.29] } 17. Nc3?! { [%eval -1.02] } 17... Nxf4+ { [%eval -1.03] } 18. Kf3 { [%eval -1.02] } 18... fxe5 { [%eval -0.97] } 19. Rhf1?! { [%eval -1.75] } 19... Rhf8?! { [%eval -1.22] } 20. g3 { [%eval -1.28] } 20... Nd3+ { [%eval -1.29] } 21. Ke3 { [%eval -1.43] } 21... Nxb2 { [%eval -1.25] } 22. Rac1?? { [%eval -4.85] } 22... Kb8?? { [%eval -1.47] } 23. Rxf8 { [%eval -1.39] } 23... Rxf8 { [%eval -1.31] } 24. Ne4 { [%eval -1.25] } 24... Rc8 { [%eval -1.07] } 25. Rb1?! { [%eval -1.92] } 25... Nc4+?! { [%eval -1.36] } 26. Kd3 { [%eval -1.62] } 26... Nb6 { [%eval -1.47] } 27. Nd6?? { [%eval -5.82] } 27... Rd8 { [%eval -5.75] } 0-1
+

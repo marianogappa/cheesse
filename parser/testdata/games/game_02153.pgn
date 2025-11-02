@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/FA5lvHfm"]
+[White "rubencico"]
+[Black "fandrade"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:07"]
+[WhiteElo "1812"]
+[BlackElo "1958"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-15"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. h3 Bh5 5. g4 Bg6 6. Nc3 a5 7. d4 exd4 8. Nxd4 c6 9. Qf3 b5 10. Bd3 b4 11. Nce2 Be7 12. Nf5 Bf6 13. Bf4 Bxf5 14. exf5 Bxb2 15. Rb1 Bf6 16. Qe3+ Ne7 17. g5 Bc3+ 18. Nxc3 bxc3 19. f6 Kd7 20. fxe7 Qxe7 21. Rb7+ Kc8 22. Qxe7 Na6 23. Bf5# 1-0
+

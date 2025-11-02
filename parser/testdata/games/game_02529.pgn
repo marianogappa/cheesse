@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QISUplIm"]
+[White "Snitcher"]
+[Black "tranfunzel"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:35"]
+[WhiteElo "1106"]
+[BlackElo "1229"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-14"]
+[ECO "C27"]
+[Opening "Vienna Game"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 c5 3. Nf3 Nc6 4. Bc4 Nf6 5. d3 Qa5 6. a3 d6 7. h3 g6 8. Ng5 d5 9. exd5 Nxd5 10. Bxd5 Bf5 11. Nxf7 Rg8 12. Bg5 Ne7 13. Nd6+ Kd7 14. Nxb7 Qc7 15. Nb5 Qb6 16. c4 Rg7 17. Qa4 a6 18. N5d6+ Kc7 19. Ne8+ Kc8 20. Nxg7 Qxb7 21. Bxb7+ Kxb7 22. Qb4+ Ka7 23. Qa5 Rd8 24. Qxd8 1-0
+

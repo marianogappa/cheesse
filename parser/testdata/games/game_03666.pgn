@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/jml6aagz"]
+[White "CuriousKnight"]
+[Black "Hicks1997"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:59"]
+[WhiteElo "2024"]
+[BlackElo "1517"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-2"]
+[ECO "B06"]
+[Opening "Modern Defense: Two Knights Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. Nc3 Bg7 3. Nf3 d6 4. d4 b6 5. Bg5 f6 6. Be3 e5 7. Qd2 exd4 8. Nxd4 c5 9. Ndb5 Ba6 10. Nxd6+ Ke7 11. Ncb5 Bxb5 12. Nxb5 Qxd2+ 13. Bxd2 Nc6 14. O-O-O Nh6 15. h3 f5 16. exf5 Nxf5 17. g4 Nfd4 18. Nxd4 Nxd4 19. Bg2 Rad8 20. c3 Ne2+ 21. Kb1 Nxc3+ 22. Bxc3 Rxd1+ 23. Rxd1 Bxc3 24. bxc3 Ke6 25. Rd2 Rf8 26. c4 Ke5 27. Bd5 Kf4 28. Kc2 Ke5 29. Kc3 a5 30. f3 h5 31. a4 hxg4 32. hxg4 Kf4 33. Re2 Kg3 34. Re6 Rxf3+ 35. Bxf3 Kxf3 36. Rxg6 Kf4 37. g5 Kf5 38. Rg8 Ke6 39. g6 Kf6 40. Rb8 1-0
+

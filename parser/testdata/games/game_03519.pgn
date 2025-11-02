@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/n581IpSG"]
+[White "alanwillson"]
+[Black "stfn"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:27"]
+[WhiteElo "1519"]
+[BlackElo "1729"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h3 h6 5. g4 Bh7 6. f4 e6 7. Rh2 c5 8. c3 c4 9. Qa4+ Nc6 10. b4 a6 11. b5 axb5 12. Qxb5 Qc7 13. Nf3 Be7 14. g5 Ra5 15. Qb2 Ba3 16. Qd2 Be7 17. gxh6 Nxh6 18. Rg2 Nf5 19. h4 Qb6 20. Ng5 Bxg5 21. hxg5 Rb5 22. Na3 Ra5 23. Rb1 Qc7 24. Nb5 Qd7 25. Nd6+ Ke7 26. Rxb7 Qxb7 27. Nxb7 Rb8 28. Nc5 Nh4 29. Rh2 Nf3+ 30. Kd1 Nxd2 31. Bxd2 Bf5 32. Bh3 Bxh3 33. Rxh3 Rxa2 34. Ke2 Rbb2 35. Rh7 Rxd2+ 36. Kf3 Rdc2 37. Kg4 Rxc3 38. Rxg7 Rg2+ 39. Kh4 Rc1 40. Kh3 Rd2 41. g6 Kf8 42. Rxf7+ Kg8 43. Nd7 Rh1+ 0-1
+

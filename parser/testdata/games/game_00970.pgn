@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/DeMvCpsT"]
+[White "fredondo"]
+[Black "jozarov"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:36"]
+[WhiteElo "1690"]
+[BlackElo "2197"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+1"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. e3 g6 3. Bd3 Bg7 4. f4 O-O 5. Nf3 d5 6. O-O Bg4 7. c3 c5 8. Nbd2 Nc6 9. Qe1 cxd4 10. cxd4 Bxf3 11. Nxf3 Ne4 12. Bxe4 dxe4 13. Ne5 f5 14. Qe2 e6 15. g4 Qd5 16. h4 fxg4 17. Qxg4 Bxe5 18. fxe5 Ne7 19. Bd2 Nf5 20. Bb4 Rf7 21. h5 Kg7 22. hxg6 hxg6 23. Rf2 Rh8 24. Kf1 Rh4 25. Qe2 Rh1+ 26. Kg2 Rh4 27. Rh1 Rxh1 28. Kxh1 Ng3+ 29. Kg2 Nxe2 30. Rxe2 Rf3 31. Rf2 Rxf2+ 32. Kxf2 Qc4 33. b3 Qc2+ 34. Kg3 Qxa2 35. Kf4 Qxb3 36. Bf8+ Kxf8 37. Kg5 Qd5 38. Kf6 a5 39. Kxg6 a4 40. Kf6 a3 41. Kg6 a2 42. Kf6 a1=Q 43. Kg6 Qf1 44. Kh6 Qg2 45. Kh7 Kf7 46. Kh8 Qg8# 0-1
+

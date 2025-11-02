@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ow2iCNv0"]
+[White "pyc43"]
+[Black "ulisesss2"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:01"]
+[WhiteElo "1359"]
+[BlackElo "1464"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "A45"]
+[Opening "Paleface Attack"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. f3 e6 3. Bf4 Nc6 4. Nc3 Bb4 5. Qd2 Nd5 6. a3 Bxc3 7. bxc3 Qh4+ 8. g3 Qe7 9. e4 Nxf4 10. Qxf4 O-O 11. Ne2 d6 12. Bh3 e5 13. dxe5 Bxh3 14. Qe3 dxe5 15. Ng1 Be6 16. Ne2 f6 17. O-O a6 18. Rfd1 Rfd8 19. Rxd8+ Rxd8 20. f4 Na5 21. f5 Bc4 22. g4 Bxe2 23. Qxe2 b5 24. Rf1 c5 25. h4 h6 26. g5 c4 27. gxh6 gxh6 28. Qg2+ Kf7 29. Qg6+ Kf8 30. Rf2 Qxa3 31. Rg2 Rd1+ 32. Kh2 Qxc3 33. Qg7+ Ke8 34. Qg8+ Ke7 35. Rg7+ Kd6 36. Qd8+ Kc5 37. Qxd1 Nc6 38. Qd5+ Kb6 39. Rf7 Qxc2+ 40. Kg3 Qc3+ 41. Kg4 Qd4 42. Qxd4+ exd4 43. Rxf6 c3 44. Rxc6+ Kxc6 45. f6 c2 46. f7 c1=Q 47. f8=Q Qg1+ 48. Kh5 d3 49. Qf6+ Kc5 50. Qe5+ Kc4 51. Qd5+ Kc3 52. Qc5+ Qxc5+ 53. Kxh6 d2 54. h5 d1=Q 55. Kg6 Qdd6+ 56. Kh7 Qcc7+ 57. Kg8 Qdd8# 0-1
+

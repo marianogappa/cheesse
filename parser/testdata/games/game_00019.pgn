@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/U8B1aHVT"]
+[White "Asherah"]
+[Black "ramana2"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "1811"]
+[BlackElo "1834"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "B07"]
+[Opening "Pirc Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. d4 Nf6 3. Bd3 e5 4. Nf3 Be7 5. h3 c6 6. c4 Qc7 7. Nc3 Nbd7 8. Be3 h6 9. Rc1 Nf8 10. O-O g5 11. Nh2 Ng6 12. d5 Nf4 13. Bxf4 gxf4 14. Ng4 h5 15. Nxf6+ Bxf6 16. Kh2 Bd7 17. Be2 h4 18. Bg4 O-O-O 19. b4 Kb8 20. c5 Rhg8 21. cxd6 Qxd6 22. Bxd7 Rxd7 23. dxc6 Qxc6 24. Nd5 Qe6 25. Qe2 Bd8 26. a4 f5 27. Rfd1 Rdg7 28. Rg1 fxe4 29. Qxe4 Bb6 30. Nxb6 axb6 31. b5 Qd6 32. Rcd1 Qe6 33. Rde1 Re7 34. Re2 Rd8 35. f3 Qd5 36. Qxd5 Rxd5 37. Re4 Rg7 38. Rf1 Rd2 39. Rg1 Rgxg2+ 40. Rxg2 Rxg2+ 41. Kxg2 Kc7 42. Rxe5 1-0
+

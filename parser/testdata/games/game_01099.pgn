@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/OHxTWi3s"]
+[White "ahonna"]
+[Black "mostafaabdelmalik"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:08"]
+[WhiteElo "1500"]
+[BlackElo "1554"]
+[WhiteRatingDiff "-151"]
+[BlackRatingDiff "+14"]
+[ECO "B07"]
+[Opening "Pirc Defense #5"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 g6 3. Qg4 Bg7 4. Bb5+ c6 0-1
+

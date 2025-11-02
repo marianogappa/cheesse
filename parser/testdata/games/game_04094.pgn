@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/KWimIkJj"]
+[White "MAESTRO_CHANG"]
+[Black "vega043"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:38"]
+[WhiteElo "1760"]
+[BlackElo "1707"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+14"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[TimeControl "540+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Nxc6 bxc6 7. e5 Nd5 8. Bc4 Bc5 9. Bxd5 cxd5 10. Nc3 O-O 11. Bd2 Ba6 12. Qf3 Rb8 13. O-O-O d4 14. Ne4 Qb6 15. b3 Ba3+ 16. Kb1 Rfc8 17. Qg3 Rxc2 18. Nf6+ Kh8 19. Nxd7 Rb2+ 20. Ka1 Qc6 21. Nxb8 Qc2 22. Nxa6 Rxa2# 0-1
+

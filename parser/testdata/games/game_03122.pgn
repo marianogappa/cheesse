@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/TdZJahZR"]
+[White "echampion"]
+[Black "JulioParra"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:43"]
+[WhiteElo "1700"]
+[BlackElo "1643"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-101"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.2] } 1... c5 { [%eval 0.38] } 2. Bc4?! { [%eval -0.12] } 2... Nf6 { [%eval 0.0] } 3. Qf3?! { [%eval -0.83] } 3... e5? { [%eval 0.17] } 4. Nc3 { [%eval 0.17] } 4... d6 { [%eval 0.14] } 5. Nd5 { [%eval -0.03] } 5... Bg4?? { [%eval 4.64] } 6. Qb3?? { [%eval 0.22] } 6... Nxe4?? { [%eval 5.89] } 7. Ne3?? { [%eval 2.27] } 7... d5? { [%eval 4.23] } 8. Bxd5 { [%eval 4.42] } 8... Be6?! { [%eval 5.31] } 9. d3?? { [%eval 1.64] } 9... Bxd5 { [%eval 1.66] } 10. Qxd5 { [%eval 1.56] } 10... Nf6 { [%eval 1.68] } 11. Qxb7 { [%eval 1.58] } 11... Nbd7 { [%eval 1.75] } 12. Nd5 { [%eval 1.29] } 12... Rb8 { [%eval 1.35] } 13. Qc6 { [%eval 0.95] } 13... Nxd5 { [%eval 0.94] } 14. Qxd5 { [%eval 0.96] } 14... Qa5+ { [%eval 1.02] } 15. Bd2 { [%eval 1.08] } 15... Qb5 { [%eval 1.5] } 16. Bc3 { [%eval 1.31] } 16... Nf6? { [%eval 2.37] } 17. Qxe5+ { [%eval 2.29] } 17... Be7 { [%eval 2.36] } 18. h3?! { [%eval 1.39] } 18... O-O { [%eval 1.77] } 19. Nf3 { [%eval 1.6] } 19... Nd5?? { [%eval #1] } 20. Qxd5?? { [%eval 6.17] } 1-0
+

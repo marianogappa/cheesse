@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RZoJVPMv"]
+[White "victorhernandezabreu"]
+[Black "Gutbae"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:31"]
+[WhiteElo "1362"]
+[BlackElo "1204"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "360+0"]
+[Termination "Time forfeit"]
+
+1. d4 c6 2. c4 e6 3. e4 d5 4. cxd5 cxd5 5. e5 a6 6. Bd3 Nc6 7. Nf3 h6 8. Nc3 Bb4 9. Bd2 Nge7 10. O-O O-O 11. a3 Bxc3 12. Bxc3 Na5 13. Rc1 Bd7 14. Nd2 Bb5 15. Bxb5 axb5 16. Bb4 Nec6 17. Bxf8 Qxf8 18. Nb3 Nc4 19. Qc2 b4 20. Rb1 bxa3 21. bxa3 Rxa3 22. Nc5 Nxd4 23. Qd1 Qxc5 24. Rxb7 Kh7 25. Qb1+ g6 26. Rxf7+ Kg8 27. Qxg6+ 1-0
+

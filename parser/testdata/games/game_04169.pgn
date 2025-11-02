@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/sNNPIDDQ"]
+[White "magakasparov"]
+[Black "seniorfalcon"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:52"]
+[WhiteElo "1213"]
+[BlackElo "1321"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+[ECO "C00"]
+[Opening "French Defense #2"]
+[TimeControl "480+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nh3 Nf6 3. Nc3 e5 4. d3 Bb4 5. a3 Bxc3+ 6. bxc3 O-O 7. d4 exd4 8. cxd4 Nxe4 9. f3 Nc3 10. Qd2 Re8+ 11. Kf2 Re4 12. Qxc3 Re8 13. Bg5 f6 14. Bf4 Nc6 15. d5 Ne7 16. Bc4 d6 17. Rae1 g5 18. Bd2 Nf5 19. Rxe8+ Qxe8 20. Qxf6 b5 21. Qxg5+ Kh8 22. Bd3 Qf7 23. g4 Nd4 24. c3 Qxf3+ 25. Ke1 Qxh1+ 26. Kf2 Qf3+ 27. Ke1 Qxd3 28. Qf6+ Kg8 29. Qxd4 Qxh3 30. Bh6 Qxh6 31. Qg1 Qc1+ 32. Kf2 Bb7 33. g5 Bxd5 34. g6 Qd2+ 35. Kf1 Qd1+ 36. Kf2 hxg6 37. Qxg6+ Kf8 38. Qf6+ Ke8 39. Qd4 Qc2+ 40. Ke3 Bf7 41. Qd3 Qxh2 42. Qxb5+ Ke7 43. Qe2 Qe5+ 44. Kd2 Qxe2+ 45. Kxe2 Bc4+ 46. Kd2 Rb8 47. Ke3 Rb3 48. Kd4 Be6 49. Kd3 c5 50. Ke3 Rxc3+ 51. Kd2 Rxa3 52. Kc2 c4 53. Kb2 c3+ 54. Kc2 1/2-1/2
+

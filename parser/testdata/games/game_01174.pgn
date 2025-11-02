@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1OWnuoTO"]
+[White "LAlgaba"]
+[Black "etaoin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:25"]
+[WhiteElo "1466"]
+[BlackElo "1479"]
+[WhiteRatingDiff "+63"]
+[BlackRatingDiff "-10"]
+[ECO "B57"]
+[Opening "Sicilian Defense: Modern Variations, Main Line"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 g6 6. c4 Bg7 7. Nc3 O-O 8. O-O Nbd7 9. Rb1 b6 10. b3 Bb7 11. Nde2 Nc5 12. f3 Nxd3 13. Qxd3 Qc7 14. Nd5 Nxd5 15. exd5 Rfe8 16. Bb2 e6 17. Bxg7 Kxg7 18. Nf4 exd5 19. Nxd5 Qc5+ 20. Kh1 Bxd5 21. Qxd5 Re3 22. Rbd1 Qa3 23. Qd4+ 1-0
+

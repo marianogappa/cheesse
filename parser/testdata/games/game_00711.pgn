@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4GzJdvDf"]
+[White "aixosi"]
+[Black "Madwill"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:39"]
+[WhiteElo "1637"]
+[BlackElo "1211"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-3"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 c6 5. Bc4 Qd8 6. Bf4 Be6 7. Bxe6 fxe6 8. Qe2 Nf6 9. O-O-O Nbd7 10. Be5 h5 11. Bxf6 gxf6 12. Nf3 Bg7 13. Rhe1 Rf8 14. Nd2 c5 15. Qxh5+ Rf7 16. dxc5 Nxc5 17. Nde4 Nxe4 18. Rxd8+ Rxd8 19. Nxe4 f5 20. Ng5 Bxb2+ 21. Kxb2 Rd2 22. Qxf7+ Kd8 23. Nxe6+ Kd7 24. Nc5+ Kd8 25. Qxe7+ Kc8 26. Qe8+ Kc7 27. Re7+ Kd6 28. Rd7+ Kxc5 1-0
+

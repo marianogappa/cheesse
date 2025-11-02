@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/eapB7yOm"]
+[White "W-J"]
+[Black "xmunix"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:45"]
+[WhiteElo "1603"]
+[BlackElo "1646"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Canal Variation"]
+[TimeControl "300+10"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bc5 5. d3 d6 6. Bg5 h6 7. h3 hxg5 8. Nxg5 a6 9. Qf3 Nd4 10. Qd1 Be6 11. Bxe6 fxe6 12. Ne2 Nxe2 13. Qxe2 Qe7 14. O-O O-O-O 15. Nf3 d5 16. Nxe5 Qe8 17. exd5 exd5 18. Rae1 Nd7 19. Qg4 Kb8 1-0
+

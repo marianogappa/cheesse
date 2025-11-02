@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nAbgKuqP"]
+[White "flunardi"]
+[Black "leandrinho10"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:46"]
+[WhiteElo "1555"]
+[BlackElo "1417"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+15"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d6 4. h3 Nf6 5. Bc4 Nxe4 6. Ng5 Nxg5 7. Qh5 e6 8. d4 cxd4 9. Bxg5 Be7 10. Bxe7 Nxe7 11. cxd4 d5 12. Bb3 O-O 13. O-O Nf5 14. Bc2 g6 15. Qd1 Qb6 16. Nd2 Nxd4 17. Nf3 Nxf3+ 18. Qxf3 Qxb2 19. Rac1 b5 20. h4 h5 21. Bd3 Bb7 22. Qg3 Rfc8 23. Rce1 Rc3 24. Re3 Rc1 25. Rxe6 Rxf1+ 26. Bxf1 fxe6 27. Qxg6+ Kf8 28. Qf6+ Qxf6 0-1
+

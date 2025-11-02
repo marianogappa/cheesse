@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Mqvjn65o"]
+[White "puma123456"]
+[Black "moorich"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:49"]
+[WhiteElo "1698"]
+[BlackElo "1393"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+[ECO "A43"]
+[Opening "Old Benoni Defense"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. d4 c5 2. Nf3 Nc6 3. dxc5 e5 4. Bg5 Nf6 5. e3 Bxc5 6. Bc4 O-O 7. O-O h6 8. Bh4 Na5 9. Bb3 Nxb3 10. axb3 Re8 11. Nc3 a6 12. Nd5 Be7 13. Nxe7+ Qxe7 14. Ra5 b5 15. c4 Bb7 16. cxb5 g5 17. Bg3 Qb4 18. Qd2 Qxb3 19. bxa6 Bxa6 20. Rfa1 Bb7 21. Rxa8 Rxa8 22. Rxa8+ Bxa8 23. Nxe5 Ne4 24. Qxd7 Nxg3 25. hxg3 Bd5 26. Qd8+ Kg7 27. Ng4 Qd1+ 28. Kh2 Bxg2 29. Qxd1 1-0
+

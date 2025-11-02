@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/WZaiNPgL"]
+[White "abricot"]
+[Black "Francutio"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:19"]
+[WhiteElo "2245"]
+[BlackElo "1442"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "-1"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. f4 g6 2. Nf3 Bg7 3. g3 Nf6 4. Bg2 O-O 5. O-O e6 6. Nc3 d5 7. e4 dxe4 8. Ng5 h6 9. Ngxe4 Nc6 10. Nxf6+ Bxf6 11. d3 Nd4 12. Ne4 Nb5 13. a4 Qd4+ 14. Kh1 Bd7 15. axb5 Bxb5 16. c3 Qb6 17. Nxf6+ Kg7 18. f5 Qc5 19. d4 Bc6 20. dxc5 Bxg2+ 21. Kxg2 Rad8 22. Qg4 Kxf6 23. fxg6+ Ke7 24. Qh4+ Ke8 25. gxf7+ Rxf7 26. Bxh6 Rxf1 27. Rxf1 Kd7 28. Rd1+ Ke8 29. Qxd8+ Kf7 30. Qf8+ Kg6 31. g4 Kh7 32. Qg7# 1-0
+

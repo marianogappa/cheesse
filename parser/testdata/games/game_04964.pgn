@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/5w7FLiap"]
+[White "Dounniane"]
+[Black "chesstoerag"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:09"]
+[WhiteElo "1734"]
+[BlackElo "1730"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 c6 5. g3 Bf5 6. Bg2 Nf6 7. Bg5 h6 8. Qe2+ Be7 9. Bxf6 gxf6 10. Nf3 O-O 11. Nh4 Bh7 12. Qg4+ Kh8 13. O-O f5 14. Nxf5 Rg8 15. Nxh6 Rxg4 16. Nxf7+ 1-0
+

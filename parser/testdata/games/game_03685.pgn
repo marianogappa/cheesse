@@ -1,0 +1,18 @@
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/oxRghuCP"]
+[White "Rustlane"]
+[Black "BioHazaaard"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:05"]
+[WhiteElo "1840"]
+[BlackElo "1658"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-30"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "-"]
+[Termination "Normal"]
+
+1. e3 b6 2. Bc4 Ba6 3. Qf3 Nh6 4. Bxf7+ Nxf7 5. Qxa8 c6 6. Nf3 Qc7 7. Nc3 Bb7 8. Qxa7 Ba6 9. Qxc7 e6 10. Qxb8+ Ke7 11. Qxb6 Bc8 12. d4 Kd6 13. b3 Be7 14. Ba3# 1-0
+

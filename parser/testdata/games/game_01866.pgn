@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/32Eyizk8"]
+[White "soldier14"]
+[Black "zsoltik"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:01"]
+[WhiteElo "2359"]
+[BlackElo "2568"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Declined, Scandinavian Formation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. exd5 Nf6 5. c4 e6 6. Qxd4 exd5 7. cxd5 Nc6 8. Qe3+ Ne7 9. Nc3 Nxd5 10. Nxd5 Qxd5 11. Nf3 Be6 12. Bd2 Nf5 13. Qe5 a6 14. Qxd5 Bxd5 15. Bd3 Bxf3 16. gxf3 Nd4 17. Be4 O-O-O 18. Ba5 Rd7 19. O-O-O Be7 20. Kb1 Bf6 21. Bb6 Re8 22. Rd3 Re6 23. Bxd4 Rxd4 24. Rxd4 Bxd4 25. Bf5 Bxf2 26. Kc2 Kd7 27. Kd3 Ke7 28. Bxe6 fxe6 29. Rc1 Kd6 30. Ke2 Bd4 31. b3 Kd7 32. Rd1 e5 33. f4 Ke7 34. fxe5 Bxe5 35. Kf3 Bxh2 36. Rh1 Be5 37. Rxh7 Kd6 38. Ke4 Bf6 39. Rh8 Kc5 40. Rc8+ Kb4 41. Rc4+ Ka3 42. Ra4+ Kb2 43. Kf5 Bc3 44. Ke4 a5 45. Kd3 b5 46. Rg4 Bf6 47. Rg2+ Ka3 48. Rc2 a4 49. bxa4 bxa4 50. Rg2 Bb2 51. Kc4 Kxa2 52. Kb4 a3 53. Kc4 Kb1 54. Kb3 Bc1 55. Re2 g5 56. Rg2 g4 57. Rxg4 a2 58. Ra4 a1=Q 59. Rb4 Qb2+ 60. Kc4 Qxb4+ 61. Kxb4 1/2-1/2
+

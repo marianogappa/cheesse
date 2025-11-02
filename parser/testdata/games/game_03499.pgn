@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/HxUNNiPL"]
+[White "Oggi49"]
+[Black "filosse"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:23"]
+[WhiteElo "1406"]
+[BlackElo "1408"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A45"]
+[Opening "Indian Game: Pawn Push Variation"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. d5 d6 3. c4 c6 4. Nc3 cxd5 5. cxd5 b6 6. Bg5 e6 7. Nf3 h6 8. Bxf6 Qxf6 9. e4 Bb7 10. Bb5+ 1-0
+

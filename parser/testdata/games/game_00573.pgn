@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/KPdypu2p"]
+[White "IVIED"]
+[Black "feta31"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:08"]
+[WhiteElo "1512"]
+[BlackElo "1293"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[ECO "A40"]
+[Opening "English Defense #2"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 b6 2. Bf4 Bb7 3. Nc3 g6 4. Nb5 c6 5. Nc7+ Qxc7 6. Bxc7 Na6 7. Bg3 d6 8. e3 f5 9. Bxa6 Bxa6 10. Nf3 O-O-O 11. Qd2 Re8 12. a4 e5 13. dxe5 dxe5 14. Bxe5 Bg7 15. Bxg7 Bf1 16. Bxh8 Bxg2 17. Rg1 Bxf3 18. Be5 Nh6 19. Qd6 Kb7 20. Qd7+ Ka6 21. Qxe8 Ng4 22. Rxg4 Bxg4 23. Bf4 Bh5 24. Qg8 Ka5 25. Qxh7 Kb4 26. Ra3 Ka5 27. Rb3 Kxa4 28. Qxa7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/1XqSIbaD"]
+[White "ThinkingAction"]
+[Black "pedrogiro"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:09"]
+[WhiteElo "1513"]
+[BlackElo "1553"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+10"]
+[ECO "B28"]
+[Opening "Sicilian Defense: O'Kelly Variation, Yerevan System"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 a6 3. Nf3 Nc6 4. h3 e6 5. a3 Qc7 6. Bc4 Nf6 7. Qe2 Be7 8. O-O h5 9. Ba2 Ng4 10. Nd1 Nce5 11. Ne3 Nxf3+ 12. Qxf3 Qh2# 0-1
+

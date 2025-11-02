@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/10BQTo92"]
+[White "LeonelAraujo"]
+[Black "tk207"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:11"]
+[WhiteElo "1828"]
+[BlackElo "1522"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation #3"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 Bb4+ 4. c3 Ba5 5. f4 Ne7 6. Nf3 Bd7 7. Bd3 Bb6 8. O-O c5 9. Be3 cxd4 10. cxd4 Nbc6 11. Nc3 O-O 12. Bxh7+ Kxh7 13. Ng5+ Kh8 14. Qh5+ 1-0
+

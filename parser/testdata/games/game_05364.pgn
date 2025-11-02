@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tNcrKv5Z"]
+[White "nongiuoco"]
+[Black "dragonson7777"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:40"]
+[WhiteElo "1452"]
+[BlackElo "1490"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-1"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "240+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. c3 c6 3. f3 b5 4. Be3 Bb7 5. a3 d6 6. Nd2 Qb6 7. Bf2 d5 8. e3 a5 9. Bd3 Na6 10. Ne2 b4 11. axb4 axb4 12. c4 b3 13. Nxb3 Nb4 14. Bb1 Rxa1 15. c5 Qa6 16. Nxa1 Qxa1 17. O-O Ba6 18. Nc3 Bxf1 19. Kxf1 Nf6 20. g4 Be7 21. Kg2 O-O 22. h4 Na6 23. Qb3 Rb8 24. Qa2 Qxa2 25. Bxa2 Rxb2 26. Na4 Rxa2 27. Nb6 Nb4 28. Nc8 Kf8 29. Kg3 Nd3 30. Bg1 Ne4+ 31. Kh3 Ndf2+ 32. Bxf2 Nxf2+ 33. Kg3 h5 34. g5 f6 35. Nb6 fxg5 36. Nd7+ Kf7 37. Ne5+ Kf6 38. hxg5+ Kxg5 39. f4+ Kf5 40. Nxc6 h4+ 41. Kf3 Kf6 42. Ne5 h3 43. Ng4+ Kf5 44. Nxf2 Bh4 45. Nxh3 Ra1 46. Ng1 Rxg1 47. e4+ dxe4+ 48. Ke3 Re1+ 49. Kd2 Kxf4 50. c6 e3+ 51. Kd3 e2 52. Kd2 Ra1 53. Kxe2 Ra6 54. c7 Rc6 55. Kd3 Rxc7 56. Kd2 g5 57. Kd3 g4 58. d5 g3 59. dxe6 Re7 60. Kd4 g2 61. Kd5 g1=Q 62. Kd6 Qa7 63. Kd5 Qb7+ 64. Kd6 Kf5 65. Kc5 Rxe6 66. Kd4 Qb4+ 67. Kd5 Qb5+ 68. Kd4 Qd5+ 69. Kxd5 Re5+ 70. Kd4 Kf4 71. Kd3 Rd5+ 72. Ke2 Ke4 73. Kf1 Kf3 74. Kg1 Rd1+ 75. Kh2 Kg4 76. Kg2 Rd2+ 77. Kf1 1/2-1/2
+

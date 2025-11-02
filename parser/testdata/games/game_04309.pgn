@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/B8l3SBOi"]
+[White "shane47"]
+[Black "rafagp"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:33"]
+[WhiteElo "1664"]
+[BlackElo "1548"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+14"]
+[ECO "C42"]
+[Opening "Russian Game: Three Knights Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Qe7 4. Bc4 Nc6 5. Ng5 d5 6. exd5 Nd8 7. O-O h6 8. Nf3 e4 9. Nd4 Qc5 10. Bb5+ c6 11. dxc6 bxc6 12. Nb3 Qf5 13. Ba4 Ba6 14. Re1 Bb4 15. d3 O-O 16. Nd4 Qc5 17. Be3 Qd6 18. Re2 exd3 19. cxd3 Ng4 20. Ne4 Qxh2+ 21. Kf1 Qh1# 0-1
+

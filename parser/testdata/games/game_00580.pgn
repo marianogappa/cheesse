@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/vu4X1z51"]
+[White "refat11"]
+[Black "mishabazuka"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:09"]
+[WhiteElo "1718"]
+[BlackElo "1679"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 e6 3. Nf3 c6 4. e3 Nd7 5. Nbd2 Bb4 6. c3 Be7 7. Bd3 Bf6 8. Qc2 Ne7 9. h3 Ng6 10. Bd6 Be7 11. Bh2 O-O 12. g4 a5 13. Bg3 b5 14. h4 Bf6 15. g5 Be7 16. h5 Bxg5 17. hxg6 fxg6 18. Bxg6 hxg6 19. Qxg6 Bf6 20. Ne5 Qe7 21. Qh7# 1-0
+

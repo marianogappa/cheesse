@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pCrxoskx"]
+[White "Felpo"]
+[Black "Chronus"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:11"]
+[WhiteElo "1735"]
+[BlackElo "1777"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 d5 3. e5 d4 4. Bc4 e6 5. Nf3 a6 6. a4 Nc6 7. c3 f6 8. cxd4 cxd4 9. O-O Na5 10. d3 Bc5 11. Bd2 Nc6 12. Re1 f5 13. Ng5 Qe7 14. b4 Nxb4 15. Bxb4 Bxb4 16. Re2 a5 17. Bb5+ Bd7 18. Nf3 Bc5 19. Nbd2 Bxb5 20. axb5 b6 21. Nc4 Nh6 22. Nd6+ Bxd6 23. exd6 Qxd6 24. Ng5 O-O 25. Nxe6 Rfe8 26. Ng5 Rxe2 27. Qxe2 Qxf4 28. Qe6+ Kh8 29. Nf7+ Nxf7 30. Qxf7 Qe3+ 31. Kh1 Qxd3 32. Re1 Qxb5 33. h3 a4 34. Re7 Rg8 35. Qxf5 a3 36. Ra7 Qxf5 37. Rxa3 d3 38. Rb3 0-1
+

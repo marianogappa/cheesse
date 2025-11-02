@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ZeFGqffJ"]
+[White "SLVoyou"]
+[Black "WS10"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:13"]
+[WhiteElo "1268"]
+[BlackElo "1229"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "A40"]
+[Opening "English Defense #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 b6 2. c4 Bb7 3. Bf4 d6 4. Nf3 f6 5. g3 g5 6. Bg2 gxf4 7. gxf4 Bh6 8. Qd2 f5 9. O-O e6 10. Nc3 d5 11. cxd5 exd5 12. Ne5 Qf6 13. Nxd5 Qh4 14. Nxc7+ Kd8 15. Nxa8 Bxg2 16. Kxg2 Bxf4 17. e3 Qxh2+ 18. Kf3 Qg3+ 19. Ke2 Nh6 20. Qc2 Ng4 21. Qc7+ Ke8 22. Qxb8+ Ke7 23. Qxh8 Qh2 24. Nc6+ Ke6 25. Qe8+ Kf6 26. Qe7+ Kg6 27. exf4 Qxf4 28. Ne5+ Kh6 29. Nxg4+ Qxg4+ 30. f3 Qg2+ 31. Rf2 Qg6 32. d5 a5 33. d6 Qg8 34. d7 Qxa8 35. d8=Q Qa6+ 36. Kd2 b5 37. Qdf8+ Kh5 38. Qxh7+ Kg5 39. Qfh6+ Qxh6 40. Qxh6+ Kxh6 41. Rg2 Kh5 42. Rh1# 1-0
+

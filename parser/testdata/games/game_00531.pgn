@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/vHHk05IL"]
+[White "rabl"]
+[Black "FuturechessGM27"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:54"]
+[WhiteElo "2066"]
+[BlackElo "2039"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. e3 g6 3. Be2 Bg7 4. Bd3 O-O 5. Nd2 d5 6. f3 c5 7. c3 cxd4 8. exd4 Nc6 9. Qe2 e5 10. dxe5 Nxe5 11. f4 Nxd3+ 12. Qxd3 Re8+ 13. Kd1 Bf5 14. Qf1 Qb6 15. Ngf3 Rac8 16. h3 Ne4 17. Nxe4 dxe4 18. Ne5 Rcd8+ 19. Ke1 Bxe5 20. fxe5 Qe6 21. Bf4 Qd5 22. Qe2 Be6 23. Rd1 Qxd1+ 24. Qxd1 Rxd1+ 25. Kxd1 Bf5 26. Kc2 Be6 27. b3 Bd5 28. c4 Bc6 29. Be3 a6 30. Bd4 Kf8 31. Re1 Ke7 32. Kd2 Rd8 33. Ke3 Ke6 34. Bb6 Rd7 35. Bd4 h5 36. Rf1 b5 37. Rf6+ Ke7 38. Rxc6 Rb7 39. Kxe4 bxc4 40. Rxc4 a5 41. Bc5+ Ke6 42. Bd6 Rd7 43. Rc7 Rxc7 44. Bxc7 f6 45. exf6 Kxf6 46. Kf4 g5+ 47. Kf3 Ke6 48. Ke4 Kd7 49. Bxa5 g4 50. hxg4 hxg4 51. Be1 g3 52. Bxg3 1-0
+

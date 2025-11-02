@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/AlCTIKJr"]
+[White "KKDad74"]
+[Black "Batdog"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:42"]
+[WhiteElo "1583"]
+[BlackElo "1593"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[TimeControl "480+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Qf6 4. d3 Be7 5. Bg5 Qg6 6. Qd2 h6 7. Nh4 Qxg5 8. Nf3 Qxg2 9. Rg1 Qxf3 10. Rg3 Qh1+ 11. Ke2 Nd4+ 12. Ke3 Qf3+ 13. Rxf3 Bg5+ 14. Rf4 Bxf4# 0-1
+

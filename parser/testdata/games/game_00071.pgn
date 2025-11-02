@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/BOyLxQ63"]
+[White "qualifier"]
+[Black "FuturechessGM27"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:05"]
+[WhiteElo "2013"]
+[BlackElo "2052"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-13"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Indian Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. g3 Nf6 2. Bg2 g6 3. Nf3 Bg7 4. O-O O-O 5. Ne1 d5 6. c3 c5 7. d3 Nc6 8. f3 e5 9. Be3 Be6 10. Bxc5 Re8 11. Bf2 Rc8 12. Nd2 d4 13. c4 b6 14. a3 Na5 15. Ne4 Nb7 16. b4 a5 17. Nxf6+ Bxf6 18. b5 Bg7 19. a4 Nc5 20. e4 f5 21. exf5 gxf5 22. Nc2 Qd6 23. Qd2 Nb3 24. Qd1 Nxa1 25. Qxa1 Bf7 26. Qd1 Bg6 27. Qd2 Rc5 28. Ne1 Rcc8 29. h4 Rcd8 30. Bh3 Qa3 31. g4 fxg4 32. fxg4 Qxa4 33. h5 Bf7 34. h6 Bf6 35. Bg3 Re6 36. g5 Bh8 37. Qf2 Rf8 38. Bxe6 Bf6 39. Qxf6 Bxe6 40. Qxf8# 1-0
+

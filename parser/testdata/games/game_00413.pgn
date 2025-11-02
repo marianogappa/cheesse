@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/P8ry0Ykh"]
+[White "DenisYanisev"]
+[Black "aperechnev"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:26"]
+[WhiteElo "1277"]
+[BlackElo "1408"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 d5 5. Nxc6 bxc6 6. Qe2 Bc5 7. exd5+ Ne7 8. dxc6 O-O 9. Qe5 Bb4+ 10. c3 Re8 11. Be2 Nxc6 12. Qb5 Nd4 13. Qxb4 Rxe2+ 14. Kd1 Re4 15. Nd2 Re2 16. cxd4 Rxf2 17. Qc4 Bg4+ 18. Nf3 Rxg2 19. Rf1 Bxf3+ 20. Rxf3 Rg1+ 21. Kd2 Qg5+ 22. Kd3 Qg6+ 23. Kd2 Qg2+ 24. Ke3 Re8+ 25. Kf4 Qxh2+ 26. Kf5 Qh5+ 27. Bg5 Qxg5# 0-1
+

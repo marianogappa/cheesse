@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yrsFBstJ"]
+[White "HugoEmilio"]
+[Black "BUCEFULO"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:27"]
+[WhiteElo "1696"]
+[BlackElo "1736"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Queen's Knight Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. Nf3 Bxc3+ 5. bxc3 h6 6. cxd5 Qxd5 7. e3 Nf6 8. Bd3 c6 9. O-O O-O 10. a4 Ne4 11. c4 Qf5 12. Nh4 Qf6 13. Nf3 Nd6 14. Ba3 Rd8 15. Ne5 Nf5 16. Qb3 a6 17. Rfe1 b5 18. cxb5 axb5 19. axb5 Nd7 20. Nxc6 Re8 21. e4 Nxd4 22. Nxd4 Qxd4 23. Bb2 Rxa1 24. Bxa1 Nc5 25. Bxd4 Nxb3 26. b6 Nxd4 27. Rb1 Bb7 28. g3 f5 29. exf5 Nxf5 30. Bb5 Re7 31. Rc1 Nd6 32. Bf1 e5 0-1
+

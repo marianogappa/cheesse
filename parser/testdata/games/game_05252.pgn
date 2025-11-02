@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jMvzsi18"]
+[White "fatihkanlidere"]
+[Black "raukomor"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:10"]
+[WhiteElo "1868"]
+[BlackElo "1917"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.13] } 1... e6 { [%eval 0.06] } 2. Nf3 { [%eval 0.01] } 2... d6?! { [%eval 0.7] } 3. d4 { [%eval 0.6] } 3... Ne7 { [%eval 0.8] } 4. Nc3 { [%eval 0.75] } 4... Bd7 { [%eval 0.88] } 5. Bf4 { [%eval 0.9] } 5... Ng6 { [%eval 0.95] } 6. Bg3 { [%eval 0.72] } 6... Be7 { [%eval 1.01] } 7. Bc4 { [%eval 0.68] } 7... c6 { [%eval 0.95] } 8. Bb3 { [%eval 0.5] } 8... a5 { [%eval 0.65] } 9. a4 { [%eval 0.46] } 9... b6?! { [%eval 1.23] } 10. h3?! { [%eval 0.64] } 10... Na6 { [%eval 0.64] } 11. O-O { [%eval 0.39] } 11... O-O { [%eval 0.46] } 12. Qd2 { [%eval 0.34] } 12... d5 { [%eval 0.37] } 13. e5?! { [%eval -0.29] } 13... f5?! { [%eval 0.47] } 14. exf6 { [%eval 0.43] } 14... Rxf6 { [%eval 0.65] } 15. Ne5 { [%eval 0.2] } 15... Be8 { [%eval 0.54] } 16. f4?! { [%eval 0.0] } 16... Nb4?! { [%eval 0.56] } 17. Ne2 { [%eval 0.36] } 17... Na6 { [%eval 0.75] } 18. c3 { [%eval 0.37] } 18... Nc7?! { [%eval 1.02] } 19. Bc2 { [%eval 1.02] } 19... Rb8 { [%eval 1.29] } 20. Qd3 { [%eval 1.18] } 20... Nxe5?? { [%eval 17.94] } 21. Qxh7+ { [%eval 17.14] } 21... Kf7 { [%eval 17.24] } 22. fxe5 { [%eval 15.85] } 22... Rxf1+?! { [%eval #8] } 23. Rxf1+ { [%eval #7] } 23... Bf6 { [%eval #7] } 24. Qg6+?! { [%eval 17.98] } 1-0
+

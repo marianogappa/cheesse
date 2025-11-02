@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LIer0Ycm"]
+[White "abdulfemi"]
+[Black "chrscapin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:20"]
+[WhiteElo "1834"]
+[BlackElo "1826"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "A20"]
+[Opening "English Opening: King's English Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. c4 e5 2. e3 d6 3. Nf3 Nc6 4. Nc3 Nf6 5. a3 Be7 6. Be2 O-O 7. O-O h6 8. b4 Nb8 9. Bb2 c6 10. d4 e4 11. Nd2 d5 12. Qc2 Bf5 13. Bd1 Bh7 14. h3 Qd7 15. Qa4 Bg6 16. Bb3 Rd8 17. Ne2 Nh7 18. Nf4 Bf5 19. cxd5 cxd5 20. Qxd7 Rxd7 21. Nxd5 Bf8 22. Nf4 Ng5 23. g4 Bh7 24. Kg2 Nc6 25. Rac1 Ne7 26. h4 Nf3 27. Nxf3 exf3+ 28. Kxf3 Ng6 29. Nxg6 Bxg6 30. Kg3 Bd6+ 31. Kh3 Be4 32. f3 Bd3 33. Rf2 Re8 34. e4 Ree7 35. d5 Bc7 36. Rd2 Ba6 37. Rdc2 Bf4 38. Rc8+ Kh7 39. R1c2 b6 40. R8c6 Bf1+ 41. Rg2 Bxg2+ 42. Kxg2 Rd6 43. Rc8 Be5 44. Bc1 Bd4 45. f4 Rxe4 46. Bc2 f5 47. Bxe4 fxe4 48. Re8 Rxd5 49. Rxe4 Bc3 50. f5 a5 51. bxa5 bxa5 52. Be3 Bb2 53. Kf3 Rd1 54. g5 Rf1+ 55. Kg4 Rg1+ 56. Bxg1 Bxa3 57. g6+ Kg8 58. Re8+ Bf8 59. Bc5 h5+ 60. Kxh5 1-0
+

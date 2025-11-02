@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/5wzfY5py"]
+[White "lee3j7"]
+[Black "Ott3211"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:18"]
+[WhiteElo "1404"]
+[BlackElo "1440"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-24"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense #2"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Bxc6 a6 5. Ba4 b5 6. Bb3 Bc5 7. Nxe5 O-O 8. Nxf7 Rxf7 9. Bxf7+ Kh8 10. Bd5 d6 11. Bxa8 Ng4 12. f3 Qg5 13. d4 Bb4+ 14. c3 Bxc3+ 15. Nxc3 Nf2 16. Bxg5 Nxd1 17. Rxd1 Be6 18. Bd5 Bxd5 19. exd5 h6 20. O-O hxg5 21. f4 b4 22. fxg5 bxc3 23. bxc3 g6 24. Rde1 a5 25. Re7 a4 26. Rf8# 1-0
+

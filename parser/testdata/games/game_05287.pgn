@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OVWVzoSA"]
+[White "benben10"]
+[Black "Dmitso90"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:22"]
+[WhiteElo "1585"]
+[BlackElo "1695"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. c3 d6 6. Bb3 Bg4 7. Nbd2 d5 8. Qe2 dxe4 9. dxe4 O-O 10. Nf1 Bc5 11. h3 Bh5 12. g4 Bg6 13. Ng3 Na5 14. Bc2 b5 15. b4 Bxf2+ 16. Kxf2 Nc4 17. Nf5 1-0
+

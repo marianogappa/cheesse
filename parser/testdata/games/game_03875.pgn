@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yMCPpmCz"]
+[White "Ili200"]
+[Black "pollischa"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:48"]
+[WhiteElo "1543"]
+[BlackElo "1435"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "C62"]
+[Opening "Ruy Lopez: Steinitz Defense"]
+[TimeControl "300+4"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. Bxc6+ bxc6 5. O-O Bg4 6. d3 Qf6 7. Nbd2 d5 8. h3 Bxf3 9. Qxf3 Qxf3 10. Nxf3 dxe4 11. Nxe5 exd3 12. Nxd3 Be7 13. Bf4 Rc8 14. a3 Nf6 15. b4 O-O 16. c4 Ne4 17. c5 Bf6 18. Rae1 Rfe8 19. f3 Bd4+ 20. Kh2 Ng3 21. Rxe8+ Rxe8 22. Kxg3 h6 23. Re1 Rxe1 24. Nxe1 g5 25. Bc1 Be5+ 26. Kf2 h5 27. Nd3 Bf6 28. Bb2 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/eyzbyzbp"]
+[White "KelvinCarlton"]
+[Black "lotda"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:38"]
+[WhiteElo "1708"]
+[BlackElo "1745"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Slav Formation"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. g3 c6 2. Bg2 d5 3. Nf3 e6 4. O-O Nf6 5. d4 Bd6 6. e3 O-O 7. b3 Bd7 8. c4 a6 9. c5 Be7 10. b4 b6 11. a4 bxc5 12. bxc5 Be8 13. a5 Nbd7 14. Ba3 Rb8 15. e4 Qc7 16. e5 Ne4 17. Nbd2 Nexc5 18. dxc5 Nxc5 19. Bxc5 Bxc5 20. Rb1 Rc8 21. Rc1 Bd7 22. Rxc5 Qa7 23. Rc1 Qb7 24. Rb1 Qc7 25. Rc1 c5 26. Nb3 c4 27. Nbd4 Bb5 28. Nxb5 axb5 29. a6 Qb6 30. Ra1 Ra8 31. a7 b4 32. Qd4 Rxa7 33. Qxb6 Rxa1 34. Rxa1 g6 35. Ra7 Kg7 36. Qa6 Rg8 37. Ra8 h6 38. Rb8 Rxb8 39. Qa8 Rxa8 40. Bh3 Ra1+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/SkPncIuk"]
+[White "buyaka"]
+[Black "Mikael1998"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:52"]
+[WhiteElo "1523"]
+[BlackElo "1637"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-13"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Qf6 3. Nc3 c6 4. d3 h6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 d6 8. Bf4 g5 9. Bg3 Bg7 10. O-O-O Bg4 11. f3 Bd7 12. Bc4 b5 13. Bb3 Ke7 14. Nf5+ Bxf5 15. exf5 d5 16. Rhe1+ Kd7 17. Ne4 Na6 18. Nd6 Rf8 19. Nb7 h5 20. Bf2 Re8 21. Bxa7 Rxe1 22. Rxe1 g4 23. Re3 gxf3 24. Rxf3 h4 25. Nc5+ Nxc5 26. Bxc5 Bf6 27. Bf2 Ne7 28. c3 Rh5 29. Bc2 Rg5 30. Bxh4 Rxg2 31. Bxf6 Rxh2 32. Bxe7 Kxe7 33. f6+ Kd7 34. Bf5+ Kd6 35. Kb1 Rh1+ 36. Kc2 Ke5 37. Bd3 Rh2+ 38. Kb1 Rh6 39. Re3+ Kxf6 40. Re8 Kg7 41. Rc8 Rf6 42. Rc7 Kf8 43. Be2 Rf4 44. Bh5 Rf6 45. Bg4 Kg7 46. Bd7 1-0
+

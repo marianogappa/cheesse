@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QM9mfjv1"]
+[White "serbianknight_1389"]
+[Black "frostbitten"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:44"]
+[WhiteElo "2278"]
+[BlackElo "2275"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[BlackTitle "NM"]
+[ECO "A48"]
+[Opening "London System"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 d5 4. e3 Bg7 5. Bd3 c6 6. h3 O-O 7. Nbd2 Bf5 8. O-O Ne4 9. g4 Nxd2 10. Qxd2 Be4 11. Ne1 Nd7 12. f3 Bxd3 13. Nxd3 e5 14. Nxe5 Nxe5 15. Bxe5 Bxe5 16. dxe5 Qh4 17. Kg2 Rfe8 18. f4 f6 19. exf6 Qxf6 20. c3 Re4 21. Rae1 Rae8 22. Re2 Qe6 23. Rfe1 c5 24. Kf3 h5 25. Rd1 d4 26. Rde1 Qd5 27. Kf2 dxe3+ 28. Qxe3 Rxe3 29. Rxe3 Rxe3 30. Rxe3 Qd2+ 31. Re2 Qxf4+ 0-1
+

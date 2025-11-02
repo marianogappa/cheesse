@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/K1Ksodkh"]
+[White "PBS"]
+[Black "tkls"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:26"]
+[WhiteElo "1445"]
+[BlackElo "1109"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 d6 3. Bb5+ c6 4. Bc4 b5 5. Qxf7# 1-0
+

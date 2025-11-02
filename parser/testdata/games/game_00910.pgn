@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/E0kTG3rw"]
+[White "stungar"]
+[Black "cnnfoxmsn1"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:26"]
+[WhiteElo "1481"]
+[BlackElo "1469"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. c5 Qf6 4. Nf3 Nc6 5. e3 Qf5 6. Bd3 Ne5 7. Bxf5 1-0
+

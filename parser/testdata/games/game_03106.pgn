@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/9naDLsbm"]
+[Site "https://lichess.org/YHH3Qqf0"]
+[White "DeilsonLopes"]
+[Black "Lichanon"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:35"]
+[WhiteElo "1996"]
+[BlackElo "1764"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bf4 g6 3. e3 Bg7 4. Nd2 d6 5. h4 h5 6. Be2 Bf5 7. c3 O-O 8. Ngf3 Nbd7 9. Ng5 c5 10. O-O e5 11. dxe5 dxe5 12. Bg3 Qc7 13. e4 Be6 14. Bc4 Bxc4 15. Nxc4 Rad8 16. Qb3 Nb6 17. Nxe5 Qe7 18. Nexf7 c4 19. Qc2 Nbd7 20. e5 Ng4 21. e6 Nde5 22. Nxe5 Nxe5 23. Bxe5 Bxe5 24. Qxg6+ Bg7 25. Qh7# 1-0
+

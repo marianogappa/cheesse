@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/984F1bRd"]
+[White "chess1981"]
+[Black "countermeasurer"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:09"]
+[WhiteElo "1709"]
+[BlackElo "1854"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 6. f4 Ne7 7. Nf3 c5 8. c3 Nd7 9. Nbd2 Rc8 10. g4 g6 11. h4 h5 12. gxh5 Rxh5 13. b3 Nf5 14. Bb2 Qb6 15. Rc1 cxd4 16. cxd4 Rxc1+ 17. Bxc1 Bb4 18. Bb2 Ke7 19. Bc3 Qa5 20. Nb1 Ng3 21. Rg1 Ne4 22. Bxb4+ Qxb4+ 23. Ke2 a5 24. Nbd2 a4 25. Nxe4 dxe4 26. Qxe4 axb3 27. axb3 Qxb3 28. Qd3 Qb2+ 29. Qd2 Qb5+ 0-1
+

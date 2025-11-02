@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BbNnYh5q"]
+[White "viralblackz"]
+[Black "Milosch"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:47"]
+[WhiteElo "1607"]
+[BlackElo "1729"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-14"]
+[ECO "C21"]
+[Opening "Danish Gambit Accepted, Copenhagen Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Bb4+ 6. Nc3 Ne7 7. Qb3 Bxc3+ 8. Bxc3 O-O 9. Nf3 d6 10. O-O Bg4 11. Bb2 b6 12. Qc3 Nf5 13. exf5 Qf6 14. Qxf6 gxf6 15. Bd5 c6 16. Bb3 Kg7 17. Nd4 d5 18. h3 c5 19. hxg4 cxd4 20. Bxd5 Nd7 21. Bxa8 Rxa8 22. Bxd4 Ne5 23. Bxe5 fxe5 24. Rfe1 f6 25. Rad1 Rd8 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ceXnIgjE"]
+[White "hlopusska"]
+[Black "tipacou"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:11"]
+[WhiteElo "1130"]
+[BlackElo "1079"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 f6 3. exf6 Nxf6 4. d4 Nc6 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3 Qd6 8. Bf4 Qe6+ 9. Be2 Kd7 10. c3 h6 11. Na3 g5 12. Be5 Bg7 13. Bxf6 Bxf6 14. O-O h5 15. Rfe1 g4 16. hxg4 Qxg4 17. Qxg4+ hxg4 18. Bxg4+ e6 19. Bxe6+ Ke7 20. Nb5 a6 21. Nxc7 Rh6 22. Nxd5+ Kf8 23. Nxf6 Rxf6 24. Bd7 Rd8 25. Bxc6 bxc6 26. f3 Rd5 27. Re3 Kg7 28. Rae1 Rh5 29. g4 Rh3 30. g5 Rfxf3 31. Re7+ Kg6 32. Kg2 Rfg3+ 33. Kf2 Rf3+ 34. Kg2 Rfg3+ 35. Kf1 Rxg5 36. R1e6+ Kh5 37. Rxc6 Rh1+ 38. Ke2 Rg3 39. Re5+ Rg5 40. Rxg5+ Kxg5 41. Rxa6 Rh2+ 42. Kd3 Rxb2 43. d5 Rb7 44. Kd4 Kf5 45. c4 Re7 46. c5 Re4+ 47. Kc3 Re5 48. d6 Rd5 49. Kc4 Ke4 50. c6 Rxd6 51. c7 Rxa6 52. c8=Q Ra4+ 53. Kc5 Rxa2 54. Qc6+ Kf4 55. Qf6+ Kg3 56. Qc3+ Kf4 57. Qc4+ Ke3 58. Qxa2 1-0
+

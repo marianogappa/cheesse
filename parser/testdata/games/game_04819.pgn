@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/0c3zQtHY"]
+[White "cheaterssuc"]
+[Black "NoLuckXD"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:35"]
+[WhiteElo "1483"]
+[BlackElo "1434"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-43"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. d4 e5 3. Nc3 exd4 4. Nxd4 Bc5 5. Bf4 Bxd4 6. Qxd4 Nc6 7. Qe3+ Be6 8. Nb5 Nf6 9. Nxc7+ Ke7 10. Nxe6 fxe6 11. O-O-O Re8 12. Qg3 h6 13. Qxg7# 1-0
+

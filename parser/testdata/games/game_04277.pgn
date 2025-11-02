@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jNpagKsj"]
+[White "Walace65"]
+[Black "donatienda"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:22"]
+[WhiteElo "1510"]
+[BlackElo "1468"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-35"]
+[ECO "C42"]
+[Opening "Russian Game: Three Knights Game"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Bb4 4. d3 Nc6 5. Bd2 d6 6. a3 Bc5 7. Bg5 Bg4 8. Be2 h6 9. Bh4 g5 10. Bg3 h5 11. h4 gxh4 12. Bxh4 Qe7 13. Nd5 Nxd5 14. Bxe7 Kxe7 15. exd5 Nd4 16. Nxd4 Bxe2 17. Nxe2 Rag8 18. O-O h4 19. b4 h3 20. g3 h2+ 21. Kh1 f5 22. bxc5 f4 23. gxf4 exf4 24. cxd6+ Kxd6 25. Nxf4 Rf8 26. Ng6 Rxf2 1-0
+

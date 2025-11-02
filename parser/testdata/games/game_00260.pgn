@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZzODLo3M"]
+[White "lobochess03"]
+[Black "tanju_S"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:46"]
+[WhiteElo "1831"]
+[BlackElo "1866"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+12"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 Nc6 4. Be2 Nf6 5. Nc3 Qa5 6. d4 Nd5 7. Bd2 Nxc3 8. Bxc3 Qd5 9. O-O e6 10. Re1 Be7 11. Qd2 O-O 12. b3 Bd7 13. Bc4 Qh5 14. h3 Rad8 15. Be2 Qg6 16. Bd3 Qh5 17. Ne5 Nxe5 18. Rxe5 Qh4 19. Be2 Bc6 20. Rh5 Qe4 21. Bf3 Qg6 22. Bxc6 Qxh5 23. Bxb7 c5 24. Bf3 Qg6 25. Ba5 Rxd4 26. Qe3 Qxc2 27. Bc3 Rd3 28. Be4 Rxe3 29. Bxc2 Rxc3 30. Rc1 f5 31. g4 Bg5 32. Re1 Rxc2 33. Rxe6 fxg4 34. hxg4 Rfxf2 35. b4 Rg2+ 36. Kf1 Rh2 37. Kg1 Rhd2 38. Re1 Rxa2 39. bxc5 Be3+ 40. Kh1 Rh2# 0-1
+

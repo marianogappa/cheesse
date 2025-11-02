@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/fO5EqwGY"]
+[White "Plasma_Redback"]
+[Black "schach2017"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:50"]
+[WhiteElo "1116"]
+[BlackElo "1025"]
+[WhiteRatingDiff "+20"]
+[BlackRatingDiff "-9"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "900+15"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.29] } 1... e5 { [%eval 0.24] } 2. Nf3 { [%eval 0.26] } 2... Nc6 { [%eval 0.23] } 3. d4 { [%eval 0.0] } 3... exd4 { [%eval 0.16] } 4. Nxd4 { [%eval 0.15] } 4... Ne5 { [%eval 0.55] } 5. f4 { [%eval 0.6] } 5... Nc6 { [%eval 0.66] } 6. Nxc6 { [%eval 0.57] } 6... dxc6 { [%eval 0.78] } 7. Qxd8+ { [%eval 0.58] } 7... Kxd8 { [%eval 0.8] } 8. Bc4 { [%eval 0.63] } 8... Nh6 { [%eval 0.79] } 9. O-O?! { [%eval -0.16] } 9... Bc5+ { [%eval -0.32] } 10. Kh1 { [%eval -0.27] } 10... Re8?! { [%eval 0.29] } 11. h4? { [%eval -1.47] } 11... Rxe4 { [%eval -1.38] } 12. Bd3 { [%eval -1.76] } 12... Re6? { [%eval -0.07] } 13. f5 { [%eval -0.21] } 13... Re5 { [%eval 0.0] } 14. f6? { [%eval -1.2] } 14... gxf6 { [%eval -1.06] } 15. Rxf6?! { [%eval -1.57] } 15... Re1+ { [%eval -1.39] } 16. Kh2?? { [%eval -10.83] } 16... Rxc1?? { [%eval -5.01] } 17. Rxh6 { [%eval -4.79] } 17... Bf5?? { [%eval 0.33] } 18. Bxf5 { [%eval 0.31] } 18... Re1?! { [%eval 1.14] } 19. Bxh7 { [%eval 0.87] } 19... Re7? { [%eval 3.78] } 20. Nd2 { [%eval 3.45] } 20... Kd7?? { [%eval 6.95] } 21. Bf5+ { [%eval 6.84] } 21... Kd8 { [%eval 6.63] } 22. Rh8+? { [%eval 5.55] } 22... Re8 { [%eval 5.49] } 23. Rxe8+?! { [%eval 4.78] } 23... Kxe8 { [%eval 4.72] } 24. Ne4 { [%eval 4.55] } 24... Bd4 { [%eval 4.77] } 25. Re1? { [%eval 3.7] } 25... Kf8? { [%eval 4.7] } 26. c3 { [%eval 4.49] } 26... Bf2?? { [%eval 10.14] } 27. Re2?? { [%eval 2.74] } 27... Bc5?? { [%eval 10.8] } 28. Nxc5 { [%eval 10.59] } 28... Re8 { [%eval 62.87] } 29. Rxe8+ { [%eval 57.3] } 29... Kxe8 { [%eval 55.51] } 30. h5 { [%eval 18.0] } 30... Kf8?! { [%eval #14] } 31. h6 { [%eval 56.27] } 31... Kg8?! { [%eval #11] } 32. h7+ { [%eval #12] } 32... Kh8 { [%eval #10] } 33. Nxb7 { [%eval #9] } 33... a6 { [%eval #9] } 34. b4 { [%eval #11] } 34... c5 { [%eval #9] } 35. bxc5 { [%eval #8] } 1-0
+

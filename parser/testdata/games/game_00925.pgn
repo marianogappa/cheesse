@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/S7qndGs5"]
+[White "biiiibob"]
+[Black "mecitaydin"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:27"]
+[WhiteElo "1461"]
+[BlackElo "1641"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "C21"]
+[Opening "Danish Gambit Accepted"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Nc6 6. Nf3 Bb4+ 7. Nbd2 Nf6 8. e5 Ne4 9. O-O Nxd2 10. Nxd2 O-O 11. Nf3 d6 12. exd6 Qxd6 13. Qb3 Be6 14. Rad1 Qe7 15. a3 Na5 16. Qa2 Nxc4 0-1
+

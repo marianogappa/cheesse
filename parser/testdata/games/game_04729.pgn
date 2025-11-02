@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/z6eBzA6g"]
+[White "abaraba"]
+[Black "Pr0m3th3us"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:10"]
+[WhiteElo "1899"]
+[BlackElo "1250"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "720+2"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 Qe4+ 4. Be2 Qg4 5. O-O Qg6 6. d4 Bh3 7. Nh4 Qe4 8. Bf3 Qxh4 9. Bxb7 Nf6 10. Bxa8 Qg4 11. Qxg4 Nxg4 12. gxh3 Nxf2 13. Rxf2 1-0
+

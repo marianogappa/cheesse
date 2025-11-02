@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/g68UVsJd"]
+[White "RicardoRojas2001"]
+[Black "aGrig"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:58"]
+[WhiteElo "1973"]
+[BlackElo "2044"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C50"]
+[Opening "Italian Game: Rousseau Gambit"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.28] } 1... e5 { [%eval 0.31] } 2. Nf3 { [%eval 0.31] } 2... Nc6 { [%eval 0.39] } 3. Bc4 { [%eval 0.25] } 3... f5?! { [%eval 1.04] } 4. Ng5?? { [%eval -3.73] } 4... Qxg5 { [%eval -3.56] } 5. d4?? { [%eval -8.52] } 5... Qxg2 { [%eval -8.52] } 6. Rf1 { [%eval -8.49] } 6... Nxd4? { [%eval -7.05] } 7. exf5? { [%eval -11.28] } 7... d5 { [%eval -9.64] } 8. Be2 { [%eval -13.05] } 8... Bxf5 { [%eval -12.41] } 9. Nc3 { [%eval -16.13] } 9... Nxc2+ { [%eval -15.26] } 10. Kd2 { [%eval -15.41] } 10... d4 { [%eval -14.64] } 11. Nd5 { [%eval -19.8] } 11... O-O-O { [%eval -19.3] } 12. Bf3?! { [%eval #-12] } 12... Qg5+ { [%eval #-11] } 13. Ke2 { [%eval #-11] } 13... d3+ { [%eval #-10] } 14. Qxd3 { [%eval #-11] } 14... Bxd3+ { [%eval #-18] } 15. Kxd3 { [%eval #-8] } 15... Qf5+ { [%eval #-7] } 16. Be4 { [%eval #-5] } 16... Qe6?! { [%eval -18.02] } 17. Kxc2 { [%eval -17.47] } 17... Rxd5 { [%eval -15.69] } 18. Bxd5 { [%eval -18.74] } 18... Qxd5 { [%eval -16.92] } 19. Be3 { [%eval -27.0] } 19... Nf6 { [%eval -16.43] } 20. Rad1 { [%eval -19.35] } 20... Qe4+ { [%eval -18.87] } 21. Kc1 { [%eval -17.96] } 21... Bb4 { [%eval -15.12] } 22. Rg1 { [%eval -16.86] } 22... g6 { [%eval -13.75] } 23. h4 { [%eval -17.56] } 23... Nd5 { [%eval -16.8] } 24. Bg5 { [%eval -17.66] } 24... Nf4 { [%eval -14.39] } 25. Rge1?! { [%eval #-10] } 25... Bxe1 { [%eval #-10] } 26. Bxf4 { [%eval #-11] } 26... exf4 { [%eval -56.73] } 27. Rxe1?! { [%eval #-6] } 27... Qxe1+ { [%eval #-5] } 28. Kc2 { [%eval #-5] } 0-1
+

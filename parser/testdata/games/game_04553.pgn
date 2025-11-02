@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/ftji6nWs"]
+[White "alexrakitko"]
+[Black "hobiii"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:22"]
+[WhiteElo "1591"]
+[BlackElo "1739"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C33"]
+[Opening "King's Gambit Accepted, Polerio Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. d4 g5 4. e5 f6 5. Nf3 g4 6. Ng1 fxe5 7. Qe2 Qh4+ 8. g3 fxg3 9. Qxe5+ Be7 10. Qxh8 g2+ 11. Kd1 gxf1=Q+ 12. Kd2 Qhf2+ 13. Kc3 Q1e1+ 14. Bd2 Qe6 15. Na3 Qff5 16. Re1 d6 17. Rxe6 Bxe6 18. Ne2 Bf6 0-1
+

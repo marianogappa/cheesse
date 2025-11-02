@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2zzNVtpE"]
+[White "tms363"]
+[Black "MUXE"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:43"]
+[WhiteElo "1587"]
+[BlackElo "1554"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "300+4"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d3 c6 5. Bd2 Qc7 6. Be2 Nf6 7. Bf3 Bf5 8. Nge2 e6 9. O-O Nbd7 10. a3 Bd6 11. Qc1 Bxh2+ 12. Kh1 Bd6 13. Rb1 h5 14. Bf4 Bxf4 15. Qxf4 Qxf4 16. Nxf4 O-O-O 17. Kg1 Ne5 18. Be4 Bxe4 19. dxe4 g5 20. Nh3 Rd2 21. Nxg5 Rxc2 22. Rfc1 Rd2 23. Nb5 Kb8 24. Nc3 Rg8 25. f4 Nd3 26. Rd1 Rxd1+ 27. Rxd1 Nxf4 28. Nxf7 Rxg2+ 29. Kf1 Rh2 30. e5 Ng4 31. Rd8+ Kc7 32. Rh8 Rh1# 0-1
+

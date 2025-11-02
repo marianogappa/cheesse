@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/HFUGPw2C"]
+[White "malestro"]
+[Black "Maziozare"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:45"]
+[WhiteElo "2301"]
+[BlackElo "1938"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Pirc Invitation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. Nf3 d6 2. g3 c6 3. Bg2 Nf6 4. O-O g6 5. d3 Bg7 6. Nbd2 Qc7 7. e4 O-O 8. Re1 e5 9. c3 Nbd7 10. b4 a5 11. a3 axb4 12. cxb4 b5 13. Bb2 Bb7 14. d4 Rfe8 15. Rc1 Nb6 16. Rc2 Na4 17. Ba1 Rac8 18. Nb3 Qb8 19. Na5 Ba8 20. dxe5 dxe5 21. Qc1 Qd6 22. Rd1 Qb8 23. Nxc6 Bxc6 24. Rxc6 Rxc6 25. Qxc6 Nh5 26. Rd7 Rc8 27. Qd5 Rf8 28. Bxe5 Bxe5 29. Qxe5 Qc8 30. Qc7 Qxc7 31. Rxc7 Nb6 32. Nd4 Nc4 33. Nxb5 Rb8 34. Rxc4 Rxb5 35. a4 Rb8 36. a5 Nf6 37. a6 Ra8 38. b5 Nd7 39. Rc6 Ne5 40. Rc7 Kg7 41. f4 Ng4 42. e5 Rb8 43. Bb7 Ne3 44. a7 Rd8 45. a8=Q Rxa8 46. Bxa8 Nc2 47. b6 Nd4 48. Bd5 Ne6 49. Bxe6 Kh6 50. Bxf7 g5 51. b7 gxf4 52. b8=Q fxg3 53. hxg3 Kg5 54. e6 h5 55. e7 h4 56. gxh4+ Kxh4 57. Rc4+ Kg5 58. Qe5+ Kh6 59. Qf6+ Kh7 60. Rh4# 1-0
+

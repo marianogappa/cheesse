@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VJcAyRro"]
+[White "SeryaK"]
+[Black "pedroheredi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:54"]
+[WhiteElo "1352"]
+[BlackElo "1280"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. cxd5 Qxd5 4. Nc3 Qa5 5. Bd2 Bb4 6. a3 Bxc3 7. Bxc3 Qb6 8. e3 a6 9. Nf3 f6 10. Be2 c5 11. b4 cxb4 12. Bxb4 Ne7 13. Bxe7 Kxe7 14. Rb1 Qa5+ 15. Qd2 Qxd2+ 16. Nxd2 Bd7 17. O-O Ra7 18. Nf3 Nc6 19. Rfc1 Rc8 20. Nd2 b5 21. Bf3 Na5 22. Rxc8 Bxc8 23. Nb3 Nc4 24. Rc1 g6 25. Na5 Rc7 26. Nxc4 bxc4 27. Kf1 Kd8 28. Be2 c3 29. Ke1 Bb7 30. Kd1 Bxg2 31. Bxa6 h5 32. h4 Kd7 33. Kc2 Be4+ 34. Kb3 Bd5+ 35. Kb4 c2 36. Bd3 Rb7+ 37. Kc3 Bb3 38. Bxc2 Bxc2 39. Rxc2 Rb1 40. Ra2 Kd6 41. a4 Rb8 42. a5 Ra8 43. Kb4 g5 44. hxg5 fxg5 45. e4 h4 46. f3 h3 47. Kb5 Kc7 48. a6 Ra7 49. d5 exd5 50. exd5 Kb8 51. d6 Kc8 52. Kb6 Ra8 53. a7 Kd7 54. Kb7 Rxa7+ 55. Kxa7 Kxd6 56. Rh2 Ke5 57. Rxh3 Kf4 58. Kb6 Kf5 59. Kc5 Kf4 60. Kd4 Kf5 61. Ke3 Ke5 62. Rg3 Kf5 63. Rg1 Kf6 64. f4 gxf4+ 65. Kxf4 Ke6 66. Ke4 Kd6 67. Kd4 Ke6 68. Rg5 Kf6 69. Rc5 Ke6 70. Rd5 Kf6 71. Re5 Kf7 72. Kd5 Kf6 73. Kd6 Kg6 74. Ke6 Kg7 75. Rf5 Kg6 76. Ke5 Kg7 77. Rf6 Kg8 78. Ke6 Kg7 79. Ke7 Kg8 80. Rf7 Kh8 81. Kf6 Kg8 82. Kg6 Kh8 83. Rf8# 1-0
+

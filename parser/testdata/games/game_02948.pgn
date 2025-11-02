@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ASaJOrn9"]
+[White "kronos_91"]
+[Black "J-O-E-Y"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:06"]
+[WhiteElo "1604"]
+[BlackElo "1605"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "C46"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Nxe4 5. Nxe4 d5 6. Bxd5 Qxd5 7. Nc3 Qd8 8. d3 Bg4 9. Be3 Be7 10. Qd2 Bxf3 11. gxf3 h6 12. Ne4 Bg5 13. Nxg5 hxg5 14. Bxg5 f6 15. Be3 Qd6 16. O-O O-O-O 17. f4 Nd4 18. Bxd4 Qxd4 19. Qe3 Qd5 20. Qxa7 Rxh2 21. Kxh2 Rh8+ 22. Kg3 exf4+ 23. Kxf4 Qe5+ 24. Kf3 Rh3+ 25. Kg4 Qh5+ 26. Kf4 Qg5+ 27. Ke4 Qe5# 0-1
+

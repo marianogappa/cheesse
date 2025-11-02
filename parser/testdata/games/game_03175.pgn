@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WFCnnlHy"]
+[White "jmgospodin"]
+[Black "vmb2071"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:59"]
+[WhiteElo "1921"]
+[BlackElo "1862"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-8"]
+[ECO "D51"]
+[Opening "Queen's Gambit Declined: Modern, Knight Defense #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. cxd5 exd5 6. e3 c6 7. Rc1 Bb4 8. Bd3 Qa5 9. Bxf6 Nxf6 10. a3 Bxc3+ 11. Rxc3 Be6 12. b4 Qc7 13. h3 Rc8 14. Nf3 O-O 15. Qc2 h6 16. O-O Nd7 17. b5 c5 18. dxc5 Nxc5 19. Nd4 Bd7 20. Bf5 b6 21. Bxd7 Qxd7 22. Nc6 a6 23. a4 axb5 24. axb5 Ra8 25. Rd1 Qe6 26. Nb4 Rfd8 27. Na6 Nxa6 28. bxa6 Rxa6 29. Rc6 Qe7 30. Rb1 Rb8 31. Rc8+ Rxc8 32. Qxc8+ Kh7 33. Qxa6 d4 34. exd4 Qe4 35. Qxb6 f5 36. Qb4 f4 37. Re1 Qd5 38. Qc5 Qd7 39. Qe5 f3 40. Qe4+ g6 41. gxf3 Qxh3 42. Qb7+ Kg8 43. Re8# 1-0
+

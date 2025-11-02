@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ieD45QA1"]
+[White "kirollos"]
+[Black "Libor1"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:18"]
+[WhiteElo "2017"]
+[BlackElo "1964"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d6 4. d4 Nf6 5. Bd3 g6 6. h3 Bg7 7. O-O O-O 8. Be3 b6 9. Nbd2 Bb7 10. Re1 e6 11. Nf1 Rc8 12. Ng3 Nd7 13. Qd2 Re8 14. Bh6 Bh8 15. Qf4 cxd4 16. Ng5 Qf6 17. Qxd6 Nc5 18. cxd4 Nxd3 19. Red1 Nxb2 20. Rd2 Nc4 0-1
+

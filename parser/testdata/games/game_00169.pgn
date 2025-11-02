@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/gNTdGN4e"]
+[Site "https://lichess.org/zh3aQjxt"]
+[White "duduasc"]
+[Black "marcosvini1984"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:27"]
+[WhiteElo "1682"]
+[BlackElo "1789"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "E81"]
+[Opening "King's Indian Defense: Saemisch Variation, Normal Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bd3 b6 7. Nge2 Bb7 8. O-O Nbd7 9. Be3 c5 10. Qd2 Rc8 11. Bh6 cxd4 12. Bxg7 Kxg7 13. Nxd4 e5 14. Ndb5 Nc5 15. Nxa7 Ra8 16. Nab5 Nxd3 17. Qxd3 Bc6 18. Qxd6 Bxb5 19. Nxb5 Qxd6 20. Nxd6 Rfd8 21. Rfd1 Ra7 22. Nf5+ gxf5 23. Rxd8 fxe4 24. fxe4 Nxe4 25. Rb8 Rc7 26. Rxb6 Rxc4 27. a4 Nd2 28. a5 Rc2 29. a6 Nc4 30. Rc6 e4 31. b3 Ne3 32. Rxc2 Nxc2 33. a7 Nxa1 34. a8=Q Nxb3 35. Qxe4 f6 36. h4 h5 37. Qe7+ Kg6 38. Qe8+ Kg7 39. Qe7+ Kg6 40. Qe4+ Kg7 41. Qc4 Nd2 42. Qd3 Nb3 43. Qxb3 Kg6 44. Qg3+ Kf7 45. Qf4 Kg6 46. g4 hxg4 47. Qxg4+ Kf7 48. h5 f5 49. Qg6+ Kf8 50. h6 f4 51. h7 f3 52. h8=Q+ Ke7 53. Qe5+ Kd7 54. Qgd6+ Kc8 55. Qc7# 1-0
+

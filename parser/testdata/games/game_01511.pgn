@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/b8afidNH"]
+[White "julietaamaro62"]
+[Black "mertsondal"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:38"]
+[WhiteElo "1406"]
+[BlackElo "1507"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C69"]
+[Opening "Ruy Lopez: Exchange Variation, Normal Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.2] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.21] } 2... Nc6 { [%eval 0.28] } 3. Bb5 { [%eval 0.22] } 3... a6 { [%eval 0.32] } 4. Bxc6 { [%eval 0.16] } 4... dxc6 { [%eval 0.24] } 5. O-O { [%eval 0.23] } 5... Bg4 { [%eval 0.27] } 6. d3 { [%eval 0.17] } 6... Nf6 { [%eval 0.33] } 7. h3 { [%eval 0.43] } 7... Bxf3 { [%eval 0.5] } 8. Qxf3 { [%eval 0.45] } 8... Bc5 { [%eval 0.64] } 9. Bg5 { [%eval 0.31] } 9... Kf8?! { [%eval 0.93] } 10. Bxf6 { [%eval 0.75] } 10... Qxf6 { [%eval 0.81] } 11. Qxf6 { [%eval 0.62] } 11... gxf6 { [%eval 0.66] } 12. Nd2 { [%eval 0.68] } 12... Rd8 { [%eval 0.88] } 13. Nf3 { [%eval 0.89] } 13... Rg8 { [%eval 0.9] } 14. Kh1 { [%eval 0.6] } 14... h5 { [%eval 0.94] } 15. Rad1 { [%eval 0.51] } 15... Bb4 { [%eval 0.93] } 16. Nh4 { [%eval 0.83] } 16... f5?! { [%eval 1.74] } 17. Nxf5 { [%eval 1.73] } 17... Rg5 { [%eval 1.82] } 18. f4 { [%eval 1.79] } 18... Rg6?! { [%eval 2.64] } 19. fxe5 { [%eval 2.53] } 19... Re8?! { [%eval 3.18] } 20. d4 { [%eval 2.94] } 20... c5?? { [%eval 5.95] } 21. c3 { [%eval 5.81] } 21... Ba5 { [%eval 5.65] } 22. Rfe1?? { [%eval 2.29] } 22... cxd4 { [%eval 2.15] } 23. cxd4? { [%eval 0.0] } 23... Bb6? { [%eval 2.75] } 24. Nh4 { [%eval 2.47] } 24... Rge6 { [%eval 2.68] } 25. Nf3 { [%eval 2.63] } 25... c5?! { [%eval 3.45] } 26. d5 { [%eval 3.37] } 26... R6e7 { [%eval 3.68] } 27. d6 { [%eval 3.39] } 27... Re6?! { [%eval 3.95] } 28. d7? { [%eval 2.12] } 28... Rd8 { [%eval 2.17] } 29. Rd5 { [%eval 2.16] } 29... Re7 { [%eval 2.31] } 30. Red1 { [%eval 2.23] } 30... c4 { [%eval 2.46] } 31. Ng5 { [%eval 2.35] } 31... Kg7?! { [%eval 3.15] } 32. e6 { [%eval 2.9] } 32... fxe6 { [%eval 2.74] } 33. Nxe6+?? { [%eval -2.62] } 33... Rxe6 { [%eval -2.58] } 34. Rxh5 { [%eval -2.64] } 34... Rc6? { [%eval -1.05] } 35. Rhd5 { [%eval -1.19] } 35... Rd6?? { [%eval 7.37] } 36. Rxd6 { [%eval 6.97] } 36... Rxd7?? { [%eval #16] } 0-1
+

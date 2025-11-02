@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YKpFeRKA"]
+[White "dobbo"]
+[Black "Jason_and_Medea"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:27"]
+[WhiteElo "1910"]
+[BlackElo "1947"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C45"]
+[Opening "Scotch Game: Haxo Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. O-O Nge7 6. e5 O-O 7. Nbd2 d6 8. Ne4 Bb6 9. Bg5 dxe5 10. Qd3 h6 11. Bxh6 gxh6 12. Nf6+ Kg7 13. Qh7+ Kxf6 14. Qxh6+ Ng6 15. h3 Rh8 16. Qg5+ Kg7 0-1
+

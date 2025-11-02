@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/exu3q7AX"]
+[White "kingslayer29"]
+[Black "marinaigor"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:55"]
+[WhiteElo "1245"]
+[BlackElo "1368"]
+[WhiteRatingDiff "+25"]
+[BlackRatingDiff "-14"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 b6 2. Nf3 Bb7 3. Bc4 Bxe4 4. Ng5 Bxg2 5. Bxf7# 1-0
+

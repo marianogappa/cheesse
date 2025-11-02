@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bKuM9qbi"]
+[White "simonwells11"]
+[Black "xxxxskaroupka"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:07"]
+[WhiteElo "2076"]
+[BlackElo "2260"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "A42"]
+[Opening "Sicilian Defense: Hyperaccelerated Fianchetto"]
+[TimeControl "600+20"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 Nc6 6. Nb3 d5 7. exd5 Qxd5 8. Qxd5 Nxd5 9. c4 Ndb4 10. Na3 Bg7 11. Be2 O-O 12. O-O Rd8 13. g4 b6 14. Nb5 Bb7 15. a3 Nd3 16. Rb1 Nxc1 17. Rfxc1 Ne5 18. Kf2 Nd3+ 19. Bxd3 Rxd3 20. Nc7 0-1
+

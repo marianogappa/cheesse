@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/jD2dG2MK"]
+[White "Ca11um"]
+[Black "mohammadaltalli"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:54"]
+[WhiteElo "1325"]
+[BlackElo "1307"]
+[WhiteRatingDiff "-36"]
+[BlackRatingDiff "+11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 a6 5. Nf3 Qc6 6. O-O Qg6 7. Ne5 Qg5 8. Nd5 Bh3 9. d4 Qxg2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Z8yf1jgl"]
+[White "Ovlop"]
+[Black "pyc43"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:41"]
+[WhiteElo "1334"]
+[BlackElo "1119"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "300+1"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Bg4 3. Nc3 e6 4. a3 h6 5. Nb5 Bd6 6. Nxd6+ cxd6 7. h3 Bf5 8. Nf3 f6 9. e3 Nc6 10. Nh2 Nge7 11. Qh5+ g6 12. Qd1 g5 13. Bg3 h5 14. Nf3 h4 15. Bh2 Qd7 16. Bb5 O-O-O 17. a4 a6 18. Be2 Nb4 19. c3 Nc2+ 20. Kd2 Nxa1 21. Qxa1 g4 22. hxg4 Bxg4 23. Re1 Bxf3 24. Bxf3 Nf5 25. Qd1 Kb8 26. e4 dxe4 27. Bxe4 e5 28. Kc1 exd4 29. cxd4 Qc7+ 30. Kb1 Rhe8 31. Bxf5 Rxe1 32. Qxe1 a5 33. Qe3 Ka7 34. d5+ b6 35. Qd3 Rg8 36. Bh3 Re8 37. g3 Re1+ 38. Ka2 Qc1 39. Qh7+ Ka6 40. Bg2 Qa1+ 41. Kb3 b5 42. axb5+ Kxb5 43. Qb7+ Kc5 44. Qa7+ Kb5 45. Qd7+ Kc5 46. Qc8+ Kb5 47. Qc4+ Kb6 48. Qc6+ Ka7 49. Qc7+ Ka6 50. Qxd6+ Kb5 51. Qc6# 1-0
+

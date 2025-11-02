@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/66OUKi0B"]
+[White "milanbelobrk"]
+[Black "sik2"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:17"]
+[WhiteElo "2011"]
+[BlackElo "1742"]
+[WhiteRatingDiff "-19"]
+[BlackRatingDiff "+21"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e3 e6 2. Nf3 a6 3. d4 b5 4. c4 Bb7 5. cxb5 axb5 6. Bxb5 c5 7. dxc5 Bxc5 8. Be2 Nf6 9. O-O O-O 10. Bd2 d5 11. Nc3 Bb4 12. a3 Ba5 13. Rc1 Na6 14. Qa4 Bxc3 15. Bxc3 Nc5 16. Qb5 Ba6 17. Qxc5 Bxe2 18. Rfe1 Bxf3 19. gxf3 Qb8 20. Bxf6 gxf6 21. Qc2 Qe5 22. Qc3 Qg5+ 23. Kf1 Kh8 24. Ke2 Rab8 25. Rg1 Qf5 26. Rg4 h5 27. Rf4 Qe5 28. Rxf6 Qxc3 29. bxc3 Rb2+ 30. Kf1 Rd2 31. Ke1 Ra2 32. Rh6+ Kg7 33. Rxh5 Kf6 34. Rh4 Rg8 35. Ra4 Rg1# 0-1
+

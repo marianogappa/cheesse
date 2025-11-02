@@ -1,0 +1,19 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/KauPhxIk"]
+[White "donateIIo"]
+[Black "lichesschaob"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:13"]
+[WhiteElo "2652"]
+[BlackElo "2659"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[WhiteTitle "GM"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense #2"]
+[TimeControl "60+1"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.12] } 1... e5 { [%eval 0.39] } 2. Nf3 { [%eval 0.22] } 2... Nc6 { [%eval 0.32] } 3. Bb5 { [%eval 0.27] } 3... Nf6 { [%eval 0.29] } 4. d3 { [%eval 0.13] } 4... Bc5 { [%eval 0.35] } 5. Bxc6 { [%eval 0.38] } 5... dxc6 { [%eval 0.34] } 6. Qe2 { [%eval 0.15] } 6... Qe7 { [%eval 0.16] } 7. Nbd2 { [%eval 0.1] } 7... Nd7 { [%eval 0.08] } 8. Nf1 { [%eval 0.21] } 8... Bd6 { [%eval 0.31] } 9. Ne3 { [%eval 0.19] } 9... Nf8 { [%eval 0.12] } 10. Nf5 { [%eval 0.02] } 10... Bxf5 { [%eval 0.01] } 11. exf5 { [%eval -0.08] } 11... O-O-O { [%eval 0.01] } 12. Nd2 { [%eval -0.4] } 12... Nd7 { [%eval 0.09] } 13. Ne4 { [%eval 0.1] } 13... Nc5 { [%eval 0.11] } 14. Bd2 { [%eval -0.04] } 14... f6 { [%eval 0.13] } 15. O-O-O { [%eval 0.08] } 15... Qf7 { [%eval 0.15] } 16. Kb1 { [%eval 0.12] } 16... Nxe4 { [%eval 0.2] } 17. Qxe4 { [%eval 0.08] } 17... Qd5 { [%eval 0.24] } 18. f3 { [%eval 0.14] } 18... Bc5 { [%eval 0.06] } 19. g4 { [%eval 0.0] } 19... Bd4 { [%eval 0.04] } 20. c3 { [%eval 0.0] } 20... Bb6 { [%eval 0.0] } 21. Bc1 { [%eval -0.1] } 21... Rd7 { [%eval 0.15] } 22. h4 { [%eval 0.07] } 22... a5 { [%eval 0.45] } 23. g5 { [%eval 0.0] } 23... Rhd8?! { [%eval 0.58] } 24. Qxd5 { [%eval 0.14] } 24... cxd5 { [%eval 0.24] } 25. d4 { [%eval -0.25] } 25... exd4 { [%eval -0.06] } 26. cxd4 { [%eval -0.5] } 26... Rf8?! { [%eval 0.0] } 27. g6 { [%eval -0.19] } 27... Re7 { [%eval 0.06] } 28. Rde1?! { [%eval -0.89] } 28... Rxe1 { [%eval -0.72] } 29. Rxe1 { [%eval -0.72] } 29... Kd7 { [%eval -0.72] } 30. Be3 { [%eval -0.83] } 30... hxg6 { [%eval -0.83] } 31. fxg6 { [%eval -0.83] } 31... Rh8 { [%eval -0.83] } 32. Rh1 { [%eval -0.85] } 32... Rh5 { [%eval -0.83] } 33. Kc2 { [%eval -0.89] } 33... Ke6 { [%eval -0.95] } 34. Kd3 { [%eval -1.06] } 34... Kf5 { [%eval -1.01] } 35. b4?! { [%eval -1.6] } 35... axb4 { [%eval -1.56] } 0-1
+

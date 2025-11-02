@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/o4QCrgAn"]
+[White "devn13"]
+[Black "yentel"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:57"]
+[WhiteElo "1558"]
+[BlackElo "1602"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nc6 4. d5 Nb8 5. c4 Qf6 6. Bd3 Be7 7. O-O Qg6 8. Nc3 a6 9. g3 h5 10. h4 Nf6 11. Qa4+ Nbd7 12. b4 O-O 13. b5 a5 14. Bb2 Nc5 15. Qc2 b6 16. Ba3 Nxd3 17. Qxd3 Bd7 18. Ne2 Bg4 19. Rac1 Nxe4 20. Nc3 Bxf3 21. Qxf3 Nxc3 22. Rxc3 Bxh4 23. Kh2 Bf6 24. Qe3 Qh7 25. f4 exf4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ELxh9bGx"]
+[White "nabawy"]
+[Black "sergei-chss"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:12"]
+[WhiteElo "2067"]
+[BlackElo "2053"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "D15"]
+[Opening "Slav Defense: Chameleon Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 c6 3. Nf3 d5 4. Nc3 a6 5. cxd5 cxd5 6. Bg5 Nc6 7. e3 Ne4 8. Bf4 Bf5 9. Bd3 e6 10. O-O Bd6 11. Bxd6 Qxd6 12. Nh4 Nxc3 13. bxc3 Bxd3 14. Qxd3 O-O 15. f4 f5 16. Nf3 Rac8 17. Ne5 Na5 18. Rfb1 Rc7 19. Rb4 Rfc8 20. Rc1 Nc6 21. Rb6 Qa3 22. Rc2 Nxe5 23. fxe5 Rxc3 24. Rxb7 Rxd3 25. Rxc8+ Qf8 26. Rxf8+ Kxf8 27. Kf2 Rd2+ 28. Kf3 Rxa2 29. Ra7 a5 30. h3 a4 31. Ra6 Kf7 32. h4 g5 33. h5 a3 34. Ra7+ Ke8 35. Rxh7 Ra1 36. Ra7 a2 37. Kg3 Kf8 38. h6 Kg8 39. Ra8+ Kh7 40. Ra6 Kxh6 41. Rxe6+ Kh5 42. Ra6 f4+ 43. exf4 gxf4+ 44. Kh2 Kg5 0-1
+

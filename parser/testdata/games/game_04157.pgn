@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/t95zzHMx"]
+[White "hjamal"]
+[Black "behemotus"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:47"]
+[WhiteElo "1813"]
+[BlackElo "1716"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+92"]
+[ECO "A46"]
+[Opening "Indian Game: London System"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.18] } 1... e6 { [%eval 0.24] } 2. Bf4 { [%eval 0.1] } 2... Nf6 { [%eval 0.1] } 3. Nf3 { [%eval 0.08] } 3... d6 { [%eval 0.42] } 4. e3 { [%eval 0.26] } 4... g6 { [%eval 0.62] } 5. Bd3 { [%eval 0.44] } 5... Bg7 { [%eval 0.45] } 6. c3 { [%eval 0.35] } 6... O-O { [%eval 0.24] } 7. Qe2 { [%eval -0.07] } 7... b6 { [%eval -0.01] } 8. Nbd2 { [%eval -0.1] } 8... Bb7 { [%eval -0.03] } 9. O-O-O { [%eval -0.28] } 9... c5?! { [%eval 0.31] } 10. h3 { [%eval 0.0] } 10... cxd4 { [%eval 0.11] } 11. exd4 { [%eval 0.37] } 11... Nc6 { [%eval 0.47] } 12. g4?! { [%eval -0.12] } 12... a6 { [%eval 0.15] } 13. g5?! { [%eval -0.46] } 13... Nh5 { [%eval -0.52] } 14. Be3 { [%eval -0.84] } 14... d5?! { [%eval -0.07] } 15. h4 { [%eval -0.26] } 15... b5 { [%eval -0.21] } 16. Nb3 { [%eval -0.56] } 16... b4 { [%eval -0.37] } 17. Bd2 { [%eval -0.34] } 17... a5 { [%eval -0.35] } 18. Nc5 { [%eval -0.43] } 18... Qc7 { [%eval -0.47] } 19. Kb1 { [%eval -0.39] } 19... a4 { [%eval 0.02] } 20. Bb5?! { [%eval -0.56] } 20... a3 { [%eval -0.54] } 21. b3 { [%eval -0.51] } 21... bxc3 { [%eval -0.54] } 22. Bxc3 { [%eval -0.62] } 22... Rfb8 { [%eval -0.57] } 23. Nh2?! { [%eval -1.27] } 23... Bf8?! { [%eval -0.38] } 24. Na4? { [%eval -2.25] } 24... Na7 { [%eval -1.6] } 25. Ng4?? { [%eval -7.01] } 25... Nxb5 { [%eval -6.53] } 26. Qxb5? { [%eval -7.99] } 26... Ba6 { [%eval -7.25] } 27. Qa5? { [%eval -8.86] } 27... Bd3+ { [%eval -8.62] } 28. Rxd3 { [%eval -8.65] } 28... Rxa5 { [%eval -8.18] } 29. Bxa5?! { [%eval -8.98] } 29... Qxa5 { [%eval -8.64] } 30. f4? { [%eval -13.7] } 30... Qxa4 { [%eval -13.15] } 31. f5 { [%eval -18.58] } 31... exf5 { [%eval -16.32] } 32. Ne5 { [%eval -19.24] } 0-1
+

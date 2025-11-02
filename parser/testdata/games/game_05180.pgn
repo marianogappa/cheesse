@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/x8NQJilX"]
+[White "Afredoford"]
+[Black "Gugoslav"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:55"]
+[WhiteElo "1714"]
+[BlackElo "1706"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B06"]
+[Opening "Modern Defense: Geller's System"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. Nf3 Bg7 3. d4 d6 4. c3 Nc6 5. Bb5 Bd7 6. d5 Ne5 7. Bxd7+ Qxd7 8. Nxe5 Bxe5 9. O-O f5 10. f4 Bg7 11. Nd2 O-O-O 12. Qe2 Rf8 13. g3 h5 14. h4 Nf6 15. c4 fxe4 16. Nxe4 Qg4 17. Qxg4+ Nxg4 18. Rb1 a6 19. b3 Bd4+ 20. Kg2 Be3 21. Bb2 Rhg8 22. Ng5 Bd2 23. Rf3 c6 24. dxc6 bxc6 25. Ne6 Rf7 26. Bd4 c5 27. Bg1 Rf6 28. Ng5 a5 29. Ne4 Re6 30. Nxd2 Re2+ 31. Kh3 Rxd2 32. a4 Rf8 33. Re1 e5 34. f5 Rxf5 35. Rxf5 gxf5 36. Rf1 f4 37. gxf4 exf4 38. Rxf4 Rd3+ 39. Kg2 Rxb3 40. Rf5 Rb2+ 41. Kf3 Rb3+ 42. Ke4 Rc3 43. Rxh5 Rxc4+ 44. Kd5 Nf6+ 45. Kxc4 Nxh5 46. Kb5 Kd7 47. Kxa5 Kc6 48. Ka6 d5 49. a5 c4 50. Bd4 Nf4 51. Ka7 Ne2 52. Bb6 c3 53. a6 c2 54. Kb8 c1=Q 55. a7 Qf4+ 56. Kc8 Kxb6 57. a8=Q Qf8+ 0-1
+

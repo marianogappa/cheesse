@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CsXad5tR"]
+[White "getmohsinpy"]
+[Black "HaseDamir"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:04"]
+[WhiteElo "1754"]
+[BlackElo "1819"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-12"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 c5 5. c4 dxc4 6. d5 Nf6 7. Bxc4 b5 8. Bxb5+ Bd7 9. Bc4 Bd6 10. Bg5 O-O 11. O-O Qb6 12. b3 Ne4 13. Be3 Bg4 14. Qe2 Bxf3 15. Qxf3 Nf6 16. Bg5 Nbd7 17. Nc3 Ne5 18. Qe2 Nxc4 19. Qxc4 Nh5 20. Ne4 Bf4 21. Be7 Rfe8 22. Bxc5 Qb8 23. d6 Nf6 24. Nxf6+ gxf6 25. Qxf4 Kh8 26. Bd4 Rg8 27. Bxf6+ Rg7 28. Qh6 Qg8 29. Rfe1 a5 30. d7 Ra6 31. d8=Q Qxd8 32. Qxg7# 1-0
+

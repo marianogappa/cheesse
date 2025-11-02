@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/DXiN4swO"]
+[White "aramister"]
+[Black "DarthSuchius"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:46"]
+[WhiteElo "1552"]
+[BlackElo "1503"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "540+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 Nc6 3. Nf3 Bg4 4. a3 e5 5. dxe5 Nxe5 6. Be2 Bxf3 7. Bxf3 c6 8. e4 Ne7 9. exd5 Nxd5 10. Bxd5 Qxd5 11. Qxd5 cxd5 12. O-O f6 13. Bf4 Bd6 14. Bxe5 Bxe5 15. Nd2 Bxb2 16. Rab1 Bc3 17. Nf3 O-O 18. Rxb7 Rfe8 19. Rd7 Bb2 20. a4 Rad8 21. Rxa7 Bc3 22. a5 Ra8 23. Rxa8 Rxa8 24. Rd1 Rd8 25. Nd4 Bxd4 26. Rxd4 Ra8 27. Ra4 Kf7 28. g4 Ke6 29. c3 Kd6 30. a6 Kc6 31. a7 Kb6 32. Rd4 Kxa7 33. Rxd5 Rc8 34. Rd3 Kb6 35. Kf1 Kc6 36. Ke2 Kc5 37. Ke3 Kb5 38. Ke4 Rc5 39. Rd5 Rxd5 40. Kxd5 h6 41. c4+ Kb6 42. f4 g6 43. h4 h5 44. g5 fxg5 45. fxg5 Kc7 46. c5 Kc8 47. Kd6 Kb7 48. Kd7 Kb8 49. c6 Ka8 50. c7 1-0
+

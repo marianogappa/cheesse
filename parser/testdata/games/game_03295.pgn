@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/0mhcY94C"]
+[White "lucianobonfico"]
+[Black "ejsi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:31"]
+[WhiteElo "2212"]
+[BlackElo "1943"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[ECO "C25"]
+[Opening "Vienna Game: Max Lange Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nc6 3. b3 Nf6 4. Bb5 a6 5. Bxc6 dxc6 6. Nf3 Bg4 7. Qe2 Qd7 8. h3 Bxf3 9. Qxf3 O-O-O 10. O-O Kb8 11. a4 h6 12. Ba3 Bxa3 13. Rxa3 Qxd2 14. Rd1 Qxc2 15. Rda1 Rd3 16. Qe2 Rxc3 17. Qf1 Nxe4 18. R3a2 Qd3 19. Qe1 f5 20. Re2 Rd8 21. f3 Qd4+ 22. Kh1 Nd2 23. Rxe5 Qf4 24. Re8 Rd3 25. Rxd8+ Rxd8 26. Rd1 b6 27. Qf2 Kb7 28. Re1 Qd4 29. Qxd4 Rxd4 30. Re7 Nxb3 31. Rxg7 Rxa4 32. Rf7 Ra1+ 33. Kh2 a5 34. Rxf5 a4 35. Re5 a3 36. Re1 a2 37. Rxa1 Nxa1 38. f4 Nb3 39. f5 a1=Q 40. f6 Qxf6 41. Kg3 Qf4+ 42. Kxf4 Nd4 43. Ke4 Ne2 44. Kf3 b5 45. Kxe2 b4 46. Kd2 c5 47. Kc2 Kc6 48. Kd3 Kd5 49. g4 Ke5 50. Ke3 Kf6 51. Kf3 Kg5 52. Kg3 b3 53. h4+ Kg6 54. h5+ Kg5 55. Kf3 b2 56. Kg3 b1=Q 57. Kf3 1-0
+

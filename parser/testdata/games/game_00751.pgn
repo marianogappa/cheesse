@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/CESTbVQ8"]
+[White "MaziarUIQ"]
+[Black "Trundle"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:47"]
+[WhiteElo "2014"]
+[BlackElo "2026"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Nf6 4. Nf3 Be7 5. Bf4 c6 6. e3 Bd6 7. Bg3 Bxg3 8. hxg3 Nbd7 9. Bd3 dxc4 10. Bxc4 Nb6 11. Bd3 Bd7 12. Bc2 Qe7 13. e4 O-O-O 14. Qe2 h5 15. O-O-O Ng4 16. Kb1 e5 17. d5 cxd5 18. exd5 Kb8 19. Be4 f5 20. Bc2 e4 21. Nd4 Ne5 22. Rxh5 Rxh5 23. Qxh5 g6 24. Qxg6 Nxg6 25. Rh1 Ne5 26. Rh5 Nec4 27. Nxf5 Bxf5 28. Rxf5 e3 29. fxe3 Nxe3 30. Rf2 Nxc2 31. Rxc2 Qe1+ 32. Rc1 Qxc1+ 33. Kxc1 Nxd5 34. Ne4 Ne3 35. b3 Nxg2 36. Kb2 Re8 37. Ng5 Rg8 38. Nf3 Rxg3 39. Ne5 Ne1 40. Ka3 Rg2 41. Nd7+ Kc7 42. Nc5 Nc2+ 43. Ka4 Nd4 44. Nd3 b5+ 45. Kb4 a5+ 46. Kc5 Ne2 47. Kxb5 Rg5+ 48. Ka4 Nc3+ 49. Ka3 Nb5+ 50. Kb2 Kb6 51. a4 Nd4 52. Ne5 Rxe5 0-1
+

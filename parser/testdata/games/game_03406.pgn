@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/HKUWteFj"]
+[White "ifekali"]
+[Black "ukester"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:58"]
+[WhiteElo "1608"]
+[BlackElo "1891"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "600+10"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. c4 c6 6. Nc3 Nf6 7. Bg5 Be6 8. cxd5 cxd5 9. Bb5+ Nbd7 10. O-O O-O 11. Re1 a6 12. Ba4 h6 13. Bh4 Qb6 14. Rb1 Bf5 15. Rc1 Qxb2 16. Re2 Qb6 17. Bxf6 Nxf6 18. Ne5 Rac8 19. Bb3 Ba3 20. Ra1 Rxc3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2JDR53Mo"]
+[White "qwewrty"]
+[Black "MS_Love"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:22"]
+[WhiteElo "2024"]
+[BlackElo "1998"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Marshall Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nc3 g6 6. Nf3 Bg7 7. Be3 e5 8. dxe5 Qxd1+ 9. Rxd1 Nc6 10. Nb5 O-O 11. Nxc7 Rb8 12. Bc5 Rd8 13. Rxd8+ Nxd8 14. Be2 Bg4 15. Bxb6 axb6 16. Nd5 Nc6 17. Nxb6 Nxe5 18. Nxe5 Bxe5 19. Bxg4 Bxb2 20. Nd5 Ra8 21. O-O Rxa2 22. Bc8 b5 23. cxb5 Bd4 24. b6 Rb2 25. b7 Be5 26. Ne7+ Kg7 27. Nc6 Bc7 28. g3 h5 29. Kg2 Rb6 30. Rc1 Bd6 31. Nd8 Ba3 32. Rc7 Bd6 33. Rxf7+ Kh6 34. Ne6 Be5 35. h4 g5 36. hxg5+ Kg6 37. Rf3 h4 38. gxh4 Bd6 39. Rf6+ Kh7 40. Rh6+ Kg8 41. Nd4 Bf8 42. Rxb6 Bc5 43. b8=Q Bxb6 44. Qxb6 Kf7 45. Qe6+ Kf8 46. Qd7 Kg8 47. Ne6 Kh8 48. Qg7# 1-0
+

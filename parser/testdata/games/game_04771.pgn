@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/RVoIXLqj"]
+[White "SANMARPE"]
+[Black "Lifesaburrito"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:21"]
+[WhiteElo "1799"]
+[BlackElo "1702"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. d4 Bg4 5. dxe5 Nxe5 6. Qe2 Qf6 7. Bg5 Bxf3 8. Bxf6 Bxe2 9. Bxe2 Nxf6 10. f4 Ned7 11. g4 O-O-O 12. g5 Ne8 13. O-O-O Nb6 14. h4 c6 15. Rh3 Nc7 16. Rhd3 Ne6 17. b3 f6 18. f5 Nf4 19. Re3 Nxe2+ 20. Nxe2 h6 21. g6 Be7 22. Nf4 Rd7 23. Ne6 Rg8 24. h5 Bf8 25. c4 Re7 26. Rxd6 Nd7 27. Red3 Rxe6 28. Rxe6 Ne5 29. Re8+ Kc7 30. Rdd8 Nd7 31. b4 b6 32. a4 c5 33. b5 Kb7 34. Rc8 Ne5 35. Rxf8 Rxf8 36. Rxf8 Nd7 37. Rf7 Kc7 38. Rxg7 Kd8 39. Rh7 Ne5 40. g7 1-0
+

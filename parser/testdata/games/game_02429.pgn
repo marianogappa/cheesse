@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/NiPpKi5x"]
+[White "willywonkash"]
+[Black "melihgkgz"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:15"]
+[WhiteElo "1613"]
+[BlackElo "1464"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+34"]
+[ECO "B02"]
+[Opening "Alekhine Defense"]
+[TimeControl "2400+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Qf3 d6 3. Bc4 e5 4. Nh3 Nc6 5. g4 Nd4 6. Qd3 Bxg4 7. O-O Be2 8. Qc3 Bxf1 9. Kxf1 Nxe4 10. Qd3 Nc5 11. Qc3 d5 12. Bb5+ Nxb5 13. Qxe5+ Ne6 14. Na3 Nd4 15. d3 1/2-1/2
+

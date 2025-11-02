@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/gd31njh1"]
+[White "soufle"]
+[Black "asandrey2"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:30"]
+[WhiteElo "1998"]
+[BlackElo "1986"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "D86"]
+[Opening "Gruenfeld Defense: Exchange Variation, Classical Variation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. c4 d5 2. cxd5 Nf6 3. Nc3 Nxd5 4. e4 Nxc3 5. bxc3 g6 6. d4 Bg7 7. Bc4 c5 8. Ne2 Nc6 9. Qb3 O-O 10. d5 Ne5 11. O-O Nxc4 12. Qxc4 b6 13. Qd3 e6 14. Bb2 exd5 15. exd5 Bb7 16. Rfd1 Qd6 17. Rab1 Rad8 18. c4 Bxb2 19. Rxb2 Rfe8 20. a4 Qe5 21. Ng3 Qxb2 22. d6 Qe5 23. d7 Re7 24. Ne4 Bxe4 25. Qe3 Rexd7 26. Rxd7 Rxd7 27. f3 Qd4 28. Qxd4 Rxd4 29. fxe4 Rxe4 30. Kf2 Rxc4 31. g4 Rxa4 32. h3 Rd4 33. Kf3 a5 34. Ke3 a4 35. Ke2 a3 36. Ke3 a2 37. Kf3 a1=Q 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5nyX9kOX"]
+[White "squarehopper"]
+[Black "vmb2071"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:50"]
+[WhiteElo "1895"]
+[BlackElo "1854"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "A46"]
+[Opening "Indian Game: London System"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 d5 4. e3 b6 5. Be2 Bb7 6. Nbd2 Nh5 7. Bg5 f6 8. Bh4 g5 9. Nxg5 fxg5 10. Bxh5+ Kd7 11. Bg3 Qf6 12. Nf3 Nc6 13. Be5 Nxe5 14. Nxe5+ Kd8 15. O-O Bd6 16. Ng4 Qh6 17. Nxh6 Rf8 18. Nf7+ Ke7 19. Nxd6 cxd6 20. Qg4 h6 21. f4 gxf4 22. Rxf4 Rg8 23. Qh4+ Kd7 24. Rf7+ Kc6 25. Qe7 Ba6 26. Qd7# 1-0
+

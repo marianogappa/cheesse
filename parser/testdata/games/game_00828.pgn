@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/5lU1tZUS"]
+[White "buka_jnr"]
+[Black "angel5644"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:02"]
+[WhiteElo "1487"]
+[BlackElo "1515"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+10"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 g6 2. Bc4 d6 3. d4 Bg7 4. Bf4 a6 5. a4 Nd7 6. Nf3 Ngf6 7. e5 dxe5 8. dxe5 Ng4 9. O-O e6 10. h3 Ngxe5 11. Nxe5 Nxe5 12. Qxd8+ Kxd8 13. Rd1+ Ke7 14. Bxe5 Bxe5 15. Nc3 Bd7 16. Rab1 Rad8 17. Ne4 Bc6 18. Ng5 Bf6 19. Nf3 Bxf3 20. gxf3 Rd6 21. c3 Rhd8 22. Bb3 Rd2 23. Rxd2 Rxd2 24. Kg2 Be5 25. h4 h5 26. Bc4 f6 27. Bf1 Bd6 28. Bc4 e5 29. Bb3 Bc5 30. f4 Rxf2+ 31. Kg3 Rxf4 32. Bc2 Kd6 33. b4 Bf2+ 34. Kg2 Be3 35. Rd1+ Ke6 36. c4 b6 37. c5 bxc5 38. Bb3+ Ke7 39. b5 a5 40. Bd5 Rxh4 41. Bc6 Rxa4 42. Rd7+ Kf8 43. Rxc7 Rb4 44. Rc8+ Ke7 45. Rc7+ Kd8 46. Rg7 Rg4+ 47. Kf3 Bd4 48. Rf7 f5 49. Rh7 a4 50. Ra7 Kc8 51. Ra8+ Kc7 52. Rh8 e4+ 53. Ke2 Bxh8 54. Ke3 Bd4+ 55. Kd2 Kb6 56. Kc2 a3 57. Kb1 Rg2 58. Kc1 a2 59. Kd1 a1=Q# 0-1
+

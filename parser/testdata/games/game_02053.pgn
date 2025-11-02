@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/5wXtkNJI"]
+[White "fede1976"]
+[Black "Anwer26"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:40"]
+[WhiteElo "1804"]
+[BlackElo "1705"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "A00"]
+[Opening "Amsterdam Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. c4 e5 2. e3 Nf6 3. Nc3 d6 4. b3 Nc6 5. Bb2 g6 6. Nf3 Bg7 7. d4 Bd7 8. dxe5 dxe5 9. Be2 O-O 10. O-O Qe7 11. a3 a6 12. Qc2 Rad8 13. Rad1 Bf5 14. Qc1 Rd7 15. Rxd7 Qxd7 16. Rd1 Qe7 17. Nd5 Nxd5 18. Rxd5 Be4 19. Rd2 Rd8 20. Rxd8+ Qxd8 21. Qd1 Qxd1+ 22. Bxd1 f6 23. Nd2 Bf5 24. f3 Kf8 25. e4 Be6 26. Nf1 Ke7 27. Ne3 Kd7 28. Nd5 Bxd5 29. cxd5 Nd4 30. Bxd4 exd4 31. Kf2 c6 32. dxc6+ bxc6 33. Ke2 c5 34. Kd3 Kd6 35. Kc4 Kc6 36. f4 Kd6 37. h3 Kc6 38. Bg4 Kd6 39. Bc8 a5 40. Kb5 d3 41. Bg4 f5 42. e5+ Kd5 43. Bf3+ Kd4 44. Kxa5 Kc3 45. b4 cxb4 46. axb4 d2 47. b5 Kc2 48. b6 d1=Q 49. Bxd1+ Kxd1 50. b7 Ke2 51. b8=Q Kf2 52. Qb2+ Kg3 53. Qd2 h5 54. Kb6 1-0
+

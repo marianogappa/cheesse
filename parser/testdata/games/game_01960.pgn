@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BXhvLWsP"]
+[White "Vataros"]
+[Black "dboenn"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:19"]
+[WhiteElo "1946"]
+[BlackElo "1669"]
+[WhiteRatingDiff "+23"]
+[BlackRatingDiff "-3"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.2] } 1... e6 { [%eval 0.37] } 2. c4 { [%eval 0.18] } 2... c6 { [%eval 0.52] } 3. Nf3 { [%eval 0.2] } 3... Bb4+ { [%eval 0.69] } 4. Bd2 { [%eval 0.78] } 4... Qa5?! { [%eval 1.35] } 5. Nc3 { [%eval 1.13] } 5... d5 { [%eval 1.2] } 6. e4 { [%eval 1.22] } 6... dxe4 { [%eval 1.31] } 7. Nxe4 { [%eval 1.33] } 7... Bxd2+ { [%eval 1.71] } 8. Nfxd2 { [%eval 1.39] } 8... Ne7 { [%eval 1.72] } 9. Nd6+ { [%eval 1.68] } 9... Kd7? { [%eval 3.64] } 10. Nxf7 { [%eval 3.35] } 10... Rf8 { [%eval 3.5] } 11. Ne5+ { [%eval 3.43] } 11... Ke8? { [%eval 4.76] } 12. Qh5+ { [%eval 4.43] } 12... g6 { [%eval 4.58] } 13. Qxh7 { [%eval 4.68] } 13... Nd7 { [%eval 4.64] } 14. Nxg6 { [%eval 4.58] } 14... Nxg6 { [%eval 4.59] } 15. Qxg6+ { [%eval 4.54] } 15... Kd8 { [%eval 4.5] } 16. Bd3 { [%eval 4.12] } 16... Nf6? { [%eval 5.33] } 17. Qg7 { [%eval 5.22] } 17... Nd7 { [%eval 5.28] } 18. O-O-O { [%eval 4.97] } 18... Qxa2? { [%eval 6.42] } 19. Rhe1 { [%eval 6.17] } 19... Qa1+? { [%eval 7.79] } 20. Bb1 { [%eval 7.44] } 20... Qa5? { [%eval 11.81] } 21. Rxe6 { [%eval 10.41] } 21... Qf5 { [%eval 22.92] } 22. Bxf5 { [%eval 22.09] } 22... Rxf5 { [%eval 21.31] } 23. Qg3 { [%eval 19.53] } 23... b6?! { [%eval #10] } 24. Rde1 { [%eval #9] } 24... Nf6 { [%eval #6] } 25. Rxf6 { [%eval #10] } 25... Rxf6 { [%eval #10] } 26. Qg8+ { [%eval #9] } 26... Kc7 { [%eval #9] } 27. Qg7+?! { [%eval 58.61] } 1-0
+

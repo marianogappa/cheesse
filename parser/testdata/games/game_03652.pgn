@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/9naDLsbm"]
+[Site "https://lichess.org/lxlGibQr"]
+[White "Kingoflosers"]
+[Black "R0bH"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:56"]
+[WhiteElo "1974"]
+[BlackElo "1652"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+[ECO "A56"]
+[Opening "Benoni Defense: Czech Benoni Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. dxe6 fxe6 5. Nc3 d6 6. e4 e5 7. Nf3 Be7 8. Bd3 O-O 9. O-O Bg4 10. Be2 Nc6 11. Nd2 Bxe2 12. Nxe2 a6 13. f3 b5 14. Re1 b4 15. Nf1 Nh5 16. Ne3 Nf4 17. Nxf4 Rxf4 18. Nd5 Rh4 19. Be3 Bg5 20. Qd2 Qf8 21. Bxg5 Rh5 22. f4 h6 23. g4 Rxg5 24. fxg5 Nd4 25. Rf1 Qc8 26. h3 Qb7 27. gxh6 Rf8 28. Rxf8+ Kxf8 29. Rf1+ Kg8 30. Qf2 Kh7 31. hxg7 Qxg7 32. Qh4+ Qh6 33. Rf7+ Kg6 34. Rf6+ Kg7 35. Qxh6+ Kg8 36. Rf8# 1-0
+

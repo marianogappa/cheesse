@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JVGIVcy5"]
+[White "MCascardo"]
+[Black "Andrew246"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:52"]
+[WhiteElo "1381"]
+[BlackElo "1436"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation #2"]
+[TimeControl "45+5"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Nf6 3. Bc4 Nxd5 4. Bxd5 Qxd5 5. f3 Bf5 6. Nc3 Qe5+ 7. Nge2 e6 8. O-O Bd6 9. d4 Qxh2+ 10. Kf2 Qh4+ 11. Kg1 Nc6 12. f4 O-O-O 13. Rf3 Bg4 14. Rg3 Bb4 15. Qd3 Bxc3 16. Qxc3 1-0
+

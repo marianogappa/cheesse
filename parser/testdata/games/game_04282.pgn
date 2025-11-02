@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ynQrHITI"]
+[White "rosebud64"]
+[Black "fabioferasa"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:23"]
+[WhiteElo "1619"]
+[BlackElo "1559"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-11"]
+[ECO "B07"]
+[Opening "Pirc Defense #4"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nf3 Nf6 3. Bd3 g6 4. O-O Bg7 5. c3 O-O 6. Bc2 Nc6 7. d3 Bg4 8. Bg5 e5 9. Nbd2 h6 10. Bh4 g5 11. Bg3 Nh5 12. h3 Bxf3 13. Qxf3 Nf4 14. Bxf4 exf4 15. d4 Ne7 16. Rae1 Ng6 17. Nc4 Nh4 18. Qg4 Qe7 19. e5 dxe5 20. Nxe5 Bxe5 21. Rxe5 Ng6 22. Rxe7 Nxe7 23. Qh5 Kg7 24. Re1 Rae8 25. Kf1 Ng6 26. Rxe8 Rxe8 27. Bb3 a5 28. a4 c6 29. Qf3 Nh4 30. Qd3 Nf5 31. Bc2 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/BbmudX6n"]
+[White "Mkro"]
+[Black "Archi58"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:16"]
+[WhiteElo "1412"]
+[BlackElo "1397"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C40"]
+[Opening "Elephant Gambit"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d5 3. d3 Nf6 4. Nxe5 Bd6 5. Bf4 Be6 6. g3 Qc8 7. Nc3 Bb4 8. a3 Bxc3+ 9. bxc3 Bg4 10. Qb1 Nc6 11. Qb5 Qe6 12. Nc4 dxc4 13. Qxb7 Rd8 14. Bxc7 Rc8 15. h3 Bf3 16. Rg1 O-O 17. g4 h6 18. Rg3 Bh1 19. d4 Qd7 20. Bxc4 Rxc7 21. Qb5 Bxe4 22. Rd1 Rb7 23. Qc5 Qe7 24. Qxe7 Nxe7 25. Re3 Rb2 26. Bd3 Bxd3 27. Rxe7 Bxc2 28. Rd2 Rb1+ 29. Ke2 Bb3 30. Kf3 Rc1 31. Rde2 Rxc3+ 32. Kg2 Bd5+ 33. Kh2 Rcc8 34. R2e5 Bc4 35. d5 Rfe8 36. Rxe8+ Rxe8 37. Rxe8+ Nxe8 38. h4 Bxd5 39. g5 hxg5 40. h5 f5 41. Kg3 Be4 42. f3 Bxf3 43. Kxf3 g4+ 0-1
+

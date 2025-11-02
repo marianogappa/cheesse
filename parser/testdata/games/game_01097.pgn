@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/qx1gSqlo"]
+[White "Chadtmeyers"]
+[Black "Andrew246"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:03"]
+[WhiteElo "1376"]
+[BlackElo "1665"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-23"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Veresov Attack, Alburt Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nc3 Bf5 3. Nf3 Nc6 4. e3 Nf6 5. Bd3 e6 6. Bxf5 exf5 7. O-O Ne4 8. Nxe4 fxe4 9. Ne5 Nxe5 10. dxe5 Qd7 11. b3 O-O-O 12. Bb2 h5 13. a4 Qf5 14. Rb1 a5 15. Bd4 c5 16. Bc3 b6 17. b4 axb4 18. Bb2 Kc7 19. c3 Qxe5 20. cxb4 Qe7 21. bxc5 bxc5 22. a5 Ra8 23. Qxd5 Rxa5 24. Be5+ Kc8 25. Qc6+ Kd8 26. Rb8# 1-0
+

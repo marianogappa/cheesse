@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/SDMiN6Mm"]
+[White "Alientres"]
+[Black "MarcoRikolino"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:25"]
+[WhiteElo "1487"]
+[BlackElo "1420"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 d6 4. d5 Nce7 5. Nc3 Nf6 6. Be2 Bg4 7. O-O h5 8. Bg5 Qd7 9. h3 Bxf3 10. Bxf3 h4 11. Be2 c6 12. dxc6 bxc6 13. Bxf6 gxf6 14. f4 exf4 15. Rxf4 O-O-O 16. Bg4 Bg7 17. Bxd7+ Rxd7 18. Qd2 Ng6 19. Rf3 Ne5 20. Re3 Nc4 21. Qe2 Nxe3 22. Qxe3 Bh6 23. Qxa7 Rxa7 24. Rd1 Rxa2 25. Nxa2 Rd8 26. Nc3 Kc7 27. Na4 c5 28. b3 Kc6 29. Nc3 Kc7 30. Nd5+ Kc6 31. Nxf6 Kb7 32. Nd5 Bc1 33. Rxc1 1-0
+

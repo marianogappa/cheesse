@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/fp2cnRO2"]
+[White "alinader"]
+[Black "kl3m3ns"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:08"]
+[WhiteElo "1460"]
+[BlackElo "1358"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+15"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Nc6 3. Nc3 e6 4. Nf3 Bb4 5. Qd2 Nf6 6. a3 Ne4 7. Qd3 Nxf2 8. Kxf2 e5 9. dxe5 Bc5+ 10. Be3 d4 11. Bg5 dxc3+ 12. Ke1 Qxd3 13. exd3 Nd4 14. Nxd4 Bxd4 15. bxc3 Bxc3+ 16. Ke2 Bxa1 0-1
+

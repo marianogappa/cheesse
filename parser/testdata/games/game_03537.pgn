@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QUKx2KhR"]
+[White "mikegriffin"]
+[Black "Colby1965"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:34"]
+[WhiteElo "1716"]
+[BlackElo "1769"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-14"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. c3 h6 4. d4 d5 5. e5 cxd4 6. cxd4 Ne7 7. Bb5+ Nbc6 8. O-O Nf5 9. b3 Be7 10. Bb2 O-O 11. Na3 a6 12. Bxc6 bxc6 13. Nc2 c5 14. g4 Nxd4 15. Nfxd4 cxd4 16. Nxd4 Bd7 17. Rc1 Bb5 18. Re1 Bg5 19. Nc6 Bxc6 20. Rxc6 Bf4 21. Rd6 Qh4 22. Qf3 Qxh2+ 23. Kf1 g5 24. Ke2 Rac8 25. Kd3 Qh4 26. Rh1 Bh2 27. Qg2 f5 28. Rxh2 Qxg4 29. Qxg4 fxg4 30. Rxe6 Rf3+ 31. Kd2 Rcf8 32. Rf6 R3xf6 33. exf6 Kh7 34. Rg2 h5 35. Ke3 Kg6 36. f4 Kf5 37. fxg5 Kxg5 38. Ba3 Rxf6 39. Be7 Kf5 40. Rf2+ 1-0
+

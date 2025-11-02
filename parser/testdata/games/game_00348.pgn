@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/IH0sFCbv"]
+[White "tonoriko"]
+[Black "sergvelikiy81"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:07"]
+[WhiteElo "1911"]
+[BlackElo "1835"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation #2"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Nxd5 Qxd5 5. Nf3 Bf5 6. d3 Nc6 7. Be2 e6 8. O-O h6 9. Be3 O-O-O 10. a3 Bc5 11. b4 Bxe3 12. fxe3 g6 13. e4 Bxe4 14. dxe4 Qxe4 15. Bd3 Qe3+ 16. Kh1 g5 17. Qe2 Rxd3 18. Qxd3 Qxd3 19. cxd3 Rd8 20. Rad1 g4 21. Ne1 Ne5 22. d4 f5 23. Nc2 Nc4 24. Rfe1 Rd6 25. g3 h5 26. a4 Nb2 27. Ra1 Nd3 28. Re3 Nf2+ 29. Kg2 Nh3 30. Rae1 Ng5 31. Rd1 Kd7 32. b5 c6 33. bxc6+ Kxc6 34. Nb4+ Kb6 35. Re5 a5 36. Rb5+ Kc7 37. Rxa5 Ne4 38. Nc2 Nc3 39. Rc5+ Rc6 40. Rxc6+ Kxc6 41. Rd3 Nxa4 42. Kf2 Nb6 43. Re3 Kd6 44. Nb4 Nc4 45. Rd3 Nb2 46. Rd2 Nc4 47. Rd1 Nb2 48. Ra1 Nc4 49. Ra8 Nd2 50. Rh8 Ne4+ 51. Ke3 Nf6 52. Rh6 Ke7 53. Nd3 Nd5+ 54. Kd2 Nf6 55. Nf4 Ne4+ 56. Ke3 Ng5 57. Rxh5 Nf3 58. Rh7+ Kd6 59. Rxb7 Nxh2 60. Rb6+ Kd7 61. Rxe6 Nf1+ 62. Ke2 Nxg3+ 63. Kf2 Ne4+ 64. Rxe4 fxe4 65. Ke3 Ke7 66. Kxe4 Kd7 67. Ke5 g3 68. d5 Ke7 69. d6+ Kd7 70. Kd5 Kd8 71. Ke6 Ke8 72. d7+ Kd8 73. Ng2 1-0
+

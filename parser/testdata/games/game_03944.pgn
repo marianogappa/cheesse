@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/VN54M6mx"]
+[White "TuZeman"]
+[Black "matewe"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:00"]
+[WhiteElo "1202"]
+[BlackElo "1378"]
+[WhiteRatingDiff "+24"]
+[BlackRatingDiff "-15"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. Bf4 b5 4. a4 a6 5. e3 c6 6. Nc3 h6 7. Nf3 g5 8. Be5 f6 9. Bg3 g4 10. Nh4 f5 11. Ng6 Rh7 12. Ne5 b4 13. Na2 Qa5 14. Bxc4 Nd7 15. Bxg8 Rg7 16. Nxc6 Qd5 17. Bxd5 Bb7 18. Naxb4 Bxc6 19. Bxc6 Rb8 20. Nxa6 Rxb2 21. Qc1 Rb6 22. Nc7+ Kf7 23. Bd5+ e6 24. Bxe6+ Kf6 25. Be5+ Nxe5 26. dxe5+ Kxe5 27. Qc3+ Kd6 28. Qd4+ Kxc7 29. Rc1+ Kb7 30. Rc8 Rb1+ 31. Qd1 Rxd1+ 32. Kxd1 Rg8 33. Bxg8 Bd6 34. Be6 f4 35. Ke2 fxe3 36. Rb1+ Ka6 37. Ra8# 1-0
+

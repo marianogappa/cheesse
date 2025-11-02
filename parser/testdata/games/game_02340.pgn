@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/MqibMJ5n"]
+[White "xdaay"]
+[Black "jacals"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:53"]
+[WhiteElo "1833"]
+[BlackElo "1910"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "A45"]
+[Opening "Indian Game: Pawn Push Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. d5 c6 3. c4 b5 4. b3 Bb7 5. Bb2 cxd5 6. Bxf6 exf6 7. cxd5 Bb4+ 8. Nd2 Bxd5 9. f3 Qb6 10. e4 Be6 11. Rc1 O-O 12. Bd3 Bc5 13. Nh3 Bxh3 14. gxh3 Bf2+ 15. Kf1 Bh4 16. Qe2 Nc6 17. Bxb5 Nd4 18. Qd3 Nxb5 19. Qe2 0-1
+

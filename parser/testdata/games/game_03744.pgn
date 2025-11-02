@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/FTSiA6GE"]
+[White "labuverr"]
+[Black "GaryTopalov"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:18"]
+[WhiteElo "1592"]
+[BlackElo "2130"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+1"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nf6 4. d3 g6 5. Be2 Bg7 6. O-O O-O 7. h3 Nc6 8. Nh2 Rb8 9. Ng4 Nxg4 10. Bxg4 b5 11. Bxc8 Qxc8 12. Nd5 e6 13. Ne3 Qd7 14. c3 d5 15. exd5 exd5 16. Bd2 d4 17. cxd4 Nxd4 18. Re1 Rfe8 19. Rb1 Nf5 20. Ng4 Qxd3 21. Rxe8+ Rxe8 22. Bc3 Qxd1+ 23. Rxd1 Bxc3 24. bxc3 Re2 25. Kf1 Rxa2 26. Rd8+ Kg7 27. Rc8 h5 28. Ne3 Nxe3+ 29. fxe3 c4 30. Rb8 a6 31. Rd8 Ra3 32. Ra8 Rxc3 33. Rxa6 Rxe3 34. Kf2 Re5 35. Ra5 h4 36. Kf3 Rg5 37. Kf4 Rxg2 38. Rxb5 c3 39. Rc5 c2 40. Kf3 Rd2 41. Ke3 Rh2 42. Kf3 Rxh3+ 43. Kg4 Rh2 44. Kf4 f6 45. Kf3 g5 46. Rc6 Kg6 47. Rc7 f5 48. Rc3 g4+ 49. Ke3 Kg5 50. Kd4 Rh3 51. Kc4 Rxc3+ 52. Kxc3 c1=Q+ 53. Kd4 h3 54. Kd5 h2 55. Ke6 h1=Q 0-1
+

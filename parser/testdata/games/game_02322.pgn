@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wnj8G9Pa"]
+[White "Jamjamjim"]
+[Black "Odissey78"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:51"]
+[WhiteElo "1970"]
+[BlackElo "1961"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "D09"]
+[Opening "Queen's Gambit Refused: Albin Countergambit, Fianchetto Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Nge7 6. Bg2 Ng6 7. O-O Bc5 8. Nbd2 Ngxe5 9. Nb3 Bb6 10. c5 Ba5 11. Nxe5 Bc3 1-0
+

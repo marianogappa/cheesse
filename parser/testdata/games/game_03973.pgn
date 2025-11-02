@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/0qkU727m"]
+[White "stuckonagame"]
+[Black "Timao"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:09"]
+[WhiteElo "1740"]
+[BlackElo "1538"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+17"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. b3 e6 2. Bb2 Nf6 3. d3 a5 4. e3 a4 5. g3 a3 6. Bxa3 Bxa3 7. Nxa3 Rxa3 8. Qc1 Ra8 9. Bg2 O-O 10. Nf3 d5 11. O-O c5 12. Qe1 Nc6 13. a3 Qc7 14. a4 Ng4 15. h3 Nge5 16. Nd2 f5 17. Qe2 Bd7 18. c3 Rab8 19. d4 cxd4 20. cxd4 Ng6 21. Nf3 Qb6 22. Rfb1 Nb4 23. Ne5 Nxe5 24. dxe5 Rbc8 25. h4 Rc2 26. Qf3 Rfc8 27. Bf1 Qc7 28. Kg2 Qxe5 29. Bb5 Bxb5 30. axb5 h6 31. Ra7 Rd2 32. Rxb7 Rcc2 33. Rf1 Nd3 34. Re7 Nxf2 35. Rxf2 Rxf2+ 36. Qxf2 Rxf2+ 37. Kxf2 Qd6 38. Re8+ Kf7 39. Rc8 Qb4 40. Rb8 Qxb3 41. b6 Kf6 42. b7 Ke5 43. Kf3 g5 44. hxg5 hxg5 45. Kf2 Qb2+ 46. Kf3 g4# 0-1
+

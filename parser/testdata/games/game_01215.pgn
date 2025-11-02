@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/O1z9RowQ"]
+[White "mauzis"]
+[Black "vnessuno"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:29"]
+[WhiteElo "1988"]
+[BlackElo "1890"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+13"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 cxd4 5. c3 e5 6. cxd4 exd4 7. d3 Qa5+ 8. Nd2 Qxb5 9. O-O Nf6 10. b3 Be7 11. Nf3 O-O 12. Bb2 d5 13. e5 Nd7 14. Bxd4 Bc5 15. Bxc5 Qxc5 16. d4 Qe7 17. Re1 Nb6 18. Rc1 Be6 19. Qe2 Rac8 20. h3 Rc6 21. Qb5 Rfc8 22. Rxc6 Rxc6 23. a4 h6 24. a5 Na8 25. a6 Rb6 26. Qa4 Rxa6 27. Qb5 Qd7 28. Qxd7 Bxd7 29. Rc1 Be6 30. Nd2 Rc6 31. Ra1 a6 32. b4 Nb6 33. Nf3 Nc4 34. Rb1 b5 35. Kf1 g5 36. Ke2 g4 37. hxg4 Bxg4 38. Rb3 Bxf3+ 39. Kxf3 Nd2+ 0-1
+

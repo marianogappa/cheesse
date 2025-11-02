@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/cEK4To0x"]
+[White "Ulrikkk"]
+[Black "ade_12345"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:59"]
+[WhiteElo "1336"]
+[BlackElo "1377"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C20"]
+[Opening "King's Pawn Game"]
+[TimeControl "240+6"]
+[Termination "Normal"]
+
+1. e4 e5 2. g3 d5 3. exd5 Qxd5 4. Nc3 Qxh1 0-1
+

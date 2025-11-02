@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/K1qwG5va"]
+[White "adysuarez51"]
+[Black "attie"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:01"]
+[WhiteElo "1849"]
+[BlackElo "1590"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "D05"]
+[Opening "Colle System"]
+[TimeControl "600+5"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. d4 e6 3. e3 Nf6 4. Nc3 Bb4 5. Bd2 Ne4 6. Nxe4 Bxd2+ 7. Nexd2 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IyL8bsS1"]
+[White "QUINTERQUINTER123"]
+[Black "Andreyfr"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:46"]
+[WhiteElo "1748"]
+[BlackElo "1378"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-3"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Be2 d6 4. c3 Nf6 5. d3 g6 6. O-O Bg7 7. Nbd2 Bd7 8. Re1 Qc7 9. Nf1 h5 10. Bd2 h4 11. h3 O-O-O 12. Bg5 Rh5 13. Bxh4 d5 14. exd5 Nxd5 15. Bg3 Qb6 16. Rb1 g5 17. N3h2 Bxh3 18. Bxh5 Bxg2 19. Kxg2 f6 20. Bg4+ e6 21. Bxe6+ Rd7 22. Bxd7+ Kxd7 23. Qg4+ f5 24. Qxf5+ Kd8 25. Qxd5+ Kc8 26. Qe6+ Kd8 27. Qe8# 1-0
+

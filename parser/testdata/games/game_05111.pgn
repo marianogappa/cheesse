@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/I59AC2Is"]
+[White "matindo"]
+[Black "Michalhs_L"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:40"]
+[WhiteElo "1779"]
+[BlackElo "1839"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C45"]
+[Opening "Scotch Game: Scotch Gambit, Kingside Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 Ng4 6. Bf4 Bb4+ 7. c3 dxc3 8. bxc3 Ba5 9. O-O Qe7 10. h3 Ngxe5 11. Bxe5 Nxe5 12. Nxe5 O-O 13. Re1 Qc5 14. Qd5 Qxd5 15. Bxd5 d6 16. Nxf7 Rxf7 17. Re8# 1-0
+

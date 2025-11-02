@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/5HtpWlW8"]
+[White "Artaud73"]
+[Black "pawJasi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:44"]
+[WhiteElo "1429"]
+[BlackElo "1463"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C42"]
+[Opening "Russian Game: Urusov Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nxe4 4. Nxe5 d5 5. d3 dxc4 6. dxe4 Qxd1+ 7. Kxd1 Be6 8. f4 Bd6 9. f5 Bxe5 10. fxe6 fxe6 11. c3 Nc6 12. Nd2 b5 13. h4 h5 14. Nf3 O-O-O+ 15. Bd2 Bf4 16. Rf1 Ne5 17. Kc2 Nxf3 18. Rxf3 Rxd2+ 19. Kc1 Rxg2+ 20. Rxf4 Rg1+ 21. Kc2 Rxa1 22. Rf7 Rxa2 23. Rxg7 Ra1 24. Re7 Rh6 25. Re8+ Kb7 26. b4 Rh1 27. e5 Rxh4 28. Rf8 Rg6 29. Rf2 Re4 30. Rd2 Rxe5 31. Kc1 h4 32. Rh2 Rh5 33. Kc2 h3 34. Rxh3 Rg2+ 35. Kd1 Rxh3 36. Ke1 Rh1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/KRhgwAAL"]
+[White "dwmvicoli"]
+[Black "kvirto"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:16"]
+[WhiteElo "1644"]
+[BlackElo "1865"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. Nf3 cxd4 5. Nxd4 Nc6 6. c3 Nxe5 7. Bf4 Nc6 8. Bb5 Bd7 9. O-O Nxd4 10. Bxd7+ Qxd7 11. Qxd4 e6 12. Na3 Nf6 13. Nc2 b6 14. Be5 Bc5 15. Qf4 Nh5 16. Qg4 f6 17. Qxh5+ g6 18. Qe2 fxe5 19. Qxe5 O-O 20. b4 Bd6 21. Qg5 Rac8 22. Qe3 Qc7 23. Nd4 Bxh2+ 24. Kh1 Bf4 25. Qxe6+ Qf7 26. Kg1 Rxc3 27. g3 Bc7 28. Rac1 Rc4 29. Rxc4 dxc4 30. Qc6 Be5 31. Ne6 Re8 32. Ng5 Qe7 33. Nf3 Kg7 0-1
+

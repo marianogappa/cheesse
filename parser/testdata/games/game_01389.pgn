@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/jo1TXafF"]
+[White "matarata"]
+[Black "gerdlpr"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:14"]
+[WhiteElo "1420"]
+[BlackElo "1330"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+16"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 e6 3. d4 d5 4. Bb5+ Nc6 5. e5 cxd4 6. Qxd4 a6 7. Bxc6+ bxc6 8. Qc3 a5 9. Qxc6+ Bd7 10. Qb7 Bb4+ 11. c3 Bc5 12. Na3 Ne7 13. Nb5 Bxb5 14. Qxb5+ Qd7 15. Qxc5 Nc6 16. Nf3 Rc8 17. a4 Nb4 18. Qxa5 Nc2+ 19. Ke2 Nxa1 20. Nd4 O-O 21. b4 Rxc3 22. Bb2 Nb3 23. Nxb3 Rc2+ 24. Nd2 Rxb2 25. Rc1 d4 26. Rc7 d3+ 27. Ke3 Qd8 28. b5 Qg5+ 29. Kxd3 Rd8+ 30. Kc3 Qxe5+ 31. Kc4 Qd4# 0-1
+

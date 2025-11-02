@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NHQmY72I"]
+[White "Mikko56"]
+[Black "Mayara"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:05"]
+[WhiteElo "1995"]
+[BlackElo "1893"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "C10"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+[TimeControl "180+2"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Be7 6. Bd3 b6 7. Bf4 Bb7 8. Qe2 Ngf6 9. O-O O-O 10. Rad1 Qc8 11. Ne5 Nxe4 12. Bxe4 Nf6 13. Nc6 Bd6 14. Bxd6 Bxc6 15. Bxc6 cxd6 16. Bxa8 Qxa8 17. c4 d5 18. b3 Ne4 19. Qc2 Rc8 20. f3 Nd6 21. c5 Nf5 22. Qf2 b5 23. b4 a5 24. a3 axb4 25. axb4 Qa3 26. Rb1 Ne7 27. Rfe1 Nc6 28. Qe3 Qxe3+ 29. Rxe3 Nxd4 30. Ra3 g6 31. Kf2 Kg7 32. Ra5 e5 33. Ke3 f6 34. f4 Kh6 35. g3 Kh5 36. Ra7 h6 37. Rf7 Rc6 38. h3 g5 39. fxe5 fxe5 40. Rd1 Nc2+ 41. Kd2 Nxb4 42. Rc1 Kg6 43. Re7 Kf6 44. Rd7 Ke6 45. Rh7 Kf5 46. g4+ Ke4 47. Rf1 Rxc5 48. Rxh6 Kd4 49. Rg6 e4 50. Rxg5 e3+ 51. Kd1 Kd3 52. Re1 Nc2 53. Re5 Nxe1 54. Rxd5+ 1-0
+

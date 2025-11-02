@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/jD24eSYo"]
+[White "oldchesspretender"]
+[Black "mikiric"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:36"]
+[WhiteElo "1515"]
+[BlackElo "1462"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+14"]
+[ECO "B00"]
+[Opening "Ware Defense"]
+[TimeControl "600+2"]
+[Termination "Time forfeit"]
+
+1. e4 a5 2. d4 e6 3. e5 a4 4. c3 a3 5. b3 Ne7 6. Bg5 f6 7. exf6 gxf6 8. Bxf6 Rg8 9. Qf3 Bg7 10. Bxg7 Rxg7 11. Bd3 d5 12. Qh5+ Ng6 13. Bxg6+ hxg6 14. Qd1 Qf6 15. Nf3 e5 16. dxe5 Qe6 17. O-O Nc6 18. Re1 Bd7 19. Ng5 Qf5 20. e6 Qxg5 21. exd7+ Kxd7 22. Nd2 Re8 23. Nf3 Qf6 24. Qxd5+ Qd6 25. Qxd6+ cxd6 26. h3 Rge7 27. c4 Nb4 28. Rxe7+ Rxe7 29. Ng5 Re2 30. Kf1 Rb2 31. Ne4 Nxa2 32. Nf6+ Ke7 33. Nd5+ Kd8 34. Re1 Rxb3 35. Kg1 Nb4 36. Nf6 a2 37. Re8+ Kc7 0-1
+

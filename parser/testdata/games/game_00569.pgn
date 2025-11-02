@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3umoOBwD"]
+[White "faramarzmoezzi"]
+[Black "palmlucas"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:01"]
+[WhiteElo "1682"]
+[BlackElo "1703"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+23"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.16] } 1... e6 { [%eval 0.19] } 2. e3 { [%eval 0.14] } 2... d5 { [%eval 0.14] } 3. Bd3 { [%eval 0.05] } 3... c5 { [%eval 0.1] } 4. c3 { [%eval -0.02] } 4... Nc6 { [%eval 0.0] } 5. Nf3 { [%eval 0.0] } 5... Nf6 { [%eval 0.0] } 6. Nbd2 { [%eval 0.0] } 6... b6 { [%eval 0.0] } 7. Qe2 { [%eval 0.0] } 7... Be7 { [%eval 0.0] } 8. O-O { [%eval 0.0] } 8... O-O { [%eval -0.14] } 9. e4 { [%eval -0.02] } 9... dxe4 { [%eval 0.35] } 10. Nxe4 { [%eval 0.0] } 10... Bb7?! { [%eval 0.75] } 11. Nxf6+ { [%eval 0.33] } 11... Bxf6 { [%eval 0.43] } 12. Qe4 { [%eval 0.23] } 12... g6 { [%eval 0.28] } 13. Ne5?? { [%eval -3.94] } 13... Na5?? { [%eval -0.38] } 14. Qe3?! { [%eval -1.04] } 14... Qd5 { [%eval -0.66] } 15. f3?! { [%eval -1.33] } 15... cxd4 { [%eval -1.38] } 16. cxd4 { [%eval -1.33] } 16... Rfd8 { [%eval -1.31] } 17. Be4 { [%eval -1.38] } 17... Qxd4 { [%eval -1.32] } 18. Qxd4 { [%eval -1.45] } 18... Rxd4 { [%eval -1.31] } 19. Bxb7 { [%eval -1.5] } 19... Nxb7 { [%eval -1.6] } 20. Ng4 { [%eval -1.52] } 20... Bg7 { [%eval -1.53] } 21. Be3 { [%eval -1.78] } 21... Rd3 { [%eval -1.49] } 22. Rab1? { [%eval -3.95] } 22... h5 { [%eval -3.83] } 23. Bxb6? { [%eval -6.11] } 23... axb6 { [%eval -6.0] } 24. Nf2 { [%eval -6.03] } 24... Rd2 { [%eval -6.0] } 25. Nd1? { [%eval -7.91] } 25... Nc5?! { [%eval -7.03] } 26. a3 { [%eval -6.87] } 26... Rad8?! { [%eval -6.3] } 27. Ne3?? { [%eval -10.64] } 27... Bd4 { [%eval -9.98] } 0-1
+

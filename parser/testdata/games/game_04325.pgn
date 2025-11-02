@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OcTzKzZ2"]
+[White "invicto69"]
+[Black "Bloch32"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:34"]
+[WhiteElo "1219"]
+[BlackElo "1344"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+50"]
+[ECO "C57"]
+[Opening "Italian Game: Two Knights Defense, Knight Attack, Normal Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.25] } 1... e5 { [%eval 0.41] } 2. Nf3 { [%eval 0.37] } 2... Nc6 { [%eval 0.42] } 3. Bc4 { [%eval 0.25] } 3... Nf6 { [%eval 0.32] } 4. Ng5 { [%eval 0.14] } 4... d5 { [%eval 0.1] } 5. exd5 { [%eval 0.08] } 5... Nxd5? { [%eval 1.47] } 6. Qf3? { [%eval -0.29] } 6... Be6?! { [%eval 0.49] } 7. Nxe6 { [%eval 0.38] } 7... fxe6 { [%eval 0.45] } 8. Qh5+?! { [%eval -0.1] } 8... g6 { [%eval -0.09] } 9. Qxe5?? { [%eval -13.06] } 9... Nxe5 { [%eval -12.44] } 10. d4 { [%eval -15.6] } 10... Nc6 { [%eval -9.99] } 11. h4 { [%eval -14.11] } 11... Bg7 { [%eval -10.71] } 12. Bg5 { [%eval -12.48] } 12... Bf6 { [%eval -12.12] } 13. Bxf6 { [%eval -13.06] } 13... Qxf6 { [%eval -12.81] } 14. Bxd5 { [%eval -14.18] } 14... exd5 { [%eval -13.82] } 15. Kd1 { [%eval -18.35] } 15... Qxd4+ { [%eval -17.37] } 16. Nd2 { [%eval -18.58] } 16... O-O-O { [%eval -17.97] } 17. c3 { [%eval -18.27] } 17... Qf6 { [%eval -16.06] } 18. g4 { [%eval -21.2] } 18... Rhe8 { [%eval -19.47] } 19. g5 { [%eval -20.76] } 19... Qf7 { [%eval -18.38] } 20. Re1 { [%eval -62.53] } 20... Rxe1+ { [%eval -57.06] } 21. Kxe1 { [%eval -56.18] } 21... Re8+ { [%eval -31.95] } 22. Kf1 { [%eval -35.77] } 22... Re6 { [%eval -17.99] } 23. Re1 { [%eval -17.88] } 23... Rxe1+ { [%eval -17.48] } 24. Kxe1 { [%eval -16.89] } 24... Qe7+ { [%eval -15.56] } 25. Kf1 { [%eval -22.75] } 25... Ne5 { [%eval -18.57] } 26. Nb3 { [%eval -18.01] } 26... Nf3 { [%eval -16.93] } 27. h5?! { [%eval #-7] } 27... gxh5 { [%eval #-8] } 28. g6 { [%eval #-5] } 28... hxg6?! { [%eval #-7] } 29. Nd4 { [%eval #-8] } 29... Nxd4 { [%eval #-7] } 30. cxd4 { [%eval #-7] } 30... Qg5 { [%eval #-8] } 0-1
+

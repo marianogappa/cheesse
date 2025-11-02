@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vcASf7UF"]
+[White "t1t0cl0"]
+[Black "Obrizzo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:03"]
+[WhiteElo "1309"]
+[BlackElo "1352"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C33"]
+[Opening "King's Gambit Accepted, Bishop's Gambit"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 f3 5. Nxf3 Qxe4 6. d3 Qc6 7. Be3 Be7 8. Qe2 Nf6 9. Bg5 O-O 10. Qxe7 Ng4 11. Nbd2 d6 12. Bf6 Qc5 13. Bd4 Qf5 14. Ne4 Be6 15. Bxe6 fxe6 16. Qxg7# 1-0
+

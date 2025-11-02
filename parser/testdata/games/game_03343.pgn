@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/3pz50V1a"]
+[White "Richard10"]
+[Black "jortega"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:43"]
+[WhiteElo "1729"]
+[BlackElo "1777"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C32"]
+[Opening "King's Gambit, Falkbeer Countergambit, Charousek Gambit Accepted"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Bd3 Qxd5 7. Qe2 f5 8. Nc3 Bb4 9. Bd2 Bxc3 10. Bxc3 O-O 11. Nf3 Nc6 12. O-O Bd7 13. Bc4 Be6 14. Bxd5 Bxd5 15. Rad1 Bxa2 16. Ne5 Ne7 17. Rd7 Nd5 18. Rxd5 Bxd5 19. b3 Nxc3 20. Qd3 Bxg2 21. Kxg2 Ne4 22. Qc4+ Kh8 23. Nd3 c6 24. Nf2 Nf6 25. Qb4 b6 26. Qc3 c5 27. b4 cxb4 28. Qxb4 Rae8 29. Nd3 Ne4 30. Ne5 Rf6 31. Nf7+ Rxf7 32. Qc4 Rd7 33. Qc6 Red8 34. Re1 h6 35. Re2 1-0
+

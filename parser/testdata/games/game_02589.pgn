@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/d5Ab00yl"]
+[White "lazaro02n"]
+[Black "LitviakSer"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:51"]
+[WhiteElo "1992"]
+[BlackElo "2104"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-15"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex Declined"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 e5 2. d5 f5 3. c4 Nf6 4. Nc3 Bc5 5. Nf3 d6 6. Bg5 c6 7. Bxf6 Qxf6 8. e4 O-O 9. Bd3 f4 10. Qe2 Bg4 11. h3 Bh5 12. O-O-O Bd4 13. Kb1 Bxc3 14. bxc3 Na6 15. Qc2 Bxf3 16. gxf3 cxd5 17. exd5 Qh6 18. h4 Nc5 19. Rdg1 a5 20. Rg4 b6 21. Rhg1 Ra7 22. Be4 a4 23. Qb2 Rb8 24. Qb5 Qf6 25. h5 Ra5 26. Qc6 b5 27. Qc7 bxc4+ 28. Qxb8+ Qf8 29. Rxg7+ 1-0
+

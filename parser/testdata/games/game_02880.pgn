@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KjKnWfkT"]
+[White "EaSy_LaMbORGhiNi"]
+[Black "mcSol_aar"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:45"]
+[WhiteElo "1829"]
+[BlackElo "1730"]
+[WhiteRatingDiff "+39"]
+[BlackRatingDiff "-8"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Noteboom Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nc3 e6 4. Nf3 dxc4 5. a4 Bb4 6. e3 b5 7. Be2 Nf6 8. O-O Bxc3 9. bxc3 Bb7 10. Ne5 O-O 11. g4 Nbd7 12. f4 a6 13. Bf3 Rc8 14. g5 Nd5 15. Ba3 Re8 16. Qe1 Ne7 17. e4 Nxe5 18. fxe5 Ng6 19. Qg3 a5 20. Bc5 Rb8 21. h4 Nf8 22. h5 Nd7 23. Bd6 Rc8 24. g6 hxg6 25. hxg6 f6 26. Qh4 Nf8 27. Bxf8 Kxf8 28. Qh8+ Ke7 29. Qxg7# 1-0
+

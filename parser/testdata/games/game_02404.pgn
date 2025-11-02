@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/EBBkfOsy"]
+[White "mosilla"]
+[Black "VANELILI24"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:07"]
+[WhiteElo "1500"]
+[BlackElo "1065"]
+[WhiteRatingDiff "+42"]
+[BlackRatingDiff "-3"]
+[ECO "C26"]
+[Opening "Vienna Game: Mieses Variation"]
+[TimeControl "600+2"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.38] } 1... e5 { [%eval 0.42] } 2. g3 { [%eval -0.03] } 2... Nf6 { [%eval 0.0] } 3. Nc3 { [%eval -0.16] } 3... Bb4 { [%eval 0.08] } 4. Bg2 { [%eval 0.04] } 4... d6 { [%eval 0.0] } 5. Nf3 { [%eval -0.02] } 5... Bxc3 { [%eval 0.07] } 6. dxc3 { [%eval -0.24] } 6... Bg4 { [%eval 0.13] } 7. O-O { [%eval -0.28] } 7... Nxe4?! { [%eval 0.57] } 8. Qd5?! { [%eval 0.07] } 8... Nxc3? { [%eval 2.67] } 9. Qxb7 { [%eval 2.5] } 9... Ne2+ { [%eval 2.57] } 10. Kh1 { [%eval 2.46] } 10... Nxc1? { [%eval 3.6] } 11. Qxa8 { [%eval 3.65] } 11... Ne2 { [%eval 3.7] } 12. Rae1? { [%eval 2.43] } 12... Nxg3+? { [%eval 4.52] } 13. fxg3 { [%eval 3.97] } 13... Bxf3? { [%eval 5.58] } 14. Qxf3 { [%eval 5.21] } 14... f6 { [%eval 5.54] } 15. Bh3?! { [%eval 4.6] } 15... Nc6?? { [%eval 11.69] } 16. Qxc6+ { [%eval 11.22] } 16... Kf8 { [%eval 11.3] } 17. Kg2 { [%eval 10.72] } 17... d5?! { [%eval #28] } 18. Qc5+?! { [%eval 10.16] } 18... Ke8?! { [%eval #15] } 19. Qb5+?! { [%eval 11.57] } 19... Kf8 { [%eval 17.6] } 20. Qb4+ { [%eval 12.96] } 20... Ke8?! { [%eval #9] } 21. Qa4+?! { [%eval 11.76] } 21... Kf8 { [%eval 18.98] } 22. Qxa7 { [%eval 11.56] } 22... d4 { [%eval 18.73] } 23. a4 { [%eval 11.41] } 23... d3 { [%eval 14.11] } 24. a5 { [%eval 12.25] } 24... dxc2 { [%eval 18.68] } 25. Qc5+ { [%eval 17.4] } 25... Ke8?! { [%eval #7] } 26. Qxc2?! { [%eval 19.69] } 26... Qd5+ { [%eval 20.79] } 27. Kg1 { [%eval 19.72] } 27... Qxa5 { [%eval 18.95] } 28. Re4 { [%eval 17.04] } 28... Qb6+ { [%eval 21.36] } 29. Kh1 { [%eval 18.7] } 29... g6?! { [%eval #8] } 30. Rc4?! { [%eval 30.58] } 1-0
+

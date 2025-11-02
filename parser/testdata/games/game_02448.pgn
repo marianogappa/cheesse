@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/mltrVgXt"]
+[White "boss3890"]
+[Black "countermeasurer"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:19"]
+[WhiteElo "1872"]
+[BlackElo "1867"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation #4"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. Bxc6+ bxc6 6. Nf3 f6 7. Nd4 exd4 8. Bxd4 c5 9. Bb2 Ne7 10. d4 O-O 11. dxc5 Bxc5 12. Nd2 Bd6 13. O-O Ba6 14. Nf3 Bxf1 15. Qxf1 Ng6 16. Qd3 c6 17. c4 dxc4 18. Qxc4+ Kh8 19. Rd1 Qc7 20. h3 Ne5 21. Nxe5 Bxe5 22. Rc1 Bxb2 23. Qc2 Bxc1 24. Qxc1 c5 25. b4 Rac8 26. bxc5 Qxc5 27. Qe1 Rfd8 28. Kh2 Qc2 29. Qb4 Rd2 30. Qf4 Rxf2 31. Qg3 Rxg2+ 32. Qxg2 Qxg2+ 33. Kxg2 Rc2+ 34. Kf3 Rxa2 35. e4 a5 36. Kf4 Rb2 37. Ke3 a4 38. Kd3 a3 39. Kc3 Rb8 40. Kc2 a2 41. Kc3 a1=Q+ 42. Kd3 Qa5 43. Ke3 Rb3+ 44. Kf4 Qe5+ 45. Kg4 Rg3+ 46. Kh4 Qg5# 0-1
+

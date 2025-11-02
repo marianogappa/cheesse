@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WBUiSAvB"]
+[White "olaskaansar"]
+[Black "aridder"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:29"]
+[WhiteElo "1464"]
+[BlackElo "1141"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-4"]
+[ECO "C43"]
+[Opening "Russian Game: Modern Attack, Symmetrical Variation #2"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bc4 Nxf2 5. Bxf7+ Kxf7 6. Nxe5+ Kg8 7. Qf3 Nxh1 8. Qf7# 1-0
+

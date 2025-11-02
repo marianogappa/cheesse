@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/guOWj3SE"]
+[White "MACROSPACE-1"]
+[Black "DOC57"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:22"]
+[WhiteElo "1622"]
+[BlackElo "1541"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Levitsky Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bg5 e6 3. Bxd8 1-0
+

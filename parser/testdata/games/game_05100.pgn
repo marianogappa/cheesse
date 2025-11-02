@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/c6WbfMSs"]
+[White "khald"]
+[Black "VTuruz"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:35"]
+[WhiteElo "1698"]
+[BlackElo "2100"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+2"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. h3 Nf6 4. d3 h6 5. Be2 Be7 6. O-O O-O 7. c4 a5 8. Nc3 b6 9. Nd5 Nxd5 10. cxd5 c6 11. Nh2 cxd5 12. exd5 Nd7 13. Bg4 Nf6 14. Bxc8 Qxc8 15. Qb3 Qc5 16. Be3 Qxd5 17. Bxb6 Qxb3 18. axb3 Rab8 19. Bxa5 Rxb3 20. Bc3 Nd5 21. Rfc1 Rc8 22. Ng4 Nxc3 23. bxc3 Rbxc3 24. Rxc3 Rxc3 25. Ra7 Bg5 26. Ra8+ Kh7 27. Ra7 f6 28. g3 h5 29. Nh2 Rxd3 30. Nf3 Rxf3 31. Kg2 Rd3 32. f4 exf4 33. gxf4 Bxf4 34. Rd7 Rg3+ 35. Kf2 Rxh3 0-1
+

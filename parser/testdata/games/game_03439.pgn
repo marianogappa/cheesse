@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/UzrlbHyF"]
+[White "Aleksandar92"]
+[Black "TheMagicalDimwit"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:03"]
+[WhiteElo "1783"]
+[BlackElo "1850"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C30"]
+[Opening "King's Gambit Declined, Queen's Knight Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.25] } 1... e5 { [%eval 0.34] } 2. f4?! { [%eval -0.36] } 2... Nc6?! { [%eval 0.34] } 3. Nf3 { [%eval 0.33] } 3... d6 { [%eval 0.4] } 4. Bc4 { [%eval 0.11] } 4... Bg4 { [%eval 0.27] } 5. O-O { [%eval -0.18] } 5... Nf6?! { [%eval 0.37] } 6. Nc3?! { [%eval -0.5] } 6... Nd4?! { [%eval 0.0] } 7. fxe5 { [%eval -0.06] } 7... dxe5? { [%eval 1.27] } 8. Bxf7+ { [%eval 1.35] } 8... Kxf7 { [%eval 1.8] } 9. Nxe5+ { [%eval 1.77] } 9... Kg8 { [%eval 1.94] } 10. Nxg4 { [%eval 1.84] } 10... Nxg4 { [%eval 1.81] } 11. Qxg4 { [%eval 2.01] } 11... Bc5?! { [%eval 2.99] } 12. Kh1?! { [%eval 2.46] } 12... h5 { [%eval 2.29] } 13. Qg6 { [%eval 2.36] } 13... Qd7?! { [%eval 3.12] } 14. Nd5 { [%eval 3.16] } 14... Be7?? { [%eval 14.04] } 15. Qf7+ { [%eval 13.6] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2npDvzvs"]
+[White "corujinhachess"]
+[Black "vadimga"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:54"]
+[WhiteElo "1451"]
+[BlackElo "1430"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+12"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Hartlaub-Charlick Gambit"]
+[TimeControl "300+3"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.2] } 1... e5?! { [%eval 0.81] } 2. dxe5 { [%eval 0.81] } 2... d6 { [%eval 0.82] } 3. exd6 { [%eval 0.64] } 3... Bxd6 { [%eval 0.63] } 4. Nf3 { [%eval 0.7] } 4... Nf6 { [%eval 0.79] } 5. Nc3 { [%eval 0.56] } 5... O-O { [%eval 0.6] } 6. Bg5 { [%eval 0.49] } 6... h6 { [%eval 0.54] } 7. Bxf6 { [%eval 0.14] } 7... Qxf6 { [%eval 0.0] } 8. Ne4?! { [%eval -0.81] } 8... Qxb2 { [%eval -0.67] } 9. Nxd6 { [%eval -0.81] } 9... cxd6 { [%eval -0.74] } 10. e4?! { [%eval -1.47] } 10... Bg4?! { [%eval -0.56] } 11. Bd3?! { [%eval -1.21] } 11... Bxf3 { [%eval -1.03] } 12. gxf3 { [%eval -1.11] } 12... Nc6 { [%eval -1.04] } 13. O-O { [%eval -1.18] } 13... Qf6 { [%eval -1.37] } 14. Kh1 { [%eval -1.29] } 14... Qf4?! { [%eval -0.61] } 15. Rg1 { [%eval -1.0] } 15... Nd4 { [%eval -0.54] } 16. Rg3 { [%eval -0.65] } 16... f5?? { [%eval 4.82] } 17. c3? { [%eval 2.08] } 17... fxe4? { [%eval 3.63] } 18. Bxe4? { [%eval 0.73] } 18... Ne6? { [%eval 2.99] } 19. Rb1? { [%eval 0.8] } 19... Ng5 { [%eval 1.12] } 20. Rxg5? { [%eval -0.8] } 20... hxg5?! { [%eval -0.19] } 21. Rxb7 { [%eval -0.33] } 21... g4? { [%eval 2.56] } 22. Qd4?? { [%eval -0.72] } 22... Rf6 { [%eval -0.66] } 23. Bd5+ { [%eval -0.9] } 23... Kh8 { [%eval -0.98] } 24. Qxf4 { [%eval -0.97] } 24... Rxf4 { [%eval -0.82] } 25. Rd7 { [%eval -1.05] } 25... Rb8 { [%eval -0.71] } 26. Be4? { [%eval -3.22] } 26... gxf3 { [%eval -2.91] } 27. Re7?? { [%eval #-9] } 27... Rxe4 { [%eval #-19] } 0-1
+

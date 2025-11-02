@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oQjluX7W"]
+[White "archmag"]
+[Black "nogay_ata"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:29"]
+[WhiteElo "1828"]
+[BlackElo "1768"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Scandinavian Variation, Advance Variation"]
+[TimeControl "180+4"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 Nc6 3. d4 Bf5 4. f4 h5 5. Nf3 e6 6. Bd3 Bxd3 7. Qxd3 Nge7 8. c3 Nf5 9. Be3 Be7 10. Bf2 h4 11. Nbd2 h3 12. g4 Nh4 13. O-O-O Qd7 14. Nxh4 Bxh4 15. Qxh3 O-O-O 16. Bxh4 Rh7 17. Nf3 Rdh8 18. g5 Na5 19. g6 Rh5 20. Qg4 f5 21. exf6 gxf6 22. Bxf6 R8h6 23. g7 1-0
+

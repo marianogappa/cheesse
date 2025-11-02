@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/66UVtRXn"]
+[White "Waffle3z"]
+[Black "DrQwerty"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:40"]
+[WhiteElo "1259"]
+[BlackElo "1245"]
+[WhiteRatingDiff "-19"]
+[BlackRatingDiff "+11"]
+[ECO "C46"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nc6 4. Nc3 h6 5. O-O a6 6. d4 exd4 7. Nxd4 Ne5 8. Bf4 Nxc4 9. e5 Nh7 10. b3 Nb6 11. a4 g5 12. Be3 Bg7 13. Nf3 O-O 14. Bd4 Re8 15. Re1 d6 16. exd6 Rxe1+ 17. Qxe1 Bxd4 18. Nxd4 Qxd6 19. Qe8+ Kg7 20. Rd1 Qg6 21. Qe5+ Kf8 22. Re1 Bd7 23. Qh8+ Qg8 24. Qe5 Re8 25. Qc5+ Kg7 26. Rxe8 Qxe8 27. Nf5+ Bxf5 28. Qd4+ Kg6 29. g4 Qe1+ 30. Kg2 Be6 31. Qd3+ Kg7 32. Qd4+ Kf8 33. Qd8+ Kg7 34. Qd4+ f6 35. Ne4 Qa5 36. Ng3 Qd5+ 37. Qxd5 Bxd5+ 38. f3 c6 39. Nh5+ Kg6 40. Ng3 c5 41. Kf2 Nd7 42. Ke3 Ne5 43. f4 Nxg4+ 44. Kd3 Nxh2 45. fxg5 Nxg5 46. c4 Be6 47. Kc3 h5 48. b4 cxb4+ 49. Kxb4 Bg4 50. c5 Bf3 51. Kc4 Ne4 52. Kb4 Nxg3 53. Kc4 h4 54. Kd3 Nf5 55. Kd2 h3 56. Ke1 Ng4 57. Kf1 h2 58. c6 h1=Q# 0-1
+

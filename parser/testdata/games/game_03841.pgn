@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/ccnb8eGo"]
+[White "carlosh99"]
+[Black "Mat-chess"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:39"]
+[WhiteElo "2245"]
+[BlackElo "1912"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "C28"]
+[Opening "Vienna Game: Vienna Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 Nf6 3. Nc3 Bc5 4. fxe5 Bxg1 5. Rxg1 Ng8 6. Qg4 g6 7. Qg3 Nc6 8. d3 Qe7 9. Nd5 Qd8 10. Bg5 Nce7 11. Be2 c6 12. Nf6+ Nxf6 13. Bxf6 Rg8 14. O-O-O d5 15. exd6 Nf5 16. Qe5+ Ne7 17. Bxe7 Qd7 18. h3 Qe6 19. Qxe6 Bxe6 20. Bg4 Bxg4 21. hxg4 Kd7 22. Rh1 h5 23. g5 a5 24. Rhf1 Rg7 25. Rf6 Re8 26. Rdf1 Rxe7 27. dxe7 Kxe7 28. e5 Rh7 29. d4 h4 30. c4 a4 31. Kc2 b6 32. R1f3 b5 33. Rxc6 bxc4 34. Rxc4 Ke6 35. Rxa4 Rh5 36. Ra5 Rxg5 37. Rf6+ Ke7 38. Ra7+ Ke8 39. Rb6 Rxg2+ 40. Kb3 Kf8 41. e6 Rg3+ 42. Kc4 Rf3 43. exf7 Rxf7 44. Rb8+ Kg7 45. Rxf7+ Kxf7 46. Rh8 g5 47. Rh6 Kg7 48. Rh5 Kg6 49. Rh8 Kg7 50. Re8 h3 51. Kd3 h2 52. Re1 g4 53. Ke3 g3 54. Kf3 g2 55. Kxg2 Kf6 56. Kxh2 Kf5 57. d5 Kf4 58. d6 Kf3 59. Kg1 Kg3 60. d7 Kh3 61. d8=Q Kg3 62. Qd3+ Kg4 63. Re4+ Kf5 64. Qd5+ Kf6 65. Re6+ Kf7 66. Qd7+ Kf8 67. Re8# 1-0
+

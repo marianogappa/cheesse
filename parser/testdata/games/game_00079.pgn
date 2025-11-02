@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/qqf8dK5c"]
+[White "ujang70"]
+[Black "mansav"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:05"]
+[WhiteElo "1890"]
+[BlackElo "1675"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 4. dxe5 Bxf3 5. Qxf3 dxe5 6. Nc3 Nf6 7. Bg5 Be7 8. Bc4 O-O 9. O-O h6 10. Rad1 Qe8 11. Bh4 Nc6 12. a3 Nd4 13. Qd3 Rd8 14. Bxf6 Bxf6 15. Nd5 c6 16. Nxf6+ gxf6 17. Qg3+ Kh7 18. c3 Rg8 19. Qe3 Ne6 20. Bxe6 Qxe6 21. Kh1 Qg4 22. Qf3 Qh4 23. g3 Qg5 24. Rxd8 Rxd8 25. Rd1 Rf8 26. h4 Qg7 27. Rd6 Re8 28. Rxf6 Rf8 29. Qf5+ Kh8 30. Qxe5 b5 31. Rxh6+ Kg8 32. Qh5 Rd8 33. Rxc6 1-0
+

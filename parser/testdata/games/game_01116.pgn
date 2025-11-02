@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OUmfyNK9"]
+[White "Sun75"]
+[Black "westerlywolf"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:11"]
+[WhiteElo "1864"]
+[BlackElo "1784"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 d4 3. b4 c5 4. bxc5 Nc6 5. f4 Qa5 6. Nf3 Qxc5 7. Ba3 Qb6 8. c3 dxc3 9. Nxc3 Bg4 10. h3 Bxf3 11. Qxf3 O-O-O 12. Rb1 Qd4 13. Qe3 Qxe3+ 14. dxe3 e6 15. Bxf8 Rxf8 16. Ne4 Nh6 17. Nd6+ Kd8 18. Nxb7+ Kc7 19. g3 Rb8 20. Ba6 Nf5 21. Kf2 Rhd8 22. Nd6 Rxb1 23. Rxb1 Nxd6 24. exd6+ Rxd6 25. Rb7+ Kd8 26. Rxf7 Rd2+ 27. Kf3 Rxa2 28. Bc4 Ra3 29. Bxe6 Nd4+ 30. Ke4 Nxe6 31. Rxg7 Nxg7 32. g4 Ke7 33. h4 a5 34. g5 Rb3 35. f5 Nxf5 36. Kxf5 Rxe3 0-1
+

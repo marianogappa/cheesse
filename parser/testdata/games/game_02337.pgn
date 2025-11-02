@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/nxuUOGLD"]
+[White "adrivalla"]
+[Black "eiid"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:53"]
+[WhiteElo "1640"]
+[BlackElo "1633"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+34"]
+[ECO "B25"]
+[Opening "Sicilian Defense: Closed Variation, Traditional"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bc4 Nf6 4. a3 e6 5. d3 Be7 6. Nf3 O-O 7. h3 b6 8. Bg5 Bb7 9. Ne2 Ne8 10. Bxe7 Nxe7 11. c3 d5 12. exd5 exd5 13. Ba2 Nd6 14. O-O d4 15. cxd4 Bxf3 16. gxf3 Qd7 17. Ng3 Qxh3 18. dxc5 bxc5 19. Re1 Nef5 20. Nxf5 Nxf5 21. Re4 Nd4 22. Bd5 Nxf3+ 23. Qxf3 Qxf3 24. Bxa8 Rxa8 25. Rae1 g6 26. R4e3 Qg4+ 27. Rg3 Qd4 28. b4 cxb4 29. axb4 Qxb4 30. Re4 Qd6 31. Kg2 a5 32. Rgg4 a4 33. Rxa4 Rxa4 34. Rxa4 Qc6+ 0-1
+

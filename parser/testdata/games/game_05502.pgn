@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/SrzH7SRj"]
+[White "melmunmir"]
+[Black "echampion"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:13"]
+[WhiteElo "1672"]
+[BlackElo "1710"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-15"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 e6 5. Nf3 Qd6 6. d4 f6 7. Nb5 Qb6 8. Bf4 Bd6 9. Be3 a6 10. d5 c5 11. Nxd6+ Qxd6 12. dxe6 Qxd1+ 13. Rxd1 Bxe6 14. Bxc5 Nd7 15. Ba3 Bxa2 16. b3 Rc8 17. Bd3 Ne5 18. Ra1 Nxd3+ 19. cxd3 Rc2 20. Nd4 Rc5 21. Bxc5 Bxb3 22. Nxb3 Kd7 23. O-O Nh6 24. Rfe1 Kc6 25. Re6+ Kb5 26. Ra5# 1-0
+

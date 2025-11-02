@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/uLyiKqc6"]
+[White "qualifier"]
+[Black "necator"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:36"]
+[WhiteElo "2015"]
+[BlackElo "1930"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+13"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Catalan Formation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. g3 e6 2. Bg2 d5 3. Nf3 Nf6 4. O-O Be7 5. d3 b6 6. Ne1 Bb7 7. c4 c5 8. cxd5 exd5 9. Nc3 Nbd7 10. Bg5 Rb8 11. e4 dxe4 12. dxe4 Ne5 13. Bxf6 Bxf6 14. Qh5 O-O 15. f4 g6 16. Qe2 Nc6 17. e5 Bg7 18. Kh1 Nd4 19. Qg4 Ba6 20. Rf2 Qe7 21. Nf3 Rfd8 22. Re1 Rd7 23. Ng5 Rbd8 24. Qh4 h6 25. Nf3 Nxf3 26. Qxe7 Rxe7 27. Bxf3 Rd4 28. Be2 Bxe2 29. Rfxe2 Red7 30. Kg2 Rd2 31. Kf2 R7d3 32. Rxd2 Rxd2+ 33. Re2 Rxe2+ 34. Kxe2 f6 35. Kd3 fxe5 36. fxe5 Bxe5 37. Ke4 Bf6 38. Nd5 Kf7 39. Nc7 Bxb2 40. Nb5 a6 41. Nc7 b5 42. Nxa6 c4 43. Nc7 c3 44. Kd3 b4 45. Nd5 Ba3 46. Kc2 Ke6 47. Ne3 Ke5 48. Kb3 Ke4 49. Nc4 Kf3 50. Nb6 Kg2 0-1
+

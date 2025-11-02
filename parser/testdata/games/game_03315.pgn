@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FjJfsUm6"]
+[White "krevusV"]
+[Black "eabaeb"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:34"]
+[WhiteElo "1221"]
+[BlackElo "1166"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "B00"]
+[Opening "King's Pawn Game: Nimzowitsch Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nc6 2. e4 Nf6 3. Nf3 Nxe4 4. Nc3 Nd6 5. Nb5 Ne4 6. Bf4 d6 7. Bd3 Nf6 8. Nc3 Bg4 9. Be4 e5 10. Be3 Ne7 11. dxe5 dxe5 12. Qxd8+ Rxd8 13. h3 Be6 14. g4 Nc6 15. Bxc6+ bxc6 16. Bxa7 e4 17. Ng5 Bd6 18. Ngxe4 Nxe4 19. Nxe4 Bb4+ 20. c3 Be7 21. Bc5 Bh4 22. O-O Bd5 23. Ng3 Bxg3 24. fxg3 Bc4 25. Rfd1 Rb8 26. Ba7 Rxb2 27. Re1+ Kd7 28. Red1+ Ke6 29. a3 Bb3 30. Re1+ Kd5 31. Rab1 Ra2 32. Rxb3 c5 33. Bb8 c4 34. Rb5+ Kc6 35. Rb4 Rxa3 36. Rxc4+ Kd5 37. Rxc7 Rxb8 38. Rd1+ Ke4 39. Re7+ Kf3 40. Rf1+ Kxg3 41. c4 Kxh3 42. Rexf7 Rg3+ 43. Kh1 Kxg4 44. Rxg7+ Kh4 45. Rxh7+ Kg4 46. Rg7+ Kh4 47. Rxg3 Kxg3 48. c5 Rb5 49. Rc1 Rb7 50. c6 Rh7+ 51. Kg1 Kh3 52. c7 Rg7+ 53. Kf2 Rg2+ 54. Kf1 Kg3 55. c8=Q Rf2+ 56. Kg1 Rg2+ 57. Kf1 Rf2+ 58. Ke1 Kg2 59. Qg4+ Kh2 60. Qh4+ Kg2 61. Qxf2+ Kh3 62. Rc3+ Kg4 63. Qd4+ 1-0
+

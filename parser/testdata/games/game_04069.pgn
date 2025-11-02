@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vhbObXpC"]
+[White "oli5679"]
+[Black "chessous"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:30"]
+[WhiteElo "1705"]
+[BlackElo "1663"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "D15"]
+[Opening "Slav Defense: Schlechter Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 g6 5. e3 Bg7 6. Bd3 O-O 7. Bd2 Be6 8. b3 Qd7 9. h4 Bf5 10. Qc2 Bxd3 11. Qxd3 Na6 12. Ne5 Ng4 13. Nxd7 Nb4 14. Qb1 Rfd8 15. Nc5 e5 16. f3 exd4 17. Nxd5 Nxd5 18. fxg4 Nxe3 19. Bxe3 dxe3 20. Nxb7 Bc3+ 21. Ke2 Rd2+ 22. Kxe3 Re8+ 23. Kf4 Be5+ 24. Kf3 Bd4 25. Re1 1-0
+

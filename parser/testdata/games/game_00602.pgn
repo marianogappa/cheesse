@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Zc54TFqL"]
+[White "BisrAlgo"]
+[Black "chess3424"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:12"]
+[WhiteElo "1224"]
+[BlackElo "1344"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. e3 Nc6 3. Nf3 Nf6 4. Bd3 e6 5. O-O Bd6 6. b3 e5 7. dxe5 Nxe5 8. Nxe5 Bxe5 9. Bb5+ c6 10. Bd3 Bxa1 11. c3 O-O 12. c4 Be5 13. c5 Qc7 14. e4 Bxh2+ 15. Kh1 Be5 16. exd5 Nxd5 17. Qh5 Nf6 18. Qh4 Re8 19. Nd2 Be6 20. Ne4 h6 21. Nxf6+ Bxf6 22. Qh5 Rad8 23. Rd1 Rd5 24. Qf3 Qe5 25. Bf4 Qb2 26. Rd2 Qc1+ 27. Rd1 Qa3 28. Bc1 Qxc5 29. Be3 Qe7 30. Qe4 Bf5 31. Qxe7 Rxe7 32. Bxf5 Rxd1+ 33. Kh2 Re5 34. Bc5 Rxf5 35. Be7 Rh5+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IjCBmElZ"]
+[White "Legendary-panda"]
+[Black "TTB"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:37"]
+[WhiteElo "1469"]
+[BlackElo "1316"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+16"]
+[ECO "C68"]
+[Opening "Ruy Lopez: Exchange Variation, Lutikov Variation"]
+[TimeControl "420+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. Nxe5 d6 6. Nxc6 Qd7 7. Nd4 c5 8. Nf3 Qe6 9. d3 h6 10. c4 d5 11. cxd5 Qe7 12. h3 Nf6 13. Nc3 Bb7 14. Be3 Nd7 15. Ne2 g5 16. Qb3 Nf6 17. g4 Bg7 18. O-O O-O 19. Qb6 Rfc8 20. Rac1 Bxd5 21. exd5 Nxd5 22. Bxc5 Qxe2 23. Qb3 Qxf3 24. d4 Qxb3 25. axb3 Nf4 26. Rc2 Nxh3+ 27. Kg2 Nf4+ 28. Kg3 Nd3 29. Rd1 Nxc5 30. Rxc5 Rxc5 31. dxc5 Bxb2 32. Rd2 Be5+ 33. Kf3 Rc8 34. b4 Bc3 35. Rd5 Bxb4 36. Rd6 Bxc5 37. Rxa6 Bf8 38. Rf6 Rc3+ 39. Ke4 Rc2 40. f3 Re2+ 41. Kf5 Bg7 42. Rd6 Re6 43. Rd8+ Bf8 44. f4 gxf4 45. Kxf4 Rf6+ 46. Ke5 Re6+ 47. Kf5 Kg7 48. Rb8 Rf6+ 49. Ke5 Kg6 50. Rxf8 Re6+ 51. Kf4 Rf6+ 52. Kg3 h5 53. gxh5+ Kxh5 54. Rh8+ Kg6 55. Rh4 Ra6 56. Rf4 Kg7 57. Rf3 Kf8 58. Kg4 f6 59. Rf4 Kf7 60. Kf5 Ra5+ 61. Kg4 Kg6 62. Kf3 f5 63. Ke3 Ra3+ 64. Kf2 Kg5 65. Rf3 Rxf3+ 66. Kxf3 f4 67. Kf2 Kg4 68. Ke2 Kg3 69. Kd2 f3 70. Ke1 Kg2 0-1
+

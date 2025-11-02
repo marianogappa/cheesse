@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/xohfL9Oe"]
+[White "aGrig"]
+[Black "Belerfon"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:46"]
+[WhiteElo "2053"]
+[BlackElo "2144"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "B03"]
+[Opening "Alekhine Defense: Four Pawns Attack, Main Line"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nf3 e6 9. Nc3 Bb4 10. Be2 Qd7 11. Qd2 O-O-O 12. Rd1 Kb8 13. O-O f6 14. exf6 gxf6 15. a3 Bxc3 16. Qxc3 Rhg8 17. b4 Be4 18. b5 Ne7 19. Qb4 Nf5 20. Bf2 Qg7 21. g3 h5 22. c5 Nd5 23. Qb3 h4 24. b6 axb6 25. cxb6 cxb6 26. Be1 hxg3 27. Kh1 g2+ 28. Kg1 gxf1=Q+ 29. Kxf1 Qg2# 0-1
+

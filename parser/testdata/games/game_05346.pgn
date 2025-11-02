@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WRw9PBzT"]
+[White "michmichlamalice"]
+[Black "tinocro"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:34"]
+[WhiteElo "1357"]
+[BlackElo "1282"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-10"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nc6 4. d5 Nce7 5. Nc3 b6 6. Bd3 Bb7 7. O-O c6 8. dxc6 Bxc6 9. Bb5 g6 10. Bg5 Bxb5 11. Nxb5 Bg7 12. Nxd6+ Qxd6 13. Qxd6 Rd8 14. Qb4 Nf6 15. Rfd1 O-O 16. Rxd8 Rxd8 17. Qxe7 Rc8 18. Bxf6 Bxf6 19. Qxf6 Rxc2 20. Ng5 Rxb2 21. Qxf7+ Kh8 22. Qxh7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/kDpixRlx"]
+[White "Vic44"]
+[Black "mahmutcarlsen"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:39"]
+[WhiteElo "1502"]
+[BlackElo "1417"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-12"]
+[ECO "B02"]
+[Opening "Alekhine Defense: John Tracy Gambit"]
+[TimeControl "900+5"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nf3 Nxe4 3. d3 Nf6 4. Be2 g6 5. O-O Bg7 6. Be3 O-O 7. Qd2 b6 8. Bh6 Bxh6 9. Qxh6 Ng4 10. Qf4 Nf6 11. Qh6 Ng4 12. Qh4 d6 13. Ng5 h5 14. h3 Nf6 15. g4 hxg4 16. Bxg4 Bxg4 17. hxg4 e5 18. Qh1 c6 19. Nd2 Nxg4 20. Qh7# 1-0
+

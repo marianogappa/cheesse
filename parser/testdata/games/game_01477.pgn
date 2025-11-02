@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Ty2EnMJ0"]
+[White "julepe87"]
+[Black "Mortemsuamparabo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:31"]
+[WhiteElo "1369"]
+[BlackElo "1244"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "C64"]
+[Opening "Ruy Lopez: Classical Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.25] } 1... e5 { [%eval 0.36] } 2. Nf3 { [%eval 0.22] } 2... Nc6 { [%eval 0.26] } 3. Bb5 { [%eval 0.39] } 3... Bc5 { [%eval 0.36] } 4. Bxc6 { [%eval 0.1] } 4... dxc6 { [%eval 0.24] } 5. c3?! { [%eval -0.34] } 5... Qe7?! { [%eval 0.35] } 6. d4?! { [%eval -0.52] } 6... exd4 { [%eval -0.47] } 7. cxd4?! { [%eval -1.13] } 7... Bb4+ { [%eval -1.02] } 8. Nc3 { [%eval -0.91] } 8... Be6? { [%eval 0.71] } 9. O-O { [%eval 0.66] } 9... Nf6 { [%eval 0.67] } 10. a3?! { [%eval -0.23] } 10... Ba5?! { [%eval 0.66] } 11. d5 { [%eval 0.62] } 11... cxd5? { [%eval 3.15] } 12. e5?? { [%eval -0.92] } 12... Ng4?? { [%eval 3.5] } 13. Nxd5?? { [%eval -0.23] } 13... Qd8? { [%eval 0.92] } 14. Nf4? { [%eval -0.56] } 14... O-O?? { [%eval 3.4] } 15. Nxe6? { [%eval 0.76] } 15... fxe6 { [%eval 1.16] } 16. Qb3? { [%eval 0.14] } 16... Bb6?? { [%eval 5.8] } 17. Ng5?? { [%eval -2.04] } 17... Nxf2? { [%eval 0.14] } 18. Qxe6+ { [%eval 0.1] } 18... Kh8 { [%eval 0.27] } 19. Nf7+ { [%eval 0.12] } 19... Rxf7 { [%eval 0.13] } 20. Qxf7 { [%eval 0.18] } 20... Nd3+? { [%eval 1.72] } 21. Kh1 { [%eval 1.86] } 21... Nxe5 { [%eval 1.78] } 22. Qf5 { [%eval 1.57] } 22... Ng6?! { [%eval 2.33] } 23. Bg5 { [%eval 2.18] } 23... Qd6 { [%eval 2.42] } 24. Rad1 { [%eval 2.43] } 24... Qc5 { [%eval 2.53] } 25. Rd8+ { [%eval 2.45] } 25... Rxd8 { [%eval 2.29] } 26. Bxd8?! { [%eval 1.65] } 26... Qd6?? { [%eval 5.21] } 27. Bg5? { [%eval 2.45] } 27... h6 { [%eval 2.59] } 28. Re1?? { [%eval -0.91] } 28... hxg5 { [%eval -0.74] } 29. Re8+? { [%eval -2.35] } 1-0
+

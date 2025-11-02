@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/CkIbkXw9"]
+[White "Noah_Gaeta"]
+[Black "Palbra"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:29"]
+[WhiteElo "1109"]
+[BlackElo "1798"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+0"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "120+12"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. f3 Nxg5 4. e4 e6 5. Bb5 c6 6. Bc4 d5 7. Bb3 dxe4 8. Nh3 Nxh3 9. gxh3 exf3 10. Kf2 e5 11. Kxf3 Qxd4 12. Nd2 Qf4+ 13. Kg2 Bxh3+ 14. Kxh3 f6 15. Rf1 Qe3+ 16. Rf3 Qh6+ 17. Kg3 Nd7 18. c4 O-O-O 19. Rc1 Bc5 20. Ne4 Qg6+ 21. Ng5 Qxg5+ 22. Kh3 Nb6 23. Rd3 Qf5+ 24. Kg3 Rxd3+ 25. Qxd3 Qxd3+ 26. Kg4 Be3 27. Re1 Qd4+ 28. Kf3 Bg5 29. h4 Qf4+ 30. Ke2 Bxh4 31. Rh1 Rd8 32. Bc2 Rd2# 0-1
+

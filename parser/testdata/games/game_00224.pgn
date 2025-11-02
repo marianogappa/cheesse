@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EtmTk7Gm"]
+[White "vetmedin"]
+[Black "Dollar-USD"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:40"]
+[WhiteElo "1616"]
+[BlackElo "1652"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-38"]
+[ECO "C28"]
+[Opening "Vienna Game: Vienna Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 Bb4 4. fxe5 Bxc3 5. exf6 Bxf6 6. Nf3 d6 7. Bc4 Bg4 8. O-O Nd7 9. d4 c5 10. e5 dxe5 11. dxe5 Be7 12. Bxf7+ Kxf7 13. Ng5+ Kg8 14. Qxg4 Bxg5 15. Qe6# 1-0
+

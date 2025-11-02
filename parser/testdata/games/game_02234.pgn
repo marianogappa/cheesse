@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/JZJYRbZo"]
+[White "Florinmagnus"]
+[Black "Sy_Abelman"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:28"]
+[WhiteElo "2148"]
+[BlackElo "2152"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Tennison Gambit"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Nf6 4. Nc3 Nbd7 5. Qe2 e6 6. Ngxe4 Be7 7. d3 O-O 8. g3 b6 9. Bg2 Nxe4 10. Nxe4 Rb8 11. f4 Bb7 12. O-O Nf6 13. Kh1 Nxe4 14. dxe4 c5 15. c3 Qc7 16. f5 Rfd8 17. fxe6 fxe6 18. Qg4 Qc6 19. Bf4 Rbc8 20. Rf2 Rf8 21. e5 Qd7 22. Bxb7 Qxb7+ 23. Kg1 Qc6 24. Rd1 Rce8 25. Be3 Rxf2 26. Bxf2 Rf8 27. Be3 h6 28. Bxh6 Rf7 29. Qg6 Qf3 30. Rd2 Qf1# 0-1
+

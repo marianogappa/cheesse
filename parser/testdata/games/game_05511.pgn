@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/OXUT2uM5"]
+[White "anbego"]
+[Black "endrawes0"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:15"]
+[WhiteElo "1482"]
+[BlackElo "1308"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bf5 4. d4 e6 5. Bd3 Bxd3 6. Qxd3 f6 7. exf6 Nxf6 8. Nc3 Bb4 9. O-O O-O 10. Re1 Qd7 11. a3 Na6 12. axb4 Nxb4 13. Qe3 Nxc2 14. Ne5 Nxe3 15. Nxd7 Nc2 16. Nxf6+ gxf6 17. Bh6 Nxe1 18. Bxf8 Rxf8 19. Rxe1 e5 20. dxe5 fxe5 21. Rxe5 Kf7 22. Rf5+ Kg7 23. Rxf8 Kxf8 24. Kf1 Ke7 25. Ke2 Kf6 26. Ke3 Kf5 27. h4 h5 28. g3 Kg4 29. Na4 b5 30. Nc5 a5 31. b3 a4 32. bxa4 bxa4 33. Nxa4 Kh3 34. Nc3 Kg4 35. Ne2 Kf5 36. Nd4+ Kg4 37. Nxc6 Kh3 38. Ne7 d4+ 39. Kxd4 Kg2 40. Ke3 Kf1 41. Nf5 1-0
+

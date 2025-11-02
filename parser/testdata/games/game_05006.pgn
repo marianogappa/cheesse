@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/oPywjpzp"]
+[White "SamuelIFowler"]
+[Black "falcomat"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:11"]
+[WhiteElo "2259"]
+[BlackElo "1885"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-2"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+[TimeControl "5400+30"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nd7 5. Bc4 e6 6. d4 Ngf6 7. Ng3 Bd6 8. Qe2 Nd5 9. Nf5 Bf8 10. Bg5 Qa5+ 11. Bd2 Qc7 12. Ng5 N7f6 13. O-O g6 14. Ng3 Bg7 15. h4 Nf4 16. Qf3 N4h5 17. Nxh5 Nxh5 18. d5 cxd5 19. Bb5+ Kf8 20. Bb4+ Kg8 21. Be8 Bxb2 22. Nxf7 Bxa1 23. Bd6 Qd7 24. Bxd7 Bxd7 25. Rxa1 Ng7 26. Nh6# 1-0
+

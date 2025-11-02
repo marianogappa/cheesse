@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ElQVCoJ5"]
+[White "vlad-61"]
+[Black "dusanblind345"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:24"]
+[WhiteElo "2094"]
+[BlackElo "1632"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-1"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[TimeControl "60+6"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. d3 Nbd7 5. h3 g6 6. Be3 Bg7 7. Qd2 O-O 8. Bh6 Bxh6 9. Qxh6 Ne5 10. Ng5 a6 11. Nd5 Qa5+ 12. c3 Nxd3+ 13. Bxd3 1-0
+

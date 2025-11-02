@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DYjHelos"]
+[White "HalisonCL"]
+[Black "nikibelo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:11"]
+[WhiteElo "1539"]
+[BlackElo "1581"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-13"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. a3 Nf6 4. Nc3 Be7 5. Nf3 Nc6 6. e3 a6 7. c5 O-O 8. Bd3 b6 9. b4 bxc5 10. bxc5 Na5 11. Qa4 c6 12. Bd2 Rb8 13. Ne2 Nb7 14. Rb1 Bd7 15. Qxa6 Nxc5 16. dxc5 Rxb1+ 17. Bxb1 Qb8 18. Qd3 Bxc5 19. Ne5 Bc8 20. Ng4 Be7 21. Nxf6+ Bxf6 22. Qxh7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xArfA4KI"]
+[White "Lydian"]
+[Black "Tnast189"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:03"]
+[WhiteElo "1432"]
+[BlackElo "1336"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 f6 4. d5 Na5 5. Bd2 b6 6. Bb5 c6 7. dxc6 dxc6 8. Bxa5 cxb5 9. Qxd8+ Kxd8 10. Bc3 Bg4 11. Nbd2 Ne7 12. h3 Be6 13. O-O Nc6 14. b3 b4 15. Bb2 Bc5 16. Rad1 Ke7 17. Nc4 Bxc4 18. bxc4 Rad8 19. Rd5 Na5 20. Nd2 g5 21. Rd1 h5 22. c3 g4 23. h4 g3 24. Rc1 Bxf2+ 25. Kf1 Be3 26. cxb4 Bxd2 27. Rxd2 Nxc4 28. Rxc4 Rxd2 29. Ba3 Rxa2 30. b5+ Kf7 31. Rc7+ Kg6 32. Be7 Ra1+ 33. Ke2 Rg8 34. Rc6 Kf7 35. Bxf6 Rb1 36. Bxe5 Rxb5 37. Rc7+ Ke6 38. Bf4 a5 39. Rc6+ Kd7 40. Rc2 a4 41. Rd2+ Kc6 42. Rd3 Rb4 43. Kf3 Kc5 44. Bd6+ Kc4 45. Bxb4 Kxd3 46. e5 1-0
+

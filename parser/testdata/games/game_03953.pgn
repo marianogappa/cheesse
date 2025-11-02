@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/50BIlsGu"]
+[White "Prasonio"]
+[Black "zkralla"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:01"]
+[WhiteElo "1769"]
+[BlackElo "1637"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "B07"]
+[Opening "Pirc Defense #2"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 Bg4 4. f3 Bd7 5. Be3 h6 6. Qd2 Nh7 7. O-O-O Nc6 8. h4 f6 9. Bd3 e5 10. d5 Ne7 11. Nce2 c6 12. Nh3 cxd5 13. exd5 Nxd5 14. Bg6+ Ke7 15. Qxd5 Be6 16. Qb5 a6 17. Qxb7+ Bd7 18. Qd5 Be6 19. Qxd6+ Qxd6 20. Rxd6 Kxd6 21. Nc3 Ke7 22. Rd1 Bf7 23. Nd5+ Bxd5 24. Bf7 Bxf7 25. Rd5 Bxd5 26. Bc5+ Ke6 27. Bb4 Bxb4 28. Nf4+ Kd6 29. Kd1 Rac8 30. Ne6 Rxc2 31. Nd4 1-0
+

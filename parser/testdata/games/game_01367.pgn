@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/lPfhB3OH"]
+[White "Laborg"]
+[Black "Timao"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:09"]
+[WhiteElo "1543"]
+[BlackElo "1565"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-12"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Accelerated Move Order"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. c4 d5 3. Nc3 c6 4. cxd5 a6 5. dxc6 Nxc6 6. Nf3 Nf6 7. e3 Bb4 8. Bd2 Qa5 9. a3 Bxc3 10. Bxc3 Qb6 11. Bd3 O-O 12. O-O Nd5 13. Qc2 g6 14. Qd2 Nxc3 15. Qxc3 Bd7 16. Be4 Rac8 17. Bxc6 Bxc6 18. Qd2 Bxf3 19. gxf3 Rc6 20. Rac1 Rfc8 21. Rxc6 Rxc6 22. Rc1 Qc7 23. Rxc6 Qxc6 24. Qc3 Qxf3 25. Qc8+ Kg7 26. Qc3 Qd1+ 27. Kg2 Qg4+ 28. Kf1 Qd1+ 29. Kg2 Qg4+ 30. Kf1 Qd1+ 31. Qe1 Qg4 32. Qe2 Qxe2+ 33. Kxe2 Kf6 34. f3 Kf5 35. Kd3 h5 36. b4 g5 37. a4 g4 38. fxg4+ Kxg4 39. Ke4 f6 40. Kd3 Kh3 41. e4 Kxh2 42. d5 exd5 43. exd5 h4 44. d6 h3 45. d7 Kg2 46. d8=Q h2 47. Qd5+ Kg1 48. Qd4+ Kg2 49. Qg4+ Kf1 50. Qf3+ Kg1 51. Qg3+ Kf1 52. Qxh2 f5 53. Qf4+ Kg2 54. Qxf5 Kg3 55. Ke3 1-0
+

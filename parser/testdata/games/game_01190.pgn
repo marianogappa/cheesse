@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FWUZqh3k"]
+[White "turcko007"]
+[Black "Rafelov"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:26"]
+[WhiteElo "1949"]
+[BlackElo "1755"]
+[WhiteRatingDiff "+25"]
+[BlackRatingDiff "-5"]
+[ECO "B27"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 g6 3. b4 cxb4 4. d4 Bg7 5. Be3 d5 6. e5 e6 7. h4 h5 8. Nbd2 Ne7 9. Bd3 Nbc6 10. Nf1 Qb6 11. Qd2 Bd7 12. Ng3 a5 13. O-O Nf5 14. Nxf5 gxf5 15. Ng5 Nxd4 16. Bxf5 exf5 17. Bxd4 Qg6 18. a3 bxa3 19. Rxa3 f4 20. Qxf4 Be6 21. Rg3 Qh6 22. Qe3 Rg8 23. Rb1 f6 24. exf6 Bf8 1-0
+

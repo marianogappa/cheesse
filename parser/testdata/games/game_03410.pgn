@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/U5vOZWyQ"]
+[White "engulfing"]
+[Black "Vegarm"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:00"]
+[WhiteElo "1456"]
+[BlackElo "1548"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-13"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation #4"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. e5 d5 3. d4 c5 4. Be3 cxd4 5. Bxd4 Nc6 6. Nf3 Qc7 7. Bb5 Bd7 8. Bxc6 Bxc6 9. Nc3 Bb4 10. a3 Bxc3+ 11. Bxc3 Ne7 12. Nd4 Qxe5+ 13. Qe2 Qxe2+ 14. Kxe2 a6 15. Nxc6 Nxc6 16. Bxg7 Rg8 17. Bc3 Rxg2 18. Rhg1 Rxh2 19. Rg8+ Ke7 20. Rxa8 d4 21. Bb4+ Kf6 22. Bd6 h5 23. Bxh2 h4 24. Rh8 Kg5 25. Rg1+ Kf5 26. Rxh4 Ne5 27. Bxe5 Kxe5 28. Kd3 f5 29. Rxd4 b5 30. Re1+ Kf6 31. f4 a5 32. Rh1 e5 33. Rh6+ Kg7 34. Rdd6 e4+ 35. Kd4 e3 36. Kxe3 b4 37. axb4 axb4 38. Kd4 b3 39. cxb3 Kf7 40. Ke5 Ke7 41. Kxf5 Kf7 42. Rh7+ Kg8 43. Kg6 Kf8 44. Rd8# 1-0
+

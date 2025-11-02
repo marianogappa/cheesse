@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/6IhXJTk2"]
+[White "TheLAZYmd"]
+[Black "dark_wolf92"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:38"]
+[WhiteElo "1847"]
+[BlackElo "1920"]
+[WhiteRatingDiff "+23"]
+[BlackRatingDiff "-13"]
+[ECO "A40"]
+[Opening "Englund Gambit"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 e5 2. c4 exd4 3. Nf3 c5 4. Bg5 Be7 5. Bxe7 Nxe7 6. e3 dxe3 7. fxe3 O-O 8. Bd3 d5 9. O-O d4 10. Ng5 dxe3 11. Bxh7+ Kh8 12. Qh5 Bg4 13. Qxg4 f6 14. Qh5 fxg5 15. Bg6+ Kg8 16. Qh7# 1-0
+

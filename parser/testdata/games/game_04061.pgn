@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PkI8qYjC"]
+[White "Vataros"]
+[Black "CoyotteBipBip"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:30"]
+[WhiteElo "1969"]
+[BlackElo "1706"]
+[WhiteRatingDiff "+21"]
+[BlackRatingDiff "-4"]
+[ECO "C30"]
+[Opening "King's Gambit Declined, Queen's Knight Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 Bc5 4. fxe5 d6 5. exd6 cxd6 6. d4 Bb6 7. c3 Nge7 8. Bd3 O-O 9. O-O 1-0
+

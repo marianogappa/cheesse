@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/WZm1rSYb"]
+[White "aprentice1"]
+[Black "HgDinis25"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:41"]
+[WhiteElo "1514"]
+[BlackElo "1293"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-59"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nf6 4. O-O h6 5. Re1 Bg4 6. c3 Bxf3 7. Qxf3 Nc6 8. d3 Be7 9. Nd2 O-O 10. b3 d5 11. exd5 Nxd5 12. Bxd5 e4 13. dxe4 Bc5 14. Bxc6 bxc6 15. c4 Qf6 16. Qg3 Qxa1 17. Nf3 Qxa2 18. Bxh6 Qb2 19. Re2 Qf6 20. Bg5 Qg6 21. Nh4 Qxg5 22. Qxg5 f6 23. Qxc5 Rfd8 24. Qxc6 Rdc8 25. Re1 Rcb8 26. Kf1 Rc8 27. Qe6+ Kf8 28. Ng6# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bwi1UHnv"]
+[White "tarhana"]
+[Black "cebelica"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:17"]
+[WhiteElo "1656"]
+[BlackElo "1701"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C41"]
+[Opening "Philidor Defense #4"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. O-O Nf6 5. Nc3 Bg4 6. d3 Bxf3 7. Qxf3 O-O 8. Nd5 Nxd5 9. Bxd5 c6 10. Bb3 Nd7 11. Be3 Nf6 12. d4 exd4 13. Bxd4 Qd7 14. Rad1 Qg4 15. Qxg4 Nxg4 16. h3 Ne5 17. f4 Ng6 18. c4 c5 19. Bc3 b6 20. g4 Nh8 21. f5 Rad8 22. e5 dxe5 23. Bxe5 Rxd1 24. Rxd1 Re8 25. Rd7 Bg5 26. Rxa7 h6 27. Bc3 Re3 28. Kg2 Bh4 29. Rb7 Kh7 30. Rxf7 Nxf7 31. Bd2 Re2+ 0-1
+

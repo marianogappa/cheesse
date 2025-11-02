@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/aPRf0qP2"]
+[White "ThegreatCapablanca"]
+[Black "mirek50"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:26"]
+[WhiteElo "1405"]
+[BlackElo "1622"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-16"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #3"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. e3 d5 3. Be2 Bf5 4. Nf3 e6 5. Nc3 a6 6. Qd2 c5 7. b3 Nc6 8. Bb2 Qb6 9. O-O cxd4 10. exd4 Be7 11. Qg5 O-O 12. Nh4 Bxc2 13. f4 Nxd4 14. Kh1 Nf5 15. Nxf5 Bxf5 16. Rf3 Rac8 17. Rg3 g6 18. h4 Ne4 19. Qh6 Nxg3+ 20. Kh2 Nh5 21. Nxd5 exd5 22. g4 Bf6 23. gxh5 Bxb2 24. hxg6 fxg6 25. Rg1 Qf2+ 26. Rg2 Qd4 27. h5 Rc2 28. hxg6 Bxg6 29. f5 Qe5+ 30. Kh3 Qxf5+ 31. Rg4 Rxe2 32. Qh4 Re3+ 33. Kh2 1-0
+

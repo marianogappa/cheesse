@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/a5WIXtx7"]
+[White "majidchess"]
+[Black "yahim"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:21"]
+[WhiteElo "2282"]
+[BlackElo "2133"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bg5 g6 3. Bxf6 exf6 4. Nf3 f5 5. e3 Bg7 6. c4 b6 7. Nc3 Bb7 8. Be2 O-O 9. O-O d6 10. Qd2 Nd7 11. b4 a5 12. a3 Re8 13. Rfd1 Nf6 14. h3 Qd7 15. c5 dxc5 16. bxc5 Ne4 17. Nxe4 fxe4 18. Ne1 bxc5 19. Rab1 Ba6 20. dxc5 Qc6 21. Bxa6 Rxa6 22. Qd7 Qxd7 23. Rxd7 Rc6 24. Rb5 a4 25. Nc2 Bf6 26. Nb4 Rce6 27. Rxc7 Rd8 28. g3 Rd2 29. Rbb7 Bb2 30. Rxf7 Rf6 31. Rxf6 Bxf6 32. c6 Be5 33. c7 Rd1+ 34. Kg2 Bxc7 35. Rxc7 Ra1 36. Rc3 Rb1 37. Nd5 Rb3 38. Rxb3 axb3 39. a4 b2 40. Nc3 1-0
+

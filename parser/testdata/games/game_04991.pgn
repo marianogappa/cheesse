@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/WDAs2czF"]
+[White "Nkko"]
+[Black "HardWoodPusher"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:08"]
+[WhiteElo "1924"]
+[BlackElo "1901"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "A80"]
+[Opening "Dutch Defense"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. d4 f5 2. Bf4 d6 3. Nf3 h6 4. h3 Nf6 5. e3 Nbd7 6. Nbd2 Nb6 7. c3 c6 8. Qc2 Bd7 9. Bd3 e6 10. e4 fxe4 11. Bxe4 Nxe4 12. Nxe4 Be7 13. Bxd6 Bxd6 14. Nxd6+ Ke7 15. Ne4 Rf8 16. O-O-O Qc7 17. Nc5 Rad8 18. Ne5 Be8 19. g4 Rf6 20. f4 Nc8 21. f5 b6 22. Ncd3 exf5 23. gxf5 Bf7 24. Nxf7 Kxf7 25. Rdf1 Qe7 26. Ne5+ Kg8 27. Nxc6 Qe3+ 28. Kb1 Rxc6 29. Rhg1 Re8 30. f6 Qe4 31. Rxg7+ Kh8 32. Qxe4 Rxe4 33. f7 1-0
+

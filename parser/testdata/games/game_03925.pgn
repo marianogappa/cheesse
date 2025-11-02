@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SzdACBHW"]
+[White "BRENNNOV"]
+[Black "trothan"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:57"]
+[WhiteElo "1731"]
+[BlackElo "1737"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B33"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Schlechter Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nb3 Bb4 7. f3 d5 8. Bg5 d4 9. a3 dxc3 10. axb4 Qxd1+ 11. Rxd1 cxb2 12. Bb5 O-O 13. Kf2 Nxb4 14. c3 Nc2 15. Rd2 Na3 16. Rxb2 Nxb5 17. Nc5 a6 18. Rd1 Nxc3 19. Rd3 Nb5 20. Na4 Be6 21. Nb6 Rad8 22. Re3 Rd6 23. Na4 Rfd8 24. Kg3 Bc8 25. Kh4 h6 26. Bxf6 Rxf6 27. g3 Nd4 28. Rf2 b5 29. Nc3 Bb7 30. f4 Re6 31. f5 Re7 32. Kh5 f6 33. g4 b4 34. g5 hxg5 35. Ne2 Nxe2 36. Rexe2 a5 37. Kg6 Bc6 38. Rf3 Be8# 0-1
+

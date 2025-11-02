@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/LfrxCWuc"]
+[White "donkeyface"]
+[Black "chesshouse"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:32"]
+[WhiteElo "1617"]
+[BlackElo "1625"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "B45"]
+[Opening "Sicilian Defense: Paulsen Variation, Normal Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 Bc5 6. Nxc6 bxc6 7. Bd3 Qb6 8. O-O Nf6 9. Na4 Qa5 10. Nxc5 Qxc5 11. Be3 Qd6 12. Qe2 Qc7 13. Rad1 d5 14. exd5 cxd5 15. f4 Bd7 16. f5 e5 17. Bg5 Ng8 18. Bb5 f6 19. Bxd7+ Qxd7 20. Bh4 Ne7 21. Bg3 Qc7 22. Rd2 d4 23. Rfd1 Nc6 24. a3 O-O 25. b4 Rab8 26. b5 Na5 27. Rxd4 exd4 28. Bxc7 Rbe8 29. Qxe8 Rxe8 30. Bxa5 Re4 31. Bd2 Kf7 32. h3 g6 33. fxg6+ Kxg6 0-1
+

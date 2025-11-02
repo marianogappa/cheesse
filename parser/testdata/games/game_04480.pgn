@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/OaYH0OCe"]
+[White "Loh131"]
+[Black "idiota2"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:07"]
+[WhiteElo "1027"]
+[BlackElo "1539"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+1"]
+[ECO "A17"]
+[Opening "English Opening: Anglo-Indian Defense, Hedgehog System"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. c4 { [%eval -0.07] } 1... Nf6 { [%eval 0.22] } 2. Nc3 { [%eval 0.0] } 2... e6 { [%eval 0.42] } 3. g3?! { [%eval -0.35] } 3... d5 { [%eval 0.0] } 4. Bg2 { [%eval -0.37] } 4... dxc4 { [%eval -0.16] } 5. Nf3 { [%eval -0.2] } 5... c6 { [%eval -0.28] } 6. d4 { [%eval -0.54] } 6... Nbd7?! { [%eval -0.03] } 7. Bg5 { [%eval -0.14] } 7... Be7 { [%eval -0.07] } 8. e4 { [%eval -0.34] } 8... h6 { [%eval -0.26] } 9. Bxf6 { [%eval -0.31] } 9... Bxf6 { [%eval -0.33] } 10. e5 { [%eval -0.31] } 10... Be7 { [%eval -0.3] } 11. O-O { [%eval -0.47] } 11... a6 { [%eval -0.14] } 12. b3?! { [%eval -0.69] } 12... cxb3 { [%eval -0.68] } 13. Qxb3 { [%eval -0.7] } 13... b5 { [%eval -0.66] } 14. a4 { [%eval -0.8] } 14... Bb7 { [%eval -0.67] } 15. axb5 { [%eval -1.04] } 15... cxb5?! { [%eval -0.45] } 16. Rfd1 { [%eval -0.71] } 16... O-O { [%eval -0.72] } 17. Nh4?! { [%eval -1.71] } 17... Bxg2?! { [%eval -1.16] } 18. Kxg2? { [%eval -3.42] } 18... Nb6? { [%eval -1.99] } 19. Ne4?! { [%eval -2.76] } 19... Qd5 { [%eval -2.41] } 20. Qxd5?! { [%eval -2.91] } 20... Nxd5 { [%eval -3.04] } 21. Nd6?! { [%eval -3.81] } 21... Bxd6 { [%eval -3.65] } 22. exd6 { [%eval -3.39] } 22... Rfd8?! { [%eval -2.79] } 23. Rdc1?! { [%eval -3.35] } 23... Rxd6 { [%eval -3.28] } 24. Rc7?? { [%eval -11.43] } 0-1
+

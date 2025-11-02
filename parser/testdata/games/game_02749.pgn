@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HXoSwcbn"]
+[White "georgebitcoin"]
+[Black "Furianets"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:19"]
+[WhiteElo "1640"]
+[BlackElo "1664"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Bf4 Nf6 3. Nf3 e6 4. e3 Bb4+ 5. c3 Ba5 6. b4 Bb6 7. a4 a6 8. Nbd2 Nbd7 9. Bd3 Qe7 10. O-O Nf8 11. h3 Ng6 12. Bxg6 hxg6 13. Ng5 Nh5 14. Qg4 e5 15. Qxc8+ Rxc8 16. dxe5 Nxf4 17. exf4 f6 18. Ngf3 f5 19. Ng5 d4 20. c4 c5 21. b5 Ba5 22. Ndf3 Bc3 23. Rab1 Rd8 24. Rfd1 d3 25. bxa6 bxa6 26. Rb6 d2 27. e6 O-O 28. Rxa6 Ra8 29. Rc6 Rxa4 30. Rxc5 Ra1 31. Rxa1 Bxa1 32. Nxd2 Qxc5 33. e7 Re8 34. Ne6 Qxe7 35. c5 Qxe6 36. c6 Qe1+ 0-1
+

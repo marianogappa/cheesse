@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HVbR3q0s"]
+[White "marsan"]
+[Black "timothybdalton"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:26"]
+[WhiteElo "796"]
+[BlackElo "930"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+8"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.11] } 1... e6 { [%eval 0.18] } 2. d4 { [%eval 0.15] } 2... Qh4? { [%eval 1.22] } 3. Ne2? { [%eval -0.07] } 3... Qxe4 { [%eval -0.02] } 4. f3?! { [%eval -0.79] } 4... Qh4+ { [%eval -0.64] } 5. Ng3? { [%eval -1.76] } 5... Bb4+?! { [%eval -1.25] } 6. c3 { [%eval -1.68] } 6... Bd6 { [%eval -1.58] } 7. Bd3? { [%eval -4.09] } 7... Bxg3+ { [%eval -4.05] } 8. Kf1 { [%eval -4.51] } 8... a5?! { [%eval -3.71] } 9. hxg3?? { [%eval -9.04] } 9... Qxh1+ { [%eval -8.92] } 10. Ke2 { [%eval -9.03] } 10... Qxg2+ { [%eval -8.93] } 11. Ke1 { [%eval -8.97] } 11... Qxg3+ { [%eval -8.73] } 12. Kf1 { [%eval -9.15] } 12... b6 { [%eval -8.91] } 13. c4?! { [%eval -9.82] } 13... Bb7 { [%eval -9.93] } 14. Bg5 { [%eval -14.23] } 14... Qxg5 { [%eval -14.04] } 15. f4 { [%eval -18.66] } 15... Qg2+ { [%eval -17.08] } 16. Ke1 { [%eval -17.39] } 16... Qh1+ { [%eval -14.47] } 17. Bf1 { [%eval -16.85] } 17... Bg2 { [%eval -15.19] } 18. Nd2 { [%eval -15.21] } 18... a4 { [%eval -13.86] } 19. a3 { [%eval -15.63] } 19... Ra5 { [%eval -14.31] } 20. Rc1 { [%eval -15.34] } 20... Rh5 { [%eval -15.12] } 21. c5 { [%eval -19.33] } 21... bxc5 { [%eval -15.33] } 22. dxc5 { [%eval -23.82] } 22... Rd5 { [%eval -15.88] } 23. Rc3 { [%eval -74.96] } 23... Bxf1 { [%eval -37.9] } 24. Nxf1 { [%eval -74.6] } 24... Rxd1+ { [%eval -72.2] } 25. Kxd1 { [%eval -66.83] } 25... Qxf1+ { [%eval -64.89] } 26. Kc2 { [%eval -41.06] } 26... Qxf4 { [%eval -32.58] } 27. c6 { [%eval -73.97] } 27... dxc6 { [%eval -39.58] } 28. b4?! { [%eval #-13] } 28... Qf5+ { [%eval #-13] } 29. Kb2 { [%eval #-12] } 29... Qf2+ { [%eval #-12] } 30. Ka1 { [%eval #-12] } 30... Qf6 { [%eval #-11] } 31. b5 { [%eval #-5] } 31... cxb5?! { [%eval #-10] } 32. Kb2 { [%eval #-10] } 32... Na6 { [%eval #-10] } 33. Ka2 { [%eval #-4] } 33... h5?! { [%eval #-10] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/M6ClFd5T"]
+[White "soufle"]
+[Black "alfiererosanero"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:31"]
+[WhiteElo "1993"]
+[BlackElo "1855"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Toikkanen Gambit"]
+[TimeControl "60+1"]
+[Termination "Time forfeit"]
+
+1. c4 c6 2. e4 d5 3. e5 Bf5 4. d4 e6 5. Nc3 Ne7 6. Nf3 dxc4 7. Bxc4 Nd5 8. Bb3 Nd7 9. O-O Be7 10. Re1 O-O 11. Ne4 c5 12. dxc5 Nxc5 13. Bc2 Nxe4 14. Bxe4 Bxe4 15. Rxe4 Qb6 16. Qe2 Rac8 17. Bg5 Nb4 18. Bxe7 Rfe8 19. Bxb4 a5 20. Bc3 Qc6 21. Rc1 b5 22. Nd4 Qc5 23. Nxb5 Rb8 24. a4 Rec8 25. h3 Qd5 26. Rd4 Qc6 27. Rd6 Qc5 28. Qd3 Rb6 29. Rd8+ 1-0
+

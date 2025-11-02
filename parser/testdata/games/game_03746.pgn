@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SY23a73c"]
+[White "Emm"]
+[Black "Falkor1"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:19"]
+[WhiteElo "1804"]
+[BlackElo "1795"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "C45"]
+[Opening "Scotch Game: Classical Variation"]
+[TimeControl "180+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 bxc6 6. Bd3 d6 7. O-O h6 8. c4 Nf6 9. Nc3 O-O 10. a3 Be6 11. b4 Bb6 12. a4 a6 13. Bb2 d5 14. exd5 cxd5 15. c5 Ba7 16. Ne2 c6 17. Ng3 Bb8 18. Bc2 Re8 19. Qd3 Qd7 20. Bxf6 gxf6 21. Qh7+ Kf8 22. Qxh6+ Ke7 23. Rfe1 Bxg3 24. fxg3 Rh8 25. Qf4 Rh5 26. Qf3 Rah8 27. h3 Re5 28. Rxe5 fxe5 29. Kh2 Bxh3 30. gxh3 Qxh3+ 31. Kg1 Qh2+ 32. Kf1 Qxc2 33. Re1 Qc4+ 34. Kg2 f6 35. Rf1 Rh6 36. Qe3 Qe4+ 37. Rf3 Qxe3 38. Rxe3 Rg6 39. b5 cxb5 40. axb5 axb5 41. Rb3 Kd7 42. Rxb5 Kc6 43. Ra5 d4 44. Kf3 d3 45. Ke3 Rxg3+ 46. Kd2 e4 47. Ra6+ Kxc5 48. Rxf6 Kd5 49. Rf5+ Kd4 50. Rf4 Rg2+ 51. Kd1 Ke3 52. Rh4 Rg1# 0-1
+

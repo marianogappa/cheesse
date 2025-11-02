@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cQFtZKAY"]
+[White "ognjen"]
+[Black "khamil"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:10"]
+[WhiteElo "1699"]
+[BlackElo "1662"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "C00"]
+[Opening "French Defense: King's Indian Attack"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d3 e6 2. e4 d5 3. exd5 exd5 4. Nc3 Bb4 5. Bd2 d4 6. Ne4 Bxd2+ 7. Qxd2 Bf5 8. O-O-O Ne7 9. Re1 Bxe4 10. Rxe4 O-O 11. f4 Nbc6 12. g4 Nd5 13. h4 Qd7 14. f5 Rae8 15. Rxe8 Rxe8 16. Ne2 Nf6 17. Bg2 Nxg4 18. Bxc6 Qxc6 19. Rg1 Ne3 20. Nxd4 Qf6 21. Nb3 Qxf5 22. Re1 Qh3 23. Nd4 Kf8 24. Qb4+ Kg8 25. Qd2 Kf8 26. b3 c5 27. Nb5 a6 28. Nc7 Re7 29. Na8 Nc4 30. dxc4 Rxe1+ 31. Qxe1 g6 32. Nc7 Qf5 33. Qe8+ Kg7 34. Qxf7+ 1-0
+

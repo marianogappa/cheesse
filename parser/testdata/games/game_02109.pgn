@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/KySyrfAh"]
+[White "donnarcis"]
+[Black "labuverr"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:49"]
+[WhiteElo "2101"]
+[BlackElo "1585"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c3 Nf6 3. Nf3 Nc6 4. Bf4 e6 5. e3 g6 6. Nbd2 Bg7 7. Bd3 O-O 8. e4 a6 9. exd5 Nxd5 10. Bg3 Nf6 11. O-O Qe7 12. Re1 Re8 13. Ne5 Nxe5 14. Bxe5 Nd7 15. Bxg7 Kxg7 16. Nf3 Qf6 17. Ne5 Kg8 18. Qe2 Nxe5 19. Qxe5 Qxe5 20. Rxe5 Bd7 21. Rae1 c6 22. f4 Rf8 23. g4 f6 24. R5e3 Rae8 25. Kg2 Rf7 26. Kg3 Rfe7 27. Bc4 Kf7 28. f5 gxf5 29. gxf5 b5 30. Bb3 a5 31. fxe6+ Bxe6 32. Bxe6+ Rxe6 33. Rxe6 Rxe6 34. Rxe6 Kxe6 35. Kf4 h6 36. b3 h5 37. c4 bxc4 38. bxc4 a4 39. a3 h4 40. h3 Kd6 41. Kf5 c5 42. d5 Ke7 43. Kg6 Kd6 44. Kxf6 Kd7 45. Kg5 Kd6 46. Kxh4 Ke5 47. Kg5 Kd4 48. d6 Kxc4 49. d7 Kb3 50. d8=Q c4 51. Qa5 c3 52. Qb5+ Kc2 53. Qxa4+ Kd3 54. h4 Kd2 55. h5 c2 56. Qxc2+ Kxc2 57. a4 Kc3 58. a5 Kd3 59. a6 Kd4 60. a7 Ke4 61. a8=Q+ Ke3 62. Qd8 Ke2 63. h6 Kf2 64. h7 Kg3 65. h8=Q Kf3 66. Qhf6+ 1-0
+

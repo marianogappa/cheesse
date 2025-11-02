@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Vci4zL39"]
+[White "eslamov"]
+[Black "assem554"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:43"]
+[WhiteElo "1569"]
+[BlackElo "1656"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. b3 e5 2. Bb2 e4 3. d3 f5 4. dxe4 fxe4 5. e3 d5 6. Nd2 c6 7. Ne2 Nf6 8. Ng3 Bd6 9. Be2 O-O 10. Nh5 Nbd7 11. Nxf6+ Nxf6 12. c4 Be6 13. cxd5 cxd5 14. O-O Bc7 15. Rc1 Qd6 16. g3 Rad8 17. a4 a6 18. Ra1 Qd7 19. f4 Bg4 20. Bxg4 Nxg4 21. Nb1 Nxe3 22. Qd4 Nxf1 23. Kxf1 Rde8 24. Ke2 Rf7 25. Nc3 Qg4+ 26. Ke1 e3 27. Nxd5 Ba5+ 28. b4 Qf3 29. bxa5 Qf2+ 30. Kd1 e2+ 31. Kc2 e1=Q+ 32. Kb3 Qxd4 33. Bxd4 Qe4 34. Bb6 Qxd5+ 35. Ka3 Qd3+ 36. Ka2 Re2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/4LYqn13i"]
+[White "MaurusAP"]
+[Black "andresporras"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:54"]
+[WhiteElo "1540"]
+[BlackElo "1435"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "60+2"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d6 4. d4 cxd4 5. cxd4 Nf6 6. Nc3 Bg4 7. Be3 e6 8. h3 Bh5 9. Be2 h6 10. O-O Be7 11. Rc1 O-O 12. a3 Bg6 13. Bd3 d5 14. e5 Bxd3 15. Qxd3 Nd7 16. Nh2 Na5 17. f4 Nc4 18. Qe2 Qb6 19. Bf2 a5 20. Rb1 Qc6 21. Be1 b5 22. Rc1 b4 23. axb4 axb4 24. Nd1 Qa4 25. Ne3 Ndb6 26. Qd3 Qa2 27. b3 Na3 28. Rf2 Nc2 29. Qxc2 Qa5 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KQhjGn9o"]
+[White "Awilen"]
+[Black "joeschlabotnik"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:27"]
+[WhiteElo "1360"]
+[BlackElo "1234"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-85"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. c3 c5 4. d4 cxd4 5. cxd4 Bd7 6. d5 b6 7. Nc3 Nf6 8. Bg5 h6 9. Bh4 g6 10. Bxf6 Be7 11. Bxh8 1-0
+

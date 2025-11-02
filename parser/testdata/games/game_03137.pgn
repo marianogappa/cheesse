@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NnqHmdQI"]
+[White "CoolKnight"]
+[Black "yahoojames"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:48"]
+[WhiteElo "1640"]
+[BlackElo "1706"]
+[WhiteRatingDiff "-61"]
+[BlackRatingDiff "+8"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. Be2 Be7 6. O-O O-O 7. Re1 Nbd7 8. Nc3 c6 9. Bg5 Bd6 10. Bd3 Qc7 11. g3 b6 12. Ne2 Bb7 13. c4 c5 14. cxd5 Nxd5 15. Nc3 Nxc3 16. bxc3 c4 17. Be4 b5 18. Bxb7 Qxb7 19. Ne5 Nb6 20. Be3 Nd5 21. Bd2 Rfe8 22. Nf3 h6 23. Qc1 Nf6 24. Bxh6 Qxf3 25. Bxg7 Kxg7 26. Qg5+ Kh7 27. Qh4+ Kg6 28. Re3 Qg4 29. Qxg4+ Nxg4 30. Rf3 Re2 31. h3 Nf6 32. Kf1 Rae8 33. a4 b4 34. cxb4 Bxb4 35. Rb1 a5 36. Rd1 Re1+ 37. Rxe1 Rxe1+ 38. Kg2 Ra1 0-1
+

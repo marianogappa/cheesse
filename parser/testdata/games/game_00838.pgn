@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pCHomYQh"]
+[White "TMpelwane"]
+[Black "small_women"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:08"]
+[WhiteElo "1576"]
+[BlackElo "1683"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. Nf3 Nc6 2. d4 d5 3. c4 e6 4. Bf4 Nf6 5. a3 h6 6. Nc3 a6 7. e3 dxc4 8. Bxc4 b5 9. Bb3 Bb7 10. O-O Bd6 11. Ne5 O-O 12. Qd3 b4 13. Ne4 a5 14. Rfc1 Be7 15. Nxf6+ Bxf6 16. Nxf7 Kxf7 17. Bc2 Rh8 18. Qg6+ Kf8 19. Bb3 Qe7 20. d5 exd5 21. Bxd5 Bxb2 22. Bxc6 Bxc6 23. Rxc6 Bxa1 24. Rxc7 Qf6 25. Bd6+ Kg8 26. Rxg7+ Qxg7 0-1
+

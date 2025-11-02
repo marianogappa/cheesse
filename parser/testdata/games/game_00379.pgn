@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/otk3QlcD"]
+[White "TMonteChess44"]
+[Black "francoisdavoine"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:19"]
+[WhiteElo "1423"]
+[BlackElo "1425"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "480+0"]
+[Termination "Time forfeit"]
+
+1. g3 e5 2. Bg2 c6 3. d3 d5 4. Nf3 f6 5. O-O Na6 6. Re1 g5 7. e4 d4 8. c3 dxc3 9. Nxc3 Bg4 10. b3 Bb4 11. Bb2 Ne7 12. a3 Bxc3 13. Bxc3 O-O 14. h3 Be6 15. b4 Qd7 16. Rc1 Bxh3 17. Rc2 Bxg2 18. Kxg2 f5 19. exf5 Qxf5 20. Nxe5 c5 21. Rce2 Rae8 22. bxc5 Nd5 23. Bd4 Nxc5 24. Ng6 Rxe2 25. Nxf8 Rxe1 26. Qxe1 Qxf8 27. Bxc5 Qxc5 28. Qe6+ Kg7 29. Qd7+ Kg6 30. Qxb7 Nc3 31. Qa6+ Kh5 32. Qc4 Qd5+ 33. Qxd5 Nxd5 34. Kf3 Kg6 35. Ke4 Nb6 36. Ke5 h6 37. d4 Kf7 38. Kd6 Ke8 39. d5 Kd8 40. Ke6 Kc7 41. d6+ Kc6 42. a4 a5 43. Ke7 Kd5 44. d7 Nxd7 45. Kxd7 Kc4 46. Kc6 Kb4 47. Kb6 Kxa4 48. Kc5 Kb3 49. Kd4 a4 50. Ke5 a3 51. Kf6 a2 52. Kg6 a1=Q 53. Kxh6 Qf6+ 54. Kh5 Qf5 55. g4 Qf7+ 56. Kxg5 Qxf2 57. Kg6 Qd4 58. g5 Qe4+ 59. Kf6 1-0
+

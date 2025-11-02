@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6EBHgxYf"]
+[White "sebastianandratpar"]
+[Black "markoni99"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:34"]
+[WhiteElo "1406"]
+[BlackElo "1303"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+23"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "300+3"]
+[Termination "Time forfeit"]
+
+1. e3 e5 2. Nc3 f5 3. d4 d6 4. d5 Nf6 5. Bc4 c6 6. dxc6 Nxc6 7. Nd5 Qa5+ 0-1
+

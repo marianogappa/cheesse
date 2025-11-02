@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xoLE95UI"]
+[White "potato7890"]
+[Black "Liborianer123"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:35"]
+[WhiteElo "1497"]
+[BlackElo "1661"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[ECO "C70"]
+[Opening "Ruy Lopez: Morphy Defense, Graz Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Bc5 6. a3 d6 7. d3 Be6 8. Bxe6 fxe6 9. Ng5 Qe7 10. Qh5+ g6 11. Qh3 Kd7 12. Nd2 Nd4 13. Kd1 Nc6 14. b4 Bxf2 15. Rf1 Qxg5 16. Rxf2 Nge7 17. Rf7 h5 18. Nf3 Qg4 19. Bg5 Qxh3 20. gxh3 Raf8 21. Rf6 Rxf6 22. Bxf6 Rf8 23. Bxe7 Rxf3 24. Bg5 Rxh3 25. Kd2 Rxh2+ 26. Ke3 Rxc2 27. Rf1 Ke8 28. Bh6 Kd7 29. Rf7+ Kc8 30. Rf8+ Kb7 31. Rf6 Nd4 32. Rxg6 Rc3 33. Rg1 Rxa3 34. Rh1 Ra2 35. Rxh5 Re2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hVfuk50I"]
+[White "Oluwa"]
+[Black "Gmtobby"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:00"]
+[WhiteElo "1887"]
+[BlackElo "1814"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Black Mustang Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. Nf3 Nc6 2. g3 e5 3. Bg2 Nf6 4. d3 d6 5. O-O h6 6. Nbd2 g6 7. e4 Bg7 8. c3 O-O 9. Nc4 Bg4 10. h3 Be6 11. Ne3 Qd7 12. Kh2 d5 13. exd5 Nxd5 14. Qc2 Nxe3 15. Bxe3 Rad8 16. Rad1 f5 17. b4 f4 18. Bc5 Rf7 19. b5 Ne7 20. Nxe5 Bxe5 21. d4 fxg3+ 22. fxg3 Rxf1 23. Rxf1 Bd6 24. Rf6 Bxc5 25. dxc5 Rf8 26. Rxg6+ Nxg6 27. Qxg6+ Qg7 28. Qxe6+ Kh7 29. Be4+ Kh8 30. Kg2 Rg8 31. g4 Qxc3 32. Qxh6# 1-0
+

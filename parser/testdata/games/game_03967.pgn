@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/r2d6nEeu"]
+[White "subiquetellevo"]
+[Black "tolia"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:06"]
+[WhiteElo "1607"]
+[BlackElo "1816"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "A44"]
+[Opening "Old Benoni Defense"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. d4 c5 2. d5 e5 3. Nf3 e4 4. Nfd2 f5 5. e3 Nf6 6. c4 d6 7. Nc3 Nbd7 8. f3 exf3 9. Nxf3 Be7 10. Bd3 Nf8 11. e4 fxe4 12. Nxe4 Ng6 13. O-O O-O 14. Qc2 Bf5 15. Nxf6+ Bxf6 16. Bxf5 Ne5 17. Be6+ Kh8 18. Nxe5 Bxe5 19. Rxf8+ Qxf8 20. Bd2 Qf6 21. Be1 Rf8 22. Bg3 Bd4+ 23. Bf2 Bxf2+ 24. Kh1 Bd4 25. h3 Bxb2 26. Rb1 Be5 27. Qe2 b6 28. Bg4 Qf4 29. Bf3 Qh2# 0-1
+

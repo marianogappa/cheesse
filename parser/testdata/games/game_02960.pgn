@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/JFSGupYB"]
+[White "Engcivilademar"]
+[Black "Andreastorch"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:09"]
+[WhiteElo "1592"]
+[BlackElo "1161"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-20"]
+[ECO "A40"]
+[Opening "Polish Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 b5 2. e4 Bb7 3. f3 g5 4. Bxb5 Bg7 5. c3 h5 6. Bxg5 1-0
+

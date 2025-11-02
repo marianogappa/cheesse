@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/lMUcNcr1"]
+[White "emMars"]
+[Black "Delingstone"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:56"]
+[WhiteElo "1433"]
+[BlackElo "1495"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Main Line"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. c3 Qb6 6. a3 Bd7 7. b4 cxd4 8. Nxd4 Nxd4 9. Qxd4 Ne7 10. a4 Qxd4 11. cxd4 Nf5 12. Bb5 Bxb5 13. axb5 Bxb4+ 14. Bd2 Nxd4 15. Bxb4 Nc2+ 16. Kd1 Nxa1 17. Bd6 Nb3 18. Nc3 Rc8 19. Na4 Rc1+ 20. Ke2 Rxh1 21. Nc5 Nxc5 22. Bxc5 Rxh2 23. Bxa7 Rxg2 24. Bc5 Kd7 25. Bd6 b6 26. Kf3 Rg1 27. Ke2 Ra8 28. f3 Raa1 29. Ke3 Rae1+ 30. Kd4 Rgf1 31. Kc3 Rxf3+ 32. Kd2 Re4 0-1
+

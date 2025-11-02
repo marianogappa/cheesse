@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/8lgIiVwT"]
+[White "raulll007"]
+[Black "RomainBCN"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:39"]
+[WhiteElo "1613"]
+[BlackElo "1609"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "600+10"]
+[Termination "Normal"]
+
+1. g3 e5 2. c3 d5 3. h4 Nc6 4. e3 Qe7 5. Qb3 d4 6. Bh3 Bxh3 7. Nxh3 h6 8. Qxb7 dxc3 9. bxc3 Nd4 10. Qxa8+ Kd7 11. cxd4 exd4 12. Qd5+ Ke8 1-0
+

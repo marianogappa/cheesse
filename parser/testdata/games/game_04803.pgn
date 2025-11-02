@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BB4Cya3I"]
+[White "pipo1"]
+[Black "floshift"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:28"]
+[WhiteElo "1824"]
+[BlackElo "1727"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bg4 4. d4 e6 5. c4 Ne7 6. c5 Nd7 7. b4 b6 8. a4 a5 9. bxa5 bxc5 10. Be3 cxd4 11. Bxd4 c5 12. Be3 Nc6 13. Bb5 Qxa5+ 14. Bd2 Qb6 15. O-O Be7 16. Qb3 O-O 17. h3 Bh5 18. Nh2 Rab8 19. Kh1 c4 20. Qg3 Bg6 21. Nc3 Rfc8 22. Nd1 Ncxe5 23. Be3 d4 24. Bf4 f6 25. Bxe5 Nxe5 26. f4 Nd3 27. h4 Nb4 28. Qg4 Nd5 29. h5 Bf7 30. Qg3 Bd6 31. h6 g6 32. Nf2 Bxf4 33. Qg4 Bxh6 34. Ne4 Bg7 35. Qg3 c3 36. Ng4 f5 37. Qf3 Rc7 38. Ng5 fxg4 39. Qg3 Rf8 40. Qh4 h5 41. Nxf7 Rcxf7 42. Rxf7 Rxf7 43. Qg5 Kh7 44. Be8 Bf6 45. Qc1 Re7 46. Bb5 e5 47. Rb1 Qe6 48. Bc4 e4 49. Rb5 d3 50. Bxd5 d2 51. Qd1 1-0
+

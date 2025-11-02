@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/EDX8rIol"]
+[White "wasramnadroj"]
+[Black "ijeomarulz"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:03"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+162"]
+[BlackRatingDiff "-163"]
+[ECO "A00"]
+[Opening "Van Geet Opening"]
+[TimeControl "1200+0"]
+[Termination "Normal"]
+
+1. Nc3 Nh6 2. d4 b5 3. e4 Nc6 4. Bxb5 Nxd4 5. Bc4 Ng4 6. Qxd4 Rb8 7. Qxa7 Rb4 8. b3 c5 9. Qa8 d5 10. Bb5+ Rxb5 11. Nxb5 dxe4 12. Bf4 Qd4 13. Nc7+ Kd7 14. Rd1 Qxd1+ 15. Kxd1 Nxf2+ 16. Ke2 Nxh1 17. Qd5# 1-0
+

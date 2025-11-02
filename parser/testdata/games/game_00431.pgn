@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/l9L5YvUn"]
+[White "ucha"]
+[Black "influx"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:30"]
+[WhiteElo "1818"]
+[BlackElo "1635"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "D02"]
+[Opening "Queen's Gambit Refused: Baltic Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 Bf5 3. Nc3 e6 4. cxd5 exd5 5. Bf4 c6 6. Rc1 Bb4 7. a3 Bxc3+ 8. bxc3 Nf6 9. Qb3 Qc8 10. Nf3 O-O 11. e3 Be4 12. Nd2 Nbd7 13. Nxe4 Nxe4 14. c4 Ndf6 15. cxd5 Qg4 16. Bg3 Nxd5 17. Be2 Qf5 18. O-O h6 19. Qxb7 Ndf6 20. Bd3 Qd5 21. Qxc6 Qxc6 22. Rxc6 a5 23. Be5 Nd2 24. Rd1 Nb3 25. Bxf6 gxf6 26. Rxf6 Kg7 27. Rc6 a4 28. d5 Rad8 29. e4 f6 30. f3 h5 31. Kf2 Kh6 32. g3 Kg5 33. f4+ Kg4 34. Kg2 h4 35. h3+ Kh5 36. Be2+ Kg6 37. g4 Rfe8 38. Bd3 Kg7 39. Rc7+ Kf8 40. Bb5 Nd4 41. Bxe8 Rxe8 42. Rxd4 1-0
+

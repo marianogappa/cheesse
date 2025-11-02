@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/9HRFq8lE"]
+[White "jupiter10"]
+[Black "adhocprog"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:22"]
+[WhiteElo "1809"]
+[BlackElo "1793"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+1"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. Nf3 d6 3. e4 Be7 4. e5 dxe5 5. Nxe5 Nc6 6. Qf3 Nxe5 7. dxe5 Rb8 8. Be3 b6 9. Bb5+ Bd7 10. Ba6 c5 11. Nc3 Qc7 12. Nb5 Qc6 13. Qe2 Qxg2 14. O-O-O Qc6 15. a4 Rd8 16. Nd6+ Bxd6 17. Rxd6 Qc7 18. Bb5 Bxb5 19. Rxd8+ Kxd8 20. Qxb5 Ke7 21. Rd1 Nh6 22. Bxh6 gxh6 23. f4 Rd8 24. Rxd8 Qxd8 25. Qc6 Qd7 26. Qe4 f5 27. exf6+ Kxf6 28. b3 Qd5 29. Qxd5 exd5 30. Kd2 d4 31. Kd3 Kf5 32. c3 dxc3 33. Kxc3 Kxf4 34. Kc4 a6 35. a5 bxa5 36. Kxc5 Ke5 37. Kb6 Kd6 38. Kxa5 Kc7 39. Kxa6 Kb8 40. b4 h5 41. b5 h4 42. b6 h3 43. b7 h6 44. Kb6 h5 45. Kc6 h4 46. Kb6 1/2-1/2
+

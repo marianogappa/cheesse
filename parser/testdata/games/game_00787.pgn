@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/KdQjc3QO"]
+[White "toninho25"]
+[Black "Ingelrannus"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:56"]
+[WhiteElo "1361"]
+[BlackElo "1452"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "C40"]
+[Opening "Gunderam Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Qe7 3. Nc3 d6 4. d3 Nf6 5. Bg5 h6 6. Bh4 g5 7. Bg3 Bg7 8. h4 Ng4 9. Qe2 c6 10. O-O-O b5 11. a3 a5 12. Kb1 b4 13. axb4 axb4 14. Na2 d5 15. b3 d4 16. Qe1 Be6 17. Nxb4 c5 18. Nd5 Bxd5 19. exd5 c4 20. b4 O-O 21. dxc4 e4 22. d6 d3 23. dxe7 Ra1# 0-1
+

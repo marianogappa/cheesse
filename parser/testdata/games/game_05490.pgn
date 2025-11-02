@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/swXki5bq"]
+[White "aGrig"]
+[Black "adriel_Br"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:10"]
+[WhiteElo "2050"]
+[BlackElo "1900"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "B52"]
+[Opening "Sicilian Defense: Canal Attack, Main Line"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. c4 Ngf6 6. Nc3 g6 7. O-O Bg7 8. d4 O-O 9. e5 dxe5 10. dxe5 Ne8 11. Bf4 e6 12. Qe2 Nb6 13. Rfd1 Qc7 14. Ne4 f5 15. exf6 Nxf6 16. Bxc7 1-0
+

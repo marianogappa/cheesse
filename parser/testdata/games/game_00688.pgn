@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BrPmmYbW"]
+[White "Felpo"]
+[Black "janito"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:33"]
+[WhiteElo "1733"]
+[BlackElo "1738"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nc6 3. Qh5 Qf6 4. Nc3 a6 5. Nd5 Qh6 6. Nxc7+ Kd8 7. Qxf7 Kxc7 8. Qxf8 b5 9. d4 Qg6 10. Bf1 Nxd4 11. Qc5+ Nc6 12. Nf3 Qxe4+ 13. Be3 Qb4+ 14. Qxb4 Nxb4 15. Bd3 Nxd3+ 16. cxd3 d6 17. Rc1+ Kd7 18. O-O Bb7 19. Ng5 Nf6 20. Bb6 Rac8 21. Nf7 Rhf8 22. Rxc8 Bxc8 23. Ng5 h6 24. Nf3 Kc6 25. Ba5 Bb7 26. Rc1+ Kd5 27. Nd2 Ng4 28. f3 Ne3 29. Rc7 Ba8 30. Rxg7 Kd4 31. Rd7 d5 32. Kf2 Kxd3 33. Nb3 d4 34. Rc7 Nd1+ 35. Ke1 Nxb2 36. Nc5+ Ke3 37. Bd2# 1-0
+

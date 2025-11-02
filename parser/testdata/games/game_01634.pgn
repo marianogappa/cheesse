@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/T2TDrWvm"]
+[White "alvarezcorp"]
+[Black "iv78"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:07"]
+[WhiteElo "1431"]
+[BlackElo "1426"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B86"]
+[Opening "Sicilian Defense: Sozin Attack"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 e6 3. Nf3 d6 4. Nc3 Nf6 5. d4 cxd4 6. Nxd4 Be7 7. f3 O-O 8. O-O Nbd7 9. b3 b6 10. Bb2 Bb7 11. Bxe6 Re8 12. Bc4 Ne5 13. Bb5 Rf8 14. Nce2 a6 15. Bd3 Nxd3 16. cxd3 d5 17. Nf5 Bc5+ 18. Kh1 dxe4 19. dxe4 Nxe4 20. Qxd8 Raxd8 21. fxe4 Bxe4 22. Nxg7 Rd2 23. Nc3 Bxg2# 0-1
+

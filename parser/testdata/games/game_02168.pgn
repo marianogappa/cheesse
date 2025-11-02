@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Hf4uAlju"]
+[White "shmundinsky"]
+[Black "brockensacrifice"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:12"]
+[WhiteElo "2062"]
+[BlackElo "2119"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "A40"]
+[Opening "English Defense #2"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 b6 2. c4 Bb7 3. Nc3 e6 4. e4 Nf6 5. Bd3 d5 6. cxd5 exd5 7. e5 Ne4 8. f4 Bb4 9. Bd2 Qh4+ 10. g3 Nxg3 11. hxg3 Qxh1 12. Kf1 O-O 13. Qg4 c5 14. Rd1 cxd4 15. Ne2 Bxd2 16. Rxd2 Na6 17. Nxd4 Rac8 18. Qf5 Rc1+ 19. Ke2 g6 20. Qf6 Qxg1 21. Nf3 Qg2+ 22. Ke3 Re1+ 23. Kd4 Qxf3 0-1
+

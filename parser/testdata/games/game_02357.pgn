@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/0FeFl2jr"]
+[White "Karaku86"]
+[Black "ArqColacrai"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:59"]
+[WhiteElo "1487"]
+[BlackElo "1637"]
+[WhiteRatingDiff "+25"]
+[BlackRatingDiff "-15"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "780+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Ne5 5. a3 Nf6 6. Bg5 Be7 7. f4 Ng6 8. f5 Ne5 9. Nc3 c6 10. Nf3 Ng6 11. fxg6 fxg6 12. Bc4 h6 13. Bf4 Bc5 14. b4 Bb6 15. a4 a5 16. b5 Ng4 17. h3 Nf2 18. Qd6 Nxh1 19. Qxg6+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/gYqU0p0v"]
+[White "andreari1"]
+[Black "GrimHeart"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:29"]
+[WhiteElo "1022"]
+[BlackElo "1028"]
+[WhiteRatingDiff "-53"]
+[BlackRatingDiff "+22"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Berlin Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. Qf3 d5 4. exd5 Bd6 5. b3 O-O 6. Ba3 Nbd7 7. Nh3 Qe7 8. Ng5 b6 9. Qh3 Bb7 10. Qxh7+ Nxh7 11. Nxh7 Kxh7 12. Bd3+ Kg8 13. h4 Bxd5 14. Nc3 e4 15. Nxd5 Qe6 16. Nxc7 exd3+ 17. Kd1 Bxc7 18. h5 Rae8 19. h6 gxh6 20. f4 Nc5 21. Rh5 Ne4 22. f5 Qe5 23. c3 Nf2+ 24. Kc1 a5 25. Bb2 b5 26. c4 b4 27. Bxe5 Bxe5 28. Rxh6 Bxa1 29. Kb1 Bg7 30. Rd6 Re1# 0-1
+

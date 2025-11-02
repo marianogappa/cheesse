@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/7Bh8lTwE"]
+[White "Manilla1984"]
+[Black "marinko24"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:33"]
+[WhiteElo "1717"]
+[BlackElo "1447"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "C40"]
+[Opening "Elephant Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Qxd5 4. Nc3 Qe6 5. d3 Bb4 6. Bd2 Bxc3 7. Bxc3 f6 8. Qd2 Ne7 9. O-O-O Nbc6 10. g3 Nd5 11. Bg2 Nxc3 12. Qxc3 O-O 13. Rhe1 Qxa2 14. Kd2 Nd4 15. Nxd4 exd4 16. Qxd4 Be6 17. Ra1 Rad8 18. Rxa2 Rxd4 19. Rxe6 Rfd8 20. Bxb7 c5 21. Rxa7 c4 22. Ba6 cxd3 23. Bxd3 h6 24. Ree7 Kf8 25. Rxg7 Ke8 26. Rae7+ Kf8 27. Rgf7+ Kg8 28. Rxf6 h5 29. Kc1 h4 30. Bh7+ Kh8 31. Bd3 Kg8 32. Re5 Kg7 33. Rfe6 Kf7 34. Re7+ Kf8 35. gxh4 R4d6 36. Rh7 Kg8 37. Rg5+ Kf8 38. h5 Re8 39. h6 Rde6 40. Rgg7 Re1+ 41. Kd2 R1e6 42. Rh8# 1-0
+

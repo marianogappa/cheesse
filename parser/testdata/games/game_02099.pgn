@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/S6AKy0fh"]
+[White "Rainyday2305"]
+[Black "RighteousFist"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:50"]
+[WhiteElo "1317"]
+[BlackElo "1296"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Queen's Knight Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.26] } 1... d5 { [%eval 0.26] } 2. c4 { [%eval 0.16] } 2... e6 { [%eval 0.27] } 3. Nc3 { [%eval 0.13] } 3... Nc6 { [%eval 0.46] } 4. e3 { [%eval 0.43] } 4... Bb4 { [%eval 0.54] } 5. Nf3 { [%eval 0.54] } 5... Nf6 { [%eval 0.52] } 6. a3 { [%eval 0.08] } 6... Ba5?? { [%eval 3.1] } 7. b4 { [%eval 3.12] } 7... Nxb4?? { [%eval 6.81] } 8. axb4 { [%eval 6.62] } 8... Bxb4?! { [%eval 7.31] } 9. Qa4+ { [%eval 7.18] } 9... c6 { [%eval 7.39] } 10. Qxb4 { [%eval 7.29] } 10... Ne4? { [%eval 8.31] } 11. Nxe4 { [%eval 8.04] } 11... dxe4 { [%eval 8.01] } 12. Ne5? { [%eval 5.09] } 12... a5?! { [%eval 5.75] } 13. Qc3?! { [%eval 5.1] } 13... O-O? { [%eval 7.85] } 14. g3? { [%eval 5.18] } 14... h5?? { [%eval 8.46] } 15. Bg2 { [%eval 8.27] } 15... f6?! { [%eval 9.04] } 16. Ng6 { [%eval 8.85] } 16... Re8 { [%eval 8.88] } 17. Bxe4 { [%eval 8.93] } 17... f5?! { [%eval 9.77] } 18. Bd3? { [%eval 8.66] } 18... Qg5?! { [%eval 9.63] } 19. Ne5 { [%eval 9.44] } 19... Rf8?! { [%eval 11.11] } 20. Rxa5 { [%eval 10.96] } 20... Rxa5 { [%eval 10.85] } 21. Qxa5 { [%eval 10.62] } 21... f4 { [%eval 13.13] } 22. exf4 { [%eval 12.46] } 22... Qf6 { [%eval 14.72] } 23. O-O { [%eval 13.24] } 23... h4 { [%eval 15.35] } 24. Kg2 { [%eval 12.91] } 24... hxg3 { [%eval 14.42] } 25. fxg3 { [%eval 13.66] } 25... Rd8 { [%eval 18.19] } 26. Ng4 { [%eval 13.59] } 26... Qxd4 { [%eval 12.95] } 27. Rd1 { [%eval 12.04] } 27... Rd6?! { [%eval #17] } 28. Bh7+ { [%eval #16] } 28... Kxh7 { [%eval #16] } 29. Rxd4 { [%eval #15] } 29... Rxd4 { [%eval #15] } 30. Qh5+ { [%eval #17] } 30... Kg8 { [%eval #18] } 31. Bb2 { [%eval 63.26] } 31... Rd2+ { [%eval 12.74] } 32. Kh3 { [%eval 62.87] } 32... Rxb2 { [%eval 56.96] } 33. Ne5 { [%eval 17.48] } 33... Rb4?! { [%eval #7] } 34. Qe8+ { [%eval #7] } 34... Kh7 { [%eval #7] } 35. Qxc8 { [%eval #6] } 1-0
+

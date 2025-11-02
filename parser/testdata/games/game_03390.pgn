@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7Ri7h4co"]
+[White "BigStove"]
+[Black "SSStepan333"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:54"]
+[WhiteElo "1270"]
+[BlackElo "1243"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 dxe4 3. Nxe4 h5 4. f3 g5 5. f4 g4 6. h3 f5 7. hxg4 fxe4 8. g5 Bg4 9. Be2 Bxe2 10. Qxe2 e5 11. Qxe4 Nc6 12. Nf3 Nge7 13. b3 Nd5 14. Bb2 Bg7 15. O-O-O Qe7 16. d4 O-O-O 17. dxe5 Nxf4 18. Qf5+ Kb8 19. Qxf4 Rxd1+ 20. Rxd1 Nxe5 21. Bxe5 Bxe5 22. Nxe5 Re8 23. Rd7 Qxd7 24. Nxd7+ Kc8 25. Qf5 Re1+ 26. Kb2 Rd1 27. Nc5+ Kd8 28. Nxb7+ Ke7 29. Qf3 Rd7 30. Nc5 Rd2 31. Qe3+ Kd6 32. Qxd2+ Kxc5 33. c3 Kb6 34. c4 c6 35. b4 a6 36. a4 h4 37. Kb3 h3 38. gxh3 c5 39. Qd6+ Kb7 40. bxc5 a5 41. c6+ Ka6 42. c7+ Ka7 43. c8=Q 1/2-1/2
+

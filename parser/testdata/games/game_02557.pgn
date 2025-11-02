@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/pSkwI4WY"]
+[White "Flaccid"]
+[Black "LyricPrank"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:36"]
+[WhiteElo "2418"]
+[BlackElo "2248"]
+[WhiteRatingDiff "+37"]
+[BlackRatingDiff "-7"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[TimeControl "45+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.33] } 1... c5 { [%eval 0.36] } 2. Nc3 { [%eval 0.3] } 2... e6 { [%eval 0.37] } 3. d4 { [%eval 0.13] } 3... cxd4 { [%eval 0.21] } 4. Nce2? { [%eval -1.07] } 4... Nc6?! { [%eval -0.21] } 5. Ng3?! { [%eval -1.12] } 5... Nf6 { [%eval -1.26] } 6. f4?! { [%eval -2.16] } 6... d5?! { [%eval -1.22] } 7. Nf3? { [%eval -3.41] } 7... dxe4 { [%eval -3.45] } 8. Ne5? { [%eval -4.96] } 8... Qc7? { [%eval -2.44] } 9. Be2? { [%eval -4.45] } 9... Nxe5 { [%eval -4.16] } 10. fxe5 { [%eval -4.4] } 10... Qxe5 { [%eval -4.4] } 11. O-O { [%eval -4.77] } 11... Bc5?! { [%eval -3.96] } 12. Bf4?! { [%eval -4.84] } 12... Qd5? { [%eval -3.53] } 13. Kh1 { [%eval -3.64] } 13... O-O { [%eval -3.43] } 14. b3?! { [%eval -4.06] } 14... e5? { [%eval -1.79] } 15. Bc4 { [%eval -1.85] } 15... Qd6 { [%eval -1.74] } 16. Bg5 { [%eval -1.56] } 16... Be6?? { [%eval 3.07] } 17. Bxf6 { [%eval 2.95] } 17... gxf6?? { [%eval 6.05] } 18. Nxe4 { [%eval 5.8] } 18... Qe7? { [%eval 7.8] } 19. Nxf6+ { [%eval 7.7] } 19... Kh8? { [%eval 26.78] } 20. Qh5 { [%eval 22.5] } 20... Qxf6 { [%eval 19.54] } 21. Rxf6 { [%eval 16.03] } 21... Be7?! { [%eval #5] } 22. Bd3 { [%eval #4] } 1-0
+

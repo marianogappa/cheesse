@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3PQSYr75"]
+[White "altrantran"]
+[Black "Lulacapixaba"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:00"]
+[WhiteElo "1865"]
+[BlackElo "1793"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "C55"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[TimeControl "600+2"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. Nc3 Bb4 5. a3 Ba5 6. O-O Nf6 7. Re1 O-O 8. b4 Bb6 9. h3 d6 10. Nd5 Nxd5 11. exd5 Nd4 12. c3 Nxf3+ 13. Qxf3 f5 14. d3 Qh4 15. Be3 e4 16. Qe2 Bxe3 17. Qxe3 exd3 18. Bxd3 Bd7 19. Qf3 Qf6 20. Bc2 Rae8 21. Rad1 Re5 22. Rxe5 Qxe5 23. c4 f4 24. Kf1 Bf5 25. Bxf5 Qxf5 26. Re1 Rf7 27. Re8+ Kh7 28. Qe4 Qxe4 29. Rxe4 g5 30. Re8 Kg6 31. Re6+ Kg7 32. c5 dxc5 33. bxc5 Rd7 34. d6 cxd6 35. cxd6 b5 36. Ke2 h5 37. Kd3 h4 38. Kd4 Kf7 39. Rh6 Kg7 40. Re6 Kf7 41. Ke5 a5 42. Rh6 b4 43. Rh7+ Ke8 44. Rh8+ Kf7 45. axb4 axb4 46. Rb8 Ra7 47. Rxb4 Ra5+ 48. Kd4 Ke6 49. Rb6 Rd5+ 50. Ke4 Re5+ 51. Kd4 Rd5+ 52. Ke4 Re5+ 53. Kf3 Rd5 54. Kg4 Kd7 55. Rb7+ Kc6 56. Rg7 Kxd6 57. Rxg5 Rd2 58. Kxh4 Rxf2 59. g3 fxg3 60. Rxg3 Ke5 61. Rg5+ Kf6 62. Kh5 Rh2 63. h4 Kf7 64. Ra5 Kf6 65. Ra6+ Kf5 0-1
+

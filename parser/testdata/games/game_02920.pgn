@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QglRHg8Y"]
+[White "Ndranghetta"]
+[Black "molliets"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:55"]
+[WhiteElo "1330"]
+[BlackElo "1291"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Bb4+ 4. c3 Ba5 5. Nbd2 exd4 6. cxd4 Qf6 7. d5 Nd4 8. Be2 Nxf3+ 9. Bxf3 Ne7 10. O-O O-O 11. Rb1 d6 12. b3 c6 13. Bb2 Qf4 14. Nc4 cxd5 15. Nxa5 dxe4 16. Qd4 f6 17. Bxe4 Qg5 18. Nc4 Bh3 19. Bxb7 Rad8 20. Bf3 d5 21. Ne3 a5 22. Kh1 Be6 23. Ba3 Nc6 24. Bxf8 Nxd4 25. Bc5 Nxf3 26. gxf3 Bh3 27. Rg1 Qf4 28. Rg3 Be6 29. Rbg1 g5 30. Ng4 Kg7 31. Be3 Qb4 32. Nxf6 Kxf6 33. Bxg5+ Ke5 34. Bxd8 Qa3 35. Rg5+ Kd6 36. Bb6 Qxa2 37. Rg7 Qxb3 38. Bc7+ Kc6 39. Rc1+ Kb5 40. Rc2 Qxc2 0-1
+

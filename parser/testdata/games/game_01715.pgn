@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BDXyxvBe"]
+[White "Kevins1"]
+[Black "litoy1"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:29"]
+[WhiteElo "1582"]
+[BlackElo "1642"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-13"]
+[ECO "C00"]
+[Opening "French Defense: Steinitz Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. e5 d6 3. exd6 cxd6 4. Qf3 Nc6 5. Bb5 Nf6 6. Bxc6+ bxc6 7. Qxc6+ Bd7 8. Qf3 Be7 9. Nh3 h6 10. O-O O-O 11. d3 Qc7 12. Qg3 e5 13. Bxh6 Nh5 14. Qe3 gxh6 15. Qxh6 Ng7 16. Ng5 Bf5 17. h4 Bxg5 18. hxg5 Qxc2 19. Nc3 Qxd3 20. Rad1 Qa6 21. Nd5 Bg6 22. Nf6# 1-0
+

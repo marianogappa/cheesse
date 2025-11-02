@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/dGnCAcus"]
+[Site "https://lichess.org/OTzEtPoH"]
+[White "SEFAD80"]
+[Black "ziyos"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:10"]
+[WhiteElo "1522"]
+[BlackElo "1419"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+31"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: French Connection"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.04] } 1... e6 { [%eval 0.14] } 2. Nc3 { [%eval 0.14] } 2... Nc6 { [%eval 0.54] } 3. d4 { [%eval 0.39] } 3... d6 { [%eval 0.52] } 4. Nf3 { [%eval 0.58] } 4... Nf6 { [%eval 0.64] } 5. Bb5 { [%eval 0.5] } 5... Bd7 { [%eval 0.74] } 6. Bg5 { [%eval 0.4] } 6... Be7 { [%eval 0.37] } 7. Bxf6 { [%eval -0.08] } 7... Bxf6 { [%eval 0.03] } 8. Bxc6 { [%eval -0.25] } 8... Bxc6 { [%eval -0.2] } 9. O-O { [%eval -0.2] } 9... O-O { [%eval -0.17] } 10. e5?! { [%eval -0.72] } 10... dxe5 { [%eval -0.67] } 11. dxe5 { [%eval -0.63] } 11... Bg5?! { [%eval 0.05] } 12. Nxg5? { [%eval -1.27] } 12... Qxg5 { [%eval -1.17] } 13. g3 { [%eval -1.43] } 13... Qxe5 { [%eval -1.43] } 14. Re1 { [%eval -1.46] } 14... Qf5 { [%eval -1.41] } 15. Qe2 { [%eval -1.61] } 15... Qh3 { [%eval -1.19] } 16. f3 { [%eval -1.23] } 16... f5? { [%eval -0.16] } 17. Rad1? { [%eval -1.56] } 17... Rfe8? { [%eval -0.39] } 18. a4?! { [%eval -1.2] } 18... e5?! { [%eval -0.32] } 19. Qc4+?! { [%eval -1.22] } 19... Kh8 { [%eval -1.08] } 20. Nd5? { [%eval -2.59] } 20... Rad8 { [%eval -2.27] } 21. Nxc7 { [%eval -2.68] } 21... Rxd1? { [%eval -0.67] } 22. Rxd1 { [%eval -0.69] } 22... Bxf3 { [%eval -0.2] } 23. Rd2 { [%eval -0.35] } 23... Rc8 { [%eval 0.06] } 24. Ne6 { [%eval -0.37] } 24... Re8?? { [%eval 8.04] } 25. Qb5?? { [%eval -0.68] } 25... Qh5?! { [%eval -0.08] } 26. Qd7?! { [%eval -0.77] } 26... Qg6 { [%eval -0.8] } 27. Rd6?! { [%eval -1.69] } 27... Qf6?? { [%eval #2] } 28. Qxg7+?? { [%eval -4.44] } 28... Qxg7 { [%eval -4.45] } 29. Nxg7 { [%eval -4.41] } 29... Kxg7 { [%eval -4.16] } 30. Rd7+ { [%eval -4.54] } 30... Kh6 { [%eval -4.33] } 31. Rd6+ { [%eval -4.57] } 31... Kg7?! { [%eval -4.06] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/WC5UN4H7"]
+[White "egor63"]
+[Black "Fishinboy"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:38"]
+[WhiteElo "1613"]
+[BlackElo "1549"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Ng5 O-O 6. O-O d5 7. exd5 Nxd5 8. c3 f5 9. Qf3 Ne7 10. Re1 h6 11. Nh3 Qd6 12. d4 exd4 13. Rxe7 Qxe7 14. Bxd5+ Kh8 15. Nf4 Qe1# 0-1
+

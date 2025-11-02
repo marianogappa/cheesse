@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/8eVk35OQ"]
+[White "Nkko"]
+[Black "HardWoodPusher"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:43"]
+[WhiteElo "1921"]
+[BlackElo "1903"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-9"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Hartlaub-Charlick Gambit"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. d4 e5 2. dxe5 d6 3. Nf3 Nc6 4. exd6 Nf6 5. Bg5 Bg4 6. Bxf6 gxf6 7. Nc3 Qd7 8. e3 O-O-O 9. Bb5 1-0
+

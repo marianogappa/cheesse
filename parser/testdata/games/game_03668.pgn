@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/Bg5RAHlH"]
+[White "Nosorozec"]
+[Black "JulioASantos"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:59"]
+[WhiteElo "2053"]
+[BlackElo "2011"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+13"]
+[ECO "E40"]
+[Opening "Nimzo-Indian Defense: Normal Line"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Bxc3+ 5. bxc3 O-O 6. Bd3 d6 7. e4 e5 8. Ne2 Nbd7 9. O-O Re8 10. Bg5 h6 11. Bh4 g5 12. Bg3 exd4 13. cxd4 Nxe4 14. Qc2 Nxg3 15. fxg3 Kg7 16. Rf2 Nf8 17. Raf1 Re7 18. d5 Bg4 19. Nd4 Qe8 20. h3 Bh5 21. Nf5+ Kg8 22. Nxh6+ Kg7 23. Nf5+ Kg8 24. Nxe7+ Qxe7 25. Qc3 Qe5 26. Qd2 Re8 27. Rf6 Qe3+ 28. Qxe3 Rxe3 29. Bf5 Rxg3 30. Bc8 Kg7 31. Bxb7 g4 32. h4 Bg6 33. Bc8 Nh7 34. Bf5 Nxf6 35. Bxg6 fxg6 36. Rf5 gxf5 37. h5 Rc3 38. h6+ Kg6 39. Kf2 Kh7 40. Kg1 Rxc4 41. g3 Rd4 42. Kf2 Rxd5 43. Ke2 Ra5 44. Kd2 Rxa2+ 45. Kd3 Ra3+ 46. Kd4 Rxg3 47. Kc4 Rh3 48. Kb5 Rxh6 49. Kc6 Rh5 50. Kxc7 g3 51. Kb7 g2 52. Kxa7 g1=Q+ 53. Kb7 Qc5 54. Ka6 Rh4 55. Kb7 Rb4+ 56. Ka6 Qb6# 0-1
+

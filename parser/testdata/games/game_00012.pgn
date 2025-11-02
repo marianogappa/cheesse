@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/9naDLsbm"]
+[Site "https://lichess.org/fay77xBz"]
+[White "matt_e_k"]
+[Black "rayis_pionrimba"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "1931"]
+[BlackElo "1904"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-9"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Nc6 3. Nf3 Nf6 4. Nbd2 Bg4 5. h3 Bh5 6. e3 e5 7. dxe5 Ne4 8. Nxe4 dxe4 9. Qxd8+ Rxd8 10. Nd2 Nb4 11. Bb5+ c6 12. Ba4 b5 13. Bb3 a5 14. c3 Nd3+ 15. Kf1 Nxf4 16. exf4 Rxd2 17. g4 Bc5 18. Rh2 e3 19. Rd1 O-O 20. Rxd2 exd2 21. Ke2 Rd8 22. Rh1 Bg6 23. f5 Bxf5 24. gxf5 b4 25. Rd1 bxc3 26. bxc3 Re8 27. f4 Kf8 28. Rxd2 f6 29. e6 Ke7 30. Rd7+ Kf8 31. Kd3 Ra8 32. Ba4 Rc8 33. Kc4 Be7 34. Kd4 g6 35. Ke4 gxf5+ 36. Kxf5 c5 37. Ra7 c4 38. Rxa5 Rc5+ 39. Rxc5 Bxc5 40. Kxf6 Be7+ 41. Ke5 Kg7 42. Bc2 h6 43. Kd4 Bf6+ 44. Kxc4 Kf8 45. f5 Ke7 46. a4 Kd6 47. a5 Kc7 48. Kb4 Kb7 49. c4 Ka6 50. Be4 h5 51. c5 h4 52. c6 Be5 53. e7 Bf6 54. e8=Q 1-0
+

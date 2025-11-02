@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/n0git5Mv"]
+[White "Periigo"]
+[Black "doncapucino"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:00"]
+[WhiteElo "2372"]
+[BlackElo "2293"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "D90"]
+[Opening "Gruenfeld Defense: Three Knights Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. g3 O-O 7. Bg2 Nb6 8. O-O Nc6 9. Bf4 h6 10. Nb5 Nd5 11. Bc1 a6 12. Nc3 Nb6 13. d5 Na5 14. e4 c6 15. dxc6 bxc6 16. Be3 Nac4 17. Qxd8 Rxd8 18. Rac1 Nxe3 19. fxe3 Nc4 20. Na4 Nxe3 21. Rfe1 Ng4 22. h3 Ne5 23. b3 Nxf3+ 24. Bxf3 Bxh3 25. Rxc6 Rd2 26. Re2 Rad8 27. Rc2 Rxc2 28. Rxc2 Be5 29. Kh2 Bd7 30. Rd2 Bc7 31. Nc5 Bb5 32. Rxd8+ Bxd8 33. a4 Bf1 34. Kg1 Bb6 35. Kxf1 Bxc5 36. a5 Bb4 37. Be2 Bxa5 38. Bxa6 Bc7 39. Ke2 Bxg3 40. b4 Bd6 41. b5 Bc5 42. Kf3 e5 43. Bc8 Kf8 44. Bd7 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Yauct16i"]
+[White "xatoxato"]
+[Black "adsoo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:57"]
+[WhiteElo "1537"]
+[BlackElo "1555"]
+[WhiteRatingDiff "-30"]
+[BlackRatingDiff "+9"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 b6 3. Nf3 Bb7 4. Bd3 d5 5. e5 Be7 6. c4 Bb4+ 7. Nc3 Bxc3+ 8. bxc3 Nd7 9. c5 bxc5 10. dxc5 Nxc5 11. Bb5+ c6 12. Bd3 Ne7 13. O-O O-O 14. Ba3 Nxd3 15. Qxd3 c5 16. Bxc5 Ng6 17. Bxf8 Kxf8 18. a3 Nf4 19. Qd4 Ne2+ 20. Kh1 Nxd4 21. cxd4 Ba6 22. Rfc1 Bc4 23. h3 a5 24. Rcb1 a4 25. Rb4 Qa5 26. Rab1 Qd8 27. Nd2 Qg5 28. Nxc4 dxc4 29. Rxc4 Qd2 30. Rcb4 Qxf2 31. Kh2 f6 32. exf6 Qxf6 33. R1b2 Rd8 34. Kg1 Rxd4 35. Rb8+ Kf7 36. Rf2 Rf4 37. Rb7+ Kg6 38. Rxf4 Qxf4 39. Rb4 Qc1+ 40. Kh2 Qxa3 41. Rg4+ Kf7 0-1
+

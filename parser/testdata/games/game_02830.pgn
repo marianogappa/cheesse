@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2sJ8f04R"]
+[White "theching14"]
+[Black "polishbeans"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:24"]
+[WhiteElo "1291"]
+[BlackElo "1246"]
+[WhiteRatingDiff "-41"]
+[BlackRatingDiff "+13"]
+[ECO "C62"]
+[Opening "Ruy Lopez: Steinitz Defense"]
+[TimeControl "300+3"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.25] } 1... e5 { [%eval 0.19] } 2. Nf3 { [%eval 0.24] } 2... Nc6 { [%eval 0.27] } 3. Bb5 { [%eval 0.18] } 3... d6 { [%eval 0.54] } 4. d3 { [%eval 0.14] } 4... a6 { [%eval 0.2] } 5. Bc4 { [%eval 0.1] } 5... b5 { [%eval 0.12] } 6. Bd5 { [%eval 0.06] } 6... Bd7 { [%eval 0.53] } 7. Nc3 { [%eval 0.15] } 7... Nf6 { [%eval 0.18] } 8. Bg5 { [%eval -0.06] } 8... Be7 { [%eval -0.01] } 9. Bb3 { [%eval -0.14] } 9... O-O { [%eval -0.08] } 10. O-O { [%eval -0.12] } 10... a5?! { [%eval 0.59] } 11. a3?! { [%eval 0.0] } 11... Nd4 { [%eval 0.08] } 12. Nxd4 { [%eval -0.04] } 12... exd4 { [%eval 0.06] } 13. Nd5? { [%eval -2.9] } 13... Nxd5 { [%eval -2.78] } 14. Bxe7? { [%eval -3.86] } 14... Qxe7?? { [%eval -0.04] } 15. Bxd5 { [%eval -0.03] } 15... c6 { [%eval 0.02] } 16. Ba2 { [%eval -0.04] } 16... c5 { [%eval 0.08] } 17. Qh5 { [%eval 0.0] } 17... Be6 { [%eval 0.0] } 18. Bxe6 { [%eval -0.12] } 18... Qxe6 { [%eval 0.0] } 19. Rae1?! { [%eval -0.54] } 19... c4?! { [%eval 0.37] } 20. Qxb5 { [%eval 0.27] } 20... cxd3?! { [%eval 0.85] } 21. cxd3 { [%eval 0.74] } 21... Rfb8 { [%eval 0.74] } 22. Qc4?! { [%eval 0.0] } 22... Qe5? { [%eval 1.1] } 23. Re2 { [%eval 1.03] } 23... Rc8 { [%eval 1.03] } 24. Qa2?! { [%eval 0.48] } 24... Rc7 { [%eval 0.6] } 25. Rfe1 { [%eval 0.39] } 25... Rb8 { [%eval 0.46] } 26. Qd5 { [%eval 0.0] } 26... Qxd5 { [%eval 0.01] } 27. exd5 { [%eval -0.05] } 27... h6?! { [%eval 0.66] } 0-1
+

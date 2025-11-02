@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/TKQ3hoKS"]
+[White "myh0rseisamazing"]
+[Black "zolezoreks"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:29"]
+[WhiteElo "1841"]
+[BlackElo "1819"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.3] } 1... c5 { [%eval 0.33] } 2. Nf3 { [%eval 0.27] } 2... d6 { [%eval 0.33] } 3. d4 { [%eval 0.22] } 3... cxd4 { [%eval 0.17] } 4. Nxd4 { [%eval 0.16] } 4... Nf6 { [%eval 0.25] } 5. Nc3 { [%eval 0.28] } 5... a6 { [%eval 0.29] } 6. Be3 { [%eval 0.23] } 6... e5 { [%eval 0.22] } 7. Nb3 { [%eval 0.16] } 7... Be7 { [%eval 0.25] } 8. f3 { [%eval 0.18] } 8... Nc6 { [%eval 0.39] } 9. Qd2 { [%eval 0.41] } 9... Be6 { [%eval 0.7] } 10. O-O-O { [%eval 0.63] } 10... O-O { [%eval 0.77] } 11. g4 { [%eval 0.42] } 11... h6?! { [%eval 1.09] } 12. h4 { [%eval 0.88] } 12... b5?! { [%eval 1.67] } 13. g5?! { [%eval 1.12] } 13... hxg5?? { [%eval 7.08] } 14. hxg5 { [%eval 6.68] } 14... b4?? { [%eval #5] } 15. gxf6? { [%eval 8.47] } 15... bxc3? { [%eval #4] } 16. Qh2 { [%eval #3] } 16... cxb2+ { [%eval #3] } 17. Kxb2 { [%eval #2] } 1-0
+

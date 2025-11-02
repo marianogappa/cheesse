@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/E3QEnfLW"]
+[White "MAASSWAB"]
+[Black "changiz88"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:17"]
+[WhiteElo "1481"]
+[BlackElo "1745"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-19"]
+[ECO "C22"]
+[Opening "Center Game: Normal Variation"]
+[TimeControl "600+10"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qa4 d6 5. Bb5 Bd7 6. Nf3 Nf6 7. Bg5 Be7 8. Nc3 O-O 9. Bxc6 Bxc6 10. Qc4 Bxe4 11. Nxe4 Nxe4 12. Qxe4 Bxg5 13. O-O Bf6 14. Qxb7 Qb8 15. Qxb8 Raxb8 16. c3 Rxb2 17. Rab1 Bxc3 18. Rxb2 Bxb2 19. Rb1 Bf6 20. Rb7 Rc8 21. Rxa7 c5 22. Rd7 Rd8 23. Rc7 Ra8 24. Rc6 Rxa2 25. Rc8+ Bd8 26. Rxd8# 1-0
+

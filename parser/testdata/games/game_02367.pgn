@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/HKVOzfLv"]
+[White "a-man"]
+[Black "MachadoJosef"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:51"]
+[WhiteElo "1269"]
+[BlackElo "1443"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. b4?! { [%eval -0.52] } 1... e5 { [%eval -0.33] } 2. Bb2 { [%eval -0.38] } 2... Nc6? { [%eval 0.81] } 3. e3? { [%eval -1.04] } 3... h6? { [%eval 0.85] } 4. Qh5? { [%eval -1.56] } 4... Nf6 { [%eval -1.65] } 5. Bxe5?? { [%eval -11.29] } 5... Nxe5?? { [%eval -0.16] } 6. Qxe5+ { [%eval -0.2] } 6... Qe7? { [%eval 0.95] } 7. Qxe7+?! { [%eval 0.31] } 7... Bxe7 { [%eval 0.34] } 8. Bc4?! { [%eval -0.54] } 8... O-O?! { [%eval 0.2] } 9. Nf3?! { [%eval -0.68] } 9... Ne4?! { [%eval 0.18] } 10. Nh4?? { [%eval -3.38] } 10... Bxh4 { [%eval -3.36] } 11. g3 { [%eval -3.73] } 11... Bf6 { [%eval -3.35] } 12. f4?? { [%eval -9.57] } 12... Bxa1 { [%eval -9.47] } 13. Nc3?! { [%eval -11.1] } 13... Bxc3 { [%eval -10.98] } 14. dxc3 { [%eval -10.93] } 14... Nxc3 { [%eval -10.95] } 15. Kd2 { [%eval -10.8] } 15... Nxa2? { [%eval -7.54] } 16. Ra1? { [%eval -12.08] } 16... Nxb4 { [%eval -11.98] } 17. Bxf7+ { [%eval -16.4] } 17... Kxf7 { [%eval -16.24] } 18. Rb1 { [%eval -16.18] } 18... Nd5 { [%eval -15.96] } 19. Rb5 { [%eval -17.41] } 19... c6 { [%eval -17.06] } 20. Rxd5 { [%eval -27.83] } 20... cxd5 { [%eval -22.75] } 21. e4 { [%eval -29.29] } 21... dxe4 { [%eval -26.87] } 22. c3 { [%eval -69.43] } 22... Re8 { [%eval -33.4] } 23. c4?! { [%eval #-11] } 23... e3+ { [%eval #-10] } 24. Ke2 { [%eval #-9] } 24... d6 { [%eval #-9] } 25. h4 { [%eval #-6] } 25... d5 { [%eval #-7] } 26. cxd5 { [%eval #-6] } 26... b6 { [%eval #-6] } 27. f5 { [%eval #-6] } 27... Bb7 { [%eval #-7] } 28. g4 { [%eval #-7] } 28... Bxd5 { [%eval #-6] } 29. g5 { [%eval #-6] } 29... Bc4+ { [%eval #-6] } 30. Kf3 { [%eval #-6] } 30... e2 { [%eval #-5] } 31. Kf2 { [%eval #-4] } 31... e1=Q+ { [%eval #-3] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Ngnr24LG"]
+[White "quebrantahuesos"]
+[Black "Sotkettu"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:03"]
+[WhiteElo "1900"]
+[BlackElo "1591"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "A00"]
+[Opening "Polish Opening: Dutch Defense"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. b4 f5 2. Bb2 Nf6 3. Nf3 d5 4. e3 e6 5. a3 a5 6. b5 Bd7 7. Be2 c6 8. bxc6 Bxc6 9. O-O b5 10. d3 a4 11. Nbd2 h6 12. c4 dxc4 13. dxc4 bxc4 14. Nxc4 Qxd1 15. Rfxd1 Be7 16. Nfe5 Nbd7 17. Nxc6 Rc8 18. Nxe7 Kxe7 19. Rac1 Rc7 20. Ne5 Rxc1 21. Rxc1 Rb8 22. Nc6+ Kf7 23. Nxb8 Ne5 24. Bxe5 1-0
+

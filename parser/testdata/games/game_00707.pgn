@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Du8N88IH"]
+[White "Danny_D"]
+[Black "avpr"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:35"]
+[WhiteElo "1284"]
+[BlackElo "1014"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "45+0"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. d3 Bg7 3. c4 e5 4. Be2 d5 5. Bf3 dxe4 6. dxe4 Qxd1+ 7. Kxd1 Be6 8. Bd2 Bxc4 9. Nc3 c5 10. b3 Bd3 11. Rc1 Nc6 12. Nd5 Nd4 13. Nc7+ Ke7 14. Nxa8 Nf6 15. Nc7 Rd8 16. Nd5+ Nxd5 17. exd5 e4 18. Bg5+ f6 19. Bxf6+ Kxf6 20. Nh3 Rxd5 21. Ng5 Nxf3 22. Nxf3 exf3 23. gxf3 Bc2+ 24. Kxc2 c4 25. Rcd1 Rxd1 26. Kxd1 1-0
+

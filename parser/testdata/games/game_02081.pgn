@@ -1,0 +1,19 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/nGGzaldY"]
+[White "Cresnowek"]
+[Black "visitvenus"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:49"]
+[WhiteElo "2008"]
+[BlackElo "2396"]
+[WhiteRatingDiff "+23"]
+[BlackRatingDiff "-25"]
+[BlackTitle "NM"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e3 e5 2. d3 d5 3. Nf3 Nc6 4. g3 Nf6 5. Bg2 e4 6. dxe4 dxe4 7. Qxd8+ Nxd8 8. Nfd2 Bf5 9. O-O Ne6 10. Nc3 Ng5 11. h4 Nf3+ 12. Nxf3 exf3 13. Bxf3 Bxc2 14. Bxb7 Rb8 15. Bc6+ Ke7 16. b3 Rb6 17. Ba3+ Ke6 18. Bf3 Kf5 19. Rac1 Bd3 20. Bb2 Bxf1 21. Kxf1 h5 22. e4+ Kg6 23. e5 Ne8 24. Ne4 Kh7 25. Ng5+ Kg8 26. Bd5 g6 27. e6 fxe6 28. Bxe6+ Rxe6 29. Nxe6 Bd6 30. Bxh8 Kxh8 31. Ng5 Kg7 32. Ne4 Be5 33. f4 Bd4 34. Rc4 Bb6 35. Nc5 Kf7 36. Nd7 Ke6 37. Nxb6 axb6 38. Ke2 Kd7 39. Re4 Nd6 40. Re3 Nf5 41. Rd3+ Ke6 42. Kf3 Nd6 43. Rc3 Nf5 44. Rxc7 Nd4+ 45. Kg2 Nf5 46. Rc6+ Kf7 47. Rxb6 Nd4 48. Rb7+ Ke6 49. Rb6+ Kf5 50. a4 Nc2 51. a5 Ne3+ 52. Kh2 Nf1+ 53. Kg1 Ne3 54. a6 Nd5 55. Rb5 Ke6 56. Rxd5 Kxd5 57. a7 Ke6 58. a8=Q Kf5 59. Qc6 Kg4 60. b4 Kxg3 61. b5 g5 62. b6 g4 63. b7 Kh3 64. b8=Q g3 65. Qg2+ Kxh4 66. Qxg3+ Kxg3 67. f5+ Kg4 68. f6 Kg5 69. f7 h4 70. f8=Q h3 71. Qg7+ Kh4 72. Qbg3+ Kh5 73. Q3g5# 1-0
+

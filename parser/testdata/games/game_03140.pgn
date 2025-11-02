@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/tx9rAY1w"]
+[White "bastian11"]
+[Black "madchess76"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:48"]
+[WhiteElo "1674"]
+[BlackElo "1676"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 h6 4. Nc3 c6 5. d3 Nf6 6. Be3 b5 7. Bb3 a5 8. a3 a4 9. Ba2 Qa5 10. Qd2 b4 11. axb4 Qxb4 12. O-O Qb7 13. d4 Bg4 14. Nh4 g5 15. Nf5 Bxf5 16. exf5 e4 17. f3 d5 18. fxe4 dxe4 19. Bf2 Qc7 20. Nxe4 Nxe4 21. Rfe1 Qe7 22. Qe3 Nxf2 23. Qxf2 Qxe1+ 24. Rxe1+ Kd7 25. Bxf7 Na6 26. Be6+ Kc7 27. d5 Bc5 28. Re3 Bxe3 29. Qxe3 cxd5 30. Qe5+ Kb6 31. Qd6+ Ka5 32. Qxd5+ Kb6 33. Qd6+ Ka7 34. Bc4 Kb7 35. Bd5+ Ka7 36. Bxa8 Rxa8 37. f6 Kb7 38. f7 Nc7 39. f8=Q 1-0
+

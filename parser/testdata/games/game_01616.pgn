@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/QlwqewhR"]
+[White "pasqualeraul"]
+[Black "p4dbnu"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:02"]
+[WhiteElo "1333"]
+[BlackElo "1113"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 c6 4. Nc3 Qe6+ 5. Be2 b5 6. Nd4 Qd7 7. Bg4 e6 8. Nf3 g6 9. O-O h5 10. Ne5 Qd4 11. Nxc6 Nxc6 12. Bf3 Bd6 13. Bxc6+ Ke7 14. Bxa8 Qf4 15. g3 Qg5 16. Ne4 Qe5 17. Nxd6 Qxd6 18. d4 g5 19. d5 exd5 20. Re1+ Kd8 21. Bxg5+ Kc7 22. Bf4 Bg4 23. Bxd6+ Kxd6 24. Qd4 Nf6 25. Qxf6+ Kc5 26. b4+ Kxb4 27. a3+ Ka5 28. Bb7 Rb8 29. Qa6# 1-0
+

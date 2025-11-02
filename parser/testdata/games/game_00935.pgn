@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VtY0nvAs"]
+[White "akbk"]
+[Black "MUXE"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:32"]
+[WhiteElo "1487"]
+[BlackElo "1568"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "300+4"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Nf3 Nf6 5. d4 Bg4 6. Be2 Nc6 7. O-O O-O-O 8. Be3 e5 9. d5 Nxd5 10. Nxd5 Rxd5 11. Qe1 Qxe1 12. Rfxe1 f6 13. c3 Be7 14. b4 a6 15. a4 h6 16. b5 Na7 17. bxa6 1-0
+

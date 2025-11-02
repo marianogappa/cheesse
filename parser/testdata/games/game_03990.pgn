@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/CEuyZc14"]
+[White "pinturella"]
+[Black "raj2020"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:11"]
+[WhiteElo "1789"]
+[BlackElo "1901"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "E61"]
+[Opening "King's Indian Defense: Smyslov Variation"]
+[TimeControl "600+3"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.19] } 1... Nf6 { [%eval 0.22] } 2. c4 { [%eval 0.14] } 2... g6 { [%eval 0.6] } 3. Nf3 { [%eval 0.57] } 3... d6 { [%eval 0.57] } 4. Nc3 { [%eval 0.57] } 4... Bg7 { [%eval 0.7] } 5. Bg5?! { [%eval 0.14] } 5... O-O { [%eval 0.43] } 6. Qd2 { [%eval 0.26] } 6... Bg4 { [%eval 0.46] } 7. Bh6?! { [%eval -0.1] } 7... Nc6 { [%eval 0.25] } 8. Bxg7 { [%eval 0.23] } 8... Kxg7 { [%eval 0.25] } 9. Ng5 { [%eval -0.09] } 9... e5 { [%eval 0.12] } 10. dxe5? { [%eval -0.91] } 10... Nxe5?! { [%eval -0.29] } 11. e3 { [%eval -0.24] } 11... h6 { [%eval -0.23] } 12. Nge4 { [%eval -0.32] } 12... Nxe4 { [%eval -0.38] } 13. Nxe4 { [%eval -0.59] } 13... Be6 { [%eval -0.13] } 14. Qd4 { [%eval -0.31] } 14... c5 { [%eval 0.18] } 15. Nxc5?? { [%eval -3.84] } 15... Qa5+ { [%eval -3.54] } 16. b4? { [%eval -5.55] } 16... Qxb4+ { [%eval -5.57] } 17. Ke2 { [%eval -5.95] } 17... Qxc5 { [%eval -5.58] } 18. f4 { [%eval -5.81] } 0-1
+

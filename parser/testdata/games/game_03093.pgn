@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/IZqLDesf"]
+[White "godfaher"]
+[Black "Novato1000"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:35"]
+[WhiteElo "1500"]
+[BlackElo "1390"]
+[WhiteRatingDiff "+128"]
+[BlackRatingDiff "-6"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack, Kiddie Countergambit"]
+[TimeControl "1800+15"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Nf6 3. Qxe5+ Be7 4. Qg5 O-O 5. Bd3 d6 6. e5 dxe5 7. Qxe5 Nc6 8. Qb5 Nd4 9. Qc4 Be6 10. Qc3 Nc6 11. Nf3 Bb4 12. Ng5 Bxc3 13. Bxh7+ Nxh7 14. Nxh7 Kxh7 15. Nxc3 Bc4 16. b3 Re8+ 17. Kd1 Ba6 18. Ba3 Qh4 19. g3 Qf4 20. gxf4 Re6 21. f5 Re5 22. f6 Rae8 23. Rg1 gxf6 24. f4 R5e6 25. Nd5 Rd6 26. Nxc7 Re4 27. Ne8 Rde6 28. Nc7 Re7 29. Bxe7 Rxe7 30. Nd5 Re6 31. f5 Re5 32. Nxf6+ Kh8 33. Rg8# 1-0
+

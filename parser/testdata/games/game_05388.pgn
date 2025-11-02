@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jkPWV9T6"]
+[White "sarcin"]
+[Black "CapawhiteAprentice12"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:45"]
+[WhiteElo "1504"]
+[BlackElo "1634"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 Nc6 3. Nf3 e6 4. O-O Bd6 5. d4 Bb8 6. Bg5 f6 7. Bh4 Nxd4 8. Nxd4 cxd4 9. Qxd4 Qc7 10. Bg3 e5 11. Qd5 Nh6 12. Nc3 b6 13. Nb5 Qb7 14. Nd6+ Bxd6 15. Qxd6 Qxe4 16. Bd5 Nf5 17. Bxe4 Nxd6 18. Bxa8 O-O 19. Bd5+ Kh8 20. c4 b5 21. b3 bxc4 22. bxc4 Ba6 23. Rfc1 Rc8 24. c5 Nb5 25. c6 dxc6 26. Rxc6 Rxc6 27. Bxc6 Nd4 28. Bf3 f5 29. Rb1 e4 30. Rb8+ Bc8 31. Rxc8# 1-0
+

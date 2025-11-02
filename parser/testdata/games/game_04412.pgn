@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/U37Wsksy"]
+[White "giammy"]
+[Black "Vataros"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:55"]
+[WhiteElo "1861"]
+[BlackElo "1990"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+34"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed Variation, Korchnoi Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.32] } 1... c5 { [%eval 0.23] } 2. Nc3 { [%eval 0.33] } 2... e6 { [%eval 0.26] } 3. g3 { [%eval 0.0] } 3... d5 { [%eval -0.06] } 4. exd5 { [%eval 0.0] } 4... exd5 { [%eval -0.15] } 5. Bg2 { [%eval -0.12] } 5... Nf6 { [%eval -0.23] } 6. Nge2 { [%eval -0.12] } 6... d4 { [%eval -0.14] } 7. Nb1 { [%eval -0.33] } 7... Bd6 { [%eval -0.34] } 8. O-O { [%eval -0.44] } 8... O-O { [%eval -0.28] } 9. d3 { [%eval -0.37] } 9... h6 { [%eval -0.44] } 10. Nf4 { [%eval -0.55] } 10... Re8 { [%eval -0.3] } 11. c3?! { [%eval -1.2] } 11... Nc6 { [%eval -1.32] } 12. cxd4 { [%eval -1.8] } 12... Bg4 { [%eval -1.68] } 13. f3 { [%eval -1.84] } 13... Bxf4 { [%eval -1.77] } 14. fxg4? { [%eval -2.77] } 14... Bxc1 { [%eval -2.62] } 15. Qxc1 { [%eval -2.79] } 15... Qxd4+ { [%eval -2.79] } 16. Kh1 { [%eval -2.69] } 16... Nb4 { [%eval -2.92] } 17. Na3? { [%eval -4.37] } 17... Rad8? { [%eval -1.94] } 18. Bxb7? { [%eval -3.54] } 18... Nxd3 { [%eval -3.31] } 19. Qd2? { [%eval -5.99] } 19... Nb4?? { [%eval -1.36] } 20. Qxd4 { [%eval -1.4] } 20... Rxd4?! { [%eval -0.86] } 21. h3?! { [%eval -1.38] } 21... Re3 { [%eval -1.0] } 22. Kg2?! { [%eval -1.7] } 22... Re2+ { [%eval -1.74] } 23. Rf2 { [%eval -1.7] } 23... Rxf2+ { [%eval -1.85] } 24. Kxf2 { [%eval -1.68] } 24... Rd2+ { [%eval -1.83] } 25. Kf3 { [%eval -1.91] } 25... Rxb2 { [%eval -1.7] } 26. Rc1? { [%eval -3.23] } 26... Nd3 { [%eval -3.11] } 27. Rc3? { [%eval -5.34] } 27... Ne5+ { [%eval -5.19] } 28. Kf4? { [%eval -6.94] } 28... Rxb7 { [%eval -6.82] } 29. Kxe5 { [%eval -6.75] } 29... Re7+ { [%eval -6.19] } 30. Kf4?? { [%eval -9.74] } 30... Nd5+ { [%eval -9.36] } 0-1
+

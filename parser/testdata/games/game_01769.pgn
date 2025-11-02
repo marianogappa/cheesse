@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iISLJHWo"]
+[White "Mayara"]
+[Black "key_1"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:40"]
+[WhiteElo "1901"]
+[BlackElo "1964"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "A96"]
+[Opening "Dutch Defense: Classical Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 e6 2. Nf3 f5 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. c4 d6 7. Nc3 Nbd7 8. b3 Qe8 9. a4 h6 10. h4 g5 11. hxg5 hxg5 12. Nxg5 Qg6 13. Nxe6 Rf7 14. Bf3 Rh7 15. Kg2 Ng4 16. Rh1 Rxh1 17. Bxg4 Rxd1 18. Bf3 Rxc1 0-1
+

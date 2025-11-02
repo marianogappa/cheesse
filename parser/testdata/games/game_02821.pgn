@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8KH1FBg4"]
+[White "CteparazinSs"]
+[Black "maxrocko"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:34"]
+[WhiteElo "1104"]
+[BlackElo "1214"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-14"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qd1 Nf6 5. e5 Nxe5 6. c4 d5 7. Nc3 d4 8. Nd5 Nxd5 9. cxd5 Qxd5 10. Nf3 Nxf3+ 11. gxf3 e5 12. f4 e4 13. b3 e3 14. fxe3 Bb4+ 15. Bd2 Bxd2+ 16. Qxd2 Qxh1 17. exd4 O-O 18. O-O-O Bg4 19. Re1 Rac8+ 20. Kb2 Rc7 21. Bd3 Rfc8 22. Rxh1 g6 23. Rg1 Bf5 24. Bxf5 Kf8 25. Bxc8 Rxc8 26. f5 gxf5 27. Qg2 Ke7 28. Qxb7+ Kd8 29. Qxa7 Rc7 30. Qa5 f4 31. Rf1 Kd7 32. Rxf4 h5 33. Rxf7+ Kd6 34. Rxc7 Ke6 35. Qe5# 1-0
+

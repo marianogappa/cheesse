@@ -102,6 +102,10 @@ type Action struct {
 	CapturedPiece      Piece
 }
 
+func (a Action) ICCF() string {
+	return fmt.Sprintf("%v%v%v", a.FromPiece.XY.ToICCF(), a.ToXY.ToICCF(), a.PromotionPieceType.ToICCF())
+}
+
 func (a Action) String() string {
 	switch {
 	case a.IsEnPassantCapture:

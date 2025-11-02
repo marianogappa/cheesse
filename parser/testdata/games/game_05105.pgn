@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nIfRTtk9"]
+[White "tryout123"]
+[Black "influx"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:33"]
+[WhiteElo "1793"]
+[BlackElo "1644"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 d6 4. dxe5 Nxe5 5. Nxe5 dxe5 6. Qxd8+ Kxd8 7. Bc4 f6 8. Be3 Bd6 9. Nc3 Ne7 10. O-O-O Bg4 11. f3 Bh5 12. Nb5 Kd7 13. Rd2 a6 14. Nxd6 cxd6 15. Rhd1 Nc8 16. Bd5 Rb8 17. Rd3 Rd8 18. Rb3 Kc7 19. Rdd3 Be8 20. Rdc3+ Bc6 21. Be6 Ne7 22. Bb6# 1-0
+

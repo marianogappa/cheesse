@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/OQvQVIZ1"]
+[White "ashuffler"]
+[Black "davidwang"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:27"]
+[WhiteElo "1324"]
+[BlackElo "1334"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Mengarini's Opening"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. a3 e5 2. e4 Nf6 3. d3 d5 4. h3 dxe4 5. c4 exd3 6. Bxd3 Bc5 7. Nc3 O-O 8. Nf3 Nc6 9. Qc2 Nd4 10. Nxd4 Bxd4 11. Ne4 Nxe4 12. Bxe4 g6 13. Kd1 Bxb2+ 14. Qd3 Qxd3+ 15. Bxd3 Bxa1 16. Ke2 Be6 17. Bh6 Rfd8 18. Rxa1 Rd4 19. Be3 Rd6 20. c5 Rc6 21. Be4 Bc4+ 22. Kf3 Rf6+ 23. Kg3 c6 24. Bg5 Re6 0-1
+

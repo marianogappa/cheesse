@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3x5wpRwf"]
+[White "H3paJ"]
+[Black "Rananaeem"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:16"]
+[WhiteElo "1730"]
+[BlackElo "1712"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+11"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Loewenthal Variation"]
+[TimeControl "180+5"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nxc6 bxc6 6. Bc4 Be7 7. O-O d6 8. a3 h6 9. Nc3 Nf6 10. f4 exf4 11. Bxf4 O-O 12. Kh1 Bb7 13. Qf3 d5 14. exd5 cxd5 15. Bd3 Ne4 16. Bxh6 gxh6 17. Rae1 Qd6 18. Qg4+ Qg6 19. Qd7 Bd6 20. Nb5 Ba6 21. Bxe4 dxe4 22. Qxd6 Bxb5 23. Qxg6+ fxg6 24. Rxf8+ Rxf8 25. h3 Re8 26. Re3 Bc6 27. b3 Rd8 28. Kg1 Rd2 29. c4 Kf7 30. b4 Kf6 31. b5 Bb7 32. g4 Ke5 33. c5 Bc8 34. c6 Rb2 35. a4 Rb4 36. Ra3 Kd4 37. Kf1 h5 38. gxh5 gxh5 39. h4 Bg4 40. Ra1 Kd3 41. Rc1 Rc4 42. Ra1 Kd2 43. Kf2 e3+ 44. Kf1 e2+ 45. Kg2 0-1
+

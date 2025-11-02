@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/zcvfoGkw"]
+[White "sik2"]
+[Black "milanbelobrk"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:05"]
+[WhiteElo "1747"]
+[BlackElo "2007"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. e3 d6 3. c4 Be7 4. Nf3 Bf6 5. Be2 c5 6. O-O cxd4 7. exd4 Nc6 8. b3 Qb6 9. Bb2 a5 10. Nbd2 a4 11. d5 Bxb2 12. dxc6 Bxa1 13. Qxa1 Nf6 14. cxb7 Bxb7 15. Nd4 e5 16. Nb5 axb3 17. Nxb3 O-O 18. Rd1 Rfd8 19. Qb2 Bc6 20. Nxd6 Bxg2 21. c5 Qc6 22. Bb5 Qxc5 23. Nxc5 Bf3 24. Rd2 e4 25. Ncxe4 Bxe4 26. Nxe4 Nxe4 27. Rxd8+ Rxd8 28. f3 Nf6 29. a4 h6 30. a5 Ra8 31. a6 Nd5 32. Qd4 Nf6 33. Qb6 Re8 0-1
+

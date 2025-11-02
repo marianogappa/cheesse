@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0FoLzPn8"]
+[White "ARASH66110777"]
+[Black "Hosseinkabir"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:41"]
+[WhiteElo "1639"]
+[BlackElo "1646"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-121"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "300+3"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Bc4 d6 3. Nf3 c6 4. O-O Be7 5. Re1 Nf6 6. Nc3 O-O 7. d4 b5 8. Bb3 Nbd7 9. dxe5 dxe5 10. Nh4 Nxe4 11. Nf5 Nxc3 12. Nxe7+ Qxe7 13. bxc3 Qc5 14. Qg4 Qd6 15. Qg3 Qg6 16. Qf3 Re8 17. c4 a6 18. cxb5 axb5 19. Bb2 Rb8 20. Re2 Bb7 21. Rae1 c5 22. Qd3 1-0
+

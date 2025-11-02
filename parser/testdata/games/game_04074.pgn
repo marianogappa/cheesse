@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/kzvEqVa5"]
+[White "lathorv"]
+[Black "SHIN_BUDOKAI"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:31"]
+[WhiteElo "1227"]
+[BlackElo "1238"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Nc6 3. d3 Nf6 4. Qg5 h6 5. Qg3 d5 6. Nc3 dxe4 7. dxe4 Bb4 8. Qxg7 Bxc3+ 9. Ke2 Rg8 10. Qxh6 Ba5 11. c3 Nxe4 12. Qe3 Nd4+ 13. Ke1 Nc2+ 14. Ke2 Nxe3 15. Kxe3 Bf5 16. Nf3 Qd6 17. Bb5+ c6 18. Ba4 Rxg2 19. Bd2 O-O-O 20. Rad1 Qd3# 0-1
+

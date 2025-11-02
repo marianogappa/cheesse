@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1KOlOm1n"]
+[White "Nadal650"]
+[Black "omsidd"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:10"]
+[WhiteElo "2132"]
+[BlackElo "2149"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C00"]
+[Opening "French Defense: King's Indian Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d3 d5 3. Nd2 dxe4 4. dxe4 Nd7 5. Bd3 Ngf6 6. Ngf3 Be7 7. Qe2 O-O 8. c3 c5 9. a4 Re8 10. Nc4 Nf8 11. e5 Nd5 12. O-O Qc7 13. Qe4 b6 14. Bg5 Bb7 15. Bxe7 Qxe7 16. Qg4 f5 17. exf6 Nxf6 18. Qh3 Rad8 19. Rad1 Bd5 20. Rfe1 Qb7 21. Nfe5 a6 22. Bc2 b5 23. Ne3 b4 24. c4 Bc6 25. Nxc6 Qxc6 26. b3 Rd4 27. Rxd4 cxd4 28. Ng4 Nxg4 29. Qxg4 e5 30. Be4 Qf6 31. f4 Kh8 32. Bf3 d3 33. fxe5 Rxe5 34. Rxe5 Qxe5 35. Qc8 Qe1# 0-1
+

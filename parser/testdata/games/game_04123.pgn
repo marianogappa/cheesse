@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/EnQc9SBH"]
+[White "Spiked34"]
+[Black "SUSOMON"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:43"]
+[WhiteElo "1322"]
+[BlackElo "1382"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Qh5 Qe7 3. Nf3 Nc6 4. Bb5 d6 5. Bxc6+ bxc6 6. Nc3 Bb7 7. d3 O-O-O 8. Qh4 Qxh4 9. Nxh4 g6 10. f4 f6 11. fxe5 fxe5 12. Rf1 Be7 13. Nf3 Nf6 14. Ng5 Rhf8 15. Ne6 Ng4 16. Nxf8 Bxf8 17. h3 Nh6 18. Bxh6 Bxh6 19. Rf7 Bf4 20. Rxh7 a5 21. Rg7 g5 22. Ke2 Ba6 23. Rf1 Kb7 24. g3 Bxg3 25. Rff7 Rc8 26. Rxg5 Bf4 27. Rg4 Kb6 28. h4 Kc5 29. Rgg7 Kb6 30. h5 Bb5 31. Rg6 Kc5 32. h6 a4 33. h7 a3 34. b3 Kb4 35. Rg8 Rxg8 36. hxg8=Q Kxc3 37. Rxc7 Kb2 38. Qf8 1-0
+

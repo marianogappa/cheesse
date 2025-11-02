@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/kbgWNinv"]
+[White "knightfactor"]
+[Black "bugzbunny109"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:46"]
+[WhiteElo "2171"]
+[BlackElo "1900"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "C20"]
+[Opening "King's Pawn Game"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. g3 d6 3. Bg2 g6 4. Ne2 Bg7 5. O-O Nf6 6. h3 O-O 7. Kh2 b6 8. d3 Bb7 9. f4 Nbd7 10. g4 c5 11. f5 gxf5 12. exf5 d5 13. g5 e4 14. gxf6 Nxf6 15. Bf4 c4 16. Ng3 cxd3 17. cxd3 exd3 18. Qxd3 d4 19. Bxb7 Rb8 20. Bg2 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/udMG4gCt"]
+[White "fuertes92"]
+[Black "ALGRANO"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:18"]
+[WhiteElo "2176"]
+[BlackElo "1889"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 b6 2. Nc3 Bb7 3. Bc4 Nf6 4. d3 e6 5. Bb3 Be7 6. Nge2 O-O 7. O-O d5 8. exd5 Nxd5 9. d4 Nxc3 10. Nxc3 Bb4 11. Qd3 Bxc3 12. Qxc3 Ba6 13. Rd1 Qh4 14. Be3 Qh5 15. Qxc7 Be2 16. Rd2 Na6 17. Qe5 Qxe5 18. dxe5 Bh5 19. f3 Nb4 20. Rad1 Bg6 21. c3 a5 22. cxb4 a4 23. Bc4 Rac8 24. b3 axb3 25. axb3 f5 26. Bxb6 Rfe8 27. Bc5 f4 28. Rd7 Bc2 29. Ra1 Bf5 30. Raa7 g6 31. Rg7+ Kh8 32. Rxh7+ Kg8 33. Rag7# 1-0
+

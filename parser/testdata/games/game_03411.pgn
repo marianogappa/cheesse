@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/BIM1WkZ1"]
+[White "ger456"]
+[Black "Fi-scher"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:59"]
+[WhiteElo "1762"]
+[BlackElo "1721"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "B07"]
+[Opening "Rat Defense: Harmonist"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. f4 Nc6 3. Nf3 Bg4 4. Bc4 e6 5. O-O d5 6. exd5 exd5 7. Bb5 Qd6 8. Qe1+ Be7 9. Ne5 Qc5+ 10. Kh1 Qxb5 11. Nxg4 O-O-O 12. Nc3 Qc5 13. Na4 Qxc2 14. b3 h5 15. Ne3 Qh7 16. Bb2 h4 17. h3 Bf6 18. Ng4 Bxb2 19. Nxb2 f5 20. Ne5 Nxe5 21. fxe5 g5 22. d4 g4 23. Qe3 gxh3 24. Qxh3 Ne7 25. Nd3 Rdg8 26. Rf4 Rg3 27. Rxh4 Rxh3+ 28. Rxh3 Qg7 0-1
+

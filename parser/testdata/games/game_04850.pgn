@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vkjLv3tL"]
+[White "Sokaeet"]
+[Black "blackzombie"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:43"]
+[WhiteElo "1790"]
+[BlackElo "2042"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "E14"]
+[Opening "Queen's Indian Defense: Spassky System"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. e3 e6 3. c4 b6 4. Nf3 Bb7 5. Bd3 c5 6. O-O cxd4 7. exd4 Nc6 8. Nc3 Be7 9. Re1 O-O 10. Be3 d5 11. cxd5 Nxd5 12. Nxd5 Qxd5 13. a3 Bf6 14. b3 Rfd8 15. Bc4 Qd6 16. Rc1 Nxd4 17. Nxd4 Bxd4 18. Bxd4 Qxd4 19. Qh5 g6 20. Qh3 Kg7 21. Qg3 Rd7 22. h4 a6 23. h5 b5 24. Bf1 Rad8 25. hxg6 hxg6 26. Rc7 Bd5 27. Rec1 Qb2 28. b4 Qf6 29. Rxd7 Rxd7 30. Rc2 Be4 31. Re2 Bd3 32. Re3 Bxf1 33. Kxf1 Qa1+ 34. Ke2 Qb2+ 35. Kf3 e5 36. Qg4 f5 37. Qg5 e4+ 38. Kf4 Qd4 39. g3 Qd6# 0-1
+

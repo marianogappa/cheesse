@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/yUPv6gjj"]
+[White "davidchesspl"]
+[Black "Kn1ghtF3"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:22"]
+[WhiteElo "1578"]
+[BlackElo "1778"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a3 e6 7. Bd3 Be7 8. O-O Qc7 9. Rb1 Nc6 10. Be3 Ne5 11. h3 Nxd3 12. cxd3 O-O 13. f4 b5 14. Qf3 Bb7 15. Qg3 Kh8 16. Nf3 d5 17. Ng5 h6 18. Qh4 Rad8 19. Bf2 b4 20. axb4 dxe4 21. dxe4 Nxe4 22. Ncxe4 Bxe4 23. Rbe1 Bd3 24. Qh5 Bxb4 25. Rxe6 Qxf4 26. Rxh6+ gxh6 27. Qxh6+ Kg8 0-1
+

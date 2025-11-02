@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/nyU4MD9f"]
+[White "Maziozare"]
+[Black "malestro"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:18"]
+[WhiteElo "1940"]
+[BlackElo "2298"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. b3 d6 2. Bb2 Nd7 3. e3 c6 4. f4 b5 5. Nf3 Bb7 6. Be2 a5 7. d4 e6 8. c4 b4 9. Nbd2 Ngf6 10. h3 h5 11. Qc2 c5 12. dxc5 Nxc5 13. O-O Be7 14. a3 O-O 15. axb4 axb4 16. Rxa8 Qxa8 17. Ra1 Qc8 18. Ne1 Qc7 19. Bf3 d5 20. cxd5 Nxd5 21. Kf2 h4 22. Bd4 Rc8 23. Qb2 Nc3 24. Rc1 Bf6 25. Bxb7 Qxb7 26. Nef3 Nd3+ 27. Kg1 Nxb2 28. Bxf6 gxf6 29. Nd4 e5 30. fxe5 fxe5 31. Nf5 Ne2+ 32. Kh2 Nxc1 33. Nxh4 Rc2 34. Ndf3 Nbd3 35. Kg3 Ne2+ 36. Kg4 e4 37. Ng5 Ne5+ 38. Kf5 Ng6 39. Nxe4 Nxh4+ 40. Kg4 Qxe4+ 41. Kh5 Rc5+ 42. Kh6 Qg6# 0-1
+

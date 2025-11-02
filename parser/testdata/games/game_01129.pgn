@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/ZbuGc066"]
+[White "Tacticsman"]
+[Black "DoctorPablocious"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:12"]
+[WhiteElo "2188"]
+[BlackElo "1931"]
+[WhiteRatingDiff "-21"]
+[BlackRatingDiff "+21"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. f4 g6 2. e4 c5 3. d4 cxd4 4. Qxd4 Nc6 5. Qxh8 Nf6 6. e5 Ng4 7. Qxh7 Qb6 8. g3 Qf2+ 9. Kd1 d5 10. Nh3 Qd4+ 11. Bd3 Nb4 12. Ke2 Nxd3 13. cxd3 Nh6 14. Nc3 Bxh3 15. Be3 Bg4+ 16. Kd2 Qb4 17. Kc2 d4 18. a3 Qc5 19. Bd2 dxc3 20. bxc3 Rd8 21. h3 Be2 22. g4 Bxd3+ 23. Kc1 Qd5 24. Rh2 Qb3 25. Be1 Be2 26. Bd2 Qd1+ 27. Kb2 Rxd2# 0-1
+

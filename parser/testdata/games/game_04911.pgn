@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Mnl69eZg"]
+[White "elvanvanero"]
+[Black "Rackattack"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:54"]
+[WhiteElo "2149"]
+[BlackElo "2016"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+15"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Englund Gambit"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Nbd2 Nxe5 5. Nxe5 Qxe5 6. Nf3 Qf6 7. c3 Bc5 8. Bg5 Qb6 9. e3 Qxb2 10. Rc1 d6 11. Bc4 h6 12. Bh4 Bg4 13. O-O g5 14. Qd5 Be6 15. Qe4 gxh4 16. Bxe6 fxe6 17. Qg6+ Kf8 18. Qxe6 Re8 19. Qf5+ Kg7 20. Nxh4 Ne7 21. Qg4+ Kh7 22. Qe4+ Kg7 23. Qg4+ Kh7 24. Qe4+ Kg8 25. Qe6+ Kg7 26. Rcd1 Qxc3 27. Qg4+ Kh7 28. Rd5 Rhg8 29. Qe4+ Kh8 30. Rh5 Qg7 31. g3 Ng6 32. Nxg6+ Qxg6 33. Qh4 Kh7 34. Rd1 Re5 35. Rxe5 dxe5 36. Rd7+ Rg7 37. Rd8 Be7 38. Qh3 Bxd8 39. Qg2 Bf6 40. Qf1 Qe4 41. Qc1 c6 42. a4 Qd5 43. a5 Rd7 44. a6 Qd1+ 45. Qxd1 Rxd1+ 46. Kg2 bxa6 47. Kf3 a5 48. Ke4 a4 49. Kf5 Bg7 50. f4 a3 51. fxe5 a2 52. e6 a1=Q 53. e7 Qf6+ 54. Kg4 Qxe7 55. e4 Rd3 56. e5 Rd4+ 57. Kh3 Qxe5 58. Kg2 Rd2+ 59. Kh3 Qf5+ 60. Kh4 Rd4+ 61. g4 Qxg4# 0-1
+

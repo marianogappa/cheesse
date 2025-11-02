@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Bdfv7Hhx"]
+[White "JulianPe45"]
+[Black "alfierearturo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:13"]
+[WhiteElo "1817"]
+[BlackElo "1800"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C42"]
+[Opening "Russian Game: Nimzowitsch Attack"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O 8. Qd2 Nc6 9. O-O-O a6 10. h3 Be6 11. a3 b5 12. g4 Na5 13. Bg2 Nc4 14. Qe2 a5 15. Nd4 Nxe3 16. Qxe3 c5 17. Nxe6 fxe6 18. Qxe6+ Kh8 19. Bxa8 Bg5+ 20. Kb1 Qxa8 21. h4 Bf6 22. g5 Be5 23. h5 b4 24. f4 Bxf4 25. h6 gxh6 26. Qxh6 bxa3 27. Qxh7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/lor1MYzC"]
+[White "kaiandre"]
+[Black "Christian99"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:31"]
+[WhiteElo "1396"]
+[BlackElo "1483"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Old Variation"]
+[TimeControl "1200+10"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.27] } 1... d5 { [%eval 0.27] } 2. c4 { [%eval 0.26] } 2... dxc4 { [%eval 0.35] } 3. e3 { [%eval 0.26] } 3... b5?! { [%eval 0.77] } 4. a4 { [%eval 0.67] } 4... Ba6?! { [%eval 1.48] } 5. Qf3 { [%eval 1.6] } 5... g6?? { [%eval 6.32] } 6. Qxa8 { [%eval 6.33] } 6... Bg7 { [%eval 6.65] } 7. Qxa7 { [%eval 6.68] } 7... Nf6 { [%eval 6.7] } 8. Nc3 { [%eval 6.42] } 8... c6?! { [%eval 7.13] } 9. g3? { [%eval 5.59] } 9... O-O? { [%eval 6.74] } 10. Bg2? { [%eval 4.71] } 10... Qa5 { [%eval 4.57] } 11. Qxe7 { [%eval 4.77] } 11... b4?! { [%eval 5.52] } 12. Qc5? { [%eval 3.01] } 12... Bb5?? { [%eval 9.43] } 13. Nd1?? { [%eval 4.96] } 13... Na6? { [%eval 6.95] } 14. Bd2?? { [%eval -5.31] } 14... Nxc5 { [%eval -5.2] } 0-1
+

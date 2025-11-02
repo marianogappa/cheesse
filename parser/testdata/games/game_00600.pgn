@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/E8wzOdUr"]
+[White "mos_amin"]
+[Black "user21"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:09"]
+[WhiteElo "1573"]
+[BlackElo "1539"]
+[WhiteRatingDiff "+27"]
+[BlackRatingDiff "-10"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit #2"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.27] } 1... c5 { [%eval 0.31] } 2. d4 { [%eval 0.16] } 2... cxd4 { [%eval 0.09] } 3. Qxd4 { [%eval 0.01] } 3... Nc6 { [%eval 0.22] } 4. Qd1 { [%eval -0.14] } 4... Nf6 { [%eval -0.04] } 5. Nc3 { [%eval -0.05] } 5... d6 { [%eval 0.22] } 6. Nf3 { [%eval 0.16] } 6... Bd7 { [%eval 0.36] } 7. Bc4 { [%eval 0.22] } 7... e6 { [%eval 0.22] } 8. O-O { [%eval 0.22] } 8... Be7 { [%eval 0.25] } 9. Re1 { [%eval 0.04] } 9... O-O { [%eval 0.3] } 10. Bf4 { [%eval 0.2] } 10... e5 { [%eval 0.34] } 11. Bg3 { [%eval 0.01] } 11... a6 { [%eval 0.22] } 12. Nd5 { [%eval -0.1] } 12... Nxd5 { [%eval -0.09] } 13. Bxd5 { [%eval 0.0] } 13... Qc7 { [%eval 0.29] } 14. c3 { [%eval 0.24] } 14... Bf6 { [%eval 0.35] } 15. Qb3 { [%eval 0.08] } 15... Rab8 { [%eval 0.18] } 16. Nh4 { [%eval -0.22] } 16... Bxh4?! { [%eval 0.49] } 17. Bxh4 { [%eval 0.52] } 17... b5 { [%eval 0.7] } 18. Bxc6?! { [%eval 0.14] } 18... Bxc6 { [%eval 0.16] } 19. Rad1 { [%eval 0.13] } 19... Rb6 { [%eval 0.2] } 20. Qa3 { [%eval 0.19] } 20... Bd7?! { [%eval 1.01] } 21. Be7 { [%eval 0.89] } 21... Bg4? { [%eval 3.41] } 22. Bxd6 { [%eval 3.38] } 22... Rxd6 { [%eval 3.86] } 23. Rxd6 { [%eval 3.62] } 23... Ra8? { [%eval 4.71] } 24. f3? { [%eval 3.33] } 24... Bc8? { [%eval 4.69] } 25. Red1 { [%eval 4.35] } 25... Bb7?? { [%eval 8.53] } 26. Qb3?? { [%eval 3.65] } 26... g6?? { [%eval 8.85] } 27. Rd7 { [%eval 8.52] } 27... Qc5+ { [%eval 9.01] } 28. Kh1 { [%eval 8.78] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/YtgxL0Z3"]
+[White "albervanio"]
+[Black "Gribelnikov"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:48"]
+[WhiteElo "1715"]
+[BlackElo "1630"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+13"]
+[ECO "B07"]
+[Opening "Pirc Defense #3"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Nf6 4. Be3 Bg7 5. Qd2 O-O 6. O-O-O Ng4 7. Bg5 e5 8. Bxd8 Rxd8 9. d5 Bh6 10. Qxh6 Nxh6 11. Nge2 f5 12. f3 Na6 13. Ng3 Nc5 14. b4 Na6 15. Bxa6 bxa6 16. a4 Rb8 17. Na2 Bd7 18. a5 Bb5 19. c3 Bc4 20. Kb2 Rb5 21. Nc1 f4 22. Nge2 Rdb8 23. Kc2 g5 24. Nb3 Bxe2 25. Rd2 Bc4 26. Nc1 g4 27. Rf2 gxf3 28. Rxf3 Ng4 29. h3 Ne3+ 30. Kd2 Rc8 31. Ne2 Bxe2 32. Kxe2 c6 33. g3 cxd5 34. gxf4 exf4 35. Rxf4 Nc4 36. Rg1+ Kh8 37. exd5 Rxd5 38. Rf7 Re8+ 39. Kf3 Rf5+ 0-1
+

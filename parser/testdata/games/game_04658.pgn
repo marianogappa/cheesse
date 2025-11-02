@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Q1nuW3DN"]
+[White "silencerzkie"]
+[Black "katus22"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:53"]
+[WhiteElo "1511"]
+[BlackElo "1247"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+22"]
+[ECO "C44"]
+[Opening "King's Knight Opening: Normal Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Qe2 Nf6 4. Nc3 d5 5. exd5 Nxd5 6. Nxe5 Be7 7. d4 O-O 8. Nxc6 bxc6 9. Bd2 Re8 10. O-O-O Rb8 11. Ne4 c5 12. dxc5 c6 13. Qf3 Bxc5 14. Nxc5 Qb6 15. Ne4 Qxb2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kXg6ybs6"]
+[White "fnazari"]
+[Black "ArN01"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:28"]
+[WhiteElo "1490"]
+[BlackElo "1452"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Gubinsky-Melts Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 a6 5. d4 Bf5 6. Bc4 e6 7. O-O Nc6 8. Re1 O-O-O 9. Ng5 Nh6 10. a4 Nxd4 11. Nce4 Qc6 12. b3 f6 13. Be3 e5 14. c3 Ne6 15. Qe2 Nxg5 16. Nxg5 fxg5 17. Bxg5 Rd6 18. Qxe5 Kb8 19. Bxh6 Rxh6 20. Qxf5 Qd6 21. Re6 Qxh2+ 22. Kf1 Qh1+ 23. Ke2 Rxe6+ 24. Bxe6 Qxa1 25. Qd5 Bd6 0-1
+

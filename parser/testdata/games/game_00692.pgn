@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/06Rz3obh"]
+[White "Simul4Cash"]
+[Black "tryout123"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:33"]
+[WhiteElo "1772"]
+[BlackElo "1797"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. d3 d5 4. Nbd2 Nc6 5. g3 g6 6. Bg2 Bg7 7. O-O Nge7 8. Re1 O-O 9. e5 Qc7 10. Qe2 b5 11. Nf1 c4 12. d4 Qb6 13. c3 b4 14. h4 bxc3 15. bxc3 Bd7 16. N1h2 Na5 17. Ba3 Rfe8 18. Rab1 Qa6 19. Ng4 Ba4 20. Qe3 Nac6 21. Nh6+ Kf8 22. Ng5 Bb5 23. Nhxf7 Qxa3 24. Qf4 Nf5 25. g4 h6 26. gxf5 hxg5 27. Qxg5 Kxf7 28. Qxg6+ Kg8 29. f6 Qf8 30. Rxb5 Ne7 31. Qxg7+ Qxg7 32. fxg7 Kxg7 33. Rb7 Kh8 34. Reb1 Nf5 35. Rc7 Rab8 36. Rxb8 Rxb8 37. Rxa7 Rb1+ 38. Kh2 Kg8 39. Ra6 Nxh4 40. Rxe6 Rb2 41. Rf6 Rxa2 42. e6 Ra7 43. Bxd5 Kg7 44. Rf7+ Rxf7 45. exf7 Kf8 46. Kg3 Nf5+ 47. Kf4 Nd6 48. Ke5 Nxf7+ 49. Bxf7 Kxf7 50. d5 Ke7 51. f4 Kd7 52. f5 Kc7 53. Ke6 Kb6 54. d6 Kc5 55. d7 Kb5 56. d8=Q Ka4 57. Qb8 Ka3 58. Kd5 1-0
+

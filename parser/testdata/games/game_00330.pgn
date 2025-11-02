@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AkIpYwAY"]
+[White "docroj"]
+[Black "ilyang"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:02"]
+[WhiteElo "1529"]
+[BlackElo "1474"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense #2"]
+[TimeControl "300+3"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.21] } 1... e5 { [%eval 0.21] } 2. Nf3 { [%eval 0.21] } 2... Nc6 { [%eval 0.25] } 3. Bb5 { [%eval 0.2] } 3... Nf6 { [%eval 0.26] } 4. d3 { [%eval 0.24] } 4... d6 { [%eval 0.17] } 5. O-O { [%eval 0.18] } 5... Be7 { [%eval 0.17] } 6. Re1 { [%eval 0.1] } 6... h6 { [%eval 0.36] } 7. h3 { [%eval 0.25] } 7... O-O { [%eval 0.39] } 8. d4?! { [%eval -0.2] } 8... exd4 { [%eval 0.0] } 9. Nxd4 { [%eval -0.22] } 9... Nxd4 { [%eval -0.1] } 10. Qxd4 { [%eval -0.13] } 10... c5 { [%eval 0.25] } 11. Qe3 { [%eval 0.02] } 11... Nd7 { [%eval 0.5] } 12. Nc3 { [%eval 0.5] } 12... Ne5 { [%eval 0.57] } 13. Nd5 { [%eval 0.45] } 13... Bg5? { [%eval 2.38] } 14. Qg3? { [%eval 0.16] } 14... Ng6 { [%eval 0.47] } 15. f4? { [%eval -1.58] } 15... Bh4 { [%eval -1.64] } 16. Qe3 { [%eval -1.51] } 16... Bxe1 { [%eval -1.55] } 17. Qxe1 { [%eval -1.65] } 17... f5?! { [%eval -1.07] } 18. e5? { [%eval -2.95] } 18... dxe5 { [%eval -2.79] } 19. Bc4? { [%eval -4.95] } 19... Kh8? { [%eval -3.7] } 20. fxe5 { [%eval -3.88] } 20... b5? { [%eval -2.68] } 21. Qg3?? { [%eval -5.95] } 21... bxc4 { [%eval -5.92] } 22. Qxg6 { [%eval -5.85] } 22... Qxd5 { [%eval -5.72] } 23. Bxh6 { [%eval -6.21] } 23... Qd4+? { [%eval -4.46] } 24. Kh1?! { [%eval -5.28] } 24... Qd7? { [%eval -3.91] } 25. e6?! { [%eval -4.44] } 25... Qe7 { [%eval -4.26] } 26. Re1?? { [%eval -7.53] } 26... Bb7?? { [%eval -3.9] } 27. Bg5 { [%eval -3.81] } 27... Qf7?? { [%eval #9] } 28. exf7 { [%eval 55.57] } 28... Rxf7 { [%eval 55.57] } 29. Qxf7 { [%eval 18.18] } 29... Rb8?! { [%eval #3] } 30. Re8+?! { [%eval #10] } 30... Rxe8 { [%eval #10] } 31. Qxe8+ { [%eval 58.47] } 31... Kh7 { [%eval 56.1] } 32. Qe7 { [%eval 55.81] } 1-0
+

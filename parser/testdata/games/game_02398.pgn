@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/P7iRSjlH"]
+[White "SrogiJebaka"]
+[Black "juanky"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:09"]
+[WhiteElo "1690"]
+[BlackElo "1695"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Tennison Gambit"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Nf6 4. Nc3 Bf5 5. Qe2 e5 6. Ngxe4 Nc6 7. d3 Be7 8. Be3 Nb4 9. O-O-O Be6 10. a3 a5 11. axb4 axb4 12. Nb1 b3 13. Nxf6+ Bxf6 14. d4 exd4 15. Qb5+ c6 16. Qb4 c5 17. Qxc5 Rc8 18. Bb5+ Bd7 19. Bxd7+ Qxd7 20. Qxc8+ Qxc8 21. c3 dxe3 22. Na3 O-O 23. fxe3 Qc5 24. Rhe1 Bg5 25. Rd3 b5 26. Kd2 b4 27. Nb1 bxc3+ 28. Nxc3 Re8 0-1
+

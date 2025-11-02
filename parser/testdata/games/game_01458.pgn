@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6XaTTWxK"]
+[White "MACROSPACE-1"]
+[Black "Pepinho"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:28"]
+[WhiteElo "1585"]
+[BlackElo "1604"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A40"]
+[Opening "English Defense #2"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 b6 2. Bg5 Bb7 3. e3 h6 4. Bh4 g5 5. Bg3 h5 6. h3 h4 7. Bh2 e6 8. Nf3 Qe7 9. Nc3 Nc6 10. Be2 O-O-O 11. O-O f5 12. a3 g4 13. Nd2 g3 14. fxg3 hxg3 15. Bxg3 Bh6 16. Bf3 Bxe3+ 17. Kh1 f4 18. Bh2 Bxd4 19. Nde4 Bxc3 20. Nxc3 Ne5 21. Bxb7+ Kxb7 22. Nb5 Nc6 23. Bxf4 Nf6 24. Bxc7 Rc8 25. Bd6 Qg7 26. Bh2 Nh5 27. Nd6+ Ka8 28. Nxc8 Rxc8 29. Qxh5 Nd4 30. Qd1 Nxc2 31. Qf3+ d5 32. Rac1 Kb7 33. Qg3 Qh6 34. Rf7+ Ka6 35. Qd3+ b5 36. Rxc2 Rxc2 37. Qxc2 Qe3 38. Qc6+ Ka5 39. Rxa7+ Qxa7 40. Qc3+ Kb6 41. Bc7+ Qxc7 42. Qxc7+ Kxc7 43. b3 Kc6 44. a4 Kc5 45. axb5 Kd4 46. b6 Kc3 47. b7 Kxb3 48. b8=Q+ Kc3 49. Qd6 Kd4 50. Qxe6 1-0
+

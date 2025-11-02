@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ssLqI1z8"]
+[White "Nik500D"]
+[Black "hakannoktay"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:38"]
+[WhiteElo "1489"]
+[BlackElo "1425"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "B12"]
+[Opening "Slav Defense: Diemer Gambit"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.2] } 1... c6 { [%eval 0.45] } 2. c4 { [%eval 0.25] } 2... d5 { [%eval 0.14] } 3. d4 { [%eval -0.35] } 3... dxe4 { [%eval -0.24] } 4. c5? { [%eval -1.51] } 4... Nf6?! { [%eval -0.95] } 5. Bg5?! { [%eval -1.65] } 5... e6?! { [%eval -0.82] } 6. Bxf6?! { [%eval -1.77] } 6... Qxf6? { [%eval -0.54] } 7. Nd2? { [%eval -3.23] } 7... e5? { [%eval -0.57] } 8. Nxe4 { [%eval -0.51] } 8... Qf5? { [%eval 0.6] } 9. Nd6+? { [%eval -1.31] } 9... Bxd6 { [%eval -1.0] } 10. cxd6 { [%eval -1.08] } 10... exd4?! { [%eval -0.12] } 11. Qxd4 { [%eval -0.38] } 11... Qa5+?! { [%eval 0.27] } 12. b4 { [%eval -0.3] } 12... Qd5? { [%eval 1.26] } 13. Qe3+? { [%eval -0.64] } 13... Be6 { [%eval -0.35] } 14. Rd1 { [%eval -0.35] } 14... Qxa2 { [%eval -0.17] } 15. d7+? { [%eval -2.6] } 15... Nxd7 { [%eval -2.52] } 16. Bc4?? { [%eval -6.48] } 16... Qxc4 { [%eval -6.38] } 17. Ne2? { [%eval -7.39] } 17... Qxb4+ { [%eval -7.02] } 18. Rd2? { [%eval -8.53] } 18... Nb6 { [%eval -8.33] } 19. O-O? { [%eval -11.37] } 19... O-O? { [%eval -7.44] } 20. Rd4 { [%eval -7.33] } 20... Qc5 { [%eval -6.93] } 21. Rc1 { [%eval -6.97] } 21... Qf5 { [%eval -6.7] } 22. Nf4? { [%eval -7.89] } 22... Nd5 { [%eval -7.64] } 23. Nxd5?! { [%eval -8.28] } 23... Bxd5 { [%eval -8.05] } 24. Rf4?! { [%eval -8.95] } 24... Qg6 { [%eval -8.68] } 25. Qg3?! { [%eval -9.61] } 25... Qh6? { [%eval -8.55] } 26. Re1 { [%eval -8.55] } 26... Rae8?! { [%eval -7.94] } 27. Kf1? { [%eval -54.27] } 27... Rxe1+ { [%eval -25.9] } 28. Kxe1 { [%eval -24.62] } 28... Re8+ { [%eval -17.92] } 29. Kf1?! { [%eval #-14] } 29... Qe6?! { [%eval -10.99] } 30. Qc3?! { [%eval #-3] } 30... Qe2+ { [%eval #-2] } 31. Kg1 { [%eval #-2] } 31... Qe1+ { [%eval #-1] } 0-1
+

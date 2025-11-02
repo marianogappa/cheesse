@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/PvOgYDLo"]
+[White "tetreb85"]
+[Black "rafagp"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:51"]
+[WhiteElo "1425"]
+[BlackElo "1541"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nd4 5. Nxe5 Qe7 6. Nxf7 Qf6 7. e5 Nxc2+ 8. Qxc2 Qxf2+ 9. Kd1 Qxg2 10. Rf1 Qg4+ 11. Ne2 Qg2 12. Nxh8 Qxf1# 0-1
+

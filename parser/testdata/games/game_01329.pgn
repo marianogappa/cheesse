@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/XncVuXv8"]
+[White "JePasse"]
+[Black "Miki023"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:55"]
+[WhiteElo "1256"]
+[BlackElo "1207"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d3 d5 2. e4 d4 3. c3 e5 4. cxd4 exd4 5. Bd2 Nc6 6. a3 Qe7 7. f3 f5 8. g3 fxe4 9. dxe4 Nf6 10. Bb4 Qe6 11. b3 Nxb4 12. Bc4 Qd6 13. axb4 Qxb4+ 14. Kf2 Bd6 15. Qxd4 Bd7 16. e5 Nd5 17. exd6 Nc3 18. Qe4+ 1-0
+

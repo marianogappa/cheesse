@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/P8hcD6Sv"]
+[White "bolido13"]
+[Black "lucianolop"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:50"]
+[WhiteElo "1613"]
+[BlackElo "1710"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Normal Variation"]
+[TimeControl "600+5"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. Bc4 Nb6 4. Bb3 a5 5. a3 a4 6. Ba2 e6 7. Nf3 c5 8. d4 cxd4 9. Nxd4 Bc5 10. O-O Bxd4 11. Qxd4 Nc6 12. Qg4 g6 13. Bg5 Qc7 14. Bf6 Rg8 15. f4 h5 16. Qg5 Nd5 17. Bxd5 exd5 18. Qh6 Ne7 19. Qh7 d6 20. Bxe7 Qxe7 21. Qxg8+ Kd7 22. Qg7 b6 23. Qf6 dxe5 24. Qxe7+ Kxe7 25. fxe5 Bf5 26. c3 Ke6 27. Re1 g5 28. Nd2 g4 29. b3 b5 30. c4 axb3 31. cxd5+ Kxd5 32. Nxb3 h4 33. Nd2 Ke6 34. Ra2 b4 35. a4 Rd8 36. Nb3 Rd3 37. Nc5+ Kd5 38. Nxd3 Bxd3 39. Rd1 Kd4 40. Rad2 Kxe5 41. Rxd3 f5 42. a5 f4 43. a6 g3 44. hxg3 hxg3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uZg1K1rv"]
+[White "kandor"]
+[Black "becmenskopseto"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:00"]
+[WhiteElo "1171"]
+[BlackElo "1483"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-20"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 e6 3. c4 dxc4 4. Bxc4 Nf6 5. a3 a6 6. Nf3 Bd6 7. O-O Bd7 8. h3 O-O 9. b4 b5 10. Bb3 Ne4 11. Bb2 Qf6 12. Qc2 Bc6 13. d5 Qg6 14. dxc6 Nxf2 15. Qxg6 fxg6 16. Rxf2 Nxc6 17. Bxe6+ Kh8 18. Ng5 Rxf2 19. Kxf2 Re8 20. Nf7+ Kg8 21. Nxd6+ Kh8 22. Nxe8 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/h9tR8JVR"]
+[White "pucuipc"]
+[Black "pedrogiro"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:29"]
+[WhiteElo "1527"]
+[BlackElo "1541"]
+[WhiteRatingDiff "-21"]
+[BlackRatingDiff "+12"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense"]
+[TimeControl "90+3"]
+[Termination "Time forfeit"]
+
+1. e4 Nc6 2. Bc4 e6 3. Nc3 g6 4. d3 Bg7 5. Bf4 Nf6 6. Nf3 O-O 7. O-O d5 8. Bb3 a6 9. a3 d4 10. Ne2 Re8 11. c3 e5 12. Bg5 Qd6 13. h3 h6 14. Bh4 g5 15. Bg3 Nh5 16. cxd4 Nxg3 17. Nxg3 Nxd4 18. Nxd4 exd4 19. Nf5 Qf6 20. Nxg7 Kxg7 21. Qh5 Be6 22. Bd1 c5 23. b4 c4 24. dxc4 Bxc4 25. Re1 Bd3 26. e5 Rxe5 27. Rxe5 Qxe5 28. Rc1 Re8 29. Bb3 Re7 30. Rc5 Qe1+ 31. Kh2 Qxf2 32. Rxg5+ hxg5 33. Qxg5+ Kf8 34. Qh6+ Ke8 35. Qh8+ Kd7 0-1
+

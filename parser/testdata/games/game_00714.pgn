@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Swv8HoFS"]
+[White "chippintory"]
+[Black "festo92"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:41"]
+[WhiteElo "1326"]
+[BlackElo "1296"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. e3 d6 3. Bd3 g6 4. f4 Bg7 5. Nf3 O-O 6. O-O b6 7. Ng5 c5 8. c3 Ba6 9. Rf3 Bb7 10. Rh3 Qd7 11. Nd2 Qc6 12. Be4 d5 13. Bf3 e6 14. Nc4 Nbd7 15. Ne5 Nxe5 16. dxe5 Ne4 17. Qe1 Nxg5 18. fxg5 c4 19. Qh4 f6 20. Qxh7+ Kf7 21. exf6 Rh8 22. Qxg7+ Ke8 23. Rxh8# 1-0
+

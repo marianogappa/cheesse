@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ufYWoPAZ"]
+[White "el_maurice"]
+[Black "alexbrekke"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:09"]
+[WhiteElo "1451"]
+[BlackElo "1476"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Nimzowitsch System"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. d4 Nc6 5. Bb5 Bd7 6. Nc3 a6 7. Bxc6 bxc6 8. Be3 cxd4 9. Nxd4 c5 10. Nf3 d4 11. Nxd4 cxd4 12. Bxd4 Ne7 13. Qd3 Nf5 14. O-O-O Be7 15. g4 Nxd4 16. Qxd4 Bb5 17. Qe3 O-O 18. Rxd8 Rfxd8 19. Rd1 Rdc8 20. f4 Bb4 21. f5 Bxc3 22. bxc3 Ba4 23. f6 g6 24. Qh6 Kh8 25. Qg7# 1-0
+

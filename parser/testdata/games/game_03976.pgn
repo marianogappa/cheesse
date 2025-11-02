@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KkDCDMco"]
+[White "chess3424"]
+[Black "redbatrecords"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:09"]
+[WhiteElo "1361"]
+[BlackElo "1389"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C20"]
+[Opening "Bishop's Opening: Boi Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Bc5 3. Qf3 Qf6 4. Nc3 Nc6 5. d3 Nd4 6. Qg3 Nxc2+ 7. Kd1 Nxa1 8. Nd5 Qxf2 9. Nxc7+ Kd8 10. Nxa8 Qc2+ 11. Ke1 Bb4+ 12. Kf1 Qxc1+ 13. Ke2 Qd2+ 14. Kf1 Nc2 15. Qh4+ f6 16. g4 Ne3# 0-1
+

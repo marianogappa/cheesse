@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/PItgaoA1"]
+[White "Dulcinorix"]
+[Black "combinjo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:31"]
+[WhiteElo "1579"]
+[BlackElo "1581"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "C20"]
+[Opening "King's Pawn Game: King's Head Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f3 Nf6 3. Nc3 Bb4 4. a3 Bxc3 5. bxc3 O-O 6. Bb2 d5 7. d3 d4 8. cxd4 exd4 9. Ne2 c5 10. g3 Nc6 11. Bg2 b5 12. O-O a5 13. c3 dxc3 14. Bxc3 b4 15. axb4 cxb4 16. Bb2 Be6 17. d4 Bc4 18. e5 Nd5 19. Re1 Ne3 20. Qd2 Nf5 21. f4 Bxe2 22. Bxc6 Rc8 23. Be4 Bg4 24. Kg2 Qc7 25. h3 Bxh3+ 26. Kxh3 Ne7 27. Rac1 Qb6 28. Rxc8 Rxc8 29. Qd3 a4 30. Bxh7+ Kf8 31. Be4 a3 32. Ba1 b3 33. Bc3 b2 34. Rb1 Rxc3 35. Qxc3 Nc6 36. Bxc6 Qa6 37. Bd5 a2 38. Bxa2 Qxa2 39. Rxb2 Qe6+ 40. Kg2 Qf5 41. Rb8+ Ke7 42. Qc7+ Qd7 43. Qc5+ Ke6 44. Rb6+ Kf5 45. e6+ Qd5+ 46. Qxd5+ Kg4 47. exf7 g5 48. Qxg5# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dav6q9OE"]
+[White "eljez3"]
+[Black "piyontdefne"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:54"]
+[WhiteElo "1384"]
+[BlackElo "1405"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+13"]
+[ECO "C77"]
+[Opening "Ruy Lopez: Morphy Defense, Anderssen Variation"]
+[TimeControl "300+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Be7 7. a4 b4 8. c3 bxc3 9. bxc3 O-O 10. O-O d5 11. exd5 Nxd5 12. Re1 Nf6 13. Nxe5 Nxe5 14. Rxe5 Bd6 15. Re1 Re8 16. Rxe8+ Qxe8 17. Be3 Qe5 18. g3 Nd5 19. Qf3 Bf5 20. Bxd5 c6 21. Bxc6 Rc8 22. d4 Qf6 23. Be4 Bxe4 24. Qxe4 h5 25. Qb7 Rd8 26. Qxa6 Qg6 27. Nd2 h4 28. Nf3 h3 29. Qc6 Qf6 30. Ng5 Bxg3 31. fxg3 Qxc6 32. Nxh3 Qxc3 33. Rc1 Qxe3+ 34. Nf2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/GvXbmwfP"]
+[White "sa2016"]
+[Black "saidtugcu"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:45"]
+[WhiteElo "1292"]
+[BlackElo "1304"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "420+7"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 b6 3. d4 Bb7 4. d5 exd5 5. Bg5 Nf6 6. Ne5 dxe4 7. Bc4 d5 8. Bxd5 Bxd5 9. Bxf6 gxf6 10. Ng4 f5 11. Nf6+ Ke7 12. Nxd5+ Ke8 13. c4 Qg5 14. Nxc7+ Ke7 15. Nxa8 Qxg2 16. Rf1 e3 17. fxe3 Qxa8 18. Nc3 Qg2 19. Nd5+ Ke8 20. Nf6+ Ke7 21. Nd5+ Ke8 22. Rxf5 Qxh2 23. Nc7+ Ke7 24. Re5+ Qxe5 25. Nd5+ Ke6 26. Nf4+ Ke7 27. Qg4 Qxe3+ 28. Ne2 Ke8 29. Qc8+ Ke7 30. Qxb8 Kf6 31. Qxa7 Bb4+ 32. Kd1 Qd2# 0-1
+

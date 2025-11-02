@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/jMxFgOAz"]
+[White "adel31"]
+[Black "cascade92"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:31"]
+[WhiteElo "989"]
+[BlackElo "1002"]
+[WhiteRatingDiff "-32"]
+[BlackRatingDiff "+10"]
+[ECO "E00"]
+[Opening "Amar Opening"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. Nh3 e5 2. f4 Qh4+ 3. g3 Qg4 4. Nc3 d6 5. e3 Qf5 6. Bb5+ c6 7. Na4 exf4 8. Bd3 Qxh3 9. Bf1 Qf5 10. b3 Na6 11. Bb2 Nb4 12. c3 Nd3+ 13. Bxd3 Qxd3 14. gxf4 Bg4 15. Qxg4 Qc2 16. f5 Nf6 17. Qd4 Ne4 18. Qxd6 Nxd6 0-1
+

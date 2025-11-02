@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/sbaObcyB"]
+[White "fede120"]
+[Black "lerajam"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:02"]
+[WhiteElo "1267"]
+[BlackElo "1047"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+46"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Scandinavian Variation, Advance Variation"]
+[TimeControl "1200+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 Nc6 3. d4 e6 4. Bb5 Bb4+ 5. c3 Ba5 6. Bxc6+ bxc6 7. b4 Bb6 8. a4 Ba6 9. a5 Bxd4 10. cxd4 Qb8 11. Qc2 Qxb4+ 12. Bd2 Qxd4 13. Qxc6+ Kd8 14. Qxa8+ Kd7 15. Nf3 Qxa1 16. Qb8 Ne7 17. Qb3 Nf5 18. Bc3 Bc4 19. Qb4 Qa2 20. Nfd2 Bd3 21. f4 Rb8 22. Qxb8 Ne3 23. Kf2 d4 24. Bxd4 Bxb1 25. Rxb1 Qxd2+ 26. Kg1 Qxg2# 0-1
+

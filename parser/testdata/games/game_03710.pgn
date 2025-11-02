@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FJ6TeL5Y"]
+[White "Fuchia00"]
+[Black "Rambodrill"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:11"]
+[WhiteElo "1687"]
+[BlackElo "1112"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 c6 3. Nc3 Qa5 4. e4 d5 5. cxd5 cxd5 6. e5 Nc6 7. Nf3 Nge7 8. Bd3 b5 9. Bxb5 Bd7 10. Be2 Nf5 11. O-O Qb4 12. a3 Qc4 13. Bxc4 dxc4 14. d5 exd5 15. Nxd5 f6 16. exf6 gxf6 17. Nc7+ Kd8 18. Nxa8 Bc5 19. Be3 Nxe3 20. fxe3 Bxe3+ 21. Kh1 Re8 22. Qd6 Bd4 23. Nxd4 Nxd4 24. Qxd4 Re6 25. Rad1 f5 26. Qxd7# 1-0
+

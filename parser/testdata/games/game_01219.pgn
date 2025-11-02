@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4M0KlNi0"]
+[White "spero5"]
+[Black "Denisdeno"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:35"]
+[WhiteElo "1912"]
+[BlackElo "1905"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 f5 2. exf5 Nf6 3. Nf3 d6 4. Bc4 d5 5. Bb3 Bxf5 6. O-O Bc8 7. d4 e6 8. Ne5 Bd6 9. f4 O-O 10. Nc3 c5 11. dxc5 Bxc5+ 12. Kh1 Nbd7 13. Bd2 Nxe5 14. fxe5 Nd7 15. Rxf8+ Qxf8 16. Qe2 Qe7 17. Rf1 b6 18. Nb5 Bb7 19. c3 a6 20. Nd4 Rf8 21. Rxf8+ Nxf8 22. h3 Ng6 23. Bc2 Nh4 24. Qh5 g6 25. Qg5 Qxg5 26. Bxg5 Nf5 27. Nxe6 Kf7 28. Nxc5 bxc5 29. g4 d4+ 30. Kg1 Ng3 31. Kf2 Ne4+ 32. Bxe4 Bxe4 33. cxd4 cxd4 34. Bf6 Ke6 35. a3 d3 36. Ke3 Kd5 37. h4 Kc4 38. e6 Bc6 39. Kd2 a5 40. e7 Be8 41. g5 a4 42. Bc3 Bd7 43. Bb4 Be8 44. Bd6 Kd4 45. Bb4 Ke4 46. Bc3 Bd7 47. Bf6 Bc6 48. Bg7 Bb5 49. Kc3 Kf4 50. Bf6 Kg4 51. Bg7 Kxh4 52. Bh6 Kg4 53. Kd2 Kf4 54. Kc3 Bc6 55. Kd2 Be8 56. Kxd3 Bd7 57. Kd4 Kf3 58. Kc5 Kg4 59. Kd6 Be8 60. Kc7 Kf3 61. Kd8 Bb5 62. e8=Q Bxe8 63. Kxe8 Ke3 64. Kf8 Kd3 65. Kg7 Kc2 66. Kxh7 Kxb2 67. Kxg6 Kxa3 68. Kh5 Kb3 69. g6 a3 70. g7 a2 71. g8=Q+ 1-0
+

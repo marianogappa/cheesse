@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Iize1cQp"]
+[White "smiks"]
+[Black "akbk"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:52"]
+[WhiteElo "1573"]
+[BlackElo "1511"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense #2"]
+[TimeControl "300+4"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.23] } 1... e5 { [%eval 0.16] } 2. Nf3 { [%eval 0.31] } 2... Nc6 { [%eval 0.29] } 3. Bb5 { [%eval 0.35] } 3... Nf6 { [%eval 0.27] } 4. Bxc6 { [%eval 0.15] } 4... dxc6 { [%eval 0.22] } 5. d3 { [%eval 0.12] } 5... Bd6 { [%eval 0.2] } 6. Bg5 { [%eval -0.08] } 6... O-O { [%eval 0.15] } 7. O-O { [%eval 0.17] } 7... h6 { [%eval 0.15] } 8. Bh4 { [%eval 0.13] } 8... Bg4 { [%eval 0.23] } 9. h3 { [%eval 0.18] } 9... g5? { [%eval 1.37] } 1-0
+

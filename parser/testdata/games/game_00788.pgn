@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RsVaz3YF"]
+[White "exxood"]
+[Black "Kitan"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:53"]
+[WhiteElo "1368"]
+[BlackElo "1366"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-32"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Berlin Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d5 5. exd5 Nxd5 6. Qe2 Bd6 7. d4 f6 8. dxe5 Bxe5 9. b3 O-O 10. c3 Kh8 11. Bb2 Re8 12. Bxd5 Bxc3+ 13. Bxc3 Rxe2+ 14. Kxe2 Qxd5 15. Rd1 Qb5+ 16. Ke1 Nd7 17. Na3 Qb6 18. Nc4 Qc5 19. Bd4 Qb4+ 20. Kf1 b5 21. a3 Qe7 22. Re1 Qf7 23. Nd6 Qg6 24. Re8+ Qxe8 25. Nxe8 Nb6 26. Rd1 Be6 27. Nc7 Bxb3 28. Rd3 Bc4 29. Nxa8 Bxd3+ 30. Ke1 Nxa8 31. Kd2 Bf5 32. Bxa7 Nc7 33. Bb8 Na6 34. Ba7 c5 35. Kc3 Kg8 36. Kb3 Kf7 37. a4 b4 38. Kc4 Be6+ 39. Kb5 Nc7+ 40. Kxc5 Na6+ 41. Kb5 Nc7+ 42. Kxb4 Nd5+ 43. Kc5 Nc3 44. Nd4 Nxa4+ 45. Kd6 Nc3 46. Nxe6 Ne4+ 47. Kd5 Nc3+ 48. Kd6 Ne4+ 49. Kd7 Ng5 50. Nxg5+ fxg5 51. g3 Kf6 52. f4 h5 53. Bd4+ Kf5 54. Bxg7 gxf4 55. gxf4 Kxf4 56. Kd6 h4 57. Be5+ Kg4 58. Kd5 h3 59. Kd4 Kf3 60. Kd3 Kg2 61. Ke3 1-0
+

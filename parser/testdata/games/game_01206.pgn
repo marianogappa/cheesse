@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/e8XDV5WF"]
+[White "thepone"]
+[Black "brunoanono"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:27"]
+[WhiteElo "1246"]
+[BlackElo "1164"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "D08"]
+[Opening "Queen's Gambit Refused: Albin Countergambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e5 3. dxe5 dxc4 4. Qxd8+ Kxd8 5. a3 Bf5 6. Nc3 Nc6 7. Bg5+ f6 8. exf6 Nxf6 9. O-O-O+ Ke7 10. Nd5+ Ke6 11. Nxc7+ Ke5 12. Nxa8 Bc5 13. Nf3+ Ke4 14. e3 b5 15. Nc7 Na5 16. Nd2+ Ke5 17. Bxf6+ gxf6 18. Nf3+ Ke4 19. Nxb5 Nb3+ 20. Kb1 Bxe3 21. fxe3 Kxe3+ 22. Ka2 Re8 23. Nd6 Re6 24. Nxf5+ Kf2 25. N5d4 Nxd4 26. Nxd4 Re3 27. g4 c3 28. h4 cxb2 29. Kxb2 Rg3 30. Rd2+ Ke1 31. Rg2 Rf3 32. Bb5+ Rf1 33. Rxf1# 1-0
+

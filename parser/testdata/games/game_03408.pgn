@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ZoMxZtgA"]
+[White "KelvinCarlton"]
+[Black "Prasonio"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:58"]
+[WhiteElo "1707"]
+[BlackElo "1783"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-14"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Slav Formation"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. g3 c6 2. Bg2 d5 3. Nf3 Nf6 4. O-O Nbd7 5. d3 e5 6. e4 Bd6 7. exd5 cxd5 8. Nc3 O-O 9. d4 e4 10. Nd2 Re8 11. f3 exf3 12. Nxf3 Nb6 13. Bg5 Be7 14. Ne5 h6 15. Bxf6 Bxf6 16. Re1 Bd7 17. Nxd7 Qxd7 18. Rxe8+ Rxe8 19. Qd2 Nc4 20. Qd3 Nxb2 21. Qd2 Nc4 22. Qf2 Nb6 23. Re1 Rxe1+ 24. Qxe1 Bxd4+ 25. Kf1 Bxc3 26. Qxc3 Nc4 27. Qd2 Qf5+ 28. Qf2 Qxf2+ 29. Kxf2 Kf8 30. Bxd5 Ke7 31. Bxb7 Kd6 32. Bf3 Nd2 33. Kg2 Nxf3 34. Kxf3 Kc5 35. Ke3 Kc4 36. Ke4 Kb4 37. Kd5 Ka3 38. Kc6 Kxa2 39. Kd7 Kb2 40. Ke7 Kxc2 41. Kxf7 a5 42. Kxg7 a4 43. Kxh6 a3 44. g4 a2 45. g5 a1=N 46. g6 Nb3 47. g7 Nd4 48. g8=Q Ne6 49. Kh7 1-0
+

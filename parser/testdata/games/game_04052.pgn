@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/X5BzdurE"]
+[White "medoshvili"]
+[Black "pallino"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:26"]
+[WhiteElo "1736"]
+[BlackElo "1641"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Soller Gambit"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 e5 2. dxe5 f6 3. exf6 Nxf6 4. Nc3 Bc5 5. Nf3 O-O 6. Bg5 c6 7. e3 d5 8. Bd3 h6 9. Bh4 Bd6 10. O-O Nbd7 11. e4 Qc7 12. exd5 Nxd5 13. Nxd5 Bxh2+ 14. Nxh2 cxd5 15. Rc1 Ne5 16. Bg3 Qe7 17. Re1 Qf7 18. Rxe5 Bd7 19. Qe2 Rae8 20. Re1 Rc8 21. c3 Bc6 22. Rf5 Qf6 23. Rxf6 Rxf6 24. Be5 Rcf8 25. Bxf6 Rxf6 26. b4 Rf8 27. b5 Bd7 28. Qe5 Bc8 29. Qxd5+ Kh8 30. Re7 Rg8 31. Qe4 g6 32. Ng4 Rg7 33. Re8+ Kh7 34. Qe5 1-0
+

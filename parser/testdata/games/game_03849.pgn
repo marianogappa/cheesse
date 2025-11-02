@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GNc2sTRe"]
+[White "kitamworth"]
+[Black "ercanais"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:41"]
+[WhiteElo "1544"]
+[BlackElo "1454"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C00"]
+[Opening "Rat Defense: Small Center Defense"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d6 3. Nf3 a6 4. Bd3 b6 5. O-O h6 6. e5 d5 7. c4 c6 8. cxd5 cxd5 9. b3 Nd7 10. Re1 g5 11. Nbd2 g4 12. Ng5 Qxg5 13. Nc4 Qd8 14. Nd6+ Bxd6 15. exd6 h5 16. Bf4 Ndf6 17. Qd2 Ne4 18. Bxe4 dxe4 19. Rxe4 Bb7 20. Bg5 Nf6 21. Ree1 Rc8 22. d7+ Kxd7 23. Rac1 Bc6 24. d5 exd5 25. Qf4 h4 26. Bxf6 Re8 27. Bxd8 Rcxd8 28. Qf5+ Kc7 29. Rxe8 Rxe8 30. Qxf7+ Kd8 31. Qf6+ Re7 32. Qxc6 Rc7 33. Qxc7+ Ke8 34. Re1+ Kf8 35. Re7 Kg8 36. Rh7 Kf8 37. Qf7# 1-0
+

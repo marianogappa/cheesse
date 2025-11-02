@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/1VPckvVc"]
+[White "mta1602"]
+[Black "sikici31"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:03"]
+[WhiteElo "1465"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-193"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nf3 Nf6 4. d3 a6 5. h3 b5 6. Bd5 Nxd5 7. exd5 Nd4 8. Nxd4 exd4 9. O-O Bb7 10. Qh5 c6 11. Qe5+ Qe7 12. Qc7 Bc8 13. d6 Qxd6 14. Re1+ Qe7 15. Rxe7+ Bxe7 16. Bf4 1-0
+

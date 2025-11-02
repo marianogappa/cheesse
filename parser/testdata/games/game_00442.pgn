@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/bz0v8673"]
+[White "Nkko"]
+[Black "x1920"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:31"]
+[WhiteElo "1950"]
+[BlackElo "1617"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+[ECO "A40"]
+[Opening "Englund Gambit"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. d4 e5 2. Bf4 d6 3. Bxe5 dxe5 4. dxe5 Qxd1+ 5. Kxd1 Nc6 6. Nc3 Nxe5 7. e3 Nd7 8. Nf3 Ngf6 9. Bd3 Bb4 10. Ke2 Bxc3 11. bxc3 O-O 12. Rad1 Re8 13. Bc4 Ne5 14. Nxe5 Rxe5 15. h4 Bg4+ 16. f3 Be6 17. Bd3 Rd5 18. h5 Rad8 19. h6 g6 20. g4 Kf8 21. g5 Ng8 22. c4 R5d7 23. a3 c5 24. a4 a6 25. f4 Bf5 26. Rhg1 Ke7 27. e4 Be6 28. f5 gxf5 29. exf5 Bxf5 30. Bxf5 Rxd1 31. Rxd1 Rxd1 32. Kxd1 f6 33. Bxh7 fxg5 34. Bxg8 Kf6 35. h7 1-0
+

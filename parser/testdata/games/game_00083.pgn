@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/7QtbsF7s"]
+[White "musemi"]
+[Black "bluesfer"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:05"]
+[WhiteElo "1676"]
+[BlackElo "1622"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 h6 4. O-O Bg4 5. h3 Bd7 6. d4 exd4 7. Nxd4 Nc6 8. b3 Be7 9. Bb2 Ne5 10. Nf5 Nf6 11. Nxg7+ Kf8 12. Nf5 Nxe4 13. Nxe7 Qxe7 14. Re1 Nxf2 15. Kxf2 Qh4+ 16. Kg1 Rg8 17. Rf1 Bxh3 18. Rxf7+ Nxf7 19. Qf3 Rxg2+ 20. Qxg2 Bxg2 21. Kxg2 Re8 22. Nc3 Qg4+ 23. Kh1 Qf3+ 24. Kg1 Re5 25. Ne2 Rg5+ 26. Kh2 Qg2# 0-1
+

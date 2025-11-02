@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/iAJyqxD4"]
+[White "ArmKav"]
+[Black "xmark"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:55"]
+[WhiteElo "1483"]
+[BlackElo "1449"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "C42"]
+[Opening "Russian Game: Damiano Variation"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qf3 Nf6 5. Qe3 Be7 6. Nc3 d6 7. Nf3 Ng4 8. Qe4 Nc6 9. Nd5 f5 10. Qe2 O-O 11. Qc4 Be6 12. Nxe7+ Qxe7 13. Qc3 Bxa2+ 14. Be2 Rfe8 15. Ng1 Bd5 16. f3 Nge5 17. d4 Nc4 18. b3 Nb6 19. Nh3 h6 20. Qd3 Nxd4 21. Ng1 Nxe2 22. Nxe2 Bc6 23. c4 d5 24. Ba3 Qe6 25. c5 Nd7 26. Kf1 Ne5 27. Qc2 Bb5 28. f4 Bxe2+ 29. Qxe2 Ng4 30. Qxe6+ Rxe6 31. Re1 Rxe1+ 32. Kxe1 Re8+ 0-1
+

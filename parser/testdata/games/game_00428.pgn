@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wyL7G1um"]
+[White "Ciotadingue"]
+[Black "Edgarsfelix"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:29"]
+[WhiteElo "1537"]
+[BlackElo "1515"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+11"]
+[ECO "A09"]
+[Opening "Reti Opening"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. Nf3 d5 2. c4 c6 3. cxd5 cxd5 4. d4 a6 5. Bf4 Nc6 6. Nbd2 e6 7. e3 Bb4 8. a3 Bxd2+ 9. Qxd2 Nf6 10. Bd3 O-O 11. O-O Ne7 12. Rac1 Nf5 13. Qc2 Ne4 14. Bxe4 dxe4 15. Qxe4 Nd6 16. Bxd6 Qxd6 17. Rc2 Re8 18. Rfc1 Bd7 19. Qxb7 Rab8 20. Qc7 Qxc7 21. Rxc7 Rec8 22. Rxc8+ Bxc8 23. b4 Bd7 24. Rc7 Bb5 25. Ne5 h6 26. Rxf7 Rc8 27. g4 Rc3 28. Re7 Rxa3 29. Rxe6 Ra4 30. Nc6 Ra1+ 31. Kg2 Bxc6+ 32. Rxc6 Rb1 33. Rxa6 Rxb4 34. d5 Rb7 35. d6 Rd7 36. e4 g5 37. e5 Rd8 38. e6 Kf8 39. e7+ Ke8 0-1
+

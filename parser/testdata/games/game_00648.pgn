@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8YXlLGiv"]
+[White "Linh45"]
+[Black "Itwasme"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:22"]
+[WhiteElo "1420"]
+[BlackElo "1491"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation #3"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. e4 d5 3. e5 Nc6 4. Nf3 g6 5. Bb5 Ne7 6. O-O Bg7 7. Bg5 h6 8. Bxc6+ bxc6 9. Bf6 Bxf6 10. exf6 Nf5 11. g4 Nd6 12. Qd2 Qxf6 13. Ne5 Ne4 14. Qb4 c5 15. Qb5+ Bd7 16. Nxd7 Qxd4 17. Nf6+ Kf8 18. Nd7+ Kg7 19. Na3 Rhd8 20. c3 Qd2 21. Rad1 Qg5 22. f3 Nd6 23. Qa4 Qe3+ 24. Kg2 Qe2+ 25. Kg3 Qe5+ 26. f4 Qe3+ 27. Rf3 Ne4+ 28. Kg2 Qe2+ 29. Kh3 Qxf3+ 30. Kh4 Qxd1 31. f5 gxf5 32. Qxd1 fxg4 33. Qxg4+ Ng5 0-1
+

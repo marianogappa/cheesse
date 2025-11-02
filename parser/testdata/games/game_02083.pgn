@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/6tv2oVdH"]
+[White "putman"]
+[Black "wochirw"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:48"]
+[WhiteElo "1548"]
+[BlackElo "1315"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-7"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer Gambit: Netherlands Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.09] } 1... d5 { [%eval 0.16] } 2. e4?! { [%eval -0.4] } 2... dxe4 { [%eval -0.47] } 3. Nc3 { [%eval -0.41] } 3... f5 { [%eval 0.06] } 4. d5?! { [%eval -0.71] } 4... e6 { [%eval -0.39] } 5. Bf4 { [%eval -0.31] } 5... Bd6?! { [%eval 0.23] } 6. dxe6?? { [%eval -3.24] } 6... Bxe6? { [%eval -0.47] } 7. Nge2 { [%eval -0.79] } 7... a6?! { [%eval 0.0] } 8. Nd4 { [%eval -0.38] } 8... h6?? { [%eval 7.33] } 9. Nxe6 { [%eval 7.26] } 9... Qe7 { [%eval 7.27] } 10. Nd4? { [%eval 4.64] } 10... Bxf4 { [%eval 4.64] } 11. Nd5 { [%eval 4.65] } 11... Qd6 { [%eval 4.68] } 12. Nxf4 { [%eval 4.48] } 12... Qxf4? { [%eval 5.83] } 13. Be2?? { [%eval 0.21] } 13... Nc6 { [%eval 0.52] } 14. Bh5+?! { [%eval -0.11] } 14... g6? { [%eval 1.73] } 15. Bxg6+ { [%eval 1.58] } 15... Kf8?? { [%eval 18.62] } 16. Ne6+ { [%eval 18.41] } 16... Ke7 { [%eval 18.2] } 17. Nxf4 { [%eval 17.74] } 17... Nf6 { [%eval 18.39] } 18. O-O { [%eval 16.08] } 18... Rhg8 { [%eval 17.37] } 19. Bxf5 { [%eval 16.04] } 19... Rg5 { [%eval 17.65] } 20. Bh3 { [%eval 15.33] } 20... Nd7 { [%eval 27.66] } 21. Nd5+ { [%eval 21.54] } 21... Kd6 { [%eval 30.49] } 22. Ne3+ { [%eval 21.55] } 22... Ke5?! { [%eval #7] } 23. Qxd7 { [%eval #8] } 23... Nd4 { [%eval #5] } 24. Qxc7+?! { [%eval 33.1] } 24... Kf6 { [%eval 32.36] } 25. Qxb7 { [%eval 26.91] } 25... Rag8?! { [%eval #24] } 26. Qb6+ { [%eval 36.44] } 26... Ke7?! { [%eval #10] } 27. Qxd4 { [%eval #5] } 27... R8g6 { [%eval #6] } 28. Qxe4+ { [%eval #7] } 28... Kf7 { [%eval #6] } 29. Qf4+ { [%eval #10] } 29... Kg7 { [%eval #7] } 30. Qc7+ { [%eval #8] } 30... Kf6 { [%eval #6] } 31. Nd5+ { [%eval #7] } 1-0
+

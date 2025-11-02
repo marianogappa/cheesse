@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/eHKupc1p"]
+[White "Smyrterina"]
+[Black "McNerdy"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:40"]
+[WhiteElo "1151"]
+[BlackElo "1095"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+14"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. d3 e5 3. Be3 Nf6 4. Nc3 Bb4 5. Nf3 O-O 6. d4 exd4 7. Bxd4 Nxd4 8. Nxd4 b6 9. a3 Bxc3+ 10. bxc3 Nxe4 11. Qd3 d5 12. Be2 Bf5 13. O-O Ng3 14. hxg3 Bxd3 15. Bxd3 Qg5 16. f4 Qg4 17. Nc6 a5 18. f5 Rae8 19. Rae1 Rxe1 20. Rxe1 h6 21. Ne7+ Kh8 22. f6 gxf6 23. Ng6+ Kg7 24. Nf4 Qd7 25. Nh5+ Kg8 26. Rf1 Re8 27. Rxf6 Re6 28. Rxe6 Qxe6 29. Bh7+ Kxh7 30. Nf4 Qe1+ 31. Kh2 Qxc3 32. Nxd5 Qxc2 33. Ne7 Qe4 34. Nc8 b5 35. Na7 b4 36. Nb5 bxa3 37. Nxa3 Qb4 38. Nc2 Qb3 39. Nd4 Qc3 40. Nf5 Qe5 41. Nh4 Qb2 42. Nf5 a4 43. Nd4 a3 44. Ne2 Qxe2 45. Kh3 a2 46. Kh4 a1=Q 47. g4 Qe4 48. Kh5 Qee5+ 49. g5 Qxg5# 0-1
+

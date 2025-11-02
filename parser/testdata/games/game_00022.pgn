@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/efNVjs3Q"]
+[White "Ricardo-Lopes"]
+[Black "JoakimBy"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "1776"]
+[BlackElo "1776"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C40"]
+[Opening "Latvian Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nf6 4. exf5 d5 5. d4 c5 6. Bb5+ Bd7 7. Nxd7 Nbxd7 8. O-O Be7 9. dxc5 O-O 10. c6 bxc6 11. Bxc6 Rc8 12. Bxd5+ Kh8 13. Be6 Bc5 14. Be3 Bxe3 15. fxe3 Rc7 16. Nc3 Qe7 17. Nd5 Nxd5 18. Qxd5 Nf6 19. Qb3 Ne4 20. Rad1 Nc5 21. Qa3 Qh4 22. Rd4 Qf6 23. Rdf4 Re7 1-0
+

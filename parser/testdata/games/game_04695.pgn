@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/v2Kzoi9M"]
+[White "nazarokoko"]
+[Black "valkyreking1"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:04"]
+[WhiteElo "1431"]
+[BlackElo "1518"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-16"]
+[ECO "B94"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nc6 7. Bxf6 exf6 8. Be2 Be7 9. O-O O-O 10. Bg4 Bxg4 11. Nxc6 bxc6 12. Qxg4 Rb8 13. Rab1 Qc8 14. Qxc8 Rfxc8 15. Ne2 d5 16. exd5 cxd5 17. Rfd1 Rd8 18. Ng3 a5 19. Nf5 Bc5 20. b3 g6 21. Ng3 Bb4 22. Kf1 d4 23. Ne2 Bc3 24. Rd3 Rdc8 25. Rbd1 Rb4 26. a3 Rb5 27. Nxc3 dxc3 28. a4 Re5 29. Re1 Rxe1+ 30. Kxe1 Kg7 31. Ke2 f5 32. Rd4 Kf6 33. Kd3 Ke5 34. Rc4 Rd8+ 35. Ke2 f4 36. Rxc3 Rd4 37. Rc5+ Ke4 38. Rc4 Rxc4 39. bxc4 Kd4 40. Kf3 Kxc4 41. Kxf4 Kb4 42. Ke4 Kxa4 43. Kd3 Kb4 44. c3+ Kb3 45. c4 a4 46. c5 a3 47. c6 a2 48. c7 a1=Q 49. c8=Q Qf1+ 50. Ke3 Qe1+ 51. Kf3 Qd1+ 52. Ke3 Qe1+ 53. Kf3 Qc3+ 54. Ke2 Qe5+ 55. Kf3 Qc3+ 56. Qxc3+ Kxc3 57. Ke4 Kd2 58. f4 Ke2 59. g4 Kf2 60. h4 Kg3 61. f5 Kxh4 62. fxg6 hxg6 63. Kf4 g5+ 64. Kf3 f6 65. Kg2 f5 66. gxf5 Kh5 67. Kg3 Kh6 68. Kg4 Kg7 69. Kxg5 Kf7 70. f6 Kf8 71. Kg6 Ke8 72. Kg7 Kd8 73. f7 1-0
+

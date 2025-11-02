@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zrMxY8C2"]
+[White "fernechess"]
+[Black "AnuoraK"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:05"]
+[WhiteElo "1332"]
+[BlackElo "1421"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. h3 Nf6 4. Nc3 c6 5. d4 Qc7 6. dxe5 dxe5 7. Bg5 Nbd7 8. Bc4 Bb4 9. O-O O-O 10. a3 Be7 11. Nh4 b5 12. Bd3 a6 13. Nf5 Bd8 14. Bxf6 Bxf6 15. Ne2 Nc5 16. Neg3 Bxf5 17. Nxf5 Nxd3 18. Qxd3 Rad8 19. Qg3 a5 20. Rad1 Rc8 21. Qc3 Rb8 22. Rd6 Rb6 23. b4 a4 24. Qg3 Rd8 25. Nh6+ Kf8 26. Rxd8+ Qxd8 27. Nf5 Qd2 28. Qd3 Qh6 29. Nxh6 gxh6 30. Qd8+ Bxd8 0-1
+

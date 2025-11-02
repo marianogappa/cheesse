@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/pbdr123b"]
+[White "Selosatar"]
+[Black "alex1028"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:02"]
+[WhiteElo "1746"]
+[BlackElo "1666"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+13"]
+[ECO "A40"]
+[Opening "Modern Defense"]
+[TimeControl "300+5"]
+[Termination "Time forfeit"]
+
+1. d4 g6 2. e3 Bg7 3. c4 b6 4. b4 Bb7 5. Bb2 c5 6. bxc5 bxc5 7. Nf3 cxd4 8. Nxd4 e5 9. Nb5 Ne7 10. Nd6+ Kf8 11. Nxb7 Qb6 12. Qb3 Qxb3 13. axb3 Nbc6 14. Nc5 d6 15. Ne4 Nb4 16. Na3 Nec6 17. Be2 Na5 18. Nd2 e4 19. O-O Bxb2 20. Nxe4 Bxa1 21. Rxa1 Kg7 22. Nxd6 Nac6 23. Bf3 Rad8 24. Ndb5 Rd2 25. Kf1 Ne5 26. Be4 a6 27. Ke1 Rhd8 28. Nd4 Ra2 29. Rxa2 Nxa2 30. Bb7 a5 31. c5 Nb4 32. c6 Nbxc6 33. Bxc6 Nxc6 34. Nxc6 Ra8 35. Nb5 a4 36. bxa4 Rxa4 37. Ke2 Kf6 38. Kd3 Ra2 39. Nc3 Ra1 40. h4 Kg7 41. g3 Rf1 42. f4 Rf3 43. Ne4 f5 44. Ng5 Rxg3 45. Ne6+ Kf6 46. Ned8 Rg1 47. Ke2 Rh1 48. Kf3 Rxh4 49. e4 fxe4+ 50. Kxe4 g5 51. Kf3 Rxf4+ 52. Kg3 Ra4 53. Nb7 h5 54. Nc5 Ra3+ 55. Kf2 h4 56. Ne4+ Kf5 57. Nd2 g4 58. Nd4+ Kg5 59. Kg2 Ra2 60. Nb3 Rb2 61. Kh2 Kf4 62. Kg2 Ke3 63. Kf1 Rxd2 64. Nxd2 Kxd2 65. Kf2 g3+ 66. Kg2 Ke3 67. Kh3 Kf2 68. Kxh4 g2 0-1
+

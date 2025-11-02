@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fF4RTgnS"]
+[White "chess3424"]
+[Black "kingshu"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:30"]
+[WhiteElo "1351"]
+[BlackElo "1318"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 g6 3. Qf3 Nf6 4. d3 a6 5. Bg5 Be7 6. Nc3 b5 7. Bb3 c5 8. Nge2 O-O 9. Nd5 Nxd5 10. Bxd5 Nc6 11. Bh6 Re8 12. Qxf7+ Kh8 13. Qg7# 1-0
+

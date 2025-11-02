@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WnY8RAfv"]
+[White "ercanais"]
+[Black "kitamworth"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:06"]
+[WhiteElo "1439"]
+[BlackElo "1561"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-17"]
+[ECO "A00"]
+[Opening "Mieses Opening: Reversed Rat"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. d3 e5 2. e3 d5 3. a3 Nf6 4. h3 Nc6 5. g3 Bd6 6. Bg2 Be6 7. b3 Qd7 8. Bb2 O-O 9. Nd2 Rad8 10. Nf1 Rfe8 11. Qd2 a5 12. g4 e4 13. Bxf6 gxf6 14. d4 Ne7 15. Ne2 Ng6 16. Nf4 Bxf4 17. exf4 Nh4 18. Rg1 Qb5 19. f5 Bd7 20. Qe3 Nf3+ 21. Kd1 Nxg1 22. Qh6 Ne2 23. Ne3 Nc3+ 24. Kc1 Qe2 25. Kb2 Na4+ 26. bxa4 Bxa4 27. Qxf6 Rd6 28. Qg5+ Kh8 29. f6 Rb6+ 30. Kc1 Qe1+ 31. Nd1 Rc6 32. Qg7# 1-0
+

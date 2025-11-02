@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/lyFuVgO8"]
+[White "JuanAntonio"]
+[Black "luarrg"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:29"]
+[WhiteElo "1600"]
+[BlackElo "1648"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C42"]
+[Opening "Russian Game: Three Knights Game"]
+[TimeControl "10800+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 d6 4. d4 exd4 5. Nxd4 h6 6. Nf5 Bxf5 7. exf5 Be7 8. Be3 O-O 9. Bc4 Qd7 10. Nd5 Qxf5 11. Nxe7+ Kh8 12. Nxf5 Re8 13. Bxf7 Re5 14. O-O Rxf5 15. Bg6 Re5 16. Bd4 Rd5 17. c4 Rg5 18. Bxf6 gxf6 19. Bd3 Nc6 20. Re1 Rag8 21. Qf3 Ne5 22. Qxf6+ R5g7 23. g3 Nxd3 24. Red1 Nxb2 25. Qxb2 Kh7 26. Qxb7 Rf8 27. Qe4+ Kg8 28. Rab1 Rgf7 29. Rd2 a5 30. Qh4 Kh7 31. Rb5 c5 32. Qe4+ Kg7 33. Rxa5 h5 34. Ra6 d5 35. Qxd5 Rf5 36. Ra7+ Kg6 37. Qe6+ Kg5 38. h4+ Kg4 39. Rg7+ Kh3 40. Qe4 Rxf2 41. Rxf2 Rxf2 42. Qh1+ Rh2 43. Qxh2# 1-0
+

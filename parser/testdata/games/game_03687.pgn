@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/UssF4fEl"]
+[White "pallino"]
+[Black "ASONINYA"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:59"]
+[WhiteElo "1638"]
+[BlackElo "1298"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Queen's Knight Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 d5 3. Nc3 dxc4 4. e4 Bb4 5. Bxc4 Bxc3+ 6. bxc3 Nc6 7. Ne2 Nf6 8. Bd3 e5 9. O-O exd4 10. cxd4 Nxd4 11. Nxd4 Qxd4 12. Bb5+ c6 13. Qxd4 Be6 14. Bd3 Rd8 15. Qe3 Rxd3 16. Qxd3 Nxe4 17. Qxe4 f5 18. Qxe6+ Kf8 19. Ba3+ c5 20. Bxc5# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oVH3cl5P"]
+[White "abracadrabra"]
+[Black "benben10"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:19"]
+[WhiteElo "1787"]
+[BlackElo "1590"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "A46"]
+[Opening "Indian Game: Spielmann-Indian"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 c5 3. Bf4 cxd4 4. Qxd4 Nc6 5. Qd1 d6 6. c3 g6 7. h3 Bg7 8. e3 b6 9. Be2 Bb7 10. Nbd2 Qd7 11. O-O O-O 12. Rb1 Rad8 13. Qc2 Nh5 14. Bh2 e5 15. e4 f5 16. exf5 Rxf5 17. g4 Rff8 18. gxh5 Qxh3 19. Kh1 e4 20. Nd4 Be5 21. f4 Rxf4 22. N2f3 exf3 23. Nxf3 Rxf3 24. Bxf3 Kg7 25. Qg2 Qxg2+ 26. Kxg2 gxh5 27. Bxe5+ dxe5 28. Bxc6 Bxc6+ 29. Kg3 Kg6 30. Rfd1 Rxd1 31. Rxd1 Kf5 32. Rd6 Be8 33. Rd8 Bg6 34. Rd7 Ke6 35. Rxa7 e4 36. Ra6 e3 37. Rxb6+ Kd5 38. Kf3 Kc5 39. Re6 Kd5 40. Rxe3 h4 41. Kg4 1-0
+

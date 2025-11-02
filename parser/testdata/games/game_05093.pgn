@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/x98pasl5"]
+[White "cheaterssuc"]
+[Black "fastmove6"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:29"]
+[WhiteElo "1492"]
+[BlackElo "1526"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. Nf3 { [%eval 0.06] } 1... d5 { [%eval 0.23] } 2. d4 { [%eval 0.16] } 2... e6 { [%eval 0.11] } 3. Nc3 { [%eval -0.2] } 3... c6?! { [%eval 0.39] } 4. Bf4 { [%eval 0.03] } 4... Nd7 { [%eval 0.4] } 5. e4 { [%eval 0.39] } 5... dxe4 { [%eval 0.74] } 6. Nxe4 { [%eval 0.66] } 6... Ngf6 { [%eval 0.93] } 7. Bg5?! { [%eval 0.16] } 7... Be7 { [%eval 0.2] } 8. Nxf6+ { [%eval 0.09] } 8... Nxf6 { [%eval 0.12] } 9. Ne5 { [%eval -0.18] } 9... Nd7 { [%eval 0.22] } 10. Bxe7 { [%eval 0.12] } 10... Qxe7 { [%eval 0.17] } 11. Nxd7 { [%eval -0.12] } 11... Bxd7 { [%eval -0.18] } 12. Bd3?! { [%eval -0.93] } 12... O-O? { [%eval 0.13] } 13. Qh5 { [%eval 0.2] } 13... g6 { [%eval 0.34] } 14. Qh6? { [%eval -1.2] } 14... Qf6? { [%eval 0.43] } 15. O-O-O { [%eval 0.29] } 15... Qg7 { [%eval 0.56] } 16. Qf4 { [%eval 0.6] } 16... Rad8 { [%eval 0.62] } 17. Qc7?! { [%eval 0.12] } 17... Bc8 { [%eval 0.41] } 18. f4? { [%eval -0.84] } 18... Rd7 { [%eval -0.52] } 19. Qa5 { [%eval -0.99] } 19... a6? { [%eval 0.6] } 20. Qc5? { [%eval -0.84] } 20... Qf6? { [%eval 0.38] } 21. f5? { [%eval -1.57] } 21... exf5 { [%eval -1.48] } 22. g4?! { [%eval -2.39] } 22... fxg4 { [%eval -2.23] } 23. Rhf1? { [%eval -3.41] } 23... Qxd4 { [%eval -3.33] } 24. Qxd4 { [%eval -3.72] } 24... Rxd4 { [%eval -3.6] } 25. Bxg6?? { [%eval -7.68] } 25... Rxd1+ { [%eval -7.52] } 26. Rxd1 { [%eval -7.38] } 26... fxg6 { [%eval -7.12] } 27. Rd4? { [%eval -8.51] } 27... Kg7 { [%eval -7.9] } 28. Kd2? { [%eval -9.93] } 28... Rf7? { [%eval -7.22] } 29. c4? { [%eval -9.83] } 29... Be6? { [%eval -7.29] } 30. Rd6? { [%eval -9.08] } 30... Bf5? { [%eval -7.39] } 31. b4? { [%eval -9.41] } 31... h5 { [%eval -8.94] } 32. a4? { [%eval -10.06] } 32... Rd7 { [%eval -9.6] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3uV9P18s"]
+[White "Axelf33"]
+[Black "Marilina"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:46"]
+[WhiteElo "1626"]
+[BlackElo "1396"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[ECO "A00"]
+[Opening "Grob Opening"]
+[TimeControl "1200+0"]
+[Termination "Normal"]
+
+1. g4 d6 2. e3 e5 3. Bg2 d5 4. c4 Bxg4 5. Qxg4 Nf6 6. Qd1 e4 7. Qa4+ Nc6 8. cxd5 Qxd5 9. Nc3 Qf5 10. Nxe4 Ng4 11. Bh3 h5 12. Ne2 O-O-O 13. Rf1 Qf3 14. Bxg4+ hxg4 15. Ng5 Qf6 16. Qxg4+ Kb8 17. Nc3 Rxh2 18. b3 Nb4 19. Kd1 Nd3 20. Nge4 Ne5 21. Nxf6 gxf6 22. Qg3 Rh7 23. d4 Nd3 24. Nb5 Rd7 25. a4 Ka8 26. Nxc7+ Rxc7 27. Qxc7 Bb4 28. Qc8# 1-0
+

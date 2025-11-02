@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/W21Bbpt9"]
+[White "Blobbie"]
+[Black "Udud"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:14"]
+[WhiteElo "1835"]
+[BlackElo "1713"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "C55"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. O-O g5 5. h3 Bc5 6. c3 d6 7. d4 g4 8. hxg4 Bb6 9. Qb3 Bxg4 10. Bxf7+ Kf8 11. Bxg8 Rxg8 12. Bxh6+ Ke7 13. Bg5+ Rxg5 14. Nxg5 Qf8 15. Nd2 Qg7 16. Ndf3 Rf8 17. Rae1 Bxf3 18. Qe6+ Kd8 19. Qh3 Qxg5 20. Re3 Bg4 21. Rg3 Bxh3 22. Rxg5 Be6 23. d5 Bxd5 24. exd5 Ne7 25. c4 Bd4 26. b3 a5 27. Rh5 e4 28. Kh1 Ng6 29. Rh6 Nf4 30. f3 e3 31. Rh4 e2 32. Re1 Nd3 33. Rxe2 Bc5 34. Rhe4 Ne5 35. f4 Nd3 36. g3 Nf2+ 37. Kg2 Nxe4 38. Rxe4 c6 39. dxc6 bxc6 40. g4 d5 41. cxd5 cxd5 42. Re5 Kc7 43. Rxd5 Kc6 44. Rf5 Rxf5 45. gxf5 Kd6 46. Kg3 Ke7 47. Kg4 Kf6 48. Kf3 Kxf5 49. Kg3 Be3 50. a3 Bxf4+ 51. Kf3 Bd6 52. b4 a4 53. b5 Ke5 54. b6 Kd4 55. b7 Kc3 56. Ke3 Kb3 57. Kd3 Kxa3 58. Kc3 Ka2 59. Kc2 Be5 60. Kc1 Kb3 61. Kb1 a3 62. b8=Q+ Bxb8 63. Ka1 Be5+ 64. Kb1 a2+ 65. Kc1 a1=Q+ 66. Kd2 Qc3+ 67. Ke2 Bf4 68. Kf2 Qe3+ 69. Kg2 Qg3+ 70. Kf1 Qh2 71. Ke1 Kc3 72. Kf1 Kd3 73. Ke1 Qe2# 0-1
+

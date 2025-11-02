@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mLme9oXR"]
+[White "Sehya"]
+[Black "WibbleWobbler"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:37"]
+[WhiteElo "1590"]
+[BlackElo "1752"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+11"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation"]
+[TimeControl "300+4"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. dxc5 Bxc5 6. Nf3 Nge7 7. Bg5 Qc7 8. a4 Ng6 9. Nbd2 Ncxe5 10. Be3 Bxe3 11. fxe3 O-O 12. Be2 a5 13. O-O b6 14. Nxe5 Nxe5 15. Bh5 Ng6 16. Nf3 Qc4 17. Bxg6 fxg6 18. Qc2 Ba6 19. Nd2 Qd3 20. Qd1 Qxe3+ 21. Kh1 Bxf1 22. Nxf1 Qf2 23. Ng3 Rf7 24. Qd3 Qxb2 25. Rb1 Qf2 26. Rxb6 Qe1+ 27. Nf1 Rxf1+ 28. Qxf1 Qxf1# 0-1
+

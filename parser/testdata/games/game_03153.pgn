@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/fy5kvfag"]
+[White "KingDumpling"]
+[Black "Chadtmeyers"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:51"]
+[WhiteElo "1505"]
+[BlackElo "1393"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "C30"]
+[Opening "King's Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 d6 3. Nf3 Bg4 4. Bc4 Bxf3 5. Qxf3 exf4 6. O-O Nf6 7. Qxf4 h6 8. e5 dxe5 9. Qxe5+ Be7 10. d4 Nc6 11. Bb5 O-O 12. Bxc6 bxc6 13. Bxh6 Bd6 14. Qg5 Bxh2+ 15. Kxh2 Qd6+ 16. Kg1 Qxd4+ 17. Kh1 Ne4 18. Qg4 Nf2+ 19. Rxf2 Qxg4 20. Be3 Qh5+ 21. Kg1 Qd1+ 22. Rf1 Qxc2 23. Nd2 Qxb2 24. Rac1 Rae8 25. Bf4 Qd4+ 26. Kh1 Re6 27. g3 f6 28. Nf3 Qd5 29. Bxc7 Qh5+ 30. Kg2 Re2+ 31. Rf2 Re4 32. Rxc6 Kf7 33. Bd6 Rh8 34. Rc5 Qh3+ 35. Kg1 Qh1# 0-1
+

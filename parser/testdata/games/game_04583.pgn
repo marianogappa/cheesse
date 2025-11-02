@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/r5hWSvV7"]
+[White "Roma75"]
+[Black "galita"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:36"]
+[WhiteElo "1432"]
+[BlackElo "1542"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-12"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Accelerated Move Order"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. c4 d5 3. Nc3 c6 4. e3 h6 5. Bd3 Qh4 6. Nf3 Qf6 7. c5 Nd7 8. a3 b6 9. b4 bxc5 10. bxc5 e5 11. dxe5 Nxe5 12. Nxe5 Qxe5 13. O-O Bxc5 14. Bb2 Qe7 15. Na4 d4 16. Nxc5 Qxc5 17. exd4 Qd5 18. Re1+ Be6 19. Qa4 Ne7 20. Bc4 Qd6 21. Bxe6 fxe6 22. d5 O-O 23. dxe6 Nd5 24. Qg4 Rf6 25. Bxf6 Nxf6 26. Qf5 Re8 27. Rad1 Qxa3 28. e7 c5 29. Rd8 Kf7 30. Rxe8 Kxe8 31. g3 c4 32. Qb5+ Kf7 33. e8=Q+ Nxe8 34. Qxe8+ Kf6 35. Qe6+ Kg5 36. Qxc4 Kg6 37. Qe4+ Kf7 38. Qe7+ Qxe7 39. Rxe7+ Kxe7 40. Kf1 a6 41. Ke2 Kd6 42. Kd3 Kc5 43. Kc3 Kb5 44. f4 a5 45. h4 a4 46. g4 a3 47. Kb3 a2 48. Kxa2 Kc5 49. g5 hxg5 50. fxg5 Kd5 51. h5 Ke5 52. h6 gxh6 53. gxh6 Kf6 54. h7 1-0
+

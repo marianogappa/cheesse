@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kKSnqrWU"]
+[White "CCMM2016"]
+[Black "akbk"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:56"]
+[WhiteElo "1457"]
+[BlackElo "1501"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[TimeControl "240+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 d5 4. exd5 Qxd5 5. Nc3 Bb4 6. Qd3 e4 0-1
+

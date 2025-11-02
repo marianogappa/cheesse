@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/phW4OqLy"]
+[White "JRenato"]
+[Black "alzohairi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:47"]
+[WhiteElo "1650"]
+[BlackElo "1937"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+6"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "1020+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 d6 3. Qf3 Nf6 4. Bc4 Nc6 5. c3 Be7 6. h3 O-O 7. d3 Na5 8. Bb3 Nxb3 9. axb3 c5 10. Qg3 b5 11. Bh6 Ne8 12. Bd2 Be6 13. c4 b4 14. Ne2 Kh8 15. Qf3 f5 16. h4 fxe4 17. dxe4 Rxf3 0-1
+

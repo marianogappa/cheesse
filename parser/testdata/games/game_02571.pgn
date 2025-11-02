@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HIGRtvds"]
+[White "phi_18"]
+[Black "mustang83"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:44"]
+[WhiteElo "1476"]
+[BlackElo "1192"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "90+5"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Nge2 Bg4 5. d4 Bxe2 6. Bxe2 Qe6 7. d5 Qg6 8. O-O e6 9. Re1 exd5 10. Bd3+ Qe6 11. Rxe6+ fxe6 12. Qh5+ g6 13. Bxg6+ hxg6 14. Qxh8 Ne7 15. Bh6 Nbc6 16. Qxf8+ Kd7 17. Qxa8 Nd4 18. Qxb7 Nxc2 19. Qb5+ c6 20. Qb7+ Kd6 21. Bf4+ e5 22. Qb8+ Ke6 23. Qxe5+ Kd7 24. Qd6+ Ke8 25. Rc1 Nb4 26. Qxb4 Nf5 27. Re1+ Kd7 28. Qb7+ Kd8 29. Qc7# 1-0
+

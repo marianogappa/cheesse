@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/l1ZJ4xXt"]
+[White "eddiegrassi19"]
+[Black "J_Bo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:22"]
+[WhiteElo "1936"]
+[BlackElo "1958"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "A40"]
+[Opening "English Defense #2"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 b6 2. c4 Bb7 3. Nf3 d6 4. g3 c5 5. Bg2 cxd4 6. Qxd4 Nc6 7. Qd1 g6 8. O-O Bg7 9. Nc3 Nf6 10. e4 O-O 11. Re1 Ne5 12. b3 Nxf3+ 13. Bxf3 Nxe4 14. Nxe4 Bxa1 15. Bh6 Bg7 16. Bxg7 Kxg7 17. Qd4+ f6 18. Bg2 Bxe4 19. Bxe4 Rb8 20. Bd5 e5 21. Qg4 f5 22. Qd1 Qf6 23. Qd2 Rbd8 24. h4 e4 25. Qb4 Rfe8 26. Re2 Qd4 27. Rd2 Qa1+ 28. Kg2 e3 29. fxe3 Rxe3 30. Rf2 Qc3 31. Qxc3+ Rxc3 32. Re2 Rd7 33. Re8 Rc2+ 34. Kh3 Rxa2 35. Rg8+ Kf6 36. Rf8+ Ke5 37. Re8+ Kd4 38. b4 Rb2 39. b5 Kc5 40. Bc6 Rc7 41. Bd5 Rc2 42. Re3 Rxc4 43. Bxc4 Kxc4 44. h5 Kxb5 45. hxg6 hxg6 46. Kh4 Rc4+ 47. Kg5 Rg4+ 48. Kf6 d5 49. Re5 Kc4 50. Ke6 d4 0-1
+

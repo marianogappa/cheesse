@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/expGxefI"]
+[White "newbit"]
+[Black "HarryMorgan"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:14"]
+[WhiteElo "1544"]
+[BlackElo "1482"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-23"]
+[ECO "C62"]
+[Opening "Ruy Lopez: Steinitz Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 a6 5. Bxc6+ bxc6 6. dxe5 d5 7. exd5 cxd5 8. O-O Bg4 9. Nc3 Bxf3 10. Qxf3 Ne7 11. Bg5 c6 12. Rad1 h6 13. Bxe7 Bxe7 14. Rfe1 O-O 15. e6 fxe6 16. Qd3 Rf6 17. Ne2 Qb6 18. Rf1 Qxb2 19. Ng3 Qxa2 20. Nh5 Rf7 21. Rfe1 g6 22. Qxg6+ Kf8 23. Qxe6 Qxc2 24. Qxh6+ Ke8 25. Rd2 Qf5 26. Ng7+ Rxg7 27. Qxg7 Qd7 28. Qg8# 1-0
+

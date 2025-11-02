@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/JCU5TQRm"]
+[White "shackall"]
+[Black "blacksheepman99"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:31"]
+[WhiteElo "1479"]
+[BlackElo "1495"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "C20"]
+[Opening "King's Pawn Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qe2 Nf6 3. f3 Nc6 4. c3 Bc5 5. Nh3 d5 6. g4 h6 7. b4 Bb6 8. d3 dxe4 9. dxe4 a6 10. a4 Be6 11. a5 Ba7 12. Nd2 O-O 13. Bb2 Qd7 14. Rd1 b5 15. Nc4 Bxc4 16. Rxd7 Bxe2 17. Bxe2 Nxd7 18. Ba3 Nf6 19. c4 Nd4 20. c5 Nc2+ 21. Kf2 Nxa3 22. Rd1 Nc2 23. Rb1 Nd4 24. Ke3 Rad8 25. Nf2 g5 26. Nd3 Nc2+ 27. Kd2 Na3 28. Rb3 Nc4+ 29. Kc3 Kg7 30. Nc1 Rh8 31. Bxc4 bxc4 32. Rb2 h5 33. h3 hxg4 34. hxg4 Rh3 35. Rf2 Nxe4+ 36. Kxc4 Nxf2 37. Ne2 Rxf3 38. Nc3 Rf4+ 39. Kb3 Rd3 40. Kc2 Rxg4 41. Ne2 Rc4+ 0-1
+

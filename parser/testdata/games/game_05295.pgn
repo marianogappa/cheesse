@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0pefYPMM"]
+[White "SSStepan333"]
+[Black "auckland95"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:22"]
+[WhiteElo "1244"]
+[BlackElo "1095"]
+[WhiteRatingDiff "-19"]
+[BlackRatingDiff "+16"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 Bf5 3. Qf3 Nh6 4. Na3 g5 5. b3 f6 6. c4 e6 7. cxd5 exd5 8. Nh3 g4 9. Qf4 gxh3 10. gxh3 Bd6 11. Qf3 Be4 12. Qxf6 Qxf6 13. Rg1 Nf5 14. f4 c5 15. Bb5+ Nd7 16. Bxd7+ Kxd7 17. Nb5 cxd4 18. exd4 Nxd4 19. Nxd4 Qxd4 20. Rg7+ Qxg7 21. Bb2 Qg1+ 22. Kd2 Qxh2+ 23. Kc3 d4+ 24. Kxd4 Qxb2+ 25. Kxe4 Qxa1 26. f5 Rhe8+ 27. Kf3 Qc3+ 28. Kg4 Qg3+ 29. Kh5 Rg8 30. Kh6 Qxh3# 0-1
+

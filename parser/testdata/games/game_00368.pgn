@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/BXknJymf"]
+[White "sik2"]
+[Black "milanbelobrk"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:13"]
+[WhiteElo "1736"]
+[BlackElo "2017"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. e3 d6 3. c4 Be7 4. Nf3 c5 5. dxc5 dxc5 6. Qxd8+ Bxd8 7. Nc3 Nf6 8. Ne5 Nc6 9. Nxc6 bxc6 10. Be2 a5 11. Bf3 a4 12. Bxc6+ Ke7 13. Bxa8 Bd7 14. Bf3 Bc7 15. O-O Rb8 16. b3 Be5 17. Nb5 Bxb5 18. cxb5 Bxa1 19. bxa4 Bc3 20. Ba3 Bb4 21. Bxb4 cxb4 22. Rb1 Nd5 23. Bxd5 exd5 24. Rxb4 Kd6 25. a5 Kc5 26. Rb3 Rxb5 27. Rxb5+ Kxb5 28. Kf1 Kxa5 29. Ke2 Ka4 30. Kd3 Ka3 31. Kd4 Kxa2 32. Kxd5 Kb2 33. f3 Kc2 34. g4 Kd3 35. e4 Ke3 36. Kd6 Kxf3 37. e5 Kxg4 38. Ke7 Kf5 39. Kxf7 Kxe5 40. Kxg7 h5 41. Kh6 h4 42. Kh5 h3 43. Kh4 Kf4 44. Kxh3 Kf3 45. Kh4 Kf4 46. h3 Kf5 47. Kh5 Kf4 48. h4 Kf5 49. Kh6 Kf6 50. h5 Kf7 51. Kh7 Kf8 52. h6 Kf7 53. Kh8 Kf8 54. h7 Kf7 1/2-1/2
+

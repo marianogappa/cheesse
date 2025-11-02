@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/S6I1E5ap"]
+[White "bagur"]
+[Black "Jefeciego"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:22"]
+[WhiteElo "1435"]
+[BlackElo "1370"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "A48"]
+[Opening "London System"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. h3 d6 6. Be2 Nbd7 7. Nbd2 Re8 8. c3 e5 9. Bh2 b6 10. dxe5 Nxe5 11. Nxe5 dxe5 12. Nf3 Bb7 13. O-O e4 14. Nd4 c5 15. Nc2 Rc8 16. b4 c4 17. Nd4 Nd7 18. a4 Bxd4 19. exd4 Nf6 20. a5 b5 21. a6 Bc6 22. Qd2 Qd5 23. Qe3 Nd7 24. Bg4 f5 25. Be2 Rf8 26. f3 Rce8 27. Qf2 e3 28. Qh4 Kg7 29. Qg3 f4 30. Qh4 Qf5 31. g4 Qc2 32. g5 Qxe2 33. Rae1 Qd3 34. Rd1 Qxc3 35. Qh6+ Kh8 36. Rc1 Qxd4 37. Rc2 e2+ 38. Rf2 e1=Q+ 39. Kg2 Qexf2+ 40. Rxf2 Re2 41. Rxe2 Ne5 42. Qxf8# 1-0
+

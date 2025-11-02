@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bJaXjMYv"]
+[White "marsan"]
+[Black "fakkaynak"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:02"]
+[WhiteElo "796"]
+[BlackElo "904"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-58"]
+[ECO "A00"]
+[Opening "Van Geet Opening: Laroche Gambit"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. Nc3 b5 2. Nf3 b4 3. d4 d5 4. Nxd5 a5 5. e4 Ba6 6. Bd3 g6 7. O-O Nf6 8. Nf4 c6 9. b3 Bh6 10. Ng5 Bxg5 11. h3 Qc7 12. e5 Nd5 13. g3 h5 14. Nxd5 Qb6 15. Bxg5 Qxd4 16. Be3 Qxd5 17. c4 Qxe5 18. f4 Qe6 19. Rc1 Nd7 20. f5 gxf5 21. Bg5 f4 22. Rxf4 Qe3+ 23. Kg2 f6 24. Rxf6 exf6 25. Bg6+ Ke7 26. Bxf6+ Kxf6 27. Qd6+ Kg5 28. h4+ Kg4 29. Bf5+ Kxf5 30. Rf1+ Kg4 31. Qg6+ Qg5 32. Qe4+ Qf4 33. Rxf4# 1-0
+

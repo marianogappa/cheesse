@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/hVcIPfOx"]
+[White "lib3344"]
+[Black "depoy"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:46"]
+[WhiteElo "1376"]
+[BlackElo "1562"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+6"]
+[ECO "C00"]
+[Opening "French Defense #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Bc4 d6 3. Qf3 h6 4. h3 a6 5. c3 g6 6. d4 Bg7 7. Nd2 Ne7 8. Nb3 b6 9. e5 d5 10. Bd3 Nd7 11. c4 Bb7 12. Bf4 Rb8 13. cxd5 Bxd5 14. Be4 Bxe4 15. Qe3 Bxg2 0-1
+

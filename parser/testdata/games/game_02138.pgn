@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Fn8zABqf"]
+[White "EnzoBarloa"]
+[Black "ferellllli"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:03"]
+[WhiteElo "1839"]
+[BlackElo "1808"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "D07"]
+[Opening "Queen's Gambit Refused: Chigorin Defense, Main Line"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. e3 Nf6 5. Be2 Bxf3 6. Bxf3 e6 7. Nc3 Bb4 8. Bd2 O-O 9. cxd5 exd5 10. O-O Bxc3 11. Bxc3 Re8 12. Re1 Ne7 13. Qc2 Ng6 14. Rac1 c6 15. a3 Qd7 16. b4 a6 17. Bb2 Ne4 18. h3 Ng5 19. Bg4 Qd6 20. f3 Ne7 21. e4 g6 22. Qf2 h5 23. h4 Nh7 24. Bh3 Qf4 25. Rc2 Rad8 26. Rce2 Nf6 27. e5 Nd7 28. e6 Nb6 29. exf7+ Kxf7 30. Be6+ Kf6 31. Bc1 Qd6 32. Bg5+ Kg7 33. Bh3 Kf8 34. Qe3 Nbc8 35. Bh6+ Kf7 36. Be6+ Kf6 37. Qg5# 1-0
+

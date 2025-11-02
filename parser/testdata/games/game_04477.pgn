@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fpn9G3RN"]
+[White "AlperIssizAdam"]
+[Black "bahadir05"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:11"]
+[WhiteElo "990"]
+[BlackElo "1075"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-14"]
+[ECO "A00"]
+[Opening "Van Geet Opening: Reversed Nimzowitsch"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. Nc3 e5 2. d4 e4 3. Nxe4 d5 4. Ng3 c5 5. Nf3 cxd4 6. Nxd4 Bc5 7. Be3 Bxd4 8. Bxd4 f6 9. e4 Ne7 10. exd5 Nxd5 11. Bc4 O-O 12. Qd3 g6 13. Qb3 Qe7+ 14. Ne2 Qb4+ 15. Nc3 Re8+ 16. Kf1 Qxb3 17. cxb3 Be6 18. Nxd5 Bxd5 19. Bxd5+ Kf8 20. Bc5+ Re7 21. g3 Nd7 22. Bb4 a5 23. Ba3 b5 24. b4 a4 25. b3 Ke8 26. Kg2 Ne5 27. Bxa8 Nd3 28. Bc1 Re2 29. Bh6 Rxf2+ 30. Kh3 g5 31. Rac1 g4+ 32. Kxg4 Ne5+ 33. Kh3 Rf5 34. Rc8+ Kd7 35. Rb8 Rh5+ 36. Kg2 Rxh6 37. Rc1 f5 38. Rb7+ Kd6 39. Rb6+ Kd7 40. Rd1+ Kc7 41. Rb7+ Kc8 42. Rc1+ Kd8 43. Rcc7 Ke8 44. Rc8# 1-0
+

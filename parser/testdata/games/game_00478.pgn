@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gg0DeQhS"]
+[White "Aminini77"]
+[Black "cgds"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:45"]
+[WhiteElo "1480"]
+[BlackElo "1697"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[TimeControl "120+2"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 6. a3 Nd7 7. Nf3 c5 8. c3 Ne7 9. Be3 Nf5 10. Bg5 Be7 11. O-O Bxg5 12. Nxg5 Qxg5 13. Nd2 Nh4 14. g3 Qf5 15. Qxf5 Nxf5 16. Nf3 O-O 17. Rac1 Rac8 18. b4 c4 19. a4 b6 20. h4 Ne7 21. Kg2 a6 22. Ra1 Nc6 23. Rfb1 a5 24. bxa5 Nxa5 25. h5 h6 26. g4 Rb8 27. Rb2 Nb3 28. Rab1 Na5 29. Kg3 Rb7 30. Kh4 Rfb8 31. Ne1 Nb3 32. Nf3 b5 33. axb5 Rxb5 34. g5 R8b6 35. gxh6 gxh6 36. Kg4 Nb8 37. Ra2 Na6 38. Rba1 Nxa1 39. Rxa1 Kg7 0-1
+

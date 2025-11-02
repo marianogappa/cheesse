@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/cyRPddGm"]
+[White "rock2626"]
+[Black "BigStove"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:17"]
+[WhiteElo "1049"]
+[BlackElo "1288"]
+[WhiteRatingDiff "+33"]
+[BlackRatingDiff "-18"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 e5 3. dxc5 Bxc5 4. Bc4 Nf6 5. Nc3 Qa5 6. Nf3 d5 7. exd5 e4 8. Ne5 O-O 9. Bg5 Bg4 10. Nxg4 Nxg4 11. Qxg4 Na6 12. Qf4 e3 13. fxe3 f6 14. Bh4 g5 15. b4 Qa3 16. Qf5 gxh4 17. bxc5 Qxc3+ 18. Ke2 Qxc4+ 19. Qd3 Qg4+ 20. Kf2 Rae8 21. h3 Qg3+ 22. Ke2 Qxg2+ 23. Ke1 Qxh1+ 24. Kd2 Qxa1 25. d6 Rf7 26. d7 Rxd7 27. Qxd7 Kf8 28. Qxb7 Qh1 29. Qxh1 h5 30. c6 Kg7 31. Qh2 Nb4 32. c7 Kg6 33. Qg2+ Kh6 34. c3 Nxa2 35. Qc6 Rc8 36. Qd7 Rh8 37. c8=Q Rxc8 38. Qxc8 Kg5 39. c4 f5 40. c5 f4 41. c6 fxe3+ 42. Kxe3 Nb4 43. c7 Nd5+ 44. Ke4 Nb6 45. Qf5+ Kh6 46. Qf6+ Kh7 47. Kf5 Nd7 48. Qf7+ Kh8 49. Qxd7 Kg8 50. c8=Q# 1-0
+

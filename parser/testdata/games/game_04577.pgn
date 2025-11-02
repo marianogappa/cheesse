@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ruYMa1Pw"]
+[White "Alex-r"]
+[Black "merip"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:31"]
+[WhiteElo "1577"]
+[BlackElo "1519"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d3 Nf6 3. Nf3 Nc6 4. Nc3 d5 5. Bg5 dxe4 6. Nxe4 Be7 7. Bxf6 Bxf6 8. Be2 Nd4 9. Nxd4 exd4 10. O-O O-O 11. Ng3 c5 12. h3 b6 13. Bf3 Rb8 14. Qd2 Bb7 15. Ne4 Re8 16. Rfe1 h6 17. Qf4 Be5 18. Qg4 Bxe4 19. Bxe4 Qf6 20. Re2 Re7 21. Rf1 Rbe8 22. f4 Bc7 23. Rf3 Qe6 24. Qh5 Qf6 25. Ref2 Qd6 26. Rg3 Qf6 27. Rg4 Kh8 28. Rh4 Kg8 29. Rf3 Kh8 30. g4 Bxf4 31. g5 Be3+ 32. Kh1 Qxg5 33. Qxg5 Bxg5 34. Rh5 Kg8 35. Rg3 Re5 36. h4 Bf4 37. Rxe5 Bxe5 38. Rg4 Bf6 39. Kg2 Re5 40. Kf3 Rh5 41. Bb7 Rxh4 42. Rxh4 Bxh4 43. Ke4 Bd8 44. Kd5 Bc7 45. Kc6 Bb8 46. Ba6 h5 47. Kb7 Bd6 48. Kxa7 h4 49. Bc8 Bc7 50. Kb7 Bd8 51. Kc6 h3 52. Bxh3 g5 53. Kd7 Bf6 54. Kc6 Kg7 55. Kxb6 Kg6 56. Kxc5 Kh5 0-1
+

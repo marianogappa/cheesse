@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/JZh7Emje"]
+[White "RhandyT"]
+[Black "Goganko"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:54"]
+[WhiteElo "1771"]
+[BlackElo "1711"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "600+2"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nc6 5. Nf3 Bg4 6. Bb5 O-O-O 7. O-O Bxf3 8. Qxf3 Nxd4 9. Qxf7 Nxb5 10. Qf5+ Kb8 11. Qxb5 Qxb5 12. Nxb5 h6 13. Be3 a6 14. Rad1 Rxd1 15. Rxd1 b6 16. Nd4 Nf6 17. Nc6+ Kb7 18. Ne5 g5 19. a4 a5 20. c3 e6 21. Rd8 Nd5 22. Bd4 Bg7 23. Rd7 Bxe5 24. Bxe5 Rc8 25. Rh7 Kc6 26. Rxh6 Re8 27. Rg6 Kc5 28. Rxg5 Kc4 29. h4 Kb3 30. h5 Kxb2 31. c4+ 1-0
+

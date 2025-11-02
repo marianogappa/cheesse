@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QDFIIziU"]
+[White "me_zahra"]
+[Black "ldcampodonico"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:25"]
+[WhiteElo "1639"]
+[BlackElo "1623"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-10"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Qf6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 d6 6. Bd3 Ne7 7. c3 Ng6 8. O-O Ne5 9. Bc2 h5 10. f4 Nc4 11. Bd2 Nxb2 12. Qe2 Bg4 13. Qe3 Nc4 14. Qe1 Bxd4+ 15. cxd4 Nxd2 16. Nxd2 Qxd4+ 17. Kh1 O-O 18. Nb3 Qb6 19. e5 d5 20. f5 Qc6 21. Rc1 Qd7 22. e6 fxe6 23. fxe6 Bxe6 24. Rxf8+ Kxf8 25. Qf2+ Kg8 26. Rf1 Nc6 27. Qh4 Qe7 28. Qxh5 g6 29. Qxg6+ Qg7 30. Qxe6+ Kh8 31. g4 Rg8 32. h3 Ne7 33. Rf7 Qxf7 34. Qxf7 Rg7 35. Qf8+ Ng8 36. Qf5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vScFEvIE"]
+[White "bernazz"]
+[Black "esencia"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:52"]
+[WhiteElo "1198"]
+[BlackElo "1058"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+15"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "300+1"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 e6 3. c4 dxc4 4. e3 Nc6 5. Bxc4 Nf6 6. Nc3 Be7 7. Nf3 O-O 8. O-O h6 9. Nb5 e5 10. dxe5 g5 11. Bxg5 hxg5 12. Nxg5 Ne4 13. Qh5 Bxg5 14. Bd3 Qxd3 15. Nc3 Nxc3 16. Qxg5+ Kh7 17. Qh5+ Kg7 18. Qg5+ Kh7 19. Qh5+ Kg7 20. Qg5+ Kh7 21. Qf6 Nd5 22. Qh4+ Kg7 23. Qg5+ Kh7 24. Qh4+ Kg7 25. Qg5+ Kh8 26. Qh6+ Kg8 27. Qg5+ Qg6 28. Qxg6+ fxg6 0-1
+

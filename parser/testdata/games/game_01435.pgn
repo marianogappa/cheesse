@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/uQMwybjo"]
+[White "keitico"]
+[Black "Unjeunegarcon"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:21"]
+[WhiteElo "2043"]
+[BlackElo "1804"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.2] } 1... Nf6 { [%eval 0.18] } 2. Nf3 { [%eval 0.25] } 2... d5 { [%eval 0.3] } 3. b3 { [%eval 0.0] } 3... c5 { [%eval -0.03] } 4. Bb2 { [%eval -0.33] } 4... Nc6 { [%eval -0.06] } 5. e3 { [%eval 0.01] } 5... a6 { [%eval 0.05] } 6. c4 { [%eval 0.05] } 6... Bg4 { [%eval 0.19] } 7. Be2 { [%eval 0.22] } 7... e6 { [%eval 0.47] } 8. Nbd2 { [%eval 0.18] } 8... Bd6 { [%eval 0.32] } 9. dxc5 { [%eval 0.19] } 9... Bxc5 { [%eval 0.28] } 10. cxd5 { [%eval 0.15] } 10... exd5 { [%eval 0.24] } 11. O-O { [%eval 0.22] } 11... Qd6 { [%eval 0.36] } 12. Rc1 { [%eval 0.35] } 12... O-O? { [%eval 1.5] } 13. Qc2? { [%eval 0.37] } 13... Bb6 { [%eval 0.63] } 14. h3 { [%eval 0.47] } 14... Be6 { [%eval 0.92] } 15. Ng5 { [%eval 0.72] } 15... Bd7?? { [%eval 4.79] } 16. Ngf3?? { [%eval 0.17] } 16... g6?! { [%eval 1.02] } 17. Qc3 { [%eval 1.11] } 17... d4 { [%eval 1.2] } 18. exd4 { [%eval 1.04] } 18... Nd5 { [%eval 0.95] } 19. Qd3? { [%eval -0.47] } 19... Bf5 { [%eval -0.4] } 20. Qc4 { [%eval -0.81] } 20... Rac8?! { [%eval -0.1] } 21. Qa4 { [%eval -0.17] } 21... Rfe8?! { [%eval 0.42] } 22. Rfe1?! { [%eval -0.46] } 22... Nf4? { [%eval 0.64] } 23. Bf1 { [%eval 0.19] } 23... Rxe1 { [%eval 0.29] } 24. Rxe1 { [%eval 0.17] } 24... Bd7?? { [%eval 3.82] } 25. Nc4 { [%eval 3.86] } 25... Qc7 { [%eval 3.24] } 26. Nxb6 { [%eval 3.69] } 26... Qxb6?! { [%eval 4.33] } 27. Qa3?? { [%eval 1.12] } 27... Re8?? { [%eval 6.34] } 28. Qd6 { [%eval 6.09] } 28... Rxe1 { [%eval 5.89] } 29. Nxe1 { [%eval 6.07] } 29... Be6 { [%eval 6.28] } 30. Qxf4 { [%eval 5.9] } 1-0
+

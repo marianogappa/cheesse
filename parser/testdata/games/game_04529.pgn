@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Wby3Y8Yu"]
+[White "zs_06"]
+[Black "sergeybmw"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:21"]
+[WhiteElo "2009"]
+[BlackElo "2078"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-12"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. d4 e6 5. f4 c5 6. Nf3 Nc6 7. Be3 Qb6 8. dxc5 Qxb2 9. Nb5 Kd8 10. Be2 a6 11. Nd6 Bxd6 12. cxd6 d4 13. Nxd4 Qc3+ 14. Kf2 Nc5 15. Nxc6+ bxc6 16. Bxc5 Qxc5+ 17. Kf3 Qd5+ 18. Qxd5 exd5 19. c4 Be6 20. Rhc1 h5 21. Bd3 Kd7 22. cxd5 Bxd5+ 23. Be4 Bxe4+ 24. Kxe4 g6 25. Rc2 Rhc8 26. Rb1 Rab8 27. Rcb2 Rb5 28. a4 Rxb2 29. Rxb2 Ke6 30. Rb7 f6 31. Rb6 fxe5 32. fxe5 c5 33. Rxa6 c4 34. Ra7 c3 35. Re7# 1-0
+

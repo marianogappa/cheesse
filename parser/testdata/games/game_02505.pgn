@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/r3lyODkN"]
+[White "tomamisz"]
+[Black "CMAG82"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:32"]
+[WhiteElo "1700"]
+[BlackElo "1713"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #3"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 Nf6 3. g3 c6 4. Bg2 e6 5. Nf3 Bd6 6. O-O O-O 7. b3 Re8 8. c4 Bc7 9. Ba3 Nbd7 10. cxd5 exd5 11. Nbd2 Ne4 12. Nxe4 Rxe4 13. Ne5 Nxe5 14. Bxe4 dxe4 15. dxe5 Qxd1 16. Raxd1 Bh3 17. Rfe1 Bxe5 18. Bc1 Re8 19. Re2 Bg4 20. Red2 Bxd1 21. Rxd1 a6 22. Rd7 Rb8 23. Ba3 f6 24. Kf1 b6 25. h3 g6 26. Bd6 Rc8 27. Bxe5 fxe5 28. Re7 c5 29. Rxe5 c4 30. Rxe4 c3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GjaDyXIW"]
+[White "Helene9400"]
+[Black "hickimse34"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:02"]
+[WhiteElo "1334"]
+[BlackElo "1375"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+12"]
+[ECO "C50"]
+[Opening "Italian Game: Schilling-Kostic Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nd4 4. Nxd4 exd4 5. d3 Bc5 6. Qf3 f6 7. Qh5+ g6 8. Qf3 Bb4+ 9. c3 dxc3 10. bxc3 Ba5 11. O-O d6 12. Be3 Qe7 13. a4 Bd7 14. Bxg8 Rxg8 15. Bh6 O-O-O 16. Be3 Rgf8 17. Bxa7 f5 18. exf5 Bxf5 19. c4 Be6 20. Na3 Rxf3 21. gxf3 Qg5+ 22. Kh1 Bh3 23. Rg1 Qd2 24. Nb5 Rf8 25. Be3 Qe2 26. Na7+ Kb8 27. Rab1 Rxf3 28. Nc6+ Kc8 29. Nxa5 Rxe3 30. Rxb7 Qe1 31. Ra7 Qxg1+ 32. Kxg1 Re1# 0-1
+

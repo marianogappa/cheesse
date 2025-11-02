@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Z2Ha0M5w"]
+[White "hirotomo"]
+[Black "ridox"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:09"]
+[WhiteElo "1640"]
+[BlackElo "1603"]
+[WhiteRatingDiff "-22"]
+[BlackRatingDiff "+12"]
+[ECO "E61"]
+[Opening "Indian Game: West Indian Defense"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 g6 3. Bg5 h6 4. Bh4 Bg7 5. Nc3 c5 6. e3 O-O 7. Nf3 Na6 8. a3 d6 9. Bd3 Bd7 10. Qc2 Be8 11. d5 Nc7 12. h3 a6 13. g4 h5 14. gxh5 Nxh5 15. Rg1 b5 16. Ng5 b4 17. Nce4 bxa3 18. Rxa3 Rb8 19. Ng3 Rxb2 20. Qd1 Nf6 21. N5e4 Nxe4 22. Nxe4 Qd7 23. Qg4 Qxg4 24. Rxg4 Bd7 25. Rg3 Rfb8 26. Bxe7 Ne8 27. h4 R2b3 28. Rxb3 Rxb3 29. Ke2 Bf5 30. h5 Be5 31. Rg5 Rb2+ 32. Kf3 Kg7 33. hxg6 fxg6 34. Be2 a5 35. Bd3 a4 36. Rg1 a3 37. Ng3 a2 38. Nxf5+ Kf7 0-1
+

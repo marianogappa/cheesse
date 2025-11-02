@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Fg3MzOE9"]
+[White "cloudwalker"]
+[Black "dusica"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:33"]
+[WhiteElo "1384"]
+[BlackElo "1815"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+2"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. e3 e5 2. a3 Nc6 3. b4 Nf6 4. c4 d5 5. c5 Be7 6. Bb2 d4 7. exd4 Nxd4 8. Bxd4 Qxd4 9. Nc3 Bg4 10. Be2 Ne4 11. Nxe4 Bxe2 12. Nxe2 Qxe4 13. O-O O-O 14. d3 Qg6 15. Ng3 Rad8 16. Ne4 f5 17. Nc3 Bf6 18. Qb3+ Kh8 19. Rad1 e4 20. dxe4 Rxd1 21. Rxd1 Bxc3 22. Qxc3 fxe4 23. Re1 Re8 24. Qd4 h6 25. Qd7 Qc6 26. Qh3 a5 27. Qe3 axb4 28. axb4 Qb5 29. Kh1 Qxb4 30. Rg1 b6 31. cxb6 Qxb6 32. f3 Qxe3 33. fxe4 Rxe4 0-1
+

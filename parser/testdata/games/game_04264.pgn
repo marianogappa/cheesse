@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TlPoNRSK"]
+[White "kuhreem"]
+[Black "majidabrouy"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:16"]
+[WhiteElo "1555"]
+[BlackElo "1525"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+33"]
+[ECO "D06"]
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+[TimeControl "120+5"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.16] } 1... Nf6 { [%eval 0.27] } 2. c4 { [%eval 0.18] } 2... d5 { [%eval 0.43] } 3. cxd5 { [%eval 0.35] } 3... Nxd5 { [%eval 0.8] } 4. e4 { [%eval 0.64] } 4... Nb6 { [%eval 0.77] } 5. e5?! { [%eval 0.14] } 5... Bf5 { [%eval 0.24] } 6. f4?! { [%eval -0.3] } 6... e6 { [%eval -0.32] } 7. Nc3 { [%eval -0.41] } 7... Bb4 { [%eval -0.25] } 8. a3 { [%eval -0.19] } 8... Bxc3+ { [%eval -0.22] } 9. bxc3 { [%eval -0.26] } 9... O-O { [%eval -0.29] } 10. a4 { [%eval -0.53] } 10... a5?! { [%eval 0.2] } 11. h4 { [%eval -0.23] } 11... Nc6 { [%eval -0.06] } 12. g4 { [%eval -0.2] } 12... Be4 { [%eval -0.12] } 13. Rh2 { [%eval -0.31] } 13... Bd5?! { [%eval 0.58] } 14. Qc2?! { [%eval 0.07] } 14... f6?! { [%eval 0.69] } 15. c4? { [%eval -2.29] } 15... Nb4?! { [%eval -1.66] } 16. Qb3? { [%eval -3.87] } 16... Be4? { [%eval -1.7] } 17. Ba3?? { [%eval -8.83] } 17... Qxd4 { [%eval -8.16] } 18. Rd1? { [%eval -10.04] } 18... Qxg1 { [%eval -9.84] } 19. Re2 { [%eval -9.68] } 19... Qxg4? { [%eval -7.04] } 20. Rxe4 { [%eval -6.98] } 20... Qxh4+ { [%eval -6.48] } 21. Ke2?? { [%eval -10.22] } 21... Qh2+ { [%eval -9.75] } 22. Kf3 { [%eval -9.82] } 22... Qh5+?? { [%eval -5.15] } 23. Ke3?? { [%eval -8.25] } 23... fxe5 { [%eval -8.05] } 24. c5? { [%eval -12.05] } 24... exf4+ { [%eval -11.56] } 25. Rxf4 { [%eval -21.72] } 25... N6d5+ { [%eval -20.0] } 26. Rxd5?! { [%eval #-18] } 26... Nxd5+ { [%eval -55.1] } 27. Kd3?! { [%eval #-11] } 27... Nxf4+?! { [%eval -26.5] } 28. Kc2 { [%eval -26.3] } 28... Qf5+ { [%eval -22.21] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/BVrIbAVW"]
+[White "pinturella"]
+[Black "thebuster"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:43"]
+[WhiteElo "1796"]
+[BlackElo "1964"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[ECO "D43"]
+[Opening "Semi-Slav Defense"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. Nf3 Nf6 5. Bg5 Be7 6. c5 Qc7 7. e3 O-O 8. b4 Nbd7 9. Bf4 Qd8 10. Bg5 Ne8 11. Bf4 f6 12. Bd3 e5 13. dxe5 fxe5 14. Nxe5 Nxe5 15. Bxe5 Bf6 16. Bd4 Bxd4 17. exd4 Qf6 18. Ne2 Qxf2+ 19. Kd2 Qh4 20. Qc2 Nf6 21. g3 Qg4 22. Raf1 Bd7 23. Rf4 Qg5 24. h4 Qh6 25. Rf1 Rae8 26. g4 Bxg4 27. Ng3 Ne4+ 28. Bxe4 Rxf4 29. Nf5 Rxf5+ 30. Kc3 Rxf1 0-1
+

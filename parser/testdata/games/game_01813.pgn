@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/S3JzpuBa"]
+[White "Nyxco"]
+[Black "Lebesar"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:49"]
+[WhiteElo "1492"]
+[BlackElo "1743"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. d3 e6 5. g3 Be7 6. Bg2 O-O 7. O-O Nc6 8. d4 cxd4 9. Nxd4 Bd7 10. Nxc6 Bxc6 11. Bg5 Nd7 12. Bxe7 Qxe7 13. Qe2 Rad8 14. Rad1 e5 15. Nd5 Bxd5 16. exd5 Nf6 17. c4 Rc8 18. b3 Qc7 19. Be4 Qa5 20. Bf5 Rc5 21. Bb1 b5 22. cxb5 Rxb5 23. Qe3 Nxd5 24. Rxd5 Rxd5 25. Be4 Rd2 26. Bb1 Rc8 27. Bxh7+ Kxh7 28. Qg5 Kg8 29. a3 Rcc2 30. b4 Qb6 31. h4 Rxf2 32. h5 Rxf1+ 33. Kxf1 Qf2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/JxWFk8fm"]
+[White "alligator11"]
+[Black "hellgilko"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:46"]
+[WhiteElo "1524"]
+[BlackElo "1665"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+51"]
+[ECO "C55"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[TimeControl "900+1"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.24] } 1... e5 { [%eval 0.19] } 2. Nf3 { [%eval 0.29] } 2... Nc6 { [%eval 0.35] } 3. Bc4 { [%eval 0.2] } 3... h6 { [%eval 0.43] } 4. d4 { [%eval 0.4] } 4... exd4 { [%eval 0.33] } 5. Nxd4 { [%eval 0.29] } 5... Nxd4?! { [%eval 1.09] } 6. Qxd4 { [%eval 1.07] } 6... b6?? { [%eval 6.62] } 7. Nc3?? { [%eval 1.48] } 7... Bc5? { [%eval 3.93] } 8. Qd5 { [%eval 3.81] } 8... Qf6 { [%eval 3.72] } 9. O-O?? { [%eval 0.69] } 9... c6 { [%eval 0.86] } 10. Qf5?! { [%eval 0.02] } 10... Qxf5 { [%eval -0.06] } 11. exf5 { [%eval 0.09] } 11... Nf6 { [%eval 0.0] } 12. Re1+ { [%eval 0.0] } 12... Be7 { [%eval 0.34] } 13. Bd2?! { [%eval -0.25] } 13... d5 { [%eval -0.2] } 14. Bd3 { [%eval -0.15] } 14... Ne4? { [%eval 2.23] } 15. Nxe4 { [%eval 2.2] } 15... dxe4 { [%eval 2.2] } 16. Bxe4 { [%eval 1.85] } 16... Bb7 { [%eval 2.02] } 17. Bd3 { [%eval 1.7] } 17... Rg8?! { [%eval 2.68] } 18. Rad1 { [%eval 2.65] } 18... Kd7?? { [%eval 7.98] } 19. Bf4? { [%eval 6.49] } 19... Bg5 { [%eval 6.39] } 20. Bc4+ { [%eval 6.25] } 20... Kc8 { [%eval 6.16] } 21. Bxg5 { [%eval 6.05] } 21... hxg5 { [%eval 6.16] } 22. Bxf7? { [%eval 5.08] } 22... Rf8? { [%eval 6.14] } 23. Be6+ { [%eval 6.03] } 23... Kb8 { [%eval 5.82] } 24. Rd6?! { [%eval 5.08] } 24... Bc8 { [%eval 5.45] } 25. Rxc6 { [%eval 5.39] } 25... Bxe6 { [%eval 5.31] } 26. fxe6? { [%eval 3.97] } 26... Kb7 { [%eval 4.04] } 27. Rd6 { [%eval 3.97] } 27... Rae8?! { [%eval 4.83] } 28. f3?! { [%eval 4.01] } 28... Ka6? { [%eval 6.54] } 29. Re4? { [%eval 4.49] } 29... Rf6 { [%eval 4.96] } 30. Kf2 { [%eval 4.61] } 30... Kb5? { [%eval 6.95] } 31. Re5+? { [%eval 4.62] } 31... Kc4?? { [%eval #7] } 32. b3+?? { [%eval 5.25] } 32... Kc3 { [%eval 5.29] } 33. Ke3 { [%eval 5.25] } 33... Kxc2 { [%eval 5.2] } 34. Rd2+ { [%eval 5.21] } 34... Kc3 { [%eval 5.49] } 35. Rd3+?! { [%eval 4.95] } 35... Kb4 { [%eval 5.31] } 36. Rd4+ { [%eval 5.14] } 36... Ka3? { [%eval 6.57] } 37. Ra4+?! { [%eval 5.82] } 37... Kb2 { [%eval 5.68] } 38. e7 { [%eval 5.53] } 38... a5 { [%eval 5.32] } 39. Kf2 { [%eval 4.93] } 39... g6?? { [%eval 18.01] } 40. Re2+ { [%eval 17.42] } 40... Kc3?! { [%eval #5] } 41. Rc4+ { [%eval #4] } 41... Kd3 { [%eval #4] } 42. Re3+?! { [%eval #5] } 42... Kd2 { [%eval #6] } 43. Rd4+ { [%eval #7] } 43... Kc2 { [%eval #6] } 44. Rc4+? { [%eval 7.13] } 44... Kb2? { [%eval 16.21] } 45. Re2+ { [%eval 14.82] } 45... Kb1 { [%eval 12.6] } 46. Rcc2?? { [%eval 1.36] } 46... Rd6?? { [%eval 7.21] } 47. Rb2+ { [%eval 7.03] } 47... Kc1 { [%eval 7.06] } 48. Rec2+ { [%eval 6.75] } 48... Kd1 { [%eval 6.71] } 0-1
+

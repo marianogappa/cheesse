@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tYua9sPd"]
+[White "Logre"]
+[Black "lalaland999"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:38"]
+[WhiteElo "1753"]
+[BlackElo "1664"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-8"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Williams Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nc6 2. Nf3 d6 3. d4 Bg4 4. Be2 e6 5. c4 Nge7 6. d5 Nb4 7. a3 Na6 8. b4 Ng6 9. Bb2 e5 10. Nbd2 Be7 11. O-O O-O 12. Ne1 Bxe2 13. Qxe2 Nb8 14. Nd3 Nd7 15. f4 Nf6 16. f5 Nf4 17. Nxf4 exf4 18. Rxf4 Re8 19. Qf3 h5 20. Re1 Ng4 21. h3 Ne5 22. Qxh5 Nd3 23. Bxg7 Kxg7 24. Rg4+ Bg5 25. Rxg5+ Kf8 26. Qh8+ Ke7 27. f6+ Kd7 28. Qh4 c6 29. Re3 Ne5 30. dxc6+ bxc6 31. c5 Kc7 32. cxd6+ Qxd6 33. Nf3 Nxf3+ 34. Rxf3 Qd1+ 35. Kh2 Qe2 36. Qf4+ Kb7 37. Re3 Qd2 38. e5 Rad8 39. Qg3 Rd4 40. Rg7 Rd7 41. e6 Qxe3 42. Qxe3 Rd1 43. Rxf7+ Ka6 44. e7 1-0
+

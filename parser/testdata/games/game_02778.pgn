@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/V7fEMSnz"]
+[White "sodapopinsky"]
+[Black "nrihe"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:26"]
+[WhiteElo "1560"]
+[BlackElo "1544"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Nf3 e6 5. d4 Bb4 6. Bd2 Bd7 7. Bd3 Na6 8. O-O c5 9. d5 Ne7 10. dxe6 Bxe6 11. a3 Bxc3 12. Bxc3 Qb6 13. Bxg7 Rg8 14. Bc3 O-O-O 15. Qe2 Bg4 16. Qxe7 Bxf3 17. g3 h5 18. Bf5+ Kb8 19. Qh4 Bg4 20. Bxg4 hxg4 21. Bf6 Rd2 22. Qh7 Rg6 23. Qh8+ Kc7 24. Be5+ Kc6 25. Qe8+ Rd7 26. Rad1 Kb5 27. Qxd7+ Ka5 28. Bc3+ Nb4 29. axb4+ cxb4 30. Ra1# 1-0
+

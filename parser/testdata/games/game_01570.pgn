@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/64VHJhRs"]
+[White "LRGR"]
+[Black "andi_ar"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:46"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+162"]
+[BlackRatingDiff "-163"]
+[ECO "C42"]
+[Opening "Petrov's Defense"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.24] } 2. Nf3 { [%eval 0.31] } 2... Nf6 { [%eval 0.39] } 3. d3 { [%eval -0.07] } 3... Nc6 { [%eval -0.02] } 4. Bg5 { [%eval -0.19] } 4... Bc5 { [%eval 0.07] } 5. Be2 { [%eval -0.17] } 5... d6 { [%eval 0.01] } 6. O-O { [%eval -0.17] } 6... Be6 { [%eval 0.22] } 7. Nc3 { [%eval -0.2] } 7... O-O { [%eval 0.04] } 8. Re1 { [%eval -0.31] } 8... Qd7? { [%eval 0.73] } 9. a3?! { [%eval 0.09] } 9... Rad8?! { [%eval 0.8] } 10. b4 { [%eval 0.43] } 10... Rc8?? { [%eval 3.85] } 11. bxc5 { [%eval 3.79] } 11... dxc5 { [%eval 3.74] } 12. Bxf6 { [%eval 3.8] } 12... gxf6 { [%eval 3.86] } 13. h3?! { [%eval 3.14] } 13... Kh8 { [%eval 3.32] } 14. Nh4 { [%eval 2.96] } 14... Rg8 { [%eval 3.04] } 15. Bg4?! { [%eval 2.3] } 15... Bxg4 { [%eval 2.36] } 16. hxg4 { [%eval 2.38] } 16... Rxg4 { [%eval 2.44] } 17. Nf5 { [%eval 2.37] } 17... Rcg8 { [%eval 2.59] } 18. Qf3? { [%eval 0.82] } 18... Nd4 { [%eval 0.96] } 19. Qh3? { [%eval -0.1] } 19... Nxf5? { [%eval 1.02] } 20. exf5 { [%eval 0.95] } 20... Qxf5 { [%eval 0.96] } 21. f3? { [%eval -0.88] } 1-0
+

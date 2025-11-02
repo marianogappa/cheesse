@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/xJm4BOpV"]
+[White "Dr_Fausto"]
+[Black "st1p"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:25"]
+[WhiteElo "1152"]
+[BlackElo "1248"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "C57"]
+[Opening "Italian Game: Two Knights Defense, Knight Attack, Normal Variation"]
+[TimeControl "60+1"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. Bb5 a6 6. Bxc6+ bxc6 7. d4 h6 8. Nf3 dxe4 9. Nxe5 Bd6 10. O-O O-O 11. Nxc6 Qd7 12. d5 Bb7 13. Na5 Bxd5 14. Be3 Rab8 15. Nc3 Ba8 16. f3 exf3 17. Rxf3 Bb4 18. Ne4 Qxd1+ 19. Rxd1 Nxe4 20. Nc4 Rfd8 21. Rxd8+ Rxd8 22. Bc5 Bxc5+ 0-1
+

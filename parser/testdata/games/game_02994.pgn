@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/5UBKsQHe"]
+[White "superii"]
+[Black "fanno2000"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:13"]
+[WhiteElo "1919"]
+[BlackElo "1949"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "B45"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+[TimeControl "540+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. a3 a6 7. g3 d6 8. Bg2 Bd7 9. O-O Be7 10. Be3 e5 11. Nxc6 bxc6 12. f4 Ng4 13. Bf2 Nxf2 14. Rxf2 d5 15. Kh1 d4 16. Ne2 c5 17. fxe5 O-O 18. Nf4 Be6 19. Nd5 Rb8 20. Nxe7+ Qxe7 21. Rb1 Qc7 22. Qd3 Rb6 23. c3 Qxe5 24. cxd4 cxd4 25. Rd1 Rd6 26. Rfd2 Rfd8 27. Qc2 Bg4 28. Rf1 Be6 29. Rfd1 a5 30. Qc7 f6 31. Rc1 R6d7 32. Qc5 Kf7 33. Qxe5 fxe5 34. Rc5 d3 35. Rxe5 a4 36. Rc5 Bb3 37. Rc3 Ke7 38. Kg1 Rd4 39. Kf2 g5 40. Ke3 Bc2 41. Rc7+ R8d7 42. Rxd7+ Kxd7 43. Bh3+ Kd6 44. Bg4 Ke5 45. Bf5 h5 46. h3 Rd6 47. Bh7 Rb6 48. Bg6 h4 49. gxh4 gxh4 50. Rf2 Rxb2 51. Rf5+ Kd6 52. Rd5+ Ke7 53. Bf5 Rb3 54. Kd2 Rxa3 55. Rd4 Rb3 56. e5 Rb5 57. Bg6 Rxe5 58. Bxd3 Bxd3 59. Rxd3 Re4 60. Kc3 Kf6 0-1
+

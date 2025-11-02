@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GMyeIDfu"]
+[White "juangus"]
+[Black "Anathapindika"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:49"]
+[WhiteElo "1399"]
+[BlackElo "1161"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "D06"]
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 Bg4 4. Bg5 e6 5. f3 Bh5 6. g4 Bg6 7. Nh3 h6 8. Bf4 a6 9. e4 Nxe4 10. fxe4 Bxe4 11. Nxe4 dxe4 12. Bg2 f5 13. O-O Qh4 14. Nf2 fxg4 15. Qxg4 Qxg4 16. Nxg4 g5 17. Bxc7 Nc6 18. d5 exd5 19. cxd5 Bc5+ 20. Kh1 Nb4 21. Be5 Rf8 22. Nf6+ Ke7 23. d6+ Bxd6 24. Nd5+ Nxd5 25. Bxd6+ Kxd6 26. Bxe4 Ke5 27. Rxf8 Rxf8 28. Re1 Kd6 29. Rd1 Ke5 30. Bxd5 b5 31. Bb3 a5 32. a4 Rf3 33. Bc2 Rf2 34. Rc1 b4 35. b3 h5 36. Kg1 Rf3 37. Re1+ Kd4 38. Bg6 h4 39. Bh5 Rxb3 40. Be8 Kd3 41. Re5 Rb1+ 42. Kf2 b3 43. Rxg5 b2 44. Bg6+ Kc3 45. Bxb1 Kd2 46. Rc5 h3 47. Kg3 Ke1 48. Kxh3 Kf1 49. Rb5 Kf2 50. Rxb2+ Kf3 51. Rb3+ Kf2 52. Rb5 Kf1 53. Rxa5 Kf2 54. Rf5+ Ke3 55. a5 Kd4 56. a6 Ke3 57. a7 Kd4 58. a8=Q Kc3 1-0
+

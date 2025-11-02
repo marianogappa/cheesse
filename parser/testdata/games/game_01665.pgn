@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/A1WcPgKQ"]
+[White "salko123"]
+[Black "caddy"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:17"]
+[WhiteElo "1985"]
+[BlackElo "1934"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 g6 5. Bf4 Bg7 6. c3 Nge7 7. Nb5 d6 8. Bc4 O-O 9. O-O a6 10. Nd4 Ne5 11. Bb3 c5 12. Nf3 Bg4 13. Bxe5 Bxe5 14. h3 Be6 15. Bc2 Bg7 16. Nbd2 d5 17. e5 Qc7 18. Re1 Nc6 19. Nb3 c4 20. Nbd4 Nxe5 21. Nxe5 Bxe5 22. f4 Bxd4+ 23. Qxd4 Rac8 24. Re5 Qc5 25. Qxc5 Rxc5 26. Rae1 Rb5 27. b3 cxb3 28. axb3 Rc5 29. R1e3 Rfc8 30. f5 gxf5 31. Bxf5 Bxf5 32. Rxf5 Rxc3 33. Rxc3 Rxc3 34. b4 Rb3 35. Rxd5 Rxb4 36. Rd7 b5 37. Kf2 a5 38. g4 a4 39. Kf3 a3 40. g5 Rc4 41. Ra7 b4 42. Kg3 Kg7 43. h4 Kg6 44. Ra6+ Kg7 45. Ra7 Rc2 46. h5 a2 47. Kg4 b3 48. h6+ Kf8 49. Kf5 Rc6 50. Ra8+ Ke7 51. Ra7+ Kd6 52. Rxf7 a1=Q 53. Rxh7 Qb1+ 0-1
+

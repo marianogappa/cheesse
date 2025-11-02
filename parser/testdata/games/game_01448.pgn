@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qHEV0yE4"]
+[White "justbeginner01"]
+[Black "ignatus"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:28"]
+[WhiteElo "1788"]
+[BlackElo "1797"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A65"]
+[Opening "Benoni Defense: King's Pawn Line"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 Be7 7. Nf3 Bg4 8. Be2 Nbd7 9. O-O O-O 10. h3 Bh5 11. Be3 a6 12. Rc1 Re8 13. a3 Qc7 14. Nd2 Bg6 15. f4 h6 16. Bf3 Bd8 17. a4 Nb6 18. Qe2 Qe7 19. Ra1 Nbxd5 20. Nxd5 Nxd5 21. exd5 Qxe3+ 22. Qxe3 Rxe3 23. Nc4 Re8 24. Nxd6 Re7 25. Rfe1 Bc7 26. Rxe7 Bxd6 27. Rxb7 Bd3 28. g3 Re8 29. Kf2 c4 30. Kg2 Re3 31. Rb6 Be7 32. Rb7 Bf6 33. Ra2 Bb1 34. Ra1 Bd3 35. Rc1 g6 36. d6 Kg7 37. d7 Re7 38. Bc6 1-0
+

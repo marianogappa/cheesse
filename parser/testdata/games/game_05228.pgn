@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/UV7p7tRz"]
+[White "cancri_4"]
+[Black "Roymister"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:06"]
+[WhiteElo "1744"]
+[BlackElo "1774"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 b6 3. f3 Bb7 4. c3 Be7 5. Bd3 Bh4+ 6. g3 Bg5 7. f4 Bf6 8. Be3 h5 9. Ne2 h4 10. g4 h3 11. g5 Be7 12. Nd2 Nc6 13. Nf3 d5 14. e5 Na5 15. b3 Ba3 16. O-O Qe7 17. Ng3 O-O-O 18. f5 f6 19. Bc1 Bxc1 20. Qxc1 fxg5 21. Nxg5 Rh4 22. Nf3 Rg4 23. Be2 Nh6 24. Kf2 Nxf5 25. Nd2 Rf4+ 26. Kg1 Qg5 27. Nf3 Qg6 28. Qxf4 Rf8 29. Qd2 Nxg3 30. Qg5 Nxe2+ 31. Kf2 Qc2 32. Qd2 Qxd2 33. Rae1 Nxc3+ 34. Kg1 Qf4 35. Ng5 Qg4+ 36. Kh1 Qg2# 0-1
+

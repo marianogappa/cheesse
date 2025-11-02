@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/9C8loXlk"]
+[White "mfey"]
+[Black "clama"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:57"]
+[WhiteElo "1234"]
+[BlackElo "1516"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. Qf3 dxe4 3. Qxe4 Nf6 4. Qf3 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Qb3 Bxg2 8. Nf3 Bxh1 9. Qxb7 Rb8 10. Qc6+ Nd7 11. Kf1 Rb6 12. Qd5 Rf6 13. Ke2 Bxf3+ 14. Qxf3 Rxf3 15. Kxf3 Ne5+ 0-1
+

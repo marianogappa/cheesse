@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XVxnWAIB"]
+[White "Soare"]
+[Black "claudio54"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:55"]
+[WhiteElo "1394"]
+[BlackElo "1583"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Old Variation"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. e3 e6 4. Bxc4 Nf6 5. Nf3 Nc6 6. O-O Be7 7. Nc3 O-O 8. b3 a6 9. Qc2 b5 10. Bd3 Bb4 11. Ne4 Bb7 12. Bb2 Nxe4 13. Bxe4 Ne7 14. Bxh7+ Kh8 15. Bd3 Bxf3 16. gxf3 Ng6 17. a3 Qg5+ 18. Kh1 Bd6 19. Rg1 Qh6 20. Rg2 Nh4 21. Rxg7 Qxg7 22. d5 f6 23. Rg1 Qh6 24. Rg4 Nxf3 25. Kg2 Ne1+ 26. Kf1 Nxc2 27. Bxc2 Qxh2 28. dxe6 Qh1+ 29. Rg1 Qh3+ 30. Rg2 Rae8 31. Bf5 Qxf5 32. Rh2+ Kg7 33. Rg2+ Qg5 34. Bxf6+ Rxf6 35. Rxg5+ Kh6 36. Rg3 Rexe6 37. Rh3+ Kg7 38. Rh4 Bxa3 39. Rg4+ Kf7 40. f4 Rxe3 41. b4 Rf3+ 42. Kg2 R3xf4 43. Rxf4 Rxf4 44. Kg3 Rxb4 45. Kf3 c5 46. Ke3 c4 47. Kd2 Rb3 48. Kc2 Rh3 49. Kd2 b4 50. Kc2 a5 51. Kd2 a4 52. Kc2 b3+ 53. Kd2 c3+ 54. Kd1 b2 55. Kc2 Rg3 56. Kb1 Rg2 57. Ka2 c2 58. Kxa3 b1=Q 59. Kxa4 Rg3 60. Ka5 Ra3# 0-1
+

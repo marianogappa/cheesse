@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/BMZ8ZNBJ"]
+[White "davewaines"]
+[Black "muttalip"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:28"]
+[WhiteElo "1506"]
+[BlackElo "1522"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+32"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "900+10"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. e3 g6 3. Nf3 Bg7 4. c3 O-O 5. h3 a5 6. Bd3 Na6 7. Nbd2 c5 8. b3 d6 9. Nc4 d5 10. Nb2 b5 11. Bxb5 Ne4 12. Bd3 Nxc3 13. Qc2 Ne4 14. Bxe4 dxe4 15. Qxe4 Ra7 16. Qc2 Bb7 17. Qe2 cxd4 18. exd4 Bxd4 19. Be3 Bc3+ 20. Bd2 Bxb2 21. Rd1 Bxf3 22. Qxf3 Bg7 23. O-O e5 24. Be3 Rd7 25. Rc1 Nb4 26. a3 Nd3 27. Rc2 Re8 28. Qe4 f5 29. Qc4+ Rd5 30. Rd1 e4 31. Kh2 Re7 32. Bg5 Rc7 33. Bxd8 Rxc4 34. Rxc4 Rxd8 35. Rd2 Be5+ 36. Kg1 Bf4 37. Rdc2 Ne5 38. Rc5 Nd3 39. Rxa5 e3 40. fxe3 Bxe3+ 41. Kf1 Bb6 42. Ra6 Bc5 43. b4 Bxb4 44. Ra7 Bc5 45. a4 Re8 46. Re2 Rxe2 47. Kxe2 Bxa7 48. Kxd3 Bb6 49. Kc4 Kg7 50. Kb5 Bf2 51. a5 h5 52. a6 g5 53. Kc6 Kf6 54. Kb7 g4 55. hxg4 fxg4 56. a7 Bxa7 57. Kxa7 h4 58. Kb6 Kf5 59. Kc5 Kf4 60. Kd4 Kg3 61. Ke4 Kxg2 62. Kf4 g3 63. Kg4 h3 64. Kh4 h2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/aANAovr1"]
+[White "SilverRakshasa"]
+[Black "max95"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:30"]
+[WhiteElo "1572"]
+[BlackElo "1607"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C42"]
+[Opening "Petrov's Defense #2"]
+[TimeControl "420+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Qe7 4. Nf3 Nxe4 5. Be2 Nc6 6. O-O d5 7. d4 Bf5 8. c4 O-O-O 9. Nc3 dxc4 10. Bxc4 Qb4 11. Nxe4 Bxe4 12. Bxf7 Nxd4 13. Nxd4 Rxd4 14. Qg4+ Kb8 15. Qe6 Bc5 16. Be3 Bd5 17. Qe5 Bxf7 18. Qxg7 Rdd8 19. Bxc5 Qxc5 20. Qxf7 b6 21. Rad1 Rxd1 22. Rxd1 Qc4 23. Qxc4 1-0
+

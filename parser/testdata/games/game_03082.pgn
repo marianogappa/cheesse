@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bw7M1mAk"]
+[White "cometiebybowtie"]
+[Black "Ssmile"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:35"]
+[WhiteElo "1146"]
+[BlackElo "1319"]
+[WhiteRatingDiff "+47"]
+[BlackRatingDiff "-175"]
+[ECO "A40"]
+[Opening "Englund Gambit"]
+[TimeControl "180+2"]
+[Termination "Time forfeit"]
+
+1. d4 e5 2. Nc3 exd4 3. Qxd4 Nc6 4. Qe3+ Nge7 5. Bd2 g6 6. O-O-O Bg7 7. Qf3 Nb4 8. Kb1 d6 9. e4 Qd7 10. Bc4 d5 11. exd5 Bxc3 12. Bxc3 Nxa2 13. Bxh8 Qa4 14. Bxa2 Bf5 15. Bb3 Qb4 16. Ne2 Bg4 17. Qe3 O-O-O 18. f3 1-0
+

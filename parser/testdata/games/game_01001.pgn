@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/66mMAGNY"]
+[White "Flaccid"]
+[Black "AbdAlQadir"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:39"]
+[WhiteElo "2463"]
+[BlackElo "2276"]
+[WhiteRatingDiff "+53"]
+[BlackRatingDiff "-6"]
+[ECO "C26"]
+[Opening "Vienna Game: Falkbeer Variation"]
+[TimeControl "45+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.29] } 1... e5 { [%eval 0.46] } 2. Nc3 { [%eval 0.02] } 2... Nf6 { [%eval 0.14] } 3. d4 { [%eval -0.34] } 3... exd4 { [%eval -0.34] } 4. Nd5 { [%eval -0.68] } 4... Nxd5 { [%eval -0.72] } 5. exd5 { [%eval -0.72] } 5... Bc5 { [%eval -0.37] } 6. Nf3 { [%eval -0.38] } 6... O-O { [%eval -0.32] } 7. Be2 { [%eval -0.39] } 7... Re8 { [%eval -0.06] } 8. O-O { [%eval -0.37] } 8... h6 { [%eval 0.09] } 9. Bc4 { [%eval -0.38] } 9... d6 { [%eval -0.35] } 10. h3 { [%eval -0.79] } 10... Qf6 { [%eval -0.37] } 11. c3? { [%eval -2.04] } 11... dxc3 { [%eval -1.8] } 12. bxc3 { [%eval -2.2] } 12... Bf5?! { [%eval -1.55] } 13. Bd2 { [%eval -1.81] } 13... Nd7 { [%eval -1.71] } 14. Rc1?! { [%eval -2.64] } 14... Bb6?! { [%eval -1.73] } 15. Bb3 { [%eval -1.97] } 15... Nc5 { [%eval -1.94] } 16. Bc2 { [%eval -1.95] } 16... Nd3 { [%eval -1.9] } 17. Rb1 { [%eval -1.98] } 17... Bg6 { [%eval -1.77] } 18. Be3 { [%eval -2.05] } 18... Bxe3?! { [%eval -1.5] } 19. Bxd3 { [%eval -1.59] } 19... Bb6 { [%eval -1.47] } 20. Bxg6 { [%eval -1.56] } 20... Qxg6 { [%eval -1.44] } 21. Rc1 { [%eval -1.56] } 21... Re4 { [%eval -1.42] } 22. Kh2 { [%eval -1.81] } 22... Rae8 { [%eval -1.78] } 23. Qd3?! { [%eval -2.37] } 23... Qf5?! { [%eval -1.8] } 24. c4? { [%eval -3.13] } 24... Qf4+? { [%eval -1.72] } 25. g3 { [%eval -1.77] } 25... Qf6 { [%eval -1.79] } 26. c5? { [%eval -2.94] } 26... dxc5 { [%eval -2.7] } 27. Kg2 { [%eval -2.87] } 27... c4?! { [%eval -2.23] } 28. Rxc4 { [%eval -2.34] } 28... Re2?! { [%eval -1.58] } 29. Rf4?! { [%eval -2.34] } 29... Qb2 { [%eval -2.3] } 30. Nh4? { [%eval -5.08] } 30... g5 { [%eval -4.95] } 31. Rxf7?? { [%eval -8.82] } 31... Kxf7 { [%eval -7.77] } 32. Qf5+? { [%eval -9.99] } 32... Ke7 { [%eval -9.4] } 33. Qe6+?! { [%eval -24.52] } 33... Kd8 { [%eval -14.37] } 34. Qd7+?! { [%eval #-5] } 1-0
+

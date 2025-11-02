@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ISwBCmwm"]
+[White "Alexxadrez32"]
+[Black "tom2323"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:35"]
+[WhiteElo "1934"]
+[BlackElo "1858"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Queen's Gambit Invitation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. Nf3 e6 2. g3 d5 3. Bg2 c5 4. O-O Bd7 5. d3 Nc6 6. Nfd2 Nf6 7. e4 d4 8. f4 Be7 9. Nf3 Qc7 10. Nbd2 O-O 11. e5 Nd5 12. Ne4 Nd8 13. c4 dxc3 14. Nxc3 Nxc3 15. bxc3 Bc6 16. Be3 b6 17. d4 cxd4 18. cxd4 Rc8 19. Rc1 Qb7 20. Rf2 f6 21. Nd2 Bxg2 22. Rxg2 Rxc1 23. Qxc1 f5 24. Nb3 Nf7 25. Rc2 Nh6 26. Rc7 Qxc7 27. Qxc7 Bb4 28. h3 g6 29. Qxa7 Ba5 30. Nxa5 bxa5 31. Qxa5 Rc8 32. Qb6 Kf7 33. a4 Rc3 34. Bf2 Ng8 35. a5 Ne7 36. a6 Nd5 37. Qb7+ Ke8 38. a7 Ra3 39. a8=Q+ Rxa8 40. Qxa8+ Kd7 41. Qh8 h5 42. Qg7+ Kc6 43. Qxg6 Ne7 44. Qxe6+ 1-0
+

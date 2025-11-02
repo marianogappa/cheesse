@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/o0kOo5eP"]
+[White "gafilho"]
+[Black "nero48"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:38"]
+[WhiteElo "1725"]
+[BlackElo "1692"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C00"]
+[Opening "French Defense: Steinitz Attack"]
+[TimeControl "180+3"]
+[Termination "Normal"]
+
+1. e4 e6 2. e5 d5 3. exd6 cxd6 4. d4 d5 5. Nf3 Nf6 6. Bb5+ Bd7 7. Qe2 Qa5+ 8. Nc3 Bxb5 9. Qxb5+ Qxb5 10. Nxb5 Na6 11. O-O Be7 12. Bf4 O-O 13. c3 Nh5 14. Be3 Rfc8 15. g4 Nf6 16. h3 Nc7 17. Nxc7 Rxc7 18. Bf4 Rcc8 19. Rfe1 h6 20. Ne5 g5 21. Bh2 Ne4 22. f3 Nd6 23. Rac1 Nc4 24. Nxc4 Rxc4 25. b3 Rc6 26. c4 dxc4 27. Rxc4 Rac8 28. Rec1 Ba3 29. R1c2 Rxc4 30. Rxc4 Rxc4 31. bxc4 Bb2 32. Be5 b6 33. Kf2 a5 34. a4 Kh7 35. Ke3 Kg6 36. Bc7 Bc1+ 37. Ke4 f5+ 38. Kd3 h5 39. Bxb6 1-0
+

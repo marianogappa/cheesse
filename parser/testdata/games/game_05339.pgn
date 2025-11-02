@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/9muTUVtp"]
+[White "Yory21"]
+[Black "Fomenkov"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:33"]
+[WhiteElo "1739"]
+[BlackElo "1955"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. f4 e5 3. Nf3 exf4 4. d4 g5 5. Bc4 d5 6. exd5 cxd5 7. Bd3 Bd6 8. O-O Bg4 9. Nbd2 Ne7 10. c3 Ng6 11. Qb3 Bd7 12. Qxd5 O-O 13. Qxg5 Be7 14. Qh5 Nc6 15. Ne5 Ncxe5 16. dxe5 Bc6 17. Be4 Bc5+ 18. Kh1 Be3 19. Bxc6 bxc6 20. Ne4 Kg7 21. Bxe3 fxe3 22. Nf6 Rh8 23. Rf3 Qd2 24. Ng4 e2 25. Rg1 e1=Q 26. Qf5 Qxg1+ 27. Kxg1 Rhf8 28. Qf6+ Kg8 29. Rf2 Qc1+ 30. Rf1 Qd2 31. Rf2 Qd1+ 32. Rf1 Qxg4 33. Rf3 Rad8 34. Rg3 Qd1+ 35. Kf2 Rd2+ 36. Ke3 Rd3+ 37. Ke4 Qe2+ 38. Kf5 Rxg3 39. hxg3 Re8 40. e6 fxe6+ 41. Kg5 Rf8 42. Qxe6+ Qxe6 0-1
+

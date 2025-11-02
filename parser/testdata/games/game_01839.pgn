@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/e58yE4xy"]
+[White "s_o_u_s"]
+[Black "Tomas_V99"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:54"]
+[WhiteElo "1657"]
+[BlackElo "1686"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "A43"]
+[Opening "Benoni Defense: Old Benoni"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 c5 2. d5 d6 3. c4 e6 4. e4 f5 5. f3 Nf6 6. Bd3 Be7 7. Bg5 O-O 8. Ne2 h6 9. Be3 Qb6 10. b3 exd5 11. exd5 Ne8 12. Qc2 Bf6 13. Nbc3 Qd8 14. Bxf5 Bxf5 15. Qxf5 Bxc3+ 16. Nxc3 Rxf5 17. O-O Qf6 18. Rac1 Qg6 19. Ne4 Na6 20. a3 Rd8 21. Kh1 Nf6 22. Ng3 Nc7 23. Nxf5 Qxf5 24. Rce1 b5 25. Bc1 bxc4 26. bxc4 Re8 27. Rxe8+ Ncxe8 28. Bb2 Nc7 29. Re1 Kf7 30. Kg1 Qc2 31. Bc1 Qxc4 32. Rd1 Qc3 33. Kf2 Ncxd5 34. Bd2 Qd3 35. Ke1 Nc3 36. Bxc3 Qxc3+ 37. Ke2 d5 38. Kf2 d4 39. Re1 Qd2+ 40. Re2 Qd3 41. Ke1 Nd5 42. Rd2 Qe3+ 43. Re2 Qc1+ 44. Kf2 Nc3 45. Re1 Qd2+ 46. Kf1 d3 47. g4 Ne2 48. Ra1 Nf4 49. Re1 Qg2# 0-1
+

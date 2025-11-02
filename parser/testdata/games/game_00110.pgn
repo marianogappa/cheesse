@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3H3xXHz1"]
+[White "joelmaklaudia"]
+[Black "castellnovo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:14"]
+[WhiteElo "1464"]
+[BlackElo "1650"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "A48"]
+[Opening "Queen's Pawn Game: Colle System, Gruenfeld Formation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 Nf6 3. Nf3 g6 4. Bd3 Bg7 5. O-O O-O 6. c4 c6 7. c5 Nbd7 8. b4 Re8 9. b5 e5 10. Nxe5 Nxe5 11. dxe5 Nd7 12. Bb2 Nxe5 13. Qd2 cxb5 14. Bxe5 Bxe5 15. Nc3 b4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hCXBUmUJ"]
+[White "flogisto"]
+[Black "GoodByeLenin"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:34"]
+[WhiteElo "1693"]
+[BlackElo "1868"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "B07"]
+[Opening "Rat Defense: Harmonist"]
+[TimeControl "60+3"]
+[Termination "Normal"]
+
+1. e4 d6 2. f4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 c6 6. d4 Qc7 7. Be3 Nbd7 8. e5 Nd5 9. Nxd5 cxd5 10. c3 O-O 11. Qd2 a6 12. Bd3 b5 13. f5 dxe5 14. Bh6 e4 15. Bxg7 Kxg7 16. Bxe4 dxe4 17. Nh4 Nf6 18. O-O-O b4 19. g4 bxc3 20. bxc3 Bb7 21. Qe3 Nd5 22. Qxe4 Nxc3 23. Qe5+ f6 24. Qxc7 Bxh1 25. Qxc3 Rac8 26. Rxh1 Rxc3+ 27. Kd2 Rfc8 28. fxg6 hxg6 29. Rd1 Rc2+ 30. Ke1 Rxa2 31. Nf3 Rcc2 32. d5 Re2+ 33. Kf1 Rf2+ 34. Kg1 Rxf3 35. d6 exd6 36. Rxd6 Rxh3 37. Rd7+ Kh6 38. Rd8 Kg5 39. Rd5+ Kf4 40. Rd4+ Ke5 41. Rd8 Rb3 42. Rd1 Kf4 43. Rf1+ Kxg4 44. Rxf6 Rb1+ 45. Rf1 Rxf1+ 46. Kxf1 0-1
+

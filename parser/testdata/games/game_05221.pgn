@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/9xbQ9hwo"]
+[White "j64u2"]
+[Black "dxdy"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:06"]
+[WhiteElo "1913"]
+[BlackElo "1624"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "C21"]
+[Opening "Danish Gambit Accepted"]
+[TimeControl "300+9"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Nc6 6. Qh5 g6 7. Qf3 f6 8. Ne2 Bb4+ 9. Nec3 Nd4 10. Qd3 c5 11. O-O Ne7 12. Nd5 Nxd5 13. Bxd5 Ne6 14. Qc4 O-O 15. Rd1 a6 16. Bxe6+ Kg7 17. e5 Kh8 18. a3 b5 19. Qd5 dxe6 20. Qxd8 Rxd8 21. Rxd8+ Kg7 22. exf6+ Kf7 23. axb4 cxb4 24. Nd2 Bb7 25. Rd7+ 1-0
+

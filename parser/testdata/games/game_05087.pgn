@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bHi1YZaL"]
+[White "faridov"]
+[Black "G_Les"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:32"]
+[WhiteElo "1283"]
+[BlackElo "1280"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "600+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nf6 4. Ng5 h6 5. Nxf7 Qd7 6. Nxh8 Nxe4 7. Qh5+ Kd8 8. Nf7+ Ke8 9. Nxd6+ Ke7 10. Nxe4 Qd4 11. Qf7+ Kd8 12. Qxf8+ Kd7 13. Qxg7+ Kd8 14. Qg8+ Kd7 15. Be6+ Kc6 16. Bxc8 Qxe4+ 17. Kf1 Qxc2 18. Qe6+ Kb5 19. Qxe5+ Kc6 20. Qe6+ Kb5 21. Qb3+ Qxb3 22. axb3 1-0
+

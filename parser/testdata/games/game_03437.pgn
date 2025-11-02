@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bgwC0R2I"]
+[White "mosslegend"]
+[Black "Kingcusicrunch"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:07"]
+[WhiteElo "2029"]
+[BlackElo "2021"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "C48"]
+[Opening "Four Knights Game: Spanish Variation, Classical Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bc5 5. O-O O-O 6. Bxc6 dxc6 7. Nxe5 Qe7 8. d4 Bd6 9. f4 c5 10. Kh1 cxd4 11. Qxd4 Bxe5 12. fxe5 Nd7 13. Nd5 Qxe5 14. Qxe5 Nxe5 15. Nxc7 Rb8 16. Bf4 f6 17. Rad1 Bg4 18. Rd5 Rbc8 19. h3 Bh5 20. Bxe5 fxe5 21. Rxf8+ Rxf8 22. Kg1 Bg6 23. Rxe5 Rc8 24. Re7 Kf8 25. Rd7 Bxe4 26. c3 Bf5 27. Rd5 Rxc7 28. Rxf5+ Ke7 29. Kf2 Rd7 30. Rb5 a6 31. Rb4 a5 32. Rd4 Rc7 33. g4 Rc5 34. Ke3 Re5+ 35. Re4 Kd6 36. b3 g5 37. Kd4 Rd5+ 38. Ke3 Rd1 39. Rd4+ Rxd4 40. Kxd4 b5 41. c4 b4 42. Ke4 Kc5 43. Ke5 a4 44. Ke4 axb3 45. axb3 h6 46. Ke5 Kc6 47. Kd4 1-0
+

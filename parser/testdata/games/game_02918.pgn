@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fvJFF7Zz"]
+[White "Toshark"]
+[Black "Myts"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:55"]
+[WhiteElo "1882"]
+[BlackElo "1931"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C45"]
+[Opening "Scotch Game: Classical Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.29] } 1... e5 { [%eval 0.29] } 2. Nf3 { [%eval 0.2] } 2... Nc6 { [%eval 0.39] } 3. d4 { [%eval 0.18] } 3... exd4 { [%eval 0.25] } 4. Nxd4 { [%eval 0.11] } 4... Bc5 { [%eval 0.16] } 5. Be3 { [%eval 0.21] } 5... Qe7 { [%eval 0.56] } 6. Nc3 { [%eval 0.61] } 6... Nf6?! { [%eval 1.46] } 7. Nf5 { [%eval 1.4] } 7... Qe5? { [%eval 3.37] } 8. Bxc5? { [%eval 0.83] } 8... Nxe4?? { [%eval 4.12] } 9. Nxe4? { [%eval 3.08] } 9... Qxf5? { [%eval 4.59] } 10. Bd3 { [%eval 4.19] } 10... Qd5? { [%eval 6.12] } 11. O-O { [%eval 5.95] } 11... d6?! { [%eval 6.69] } 12. Be3? { [%eval 3.73] } 12... O-O?? { [%eval 8.82] } 13. Nc3?? { [%eval 4.43] } 13... Qe6?! { [%eval 4.96] } 14. Qh5?! { [%eval 4.01] } 14... g6? { [%eval 5.1] } 15. Qh4 { [%eval 4.78] } 15... Ne5? { [%eval 6.41] } 16. Rad1? { [%eval 4.61] } 16... Qg4 { [%eval 4.62] } 17. Qxg4? { [%eval 3.43] } 17... Nxg4 { [%eval 3.89] } 18. Bf4 { [%eval 3.79] } 18... Nf6? { [%eval 4.96] } 19. Ne4? { [%eval 3.69] } 19... Nxe4 { [%eval 3.64] } 20. Bxe4 { [%eval 3.56] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OTdEyA69"]
+[White "mtuzzolo"]
+[Black "sylvain64"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:26"]
+[WhiteElo "1230"]
+[BlackElo "1204"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Bg5 h6 6. Bh4 g5 7. Bg3 d5 8. exd5 Nxd5 9. c3 Be6 10. d4 exd4 11. cxd4 Bb6 12. O-O Qd7 13. h3 O-O-O 14. Nc3 Nxd4 15. Nxd4 Nxc3 16. bxc3 Bxc4 17. Nb3 Bxf1 18. Qxd7+ Rxd7 19. Rxf1 Rhd8 20. a4 f5 21. a5 f4 22. Bh2 Rd1 23. axb6 axb6 24. g3 fxg3 25. Bxg3 R1d3 26. Be5 Rxh3 27. Bf6 Rh4 28. Bxd8 Kxd8 29. Rd1+ Kc8 30. Nd4 Rg4+ 31. Kh2 h5 32. f3 Rf4 33. Kg2 g4 34. fxg4 Rxg4+ 35. Kf3 Rg8 36. Ne6 h4 37. Kf2 h3 38. Rh1 Rh8 39. Nf4 h2 40. Kg2 c5 41. Rxh2 Rxh2+ 42. Kxh2 b5 43. Nd5 Kd7 44. Kg3 Kd6 45. Ne3 b4 46. cxb4 cxb4 47. Nd1 b3 48. Kf3 Kc5 49. Ke3 Kc4 50. Kd2 Kb4 51. Kc1 Ka3 52. Kb1 Kb4 53. Kb2 Kc4 0-1
+

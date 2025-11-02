@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/2O5cMuH7"]
+[White "Skenderbei"]
+[Black "fbilsen"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:12"]
+[WhiteElo "1388"]
+[BlackElo "1118"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "A00"]
+[Opening "Global Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. h3 e5 2. a3 f5 3. a4 d6 4. h4 Nf6 5. h5 Bd7 6. a5 Nc6 7. a6 b6 8. e3 f4 9. c3 fxe3 10. dxe3 Bg4 11. f3 Bxh5 12. Rxh5 Nxh5 13. f4 Qh4+ 14. Kd2 exf4 15. Nf3 fxe3+ 16. Kxe3 Qf4+ 17. Kf2 Qg3+ 18. Kg1 Nf4 19. Bxf4 Qxf4 20. Qe2+ Be7 21. Nbd2 O-O-O 22. b4 Qf5 23. b5 Ne5 24. Nxe5 dxe5 25. Nf3 Bc5+ 26. Kh1 1-0
+

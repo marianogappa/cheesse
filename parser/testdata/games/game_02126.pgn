@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/aixyNbCP"]
+[White "aavza50"]
+[Black "zkralla"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:01"]
+[WhiteElo "1753"]
+[BlackElo "1654"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Pirc Invitation"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. Nf3 d6 2. g3 Bg4 3. Bg2 Bxf3 4. Bxf3 c6 5. O-O f6 6. e3 e5 7. Qe2 Nd7 8. e4 Qc7 9. d3 O-O-O 10. c3 g5 11. b3 h5 12. Bg2 g4 13. h3 h4 14. hxg4 hxg3 15. fxg3 Ne7 16. Kf2 Kb8 17. Rh1 Qc8 18. Rxh8 Bg7 19. Rh1 f5 20. Nd2 f4 21. gxf4 exf4 22. Nf3 Ng6 23. Bh3 Nge5 24. g5 Nxf3 25. Qxf3 Bxc3 26. Rb1 Bd4+ 27. Kf1 Bc5 28. Bb2 b6 29. Bf6 Bb4 30. Bxd8 Qxd8 31. Qg4 Qe7 32. Qxd7 Qe5 33. Qc8# 1-0
+

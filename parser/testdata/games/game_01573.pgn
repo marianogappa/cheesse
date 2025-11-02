@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/EHgZHlXx"]
+[White "andyisyoda"]
+[Black "ujang70"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:53"]
+[WhiteElo "1742"]
+[BlackElo "1895"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Stonewall Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 Nf6 3. Bd3 g6 4. h3 Bg7 5. Nf3 c6 6. Qe2 Nbd7 7. e4 dxe4 8. Bxe4 Nxe4 9. Qxe4 Nb6 10. O-O Bf5 11. Qf4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ffk0JTLo"]
+[White "alanwillson"]
+[Black "stfn"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:35"]
+[WhiteElo "1506"]
+[BlackElo "1741"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-17"]
+[ECO "A12"]
+[Opening "Reti Opening: Anglo-Slav Variation, Torre System"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. Nf3 c6 2. c4 d5 3. g3 Nf6 4. b3 Bg4 5. Ne5 Bf5 6. Bg2 Nbd7 7. d3 Nxe5 8. Bb2 Ned7 9. e4 dxe4 10. dxe4 Bg4 11. f3 Be6 12. f4 Bg4 13. Qc2 h6 14. Nd2 e6 15. h3 Bh5 16. g4 Bxg4 17. hxg4 Nxg4 18. Bh3 Ngf6 19. e5 Nh7 20. Bf1 Bc5 21. Bd3 Qb6 22. Bxh7 Bf2+ 23. Kd1 O-O-O 24. Bd3 Qe3 25. Ne4 Nb6 26. Nxf2 Qf3+ 27. Kc1 Qxf4+ 28. Qd2 Qg3 29. Kc2 Rd7 30. Rag1 Qf3 31. Rxg7 Rhd8 32. Rhg1 Rxd3 33. Nxd3 Qf5 34. Rg8 Nd7 35. Rxd8+ Kxd8 36. Rg8+ Kc7 37. Qa5+ b6 38. Qxa7# 1-0
+

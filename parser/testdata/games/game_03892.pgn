@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EvtmyNW7"]
+[White "StariTatko"]
+[Black "atamacas"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:51"]
+[WhiteElo "1595"]
+[BlackElo "1624"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C22"]
+[Opening "Center Game: Normal Variation"]
+[TimeControl "60+5"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd1 Bb4+ 5. Bd2 Bc5 6. Bb5 1-0
+

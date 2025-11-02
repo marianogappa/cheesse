@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Qiy750wg"]
+[White "Cauchy_schwarz"]
+[Black "chessgermz"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:59"]
+[WhiteElo "1197"]
+[BlackElo "1237"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-35"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e3 e5 2. Qh5 Nf6 3. Qxe5+ Be7 4. Qg5 h6 5. Qxg7 Rg8 6. Qxh6 Ne4 7. f3 Rg6 8. Qh7 Ng5 9. Qh8+ Bf8 10. f4 Ne4 11. Bd3 Rh6 12. Qe5+ Be7 13. Bxe4 1-0
+

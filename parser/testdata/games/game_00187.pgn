@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/dwa4BDd3"]
+[White "alfiererosanero"]
+[Black "kurzeme"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:33"]
+[WhiteElo "1842"]
+[BlackElo "1904"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-11"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+
+1. e4 c6 2. f4 d5 3. e5 Bf5 4. Nf3 e6 5. d3 c5 6. c3 Nc6 7. Be2 f6 8. O-O fxe5 9. fxe5 Nge7 10. Na3 Ng6 11. Nc2 Ncxe5 12. Nxe5 Nxe5 13. Bf4 Bd6 14. d4 cxd4 15. Nxd4 g6 16. g4 Be4 17. Nxe6 Qh4 18. Bb5+ Ke7 19. Nd4 Nf3+ 20. Nxf3 Bxf3 21. Qxf3 Rhf8 22. Rae1+ Kd8 23. Re6 Rxf4 24. Rxd6+ Kc7 25. Rd7+ Kb6 26. Qxf4 Kxb5 27. Rxb7+ Kc6 28. Qc7# 1-0
+

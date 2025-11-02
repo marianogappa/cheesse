@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ltfnXpor"]
+[White "gf80"]
+[Black "sam_bill"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:10"]
+[WhiteElo "1526"]
+[BlackElo "1523"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. e4 f5 2. Nc3 fxe4 3. Nxe4 d5 4. Nc3 e6 5. d4 Bb4 6. Bd2 Nf6 7. a3 O-O 8. Nf3 Bxc3 9. Bxc3 Nc6 10. Bb5 Bd7 11. Bxc6 Bxc6 12. Qd3 Ne4 13. O-O-O Nxf2 14. Qd2 Nxh1 15. Rxh1 Bb5 16. g4 Rxf3 17. Re1 Qh4 18. Rxe6 Rf1+ 19. Re1 Rxe1+ 20. Qxe1 Qxe1+ 21. Bxe1 Re8 22. Kd2 Re4 23. c3 Rxg4 24. Kc2 Rg2+ 25. Kb3 Rxh2 26. Bg3 Rh3 27. Bxc7 g5 28. a4 Bc4+ 29. Kb4 g4 30. b3 Bd3 31. Kc5 g3 32. Bxg3 Rxg3 33. Kxd5 h5 0-1
+

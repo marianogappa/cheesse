@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ygUe0gyB"]
+[White "DutchMountain2"]
+[Black "bojanknife"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:47"]
+[WhiteElo "1579"]
+[BlackElo "1710"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B08"]
+[Opening "Pirc Defense: Classical Variation"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. Nf3 Nf6 3. Nc3 g6 4. d4 Bg7 5. Bc4 O-O 6. Be3 c5 7. dxc5 Qa5 8. cxd6 Nxe4 9. dxe7 Re8 10. O-O Nxc3 11. bxc3 Qxc3 12. Qd5 Be6 13. Qxb7 Qxc4 14. Qxa8 Bxa1 15. Rxa1 Qc6 16. Qxa7 Nd7 17. Bh6 Qc3 18. Re1 Nf6 19. h3 Bd5 20. Re3 Qa1+ 21. Kh2 Bxf3 22. Rxf3 Qe5+ 23. g3 Qxe7 24. Qxe7 Rxe7 25. Rxf6 Re2 26. Rc6 f5 27. Kg1 Kf7 28. a4 Re1+ 29. Kg2 Ra1 30. Rc4 Ra2 31. Bf4 Ke6 32. h4 h6 33. f3 g5 34. hxg5 hxg5 35. Bxg5 Kd5 36. Rb4 Rxc2+ 37. Kh3 Ra2 38. Kh4 Ke6 39. Kh5 Rh2+ 40. Bh4 Rf2 41. f4 Ra2 42. Kg5 Ra3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/BWruEviO"]
+[White "TerrorAtTheOpera"]
+[Black "jorao"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:52"]
+[WhiteElo "1327"]
+[BlackElo "1307"]
+[WhiteRatingDiff "-19"]
+[BlackRatingDiff "+11"]
+[ECO "C40"]
+[Opening "Latvian Gambit Accepted"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 f5 3. exf5 e4 4. Nd4 Nf6 5. Nc3 c5 6. Nb3 d5 7. d3 Bxf5 8. dxe4 Nxe4 9. Bb5+ Nc6 10. O-O Nxc3 11. bxc3 Be7 12. Ba3 O-O 13. Bxc5 Bxc5 14. Nxc5 Qb6 15. Bxc6 Qxc6 16. Nd3 Rad8 17. Rb1 b6 18. Qf3 Qxc3 19. Ne5 Qxe5 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/fT3Peu7D"]
+[White "randomalbumtitle"]
+[Black "LaKobra"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:51"]
+[WhiteElo "1644"]
+[BlackElo "1717"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "C10"]
+[Opening "French Defense: Rubinstein Variation"]
+[TimeControl "1200+3"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 c5 5. c3 cxd4 6. cxd4 Nc6 7. Bb5 Qa5+ 8. Nc3 Bd7 9. Bxc6 Bxc6 10. Bd2 Bxg2 11. Nd5 Qxd5 12. Qa4+ b5 0-1
+

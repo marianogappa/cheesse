@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xSFZMm1J"]
+[White "getmohsinpy"]
+[Black "Iader"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:10"]
+[WhiteElo "1774"]
+[BlackElo "1769"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B07"]
+[Opening "Pirc Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. d4 Nf6 3. e5 dxe5 4. dxe5 Qxd1+ 5. Kxd1 Ng4 6. Nh3 Nxe5 7. Bf4 Nbd7 8. Nc3 c6 9. Kd2 g6 10. Re1 Bg7 11. Kc1 O-O 12. Bg3 h6 13. Nf4 g5 14. Nfe2 f5 15. f4 Ng6 16. fxg5 hxg5 17. h4 gxh4 18. Bxh4 Nxh4 19. Rxh4 e5 20. g4 f4 21. g5 Nc5 22. Bg2 Bf5 23. Bf3 e4 24. Bg4 f3 25. Bxf5 Rxf5 26. Ng3 Rxg5 27. Ncxe4 Nxe4 28. Nxe4 Re5 29. Rg4 Kf8 30. Rf1 Rf5 31. Ng5 Bh6 32. Kd1 Bxg5 33. Rfg1 f2 34. Rf1 Be3 35. Ke2 Bb6 36. a4 Re8+ 37. Kd2 Kf7 38. c3 a6 39. b4 a5 40. bxa5 Bxa5 41. Rg2 Bb6 42. c4 Bc5 43. Kd3 b6 44. Rg4 Re1 0-1
+

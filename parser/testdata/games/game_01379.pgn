@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/uXFImRYz"]
+[White "Dechecenechec"]
+[Black "Vathanan"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:11"]
+[WhiteElo "1426"]
+[BlackElo "1457"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "3600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Ne2 h5 4. Nbc3 Qe5 5. d4 Qe6 6. g3 Nf6 7. Bg2 c6 8. Be3 Na6 9. Nf4 Qg4 10. f3 Qf5 11. h4 Qh7 12. Qd2 Bf5 13. d5 Nb4 14. Rc1 Nxc2+ 15. Kd1 Nb4 16. dxc6 Bc2+ 17. Ke1 Nd3+ 18. Nxd3 Qxd3 19. Qxd3 Bxd3 20. Rd1 Bc2 21. Rd2 Bf5 22. Ke2 bxc6 23. Rhd1 Nd7 24. f4 Bg4+ 25. Bf3 e5 26. Bxg4 hxg4 27. Rxd7 Rb8 28. b3 c5 29. Rxa7 c4 30. b4 Rxb4 31. Rd2 Rb8 32. Rdd7 Bb4 33. Nd5 Ba3 34. Nb6 O-O 35. Nxc4 Bb4 36. Nxe5 Rbc8 37. Ng6 Rc2+ 38. Kd3 Rc3+ 39. Ke4 Re8+ 40. Kf5 fxg6+ 41. Kxg4 Rcxe3 42. Rxg7+ Kh8 43. Rh7+ Kg8 44. Rag7+ Kf8 45. Rb7 R8e7 46. Rb8+ Re8 47. Rxb4 Kg8 48. Rh6 Kg7 49. Rb6 Ra3 50. Rhxg6+ Kf7 51. f5 Rxa2 52. Rb7+ Kf8 53. Rgg7 Re4+ 54. Kg5 Raa4 55. Rgf7+ Ke8 56. Rh7 Rg4+ 57. Kh5 Rgd4 58. Rh8# 1-0
+

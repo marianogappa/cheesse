@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZnE4nbqo"]
+[White "Inciapter"]
+[Black "shahram_ab"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:00"]
+[WhiteElo "2085"]
+[BlackElo "2057"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. f4 d5 2. Nf3 e6 3. d3 Nf6 4. g3 c5 5. Bg2 Nc6 6. O-O Bd6 7. e4 dxe4 8. dxe4 Nxe4 9. Ne5 Bxe5 10. fxe5 Qxd1 11. Rxd1 f5 12. exf6 Nxf6 13. Be3 c4 14. Na3 Nd5 15. Bf2 c3 16. bxc3 Nxc3 17. Rd3 Nd5 18. Nb5 O-O 19. Re1 Ncb4 20. Rd4 Nxc2 21. Rxd5 Nxe1 22. Re5 Nxg2 23. Kxg2 Bd7 24. Nxa7 Rxf2+ 25. Kxf2 Rxa7 0-1
+

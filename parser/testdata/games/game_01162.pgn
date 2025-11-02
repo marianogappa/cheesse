@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/2D5Xa1Be"]
+[White "el_maurice"]
+[Black "Tromto"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:21"]
+[WhiteElo "1427"]
+[BlackElo "1441"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "B73"]
+[Opening "Sicilian Defense: Dragon Variation, Classical Variation #2"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d6 5. Nc3 g6 6. Be3 Bg7 7. Be2 Nf6 8. f4 Qc7 9. Qd3 a6 10. O-O-O b5 11. e5 dxe5 12. fxe5 Nxe5 13. Qd2 Rb8 14. Rhe1 b4 15. Nb1 b3 16. c3 bxa2 17. Qc2 Qb6 18. Nb3 Qxe3+ 19. Rd2 Qb6 20. Na1 a5 21. b3 Bd7 22. Qxa2 a4 23. b4 Bb5 24. Bxb5+ Qxb5 25. Red1 Rd8 26. Rxd8# 1-0
+

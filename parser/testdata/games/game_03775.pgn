@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EJdRKC5a"]
+[White "ArN01"]
+[Black "videth"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:27"]
+[WhiteElo "1464"]
+[BlackElo "1388"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 Nc6 3. Nf3 Bg4 4. d4 Bxf3 5. gxf3 e6 6. f4 f6 7. Bb5 fxe5 8. fxe5 Ne7 9. Nc3 a6 10. Bxc6+ Nxc6 11. Be3 g6 12. a3 Qh4 13. Qf3 Nxd4 14. O-O-O Nxf3 15. Ne2 Nxe5 16. Nf4 Nc4 17. Nxe6 Nxe3 18. fxe3 Kf7 19. Nxc7 Rd8 20. Nxd5 Qe4 21. Nf4 Qxe3+ 22. Kb1 Rxd1+ 23. Rxd1 Qxf4 24. Rd7+ Kg8 25. Rxb7 0-1
+

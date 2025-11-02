@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/LZ8IvtBE"]
+[White "naqalsamoht"]
+[Black "lasticot22"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:06"]
+[WhiteElo "1458"]
+[BlackElo "1627"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "B08"]
+[Opening "Pirc Defense: Classical Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.22] } 1... g6 { [%eval 0.55] } 2. Nf3 { [%eval 0.51] } 2... Bg7 { [%eval 0.45] } 3. d4 { [%eval 0.5] } 3... d6 { [%eval 0.52] } 4. Nc3 { [%eval 0.39] } 4... Nf6 { [%eval 0.55] } 5. Be3 { [%eval 0.38] } 5... O-O { [%eval 0.5] } 6. Bd3 { [%eval 0.19] } 6... Nbd7 { [%eval 0.29] } 7. Qd2 { [%eval 0.02] } 7... a6 { [%eval 0.15] } 8. e5 { [%eval -0.26] } 8... b5? { [%eval 2.48] } 9. exf6 { [%eval 2.64] } 9... Nxf6 { [%eval 2.48] } 10. Ne4 { [%eval 2.52] } 10... Nxe4 { [%eval 2.83] } 11. Bxe4 { [%eval 2.6] } 11... Rb8?! { [%eval 3.31] } 12. h4 { [%eval 3.06] } 12... f5?! { [%eval 3.71] } 13. Bd3?! { [%eval 2.86] } 13... e6? { [%eval 4.16] } 14. h5 { [%eval 3.91] } 14... Qe7?! { [%eval 4.87] } 15. hxg6 { [%eval 4.63] } 15... hxg6 { [%eval 4.72] } 16. Bh6 { [%eval 4.4] } 16... Rf7? { [%eval 6.02] } 17. Bxg7 { [%eval 6.01] } 17... Rxg7 { [%eval 5.37] } 18. O-O-O { [%eval 4.61] } 18... c5? { [%eval 7.27] } 19. d5? { [%eval 4.53] } 19... c4? { [%eval 5.87] } 20. Be2 { [%eval 5.75] } 20... e5 { [%eval 5.69] } 21. Nh4?? { [%eval 2.65] } 21... a5? { [%eval 5.33] } 22. Qh6 { [%eval 5.0] } 22... Qf7?? { [%eval #3] } 23. c3?? { [%eval 4.62] } 23... b4?? { [%eval #3] } 24. Nxf5?? { [%eval 1.14] } 24... gxf5?? { [%eval #1] } 25. Bh5?? { [%eval 3.37] } 25... Qf8?? { [%eval #2] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Xfn0Cb72"]
+[White "PirateAvogadro"]
+[Black "nnaax"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:53"]
+[WhiteElo "1469"]
+[BlackElo "1521"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "120+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 Nc6 4. Nxd4 Nxd4 5. Qxd4 b6 6. Bc4 Bc5 7. Qd5 c6 8. Qe5+ Qe7 9. Qxg7 Qxe4+ 10. Be2 Bd4 11. Qg5 Ne7 12. c3 Rg8 13. Be3 Rxg5 14. Bxg5 0-1
+

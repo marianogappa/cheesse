@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VfecY53Z"]
+[White "byGarooh"]
+[Black "avolt"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:15"]
+[WhiteElo "1153"]
+[BlackElo "1223"]
+[WhiteRatingDiff "-25"]
+[BlackRatingDiff "+8"]
+[ECO "C27"]
+[Opening "Bishop's Opening: Boden-Kieseritzky Gambit"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nxe4 4. Nc3 Nxc3 5. bxc3 c6 6. Nxe5 d5 7. Bb3 Qf6 8. Qe2 Be7 9. c4 O-O 10. cxd5 Re8 11. Qf3 Bf5 12. c3 Bd6 13. dxc6 Rxe5+ 14. Kd1 Nxc6 15. Qh5 Bc2+ 16. Kxc2 Rxh5 17. Re1 Qf5+ 18. d3 Qxf2+ 19. Bd2 Bf4 20. Re7 Qxd2+ 0-1
+

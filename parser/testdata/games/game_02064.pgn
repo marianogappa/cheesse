@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gi73eGv4"]
+[White "josecasares"]
+[Black "adriaticor2"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:44"]
+[WhiteElo "1336"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-276"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 Nc6 3. Nf3 d5 4. e5 Bd7 5. c4 Nce7 6. cxd5 Nxd5 7. a4 Bb4+ 8. Bd2 Bxd2+ 9. Nbxd2 Nh6 10. Bb5 c6 11. Bc4 Nf4 12. O-O O-O 13. h3 f6 14. b4 fxe5 15. dxe5 Rf5 16. Re1 Rh5 17. Nd4 Qg5 18. Nxe6 Nxh3+ 19. Kf1 Ng4 20. Nxg5+ Kh8 21. Nxh3 Nh2+ 22. Kg1 Nf3+ 23. Qxf3 Bxh3 24. gxh3 Rxh3 25. Qxh3 Rf8 26. Ne4 1-0
+

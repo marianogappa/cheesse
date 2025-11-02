@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/nWxRF1uF"]
+[White "anatonda"]
+[Black "user1029"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:11"]
+[WhiteElo "1724"]
+[BlackElo "1543"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[ECO "C31"]
+[Opening "King's Gambit, Falkbeer Countergambit, Staunton Line"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. Nc3 Nf6 5. d3 Bb4 6. dxe4 O-O 7. Bd3 Re8 8. e5 Nxd5 9. Ne2 Bg4 10. O-O Qh4 11. Nxd5 Bc5+ 12. Be3 1-0
+

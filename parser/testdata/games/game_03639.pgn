@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/CZteuTkb"]
+[White "fbilsen"]
+[Black "GustavoCXT"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:50"]
+[WhiteElo "1132"]
+[BlackElo "1258"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "C64"]
+[Opening "Ruy Lopez: Classical Variation, Central Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.35] } 1... e5 { [%eval 0.37] } 2. Nf3 { [%eval 0.37] } 2... Nc6 { [%eval 0.31] } 3. Bb5 { [%eval 0.16] } 3... Bc5 { [%eval 0.47] } 4. c3 { [%eval 0.5] } 4... Qf6?! { [%eval 1.09] } 5. d3?! { [%eval 0.51] } 5... h6 { [%eval 0.71] } 6. Be3 { [%eval 0.24] } 6... Bb6 { [%eval 0.37] } 7. Na3 { [%eval 0.1] } 7... Nge7 { [%eval 0.21] } 8. Nc4 { [%eval 0.08] } 8... d6 { [%eval 0.27] } 9. Qb3?! { [%eval -0.33] } 9... Be6 { [%eval 0.0] } 10. Bxc6+?! { [%eval -0.56] } 10... bxc6 { [%eval -0.56] } 11. d4?! { [%eval -1.45] } 11... a5? { [%eval 0.47] } 12. d5? { [%eval -1.9] } 12... a4? { [%eval -0.38] } 13. Qc2? { [%eval -2.08] } 13... cxd5 { [%eval -1.55] } 14. exd5 { [%eval -2.04] } 14... Bxd5 { [%eval -2.08] } 15. Bxb6 { [%eval -2.04] } 15... Bxf3? { [%eval -0.48] } 16. gxf3? { [%eval -1.52] } 16... Qxf3? { [%eval -0.25] } 17. Rg1 { [%eval -0.66] } 17... cxb6 { [%eval -0.27] } 18. Nxb6? { [%eval -1.99] } 18... O-O? { [%eval 0.0] } 19. Qe2? { [%eval -2.03] } 19... Qxe2+ { [%eval -2.02] } 20. Kxe2 { [%eval -1.93] } 20... Rab8? { [%eval -0.46] } 21. Rgd1?? { [%eval -6.07] } 21... Rxb6 { [%eval -5.92] } 22. Rac1? { [%eval -7.34] } 22... Rxb2+ { [%eval -7.3] } 23. Rd2 { [%eval -7.25] } 23... Rxd2+ { [%eval -7.17] } 24. Kxd2 { [%eval -7.12] } 24... Rd8?! { [%eval -6.58] } 25. Rb1 { [%eval -6.42] } 25... d5 { [%eval -6.06] } 0-1
+

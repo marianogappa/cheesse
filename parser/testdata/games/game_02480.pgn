@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/RqcToPbU"]
+[White "BeepBeepImaJeep2"]
+[Black "fafalepotedericou"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:25"]
+[WhiteElo "1453"]
+[BlackElo "1498"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+9"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Symmetrical Variation"]
+[TimeControl "60+1"]
+[Termination "Time forfeit"]
+
+1. b3 b6 2. Bb2 Nc6 3. f3 d5 4. e3 e5 5. c4 Be6 6. cxd5 Bxd5 7. e4 Be6 8. g3 Bc5 9. Bg2 Nf6 10. Ne2 O-O 11. Nbc3 Bd4 12. Nxd4 Nxd4 13. Ne2 Nxe2 14. Qxe2 a6 15. Bxe5 Nd7 16. Bf4 Nc5 17. O-O Qd3 18. Qxd3 Nxd3 19. Bxc7 Rac8 20. Bxb6 Rc2 21. Be3 Rfc8 22. f4 g6 23. Bf3 Bh3 24. Rfd1 Nb2 25. Rdb1 Nd3 26. Be2 Nb4 27. Rd1 Nxa2 28. Bc4 a5 29. Kf2 Nb4 30. Kf3 h5 31. Kf2 Kg7 32. Rxa5 Nc6 33. Rc5 Bd7 34. Bb5 Rxc5 35. Bxc6 R5xc6 36. Kf3 Rc1 37. Rxc1 Rxc1 38. f5 Rb1 39. fxg6 fxg6 40. Bf4 Rxb3+ 41. Be3 Bg4+ 42. Kf4 Rb1 43. Kg5 Rh1 44. Kf4 Rxh2 45. e5 Re2 46. e6 Bxe6 47. d4 Bg4 48. d5 Re1 49. d6 Rd1 50. Bc5 Rd5 51. Ke4 Rxc5 52. Kd4 Ra5 53. d7 Bxd7 54. Kc4 Rg5 55. Kd4 Rxg3 56. Ke4 h4 57. Kf4 Bf5 58. Ke5 h3 59. Kf4 Rg4+ 60. Kf3 h2 61. Kf2 h1=Q 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/4aYgG6xW"]
+[White "avpr"]
+[Black "Danny_D"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:57"]
+[WhiteElo "1010"]
+[BlackElo "1288"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "45+0"]
+[Termination "Time forfeit"]
+
+1. g3 e6 2. Bg2 Qf6 3. e4 g5 4. f3 Qe7 5. Qe2 d5 6. Nh3 dxe4 7. fxe4 e5 8. Qf3 Qd6 9. Nxg5 c5 10. d3 Nh6 11. Be3 Qe7 12. Nxf7 Qxf7 13. Bxh6 Qxf3 14. Bxf3 Bxh6 15. Bh5+ Ke7 16. Rf1 Rf8 17. Nc3 Rxf1+ 18. Kxf1 Bd7 19. Nd5+ Kd6 20. Nf6 Nc6 21. Nxd7 b6 22. Nf6 Rf8 23. Bg4 Rxf6+ 24. Kg2 Be3 25. h4 Rf2+ 26. Kg1 Rxc2+ 0-1
+

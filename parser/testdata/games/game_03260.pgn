@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HVoWLiX5"]
+[White "NOZILEV"]
+[Black "smaczek05"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:26"]
+[WhiteElo "1844"]
+[BlackElo "2039"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "A43"]
+[Opening "Franco-Benoni Defense"]
+[TimeControl "180+3"]
+[Termination "Normal"]
+
+1. d4 c5 2. d5 e6 3. e4 exd5 4. exd5 d6 5. c4 Ne7 6. Bg5 h6 7. Bh4 Qb6 8. Qe2 g5 9. Bg3 Bg7 10. Nc3 O-O 11. Qxe7 Qxb2 12. Bxd6 Bxc3+ 13. Kd1 Qd2# 0-1
+

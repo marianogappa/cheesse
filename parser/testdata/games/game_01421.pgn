@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/IM2fluaW"]
+[White "HaytemBrb"]
+[Black "wkdwlstjr09"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:16"]
+[WhiteElo "1538"]
+[BlackElo "1695"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-15"]
+[ECO "C21"]
+[Opening "Danish Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. c3 Nc6 4. cxd4 Qe7 5. Nc3 g6 6. Bb5 Bg7 7. Nf3 d6 8. O-O a6 9. Bc4 Qd7 10. d5 Ne5 11. Nxe5 Bxe5 12. Re1 Ne7 13. f4 Bd4+ 14. Qxd4 1-0
+

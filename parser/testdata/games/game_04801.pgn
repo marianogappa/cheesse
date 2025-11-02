@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LJpIUfaI"]
+[White "Amigo555"]
+[Black "Tercena"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:24"]
+[WhiteElo "1753"]
+[BlackElo "1644"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 d5 3. cxd5 exd5 4. a3 Nc6 5. Nc3 Be6 6. h3 Nge7 7. Nf3 h6 8. Bf4 a6 9. e3 Ng6 10. Bh2 Be7 11. Bd3 Nh4 12. O-O O-O 13. Ne5 Nxe5 14. Bxe5 Nf5 15. Bc2 Bd6 16. Bh2 g6 17. Qd3 b6 18. e4 dxe4 19. Nxe4 Bxh2+ 20. Kxh2 Bd5 21. Nc3 Bc6 22. d5 Bd7 23. Rae1 Nd6 24. Qd2 Nc4 25. Qxh6 Be8 26. Qc1 Qd6+ 27. Kg1 Kg7 28. Ne4 Qd7 29. b3 Nd6 30. Qb2+ Kg8 31. Nf6+ 1-0
+

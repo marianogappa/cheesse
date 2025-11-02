@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ifQhivsi"]
+[White "Denisdeno"]
+[Black "spero5"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:54"]
+[WhiteElo "1894"]
+[BlackElo "1923"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. f4 c5 2. Nf3 Nc6 3. e3 d5 4. d4 e6 5. c3 Nf6 6. Bd3 cxd4 7. exd4 Bd6 8. O-O Qc7 9. Ne5 O-O 10. Rf3 h6 11. Rh3 Ne7 12. Nd2 a6 13. Bc2 b5 14. Ndf3 Bb7 15. Qd3 Rac8 16. g4 Ng6 17. Nxg6 fxg6 18. Qxg6 Bxf4 19. g5 Bxc1 20. gxf6 Rxf6 21. Qh7+ Kf7 22. Ne5+ Kf8 23. Qh8+ Ke7 24. Qxg7+ Kd6 25. Qxf6 Bxb2 26. Rf1 Bxc3 27. Nf7+ Kd7 28. Ne5+ Kd6 29. Qf4 Bxd4+ 30. Qxd4 Qxc2 31. Qb6+ Bc6 32. Nf7+ Ke7 33. Rxh6 d4 34. Qa7+ Kf8 35. Rh8+ Kg7 36. Ng5+ Kxh8 37. Qh7+ Qxh7 38. Nxh7 Kxh7 39. Rc1 0-1
+

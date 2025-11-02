@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/V6EQbbfv"]
+[White "refrieddreams"]
+[Black "Mateikonys"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:37"]
+[WhiteElo "1648"]
+[BlackElo "1620"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e3 g6 2. Qf3 Bg7 3. Bc4 e6 4. Nh3 d5 5. Bb3 c5 6. d3 b5 7. a4 c4 8. dxc4 bxc4 9. Ba2 Nf6 10. Nf4 Nfd7 11. Nd2 Ne5 12. Qe2 O-O 13. Rb1 Nbc6 14. b3 Nb4 15. Ba3 Nxa2 16. Bxf8 Qxf8 17. bxc4 Nc3 18. Qd1 Nxb1 19. Qxb1 Ba6 20. Qa2 dxc4 21. O-O c3 22. Nc4 Bxc4 23. Qa1 Bxf1 24. Qxf1 Nc4 25. Qxc4 Rb8 26. g3 Rb1+ 27. Kg2 Rc1 28. Ne2 Rxc2 29. Nd4 Bxd4 30. exd4 Qa8+ 31. Kh3 Rxf2 32. Qxc3 Qg2+ 33. Kg4 h5+ 34. Kg5 Rf5+ 35. Kh6 Qb7 36. Qc5 Rxc5 37. dxc5 f6 38. Kxg6 Qg7+ 39. Kxh5 Qg5# 0-1
+

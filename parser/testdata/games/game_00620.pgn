@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JIleua3v"]
+[White "dwarf66"]
+[Black "gaelf"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:17"]
+[WhiteElo "1896"]
+[BlackElo "1881"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "A05"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. g3 g6 2. Nf3 Nf6 3. Bg2 c6 4. d4 d5 5. O-O Bg7 6. b3 Bg4 7. Bb2 Nbd7 8. Nbd2 O-O 9. h3 Bxf3 10. Nxf3 Re8 11. Ne5 Nxe5 12. dxe5 Nd7 13. f4 e6 14. e4 dxe4 15. Bxe4 Qa5 16. Qxd7 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/JEjgiQPH"]
+[White "Bob-omb"]
+[Black "Snowden"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:53"]
+[WhiteElo "1504"]
+[BlackElo "1690"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "A40"]
+[Opening "Modern Defense"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. d4 g6 2. e3 Bg7 3. Bd3 d6 4. f4 Nf6 5. c3 O-O 6. Nh3 Nc6 7. Nd2 e5 8. Nf3 e4 9. Bc2 exf3 10. Qxf3 Bg4 11. Qg3 Qd7 12. Bd2 Rae8 13. e4 Nxe4 14. Bxe4 Rxe4+ 15. Be3 Rfe8 16. O-O Rxe3 0-1
+

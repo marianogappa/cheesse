@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/sPwPta56"]
+[White "Supersamu"]
+[Black "endrawes0"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:42"]
+[WhiteElo "1008"]
+[BlackElo "1295"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+4"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+[TimeControl "60+1"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.15] } 1... c6 { [%eval 0.46] } 2. Nf3 { [%eval 0.26] } 2... d5 { [%eval 0.39] } 3. Nc3 { [%eval 0.41] } 3... dxe4 { [%eval 0.46] } 4. Nxe4 { [%eval 0.53] } 4... Bf5 { [%eval 0.63] } 5. d3 { [%eval 0.22] } 5... Bxe4 { [%eval 0.29] } 6. dxe4 { [%eval 0.3] } 6... Nd7 { [%eval 0.6] } 7. Bc4 { [%eval 0.44] } 7... Nc5?! { [%eval 1.04] } 8. b4? { [%eval -0.75] } 8... Nxe4?! { [%eval 0.07] } 9. Qxd8+ { [%eval -0.41] } 9... Rxd8 { [%eval -0.28] } 10. Bd3 { [%eval -0.34] } 10... Nef6 { [%eval -0.11] } 11. Be3? { [%eval -1.16] } 11... e5 { [%eval -1.03] } 12. Nxe5 { [%eval -1.07] } 12... Bxb4+ { [%eval -0.89] } 13. Kf1? { [%eval -2.81] } 13... Ne7? { [%eval -1.03] } 14. Bxa7? { [%eval -2.66] } 14... Ned5? { [%eval -0.54] } 15. Bc4? { [%eval -3.28] } 15... O-O? { [%eval -1.45] } 16. Be3?? { [%eval -4.64] } 16... Nxe3+ { [%eval -4.37] } 17. fxe3 { [%eval -4.66] } 17... Bc3 { [%eval -4.62] } 18. Nxf7 { [%eval -4.85] } 18... Bxa1?? { [%eval 0.89] } 19. Nxd8+ { [%eval 0.82] } 19... Kh8?! { [%eval 1.79] } 20. Nxb7? { [%eval 0.32] } 20... Rb8? { [%eval 1.55] } 21. Nd6?? { [%eval -3.0] } 21... Rb4?? { [%eval 2.41] } 22. Nf7+?! { [%eval 1.86] } 22... Kg8 { [%eval 1.87] } 23. Nd6+?! { [%eval 1.27] } 23... Kh8? { [%eval 2.39] } 24. Nf7+?! { [%eval 1.7] } 24... Kg8 { [%eval 1.65] } 25. Ne5+?? { [%eval -2.02] } 25... Kf8 { [%eval -1.87] } 26. Nxc6?! { [%eval -2.73] } 26... Rxc4 { [%eval -2.24] } 27. Kf2 { [%eval -2.46] } 27... Rxc6?! { [%eval -1.59] } 28. Kf3?? { [%eval -6.62] } 28... Be5 { [%eval -6.52] } 29. Ra1?? { [%eval -14.89] } 29... Rxc2? { [%eval -8.38] } 30. Re1 { [%eval -8.65] } 30... Rxa2?! { [%eval -8.01] } 31. e4? { [%eval -9.67] } 31... Ra3+ { [%eval -9.53] } 32. Ke2 { [%eval -9.25] } 32... Nxe4?! { [%eval -8.47] } 33. Kd1? { [%eval -50.97] } 33... Nc3+?! { [%eval -9.14] } 34. Kc2 { [%eval -9.0] } 34... Bd4 { [%eval -8.54] } 35. Rf1+ { [%eval -8.72] } 35... Ke7 { [%eval -8.5] } 36. Rc1? { [%eval -9.73] } 36... Ne2? { [%eval -6.94] } 37. Re1 { [%eval -6.72] } 37... Ra2+ { [%eval -6.23] } 38. Kd1?? { [%eval -13.2] } 38... Bc3?? { [%eval -5.24] } 0-1
+

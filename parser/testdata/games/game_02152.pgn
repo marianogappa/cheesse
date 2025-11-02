@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wJOnxE56"]
+[White "oneguygarden"]
+[Black "sych9"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:08"]
+[WhiteElo "1914"]
+[BlackElo "1852"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "C58"]
+[Opening "Italian Game: Two Knights Defense, Polerio Defense, Bogoljubov Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8. Qf3 Qc7 9. Ba4 Ba6 10. d3 Bc5 11. O-O O-O 12. a3 h6 13. b4 Be7 14. Ne4 Nxe4 15. Qxe4 f5 16. Qf3 e4 17. Qh5 Nb7 18. Bb3+ Kh8 19. Bxh6 Bf6 20. Bf4# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/QeJwh8zq"]
+[White "Nankorkedi"]
+[Black "jumper1"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:07"]
+[WhiteElo "1147"]
+[BlackElo "1001"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-15"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e3 d5 2. Bd3 c6 3. Nf3 Nf6 4. O-O e6 5. Ne5 Qe7 6. Qf3 Na6 7. c4 Nb4 8. Be2 Nc2 9. cxd5 Nxa1 10. dxc6 bxc6 11. Nxc6 Qc7 12. d4 Nc2 13. Bd1 Na1 14. Ba4 a5 15. Ne5+ Kd8 16. Qxa8 Ne4 17. Nd2 Nd6 18. Nc6+ Ke8 19. Nxa5+ Ke7 20. Nc6+ Kd7 21. Na5+ Ke7 22. Nc6+ Kf6 23. Nf3 Nc4 24. Nd2 Nb6 25. Qa5 Bb7 26. Ne5 Nd5 27. Qxc7 Nxc7 28. Ndc4 Nc2 29. Na5 Bd5 30. Bxc2 g5 31. a3 g4 32. a4 g3 33. hxg3 h5 34. Nb3 h4 35. Rd1 h3 36. gxh3 Rxh3 37. Kf1 Bc4+ 38. Kg2 Nd5 39. Kxh3 1-0
+

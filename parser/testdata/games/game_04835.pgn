@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/BqybViD7"]
+[White "BuddyCotton43"]
+[Black "sumynona"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:34"]
+[WhiteElo "1628"]
+[BlackElo "1346"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "A04"]
+[Opening "Zukertort Opening"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. Nc3 Nc6 2. Nf3 Nf6 3. b3 h6 4. Bb2 a6 5. e4 e5 6. Qe2 Be7 7. Qd3 O-O 8. Nd5 Nxd5 9. Qxd5 Nb4 10. Qc4 b5 11. Qc3 d6 12. a3 Nc6 13. Qxc6 Bg4 14. Be2 d5 15. exd5 e4 16. Qc3 Re8 17. Qxg7# 1-0
+

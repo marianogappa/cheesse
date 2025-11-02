@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/JwQuYvuM"]
+[White "blhck"]
+[Black "V1962"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:05"]
+[WhiteElo "1683"]
+[BlackElo "1783"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-28"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.04] } 1... e6 { [%eval 0.32] } 2. e4 { [%eval 0.23] } 2... b6 { [%eval 0.68] } 3. e5?! { [%eval 0.18] } 3... Bb7 { [%eval 0.2] } 4. Nf3 { [%eval 0.17] } 4... g6?! { [%eval 0.9] } 5. h3?! { [%eval 0.29] } 5... Bg7 { [%eval 0.35] } 6. Bg5 { [%eval 0.07] } 6... f6 { [%eval 0.08] } 7. exf6 { [%eval 0.06] } 7... Bxf6 { [%eval 0.08] } 8. Qd2? { [%eval -1.57] } 8... h6? { [%eval 0.33] } 9. Bxf6 { [%eval 0.0] } 9... Qxf6 { [%eval -0.05] } 10. Be2 { [%eval -0.02] } 10... Nc6 { [%eval 0.35] } 11. c3?! { [%eval -0.28] } 11... O-O-O { [%eval -0.25] } 12. Na3 { [%eval -0.41] } 12... d5? { [%eval 0.59] } 13. O-O-O { [%eval 0.25] } 13... Nge7 { [%eval 0.22] } 14. Rhe1 { [%eval 0.07] } 14... Kb8 { [%eval 0.23] } 15. Bd3 { [%eval 0.15] } 15... Na5?! { [%eval 0.99] } 16. Ne5?! { [%eval 0.49] } 16... Rc8?? { [%eval 13.82] } 17. b4?? { [%eval 4.33] } 17... Nc4? { [%eval 5.66] } 18. Bxc4? { [%eval 4.37] } 18... dxc4?? { [%eval 12.76] } 19. Naxc4?? { [%eval 1.09] } 19... Nd5?? { [%eval 9.89] } 20. Nd7+ { [%eval 9.67] } 1-0
+

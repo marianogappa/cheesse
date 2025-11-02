@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GolC4Zag"]
+[White "joseito10"]
+[Black "HarunB"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:49"]
+[WhiteElo "1335"]
+[BlackElo "1304"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+16"]
+[ECO "C41"]
+[Opening "Philidor Defense: Nimzowitsch Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. exd6 Nxd6 6. Ne5 f6 7. Qh5+ g6 8. Nxg6 hxg6 9. Qxh8 Qe7+ 10. Be3 Nc4 11. Bxc4 Qe4 12. Bd3 Qb4+ 13. Nc3 Qxb2 14. O-O Qxc3 15. Qh6 Bxh6 16. Bxh6 Bf5 17. Rae1+ Kf7 18. Bxf5 gxf5 19. Re3 Qxc2 20. Rfe1 Nc6 21. R3e2 Qc3 22. Re3 Qb4 23. Rb3 Qxe1# 0-1
+

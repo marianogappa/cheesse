@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/o1WxWqTk"]
+[White "Magnus_new"]
+[Black "kreshtar"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:00"]
+[WhiteElo "2015"]
+[BlackElo "1901"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+14"]
+[ECO "B16"]
+[Opening "Caro-Kann Defense: Bronstein-Larsen Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bd3 Qc7 7. Nf3 Bg4 8. h3 Bh5 9. Be3 e6 10. c3 Nd7 11. Qc2 Bxf3 12. gxf3 Bd6 13. O-O-O O-O-O 14. Rhg1 f5 15. Rg7 Nf6 16. Bg5 Bf4+ 17. Bxf4 Qxf4+ 18. Kb1 Rdf8 19. Qa4 Kb8 20. Qb4 Nd5 21. Qb3 Qxf3 22. c4 Nf4 23. Bc2 Qxb3 24. Bxb3 Nxh3 25. Rh1 Nxf2 26. Rhxh7 Rxh7 27. Rxh7 f6 28. c5 e5 29. Rh5 f4 30. dxe5 fxe5 31. Rxe5 Nd3 32. Rh5 f3 33. Rh1 f2 34. Rf1 Nxc5 35. Bc4 b5 36. Bd3 0-1
+

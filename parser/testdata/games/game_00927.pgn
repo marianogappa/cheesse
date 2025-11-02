@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SJP9NgMq"]
+[White "Myts"]
+[Black "Toshark"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:27"]
+[WhiteElo "1944"]
+[BlackElo "1869"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "A46"]
+[Opening "Torre Attack"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 b6 4. e3 Bb7 5. Be2 c5 6. c3 Be7 7. Nbd2 d6 8. O-O O-O 9. h3 Ne4 10. Bxe7 Qxe7 11. Nxe4 Bxe4 12. Nd2 Bb7 13. Bf3 Na6 14. Qe2 Bxf3 15. Qxf3 Nc7 16. Rfe1 d5 17. e4 cxd4 18. exd5 dxc3 19. bxc3 Qa3 20. Nc4 Qa4 21. Ne3 Nxd5 22. Nxd5 exd5 23. Qxd5 Rad8 24. Qb7 Rd7 25. Qf3 h6 26. Re4 Qc2 27. a4 Rfd8 28. Rae1 Rd1 29. Rxd1 Qxd1+ 30. Qxd1 Rxd1+ 31. Kh2 Kf8 32. Rd4 Rxd4 33. cxd4 a6 34. Kg3 Ke7 35. Kf3 Kd6 36. Ke3 Kd5 37. Kd3 b5 38. axb5 axb5 39. Kc3 f5 40. f4 g5 41. g3 gxf4 42. gxf4 h5 43. h4 b4+ 44. Kd3 b3 45. Kc3 b2 46. Kxb2 Kxd4 47. Kc2 Ke4 48. Kd2 Kxf4 49. Ke2 0-1
+

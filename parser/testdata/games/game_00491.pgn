@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JPjckggU"]
+[White "cedtuob"]
+[Black "CHAWKS1"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:48"]
+[WhiteElo "1451"]
+[BlackElo "1497"]
+[WhiteRatingDiff "-66"]
+[BlackRatingDiff "+8"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 b6 3. Bc4 Bb7 4. Nc3 Bb4 5. d3 Bxc3+ 6. bxc3 Nc6 7. O-O Na5 8. Re1 Nxc4 9. dxc4 c5 10. Bf4 Nf6 11. e5 Ng8 12. Ng5 Ne7 13. h3 Ng6 14. h4 Nxf4 15. Qf3 Bxf3 0-1
+

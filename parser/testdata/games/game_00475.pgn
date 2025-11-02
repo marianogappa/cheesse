@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XXaRYnhv"]
+[White "us2224577899"]
+[Black "strongesttt"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:42"]
+[WhiteElo "1984"]
+[BlackElo "1978"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 b6 2. d4 e6 3. c4 d5 4. e5 Bb7 5. cxd5 Bxd5 6. Nc3 Bb4 7. a3 Bxc3+ 8. bxc3 Nd7 9. Nf3 Ne7 10. Bd3 c5 11. O-O Qc7 12. Bb5 a6 13. Ba4 b5 14. Bb3 c4 15. Bc2 h6 16. Qe2 g5 17. Re1 Nf8 18. Be4 Nfg6 19. Bxd5 Nxd5 20. Bd2 g4 21. Nh4 Nxh4 22. Qxg4 Ng6 23. f4 h5 24. Qf3 Rd8 25. f5 exf5 26. Qxf5 Qd7 27. e6 fxe6 28. Rxe6+ Nde7 29. Qxg6+ Kf8 30. Rf1+ Nf5 31. Rxf5+ 1-0
+

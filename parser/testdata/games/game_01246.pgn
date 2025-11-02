@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/nGELGexn"]
+[White "unnamed1"]
+[Black "a-man"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:35"]
+[WhiteElo "1070"]
+[BlackElo "1258"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation #3"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.2] } 1... d5?! { [%eval 0.73] } 2. e5?! { [%eval 0.0] } 2... e6 { [%eval 0.1] } 3. d4 { [%eval 0.0] } 3... c6 { [%eval 0.35] } 4. Nf3 { [%eval 0.35] } 4... Qa5+ { [%eval 0.79] } 5. Bd2 { [%eval 0.82] } 5... Qc7 { [%eval 1.07] } 6. Nc3?! { [%eval 0.42] } 6... Nd7 { [%eval 0.6] } 7. Bf4 { [%eval 0.2] } 7... Nh6?! { [%eval 1.0] } 8. Bg3?! { [%eval 0.14] } 8... Qd8?! { [%eval 0.65] } 9. Qe2?! { [%eval -0.07] } 9... Be7 { [%eval 0.32] } 10. a3 { [%eval -0.17] } 10... b5?! { [%eval 0.44] } 11. Qd2 { [%eval 0.29] } 11... a5 { [%eval 0.41] } 12. Bd3 { [%eval 0.29] } 12... b4?! { [%eval 0.92] } 13. Na4?! { [%eval 0.18] } 13... Ba6 { [%eval 0.49] } 14. O-O?! { [%eval -0.05] } 14... Bxd3 { [%eval 0.03] } 15. Qxd3 { [%eval -0.18] } 15... Qb8 { [%eval 0.31] } 16. Nc5? { [%eval -1.36] } 16... Bxc5 { [%eval -1.17] } 17. dxc5 { [%eval -1.34] } 17... Qa7?? { [%eval 1.99] } 18. axb4 { [%eval 1.91] } 18... axb4?? { [%eval 7.46] } 19. Rxa7 { [%eval 7.25] } 19... Rxa7 { [%eval 6.97] } 20. Qb3? { [%eval 5.74] } 20... O-O { [%eval 5.81] } 21. c3? { [%eval 4.58] } 21... Rfa8? { [%eval 6.27] } 22. cxb4 { [%eval 5.97] } 22... Ra1? { [%eval 7.67] } 23. Rxa1?? { [%eval #-3] } 23... Rxa1+ { [%eval #-2] } 0-1
+

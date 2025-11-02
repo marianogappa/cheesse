@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lpuY46Wu"]
+[White "JoseNobile"]
+[Black "mancerinio"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:48"]
+[WhiteElo "1697"]
+[BlackElo "1719"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Nf3 e6 3. e3 c5 4. c3 Nc6 5. b3 Nf6 6. Bb2 Bd6 7. Nbd2 O-O 8. Bd3 a6 9. a4 Rb8 10. O-O b5 11. axb5 axb5 12. Qe2 c4 13. bxc4 bxc4 14. Nxc4 dxc4 15. Bxc4 Bb7 16. e4 Na5 17. Bd3 Bf4 18. e5 Nh5 19. g3 Bh6 20. Ba3 Re8 21. Bb4 Nc6 22. Bd6 Rc8 23. Nh4 g6 24. Rab1 Na5 25. Bb5 Bc6 26. Ba6 Ra8 27. Bd3 Nb7 28. Bb4 Bf8 29. Be4 Qc7 30. Qf3 Nd8 31. Bxf8 Rxf8 32. g4 Ng7 33. Rfc1 Bxe4 34. Qxe4 Ra3 35. c4 Rh3 36. Ng2 f5 37. gxf5 exf5 38. Qd5+ Kh8 39. Nf4 Rh4 40. Ng2 Rh3 41. f4 Qe7 42. c5 g5 43. Rb6 gxf4 44. Nxf4 Qg5+ 45. Ng2 Nh5 46. Kf1 Nf4 47. Nxf4 1-0
+

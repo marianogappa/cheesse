@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5jEYfZHj"]
+[White "aakajaa99"]
+[Black "vishnu1813"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:22"]
+[WhiteElo "1608"]
+[BlackElo "1522"]
+[WhiteRatingDiff "-32"]
+[BlackRatingDiff "+13"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted, Schallopp Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nd5 5. d4 d6 6. c4 Nb6 7. c5 Nd5 8. Bc4 Be6 9. O-O dxc5 10. Bxd5 Qxd5 11. Bxf4 c4 12. Nc3 Qd7 13. d5 Bf5 14. Be3 Bb4 15. Ng5 O-O 16. Qh5 h6 17. e6 fxe6 18. dxe6 Bxe6 19. Rxf8+ Kxf8 20. Rc1 Bxc3 21. Rd1 Qe7 22. Nxe6+ Qxe6 23. Bc5+ Kg8 24. bxc3 Nc6 25. Qh4 Rf8 26. Re1 Qf7 27. Bxf8 Qxf8 28. Qxc4+ Kh8 29. Qh4 Qc5+ 30. Kh1 Qxc3 31. Re8+ Kh7 32. Qe4+ g6 33. h3 h5 34. Qf4 Qg7 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/AGljz9t3"]
+[White "kl695"]
+[Black "ellimist"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:14"]
+[WhiteElo "1426"]
+[BlackElo "1441"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C21"]
+[Opening "Center Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nf6 4. Qe3 Bd6 5. e5 Ng4 6. Qf4 Nxe5 7. Nf3 O-O 8. Nxe5 Qe8 9. Bd3 Bxe5 10. Qe4 Nc6 11. Qxh7# 1-0
+

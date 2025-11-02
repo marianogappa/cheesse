@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/V8d6eEIl"]
+[White "BeepBeepImaJeep2"]
+[Black "Dr_Fausto"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:56"]
+[WhiteElo "1447"]
+[BlackElo "1137"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "60+1"]
+[Termination "Normal"]
+
+1. b3 d5 2. Bb2 Bf5 3. g3 Nc6 4. Bg2 e5 5. e3 Qd7 6. f4 f6 7. fxe5 fxe5 8. Qf3 e4 9. Qf2 O-O-O 10. Ne2 Bc5 11. O-O Nh6 12. Bxg7 Qxg7 13. Nbc3 Rhf8 14. Na4 b6 15. Nxc5 bxc5 16. Nf4 Rf6 17. Qe2 Rdf8 18. Qa6+ Kd7 19. Nxd5 Re6 20. Nf4 Ref6 21. Nh5 Bh3 22. Nxf6+ Rxf6 23. Bxh3+ Kd6 24. Qc4 Rxf1+ 25. Rxf1 Qb2 26. Qxe4 Qxa2 27. Qxh7 Qxc2 28. Qxh6+ Kd5 29. Qg5+ Kd6 30. Qg6+ Qxg6 31. Bf5 Qxf5 32. Rxf5 Ke6 33. Rh5 Kf6 34. Rh6+ Kg5 35. Rxc6 Kf5 36. Rxc7 Ke4 37. Rxc5 Kd3 38. Ra5 Kxd2 39. Rxa7 Kxe3 40. Rc7 Kf3 41. b4 Ke2 42. b5 Kd3 43. b6 Kd4 44. b7 Ke4 45. b8=Q Ke3 46. Qd8 Ke2 47. Re7+ Kf3 48. Qf8+ Kg4 49. Rg7+ Kh3 50. Qh8# 1-0
+

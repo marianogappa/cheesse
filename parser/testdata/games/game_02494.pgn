@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XQum63p9"]
+[White "lapachehug"]
+[Black "silverioalves"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:31"]
+[WhiteElo "1870"]
+[BlackElo "1853"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e3 c6 2. d4 d5 3. a3 Nf6 4. c4 dxc4 5. Bxc4 e6 6. Nf3 Nbd7 7. b4 Be7 8. Bb2 O-O 9. Nbd2 b5 10. Bd3 a6 11. Rc1 Bb7 12. O-O Rc8 13. Nb3 Nd5 14. Na5 Ba8 15. Re1 N7b6 16. Ne5 Na4 17. Nexc6 Bxc6 18. Nxc6 Nxb2 19. Nxe7+ Qxe7 20. Qd2 Rxc1 21. Rxc1 Nxd3 22. Qxd3 Qd7 23. f3 Rc8 24. Rc5 Rxc5 25. dxc5 Nf6 26. Qc2 Nd5 27. Qd2 Nf6 28. Qc2 Ne8 29. e4 Qc6 30. g4 Nf6 31. Kg2 h6 32. h4 Nd7 33. Qc3 a5 34. Kg3 axb4 35. axb4 f6 36. Qd4 Qc7+ 37. f4 e5 38. fxe5 Qxe5+ 39. Qxe5 Nxe5 40. Kf4 Nc6 0-1
+

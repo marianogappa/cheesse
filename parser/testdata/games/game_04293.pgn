@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bG1EyYoF"]
+[White "moh_k"]
+[Black "destruye"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:27"]
+[WhiteElo "1929"]
+[BlackElo "1653"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+[ECO "B33"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Retreat Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qd1 e5 5. Nc3 Nf6 6. Nf3 Bb4 7. Bc4 O-O 8. Bg5 h6 9. Bxf6 Qxf6 10. O-O Bxc3 11. bxc3 Ne7 12. h3 Ng6 13. Qd5 Nf4 14. Qxe5 Qxe5 15. Nxe5 d6 16. Nd3 Ne2+ 17. Kh2 Nxc3 18. e5 dxe5 19. Nxe5 a6 20. Rfe1 b5 21. Bd3 Be6 22. Nc6 Kh8 23. Re3 Nd5 24. Ree1 Nf4 25. Be4 Rac8 26. Nd4 Bc4 27. g3 Ne6 28. Nxe6 Bxe6 29. Bb7 Rxc2 30. Bxa6 Rxf2+ 31. Kg1 Rxa2 32. Rxa2 Bxa2 33. Bxb5 Rb8 34. Bd3 g6 35. Kf2 Rb2+ 36. Ke3 Kg7 37. Rf1 Rb3 38. Kd2 Rb2+ 39. Kc3 Rh2 40. h4 Rg2 41. Rf3 Bd5 42. Re3 Be6 43. Bc4 Bxc4 44. Kxc4 Rc2+ 45. Kd3 1-0
+

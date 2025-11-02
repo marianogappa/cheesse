@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/vrWoZniE"]
+[White "mohammadaltalli"]
+[Black "mihai311990"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:45"]
+[WhiteElo "1316"]
+[BlackElo "1375"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 c6 2. d5 cxd5 3. Qxd5 Nf6 4. Qf3 Nc6 5. e3 e5 6. e4 d6 7. Bd3 d5 8. exd5 Nxd5 9. Be4 Be6 10. c4 Nf6 11. Bxc6+ bxc6 12. Ne2 Qc7 13. b3 Bb4+ 14. Bd2 Bxd2+ 15. Nxd2 O-O 16. O-O Rad8 17. Rad1 Bg4 18. Qe4 Nxe4 0-1
+

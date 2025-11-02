@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1LrQbh7t"]
+[White "Unicejo"]
+[Black "LAlgaba"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:27"]
+[WhiteElo "1876"]
+[BlackElo "1644"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-17"]
+[ECO "E00"]
+[Opening "Indian Game: East Indian Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 e6 3. a3 Be7 4. Nf3 h6 5. Nc3 d6 6. e4 Nc6 7. Be2 e5 8. Be3 exd4 9. Nxd4 Nxd4 10. Bxd4 O-O 11. O-O Nd7 12. f4 Bf6 13. e5 dxe5 14. fxe5 Bxe5 15. Nd5 Bxd4+ 16. Qxd4 c6 17. Ne3 Qb6 18. Qc3 Nc5 19. Kh1 Ne4 20. Qd3 Ng5 21. Nf5 Bxf5 22. Qxf5 Qxb2 23. Bd3 g6 24. Qg4 Rad8 25. Rad1 Qxa3 26. Bb1 Rxd1 27. Rxd1 Qb3 28. h4 h5 29. Qe2 Ne6 30. Bc2 Qg3 31. Bxg6 Qxh4+ 32. Kg1 fxg6 33. Qxe6+ Kg7 34. Rd7+ Kh6 35. Qe3+ Qg5 36. Rh7+ Kxh7 37. Qxg5 Rf1+ 38. Kxf1 1-0
+

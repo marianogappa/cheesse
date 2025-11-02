@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/FeCCFjbY"]
+[White "Shalako"]
+[Black "Imbadgiveme"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:00"]
+[WhiteElo "1115"]
+[BlackElo "1549"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+6"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "960+16"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.29] } 1... d5 { [%eval 0.77] } 2. e5?! { [%eval 0.08] } 2... f6 { [%eval 0.54] } 3. Bb5+? { [%eval -0.81] } 3... Bd7?! { [%eval -0.06] } 4. Bxd7+ { [%eval 0.0] } 4... Nxd7 { [%eval 0.16] } 5. d4 { [%eval 0.06] } 5... e6 { [%eval 0.2] } 6. b3? { [%eval -0.97] } 6... fxe5 { [%eval -0.87] } 7. Qe2?! { [%eval -1.74] } 7... e4 { [%eval -1.42] } 8. Bf4? { [%eval -2.59] } 8... Ngf6?! { [%eval -1.93] } 9. h3?! { [%eval -2.47] } 9... Qe7?! { [%eval -1.65] } 10. c3?! { [%eval -2.2] } 10... e5 { [%eval -2.25] } 11. dxe5 { [%eval -2.18] } 11... Nxe5 { [%eval -2.22] } 12. Bg5? { [%eval -4.72] } 12... Nd3+ { [%eval -4.5] } 13. Kd1 { [%eval -4.73] } 13... Qe5 { [%eval -4.45] } 14. f4 { [%eval -4.09] } 14... Nxf4?! { [%eval -3.38] } 15. Qb5+ { [%eval -3.62] } 15... c6 { [%eval -3.7] } 16. Qxb7 { [%eval -3.65] } 16... Rd8? { [%eval -2.01] } 17. Qxc6+ { [%eval -1.94] } 17... Rd7 { [%eval -1.57] } 18. Qc8+ { [%eval -1.53] } 18... Rd8 { [%eval -1.59] } 19. Qc6+ { [%eval -2.02] } 19... Rd7?! { [%eval -1.14] } 20. Qc8+ { [%eval -1.6] } 20... Ke7 { [%eval -1.43] } 21. Qc5+? { [%eval -3.02] } 21... Kf7 { [%eval -2.7] } 22. Bxf6? { [%eval -4.85] } 22... Qxf6? { [%eval -2.86] } 23. Qe3?? { [%eval -13.73] } 23... Nxg2?? { [%eval -4.56] } 24. Ne2?? { [%eval #-20] } 24... Nxe3+ { [%eval -31.19] } 0-1
+

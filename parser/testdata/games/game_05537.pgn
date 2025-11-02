@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/nBKgLRqK"]
+[White "fhurou"]
+[Black "mopatops"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:25"]
+[WhiteElo "1557"]
+[BlackElo "1434"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+52"]
+[ECO "C51"]
+[Opening "Italian Game: Evans Gambit, McDonnell Defense"]
+[TimeControl "900+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. d4 Bd6 7. dxe5 Nxe5 8. Qd5 Nxc4 9. Qxc4 Qe7 10. e5 0-1
+

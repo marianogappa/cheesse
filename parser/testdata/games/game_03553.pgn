@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ZLwRXJbP"]
+[White "Chandra-PW"]
+[Black "mselleki"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:37"]
+[WhiteElo "2371"]
+[BlackElo "2431"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Catalan Formation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. g3 e6 2. Bg2 d5 3. d4 Nf6 4. Nf3 c5 5. O-O Nc6 6. c4 Be7 7. Nc3 dxc4 8. dxc5 Qxd1 9. Rxd1 Bxc5 10. Na4 Be7 11. Bf4 Nd5 12. Rac1 b5 13. Nc3 Nxc3 14. Rxc3 Bb7 15. Ne5 Rc8 16. a4 a6 17. axb5 axb5 18. b3 Bf6 19. bxc4 bxc4 20. Rb1 O-O 21. Rxb7 Nxe5 22. Rc2 Rfd8 23. Bxe5 Rd1+ 24. Bf1 Bxe5 25. Kg2 c3 26. e4 Rd2 27. Rxd2 cxd2 28. Be2 g6 29. f4 Rc2 30. Rd7 d1=Q 31. Rxd1 Rxe2+ 32. Kf3 Rxe4 33. fxe5 Rxe5 34. Kf4 Rf5+ 35. Kg4 Kg7 36. Rd8 h5+ 37. Kh3 Rd5 38. Ra8 Kf6 39. Ra7 Rd4 40. Ra4 Rxa4 41. g4 Ra3+ 42. Kg2 h4 43. g5+ Kf5 44. Kf2 Rf3+ 0-1
+

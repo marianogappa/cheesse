@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GuKEiwm6"]
+[White "bllbdr"]
+[Black "DetectiveChess"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:05"]
+[WhiteElo "1119"]
+[BlackElo "1381"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+21"]
+[ECO "A00"]
+[Opening "Saragossa Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. c3 d5 2. c4 dxc4 3. Nc3 Bf5 4. Qa4+ Nc6 5. d3 cxd3 6. exd3 Bxd3 7. Bxd3 Qxd3 8. Qf4 e5 9. Qg4 f5 10. Qh5+ g6 11. Qg5 Bh6 12. Qh4 g5 13. Qh5+ Ke7 14. Bxg5+ Bxg5 15. Qxg5+ Nf6 16. Qg7+ Ke6 17. Rd1 Qc4 18. Nf3 Rhg8 19. Qxf6+ Kxf6 20. Rd7 Rxg2 21. Rxc7 e4 22. Rg1 Rxg1+ 23. Nxg1 Rg8 24. Nge2 h5 25. Rxb7 f4 26. Rxa7 f3 27. Nf4 Rg1+ 28. Kd2 Qd4+ 29. Kc2 Qxa7 30. Nxh5+ Kg5 31. Nb5 Qc5+ 32. Kb3 Na5+ 33. Ka4 Kxh5 34. b4 Qc2+ 35. Kxa5 Rg6 36. Nd4 Qxa2+ 37. Kb5 Qd5+ 38. Ka4 Ra6# 0-1
+

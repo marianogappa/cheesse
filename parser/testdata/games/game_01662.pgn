@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/qZYIg9aa"]
+[White "sam23"]
+[Black "bobbytal"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:15"]
+[WhiteElo "1750"]
+[BlackElo "1708"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+12"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. d3 Nc6 3. Nf3 e5 4. Bg5 Be7 5. Qd2 f6 6. Qe3 fxg5 7. Be2 Nd4 8. Na3 c4 9. c3 Bxa3 10. cxd4 Bxb2 11. Rb1 Bxd4 12. Qd2 Nf6 13. Nxg5 h6 14. Nf3 d5 15. Nxd4 exd4 16. dxc4 Nxe4 17. Qxd4 Qf6 18. O-O Qxd4 19. Bf3 Qd3 20. Rfe1 O-O 21. cxd5 Rxf3 22. Rbd1 Qxd1 23. Rxd1 Rxf2 24. Re1 Bf5 25. g4 Bxg4 26. Rxe4 Rxa2 27. Rxg4 Re8 28. Kf1 Rc8 29. Rd4 Rc1+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4rViRe96"]
+[White "Skat1205732"]
+[Black "attackingweak_pawn"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:16"]
+[WhiteElo "2052"]
+[BlackElo "1972"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Lean Variation, Colorado Counter Accepted"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.12] } 1... Nc6 { [%eval 0.33] } 2. Nf3 { [%eval 0.18] } 2... f5?! { [%eval 0.77] } 3. exf5 { [%eval 0.75] } 3... d5 { [%eval 0.75] } 4. d4 { [%eval 0.62] } 4... Bxf5 { [%eval 0.79] } 5. Bb5 { [%eval 0.7] } 5... Nf6 { [%eval 1.04] } 6. O-O { [%eval 1.02] } 6... Qd6 { [%eval 1.09] } 7. Re1 { [%eval 1.06] } 7... a6 { [%eval 1.06] } 8. Ba4 { [%eval 0.95] } 8... b5 { [%eval 1.38] } 9. Bb3 { [%eval 1.23] } 9... g6 { [%eval 1.35] } 10. Ne5 { [%eval 1.12] } 10... Bg7 { [%eval 1.26] } 11. c3 { [%eval 0.9] } 11... O-O { [%eval 0.88] } 12. Bf4 { [%eval 0.89] } 12... Nxe5?? { [%eval 6.32] } 13. dxe5 { [%eval 5.94] } 13... Qc6? { [%eval 7.41] } 14. exf6 { [%eval 7.07] } 14... Qxf6 { [%eval 7.36] } 15. Bxd5+ { [%eval 7.29] } 15... e6 { [%eval 7.28] } 16. Bxa8 { [%eval 7.13] } 16... Rxa8 { [%eval 7.25] } 17. Be5 { [%eval 6.98] } 17... Qg5?! { [%eval 7.74] } 18. Bxg7 { [%eval 7.49] } 18... Kxg7 { [%eval 7.47] } 19. Qd4+ { [%eval 7.0] } 19... Kg8 { [%eval 7.27] } 20. Nd2 { [%eval 7.01] } 20... Bh3?! { [%eval 7.65] } 21. g3 { [%eval 7.54] } 21... Rd8?! { [%eval 8.24] } 22. Nf3?! { [%eval 7.73] } 22... Qe7 { [%eval 7.65] } 23. Qe5 { [%eval 7.42] } 23... Qf7? { [%eval 11.65] } 24. Ng5 { [%eval 11.56] } 24... Qd7 { [%eval 12.83] } 25. Nxh3 { [%eval 12.54] } 25... Qd2 { [%eval 24.25] } 26. Qxe6+ { [%eval 56.57] } 26... Kg7 { [%eval 26.49] } 27. Rad1 { [%eval 19.93] } 27... Qxb2?! { [%eval #4] } 28. Rxd8?! { [%eval #4] } 28... Qxa2 { [%eval #3] } 29. Qxa2?! { [%eval #3] } 1-0
+

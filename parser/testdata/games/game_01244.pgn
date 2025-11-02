@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/KbvAU4tX"]
+[White "IslandGo"]
+[Black "stoebken"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:36"]
+[WhiteElo "1143"]
+[BlackElo "1312"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+5"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 d6 6. Bc4 Nf6 7. Bg5 h6 8. Bxf6 Qxf6 9. Qxf6 gxf6 10. Nc3 c6 11. O-O-O Bg4 12. f3 Be6 13. Bd3 O-O-O 14. f4 Rg8 15. g3 d5 16. exd5 cxd5 17. Bb5 a6 18. Ba4 b5 19. Bb3 Kb7 20. Rd4 Bc5 21. Rd3 d4 22. Ne2 Bxb3 23. axb3 Rge8 24. Re1 Bb4 25. c3 dxc3 26. Rxd8 Ba3 27. Rxe8 cxb2+ 28. Kb1 Bb4 29. Rd1 Be1 30. Red8 Bxg3 31. R1d7+ Kc6 32. Rd6+ Kc5 33. Rxa6 Bxh2 34. Kxb2 Bxf4 35. Rxf6 Be5+ 36. Kc2 Bxf6 37. Nc3 Bxd8 38. Kd3 h5 39. b4+ Kb6 40. Kd4 h4 41. Ne2 h3 42. Ng3 h2 43. Kc3 Bc7 44. Ne2 h1=Q 45. Ng3 0-1
+

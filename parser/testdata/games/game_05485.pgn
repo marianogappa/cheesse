@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/mfGimFZC"]
+[White "Blacktrust"]
+[Black "HerjavecSinan"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:08"]
+[WhiteElo "1334"]
+[BlackElo "1291"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "B00"]
+[Opening "King's Pawn Game: Nimzowitsch Defense"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. d4 e6 3. e5 d5 4. Bb5 Bd7 5. Nc3 Bb4 6. a3 Bxc3+ 7. bxc3 a6 8. Bxc6 Bxc6 9. g3 Qe7 10. h4 O-O-O 11. Bg5 f6 12. exf6 gxf6 13. Bf4 e5 14. dxe5 fxe5 15. Be3 d4 16. cxd4 Bxh1 17. dxe5 Rxd1+ 18. Rxd1 Qxe5 19. Nf3 Qa5+ 20. Rd2 Qxa3 21. Bg5 b6 22. Rd8+ Kb7 23. Nd4 Qa1+ 24. Kd2 Qf1 25. Be3 Qh3 26. Ne2 Bc6 27. Bd4 Nf6 28. Rxh8 Ne4+ 29. Ke3 a5 30. Rxh7 a4 31. Be5 Nd6 32. c4 Ka6 33. Rxc7 Nxc4+ 34. Kd4 Nxe5 35. Kxe5 Bb7 36. Nc3 a3 37. Rc4 Qf1 1-0
+

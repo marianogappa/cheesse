@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/NzVSiioz"]
+[White "kazemizadeh"]
+[Black "zurdo57"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:46"]
+[WhiteElo "1467"]
+[BlackElo "1351"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "900+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Qe7 4. d5 a6 5. Nc3 h6 6. Be3 Nd7 7. g3 Ngf6 8. Bg2 Ng4 9. Qd2 Ngf6 10. O-O Nh5 11. Rfe1 Qd8 12. Ne2 Be7 13. c4 Nhf6 14. Nh4 Ng4 15. Nf5 Bf6 16. f4 g6 17. Nxd6+ cxd6 18. Bh3 Nxe3 19. Qxe3 Nc5 20. Bxc8 Qxc8 21. b4 Nd7 22. Rac1 b6 23. b5 Nc5 24. Kg2 h5 25. Rc2 h4 26. Rec1 Qg4 27. Qf3 h3+ 28. Kf2 Qxf3+ 29. Kxf3 Nd3 30. Rb1 exf4 31. Nxf4 Ne5+ 32. Ke3 Ng4+ 33. Kf3 Ne5+ 34. Ke3 Ng4+ 35. Kd3 Be5 36. bxa6 Rxa6 37. Rb5 Ra3+ 38. Rb3 Ra5 39. Rxb6 Ra3+ 40. Rb3 Ra5 41. Rb8+ Ke7 42. Rxh8 Bxh8 43. Nxh3 Ra3+ 44. Ke2 Ne5 45. Ng5 Bf6 46. h4 Ng4 47. c5 Re3+ 48. Kf1 1-0
+

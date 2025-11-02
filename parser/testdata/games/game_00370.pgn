@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/wkL6XsZ6"]
+[White "Arvasi"]
+[Black "EXOprimal"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:14"]
+[WhiteElo "1721"]
+[BlackElo "1694"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "540+0"]
+[Termination "Normal"]
+
+1. g3 d6 2. Bg2 g6 3. c3 Bg7 4. b4 Nf6 5. Bb2 O-O 6. a4 Nbd7 7. Nf3 Rb8 8. O-O b6 9. a5 Bb7 10. a6 Ba8 11. b5 Nc5 12. c4 e5 13. d3 e4 14. Nh4 exd3 15. exd3 Bxg2 16. Nxg2 Re8 17. d4 Nce4 18. Nc3 Nxc3 19. Bxc3 Ne4 20. Bb2 d5 21. c5 bxc5 22. f3 Ng5 23. h4 Ne6 24. Ra4 cxd4 25. Qd3 Nc5 26. Qa3 Nxa4 27. Qxa4 Qd6 28. f4 Qc5 29. Rc1 Qxb5 30. Qxb5 Rxb5 31. Ba1 c5 32. Ne1 Re6 33. Nd3 Rxa6 34. Nxc5 Rxc5 35. Rxc5 Rxa1+ 36. Kg2 d3 37. Rxd5 Ra3 38. Kf3 d2+ 39. Ke2 Bc3 40. Kd1 a5 41. g4 Bb4 42. g5 Ra1+ 43. Ke2 Re1+ 44. Kf2 d1=Q 45. Rxd1 Rxd1 46. Ke3 Bd2+ 47. Ke2 Bxf4 48. Kxd1 Bg3 49. Kc2 Bxh4 50. Kb3 Bxg5 51. Ka4 h5 52. Kxa5 h4 53. Kb4 h3 54. Kc3 h2 55. Kd3 h1=Q 56. Kd4 Qf3 0-1
+

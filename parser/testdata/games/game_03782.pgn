@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/UD4z9gOV"]
+[White "Basejump"]
+[Black "BogdanC"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:31"]
+[WhiteElo "1675"]
+[BlackElo "1601"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+[ECO "C42"]
+[Opening "Russian Game: Three Knights Game"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. Nc3 e5 3. Nf3 Be7 4. d4 c6 5. dxe5 Ng4 6. Bf4 f6 7. exf6 Nxf6 8. Bg5 h6 9. Bh4 O-O 10. Qd4 d5 11. exd5 Nxd5 12. Bxe7 Nxe7 13. O-O-O Qxd4 14. Rxd4 Nd5 15. Bc4 Be6 16. Bxd5 Bxd5 17. Nxd5 cxd5 18. Rxd5 Nc6 19. Rhd1 Rad8 20. Rxd8 Rxd8 21. Rxd8+ Nxd8 22. Ne5 Ne6 23. g3 Kh7 24. f4 g5 25. f5 Nd4 26. g4 Kg7 27. c3 Nc6 28. Nxc6 bxc6 29. Kd2 Kf6 30. Ke3 Ke5 31. c4 c5 32. a3 a6 33. b4 cxb4 34. axb4 Kd6 35. c5+ Kc6 36. h3 Kb5 37. Kd4 Kxb4 38. c6 a5 39. c7 a4 40. c8=Q a3 41. Qa8 Kb3 42. Qxa3+ Kxa3 43. Ke5 Kb3 44. f6 Kc3 45. f7 Kd3 46. f8=Q Ke3 47. Qxh6 Kf3 48. Qxg5 Kg3 49. Qf5 Kxh3 50. g5+ Kh4 51. g6 Kg3 52. g7 1-0
+

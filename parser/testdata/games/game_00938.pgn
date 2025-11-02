@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9XisLEDP"]
+[White "colonelforbin"]
+[Black "groovejamma"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:28"]
+[WhiteElo "1427"]
+[BlackElo "1411"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "A43"]
+[Opening "Franco-Benoni Defense"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.13] } 1... e6 { [%eval 0.19] } 2. e4 { [%eval 0.23] } 2... c5 { [%eval 0.65] } 3. d5 { [%eval 0.63] } 3... d6 { [%eval 0.62] } 4. c4 { [%eval 0.59] } 4... Nf6 { [%eval 0.77] } 5. Nc3 { [%eval 0.76] } 5... exd5 { [%eval 0.85] } 6. exd5 { [%eval 0.85] } 6... Bf5 { [%eval 0.89] } 7. Nf3 { [%eval 0.91] } 7... Qe7+ { [%eval 1.33] } 8. Be2 { [%eval 1.13] } 8... Bg4 { [%eval 1.46] } 9. O-O { [%eval 1.58] } 9... Na6 { [%eval 1.97] } 10. Re1 { [%eval 1.83] } 10... O-O-O { [%eval 1.83] } 11. a3 { [%eval 1.68] } 11... Qd7 { [%eval 2.14] } 12. h3 { [%eval 1.95] } 12... Bxf3 { [%eval 2.13] } 13. Bxf3 { [%eval 2.32] } 13... Be7 { [%eval 2.61] } 14. Rb1 { [%eval 2.43] } 14... Rhe8 { [%eval 2.66] } 15. Bd2 { [%eval 2.19] } 15... Bf8 { [%eval 2.3] } 16. Rxe8 { [%eval 1.87] } 16... Rxe8 { [%eval 1.97] } 17. Na4 { [%eval 1.56] } 17... Nb8 { [%eval 2.01] } 18. b4 { [%eval 1.95] } 18... cxb4?! { [%eval 2.88] } 19. Bxb4? { [%eval 1.17] } 19... Na6 { [%eval 1.31] } 20. Bc3?! { [%eval 0.79] } 20... Nc5? { [%eval 2.27] } 21. Nxc5 { [%eval 2.82] } 21... dxc5 { [%eval 2.42] } 22. Bxf6?! { [%eval 1.62] } 22... gxf6 { [%eval 1.83] } 23. Bg4? { [%eval 0.72] } 23... f5 { [%eval 0.96] } 24. Qf3?? { [%eval -3.55] } 24... fxg4 { [%eval -3.31] } 25. hxg4 { [%eval -3.22] } 0-1
+

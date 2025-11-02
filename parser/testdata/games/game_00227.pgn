@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wrV2AmY9"]
+[White "adilmiloudi"]
+[Black "getmohsinpy"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:40"]
+[WhiteElo "1702"]
+[BlackElo "1745"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 c5 4. dxe6 Bxe6 5. c3 c4 6. Be2 Nc6 7. O-O Bc5 8. b4 Bb6 9. a4 a6 10. Ba3 Nge7 11. Re1 O-O 12. Ng5 Re8 13. Nxe6 fxe6 14. Bxc4 Nd5 15. Qb3 Qf6 16. d4 Nxd4 17. cxd4 Bxd4 18. Rf1 Bxa1 19. Bxd5 exd5 20. Qxd5+ Kh8 21. Nd2 Rad8 22. Qa2 Bc3 23. Nf3 Rf8 24. b5 Rf7 25. Ng5 Rfd7 26. Ne4 Qd4 27. Nxc3 Qxc3 28. Bb2 Rd2 0-1
+

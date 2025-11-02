@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WXpqx3bh"]
+[White "drevilbighead"]
+[Black "juanmanovax"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:36"]
+[WhiteElo "1638"]
+[BlackElo "1679"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-12"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. f4 e6 2. b3 d6 3. Bb2 Nf6 4. Nf3 h6 5. d3 Nc6 6. e3 Qe7 7. Nbd2 e5 8. fxe5 Nxe5 9. Nxe5 dxe5 10. Be2 Qc5 11. Nc4 Bd6 12. Nxd6+ cxd6 13. Qd2 O-O 14. a4 Bf5 15. O-O Bg6 16. Ba3 Qc7 17. c4 d5 18. Bxf8 Rxf8 19. Rfc1 Qb6 20. c5 Qc6 21. b4 a6 22. Qb2 Nd7 23. b5 axb5 24. axb5 Qc7 25. d4 e4 26. b6 Qc6 27. Bb5 Qe6 28. Ra7 Rb8 29. Rca1 Nf6 30. Ra8 Qc8 31. Qa2 Qd8 32. Qa7 Qc8 33. Rxb8 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UlfW7fWY"]
+[White "mrSreten"]
+[Black "humilhant"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:56"]
+[WhiteElo "1862"]
+[BlackElo "2103"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Main Line"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Ng3 g6 6. Nf3 Bg7 7. c4 O-O 8. Be3 Nbd7 9. Bd3 Nb6 10. Rc1 Bg4 11. Be2 e6 12. b3 a5 13. O-O a4 14. h3 Bxf3 15. Bxf3 Re8 16. Qd2 axb3 17. axb3 Ra3 18. Qb2 Qa8 19. d5 Nfxd5 20. Bd4 Ra2 21. Qb1 Bxd4 22. cxd5 exd5 23. h4 Nd7 24. h5 Ne5 25. hxg6 Nxf3+ 26. gxf3 fxg6 27. Qd3 Bb6 28. Kg2 Qd8 29. Rh1 Qg5 30. b4 Rxf2+ 31. Kh3 Re3 0-1
+

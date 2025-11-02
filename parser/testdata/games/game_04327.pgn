@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AzZlCm6q"]
+[White "frundenyjengen"]
+[Black "Spelbreker"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:37"]
+[WhiteElo "2077"]
+[BlackElo "2020"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "B07"]
+[Opening "Pirc Defense #2"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. f4 Bg4 5. Be2 exd4 6. Qxd4 Nc6 7. Bb5 Bd7 8. Qc4 Be7 9. Nf3 O-O 10. O-O a6 11. Bxc6 Bxc6 12. Be3 d5 13. exd5 Nxd5 14. Nxd5 Qxd5 15. Qxd5 Bxd5 16. b3 Bf6 17. Rad1 c6 18. c4 Be4 19. Bc5 Rfd8 20. Ne5 Rxd1 21. Rxd1 Rd8 22. Rxd8+ Bxd8 23. h3 f6 24. Ng4 b6 25. Bd6 Kf7 26. Nf2 Bb1 27. a3 Ke6 28. Bf8 g6 29. b4 f5 30. g4 Bf6 31. Kg2 Ba2 32. c5 b5 33. Nd3 Bd5+ 34. Kg3 Be4 35. Ne5 Bxe5 36. fxe5 Kxe5 37. Bg7+ Kd5 38. Kf4 Kc4 39. Bb2 a5 40. bxa5 Kxc5 41. Ke5 Kc4 42. gxf5 gxf5 43. a6 c5 44. a7 Kb3 45. Bc1 c4 46. Kd4 c3 47. Kc5 Bd3 48. a8=Q Kc2 49. Qh1 Be4 50. Qe1 Kb3 51. Kxb5 Bd3+ 52. Kc5 c2 53. Qd2 Be4 54. Qb4+ Ka2 55. Qb2# 1-0
+

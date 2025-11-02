@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BJ8qqGML"]
+[White "brunoanono"]
+[Black "thepone"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:10"]
+[WhiteElo "1155"]
+[BlackElo "1255"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B54"]
+[Opening "Sicilian Defense #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 a6 5. Bc4 Nf6 6. Qe2 Bg4 7. f3 Bh5 8. g4 Bg6 9. Nf5 e6 10. Nh4 Be7 11. Nxg6 fxg6 12. Bg5 d5 13. exd5 exd5 14. Bxf6 gxf6 15. Bd3 O-O 16. Qe6+ Kg7 17. O-O Bc5+ 18. Kg2 Re8 19. Re1 Rxe6 20. Rxe6 Nc6 21. Nc3 Rc8 22. Na4 Ba7 23. c4 Ne5 24. Bc2 Qd7 25. Rxe5 fxe5 26. b3 dxc4 27. bxc4 Rxc4 28. Bb3 Qd2+ 29. Kg3 Qf4+ 30. Kg2 Rd4 31. Rd1 Rxd1 32. Bxd1 Qd2+ 33. Kg3 Qxd1 34. h4 Qxa4 35. h5 Qf4+ 36. Kh4 Bf2+ 37. Kh3 Qg3# 0-1
+

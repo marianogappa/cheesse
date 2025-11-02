@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/t0ORur0w"]
+[White "Vinvin"]
+[Black "toomchess"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:34"]
+[WhiteElo "2173"]
+[BlackElo "2001"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Scandinavian Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Nxd5 Qxd5 5. d4 e5 6. Nf3 e4 7. Ne5 Nd7 8. Bc4 Nxe5 9. Bxd5 Ng6 10. Bxe4 Bd6 11. c3 O-O 12. O-O Re8 13. Re1 Be6 14. Bg5 f6 15. Be3 Bf7 16. Bf3 c6 17. Qd2 Rad8 18. Re2 Ne7 19. Bf4 Nd5 20. Bxd6 Rxd6 21. Rxe8+ Bxe8 22. Bxd5+ Bf7 23. Re1 cxd5 24. Re7 Rb6 25. Qf4 h6 26. b3 Rc6 27. Qb8+ Kh7 28. Rxf7 Rxc3 29. g3 Rc1+ 30. Kg2 Rc2 31. Qf8 Kg6 32. Qxg7+ Kf5 33. Rxf6+ Ke4 34. Rf4+ Kd3 35. Qe5 Kc3 36. Qxd5 Kb4 37. Rf5 Ka3 38. Qa5+ Kb2 39. Qxa7 Rd2 40. Qa5 Rxd4 41. Rf3 Rd1 42. Qc3+ Ka3 43. b4+ Ka4 44. Qb3+ Kb5 45. Rf5+ Ka6 46. Qa4+ Kb6 47. Rf6+ Kc7 48. Qb5 Rd7 49. Qb6+ Kc8 50. Rf8+ Rd8 51. Rxd8# 1-0
+

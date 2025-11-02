@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/UIVVgXFG"]
+[White "telfix2"]
+[Black "rogntudjuu"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:05"]
+[WhiteElo "1770"]
+[BlackElo "1842"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Kennedy Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d4 Nc6 3. c3 exd4 4. cxd4 d5 5. e5 Bf5 6. Nc3 Nb4 7. Qa4+ c6 8. Bd2 Nc2+ 9. Ke2 Nxa1 10. g4 Bg6 11. f4 Qh4 12. h3 Nc2 13. Nxd5 Be4 14. Nc7+ Kd7 15. Nxa8 Bxh1 16. Qxa7 Ke8 17. Qxb7 Be7 18. Nc7+ Kf8 19. Qc8+ Bd8 20. Nf3 Qe7 21. Na6 Bxf3+ 0-1
+

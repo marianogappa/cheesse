@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Vi5REVUx"]
+[White "calegarius"]
+[Black "SuperSayan10"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:45"]
+[WhiteElo "1876"]
+[BlackElo "1938"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "E62"]
+[Opening "King's Indian Defense: Fianchetto Variation, Kavalek Defense"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d6 5. Bg2 O-O 6. O-O c6 7. Nc3 Qa5 8. e4 Qh5 9. h3 Bxh3 10. Qb3 b6 11. e5 dxe5 12. dxe5 Ng4 13. Bf4 Nd7 14. Qb4 c5 15. Qb5 Ndxe5 16. Bxe5 Bxe5 17. Nd5 e6 18. Ne7+ Kg7 19. Nc6 Bf6 20. Rad1 e5 21. Rd5 Qh6 22. Nh2 Bxg2 23. Nxg4 Qh1# 0-1
+

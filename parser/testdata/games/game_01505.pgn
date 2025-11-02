@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vrjDvQCx"]
+[White "MGazovik"]
+[Black "miguel71317"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:38"]
+[WhiteElo "1384"]
+[BlackElo "1341"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense #2"]
+[TimeControl "300+3"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Bxc6 bxc6 5. Nxe5 Bd6 6. d4 Nxe4 7. Qf3 Nf6 8. Bg5 O-O 9. Bxf6 Qxf6 10. Qxf6 gxf6 11. Ng4 f5 12. Nf6+ Kg7 13. Nh5+ Kh6 14. Ng3 Kg6 15. O-O Bxg3 16. fxg3 d6 17. Nd2 d5 18. Nf3 f6 19. Nh4+ Kg5 20. Nf3+ Kg6 21. h4 h5 22. Rae1 Ba6 23. Rf2 Rfe8 24. Rxe8 Rxe8 25. Nd2 Re1+ 26. Kh2 Re8 27. Nb3 Re4 28. c3 Bc4 29. Nc5 Bxa2 30. Nxe4 fxe4 31. Rf4 f5 32. Kh3 Bc4 33. Kh2 a5 34. Kg1 Kf6 35. g4 hxg4 36. g3 c5 37. dxc5 Bb5 38. Kf2 Be8 39. Ke3 c6 40. Rf1 Ke5 41. Ra1 d4+ 42. cxd4+ Kd5 43. Rxa5 f4+ 44. gxf4 1-0
+

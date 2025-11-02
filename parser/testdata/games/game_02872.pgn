@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/SW2Iv3eY"]
+[White "Urugup68"]
+[Black "Ca11um"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:39"]
+[WhiteElo "1049"]
+[BlackElo "1211"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d3 { [%eval -0.19] } 1... d5 { [%eval -0.11] } 2. e3 { [%eval -0.21] } 2... e5 { [%eval -0.13] } 3. Nf3 { [%eval -0.25] } 3... Nc6 { [%eval -0.08] } 4. d4 { [%eval -0.08] } 4... Bb4+ { [%eval 0.25] } 5. c3 { [%eval 0.0] } 5... Ba5? { [%eval 1.29] } 6. Nxe5? { [%eval 0.23] } 6... Nxe5 { [%eval 0.37] } 7. dxe5 { [%eval 0.3] } 7... f6?! { [%eval 1.26] } 8. exf6?! { [%eval 0.41] } 8... Nxf6 { [%eval 0.26] } 9. Qe2?! { [%eval -0.37] } 9... Bg4 { [%eval 0.1] } 10. f3 { [%eval -0.17] } 10... Bh5?! { [%eval 0.47] } 11. e4? { [%eval -1.45] } 11... O-O { [%eval -1.2] } 12. exd5?? { [%eval -7.52] } 12... Re8 { [%eval -7.07] } 13. Be3?! { [%eval -7.98] } 13... Qxd5?? { [%eval -3.53] } 14. Nd2 { [%eval -3.65] } 14... Rad8?? { [%eval -0.45] } 15. Ne4?? { [%eval -6.09] } 15... Nxe4 { [%eval -5.98] } 16. fxe4?? { [%eval -10.83] } 16... Bxe2?? { [%eval -3.95] } 17. exd5 { [%eval -3.93] } 17... Rxd5?? { [%eval 0.0] } 18. Bxe2 { [%eval 0.0] } 18... Rde5 { [%eval 0.42] } 19. O-O { [%eval 0.0] } 19... Rxe3 { [%eval 0.02] } 20. Bf3 { [%eval -0.07] } 20... Re2? { [%eval 2.46] } 21. Bxb7? { [%eval -0.15] } 21... Rxg2+?? { [%eval 5.9] } 22. Kxg2 { [%eval 5.75] } 22... Rd8? { [%eval 6.78] } 23. Rae1 { [%eval 6.55] } 23... Bb6 { [%eval 6.55] } 24. Re8+?? { [%eval 0.05] } 24... Rxe8 { [%eval 0.08] } 25. Bc6 { [%eval -0.25] } 25... Rf8?? { [%eval 6.97] } 26. Re1?? { [%eval -0.64] } 26... Rf7?? { [%eval #3] } 27. Re8+ { [%eval #2] } 27... Rf8 { [%eval #2] } 28. Re6?? { [%eval -0.7] } 28... Rf7?? { [%eval #3] } 29. Bd5?? { [%eval 0.03] } 29... Rf8?? { [%eval #2] } 0-1
+

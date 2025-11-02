@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6eD5DJ4y"]
+[White "TNi3s3l"]
+[Black "UriyP"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:32"]
+[WhiteElo "2004"]
+[BlackElo "1956"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. c4 e6 2. g3 d6 3. Bg2 c6 4. Nf3 Nd7 5. O-O Be7 6. b3 Ngf6 7. Bb2 O-O 8. d3 a6 9. e4 c5 10. Nbd2 e5 11. Ne1 b5 12. f4 b4 13. f5 a5 14. Ndf3 h6 15. h3 Nb6 16. g4 Nh7 17. Bc1 Ng5 18. Qe2 a4 19. bxa4 Nxa4 20. Qf2 Nc3 21. h4 Nxf3+ 22. Nxf3 f6 23. Bd2 Rxa2 24. Rxa2 Nxa2 25. Ra1 b3 26. Rb1 Qb6 27. g5 fxg5 28. hxg5 hxg5 29. Nxg5 Bxg5 30. Bxg5 Bd7 31. Qg3 Nc3 32. Bh6 Ne2+ 0-1
+

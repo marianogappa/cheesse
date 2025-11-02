@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/RuSmjx6e"]
+[White "fabiosilva71"]
+[Black "Stromboli"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:42"]
+[WhiteElo "1546"]
+[BlackElo "1571"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C00"]
+[Opening "French Defense: King's Indian Attack"]
+[TimeControl "900+10"]
+[Termination "Normal"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. Ngf3 Nc6 5. g3 Bd6 6. Bg2 Nf6 7. O-O O-O 8. b3 Nd4 9. Nxd4 cxd4 10. Nf3 e5 11. Bg5 h6 12. Bxf6 Qxf6 13. exd5 b6 14. Nh4 Bb7 15. Be4 Qd8 16. Nf5 Bc8 17. Qg4 Bxf5 18. Qxf5 g6 19. Qh3 Kg7 20. Qg2 Rc8 21. Rac1 f5 22. Bf3 Ba3 23. Rce1 Qe7 24. Re2 g5 25. Bh5 g4 26. h3 Qg5 27. hxg4 fxg4 28. Qh2 Rf5 29. Bxg4 Qxg4 30. Re4 Qg6 31. Qh4 Rxc2 32. g4 Rf7 33. Rxe5 Rxa2 34. g5 Be7 35. Kh1 Bxg5 36. Qxd4 Kh7 37. Rg1 Qh5+ 38. Kg2 Raxf2+ 39. Qxf2 Rxf2+ 40. Kxf2 Qh2+ 41. Kf1 Qxe5 42. Rg2 Qxd5 43. Rf2 Kg6 44. Ke2 Qxb3 45. Rf3 a5 46. d4 Qb2+ 47. Kd3 Qb3+ 48. Ke4 Qxf3+ 49. Kxf3 Kf6 50. Ke4 Ke6 51. d5+ Kd6 52. Kd4 h5 53. Ke4 a4 54. Kf5 Bd8 55. Kf4 a3 56. Kg3 a2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bFbpnqcP"]
+[White "biofab"]
+[Black "mundocatavento"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:14"]
+[WhiteElo "1313"]
+[BlackElo "1203"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "480+4"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f6 4. dxe5 fxe5 5. Bc4 Nf6 6. Nbd2 d5 7. exd5 Nxd5 8. O-O Be6 9. Nxe5 Qg5 10. Nef3 Qf4 11. Qe2 Bd6 12. Qxe6+ Ne7 13. Nb3 Qe5 14. Nxe5 1-0
+

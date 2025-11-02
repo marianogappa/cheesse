@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/3FWnshsV"]
+[White "rude2cool"]
+[Black "LaGr1977"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:07"]
+[WhiteElo "1595"]
+[BlackElo "1526"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+13"]
+[ECO "C37"]
+[Opening "King's Gambit Accepted, King's Knight Gambit"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.28] } 1... e5 { [%eval 0.18] } 2. f4?! { [%eval -0.44] } 2... exf4 { [%eval -0.24] } 3. Nf3 { [%eval -0.5] } 3... g5 { [%eval -0.45] } 4. Bc4?! { [%eval -1.1] } 4... d6? { [%eval 0.79] } 5. O-O? { [%eval -0.86] } 5... Nc6 { [%eval -0.87] } 6. d4 { [%eval -0.76] } 6... Bg4 { [%eval -0.31] } 7. a3 { [%eval -0.75] } 7... Bg7 { [%eval -0.63] } 8. c3 { [%eval -0.63] } 8... Qe7 { [%eval -0.57] } 9. Qd3 { [%eval -0.81] } 9... Bxf3?! { [%eval -0.1] } 10. Rxf3?! { [%eval -0.64] } 10... Nf6 { [%eval -0.35] } 11. Nd2 { [%eval -0.66] } 11... O-O { [%eval -0.29] } 12. b4?! { [%eval -1.07] } 12... h6?! { [%eval -0.12] } 13. Bb2 { [%eval -0.46] } 13... Rfe8?! { [%eval 0.08] } 14. Re1? { [%eval -2.52] } 14... Nh5? { [%eval -0.13] } 15. Bb3 { [%eval -0.25] } 15... a6 { [%eval 0.11] } 16. Bc2?! { [%eval -0.56] } 16... Rad8 { [%eval -0.46] } 17. e5? { [%eval -1.67] } 17... dxe5 { [%eval -1.52] } 18. Qh7+?! { [%eval -2.28] } 18... Kf8 { [%eval -2.42] } 19. Nc4?! { [%eval -3.21] } 19... Qf6?! { [%eval -2.28] } 20. g3?? { [%eval -6.41] } 20... Qe6?? { [%eval -3.28] } 21. Nxe5? { [%eval -4.66] } 21... Nxe5 { [%eval -4.54] } 22. dxe5 { [%eval -4.5] } 22... Rd2 { [%eval -4.35] } 0-1
+

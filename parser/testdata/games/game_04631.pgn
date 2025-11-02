@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/psOekAu1"]
+[White "BeefFly"]
+[Black "thedrumz"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:47"]
+[WhiteElo "1484"]
+[BlackElo "1470"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 b6 2. d4 Bb7 3. d5 c6 4. c4 cxd5 5. cxd5 Nf6 6. Bd3 e6 7. Nc3 Bb4 8. Ne2 exd5 9. exd5 Nxd5 10. O-O O-O 11. Nxd5 Bxd5 12. Bxh7+ Kxh7 13. Qxd5 Nc6 14. a3 Be7 15. Qh5+ Kg8 16. Be3 Bf6 17. Nc3 Ne5 18. Rfe1 d6 19. Nd5 Qd7 20. Nxf6+ gxf6 21. Bf4 Kg7 22. Re3 Rh8 23. Rg3+ Ng6 24. Bh6+ Rxh6 25. Qf3 Rah8 26. h3 Kf8 27. Re1 Ne5 28. Qa8+ Ke7 29. Qd5 Kd8 30. Rg7 Rf8 31. Qa8+ Ke7 32. Qd5 Rhh8 33. f4 Qf5 34. fxe5 fxe5 35. Rf1 Qd7 36. Rgxf7+ Rxf7 37. Rxf7+ Kd8 38. Rxd7+ Kxd7 39. Qb7+ Ke6 40. Qxa7 Rc8 41. Qxb6 Rc2 42. b4 Kd5 43. Kh2 Rb2 44. Qa5+ Kd4 45. Qb6+ Kc4 46. Qxd6 Kb3 47. Qe6+ Kxa3 48. Qxe5 Rxb4 49. Qe3+ Ka4 0-1
+

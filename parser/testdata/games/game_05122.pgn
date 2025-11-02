@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BIcXsWoO"]
+[White "jimbo_checkers"]
+[Black "jbpatzer"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:42"]
+[WhiteElo "1922"]
+[BlackElo "1917"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "A80"]
+[Opening "Dutch Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 f5 2. Bf4 Nf6 3. e3 e6 4. Nd2 Be7 5. Bc4 b6 6. Ne2 Bb7 7. Rg1 Ne4 8. Nxe4 Bxe4 9. Ng3 Bb7 10. c3 Nc6 11. Qc2 Na5 12. Bd3 d6 13. b4 Nc6 14. a3 g5 15. Nh5 gxf4 16. Nxf4 Qd7 17. c4 O-O-O 18. d5 Nb8 19. Nxe6 Bf6 20. Rc1 Qe7 21. Bxf5 Rd7 22. a4 Na6 23. Qb3 Kb8 24. c5 dxc5 25. bxc5 Bxd5 26. Qb5 Bxe6 27. Bxe6 Qxe6 28. Qxa6 Qd5 29. Qc4 Rhd8 30. Qxd5 Rxd5 31. cxb6 cxb6 32. Ke2 Rd2+ 33. Kf3 Ra2 34. Rc4 Rdd2 35. Rgc1 Rxf2+ 36. Ke4 Rxg2 37. Rc8+ Kb7 38. R1c7+ Ka6 39. Ra8 Rxa4+ 40. Kf5 Ba1 41. Raxa7+ Kb5 42. Rxa4 Kxa4 0-1
+

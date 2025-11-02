@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7ogucB2Q"]
+[White "bacchus65"]
+[Black "kreshnik2"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:48"]
+[WhiteElo "2088"]
+[BlackElo "1858"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Krejcik Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Bc4 e6 3. e5 Nd5 4. d4 Nb6 5. Bb3 d5 6. Nf3 a5 7. c3 c5 8. O-O Be7 9. Bf4 N8d7 10. Nbd2 f5 11. exf6 Nxf6 12. Re1 h6 13. Ne5 O-O 14. Bc2 Ne4 15. Nxe4 Rxf4 16. Nxc5 Bxc5 17. dxc5 Nd7 18. Ng6 Rf6 19. b4 axb4 20. cxb4 Qc7 21. Qd3 Nf8 22. Ne5 b6 23. c6 Qd6 24. b5 Ra3 25. Nc4 Rxd3 26. Nxd6 Rd2 27. Bb3 Rfxf2 28. Nxc8 Rxg2+ 29. Kh1 Rxh2+ 30. Kg1 Rdg2+ 31. Kf1 Ng6 32. Rxe6 Nf4 33. Re8+ Kf7 34. Nd6+ Kf6 35. Rf8+ Kg5 36. Rxf4 Kxf4 37. Bxd5 Kg3 38. Bxg2 Rxg2 39. c7 h5 40. c8=Q h4 41. Qd8 h3 42. Qg5+ Kf3 43. Qf5+ Kg3 44. Ne4+ Kh2 45. Qf4+ Kh1 46. Nf2+ Rxf2+ 47. Kxf2# 1-0
+

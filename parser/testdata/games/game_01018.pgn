@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/t3uq58y2"]
+[White "HardWoodPusher"]
+[Black "rinardo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:49"]
+[WhiteElo "1914"]
+[BlackElo "1899"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "B07"]
+[Opening "Pirc Defense #4"]
+[TimeControl "0+1"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nc3 e6 3. d4 f6 4. Nf3 g6 5. Bd3 Bg7 6. Qe2 Nh6 7. O-O Nf7 8. Re1 Ng5 9. Bxg5 fxg5 10. Qd2 h6 11. h4 O-O 12. hxg5 hxg5 13. Qxg5 Bf6 14. Qxg6+ Bg7 15. Ng5 Qf6 16. Qh7# 1-0
+

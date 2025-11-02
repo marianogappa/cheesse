@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pZ5K2rzP"]
+[White "tmoreno"]
+[Black "relopezil"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:30"]
+[WhiteElo "1050"]
+[BlackElo "1200"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-16"]
+[ECO "C77"]
+[Opening "Ruy Lopez: Morphy Defense, Anderssen Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 a6 5. Ba4 b5 6. Bb3 Bb7 7. O-O Nd4 8. Ng5 Nxb3 9. axb3 h6 10. Nf3 d5 11. Nxe5 dxe4 12. dxe4 Nxe4 13. Nxf7 Kxf7 14. Qxd8 Rxd8 15. Nc3 Nxc3 16. bxc3 Be4 17. Ba3 Bxa3 18. Rxa3 Bxc2 19. Rxa6 Rhe8 20. Raa1 Bxb3 21. h3 c5 22. Rab1 Bc4 23. f3 Bxf1 24. Kxf1 Rb8 25. g4 b4 26. c4 b3 27. f4 g5 28. fxg5 hxg5 29. Kf2 Red8 30. Ke3 b2 31. Ke4 Re8+ 32. Kf5 Kg7 33. Kxg5 Re5+ 34. Kf4 Rbe8 35. h4 Re1 36. Rxb2 R1e4+ 37. Kg3 Rg8 38. g5 Kg6 39. Rb6+ Kf5 40. Rf6+ Ke5 41. h5 Re3+ 42. Kh4 Ra3 43. h6 Ra7 44. Rf1 Rh7 45. Re1+ Kf4 46. Rf1+ Ke5 47. Re1+ Kd6 48. Rd1+ Kc6 49. Kh5 Kb6 50. g6 Rxg6 51. Kxg6 Rh8 52. h7 Kc7 53. Kg7 Rd8 54. Rxd8 Kxd8 55. h8=Q+ Kc7 56. Qh2+ Kb6 57. Qd6+ Ka5 58. Qxc5+ Ka6 59. Qd4 Ka5 60. c5 Ka6 61. c6 Ka5 62. Qc3+ Kb6 63. c7 Kb7 64. c8=Q+ Kb6 65. Q3c5# 1-0
+

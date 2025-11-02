@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ET5z57Q7"]
+[White "sopernik"]
+[Black "kernell"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:04"]
+[WhiteElo "1597"]
+[BlackElo "1639"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "600+5"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Qf3 c6 5. Bc4 Nf6 6. d3 e6 7. a3 h6 8. h3 Qb6 9. b3 Bc5 10. Be3 Bd4 11. Bxd4 Qxd4 12. Nge2 Nbd7 13. Nxd4 Ne5 14. Qg3 Nh5 1-0
+

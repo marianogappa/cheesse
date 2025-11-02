@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/KltL47O3"]
+[White "zurka"]
+[Black "divinepawn"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:08"]
+[WhiteElo "1699"]
+[BlackElo "1648"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+13"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation #2"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. b3 e5 2. Bb2 d5 3. g3 Nc6 4. Bg2 Nf6 5. f3 Bd6 6. e3 Be6 7. d3 Qd7 8. c3 Bf5 9. Nd2 Be6 10. Qe2 Bf5 11. g4 Be6 12. h4 h6 13. a3 O-O-O 14. b4 Kb8 15. a4 g5 16. h5 Ne8 17. b5 Ne7 18. c4 dxc4 19. Nxc4 Bxc4 20. dxc4 Bb4+ 21. Kf1 Qd2 22. Qxd2 Rxd2 23. Bxe5 Nd6 24. Bxh8 f6 25. Bxf6 Nxc4 26. Ne2 Nxe3+ 27. Kf2 N7d5 28. Bb2 Nf4 29. Kg3 Nxe2+ 30. Kh3 Nf4+ 31. Kg3 Rxb2 32. Rag1 Nexg2 33. Rxg2 Rxg2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4vVoLeOZ"]
+[White "Krypto406"]
+[Black "thebearman"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:41"]
+[WhiteElo "1326"]
+[BlackElo "1324"]
+[WhiteRatingDiff "+34"]
+[BlackRatingDiff "-115"]
+[ECO "A82"]
+[Opening "Dutch Defense: Staunton Gambit Accepted"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 f5 2. e4 fxe4 3. Bb5 a6 4. Bc4 Nc6 5. Qh5+ g6 6. Qd1 Bh6 7. Bxh6 Nxh6 8. Qd2 e6 9. Qxh6 Qf6 10. d5 exd5 11. Bxd5 Nd4 12. c3 Nc2+ 13. Kd1 Nxa1 14. f3 Qd6 15. Qg7 Qxd5+ 16. Nd2 Rf8 17. fxe4 Qd6 18. Nf3 Nb3 19. axb3 a5 20. Ke2 Qa6+ 21. Ke3 Rf7 22. Qe5+ Kf8 23. Nd4 Re7 24. Rf1+ Ke8 25. Qh8# 1-0
+

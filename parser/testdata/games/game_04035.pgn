@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/vniIwHpR"]
+[White "wochirw"]
+[Black "putman"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:24"]
+[WhiteElo "1313"]
+[BlackElo "1550"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+5"]
+[ECO "A06"]
+[Opening "Reti Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. Ng1 Nc6 3. Nf3 e5 4. Ng1 Bc5 5. Nf3 Qf6 6. Ng1 Qxf2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/sOGzqoWZ"]
+[White "Discalie"]
+[Black "aria1358"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:24"]
+[WhiteElo "1815"]
+[BlackElo "1730"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-13"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "420+10"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qd7 3. Nc3 Qxd5 4. Nxd5 1-0
+

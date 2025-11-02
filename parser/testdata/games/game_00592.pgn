@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/UMHk0Qk3"]
+[White "Extermo"]
+[Black "lexa1246"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:09"]
+[WhiteElo "1572"]
+[BlackElo "1577"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-10"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. e4 Be7 3. c4 d6 4. Nc3 Bd7 5. g3 c5 6. Nf3 Nc6 7. d5 exd5 8. exd5 Ne5 9. Nxe5 dxe5 10. Bg2 Rc8 11. O-O Nf6 12. Nb5 Bxb5 13. cxb5 b6 14. Qa4 Nxd5 15. Rd1 Nc3 16. bxc3 1-0
+

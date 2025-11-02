@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/UAtOIocj"]
+[White "fibra"]
+[Black "vx9mcz"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:21"]
+[WhiteElo "1531"]
+[BlackElo "1769"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "A40"]
+[Opening "English Defense #2"]
+[TimeControl "300+7"]
+[Termination "Time forfeit"]
+
+1. d4 b6 2. d5 Nf6 3. c4 Bb7 4. b4 g6 5. b5 Bg7 6. Bb2 Rg8 7. Qd4 Nxd5 8. Qd2 Nf6 9. Nf3 a6 10. Ng5 h6 11. Bxf6 Bxf6 12. Nxf7 Kxf7 13. Qxh6 Bxa1 14. Qh7+ Bg7 15. Nd2 d5 16. Nf3 e5 17. cxd5 Qxd5 18. Ng5+ Kf8 19. Qxg6 Nd7 20. Ne6+ Ke7 21. Nxc7 Qxa2 22. Nxa8 Bxa8 23. Qg5+ Kf8 24. Qd8+ Kf7 25. Qxd7+ Kg6 26. Qd6+ Kh7 27. Qxb6 Qb1+ 28. Kd2 Bh6+ 29. e3 Qb2+ 30. Ke1 Qc1+ 31. Ke2 Qb1 32. Qxa6 Qc2+ 33. Ke1 Qc3+ 34. Ke2 Qb2+ 35. Ke1 Bxg2 36. Bd3+ e4 37. Qb7+ Rg7 38. Bxe4+ Bxe4 39. Qxe4+ Kh8 40. Qe8+ Rg8 41. Qe4 Qxb5 42. Qd4+ Rg7 43. Kd2 Qa5+ 44. Ke2 Qa2+ 45. Kf3 Qf7+ 46. Ke2 Kh7 47. Qe4+ Qg6 48. Qxg6+ Rxg6 49. Rd1 Rg2 50. Rd7+ Kg6 51. h4 Rh2 52. Rd4 Kf5 53. Kf3 Ke5 54. Re4+ Kf5 55. Rd4 Ke5 56. Kg3 Rh1 57. f4+ Ke6 58. e4 Rg1+ 59. Kh3 Bxf4 60. Rd5 Rg3+ 61. Kh2 Re3+ 62. Kg2 Rxe4 0-1
+

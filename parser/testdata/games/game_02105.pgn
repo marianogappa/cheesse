@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/FncH5vnx"]
+[White "dorhug"]
+[Black "rs2017"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:51"]
+[WhiteElo "1670"]
+[BlackElo "1922"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. Nc3 O-O 6. O-O Na5 7. Nxe5 d6 8. Nxf7 Rxf7 9. Bxf7+ Kxf7 10. Qf3 Bg4 11. Qf4 Kg8 12. h3 Be6 13. Qg3 Bf7 14. Bh6 Bg6 15. Bg5 Nh5 16. Bxe7 Nxg3 17. Bxd8 Nxf1 18. Kxf1 Rxd8 19. Nd5 Rd7 20. f4 Nc6 21. c3 Bf7 22. Ne3 d5 23. e5 d4 24. cxd4 Rxd4 25. Ke2 Rxf4 26. b3 Nd4+ 27. Kd2 Rf2+ 28. Kc3 Nf5 29. Nxf5 Rxf5 30. Kd4 Rf2 31. Rc1 c6 32. g3 Rxa2 33. Kc3 Rg2 34. Re1 Rxg3 35. e6 Be8 36. Rf1 Re3 37. Ra1 a6 38. Kb4 Rxe6 39. Kc5 Rh6 40. Kb6 Rxh3 41. Kxb7 Rxd3 42. Rxa6 Rxb3+ 43. Kc7 Rc3 44. Ra8 Kf8 45. Kd6 c5 46. Kd5 c4 47. Kd4 Rc1 0-1
+

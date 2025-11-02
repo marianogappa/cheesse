@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/76AdAYIk"]
+[White "Rezik"]
+[Black "mustang83"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:30"]
+[WhiteElo "1385"]
+[BlackElo "1188"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "C40"]
+[Opening "King's Knight Opening"]
+[TimeControl "90+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 1-0
+

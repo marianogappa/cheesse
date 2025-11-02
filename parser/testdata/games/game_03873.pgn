@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/fHLLkqub"]
+[White "olemartin"]
+[Black "a-man"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:48"]
+[WhiteElo "1252"]
+[BlackElo "1285"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C40"]
+[Opening "Elephant Gambit"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Qxd5 4. Nc3 Qd6 5. d3 Qb4 6. Nxe5 f6 7. Nf3 Bc5 8. a3 Qb6 9. b4 Bxf2+ 10. Kd2 Qe3# 0-1
+

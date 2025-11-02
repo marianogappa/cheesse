@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mjiJH7ia"]
+[White "najjih"]
+[Black "Chicharrero"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:07"]
+[WhiteElo "1693"]
+[BlackElo "1612"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d6 4. Bc4 Bg4 5. O-O a6 6. a3 b5 7. Bd5 Qc7 8. d3 Rb8 9. Nbd2 e6 10. Bxc6+ Qxc6 11. Nb3 a5 12. Nxa5 Qb6 13. Nb3 g6 14. Nbd2 Bg7 15. Qe1 Ne7 16. e5 d5 17. d4 c4 18. h3 Bf5 19. Kh1 Ra8 20. Nh4 Bd3 21. Rg1 Nc6 22. Ndf3 b4 23. Bd2 bxa3 24. Rxa3 Rxa3 25. bxa3 O-O 26. Qa1 Ra8 27. Ne1 Be4 28. f3 Bd3 29. Nxd3 cxd3 30. Rb1 Qa6 31. Rb3 Qa4 32. Rb1 Qc2 33. Rd1 Rxa3 34. Qc1 Ra2 35. Qxc2 Rxc2 36. f4 Bh6 37. g3 Na5 38. Nf3 Nc4 39. Ra1 Nxd2 40. Nxd2 Rxd2 41. Ra8+ Kg7 42. h4 Rc2 43. g4 d2 44. g5 d1=Q# 0-1
+

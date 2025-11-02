@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dIi0TVYi"]
+[White "PawnStars21"]
+[Black "freedombanker"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:47"]
+[WhiteElo "1346"]
+[BlackElo "1460"]
+[WhiteRatingDiff "+24"]
+[BlackRatingDiff "-14"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "420+1"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.25] } 1... d5 { [%eval 0.7] } 2. exd5 { [%eval 0.6] } 2... Qxd5 { [%eval 0.57] } 3. c4?! { [%eval -0.36] } 3... Qe4+ { [%eval -0.26] } 4. Qe2 { [%eval -0.47] } 4... Qxe2+ { [%eval -0.3] } 5. Bxe2 { [%eval -0.31] } 5... Nf6 { [%eval 0.13] } 6. Nf3 { [%eval 0.21] } 6... e6 { [%eval 0.47] } 7. b4? { [%eval -0.92] } 7... Bxb4 { [%eval -1.0] } 8. a3 { [%eval -0.97] } 8... Bc5 { [%eval -0.64] } 9. d4 { [%eval -0.57] } 9... Be7 { [%eval -0.61] } 10. Nc3 { [%eval -0.52] } 10... O-O { [%eval -0.42] } 11. Bf4 { [%eval -0.81] } 11... Bd6?! { [%eval -0.29] } 12. Bxd6 { [%eval -0.45] } 12... cxd6 { [%eval -0.39] } 13. Rb1 { [%eval -0.86] } 13... b6 { [%eval -0.44] } 14. O-O { [%eval -0.77] } 14... Bb7 { [%eval -0.5] } 15. Nb5 { [%eval -0.45] } 15... Na6? { [%eval 0.58] } 16. Nxd6 { [%eval 0.56] } 16... Rab8?! { [%eval 1.06] } 17. Nxb7?! { [%eval 0.35] } 17... Rxb7 { [%eval 0.46] } 18. c5 { [%eval 0.24] } 18... Rbb8?? { [%eval 4.65] } 19. Bxa6 { [%eval 4.56] } 19... bxc5?! { [%eval 5.5] } 20. Rxb8?! { [%eval 4.71] } 20... Rxb8 { [%eval 4.77] } 21. dxc5 { [%eval 4.59] } 21... Nd5 { [%eval 4.72] } 22. Rc1 { [%eval 4.53] } 22... Nc7 { [%eval 4.92] } 23. Bd3 { [%eval 4.54] } 23... Rb3 { [%eval 4.5] } 24. Be4?! { [%eval 3.59] } 24... Rxa3 { [%eval 3.72] } 25. Rb1?! { [%eval 3.18] } 25... g6?! { [%eval 3.85] } 26. h3 { [%eval 3.82] } 26... Rc3 { [%eval 3.83] } 27. c6 { [%eval 3.37] } 27... a6? { [%eval 4.69] } 28. Rb8+?! { [%eval 3.76] } 28... Kg7 { [%eval 3.8] } 29. Rc8? { [%eval 2.36] } 29... Nb5 { [%eval 2.35] } 30. Ra8? { [%eval 0.63] } 30... Nd6? { [%eval 1.94] } 31. Nd2 { [%eval 1.95] } 31... Nxe4 { [%eval 1.97] } 32. Nxe4 { [%eval 1.91] } 32... Rxc6 { [%eval 1.85] } 33. Ra7 { [%eval 1.95] } 33... Rc1+? { [%eval 3.62] } 34. Kh2 { [%eval 3.43] } 34... Ra1 { [%eval 3.6] } 35. Ng5 { [%eval 3.59] } 35... a5? { [%eval 5.2] } 36. Rxf7+ { [%eval 4.96] } 36... Kh6?? { [%eval #3] } 37. Nxe6?! { [%eval 48.88] } 37... a4?! { [%eval #4] } 38. g4 { [%eval #3] } 38... a3 { [%eval #2] } 39. g5+ { [%eval #1] } 1-0
+

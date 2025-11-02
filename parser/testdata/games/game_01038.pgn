@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/e0hQqoz5"]
+[White "Banzai-"]
+[Black "DanGG"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:54"]
+[WhiteElo "1706"]
+[BlackElo "1496"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 d6 3. d4 cxd4 4. cxd4 Nc6 5. Bb5 Bd7 6. Nc3 a6 7. Ba4 b5 8. Bc2 Nf6 9. Nf3 e6 10. O-O e5 11. dxe5 dxe5 12. Bg5 Be7 13. Qd2 Qc7 14. Bxf6 Bxf6 15. Rad1 Rd8 16. Nd5 Qb8 17. Nxf6+ gxf6 18. Qh6 Nd4 19. Qxf6 Nxf3+ 20. Qxf3 h5 21. Bb3 h4 22. Qxf7# 1-0
+

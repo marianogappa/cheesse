@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/qw0ShzkA"]
+[White "marshallll"]
+[Black "Kasparovrussian"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:40"]
+[WhiteElo "1697"]
+[BlackElo "1655"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 d5 5. e5 Bf5 6. Nc3 e6 7. f4 Bb4 8. Nf3 h6 9. Bd3 Nge7 10. g4 Bg6 11. a3 Bxc3+ 12. bxc3 O-O 13. Nh4 Bxd3 14. Qxd3 Rc8 15. f5 exf5 16. gxf5 Na5 17. Rg1 Nec6 18. f6 g6 19. Nxg6 Qd7 20. Bxh6 Nxe5 21. dxe5 Rxc3 22. Ne7+ Kh8 23. Bg7# 1-0
+

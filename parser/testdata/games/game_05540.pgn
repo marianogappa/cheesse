@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ouhka5w9"]
+[White "Snitcher"]
+[Black "tranfunzel"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:26"]
+[WhiteElo "1113"]
+[BlackElo "1223"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. Bc4 d5 5. Bb5 Bd7 6. d3 d4 7. Na4 e5 8. Bg5 Qa5+ 9. c3 Qxb5 10. cxd4 Nxd4 11. Nxd4 cxd4 12. Qb3 Bb4+ 13. Kd1 Be6 14. Nc3 Qxd3+ 15. Ke1 Bxb3 16. Rd1 0-1
+

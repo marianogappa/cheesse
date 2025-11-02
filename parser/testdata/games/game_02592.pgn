@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZObPDkuV"]
+[White "Percheron77"]
+[Black "dima1965"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:49"]
+[WhiteElo "1786"]
+[BlackElo "1645"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. f4 { [%eval -0.22] } 1... d5 { [%eval -0.18] } 2. d4 { [%eval -0.43] } 2... g6 { [%eval -0.21] } 3. e3 { [%eval -0.22] } 3... Bg7 { [%eval -0.16] } 4. Bb5+ { [%eval -0.23] } 4... c6 { [%eval -0.16] } 5. Ba4 { [%eval -0.58] } 5... Nf6 { [%eval -0.62] } 6. Nf3 { [%eval -0.62] } 6... Ne4 { [%eval -0.27] } 7. O-O { [%eval -0.38] } 7... h5 { [%eval -0.01] } 8. c3 { [%eval -0.2] } 8... h4 { [%eval 0.01] } 9. Nbd2 { [%eval 0.0] } 9... h3 { [%eval 0.25] } 10. g3 { [%eval -0.07] } 10... Nxg3?? { [%eval 3.09] } 11. hxg3 { [%eval 2.92] } 11... Bg4 { [%eval 3.27] } 12. Kh2 { [%eval 3.05] } 12... Nd7 { [%eval 3.24] } 13. Bc2?! { [%eval 2.66] } 13... Nf6 { [%eval 2.72] } 14. Qe1 { [%eval 2.55] } 14... Ne4? { [%eval 4.85] } 15. Nxe4 { [%eval 4.72] } 15... dxe4 { [%eval 4.96] } 16. Bxe4 { [%eval 4.85] } 16... f5?! { [%eval 5.41] } 17. Bc2 { [%eval 5.28] } 17... Qd5 { [%eval 5.7] } 18. Bd1?! { [%eval 4.72] } 18... O-O-O { [%eval 4.82] } 19. Qf2?! { [%eval 4.16] } 19... Bh5? { [%eval 5.46] } 20. Bb3 { [%eval 5.24] } 20... Qd6?! { [%eval 6.0] } 21. Bd2?! { [%eval 5.45] } 21... Bf6 { [%eval 5.68] } 22. Ne5 { [%eval 5.37] } 22... Bxe5 { [%eval 5.8] } 23. fxe5 { [%eval 5.66] } 23... Qd7 { [%eval 5.56] } 24. a4 { [%eval 5.46] } 24... g5? { [%eval 6.59] } 25. Qxf5 { [%eval 6.46] } 25... Qxf5 { [%eval 6.52] } 26. Rxf5 { [%eval 6.38] } 26... Bg4 { [%eval 6.78] } 27. Rxg5 { [%eval 6.58] } 1-0
+

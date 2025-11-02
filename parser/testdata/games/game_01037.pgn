@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ry3ab8NW"]
+[White "Krjl626"]
+[Black "SantaSatan"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:51"]
+[WhiteElo "1651"]
+[BlackElo "1552"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 a6 4. Bc4 b5 5. Bb3 d6 6. O-O f5 7. exf5 Bxf5 8. d3 Nf6 9. Ng5 Bg4 10. f3 Bh5 11. Ne6 Qd7 12. Bg5 Bf7 13. Bxf6 gxf6 14. Nxf8 Rxf8 15. f4 Bxb3 16. axb3 Rg8 17. Qh5+ Kd8 18. Nd5 Qg7 19. g3 Nd4 20. c3 Nxb3 21. Ra3 Nc5 22. d4 exd4 23. cxd4 Ne6 24. Rd1 b4 25. Re3 Nxf4 26. Nxf4 Kd7 27. Qf5+ Kc6 28. Nd5 Rge8 29. Nxb4+ Kb7 30. Rb3 Qg5 31. Nxa6+ Ka7 32. Ra1 Qe3+ 33. Qf2 Qxb3 34. Nxc7+ Kb7 35. Rxa8 Rxa8 36. Nxa8 Kxa8 37. Qxf6 Qd1+ 38. Kg2 Qe2+ 39. Qf2 Qe4+ 40. Kg1 Qb1+ 41. Kg2 Kb8 42. Qf8+ Kc7 43. Qf7+ Kc6 44. Qe8+ Kd5 45. Qb8 Qe4+ 46. Kh3 Qxd4 47. b4 h5 48. b5 Qg4+ 49. Kg2 Qb4 50. b6 Kc6 51. Qc7+ Kd5 52. b7 Qe4+ 53. Kf2 Qf5+ 54. Ke3 Qe4+ 55. Kd2 Qg2+ 56. Kc3 Qxh2 57. b8=Q Qxg3+ 58. Kb4 Qe1+ 59. Kb5 Qe2+ 60. Kb6 Qb2+ 61. Ka7 Qa3+ 62. Kb7 Qb4+ 63. Ka8 Qa5+ 64. Qba7 Qxa7+ 65. Qxa7 h4 66. Qh7 Kc5 67. Qxh4 d5 68. Qf2+ d4 69. Kb7 Kc4 70. Qd2 d3 71. Kc6 Kd4 72. Kd6 Ke4 73. Kc5 Ke5 74. Qxd3 Kf4 75. Qd5 Ke3 76. Qc4 Kf3 77. Qd4 Ke2 78. Qc3 Kf2 79. Qd3 Kg2 80. Qe3 Kf1 81. Qd2 Kg1 82. Qe2 Kh1 83. Kd4 Kg1 84. Ke3 Kh1 85. Kf3 Kg1 86. Qg2# 1-0
+

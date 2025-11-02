@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Fktwwzmw"]
+[White "CoyotteBipBip"]
+[Black "Kramfran"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:23"]
+[WhiteElo "1714"]
+[BlackElo "1829"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 b6 2. Nc3 Bb7 3. Nf3 e6 4. Bc4 Nf6 5. d3 Bb4 6. Bg5 h6 7. Bh4 g5 8. Nxg5 hxg5 9. Bxg5 Be7 10. h4 d6 11. Qd2 Nc6 12. O-O-O Qd7 13. f3 O-O-O 14. g4 Kb8 15. Bxf6 Bxf6 16. g5 Be7 17. f4 Rdg8 18. Kb1 a6 19. f5 Na5 20. f6 Nxc4 21. dxc4 Bd8 22. Rh2 Qc6 23. Qe2 Qc5 24. b3 Qe5 25. Rd3 Rxg5 26. hxg5 Rxh2 27. Qe1 Qxg5 28. Rg3 Qxf6 29. Rg8 Rh8 30. Rxh8 Qxh8 0-1
+

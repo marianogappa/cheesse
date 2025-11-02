@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/ZgfwAabp"]
+[White "addictedtoyou"]
+[Black "faibel_eclipse"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:31"]
+[WhiteElo "1725"]
+[BlackElo "1834"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.07] } 1... e6 { [%eval 0.1] } 2. Nf3 { [%eval 0.08] } 2... c6 { [%eval 0.42] } 3. d4 { [%eval 0.42] } 3... d5 { [%eval 0.49] } 4. exd5 { [%eval 0.32] } 4... cxd5 { [%eval 0.35] } 5. Bd3 { [%eval 0.34] } 5... Nc6 { [%eval 0.4] } 6. O-O { [%eval 0.39] } 6... Bd7 { [%eval 0.46] } 7. c3 { [%eval 0.32] } 7... Rc8 { [%eval 0.72] } 8. Nbd2 { [%eval 0.52] } 8... Bd6 { [%eval 0.57] } 9. Re1 { [%eval 0.62] } 9... Nge7 { [%eval 0.66] } 10. Nf1 { [%eval 0.2] } 10... Bc7 { [%eval 0.51] } 11. Ne5 { [%eval 0.09] } 11... Nxe5 { [%eval 0.25] } 12. dxe5 { [%eval 0.16] } 12... O-O?! { [%eval 0.89] } 13. Ng3? { [%eval -0.16] } 13... Ng6 { [%eval 0.0] } 14. Bxg6?! { [%eval -0.58] } 14... fxg6 { [%eval -0.54] } 15. f3 { [%eval -0.6] } 15... Qh4 { [%eval -0.6] } 16. Bd2 { [%eval -0.56] } 16... Bc6?! { [%eval -0.06] } 17. Qb3 { [%eval -0.54] } 17... Rce8 { [%eval -0.47] } 18. Rad1? { [%eval -2.69] } 18... h5? { [%eval 0.2] } 19. Re2?? { [%eval -5.84] } 19... a6?? { [%eval 0.1] } 20. Be1?? { [%eval -3.0] } 20... Bb5? { [%eval -1.62] } 21. Re3? { [%eval -2.85] } 21... Qf4? { [%eval -1.81] } 22. Bd2 { [%eval -2.2] } 22... h4? { [%eval 0.18] } 23. Ree1? { [%eval -1.08] } 23... Qf7 { [%eval -0.79] } 24. Ne2 { [%eval -0.96] } 24... Bxe2?! { [%eval -0.27] } 25. Rxe2 { [%eval -0.29] } 25... Qf5?! { [%eval 0.52] } 26. Bc1?! { [%eval 0.0] } 26... Bxe5 { [%eval 0.03] } 27. Qc2? { [%eval -1.02] } 27... Qxc2 { [%eval -1.06] } 28. Rde1?? { [%eval -9.61] } 28... Qxe2? { [%eval -7.55] } 0-1
+

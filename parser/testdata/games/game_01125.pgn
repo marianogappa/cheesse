@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/RP71Iddv"]
+[White "babblingboy"]
+[Black "karimkp"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:12"]
+[WhiteElo "1322"]
+[BlackElo "1675"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+[ECO "B27"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 g6 3. Bc4 e6 4. Nc3 Bg7 5. d3 Nf6 6. Be3 b6 7. O-O Bb7 8. a3 a6 9. b4 b5 10. Bb3 cxb4 11. axb4 Nc6 12. d4 Nxb4 13. Ne5 O-O 14. Nd3 a5 15. Nxb4 axb4 16. Nxb5 Nxe4 17. Rxa8 Bxa8 18. f3 Ng5 19. Qd2 Qe7 20. Bxg5 f6 21. Bh6 Rb8 22. Nc7 Bc6 23. Bxg7 Kxg7 24. Ra1 d5 25. Ba4 Qxc7 26. Bxc6 Qxc6 27. Rb1 g5 28. Rxb4 Rxb4 29. Qxb4 Kg6 30. c3 f5 31. g4 fxg4 32. Qb1+ Kf6 33. Qxh7 Qxc3 34. Qh6+ Kf5 35. Qh7+ Kf4 36. Qf7+ Ke3 37. Qxe6+ Kxd4 38. Qf6+ Kc4 39. Qc6+ Kd4 40. Qa4+ Qc4 41. Qd1+ Kc5 42. Qf1 Qd4+ 43. Kg2 gxf3+ 44. Qxf3 g4 45. Qf8+ Kc4 46. Qc8+ Kd3 47. Qf5+ Kc4 48. Qc8+ Kd3 49. Qa6+ Ke3 50. Qa3+ Ke4 51. Qe7+ Kd3 52. Qh7+ Kc4 53. Qc7+ Kd3 54. Qh7+ Kc4 55. Qc2+ Qc3 56. Qe2+ Qd3 57. Qxg4+ d4 58. Qe6+ Kc3 59. Qc6+ Kd2 60. Qh6+ Kc2 61. Qc6+ Qc3 62. Qh6 d3 63. Qf4 d2 64. Qf5+ Kc1 65. Qf1+ d1=Q 66. Qxd1+ Kxd1 67. h3 Ke2 68. h4 Qf3+ 69. Kh2 Qf4+ 70. Kh3 Kf2 71. h5 Qg3# 0-1
+

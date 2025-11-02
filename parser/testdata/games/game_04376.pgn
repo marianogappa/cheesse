@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gOjpa3dS"]
+[White "darthares"]
+[Black "Barkilphedro"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:47"]
+[WhiteElo "1390"]
+[BlackElo "1212"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+16"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Central Variation, Greco Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. e4 b5 4. Nc3 c6 5. Nf3 Bg4 6. Be2 Bxf3 7. Bxf3 e6 8. a3 Be7 9. Bf4 Nf6 10. e5 Nd5 11. Bxd5 cxd5 12. O-O a6 13. Qg4 O-O 14. Bh6 Bf6 15. exf6 Qxf6 16. Bg5 Qg6 17. h4 h6 18. f3 hxg5 19. hxg5 Nc6 20. Rad1 Rae8 21. f4 Qc2 22. Rf2 Qb3 23. g6 fxg6 24. Qxg6 Rf6 25. Qg5 Rf5 26. Qg4 Rf6 27. Rdd2 b4 28. axb4 Nxb4 29. Rfe2 Nd3 30. f5 Rxf5 31. Qxf5 exf5 32. Rxe8+ Kh7 33. Nxd5 Nxb2 34. Re7 c3 35. Nxc3 Qxc3 36. Rde2 Qxd4+ 37. Kh2 Qh4+ 38. Kg1 Nd3 39. Kf1 Qh1# 0-1
+

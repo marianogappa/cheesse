@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/P92HElvN"]
+[White "Chuck_13"]
+[Black "Scrapmetal"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:56"]
+[WhiteElo "1976"]
+[BlackElo "2220"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-18"]
+[ECO "E21"]
+[Opening "Nimzo-Indian Defense: Three Knights Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. dxc5 Bxc3+ 6. bxc3 O-O 7. Bg5 h6 8. Bxf6 Qxf6 9. Qb3 Na6 10. e3 Nxc5 11. Qc2 b6 12. Be2 Bb7 13. Rd1 Rac8 14. O-O Rc7 15. Nd4 a6 16. Bf3 Bxf3 17. Nxf3 Rfc8 18. Rd6 Rc6 19. Rfd1 Qe7 20. R6d2 e5 21. Rd5 d6 22. Qf5 g6 23. Qh3 Kg7 24. g3 Ne4 25. R5d3 Rxc4 26. Nd2 Nxd2 27. R3xd2 R8c6 28. Rb2 b5 29. a4 Rxa4 30. Rd3 f5 31. Qg2 Ra2 32. Rxa2 e4 33. Rdd2 Rxc3 34. Rxa6 Rc1+ 35. Qf1 Rxf1+ 36. Kxf1 Kf6 37. Rdxd6+ Ke5 38. Rxg6 b4 39. Rab6 h5 40. Rb5+ 1-0
+

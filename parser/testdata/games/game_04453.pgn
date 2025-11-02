@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BpgrhVHN"]
+[White "Jfolivrr"]
+[Black "StariTatko"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:03"]
+[WhiteElo "1523"]
+[BlackElo "1606"]
+[WhiteRatingDiff "+24"]
+[BlackRatingDiff "-13"]
+[ECO "B00"]
+[Opening "St. George Defense"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 a6 2. d4 b5 3. Nf3 e6 4. c4 c6 5. Nc3 Nf6 6. Bg5 Bb4 7. e5 Bxc3+ 8. bxc3 Qa5 9. Qc2 bxc4 10. exf6 g6 11. Bxc4 d5 12. Bd3 c5 13. O-O cxd4 14. cxd4 Nd7 15. Qc6 Rb8 16. Bd2 Qd8 17. Bxa6 O-O 18. Bxc8 Rxc8 19. Qd6 Nxf6 20. Qe5 Rc2 21. Bg5 Qa5 22. Qxf6 Rxa2 23. Bh6 Rxa1 24. Qg7# 1-0
+

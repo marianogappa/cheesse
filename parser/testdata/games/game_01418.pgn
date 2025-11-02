@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IGbgBLpd"]
+[White "EdgarCarreno"]
+[Black "veliborbb"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:20"]
+[WhiteElo "1694"]
+[BlackElo "1679"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C30"]
+[Opening "King's Gambit Declined, Classical Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 f5 4. fxe5 fxe4 5. d4 Bxd4 6. Nxd4 c5 7. Ne2 Nc6 8. Bf4 h6 9. Bg3 Qe7 10. Qd5 Nb4 11. Qc4 a6 12. a3 b5 13. Qc3 Nd5 14. Qd2 e3 15. Qd3 Bb7 16. Nbc3 Nb6 17. Qxe3 O-O-O 18. O-O-O g5 19. h4 Nc4 20. Qf2 Rh7 21. hxg5 Qxg5+ 22. Bf4 Qf5 23. Ng3 Qf7 24. Qxc5+ Kb8 25. Bxc4 Qxf4+ 26. Kb1 Qxc4 27. Qxc4 bxc4 28. Rh2 Ne7 29. Nge4 Bxe4 30. Nxe4 Nc6 31. Nf6 Rf7 32. Rxh6 Nxe5 33. Ne4 d5 34. Nd6 Rfd7 35. Rxd5 Ng4 36. Re6 c3 37. b4 Rxd6 38. Rdxd6 Rf8 39. Rxa6 Nf2 40. Rab6+ Kc8 41. Rec6+ Kd7 42. Rxc3 Nd1 43. Rd3+ Kc7 44. Ra6 Nf2 45. Rc3+ Kb7 46. b5 Rd8 47. Rf3 Ne4 0-1
+

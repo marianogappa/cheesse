@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dj2hg6qQ"]
+[White "Yakobie"]
+[Black "Peter_I"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:56"]
+[WhiteElo "1041"]
+[BlackElo "1252"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nd5 c6 4. Nf4 e5 5. Nfe2 Nf6 6. c3 d3 7. Ng3 Bg4 8. Qb3 b5 9. Bxd3 Na6 10. f3 Bd7 11. a4 Nc5 12. Qa3 Nxd3+ 13. Kd1 Bxa3 14. Nh5 Nxh5 0-1
+

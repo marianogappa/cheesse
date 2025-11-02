@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4aP1m9oU"]
+[White "Temarpa"]
+[Black "kronos_91"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:57"]
+[WhiteElo "1599"]
+[BlackElo "1594"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Nf6 4. d5 Ne7 5. Nxe5 d6 6. Nxf7 Kxf7 7. Bd3 Ng6 8. Be3 Be7 9. Nc3 Rf8 10. Qd2 Kg8 11. f3 c6 12. dxc6 bxc6 13. O-O-O Ne5 14. g4 Rb8 15. Qg2 Nxd3+ 16. Rxd3 Ba6 17. Rd2 Qa5 18. g5 Ne8 19. h4 d5 20. exd5 Bb4 21. f4 Bxc3 22. bxc3 Qxa2 23. Rd4 Rb1+ 24. Kd2 Qxc2+ 25. Kxc2 Rc1+ 26. Kxc1 Rxf4 27. Bxf4 Nd6 0-1
+

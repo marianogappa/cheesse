@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/oNEa1K69"]
+[White "frastornante"]
+[Black "roma1302"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:12"]
+[WhiteElo "1525"]
+[BlackElo "1517"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C00"]
+[Opening "French Defense #2"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Qh5 g6 3. Qe5 Nf6 4. Nf3 Bg7 5. Qg3 O-O 6. h4 d5 7. d3 dxe4 8. dxe4 Nxe4 9. Qf4 Qd4 10. Nxd4 Nc5 11. c3 e5 12. Qf3 exd4 13. cxd4 Re8+ 14. Be2 h5 15. Qc3 Ne4 16. Qe3 Bf5 17. f3 Ng3 18. Qxe8+ Kh7 19. Qxf7 Nc6 20. Qxc7 Re8 21. Nc3 Nxe2 22. Nxe2 Bd3 23. Qd7 Rxe2+ 24. Kd1 Rxg2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/UKlbbPt7"]
+[White "Thealbatros"]
+[Black "rolandodf"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:45"]
+[WhiteElo "1619"]
+[BlackElo "1598"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense: Ragozin Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 e6 4. Nf3 Bb4 5. Bg5 Bxc3+ 6. bxc3 O-O 7. e3 h6 8. Bh4 Bd7 9. Bd3 g5 10. Bg3 Nh5 11. O-O Nxg3 12. hxg3 Kg7 13. cxd5 f5 14. dxe6 Bxe6 15. Qc2 Nc6 16. e4 f4 17. gxf4 Rxf4 18. e5 Qf8 19. Rae1 Rf7 20. c4 Bf5 21. d5 Bxd3 22. Qxd3 Nb4 23. Qc3 a5 24. e6+ Rf6 25. a3 Na6 26. Ne5 Re8 27. Ng4 Re7 28. Nxf6 Qxf6 29. Qxf6+ Kxf6 30. f4 Nc5 31. fxg5+ Kxg5 32. Rf3 Kg6 33. Rg3+ Kh7 34. Ree3 a4 35. Re5 Nb3 36. Rf5 Nd2 37. Rf7+ Rxf7 38. exf7 Ne4 39. f8=Q Nxg3 40. Qf7+ Kh8 41. Qxc7 Nh5 42. Qe5+ Ng7 43. Qf6 Kh7 44. Qxg7+ Kxg7 45. g4 Kf7 46. g5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZauuvhcO"]
+[White "kcn77"]
+[Black "alterit"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:11"]
+[WhiteElo "1969"]
+[BlackElo "2022"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. b3 Nge7 6. Nf3 Ng6 7. Be3 Be7 8. Be2 O-O 9. O-O b6 10. h3 a5 11. a3 Ba6 12. c4 dxc4 13. bxc4 cxd4 14. Nxd4 Nxd4 15. Bxd4 Qc7 16. f4 Rad8 0-1
+

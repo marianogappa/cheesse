@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NbZJkJQo"]
+[White "hoddi"]
+[Black "chesschamp123"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:38"]
+[WhiteElo "1599"]
+[BlackElo "1504"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-10"]
+[ECO "D39"]
+[Opening "Queen's Gambit Declined: Ragozin Defense, Vienna Variation"]
+[TimeControl "120+2"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Nf6 4. Nc3 Bb4 5. Bg5 dxc4 6. e4 Nxe4 7. Bxd8 Kxd8 8. Qc2 Ke7 9. Bxc4 Nd6 10. Bd3 a6 11. O-O b5 12. Bxh7 f5 13. Bg6 Kf6 14. Ne5 Bxc3 15. bxc3 Ne4 16. f3 Nd6 17. Qb3 Nc4 18. Nxc4 bxc4 19. Qxc4 Kxg6 20. Rfe1 Bd7 21. Rxe6+ Bxe6 22. Qxe6+ Kh5 23. Qxf5+ Kh6 24. Qh3+ Kg6 25. Qxh8 1-0
+

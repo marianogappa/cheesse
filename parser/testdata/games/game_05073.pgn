@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ep9UEyRS"]
+[White "cortona"]
+[Black "Popik1412"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:31"]
+[WhiteElo "1180"]
+[BlackElo "1220"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 Be7 6. Qxg7 Bf6 7. Bg5 Bxg7 8. Bxd8 Kxd8 9. Bc4 Bxb2 10. Bxf7 Bxa1 11. Bxg8 Rxg8 12. O-O Bd4 13. Rd1 c5 14. c3 Be5 15. Rd5 Rg5 16. g3 Ke7 17. f4 Bxf4 18. h4 Rxg3+ 19. Kf2 Bb8 20. Rg5 Rxg5 21. hxg5 d6 22. Nd2 h5 23. Nf3 b6 24. Kg3 Bg4 25. Kh4 Ke6 0-1
+

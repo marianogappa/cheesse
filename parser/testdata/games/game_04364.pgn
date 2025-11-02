@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/dGnCAcus"]
+[Site "https://lichess.org/LejpEEBZ"]
+[White "ziyos"]
+[Black "evilchessmoves666"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:42"]
+[WhiteElo "1453"]
+[BlackElo "1535"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+70"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Blackburne Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.27] } 1... d5 { [%eval 0.65] } 2. exd5 { [%eval 0.73] } 2... c6 { [%eval 0.83] } 3. dxc6 { [%eval 0.75] } 3... Nxc6 { [%eval 0.79] } 4. Nc3 { [%eval 0.77] } 4... g6 { [%eval 0.83] } 5. Nf3 { [%eval 0.78] } 5... Bg7 { [%eval 0.85] } 6. Be2 { [%eval 0.7] } 6... Nf6 { [%eval 0.93] } 7. O-O { [%eval 0.78] } 7... Kf8?! { [%eval 1.65] } 8. d3 { [%eval 1.19] } 8... Bg4 { [%eval 1.51] } 9. Ng5 { [%eval 1.08] } 9... Bxe2 { [%eval 1.15] } 10. Qxe2 { [%eval 1.01] } 10... h6 { [%eval 1.18] } 11. Nge4 { [%eval 0.91] } 11... Nxe4 { [%eval 1.01] } 12. Nxe4 { [%eval 0.8] } 12... e5 { [%eval 0.78] } 13. b3 { [%eval 0.55] } 13... Nd4 { [%eval 0.66] } 14. Qd2 { [%eval 0.64] } 14... f5 { [%eval 0.77] } 15. Ng3 { [%eval 0.71] } 15... Kf7 { [%eval 0.59] } 16. Ne2 { [%eval 0.43] } 16... Ne6 { [%eval 0.52] } 17. Bb2 { [%eval 0.35] } 17... Re8 { [%eval 0.41] } 18. Qb4 { [%eval 0.18] } 18... b6 { [%eval 0.23] } 19. Qc4?? { [%eval -4.84] } 19... Rc8 { [%eval -4.59] } 20. Qb4?! { [%eval -5.31] } 20... Rxc2 { [%eval -5.18] } 21. Rab1 { [%eval -5.66] } 21... Rxe2 { [%eval -5.3] } 0-1
+

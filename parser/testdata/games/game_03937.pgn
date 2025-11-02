@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sVxdZgEy"]
+[White "tulipe38"]
+[Black "winterscand"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:59"]
+[WhiteElo "1787"]
+[BlackElo "1940"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. Nf3 Nc6 6. O-O Bg4 7. c3 e6 8. Bg5 Be7 9. Nbd2 h6 10. Bh4 g5 11. Bg3 Ne4 12. Nxe4 dxe4 13. Bxe4 f5 14. Bxc6+ bxc6 15. h3 f4 16. Bh2 Bh5 17. Qb3 Bxf3 18. gxf3 Qd5 19. Qxd5 exd5 20. Rfe1 Kd7 21. Re2 Rab8 22. Rae1 Bd6 23. b3 Rhe8 24. Rxe8 Rxe8 25. Rxe8 Kxe8 26. h4 Kd7 27. Kg2 Kc7 28. hxg5 hxg5 29. Kh3 Kb6 30. Kg4 Be7 31. Kf5 c5 32. Ke6 cxd4 33. cxd4 Bd8 34. Kxd5 Kb5 35. a3 Be7 36. a4+ Kb4 37. Ke6 Bd8 38. d5 Kxb3 39. d6 Kxa4 40. Kd7 Bf6 41. Ke6 Bd8 42. d7 Kb4 43. Kf7 a5 44. Ke8 Bb6 45. d8=Q Bxd8 46. Kxd8 a4 47. Ke7 a3 48. Kf6 a2 49. Kxg5 a1=Q 50. Bxf4 Qg7+ 51. Kf5 Qf7+ 52. Ke4 Kc4 53. Be5 Qd5+ 54. Kf5 Qxf3+ 55. Ke6 Qxf2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/mpu7VHja"]
+[White "sdrag"]
+[Black "ecko_xxx"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:47"]
+[WhiteElo "1587"]
+[BlackElo "1766"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "60+2"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 c6 3. Qd2 e6 4. Nc3 Bd6 5. Be5 f6 6. Bxd6 Qxd6 7. O-O-O Nd7 8. e3 a6 9. f3 c5 10. dxc5 Qxc5 11. g4 b5 12. Nge2 Bb7 13. Nd4 Ke7 14. h4 Nh6 15. g5 Nf7 16. gxf6+ gxf6 17. Bh3 f5 18. Rdg1 Rhg8 19. f4 Nf6 20. Rg2 Rxg2 21. Qxg2 Rg8 22. Qd2 Ne4 23. Nxe4 dxe4 24. a3 Bd5 25. Qa5 Qa7 26. Qc7+ Qxc7 0-1
+

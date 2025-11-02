@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/xi9iLZLI"]
+[White "GodlikeMoves"]
+[Black "David010295"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:58"]
+[WhiteElo "1808"]
+[BlackElo "1691"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+16"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 Bb4+ 3. c3 Be7 4. Nf3 d6 5. Bd3 Bd7 6. Be3 Ba4 7. O-O Bxd1 8. Rxd1 g5 9. Nbd2 g4 10. Nf1 gxf3 0-1
+

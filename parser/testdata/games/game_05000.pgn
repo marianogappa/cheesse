@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5RgXoOU7"]
+[White "Kingcusicrunch"]
+[Black "mosslegend"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:14"]
+[WhiteElo "2010"]
+[BlackElo "2039"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bf4 Bb4 5. e3 O-O 6. Bd3 c5 7. Nf3 dxc4 8. Bxc4 a6 9. O-O b5 10. Bb3 c4 11. Bc2 Bb7 12. Ne5 Nbd7 13. Bg5 h6 14. Nxd7 hxg5 15. Nxf8 Kxf8 16. Qe2 g4 17. a4 Bxc3 18. bxc3 Ke7 19. Rfb1 Qd5 20. f3 Qh5 21. e4 Rh8 22. g3 gxf3 23. Qf2 Ng4 24. Qxf3 Qxh2+ 25. Kf1 f5 26. Qg2 Ne3+ 0-1
+

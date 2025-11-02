@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/yq6YoOpx"]
+[White "breakpad"]
+[Black "check_is_in_the_fail"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:35"]
+[WhiteElo "1533"]
+[BlackElo "1544"]
+[WhiteRatingDiff "+23"]
+[BlackRatingDiff "-10"]
+[ECO "B00"]
+[Opening "St. George Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 a6 2. Qf3 h6 3. Qxf7+ Kxf7 4. f4 Nf6 5. Nf3 Kg8 6. d3 e6 7. c4 Bb4+ 8. Nc3 Bxc3+ 9. bxc3 Kf7 10. Bd2 Re8 11. Be2 Kg8 12. O-O d5 13. h3 dxe4 14. dxe4 Nxe4 15. Bd3 Nxd2 16. Nxd2 Qxd3 17. Nb3 Qxc3 18. Nd4 Qxd4+ 19. Kh1 Qxc4 20. Rad1 Bd7 21. Rfe1 Bc6 22. Kh2 Qb5 23. Rg1 Bxg2 24. Rde1 Bd5 25. Rg3 Qb2+ 26. Kg1 Qb5 27. Kh2 Qc5 28. Reg1 Qd6 29. Rxg7+ Kh8 30. R7g6 Qa3 31. Rxh6# 1-0
+

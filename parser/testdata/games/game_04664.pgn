@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OcQUJxfH"]
+[White "sauvignon"]
+[Black "AlaEldin"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:54"]
+[WhiteElo "1992"]
+[BlackElo "2043"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C40"]
+[Opening "Elephant Gambit"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d5 3. d4 dxe4 4. Nxe5 Bd6 5. Nc4 Nf6 6. Nxd6+ Qxd6 7. c4 Nc6 8. d5 Ne5 9. Nc3 O-O 10. Qd4 c5 11. Nb5 cxd4 12. Nxd6 b6 13. Bg5 d3 14. Bxf6 gxf6 15. Nxe4 Nxc4 16. Nxf6+ Kg7 17. Nh5+ Kh6 18. Nf4 Re8+ 19. Kd1 Nxb2+ 20. Kd2 Nc4+ 21. Kxd3 b5 22. Kd4 Bf5 23. Bd3 Bxd3 24. Kxd3 Rad8 25. Rhe1 Ne5+ 26. Kd4 Nc4 27. a4 a6 28. axb5 axb5 29. Ra6+ Kg7 30. Nh5+ Kf8 31. Rxe8+ Rxe8 32. Nf6 Rc8 33. Nxh7+ Kg7 34. Ng5 b4 35. Ne4 b3 36. Ra7 Nb6 37. Nc3 Rc4+ 38. Kd3 Rb4 39. Rb7 b2 40. Nb1 Rb3+ 41. Kc2 Rb5 42. d6 Rc5+ 43. Kxb2 Nc4+ 0-1
+

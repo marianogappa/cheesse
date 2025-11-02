@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NtEzAcKb"]
+[White "melquiades10"]
+[Black "ArKen"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:17"]
+[WhiteElo "1817"]
+[BlackElo "1855"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "C35"]
+[Opening "King's Gambit Accepted, Cunningham Defense, McCormick Defense"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. e5 Ng4 6. O-O d5 7. Bb3 c5 8. c3 c4 9. Bc2 Qb6+ 10. Nd4 Nc6 11. d3 Nxd4 12. cxd4 Qxd4+ 13. Kh1 Nf2+ 14. Rxf2 Qxf2 15. dxc4 O-O 16. cxd5 Bg4 17. Qg1 Qxc2 18. Nc3 f3 19. Bf4 fxg2+ 20. Qxg2 Qxg2+ 21. Kxg2 Bb4 22. Ne4 Rfd8 23. d6 Bf5 24. Ng3 Be6 25. a3 Ba5 26. Rd1 Rac8 27. Ne4 Rc2+ 28. Kf3 Rxb2 29. Nc5 h6 30. Nxe6 fxe6 31. Ke4 Rc2 32. Rg1 Kf7 33. Rb1 Rd7 34. Rb5 Bb6 35. a4 Rc4+ 36. Kf3 Rxa4 37. Kg4 g5 0-1
+

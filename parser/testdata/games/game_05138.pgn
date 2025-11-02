@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/AD2h3aJc"]
+[White "HavidRC"]
+[Black "lee3j7"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:46"]
+[WhiteElo "1176"]
+[BlackElo "1416"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+4"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. e3 d5 3. Nf3 c5 4. c3 Qa5 5. Be2 cxd4 6. Nxd4 Nc6 7. Nb3 Qd8 8. O-O a6 9. N1d2 Nf6 10. Nf3 h6 11. Nh4 Be7 12. a3 Ne4 13. Nd4 Nxd4 14. exd4 Bxh4 15. Bf3 Nxf2 16. Rxf2 Bxf2+ 17. Kxf2 O-O 18. Qd3 Qh4+ 19. g3 Qxh2+ 20. Ke3 Qxg3 21. Bd2 f5 22. Be1 Qh3 23. Kd2 Qh2+ 24. Be2 Qf4+ 25. Kc2 e5 26. dxe5 Qxe5 27. Kb3 Be6 28. Kc2 Rac8 29. Bd2 d4 30. Re1 dxc3 31. Bxc3 Bd5 32. Bf3 Qf4 0-1
+

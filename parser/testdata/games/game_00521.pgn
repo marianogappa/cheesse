@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/mSaRvIw4"]
+[White "Krystian_Pas"]
+[Black "TripleBassist"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:54"]
+[WhiteElo "1362"]
+[BlackElo "1382"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-130"]
+[ECO "C40"]
+[Opening "King's Knight Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 g6 3. Nxe5 Nf6 4. Qf3 h5 5. Qxf6 Qxf6 6. d4 Bh6 7. Bxh6 Rxh6 8. Be2 d6 9. Nf3 Bg4 10. O-O Nc6 11. e5 Nxd4 12. exf6 Bxf3 13. Bxf3 Nxf3+ 14. gxf3 h4 15. Nc3 b5 16. Rae1+ Kd7 17. Nxb5 c6 18. Nd4 Rh5 19. Re7+ Kc8 20. Nxc6 Rg5+ 21. Kh1 h3 22. f4 Rc5 23. Nxa7+ Rxa7 24. Rxa7 Kb8 25. Rxf7 Rxc2 26. Rf8+ Kc7 27. f7 Kd7 28. Re8 g5 29. fxg5 Rxb2 30. g6 Rxa2 31. g7 d5 32. f8=Q d4 33. g8=Q d3 34. Qe7+ Kc6 35. Qxa2 d2 36. Qxd2 1-0
+

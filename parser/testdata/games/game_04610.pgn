@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/IM7kLVaP"]
+[White "hgilgamesh"]
+[Black "akiaki100"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:41"]
+[WhiteElo "1720"]
+[BlackElo "1728"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "B07"]
+[Opening "Pirc Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. d4 d6 3. Bd3 e6 4. Nc3 Be7 5. Be3 O-O 6. Qd2 c5 7. O-O-O cxd4 8. Bxd4 e5 9. Be3 a5 10. f4 Na6 11. Kb1 b5 12. Nf3 b4 13. Nd5 Nxd5 14. exd5 Nc5 15. fxe5 Nxd3 16. Qxd3 dxe5 17. Nxe5 Bf6 18. Nc6 Qc7 19. Bd4 Bxd4 20. Qxd4 Ra6 21. Rhe1 Rxc6 22. dxc6 Be6 23. Qe4 Qb6 24. Qe3 Qb5 25. Qd3 Qa4 26. b3 Qa3 27. Rxe6 fxe6 28. Qd6 a4 29. Qxe6+ Kh8 30. Qe7 Rg8 31. Rd8 axb3 32. Rxg8+ Kxg8 33. Qe8# 1-0
+

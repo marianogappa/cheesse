@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TBS08hrH"]
+[White "Kamil3"]
+[Black "luislwis"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:18"]
+[WhiteElo "1436"]
+[BlackElo "1667"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. b3 Bg4 4. Be2 Nf6 5. Bb2 Be7 6. O-O O-O 7. Nc3 c6 8. d4 exd4 9. Nxd4 Bxe2 10. Qxe2 Nbd7 11. Nf5 Ne5 12. Rfd1 Qc7 13. Ba3 Rfd8 14. Nxe7+ Qxe7 15. Qd2 Ne8 16. f4 Ng6 17. f5 Ne5 18. Bb2 f6 19. Ne2 Nf7 20. Qf4 a5 21. Nd4 Ng5 22. Re1 c5 23. Nf3 Nxf3+ 24. Qxf3 b5 25. Re2 Rd7 26. Rae1 Rad8 27. a3 Qf7 28. Qh3 c4 29. bxc4 Qxc4 30. Re3 Qf7 31. Rg3 Re7 32. Ree3 Nc7 33. Rg4 d5 34. Rh4 h6 35. Rg3 Kf8 36. Bc1 Rxe4 37. Rxe4 dxe4 38. Re3 Rd1+ 39. Kf2 Rxc1 40. Rxe4 Rxc2+ 41. Re2 Rxe2+ 42. Kxe2 Qc4+ 43. Kf2 Qd4+ 44. Qe3 Qxe3+ 45. Kxe3 Nd5+ 46. Kd4 Ne7 47. Kc5 b4 48. axb4 axb4 49. Kxb4 Nxf5 50. Kc4 Kf7 51. Kd3 Ke6 52. g4 Nh4 53. Ke3 Ke5 54. Kf2 Ng6 55. Kg3 Ne7 56. h4 g6 57. Kf3 Nd5 58. Kg3 Ke4 59. Kh3 Kf3 60. Kh2 Nf4 61. Kg1 Kxg4 62. Kh2 Kxh4 63. Kg1 Kg3 64. Kh1 h5 65. Kg1 h4 66. Kh1 h3 67. Kg1 Nh5 68. Kh1 Ng7 69. Kg1 Nf5 70. Kh1 Nd6 71. Kg1 Nc4 72. Kh1 Nd2 73. Kg1 Ne4 74. Kh1 Nf2+ 75. Kg1 h2+ 76. Kf1 h1=Q+ 77. Ke2 Qf3+ 78. Kf1 Kf4 79. Ke1 g5 80. Kf1 g4 81. Kg1 g3 82. Kf1 g2+ 83. Kg1 Ne4 84. Kh2 Qf1 85. Kh3 Qh1# 0-1
+

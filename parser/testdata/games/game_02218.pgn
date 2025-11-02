@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/XtsURwSV"]
+[White "risingsun124"]
+[Black "AloneInTheDark89"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:23"]
+[WhiteElo "1702"]
+[BlackElo "1323"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. e3 Nf6 3. c3 Be7 4. Nd2 O-O 5. Ngf3 d6 6. Be2 Bd7 7. O-O Nc6 8. Qc2 d5 9. c4 Bd6 10. cxd5 Nxd5 11. Ne5 Bxe5 12. dxe5 Nxe5 13. f4 Ng6 14. Bd3 Nxe3 15. Re1 Nxc2 16. Bxc2 Nxf4 17. Nf3 Bc6 18. Bxf4 Qd5 19. Be4 Qc5+ 20. Be3 Qb5 21. a4 Qc4 22. Bxc6 bxc6 23. Rac1 Qxa4 24. Nd2 Rad8 25. Rc4 Qa2 26. Rxc6 Qxb2 27. Nf3 Qb5 28. Rec1 Rd3 29. Bf4 a5 30. Bxc7 a4 31. R6c5 Qb4 32. Ne5 Qd4+ 33. Kf1 Qf4+ 34. Kg1 Qe3+ 35. Kh1 a3 36. Nxd3 Qxd3 37. R5c3 a2 38. Rxd3 Rc8 39. Rdc3 a1=Q 40. Rxa1 Rxc7 41. Rxc7 Kf8 42. Ra8# 1-0
+

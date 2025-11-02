@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/YpBdGU2K"]
+[White "mi88"]
+[Black "RedskinNL"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:25"]
+[WhiteElo "2018"]
+[BlackElo "1911"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+15"]
+[ECO "A80"]
+[Opening "Dutch Defense: Hopton Attack"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. d4 f5 2. Bg5 h6 3. Bh4 g5 4. e3 Nf6 5. Bg3 Bg7 6. Bd3 d6 7. Qf3 e6 8. c4 g4 9. Qd1 h5 10. h4 O-O 11. Ne2 Nc6 12. O-O e5 13. d5 Ne7 14. Nbc3 Ng6 15. Qc2 e4 16. Nxe4 fxe4 17. Bxe4 Nxe4 18. Qxe4 Bf5 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/fVZjWS8y"]
+[White "Levisir"]
+[Black "akifemre"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:23"]
+[WhiteElo "1780"]
+[BlackElo "1642"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-7"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. h3 Nc6 6. Nf3 Bf5 7. Bb5 Qd7 8. Ne5 Qd6 9. Bf4 Ne4 10. d5 Nxf2 11. Kxf2 Qc5+ 12. Be3 Qd6 13. dxc6 bxc6 14. Bxc6+ Kd8 15. Nxf7+ 1-0
+

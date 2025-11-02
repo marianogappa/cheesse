@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uJnhgLYk"]
+[White "Mcubdzu"]
+[Black "MijoGrande"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:53"]
+[WhiteElo "1139"]
+[BlackElo "1350"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+5"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 4. dxe5 Bxf3 5. gxf3 Nc6 6. exd6 Bxd6 7. Bh3 Bb4+ 8. c3 Qxd1+ 9. Kxd1 Bc5 10. Bf4 Rd8+ 11. Kc2 Bd6 12. Bg5 Be7 13. Bxe7 Ngxe7 14. Nd2 O-O 15. Rad1 Ne5 16. f4 N5c6 17. e5 Ng6 18. Ne4 Nxf4 19. Rxd8 Rxd8 20. Bf5 Nxe5 0-1
+

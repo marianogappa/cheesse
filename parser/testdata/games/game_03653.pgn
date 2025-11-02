@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UaNv03gu"]
+[White "Falconz"]
+[Black "baileyblood"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:57"]
+[WhiteElo "1133"]
+[BlackElo "1192"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Berlin Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 d5 4. exd5 Nxd5 5. Nf3 h6 6. Nxe5 Qe7 7. d4 c5 8. O-O cxd4 9. Qxd4 Qe6 10. Re1 Nc6 11. Nxc6 Qxe1+ 12. Bf1 Be6 13. Bd2 Bc5 14. Qd3 Qxf2+ 15. Kh1 bxc6 16. Nc3 Qg1# 0-1
+

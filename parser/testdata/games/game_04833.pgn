@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LqZq6pKS"]
+[White "wipawa"]
+[Black "CaptainBackYard"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:41"]
+[WhiteElo "1831"]
+[BlackElo "1829"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 g6 5. Nf3 Bg7 6. Nc3 d6 7. Be3 Nf6 8. h3 O-O 9. Bc4 Nxe4 10. Nxe4 d5 11. Bxd5 Qxd5 12. Nc3 Qh5 13. a3 e5 14. dxe5 Nxe5 15. Nxe5 Qxd1+ 16. Rxd1 Bxe5 17. O-O Be6 18. Rfe1 Bg7 19. Rc1 Rfd8 20. b4 Rac8 21. Bxa7 Rxc3 22. Rxc3 Bxc3 23. Rc1 Bb2 24. Rc7 Rd1+ 25. Kh2 Be5+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZAtUlYaQ"]
+[White "ashkan12"]
+[Black "darewing"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:03"]
+[WhiteElo "2161"]
+[BlackElo "2112"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. f4 g6 2. Nf3 Bg7 3. h4 d6 4. h5 Bg4 5. hxg6 hxg6 6. Rxh8 Bxh8 7. d4 e5 8. dxe5 Bxf3 9. exf3 Qh4+ 10. Ke2 dxe5 11. Qd5 Nc6 12. Nc3 Nd4+ 13. Kd3 Rd8 14. Qxb7 Ne6+ 15. Kc4 Rd4+ 16. Kb5 Qe7 17. Qc6+ Kf8 18. Nd5 Rb4+ 19. Nxb4 Nd4+ 20. Kc4 Nxc6 21. Nxc6 Qe6+ 22. Kb5 Qd5+ 23. Kb4 Qxc6 24. c4 Ne7 25. b3 Qb6+ 26. Kc3 Qd4+ 27. Kc2 Qxa1 28. Bb2 Qxf1 29. fxe5 Qxg2+ 30. Kb1 Qf1+ 31. Kc2 Qe2+ 32. Kb1 Qd1+ 33. Bc1 Bxe5 34. b4 Nc6 35. b5 Nb4 36. a3 Qc2# 0-1
+

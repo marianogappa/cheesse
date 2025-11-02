@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/4fpR9Rry"]
+[White "tanoff"]
+[Black "derek187"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:16"]
+[WhiteElo "1024"]
+[BlackElo "921"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d3 d5 2. Nc3 c6 3. e4 h5 4. Nge2 e5 5. Ng3 Bg4 6. f3 Bd7 7. Nge2 Qh4+ 8. Ng3 c5 9. Nxd5 c4 10. Nc7+ Kd8 11. Nxa8 Bb4+ 12. c3 Bd6 13. d4 f5 14. exf5 Bxf5 15. Bxc4 exd4 16. Bxg8 Rxg8 17. cxd4 Qe7+ 18. Ne2 Bb4+ 19. Bd2 a5 20. O-O Nc6 21. Nb6 Nxd4 22. Nd5 Bd3 23. Nxe7 Nxe2+ 24. Kh1 Re8 25. Re1 Rxe7 26. Bg5 Bxe1 27. Bxe7+ Kxe7 28. Qxd3 Ng3+ 29. Kg1 Bb4 30. Qe2+ Nxe2+ 31. Kf2 Nd4 32. Re1+ Bxe1+ 33. Kxe1 Nc2+ 34. Kd2 Nb4 35. f4 Nxa2 36. h3 g6 37. g4 Kf6 38. gxh5 gxh5 39. Ke2 Kf5 40. Kf3 Nb4 41. Kg3 Nd5 42. Kh4 Nxf4 43. b3 1/2-1/2
+

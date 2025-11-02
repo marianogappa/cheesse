@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/LHCrydKI"]
+[White "BohemeRoyal"]
+[Black "theresidentsheep"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:31"]
+[WhiteElo "1748"]
+[BlackElo "1728"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 d6 3. Bc4 Nf6 4. d3 e6 5. Bg5 Nc6 6. Nge2 Na5 7. Bb5+ Bd7 8. Bxd7+ Qxd7 9. O-O Be7 10. d4 cxd4 11. Nxd4 Nc6 12. Nf3 O-O 13. Re1 Rad8 14. Qe2 Ne5 15. Nxe5 dxe5 16. Rad1 Qc7 17. Rxd8 Rxd8 18. h3 Rd4 19. f3 Nh5 20. Bxe7 Qxe7 21. Qe3 Qh4 22. Qf2 Qg5 23. Kh2 Qf4+ 24. Kg1 Rd2 25. Re2 Rxe2 26. Qxe2 Qc1+ 27. Kf2 Qf4 28. Kg1 Ng3 29. Qf2 Qc1+ 30. Kh2 Nh5 31. Qh4 Qf4+ 32. Qxf4 Nxf4 33. g3 Ng6 34. Kg2 Ne7 35. Kf2 Nc6 36. Ke2 Nd4+ 0-1
+

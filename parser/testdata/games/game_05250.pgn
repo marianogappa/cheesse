@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/eQL4xMGk"]
+[White "Slocknog"]
+[Black "glopezp25"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:11"]
+[WhiteElo "1500"]
+[BlackElo "1482"]
+[WhiteRatingDiff "-184"]
+[BlackRatingDiff "+15"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. Qf3 dxe4 3. Qxe4 Nf6 4. Qc4 Be6 5. Na3 Bxc4 6. Nxc4 e6 7. d3 Bc5 8. Be3 Bxe3 9. fxe3 Nd5 10. Ke2 Nd7 11. Nf3 f5 12. a4 N7f6 13. Nd4 Qd7 14. g3 O-O 15. Bh3 Ng4 16. Kf3 Nb4 17. Ne5 Nxe5+ 18. Kf4 Qd5 19. e4 fxe4+ 20. Ke3 exd3 21. cxd3 Nbxd3 22. Bxe6+ Qxe6 23. Nxe6 Rf3+ 24. Ke4 c6 25. Rad1 Nxb2 26. Kxe5 Nxd1 27. Rxd1 Re8 28. Rd8 Rxd8 29. Nxd8 Re3+ 30. Kf4 Ra3 31. Nxb7 Rxa4+ 32. Kf3 a5 33. Nc5 Ra3+ 34. Ke2 a4 35. Kd2 Ra2+ 36. Kc3 Rxh2 37. Nxa4 Rh3 38. Kc4 Rxg3 39. Kc5 Rg6 40. Nc3 h5 41. Ne2 Kf7 42. Nf4 Rg5+ 43. Kxc6 h4 44. Kd6 Kf6 45. Nh3 Rg3 46. Nf4 Rd3+ 47. Kc5 Rf3 48. Ng2 h3 49. Ne1 Rc3+ 50. Kd4 Rc1 51. Nf3 Rf1 52. Nd2 Rf2 53. Ne4+ Kf5 54. Nxf2 h2 55. Nh1 Kg4 56. Ke3 Kh3 57. Kf2 g5 58. Kf1 g4 59. Nf2+ Kg3 60. Nh1+ Kf3 61. Ke1 g3 62. Kf1 g2+ 63. Ke1 gxh1=Q+ 0-1
+

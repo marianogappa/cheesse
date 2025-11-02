@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ob20zKlp"]
+[White "Goveta"]
+[Black "AaronCruzFabian"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:04"]
+[WhiteElo "1773"]
+[BlackElo "1705"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. Ne2 Bg7 3. d4 f5 4. c3 d6 5. f3 fxe4 6. fxe4 Qd7 7. Ng3 Qg4 8. Be2 Qh4 9. O-O Nf6 10. Bf3 Nh5 11. Nxh5 gxh5 12. Bxh5+ Kd8 13. Rf4 Rg8 14. Rxh4 Bh6 15. Bxh6 Nc6 16. Nd2 Be6 17. Qf3 Kd7 18. d5 Ne5 19. dxe6+ Kxe6 20. Qf5# 1-0
+

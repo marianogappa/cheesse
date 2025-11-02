@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/LLPD1T9e"]
+[White "limar123"]
+[Black "Latibes"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:44"]
+[WhiteElo "1921"]
+[BlackElo "1958"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "C01"]
+[Opening "French Defense: Mediterranean Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. e4 e6 3. e5 Nd5 4. c4 Nb6 5. Bd3 d6 6. Nf3 dxe5 7. Nxe5 c5 8. d5 exd5 9. Qe2 Bd6 10. Nc6+ Qe7 11. Nxe7 Bxe7 12. Bg5 d4 13. Qxe7# 1-0
+

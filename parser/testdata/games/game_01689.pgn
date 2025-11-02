@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/mFXBUoFW"]
+[White "Hechtlord"]
+[Black "rovkaspa"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:22"]
+[WhiteElo "1810"]
+[BlackElo "1905"]
+[WhiteRatingDiff "-55"]
+[BlackRatingDiff "+7"]
+[ECO "D80"]
+[Opening "Gruenfeld Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e4 dxe4 5. f3 exf3 6. Nxf3 Bg7 7. Bg5 O-O 8. Be2 c5 9. Qc2 cxd4 10. Nb5 Bg4 11. O-O-O Bxf3 12. Bxf3 Qb6 13. a4 Nc6 14. Nxd4 Nxd4 15. Rxd4 Qxd4 16. Rd1 Qc5 17. Bxb7 Rab8 18. Ba6 Ng4 19. Rd7 Qxg5+ 20. Kb1 Ne5 21. Rd5 Qxg2 22. Qxg2 Nxc4 23. Rb5 Rxb5 24. Bxb5 Nxb2 0-1
+

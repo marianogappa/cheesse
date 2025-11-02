@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/E9mNOh9d"]
+[White "ucha"]
+[Black "fanfare"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:18"]
+[WhiteElo "1844"]
+[BlackElo "1799"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Normal Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. e3 g6 5. Bd2 Bg7 6. Rc1 c6 7. b3 b6 8. Nf3 Ba6 9. Be2 O-O 10. O-O Qe7 11. cxd5 cxd5 12. Nb5 Rc8 13. Rxc8+ Bxc8 14. Qc2 Na6 15. Rc1 Bd7 16. Ne5 Rc8 17. Qb2 Rxc1+ 18. Qxc1 Bxb5 19. Bxb5 Nc7 20. Bd3 Ne4 21. Bxe4 dxe4 22. Qc6 Bxe5 23. dxe5 Qc5 24. Qxe4 Nd5 25. Qd3 Qa3 26. Qc2 Kg7 27. e4 Ne7 28. f4 h5 29. h3 Qa6 30. g4 Qe2 31. f5 gxf5 32. exf5 Nd5 33. f6+ Kh8 34. gxh5 Ne3 35. Qc8+ Kh7 36. Bxe3 Qxe3+ 37. Kg2 Qe4+ 38. Kf1 Qf5+ 39. Kg2 Qg5+ 40. Kh2 Qf4+ 41. Kg2 Qg5+ 42. Kf2 Qf4+ 43. Ke2 Qxe5+ 44. Kd2 Qd5+ 45. Kc2 Qe4+ 46. Kc3 1-0
+

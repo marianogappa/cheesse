@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EhOWHteR"]
+[White "Rasikahane"]
+[Black "aroncyruz"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:02"]
+[WhiteElo "1491"]
+[BlackElo "1493"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "C30"]
+[Opening "King's Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 d6 3. Nf3 Bg4 4. fxe5 dxe5 5. h3 Bh5 6. Be2 Nc6 7. Nxe5 Bxe2 8. Qxe2 Nxe5 9. d4 Qxd4 10. Qb5+ c6 11. Qxb7 Rd8 12. Nc3 Bb4 13. Bg5 Qxe4+ 14. Kf2 Qf5+ 15. Kg3 Qxg5+ 16. Kh2 Bd6 17. Rhe1 Ne7 18. Rg1 Nf3+ 19. Kh1 Qg3 20. Rge1 Qh2# 0-1
+

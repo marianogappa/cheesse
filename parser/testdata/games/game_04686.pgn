@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/kyz4IAfv"]
+[White "PatapSana"]
+[Black "gabriem"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:58"]
+[WhiteElo "1667"]
+[BlackElo "1703"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e3 c5 2. Nf3 d5 3. c3 Nc6 4. Be2 e5 5. Na3 e4 6. Ng1 f5 7. Nc2 Nf6 8. b3 Bd6 9. a4 O-O 10. f3 Be6 11. f4 h5 12. h3 Nh7 13. Bxh5 Qh4+ 14. Kf1 d4 15. cxd4 Bxb3 16. Be2 cxd4 17. Rb1 Bxc2 18. Qxc2 d3 19. Qc4+ Kh8 20. Bd1 Rac8 21. Qe6 Be7 22. Bb2 Rcd8 23. Qg6 Bf6 24. Bxf6 Rxf6 25. Qg5 Nxg5 26. fxg5 Qxg5 27. Rh2 Qg3 28. Rxb7 f4 29. Bb3 fxe3+ 30. Nf3 e2+ 31. Kg1 Rxf3 32. Rxg7 Rf1# 0-1
+

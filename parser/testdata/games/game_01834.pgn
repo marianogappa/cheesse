@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/azvk2loR"]
+[White "majidabrouy"]
+[Black "Juanmis"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:54"]
+[WhiteElo "1550"]
+[BlackElo "1632"]
+[WhiteRatingDiff "-25"]
+[BlackRatingDiff "+9"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "120+5"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. Nc3 e6 3. Bg5 Be7 4. e4 d6 5. Bd3 O-O 6. Nf3 Nc6 7. O-O e5 8. dxe5 dxe5 9. Bxf6 Bxf6 10. a3 Bg4 11. Re1 Nd4 12. Be2 Nxf3+ 13. Bxf3 Qxd1 14. Bxd1 Be6 15. Nb5 Bd8 16. Nc3 c6 17. Bf3 Bb6 18. Rad1 h6 19. Ne2 Rfd8 20. c3 Bb3 21. Rxd8+ Rxd8 22. Ng3 Rd2 23. Re2 Rd1+ 24. Nf1 Bc4 25. g3 Bxe2 26. Bxe2 Rb1 27. b4 Rb2 28. Bc4 Bxf2+ 29. Kh1 Be1 30. Ne3 Bxc3 31. Ng4 Rb1+ 32. Kg2 b5 0-1
+

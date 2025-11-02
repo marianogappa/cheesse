@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Qpqa9tH8"]
+[White "hukdonfoniks"]
+[Black "DneprMAX"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:40"]
+[WhiteElo "1600"]
+[BlackElo "1575"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "60+1"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. Nc3 e6 4. Nf3 Bb4 5. Bd3 Bxc3+ 6. bxc3 b6 7. Bg5 Ne7 8. e5 Ba6 9. O-O Bxd3 10. cxd3 c5 11. dxc5 bxc5 12. d4 Qc7 13. Rc1 O-O 14. Qa4 Nf5 15. g4 Ne7 16. h4 h6 17. Be3 Nd7 18. g5 h5 19. Nh2 g6 20. f4 Nf5 21. Kf2 Nxh4 22. Kg3 Nf5+ 23. Kf3 Nxe3 24. Kxe3 Nb6 25. Qc2 cxd4+ 26. cxd4 Qd7 27. Qe2 Rac8 28. Nf3 Nc4+ 29. Kd3 Qa4 30. Nd2 Qxa2 31. Nxc4 dxc4+ 32. Ke3 Qb3+ 33. Kf2 Qh3 0-1
+

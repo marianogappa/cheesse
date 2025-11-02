@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/SCz5xyYc"]
+[White "IlTeorema"]
+[Black "alexeev"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:42"]
+[WhiteElo "1701"]
+[BlackElo "1769"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+9"]
+[ECO "C70"]
+[Opening "Ruy Lopez: Morphy Defense, Caro Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Nf6 6. Qe2 Bc5 7. c3 d6 8. O-O Ba7 9. Rd1 O-O 10. h3 h6 11. d4 exd4 12. Nxd4 Nxd4 13. cxd4 Re8 14. Nc3 b4 15. e5 bxc3 16. exf6 Rxe2 17. fxg7 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/sMSe1Sl4"]
+[White "Paul_McCartney"]
+[Black "Belial"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:36"]
+[WhiteElo "1662"]
+[BlackElo "1621"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "C50"]
+[Opening "Italian Game: Schilling-Kostic Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nd4 4. Nxe5 Qg5 5. Nxf7 Qxg2 6. Rf1 Qxe4+ 7. Be2 Nf3# 0-1
+

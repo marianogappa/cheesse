@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/h15LdXFg"]
+[White "Viu"]
+[Black "Tlan-Imass"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:00"]
+[WhiteElo "1806"]
+[BlackElo "1830"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-14"]
+[ECO "C03"]
+[Opening "French Defense: Tarrasch Variation, Guimard Defense"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. e5 Nxd4 5. Ndf3 Nxf3+ 6. Nxf3 c5 7. c3 Bd7 8. Bd3 Ne7 9. O-O h6 10. Bc2 Nc6 11. b3 Qc7 12. Bf4 Be7 13. Rc1 O-O 14. Qd2 Rfe8 15. Bxh6 gxh6 16. Qxh6 Qd8 17. Qh7+ 1-0
+

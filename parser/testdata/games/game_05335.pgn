@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Qz87Hl1T"]
+[White "mecitaydin"]
+[Black "ugulmezoglu"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:33"]
+[WhiteElo "1639"]
+[BlackElo "1780"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. d4 b6 3. Nf3 Nc6 4. Bd3 d5 5. Nc3 dxe4 6. Nxe4 e6 7. Bg5 f5 8. Bxd8 Kxd8 9. Neg5 Be7 10. h4 Ke8 11. Qe2 Bxg5 12. Nxg5 Nxd4 13. Qe3 e5 14. Qxe5+ Kd7 15. Qxd4+ Ke8 16. Qxh8 Be6 17. Qxh7 Bf7 18. Qg7 Kd8 19. Qf6+ Ne7 20. Qxf7 Kd7 21. Qc4 Re8 22. Qb5+ c6 0-1
+

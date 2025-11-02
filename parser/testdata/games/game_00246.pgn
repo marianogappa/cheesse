@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/YjDNyNYj"]
+[White "doniver"]
+[Black "robinsjp"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:46"]
+[WhiteElo "1648"]
+[BlackElo "1649"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-11"]
+[ECO "B07"]
+[Opening "Lion Defense: Lion's Jaw"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. e4 d6 3. f3 g6 4. Nc3 Bg7 5. e5 dxe5 6. dxe5 Qxd1+ 7. Kxd1 Nfd7 8. Ke2 Nxe5 9. Bf4 O-O 10. Nd5 Na6 11. Kf2 e6 12. Bxa6 exd5 13. Bxe5 Bxe5 14. Bd3 b6 15. Ne2 Bb7 16. Rad1 c5 17. Bb5 Bxb2 18. c3 Ba3 19. Nf4 Rfd8 20. Rhe1 a6 21. Ba4 b5 22. Bc2 a5 23. Re7 Rab8 24. Rde1 Bb2 25. Nd3 Bxc3 26. R1e2 Bd4+ 27. Kf1 c4 28. Nb2 b4 29. Rxb7 Rxb7 30. Re6 Bxb2 31. Be4 fxe6 32. Bxd5 exd5 33. Kf2 d4 34. Kg3 c3 35. Kh3 d3 36. Kg3 d2 37. Kg4 c2 38. Kh3 d1=Q 39. Kg3 c1=Q 40. Kg4 1-0
+

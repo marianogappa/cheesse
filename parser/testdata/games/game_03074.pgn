@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/tI1381eG"]
+[White "fedrorradamantis"]
+[Black "krzysztof23"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:33"]
+[WhiteElo "1622"]
+[BlackElo "1644"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Slav Invitation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. Nf3 c6 2. e4 g6 3. Bc4 Bg7 4. Ng5 e6 5. Qf3 Qxg5 6. d3 Qf6 7. Qg4 Ne7 8. Bg5 Qxb2 9. O-O Qxa1 10. Qh4 f6 11. Bxf6 Qxf6 12. Qg4 d5 13. exd5 exd5 14. Bb3 Bxg4 15. Nd2 Qg5 16. Nb1 Bh3 17. f4 Qxg2# 0-1
+

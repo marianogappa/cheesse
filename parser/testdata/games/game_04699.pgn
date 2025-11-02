@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/IraRaJLl"]
+[White "lucifero123"]
+[Black "flavietta"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:07"]
+[WhiteElo "1485"]
+[BlackElo "1473"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Bxc6 dxc6 5. Nc3 Bd6 6. d3 O-O 7. O-O Bg4 8. h3 Be6 9. Be3 Nh5 10. Qd2 Qf6 11. Bg5 Qg6 12. Nh4 Qxg5 13. Qxg5 Nf6 14. f4 exf4 15. e5 Bc5+ 16. Kh1 Nd5 17. Nxd5 Bxd5 18. Rxf4 Be3 19. Nf5 Bxf4 20. Qxg7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/UjqNIGj8"]
+[White "Paiin"]
+[Black "Geehard2beat"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:12"]
+[WhiteElo "1690"]
+[BlackElo "1664"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nf3 Ne7 3. Bc4 Ng6 4. d3 b6 5. Ng5 Bb7 6. Qf3 Qe7 7. Nc3 Ne5 8. Qf4 d6 9. a3 Ng6 10. Qf3 a6 11. Be3 b5 12. Ba2 Ne5 13. Qe2 h6 14. Nf3 Nxf3+ 15. Qxf3 f5 16. exf5 Bxf3 17. gxf3 exf5 18. O-O-O c6 19. Rhg1 Qe5 20. f4 Qf6 21. Ne2 c5 22. Ng3 Nd7 23. Nh5 Qe7 24. Rde1 O-O-O 25. Bxc5 Qxe1+ 26. Rxe1 dxc5 27. Ng3 g6 28. Re6 Kc7 29. Rxg6 Bd6 30. Ne2 Rhe8 31. Kd1 Re7 32. Rg1 Nf6 33. Ng3 Bxf4 34. Nxf5 Re5 35. Ng3 Bxg3 36. hxg3 c4 37. Kd2 cxd3 38. cxd3 Ng4 39. f3 Nf2 40. Rc1+ Kb6 41. Rc3 a5 42. Kc2 Re2+ 43. Kc1 Nxd3+ 44. Kd1 Rg2 45. Bb1 Nf2+ 46. Ke2 Nh3+ 47. Ke3 Re8+ 48. Be4 Rxb2 49. Rc6+ Ka7 50. Rxh6 Rb3+ 51. Kd2 Rd8+ 52. Kc2 a4 53. Rh7+ Kb6 54. Rxh3 Rc8+ 55. Kd2 Rxa3 56. g4 Ra2+ 57. Ke3 Rf8 58. g5 Ra3+ 59. Kd4 Rd8+ 60. Ke5 Re8+ 61. Kf4 Rc3 62. g6 Rg8 63. Rh7 Rc4 64. g7 1-0
+

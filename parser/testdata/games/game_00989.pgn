@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/XFQ9ZPN2"]
+[White "cancri_4"]
+[Black "topins"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:40"]
+[WhiteElo "1769"]
+[BlackElo "1687"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+13"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation #3"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. e5 e6 3. d4 Ne7 4. c3 c6 5. g4 Nd7 6. Bd3 f6 7. Be3 fxe5 8. g5 e4 9. Be2 g6 10. f4 Nf5 11. Qd2 Bg7 12. h4 c5 13. h5 Nxe3 14. Qxe3 cxd4 15. cxd4 Nb6 16. b3 Bd7 17. h6 Bf8 18. Nd2 Bb4 19. Nh3 Qc7 20. O-O Qd6 21. Rfd1 Qe7 22. Nf1 e5 23. dxe5 Bxh3 24. a3 Bf5 25. axb4 Qxb4 26. Kg2 d4 27. Rxd4 Qe7 28. Bb5+ Kf7 29. Be2 Rad8 30. Rad1 Rd7 31. Bc4+ Nxc4 32. bxc4 Rhd8 33. Kg3 Qe6 34. Nh2 Kf8 35. Kf2 Qa6 36. Rxd7 Rxd7 37. Qc5+ Kf7 38. Rxd7+ Bxd7 39. e6+ Bxe6 40. Qc7+ Ke8 41. Qb8+ Ke7 42. Qc7+ Bd7 43. Qe5+ Kd8 44. Qf6+ Kc7 45. Qe5+ Kc6 46. Qf6+ Kc7 47. Qe5+ Kc8 48. Qd4 Qa2+ 49. Kg3 Bc6 50. Qh8+ Kc7 51. Qg7+ Kb6 52. Qd4+ Ka6 53. Qc5 e3 0-1
+

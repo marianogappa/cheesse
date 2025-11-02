@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/vwWPAsWN"]
+[White "gronemann"]
+[Black "COUTND0WN"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:44"]
+[WhiteElo "1977"]
+[BlackElo "1884"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "A43"]
+[Opening "Old Benoni Defense"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. d4 c5 2. Nf3 cxd4 3. Nxd4 Nc6 4. Nb3 d5 5. c3 e5 6. g3 f5 7. Bg2 Nf6 8. Bg5 e4 9. Bxf6 Qxf6 10. f3 Be6 11. fxe4 fxe4 12. Rf1 Qg6 13. N1d2 Bd6 14. c4 dxc4 15. Bxe4 Qh6 16. Nf3 O-O 17. Qxd6 Bg4 18. Nc5 Bxf3 19. Qxh6 Rad8 20. Qe6+ Kh8 21. Rxf3 Rfe8 22. Qxe8+ Rxe8 23. Bxc6 bxc6 24. Rd1 g6 25. Rd7 Rf8 26. Rff7 Rxf7 27. Rxf7 1-0
+

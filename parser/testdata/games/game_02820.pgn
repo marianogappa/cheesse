@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/pmPEu8A8"]
+[White "egeberg1987"]
+[Black "berkmtn10"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:34"]
+[WhiteElo "1087"]
+[BlackElo "1000"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+20"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Qf3 Nf6 3. Bc4 d5 4. exd5 Nb4 5. g4 Nbxd5 6. g5 Nd7 7. Qxd5 Nb6 8. Qxf7+ Kd7 9. Qf5+ Kc6 10. Qe4+ Kd7 11. d4 Nxc4 12. Bf4 Nxb2 13. Be5 Nc4 14. Nc3 Ke6 15. f4 Kf7 16. Nd5 c6 17. Bc7 Qd7 18. f5 h6 19. g6+ Kg8 20. Nf3 cxd5 21. Qg4 Qxc7 22. Ne5 Na3 23. Nf7 Qc3+ 24. Ke2 Nxc2 25. Rac1 b6 26. f6 Bxg4+ 27. Kf2 gxf6 28. Nxh8 Kxh8 29. g7+ Bxg7 30. Rhg1 Qxd4+ 31. Kg3 b5 32. Rgd1 Qe4 33. Rd2 Rc8 34. h3 f5 35. hxg4 Bb2 36. Rh1 fxg4 37. Rxh6+ Kg7 38. Rh4 Rh8 39. Rxg4+ Qxg4+ 40. Kxg4 Kg6 41. Rxd5 e6 42. Rxb5 a6 43. Rxb2 Ne3+ 44. Kf3 Nf5 45. Rb6 Nd4+ 46. Ke3 Nf5+ 47. Kd2 Kf6 48. Rxa6 Ng3 49. a4 Ne4+ 50. Kd3 Nc5+ 51. Kc4 Nxa6 52. a5 Rh5 53. Kd4 Rxa5 54. Kd3 Ra4 55. Kc3 Nc5 56. Kb2 e5 57. Kc2 e4 58. Kd2 Ra3 59. Ke2 Nd3 60. Ke3 Ke5 61. Ke2 Nc1+ 62. Kd2 e3+ 63. Kxc1 e2 64. Kd2 Ra2+ 65. Ke1 Ke4 66. Kf2 Kd3 67. Ke1 Ra1+ 68. Kf2 e1=Q+ 69. Kf3 Qf1+ 70. Kg4 Re1 71. Kg5 Qh1 72. Kf5 Qf1+ 73. Kg6 Qf2 74. Kg5 Rg1+ 75. Kh5 Qh2# 0-1
+

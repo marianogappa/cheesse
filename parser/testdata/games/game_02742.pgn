@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bgiMAJOf"]
+[White "elcorredor101"]
+[Black "Corcel_Blanco"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:18"]
+[WhiteElo "1709"]
+[BlackElo "1724"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "60+10"]
+[Termination "Normal"]
+
+1. e4 c6 2. f4 d5 3. exd5 cxd5 4. Nf3 Bf5 5. Bb5+ Nc6 6. d3 Qb6 7. Bxc6+ bxc6 8. Qe2 e6 9. Be3 Bc5 10. Bxc5 Qxc5 11. Nc3 Nf6 12. h3 h6 13. g4 Bh7 14. Ne5 O-O 15. g5 hxg5 16. fxg5 d4 17. gxf6 dxc3 18. b3 Rfd8 19. fxg7 Rd5 20. Nc4 e5 21. O-O-O Rd4 22. Qxe5 Rxc4 23. Qxc5 Rxc5 24. b4 Re5 25. Rhf1 Rae8 26. Rg1 Re2 27. h4 Rh2 28. Rh1 Rg2 29. Rdg1 Ree2 30. a4 Rxc2+ 31. Kb1 Rb2+ 32. Ka1 Ra2+ 33. Kb1 Bxd3+ 34. Kc1 Ra1# 0-1
+

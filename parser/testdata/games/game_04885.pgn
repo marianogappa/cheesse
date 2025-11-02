@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/710z9prP"]
+[White "Andres_Felipe"]
+[Black "Wilmer17"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:50"]
+[WhiteElo "1721"]
+[BlackElo "1528"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Nc6 3. Nf3 e6 4. e3 Bd6 5. Bg3 Bxg3 6. hxg3 Qf6 7. Bb5 Bd7 8. Bxc6 Bxc6 9. Ne5 Ne7 10. Nd2 Ng6 11. Nxc6 bxc6 12. Qf3 Qxf3 13. Nxf3 O-O 14. Kd2 Rab8 15. b3 Rbe8 16. Rh5 Ne7 17. Rah1 h6 18. Ne5 f6 19. Nd7 Rf7 20. Nc5 Kh7 21. Nxe6 g6 22. Rxh6+ Kg8 23. Rh8# 1-0
+

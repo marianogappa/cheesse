@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/eSL84QwF"]
+[White "VOX767"]
+[Black "SardonicusMars"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:31"]
+[WhiteElo "1054"]
+[BlackElo "1194"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-16"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Qf3 e6 5. Bd3 Bxd3 6. Qxd3 Ne7 7. Qb3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Q1yWdlYq"]
+[White "kavas"]
+[Black "tamagrout"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:43"]
+[WhiteElo "1761"]
+[BlackElo "1775"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C23"]
+[Opening "Bishop's Opening: Philidor Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Bc4 Bc5 3. c3 Nc6 4. Qb3 Qe7 5. Nf3 d6 6. Bd5 Na5 7. Qa4+ Nc6 8. Bxc6+ bxc6 9. Qxc6+ Kf8 10. Qxa8 Qd7 11. Qd5 Ne7 12. Qd3 h6 13. Nxe5 Qe6 14. Nf3 Qg6 15. Rg1 f5 16. exf5 Bxf5 17. Qa6 Qe6+ 18. Kd1 Bxf2 19. Rf1 Bb6 20. Nd4 Qg6 21. Nxf5 Nxf5 22. Qc8+ Ke7 23. Qxf5 Qxf5 24. Rxf5 Rg8 25. d4 g5 26. g4 Ke6 27. Na3 a6 28. Nc4 Ba7 29. Na5 d5 30. Nc6 Bb6 31. Kc2 h5 32. h3 hxg4 33. hxg4 Rh8 34. Bd2 Rh2 35. Re1+ Kd7 36. Rf7+ Kxc6 37. Kb3 a5 38. Bxg5 a4+ 39. Ka3 Rh3 40. Re6+ Kb5 41. Re5 Kc4 42. Kxa4 Rh2 43. Ka3 Rh3 44. Rd7 c6 45. Rb7 Bxd4 46. Rb4+ Kd3 47. Rxd4+ Kc2 48. Rd2+ 1-0
+

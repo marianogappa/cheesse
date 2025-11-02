@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/abBMyRCq"]
+[White "khan1"]
+[Black "Racurs"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:22"]
+[WhiteElo "1466"]
+[BlackElo "1737"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Reversed Mexican Defense"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. Nc3 Nf6 3. d4 Nc6 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 a6 7. Bd3 e6 8. e4 Nxd4 9. Qe3 Nc6 10. e5 Nd7 11. Nxd5 exd5 12. e6 fxe6 13. Qxe6+ Qe7 14. Qxe7+ Bxe7 15. O-O O-O-O 16. Bf5 g6 17. Be6 d4 18. c3 dxc3 19. bxc3 Kb8 20. Rd1 Nb6 21. Rxd8+ Rxd8 22. Be3 Bf6 23. Bxb6 cxb6 24. Rb1 Bxc3 25. Rb2 Bxb2 0-1
+

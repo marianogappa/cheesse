@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WXVw8xJR"]
+[White "shadar286"]
+[Black "Mihail-36"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:02"]
+[WhiteElo "1399"]
+[BlackElo "1380"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-26"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. e5 d4 3. Nf3 Nc6 4. Qe2 Bg4 5. d3 Bxf3 6. gxf3 f6 7. e6 g5 8. Bh3 Bg7 9. c3 1-0
+

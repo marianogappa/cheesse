@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Txg0mvOa"]
+[White "StingingBee"]
+[Black "kurdederouen"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:10"]
+[WhiteElo "2048"]
+[BlackElo "1808"]
+[WhiteRatingDiff "-19"]
+[BlackRatingDiff "+16"]
+[ECO "C10"]
+[Opening "French Defense: Rubinstein Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 c5 6. c3 Nc6 7. Nf3 Be7 8. Bb5 O-O 9. O-O cxd4 10. cxd4 Bd7 11. Be3 Nb4 12. Bc4 Bc6 13. a3 Nbd5 14. Ne5 Rc8 15. Rc1 Nxe3 16. fxe3 Nd7 17. Nxc6 Rxc6 18. Qd3 Rd6 19. Ne4 Ne5 20. Qb1 Nxc4 21. Rxc4 Rb6 22. b4 a5 23. Rf3 axb4 24. Rh3 h6 25. axb4 Qd5 26. Nd2 e5 27. e4 Qe6 28. d5 Qg4 29. Nf3 f5 30. Nxe5 Qe2 31. Rhc3 fxe4 32. Rxe4 Qf2+ 0-1
+

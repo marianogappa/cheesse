@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VZwUXLPM"]
+[White "heisatur"]
+[Black "nikko38"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:17"]
+[WhiteElo "1122"]
+[BlackElo "1357"]
+[WhiteRatingDiff "+52"]
+[BlackRatingDiff "-18"]
+[ECO "C21"]
+[Opening "Center Game #2"]
+[TimeControl "360+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 Nf6 3. d5 d6 4. Nc3 Be7 5. Bb5+ Bd7 6. Bxd7+ Qxd7 7. Qf3 Na6 8. a3 c6 9. Be3 Nc5 10. Bxc5 dxc5 11. Qd3 Rd8 12. h3 cxd5 13. Rd1 d4 14. Nce2 b5 15. b3 O-O 16. c4 a6 17. Nf3 Bd6 18. Rf1 h6 19. g4 b4 20. axb4 cxb4 21. g5 hxg5 22. Nxg5 a5 23. Nf4 Ra8 24. Nd5 Nxd5 25. exd5 f6 26. Qh7# 1-0
+

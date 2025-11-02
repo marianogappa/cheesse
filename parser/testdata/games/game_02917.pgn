@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pqVtump5"]
+[White "alvaroglm"]
+[Black "xemiilio"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:55"]
+[WhiteElo "1216"]
+[BlackElo "1184"]
+[WhiteRatingDiff "+22"]
+[BlackRatingDiff "-10"]
+[ECO "C46"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bb4 5. O-O O-O 6. Ng5 d6 7. d4 exd4 8. Nb5 d5 9. exd5 Nxd5 10. Nxd4 Qxg5 11. Bxg5 Nxd4 12. Qxd4 Rd8 13. Bxd8 Bh3 14. gxh3 Rxd8 15. Qxa7 Ne3 16. fxe3 Bc3 17. bxc3 Rd3 18. cxd3 1-0
+

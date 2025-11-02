@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/rOtpvbPV"]
+[White "Apolus"]
+[Black "richard7226"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:09"]
+[WhiteElo "1411"]
+[BlackElo "1427"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Staunton-Cochrane Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. c4 d6 3. Nc3 Nc6 4. d3 Nf6 5. Nd5 Nxd5 6. cxd5 Ne5 7. Nf3 Bg4 8. Be2 Bxf3 9. Bxf3 f6 10. b3 b6 11. Bb2 Qd7 12. d4 cxd4 13. Bxd4 e6 14. Qe2 exd5 15. exd5 Be7 16. Rc1 O-O 17. O-O Rae8 18. Be4 f5 19. Bb1 Bg5 20. f4 Ng4 21. fxg5 Rxe2 22. Rf4 Qb5 23. Bxf5 Kh8 24. Rcf1 Qb4 25. Bxg4 Rxf4 26. Bxe2 Rxf1+ 27. Kxf1 Qxd4 0-1
+

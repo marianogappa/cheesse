@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/XzepM86M"]
+[White "kotranec"]
+[Black "SbiVd"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:49"]
+[WhiteElo "1038"]
+[BlackElo "1258"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[ECO "C20"]
+[Opening "King's Pawn Opening: 2.b3"]
+[TimeControl "900+10"]
+[Termination "Normal"]
+
+1. e4 e5 2. b3 Nf6 3. Bb2 Nc6 4. f3 d5 5. d3 d4 6. g3 Bc5 7. Ne2 O-O 8. c3 Re8 9. c4 Bb4+ 10. Kf2 Nd7 11. f4 Nc5 12. Bc1 exf4 13. Nxf4 Ne5 14. h4 Qf6 15. Kg2 Bg4 16. Qc2 Bf3+ 17. Kf2 Bxh1 18. Be2 Ng4+ 19. Bxg4 Nxe4+ 20. dxe4 Rxe4 21. Qxe4 Bxe4 22. Nd2 Bxd2 23. Bxd2 Bf5 24. Nd5 Bxg4+ 25. Kg2 Qf3+ 26. Kh2 Qf2+ 27. Kh1 Bf3# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/A8EuPsl1"]
+[White "hack_iostream"]
+[Black "battmarc"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:18"]
+[WhiteElo "1803"]
+[BlackElo "1821"]
+[WhiteRatingDiff "-27"]
+[BlackRatingDiff "+30"]
+[ECO "A40"]
+[Opening "Englund Gambit Declined, Reversed French"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e3 e5 2. d4 exd4 3. exd4 Nf6 4. Nf3 Bd6 5. Qe2+ Be7 6. Bg5 O-O 7. Nc3 Re8 8. O-O-O Bb4 9. Qd3 Bxc3 10. Qxc3 d5 11. Bd3 Nbd7 12. Rhe1 c6 13. Rxe8+ Qxe8 14. Re1 Qd8 15. Ne5 Qf8 16. Nxd7 Nxd7 17. Bf5 Nb6 18. Bxc8 Rxc8 19. Be7 Qe8 20. Bc5 Qd7 21. Bxb6 axb6 22. h3 c5 23. Qe3 c4 24. c3 b5 25. b4 cxb3 26. axb3 b4 27. Kb2 bxc3+ 28. Kc2 Qf5+ 29. Kc1 h6 30. g4 Qd7 31. Re2 Qb5 32. Kc2 Qa5 33. Kb1 Qa3 34. Qc1 Qxb3+ 35. Ka1 Ra8+ 36. Qa3 Rxa3+ 37. Ra2 Qxa2# 0-1
+

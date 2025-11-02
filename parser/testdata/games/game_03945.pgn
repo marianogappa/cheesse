@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/1ysYihxf"]
+[White "wallablado"]
+[Black "Lifesaburrito"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:57"]
+[WhiteElo "1855"]
+[BlackElo "1715"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "C41"]
+[Opening "Philidor Defense: Hanham Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. dxe5 Nxe5 5. Nxe5 dxe5 6. Qxd8+ Kxd8 7. Bc4 f6 8. O-O c6 9. Rd1+ Kc7 10. Nd2 Bb4 11. Bb3 Ne7 12. c3 Bc5 13. Nc4 b6 14. Be3 Bxe3 15. Nxe3 Bb7 16. f3 Rad8 17. Kf2 Rd6 18. Rxd6 Kxd6 19. Rd1+ Kc7 20. g4 Rd8 21. Rxd8 Kxd8 22. Nf5 Nxf5 23. gxf5 Kd7 24. h4 Kd6 25. Ke3 Ba6 26. Bc2 b5 27. b4 c5 28. f4 cxb4 29. cxb4 Bb7 30. fxe5+ fxe5 31. Bb3 Ke7 32. a3 Bc6 33. Kf3 a6 34. Bd5 Bxd5 35. exd5 Kd6 36. Ke4 h6 37. h5 Ke7 38. Kxe5 Kd7 39. d6 Ke8 40. Ke6 Kd8 41. d7 Kc7 42. Ke7 Kc6 43. d8=Q 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1ttXNYsU"]
+[White "vastlov"]
+[Black "djulac"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:44"]
+[WhiteElo "1358"]
+[BlackElo "1381"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 Nc6 3. Bd5 e6 4. Bxc6 bxc6 5. Nf3 d5 6. e5 f6 7. exf6 gxf6 8. O-O d4 9. d3 e5 10. c3 Bd6 11. cxd4 cxd4 12. Nbd2 c5 13. Nc4 Ba6 14. Qa4+ Qd7 15. Nxd6+ Ke7 16. Qxa6 1-0
+

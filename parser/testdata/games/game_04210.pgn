@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SHFYrv4d"]
+[White "Madwill"]
+[Black "aixosi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:03"]
+[WhiteElo "1203"]
+[BlackElo "1643"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 h6 5. a3 Nf6 6. b4 Bb6 7. a4 a6 8. a5 Ba7 9. d4 exd4 10. Nxd4 Nxd4 11. e5 Qe7 12. O-O Ng4 13. Re1 Nxf2 14. Kxf2 Nxc2+ 15. Be3 Nxe3 16. Rxe3 Bxe3+ 17. Kxe3 Qxe5+ 18. Kf2 Qxa1 19. Qe2+ Kf8 20. Qf3 Qf6 21. Bd5 Qxf3+ 22. gxf3 c6 0-1
+

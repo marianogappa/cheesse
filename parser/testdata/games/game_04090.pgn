@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/J3Lsn07B"]
+[White "cancri_4"]
+[Black "ThinkFaster"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:37"]
+[WhiteElo "1755"]
+[BlackElo "1778"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 e6 3. d4 cxd4 4. cxd4 d5 5. e5 Nc6 6. a3 f6 7. Be3 fxe5 8. Bd3 exd4 9. Qh5+ Kd7 10. Qf7+ Qe7 11. Qxe7+ Ngxe7 12. Bb5 dxe3 13. Bxc6+ Nxc6 14. fxe3 Bc5 15. Ke2 Ne5 16. Nd2 b5 17. b4 Bb6 18. Nb3 Bb7 19. Nc5+ Bxc5 20. bxc5 Bc6 21. Nf3 Nxf3 22. gxf3 Rhf8 23. Rhd1 a5 24. h4 Ke7 25. Rg1 d4 26. Rxg7+ Rf7 27. Rxf7+ Kxf7 28. e4 e5 29. Rg1 Rg8 30. Rf1 Rg3 31. h5 Rh3 32. Rg1 Rxh5 33. Rg4 Rh2+ 34. Kd3 Ra2 35. f4 Rxa3+ 36. Kc2 Bxe4+ 37. Kb2 Rf3 0-1
+

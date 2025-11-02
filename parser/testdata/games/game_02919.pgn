@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/53eIn1tB"]
+[White "Carlosjcortes"]
+[Black "ginjawinda"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:56"]
+[WhiteElo "1035"]
+[BlackElo "1161"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-15"]
+[ECO "C42"]
+[Opening "Russian Game: Three Knights Game"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 d5 4. d3 Bg4 5. Be2 Bb4 6. Bd2 c6 7. Nxe5 dxe4 8. Bxg4 Nxg4 9. Qxg4 exd3 10. cxd3 Qxd3 11. Nxd3 1-0
+

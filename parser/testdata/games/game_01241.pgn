@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xEnTiUKY"]
+[White "davixlara"]
+[Black "nunkin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:38"]
+[WhiteElo "1222"]
+[BlackElo "1196"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "C55"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. d3 Nf6 5. O-O d5 6. Bb5 dxe4 7. Bxc6+ bxc6 8. dxe4 Qxd1 9. Rxd1 Bg4 10. Re1 Bxf3 11. gxf3 Nh5 12. Nc3 Bb4 13. Bd2 Bxc3 14. Bxc3 f6 15. Rad1 O-O 16. Bb4 Rfd8 17. Rxd8+ Rxd8 18. Be7 Rd7 19. Bc5 Nf4 20. Bxa7 Rd2 21. Be3 Rxc2 22. Bxf4 exf4 23. Rb1 c5 24. a3 c4 25. a4 Rd2 26. a5 Rd6 27. Rc1 Rc6 28. h3 Kf7 29. Kf1 Ke6 30. Ke2 Ke5 31. Kd2 f5 32. exf5 Kxf5 33. Kc3 Rc5 34. Kb4 Rc6 35. Rxc4 Rb6+ 36. Ka4 Rb7 37. a6 Ra7 38. Ka5 Ke6 39. Kb5 Kd5 40. b3 g5 41. Kb4 Rxa6 42. Rxc7 Rb6+ 43. Ka3 Kd6 44. Rh7 Kd5 45. Ka4 Kc5 46. b4+ Kc4 47. Rc7+ Kd5 48. b5 Kd6 49. Rh7 Kc5 50. Rc7+ Kd6 51. Rh7 Kc5 52. Rc7+ Kd6 53. Rc1 h5 54. Ka5 Rb8 55. Rc6+ Kd7 56. Ka6 Ra8+ 57. Kb7 Ra5 58. Kb6 Ra3 59. Rh6 h4 60. Kc5 Rc3+ 61. Kd4 Rb3 62. Kc4 Rb1 63. Rh7+ Ke6 64. Rb7 Rc1+ 65. Kd4 Rd1+ 66. Kc4 Rc1+ 67. Kb4 1-0
+

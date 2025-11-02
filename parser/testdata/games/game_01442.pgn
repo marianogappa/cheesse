@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/CtfaiI0d"]
+[White "macak81"]
+[Black "Dgalvas"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:23"]
+[WhiteElo "1775"]
+[BlackElo "1505"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. g3 e5 2. Bg2 d5 3. e3 e4 4. Ne2 Nc6 5. d4 exd3 6. cxd3 Bb4+ 7. Bd2 Nf6 8. O-O Bd6 9. a3 Ng4 10. Nbc3 Qf6 11. Nxd5 Qh6 12. h3 Nf6 13. Nxf6+ Qxf6 14. Bc3 Qg6 15. Nf4 Bxf4 16. exf4 Bf5 17. Qe2+ Ne7 18. Bxb7 Rb8 19. Be4 Bxe4 20. dxe4 O-O 21. Qc4 Rfe8 22. Qd4 Rbd8 23. Qxa7 Nc6 24. Qxc7 Qxe4 25. Rae1 Qd5 26. Rxe8+ Rxe8 27. Re1 Ne7 28. Rxe7 Qd1+ 29. Kg2 Qd5+ 30. Kh2 Qd8 31. Rxe8+ Qxe8 32. Qe5 f6 33. Qxe8# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/cygviMjw"]
+[White "mabe48b"]
+[Black "bouchon"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:07"]
+[WhiteElo "1648"]
+[BlackElo "1717"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 c6 4. c3 Bg4 5. b4 Nf6 6. d3 b5 7. Bb3 a5 8. bxa5 Qxa5 9. Bd2 Bxf3 10. Qxf3 Nbd7 11. O-O Be7 12. c4 b4 13. a4 O-O 14. Na3 Nc5 15. Bc2 Nxa4 16. Bxa4 Qxa4 17. c5 Qb3 18. cxd6 Bxd6 19. Nc4 Rxa1 20. Rxa1 Rd8 21. Bg5 Be7 22. Nxe5 Qc3 23. Rc1 Qxe5 24. Bf4 Qd4 25. Rd1 c5 26. Bg5 h6 27. Bh4 g5 28. Bg3 Kg7 29. e5 Nd5 30. h4 b3 31. Re1 b2 32. e6 f6 33. hxg5 hxg5 34. Be5 fxe5 35. Qf7+ Kh6 36. Re4 b1=Q+ 37. Kh2 Qxe4 38. dxe4 Qxe4 39. f3 Qf4+ 40. Qxf4 Nxf4 41. g3 Nxe6 42. Kh3 c4 0-1
+

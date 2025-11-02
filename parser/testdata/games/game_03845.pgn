@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/t5yoVeHK"]
+[White "tirek1982"]
+[Black "Cowlinn"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:40"]
+[WhiteElo "1395"]
+[BlackElo "1252"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "C46"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nc6 4. Nc3 d6 5. d3 Bg4 6. Bg5 Be7 7. Bxf6 Bxf6 8. h3 Bxf3 9. Qxf3 Nd4 10. Qd1 O-O 11. Nd5 c6 12. Nxf6+ Qxf6 13. O-O Rae8 14. c3 Ne6 15. f4 exf4 16. Bxe6 Rxe6 17. Qg4 d5 18. Rxf4 Qg6 19. Qxg6 Rxg6 20. Raf1 dxe4 21. dxe4 f6 22. Rf5 Rg5 23. h4 Rxf5 24. Rxf5 g6 25. Rf4 Rd8 26. g4 Rd1+ 27. Kf2 Ra1 28. Ke3 Rxa2 29. Rxf6 Rxb2 30. e5 Rc2 31. e6 Rxc3+ 32. Kd4 Rg3 33. e7 Rxg4+ 34. Ke5 Rg1 35. e8=Q+ Kg7 36. Qf7+ Kh6 37. Qf8+ Kh5 38. Kd6 Rd1+ 39. Kc7 Kxh4 40. Qh8 Re1 41. Qxh7+ Kg5 42. Qxg6+ Kh4 43. Rf8 Re7+ 44. Kd8 Re4 45. Rh8# 1-0
+

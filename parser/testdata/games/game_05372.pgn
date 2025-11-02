@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/0bJm8Nxz"]
+[White "fischersbrother"]
+[Black "the36thone"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:42"]
+[WhiteElo "1212"]
+[BlackElo "1239"]
+[WhiteRatingDiff "+51"]
+[BlackRatingDiff "-12"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Nxd5 Qxd5 5. c4 Qc5 6. d4 Qd6 7. g3 c5 8. d5 e6 9. Bg2 Be7 10. Ne2 exd5 11. cxd5 O-O 12. Bf4 Qa6 13. d6 Bf6 14. Rc1 Qa5+ 15. Nc3 Bxc3+ 16. bxc3 Qxa2 17. Rc2 Qe6+ 18. Be3 Rd8 19. Bd5 Qxd6 20. Rd2 Nd7 21. Bxf7+ Kxf7 22. Rxd6 Ne5 1-0
+

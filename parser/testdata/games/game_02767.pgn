@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YU8ajNdG"]
+[White "Purfvfet"]
+[Black "JMG85"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:23"]
+[WhiteElo "1559"]
+[BlackElo "1423"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 h6 3. c3 Nf6 4. e5 Nd5 5. Nf3 d6 6. Be2 dxe5 7. dxe5 c6 8. Bc4 Qb6 9. Bb3 Bc5 10. O-O Nd7 11. Nbd2 Nf4 12. Ne4 Nxg2 13. Nxc5 Nxc5 14. Kxg2 Nxb3 15. Qxb3 Qc5 16. Be3 Qe7 17. Rad1 b5 18. Qb4 Qxb4 19. cxb4 O-O 20. Bc5 Re8 21. Rd6 Bb7 22. Rfd1 a5 23. a3 axb4 24. axb4 Ra2 25. R1d2 Kh7 26. Rd7 Bc8 27. Rxf7 Rg8 28. Rc7 h5 29. Ng5+ Kg6 30. Ne4 Kf5 31. Nd6+ Kxe5 32. Nxc8 g5 33. Ne7 Rg7 34. Bd4+ Kd6 35. Rxc6+ Kxe7 36. Bxg7 h4 37. Rdd6 Rxb2 38. Bxb2 g4 39. Rxe6+ Kd7 40. h3 gxh3+ 41. Kxh3 Kd8 42. f4 1-0
+

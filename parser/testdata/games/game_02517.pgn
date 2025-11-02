@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/M53XumCo"]
+[White "adrian0223805"]
+[Black "KentVika"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:33"]
+[WhiteElo "1798"]
+[BlackElo "1682"]
+[WhiteRatingDiff "-174"]
+[BlackRatingDiff "+11"]
+[ECO "C00"]
+[Opening "French Defense: La Bourdonnais Variation"]
+[TimeControl "240+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. f4 d5 3. f5 dxe4 4. fxe6 Bxe6 5. Ne2 e3 6. dxe3 Qxd1+ 7. Kxd1 Nc6 8. Nd4 Nxd4 9. Be2 Nxe2 10. Kxe2 O-O-O 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/9vHWhYNj"]
+[White "decidement"]
+[Black "labuverr"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:36"]
+[WhiteElo "2103"]
+[BlackElo "1565"]
+[WhiteRatingDiff "-19"]
+[BlackRatingDiff "+25"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 dxe4 3. Nxe4 Nf6 4. Ng5 h6 5. Nxf7 Kxf7 6. Nf3 e6 7. d4 c6 8. Bd3 Ke8 9. Ne5 Ke7 10. Ng6+ Kd7 11. Nxh8 Be7 12. Nf7 Qf8 13. Ne5+ Kd8 14. O-O Nbd7 15. Ng6 Qf7 16. c3 Nf8 17. Ne5 Qe8 18. Qb3 N6d7 19. Nxd7 Qxd7 20. Bc4 a6 21. a4 b5 22. axb5 cxb5 23. Bd3 Bb7 24. c4 bxc4 25. Bxc4 Ra7 26. Bxe6 Nxe6 27. Bd2 Qd5 28. Ba5+ Ke8 29. Qb6 Qxg2# 0-1
+

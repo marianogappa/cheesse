@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/smnx6sKB"]
+[White "zsoltik"]
+[Black "soldier14"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:12"]
+[WhiteElo "2563"]
+[BlackElo "2365"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[ECO "B34"]
+[Opening "Sicilian Defense: Accelerated Dragon, Modern Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Nb3 d6 7. Bc4 Nf6 8. O-O O-O 9. Re1 a6 10. a4 Rb8 11. Bg5 Ne5 12. Bf1 h6 13. Bh4 g5 14. Bg3 Be6 15. Nd5 Nxd5 16. exd5 Bf5 17. Nd4 Bg6 18. c4 Rc8 19. b3 Qb6 20. Kh1 Nxc4 21. Bxc4 Bxd4 22. Rxe7 Bxa1 23. Qxa1 Rce8 24. Rd7 Rd8 25. a5 Qb4 26. Bxd6 Qd2 27. Rxd8 Rxd8 28. Be7 Rd7 29. Bc5 Be4 30. d6 Bd5 31. Be3 Qc2 32. Bxd5 Rxd6 33. Bf3 f5 34. h3 f4 35. Bb6 Re6 36. Kh2 Qd2 37. Qa4 Re1 38. Qc4+ Kg7 39. Bd4+ Kg6 40. Bc3 Qd1 41. Bxe1 Qxe1 42. Qe4+ Qxe4 43. Bxe4+ Kf6 44. Bxb7 Ke5 45. Bxa6 Kd5 46. Bc4+ Kc5 47. a6 Kb4 48. g3 Kc3 49. gxf4 gxf4 50. Kg2 Kb4 51. Kf3 Kc5 52. Kxf4 1-0
+

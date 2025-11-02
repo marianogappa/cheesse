@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wnOhH5DX"]
+[White "Chaos_95"]
+[Black "LMAO17"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:36"]
+[WhiteElo "1363"]
+[BlackElo "1322"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.23] } 1... g6 { [%eval 0.66] } 2. Nf3 { [%eval 0.47] } 2... Bg7 { [%eval 0.62] } 3. Bc4 { [%eval 0.4] } 3... e6 { [%eval 0.45] } 4. d3?! { [%eval -0.11] } 4... Nc6 { [%eval 0.29] } 5. Ng5?! { [%eval -0.57] } 5... e5?? { [%eval 5.42] } 6. Nxf7 { [%eval 5.43] } 6... Qf6 { [%eval 5.47] } 7. Nxh8 { [%eval 5.16] } 7... Bxh8? { [%eval 6.68] } 8. Nc3?? { [%eval 3.53] } 8... Nh6?? { [%eval 8.28] } 9. Nb5?! { [%eval 7.58] } 9... Qd6? { [%eval 17.45] } 10. Nxd6+ { [%eval 17.0] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/tSNdnLx1"]
+[White "YudYudYud"]
+[Black "Zippin"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:27"]
+[WhiteElo "1378"]
+[BlackElo "1449"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "A10"]
+[Opening "English Opening: Anglo-Scandinavian Defense"]
+[TimeControl "600+2"]
+[Termination "Normal"]
+
+1. c4 d5 2. Nc3 d4 3. Ne4 Bf5 4. d3 e5 5. Nf3 Nc6 6. Bd2 Bxe4 7. dxe4 Bb4 8. Bxb4 Nxb4 9. Qa4+ Nc6 10. b4 Nf6 11. b5 Ne7 12. Nxe5 Nxe4 13. b6+ c6 14. Nxc6 Nxc6 15. f3 Nc3 16. Qc2 Qxb6 17. g4 O-O 18. Bg2 Rae8 19. O-O Rxe2 20. Qf5 Qa6 21. Rae1 Qxc4 22. f4 d3 23. Bxc6 bxc6 24. Qa5 d2 25. Rb1 Nxb1 26. Rxb1 Qd4+ 27. Kf1 Qf2# 0-1
+

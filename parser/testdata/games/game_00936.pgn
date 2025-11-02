@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dtHpSeVP"]
+[White "Avrell"]
+[Black "chesswanted"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:29"]
+[WhiteElo "1727"]
+[BlackElo "1783"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 f6 5. Bf4 Be6 6. Nb5 Na6 7. c4 c6 8. Nc3 g5 9. Bg3 h5 10. h4 g4 11. Qe2 Bd7 12. Qe4 f5 13. Qe5 Nf6 14. Bd3 e6 15. Bxf5 Bg7 16. Bg6+ Kf8 17. Qd6+ Qe7 18. Qxe7+ Kxe7 19. c5 Nb4 20. Bd6+ Kd8 21. O-O-O Ne8 22. Bg3 Rh6 23. Be4 Rf6 24. a3 Nd5 25. Bxd5 exd5 26. Nge2 Nc7 27. Nf4 Bh6 28. Kb1 Bxf4 29. Bxf4 Rxf4 30. Rhe1 Rf8 31. f3 gxf3 32. gxf3 Rxf3 33. Rg1 Bg4 34. Rde1 Rf7 35. Re5 b6 36. Rge1 Ne6 37. cxb6 axb6 38. Nxd5 cxd5 39. Rxd5+ Kc7 40. Rde5 Raf8 41. d5 Rf1 42. dxe6 Rxe1+ 43. Rxe1 Kd6 44. e7 Re8 45. Kc2 Rxe7 46. Rxe7 Kxe7 47. Kd3 Kd6 48. Ke4 Kc5 49. b3 b5 0-1
+

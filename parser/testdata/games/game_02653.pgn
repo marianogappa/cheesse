@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/g6rcIS7R"]
+[White "pashpash"]
+[Black "Doudi73"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:00"]
+[WhiteElo "2307"]
+[BlackElo "2129"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d3 d5 4. Nbd2 Bg4 5. h3 Bh5 6. g4 Bg6 7. Bg2 e6 8. O-O Bd6 9. Re1 Nge7 10. Nf1 Qc7 11. Qe2 O-O 12. e5 Bxe5 13. Nxe5 Nd4 14. Qd1 1-0
+

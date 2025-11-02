@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/GVDwTNwD"]
+[White "CuriousKnight"]
+[Black "demotedpawn"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:55"]
+[WhiteElo "1991"]
+[BlackElo "2001"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "A00"]
+[Opening "Van Geet Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. Nc3 c6 2. d3 d5 3. e4 d4 4. Nce2 c5 5. f3 Nc6 6. Bd2 e6 7. f4 g6 8. Nf3 Bg7 9. h4 h5 10. a3 Nh6 11. Ng5 f6 12. Ng3 fxg5 13. hxg5 Ng4 14. Be2 e5 15. f5 gxf5 16. exf5 Ne3 17. Bxe3 dxe3 18. f6 Bf8 19. Bxh5+ Kd7 20. Bg4+ Kc7 21. Rxh8 Bxg4 22. Qxg4 Qd4 23. Qxd4 cxd4 24. g6 Rd8 25. g7 Bxg7 26. fxg7 Ne7 27. O-O-O Kd7 28. Rf1 Ng6 29. Rxd8+ Kxd8 30. g8=Q+ Kd7 31. Qxg6 Kc7 32. Qe4 a6 33. Rf5 Kb6 34. Rxe5 a5 35. Qxd4+ Ka6 36. Qxe3 b6 37. Re7 Kb5 38. Qe4 a4 39. Qc4+ Ka5 40. Qb4+ Ka6 41. Re4 Kb7 42. Re5 Kc7 43. Rb5 Kd7 44. Rxb6 Kc7 45. Qa5 Kd7 46. Qa7+ Kc8 47. Rb8# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/YB2tc5Ph"]
+[White "PTKindy"]
+[Black "CaptainGadukin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:33"]
+[WhiteElo "1436"]
+[BlackElo "1408"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "A40"]
+[Opening "Mikenas Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 Nc6 2. d5 Ne5 3. Nf3 Nc4 4. e4 g6 5. Bxc4 Bg7 6. O-O Nf6 7. Nc3 O-O 8. Be3 e5 9. Qc1 d6 10. Bh6 Bxh6 11. Qxh6 Ng4 12. Qd2 a6 13. a4 Rb8 14. b4 Bd7 15. h3 b5 16. axb5 axb5 17. Be2 Nf6 18. Nh2 Nh5 19. g4 Nf6 20. g5 Bxh3 21. Rfd1 Nd7 22. Bg4 Bxg4 23. Nxg4 f5 24. Nh6+ Kg7 25. exf5 gxf5 26. Rf1 Kg6 27. f4 e4 28. Rf2 Nb6 29. Rh2 Nc4 30. Qg2 Ne3 31. Qh3 Nxc2 32. Rf1 Nxb4 33. Nxf5 Rxf5 34. Qxh7# 1-0
+

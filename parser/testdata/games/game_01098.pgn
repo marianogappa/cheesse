@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/vETdMyCG"]
+[White "josevilar"]
+[Black "Thisme"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:00"]
+[WhiteElo "1719"]
+[BlackElo "1778"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.27] } 1... Nf6 { [%eval 0.25] } 2. e3 { [%eval 0.15] } 2... g6 { [%eval 0.35] } 3. Bd3 { [%eval 0.2] } 3... Bg7 { [%eval 0.2] } 4. Nd2 { [%eval 0.05] } 4... d6 { [%eval 0.13] } 5. f4?! { [%eval -0.45] } 5... O-O { [%eval -0.36] } 6. Ngf3 { [%eval -0.41] } 6... Bg4 { [%eval 0.0] } 7. h3 { [%eval 0.04] } 7... Bxf3 { [%eval 0.37] } 8. Qxf3 { [%eval 0.24] } 8... Nc6 { [%eval 0.6] } 9. O-O?! { [%eval 0.07] } 9... e5?! { [%eval 0.78] } 10. c3 { [%eval 0.72] } 10... Re8 { [%eval 0.7] } 11. a3 { [%eval 0.29] } 11... Qe7 { [%eval 0.31] } 12. fxe5 { [%eval 0.27] } 12... dxe5 { [%eval 0.36] } 13. Qg3 { [%eval 0.26] } 13... Nh5 { [%eval 0.5] } 14. Qg4?? { [%eval -3.6] } 14... exd4 { [%eval -3.37] } 15. exd4? { [%eval -4.83] } 15... Qe3+ { [%eval -4.79] } 16. Kh1? { [%eval -6.5] } 16... Qxd3 { [%eval -6.14] } 17. Nf3?? { [%eval -18.22] } 17... f5 { [%eval -17.79] } 18. Qh4 { [%eval -27.17] } 18... Bf6?? { [%eval -6.12] } 19. Qf2? { [%eval -8.31] } 19... Re2 { [%eval -8.14] } 20. Qg1 { [%eval -7.89] } 0-1
+

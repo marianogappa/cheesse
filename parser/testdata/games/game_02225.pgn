@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bfDKV50x"]
+[White "adbulaziz"]
+[Black "digows"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:22"]
+[WhiteElo "1607"]
+[BlackElo "1617"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bc4 g6 4. Qf3 Nf6 5. c3 Bc5 6. Nh3 d6 7. Ng5 O-O 8. h3 a6 9. d3 b5 10. Bb3 Qe7 11. a3 Be6 12. Nd2 Bxb3 13. Nxb3 Bb6 14. Be3 Bxe3 15. fxe3 Nd8 16. O-O c5 17. Qxf6 Qxf6 18. Rxf6 Nb7 19. Raf1 c4 20. Nd2 cxd3 21. Rxf7 Rxf7 22. Rxf7 Na5 23. Rxh7 Nc4 24. Nxc4 bxc4 25. Rd7 Rb8 26. Rxd6 Rxb2 27. Nf3 Rb3 28. Rxa6 Rxc3 29. a4 Rc1+ 30. Kh2 c3 31. Rd6 Rd1 32. Nxe5 d2 33. a5 c2 34. Rc6 c1=Q 35. Rxc1 dxc1=Q 36. Nxg6 Qc7+ 37. Nf4 Qxa5 38. Kg3 Rf1 39. Kg4 Qe1 40. Nd5 Qe2+ 41. Kg3 Qf2+ 42. Kg4 Qxg2+ 43. Kh4 Rh1 44. Nf6+ Kf7 45. e5 Qxh3+ 46. Kg5 Rf1 47. Nh5 Qg2+ 48. Kh6 Rh1 49. e4 Qxe4 50. e6+ Qxe6+ 51. Kg5 Qg6+ 52. Kf4 Qxh5 0-1
+

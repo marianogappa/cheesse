@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NKu8Fg8O"]
+[White "insanity418"]
+[Black "Baltare"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:59"]
+[WhiteElo "1497"]
+[BlackElo "1345"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 d6 4. dxe5 Nxe5 5. Nxe5 dxe5 6. Qxd8+ Kxd8 7. Nc3 c6 8. Bg5+ Be7 9. O-O-O+ Kc7 10. Be3 Be6 11. f4 f6 12. f5 Bd7 13. Bc4 Nh6 14. h3 b5 15. Bb3 a5 16. a4 bxa4 17. Bxa4 Nf7 18. Rd2 Nd6 19. Bb3 Rab8 20. Bc5 Nxe4 21. Nxe4 Bxf5 22. Bxe7 Bxe4 23. Be6 Rhe8 24. Rd7+ Kb6 25. c4 Rb7 26. c5+ Ka6 27. Bc4+ Ka7 28. Rxb7+ Kxb7 29. Bd6 Bxg2 30. Rg1 Bxh3 31. Rxg7+ Kc8 32. Ba6+ Kd8 33. Bc7# 1-0
+

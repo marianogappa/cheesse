@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2lHlZv6W"]
+[White "Roma610"]
+[Black "hpawn"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:24"]
+[WhiteElo "1884"]
+[BlackElo "1978"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "A45"]
+[Opening "Canard Opening"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. f4 g6 3. Nf3 Bg7 4. c4 O-O 5. e3 c5 6. Nc3 cxd4 7. exd4 d5 8. cxd5 Nxd5 9. Be2 Nc6 10. O-O Bf5 11. Bc4 Ndb4 12. Bb3 Nxd4 13. Nxd4 Qxd4+ 14. Qxd4 Bxd4+ 15. Kh1 Rfd8 16. a3 Nd3 17. h3 h5 18. Nd5 e6 19. Ne7+ Kg7 20. Nxf5+ gxf5 21. Rd1 Nf2+ 22. Kh2 Nxd1 23. Bxd1 Bg1+ 24. Kxg1 Rxd1+ 25. Kh2 Kg6 26. b4 Rc8 27. Bb2 Rd2 28. Be5 Rcc2 29. Rg1 f6 30. Bb8 a6 31. a4 b5 32. axb5 axb5 33. Ba7 Re2 34. Bc5 e5 35. fxe5 fxe5 36. Kg3 Rc3+ 37. Kh2 h4 38. Rd1 Rcc2 39. Rd6+ Kg5 40. Rd8 Rxg2+ 41. Kh1 Rge2 42. Re8 Kf4 43. Rg8 Rc1+ 44. Bg1 Ree1 45. Kh2 Rxg1 46. Rxg1 Rxg1 47. Kxg1 Ke3 48. Kf1 f4 49. Ke1 f3 50. Kf1 e4 51. Ke1 Kf4 52. Kf2 e3+ 53. Kf1 Kg3 54. Ke1 Kxh3 55. Kf1 Kg3 0-1
+

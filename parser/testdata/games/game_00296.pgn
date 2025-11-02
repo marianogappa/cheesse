@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/sgLYWjbb"]
+[White "jagust"]
+[Black "Pampurio"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:58"]
+[WhiteElo "1146"]
+[BlackElo "1022"]
+[WhiteRatingDiff "-36"]
+[BlackRatingDiff "+16"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "1200+20"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 e6 3. Nc3 c6 4. Bf4 Nd7 5. e3 Ngf6 6. Bd3 Bb4 7. O-O Ng4 8. Be5 Bxc3 9. Bxg7 Rg8 10. Be5 Bxb2 11. Rb1 Ndxe5 12. Nxe5 Nxe5 13. Rxb2 Nxd3 14. Qxd3 b5 15. Qxh7 Qg5 16. h4 Qxg2# 0-1
+

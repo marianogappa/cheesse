@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/6UeALiAp"]
+[White "Staneux"]
+[Black "SpaceInvader"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:42"]
+[WhiteElo "1500"]
+[BlackElo "1495"]
+[WhiteRatingDiff "-178"]
+[BlackRatingDiff "+7"]
+[ECO "C68"]
+[Opening "Ruy Lopez: Exchange Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nxe5 Qd4 6. Nf3 Qxe4+ 7. Qe2 Qxe2+ 8. Kxe2 Nf6 9. d4 Bd6 10. g3 O-O 11. Nc3 Bg4 12. h3 Rfe8+ 13. Kf1 Bxf3 14. Rh2 Bb4 15. Bd2 Bxc3 16. Bxc3 Nd5 17. Bd2 Re2 18. Bf4 Rae8 19. Re1 Rxe1# 0-1
+

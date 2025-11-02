@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/LXDg0ulc"]
+[White "gruendel3"]
+[Black "DMKA"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:41"]
+[WhiteElo "1328"]
+[BlackElo "1904"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Franco-Nimzowitsch Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Nf3 e6 3. d4 Nf6 4. e5 Nd5 5. g3 d6 6. Bg2 dxe5 7. dxe5 Bd7 8. O-O Be7 9. c4 Nb6 10. Nc3 Nxc4 11. Qe2 Nb6 12. Ng5 Bxg5 13. Bxg5 Qxg5 14. Nb5 O-O-O 15. Nxa7+ Nxa7 16. Qf3 Bc6 17. Qa3 Bxg2 18. Kxg2 Qxe5 19. Qxa7 Qe4+ 20. Kg1 Rd2 21. Rae1 Qd4 22. Qa5 Rd8 23. Qg5 Qxb2 24. Rd1 Rxd1 25. Rxd1 Rxd1+ 26. Kg2 Qxa2 27. Qxg7 Qd5+ 28. Kh3 Qh5+ 29. Kg2 Rd8 30. g4 Qd5+ 31. f3 Qd2+ 32. Kg3 Nd5 33. Qxf7 Qe1+ 34. Kh3 Qf1+ 35. Kg3 Qg1+ 36. Kh3 e5 37. Qe6+ Kb8 38. Qxe5 Ne3 39. Qg5 Qg2+ 40. Kh4 Rd5 41. Qxe3 Qxh2# 0-1
+

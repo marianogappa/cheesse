@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/BJlGZRsy"]
+[White "farfalla"]
+[Black "Hossein1998h"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:23"]
+[WhiteElo "1446"]
+[BlackElo "1403"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+31"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack, Kiddie Countergambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Nf6 3. Qxe5+ Be7 4. Qg5 h6 5. Qxg7 d5 6. Qxh8+ Kd7 7. Qxh6 dxe4 8. Qh3+ Ke8 9. Qe3 Bd7 10. d3 exd3 11. Bxd3 Nc6 12. c3 Be6 13. Nf3 Bd5 14. O-O Bxf3 15. Qxf3 Ne5 16. Qxb7 Rb8 17. Qxa7 Ra8 18. Qb7 Nxd3 19. Qb5+ c6 20. Qxc6+ Nd7 21. Qe4 Nf6 22. Qe2 Qd5 23. Rd1 Rd8 24. a3 Rd6 25. b4 Qc4 26. Qc2 Ng4 27. Qa4+ Rc6 28. Qa8+ Bd8 29. a4 Qe6 30. Rxd3 Qe1# 0-1
+

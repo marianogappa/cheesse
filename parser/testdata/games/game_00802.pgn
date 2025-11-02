@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bU3U773d"]
+[White "luckyredhot"]
+[Black "serch7319"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:57"]
+[WhiteElo "1725"]
+[BlackElo "1688"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line, Mieses Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Bd2 c6 6. Nf3 Bg4 7. Ne4 Qf5 8. Nxf6+ exf6 9. Bd3 Qh5 10. Qe2+ Be7 11. O-O-O Be6 12. Rhe1 O-O 13. Kb1 Qd5 14. c4 Qh5 15. h3 Bd6 16. g4 Bxg4 17. hxg4 Qxg4 18. Rg1 Qd7 19. Rxg7+ Kxg7 20. Qe3 Qg4 21. Qh6+ Kg8 22. Qxh7# 1-0
+

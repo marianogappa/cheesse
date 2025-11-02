@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/sqW9vB9i"]
+[White "chesstir"]
+[Black "ikossai"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:54"]
+[WhiteElo "1735"]
+[BlackElo "1850"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted, King's Knight Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Bc5 4. d4 Bb4+ 5. c3 Ba5 6. Bc4 g5 7. Ne5 Qe7 8. Nxf7 b5 9. Bb3 Qxe4+ 10. Qe2 Qxe2+ 11. Kxe2 c6 12. Nxh8 d5 13. Kf3 Nf6 14. Re1+ Kf8 15. h4 g4+ 16. Kxf4 Bc7+ 17. Kg5 Ne4+ 18. Kh5 Kg7 19. Bc2 Ng3+ 20. Kg5 Bd8+ 21. Kf4 Nh5+ 22. Ke3 Kxh8 23. Kf2 Bxh4+ 24. Kf1 Bxe1 25. Kxe1 g3 26. Bh6 Bg4 27. Na3 Nd7 28. Kd2 Re8 29. Rf1 Re2+ 30. Kd3 Rf2 31. Ke3 Rxf1 0-1
+

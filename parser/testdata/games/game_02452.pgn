@@ -1,0 +1,19 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/WkU7HJG4"]
+[White "Aelent"]
+[Black "kalounardo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:18"]
+[WhiteElo "1526"]
+[BlackElo "2553"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[BlackTitle "FM"]
+[ECO "A41"]
+[Opening "Queen's Pawn"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d6 2. g3 g6 3. Bg2 Bg7 4. Nf3 c5 5. dxc5 Qa5+ 6. c3 Qxc5 7. Be3 Qc7 8. O-O Nf6 9. Nbd2 O-O 10. Ng5 Nc6 11. Qb3 Rb8 12. Bd5 e6 13. Bg2 Bd7 14. Nde4 Ng4 15. Bf4 e5 16. Bd2 h6 17. Nf3 Be6 18. Qc2 f5 19. h3 fxe4 20. hxg4 exf3 21. Bxf3 g5 22. Be4 Bxg4 23. Bh7+ Kh8 24. f3 Be6 25. Kg2 d5 26. Rh1 Qe7 27. f4 gxf4 28. gxf4 e4 29. f5 Kxh7 30. fxe6 Qxe6 31. Raf1 Qg4+ 32. Kh2 Be5+ 33. Bf4 Rxf4 34. Rxf4 Bxf4# 0-1
+

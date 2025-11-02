@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/IQbxNUaI"]
+[White "putman"]
+[Black "mrcyan"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:21"]
+[WhiteElo "1568"]
+[BlackElo "1510"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-9"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation #2"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. b3 e5 2. Bb2 d6 3. g3 Bg4 4. Bg2 Nc6 5. h3 Bh5 6. g4 Bg6 7. Nc3 Nge7 8. e4 f6 9. d3 Nd4 10. Qd2 Bf7 11. Nge2 g5 12. Nxd4 exd4 13. Ne2 c5 14. O-O-O Qb6 15. Ng3 Bh6 16. Nf5 Nxf5 17. exf5 O-O-O 18. Rhe1 Rde8 19. Rxe8+ Rxe8 20. Re1 Rxe1+ 21. Qxe1 Qb4 22. Qxb4 cxb4 23. a3 bxa3 24. Bxa3 Bf8 25. f3 h6 26. Bf1 Bd5 27. Be2 Be7 28. Kb2 Kc7 29. c3 Kc6 30. c4 Bf7 31. b4 d5 32. b5+ Kd7 33. Bxe7 Kxe7 34. c5 Kd7 35. Kb3 b6 36. c6+ Kc7 37. Kb4 a5+ 38. Ka4 Kd6 39. Bf1 Kc7 40. Bg2 Be8 41. Kb3 Bf7 42. Kc2 Be8 43. Kd2 Bf7 44. Ke2 Be8 45. Kf2 Bf7 46. Kg3 Be8 47. f4 Bf7 48. fxg5 Be8 49. h4 fxg5 50. hxg5 Bf7 51. g6 1-0
+

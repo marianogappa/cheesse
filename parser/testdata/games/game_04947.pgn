@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/jSEISyrB"]
+[White "dawnstar"]
+[Black "su2015"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:04"]
+[WhiteElo "1243"]
+[BlackElo "1839"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+1"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "900+10"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 e6 3. Nc3 a6 4. Nf3 b5 5. Bb3 c4 6. Bxc4 bxc4 7. d3 Qc7 8. dxc4 Qxc4 9. Bg5 Qxe4+ 10. Ne2 f6 11. O-O fxg5 12. Nxg5 Qg6 13. Ne4 Nf6 14. N4c3 Bb4 15. Qd4 Bb7 16. Qxb4 Qxg2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Hfl7OIZ2"]
+[White "adityarotti"]
+[Black "len17031959"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:55"]
+[WhiteElo "1849"]
+[BlackElo "1939"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. Nc3 f5 3. e4 fxe4 4. Nxe4 Nf6 5. Bd3 Be7 6. Nf3 O-O 7. Be3 Ng4 8. Bd2 d5 9. Nc3 Nd7 10. h3 Ngf6 11. Qe2 c5 12. Qxe6+ Kh8 13. O-O-O cxd4 14. Nxd5 Nc5 15. Qxe7 Nxd3+ 16. cxd3 Bf5 17. Qxd8 Rfxd8 18. Nxf6 gxf6 19. Bf4 Rac8+ 20. Kb1 Rc6 21. g4 Bg6 22. h4 h5 23. g5 fxg5 24. Bxg5 Rdc8 25. Ne5 Re6 1-0
+

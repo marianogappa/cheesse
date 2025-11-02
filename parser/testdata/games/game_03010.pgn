@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SaJB5CyR"]
+[White "kulasekhara"]
+[Black "Morcilla92"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:15"]
+[WhiteElo "1374"]
+[BlackElo "1628"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+29"]
+[ECO "C50"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bc4 Bc5 5. Ng5 O-O 6. Nd5 Nxe4 7. Nxe4 Qh4 8. Qf3 f5 9. Nxc5 Qxc4 10. Nxd7 Bxd7 11. Nxc7 Nd4 12. Qd3 Qxc7 13. c3 Nc6 14. O-O Rae8 15. b4 e4 16. Qd5+ Be6 17. Qc5 a6 18. a4 b6 19. Qe3 Bc4 20. Re1 f4 21. Qh3 Qf7 22. b5 axb5 23. axb5 Na5 24. Ba3 f3 25. Bxf8 Rxf8 26. Rxe4 fxg2 27. Qxg2 Bd5 28. Rae1 Bxe4 29. Rxe4 Qd5 30. c4 Qxd2 31. Rg4 Qd1+ 32. Qf1 Qxg4+ 33. Kh1 Qf3+ 34. Qg2 Qxg2+ 35. Kxg2 Nxc4 36. Kf1 Rf5 37. Ke2 Rxb5 38. Kd3 Rc5 39. Kd4 Rc8 40. Kd3 b5 41. Kc3 Rb8 42. Kb4 Ne5 43. Kb3 b4 44. f4 Nf3 45. h3 Kf7 46. f5 Kf6 47. Kc4 Kxf5 48. h4 Nxh4 49. Kb3 g5 50. Ka4 b3 51. Ka3 b2 52. Ka4 b1=Q 53. Ka3 Qa1# 0-1
+

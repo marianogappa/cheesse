@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/9rCGAWuv"]
+[White "yahase"]
+[Black "JesusGS"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:31"]
+[WhiteElo "1637"]
+[BlackElo "1618"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit, London Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ 5. c3 dxc3 6. O-O cxb2 7. Bxb2 f6 8. e5 b5 9. exf6 Nxf6 10. Bb3 d5 11. Qe2+ Be7 12. Bxf6 gxf6 13. Qxb5 Bd7 14. Qxd5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wadChsvu"]
+[White "leonidstein"]
+[Black "vectra"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:29"]
+[WhiteElo "1833"]
+[BlackElo "1815"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Accelerated Move Order"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 f5 5. Bf4 Nf6 6. e3 Bd6 7. Bg3 O-O 8. Bd3 Bc7 9. Qe2 Nbd7 10. Ne5 Ne4 11. Bxe4 fxe4 12. O-O-O Nxe5 13. Bxe5 Bxe5 14. dxe5 Qg5 15. cxd5 exd5 16. h4 Qxe5 17. h5 Qg5 18. Rdg1 Bg4 19. Qd2 Qf5 20. h6 g6 21. f3 exf3 22. gxf3 Qxf3 23. Rg2 Bh5 24. Rhg1 Rae8 25. Nd1 Qe4 26. Rg3 Bxd1 27. Rxd1 Rf3 28. Rxf3 Qxf3 29. Re1 Qh5 30. e4 Qe5 31. Qb4 b6 32. Qb3 c5 33. Qf3 dxe4 34. Qb3+ Kh8 35. Qf7 e3 36. Kc2 Qe7 37. Qc4 Qe4+ 38. Qxe4 Rxe4 39. Kd3 Re7 0-1
+

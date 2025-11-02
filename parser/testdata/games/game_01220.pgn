@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/q8Wzgsmf"]
+[White "heisatur"]
+[Black "MarcoHsv"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:34"]
+[WhiteElo "1156"]
+[BlackElo "1162"]
+[WhiteRatingDiff "-34"]
+[BlackRatingDiff "+11"]
+[ECO "B00"]
+[Opening "King's Pawn Game: Nimzowitsch Defense"]
+[TimeControl "360+2"]
+[Termination "Time forfeit"]
+
+1. e4 Nc6 2. d4 e6 3. d5 exd5 4. exd5 Qe7+ 5. Ne2 Ne5 6. f4 Ng6 7. g4 Qh4+ 8. Ng3 d6 9. Bd3 Bxg4 10. Be2 O-O-O 11. Bxg4+ Kb8 12. O-O N8e7 13. Re1 Nxd5 14. Nd2 Ndxf4 15. Nf3 Qf6 16. Re4 d5 17. Ra4 Bc5+ 18. Nd4 Rhe8 0-1
+

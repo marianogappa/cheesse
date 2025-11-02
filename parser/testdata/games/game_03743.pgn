@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/msaCVUY5"]
+[White "sawyas"]
+[Black "enki10"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:16"]
+[WhiteElo "1908"]
+[BlackElo "1987"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "B07"]
+[Opening "Czech Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. Nf3 Nxe4 6. Bd2 Nxd2 7. Qxd2 e6 8. Bd3 Be7 9. O-O Nd7 10. Rfe1 Nf6 11. Re2 O-O 12. Rae1 Qb6 13. Kh1 Qxb2 14. Rb1 Qa3 15. Rb3 Qa5 16. f5 Qd8 17. fxe6 Bxe6 18. Rxb7 Re8 19. Ng5 Bc8 20. Rb1 d5 21. Rbe1 h6 22. Nf3 Bb4 23. Rxe8+ Nxe8 24. a3 Ba5 25. Qe2 Be6 26. Qd2 Qd6 27. Ng1 Qxa3 28. Nge2 Bg4 29. Qf4 Bxe2 0-1
+

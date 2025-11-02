@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/GatMvMaI"]
+[White "kozakd8"]
+[Black "wernerbecker"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:23"]
+[WhiteElo "1700"]
+[BlackElo "1650"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+13"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Nimzowitsch System"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Bb5 a6 6. Ba4 b5 7. Bb3 c4 8. Bxc4 bxc4 9. c3 Nge7 10. Qa4 Bd7 11. Qc2 Nf5 12. O-O Rb8 13. Nbd2 g6 14. Nb1 Bh6 15. Bxh6 Nxh6 16. Qc1 Nf5 17. h3 f6 18. Re1 fxe5 19. Nxe5 Nxe5 20. Rxe5 O-O 21. Nd2 Nd6 22. Nf3 Nf7 23. Re3 Qb6 24. Rb1 Qd6 25. Qc2 Rbe8 26. b4 e5 27. Ra1 exd4 28. Nxd4 Rxe3 29. fxe3 Ne5 30. a4 Nd3 31. Rb1 Rf2 32. Qd1 Qg3 0-1
+

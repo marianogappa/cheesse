@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bRJno8Pc"]
+[White "SUPete"]
+[Black "alikalabdi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:16"]
+[WhiteElo "2046"]
+[BlackElo "2125"]
+[WhiteRatingDiff "-34"]
+[BlackRatingDiff "+10"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c3 g6 3. Nf3 Bg7 4. Bg5 d5 5. Nbd2 O-O 6. e4 Nxe4 7. Nxe4 dxe4 8. Ne5 Nd7 9. Ng4 Nb6 10. Nh6+ Kh8 11. h4 f6 12. Bf4 Nd5 13. Bc1 e3 14. Ng4 Bxg4 15. Qxg4 exf2+ 16. Kxf2 e5 17. Bc4 f5 18. Qd1 exd4 19. Bg5 Nf6 20. Kf3 b5 21. Bxf6 Bxf6 22. Be2 Bxh4 23. Qxd4+ Qxd4 24. cxd4 Bf6 25. Rad1 a6 26. b3 Rad8 27. d5 Rfe8 28. Rc1 Be5 29. Rhd1 Bd6 30. Rc6 Ra8 31. Rd4 Kg7 32. Rc1 Kf6 33. Rh4 h5 34. Rd4 Re5 35. Kf2 g5 36. Bxh5 g4 37. g3 Rh8 38. Bxg4 fxg4 39. Rxg4 Rh2+ 40. Kg1 Rxa2 41. Rf1+ Rf5 42. Rxf5+ Kxf5 43. Rg7 Rb2 44. g4+ Kf6 45. Rg8 Rxb3 46. Ra8 Ra3 47. Rg8 b4 48. Kf2 b3 49. Rh8 b2 50. Rb8 Be5 51. g5+ Kxg5 52. d6 cxd6 53. Rxb2 Bxb2 0-1
+

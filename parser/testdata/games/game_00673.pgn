@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/tvMWk1FA"]
+[White "ALO04"]
+[Black "ejsi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:29"]
+[WhiteElo "1624"]
+[BlackElo "1913"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d3 e6 2. e3 d5 3. Be2 Nf6 4. Bd2 c5 5. Nf3 Bd6 6. g3 Nc6 7. O-O O-O 8. Re1 Re8 9. Bf1 g6 10. Bg2 Bf8 11. Rf1 Bg7 12. Ne1 a6 13. g4 e5 14. g5 Nh5 15. Qe2 Qxg5 16. e4 Nf4 17. Bxf4 exf4 18. f3 Nd4 19. Qf2 Qh5 20. h3 Bf6 21. c3 Bh4 22. Qe2 Nxe2+ 23. Kh2 Ng3 24. Nc2 Nxf1+ 25. Bxf1 Bg3+ 26. Kg2 Bxh3+ 27. Kg1 Bxf1 28. Kxf1 Qxf3+ 29. Kg1 Qf2+ 30. Kh1 Qh2# 0-1
+

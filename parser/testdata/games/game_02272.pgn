@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/4WFGSYDX"]
+[White "scrauler"]
+[Black "KelvinCarlton"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:36"]
+[WhiteElo "1515"]
+[BlackElo "1704"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-16"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Urusov Gambit"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 Bb4+ 5. c3 Bc5 6. e5 Ne4 7. O-O dxc3 8. bxc3 O-O 9. Nbd2 Nxd2 10. Bxd2 d6 11. Qb3 dxe5 12. Bg5 Be7 13. Rad1 Qe8 14. Bxe7 Qxe7 15. Nxe5 Qxe5 16. Rfe1 Qc5 17. Re5 Qc6 18. Rd3 Qf6 19. Rf3 Qxe5 20. Bxf7+ Rxf7 21. Qxf7+ Kh8 22. Qf8# 1-0
+

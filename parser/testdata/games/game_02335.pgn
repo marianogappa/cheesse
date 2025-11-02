@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/SrLI5C0U"]
+[White "khenry"]
+[Black "peggiodimenessuno"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:53"]
+[WhiteElo "1708"]
+[BlackElo "1691"]
+[WhiteRatingDiff "-21"]
+[BlackRatingDiff "+11"]
+[ECO "D21"]
+[Opening "Queen's Gambit Accepted: Normal Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nc6 4. e4 Bg4 5. Be2 Bxf3 6. Bxf3 Nxd4 7. Qa4+ c6 8. Qxc4 e6 9. Nc3 Nc2+ 10. Kf1 Nxa1 11. Bf4 Nf6 12. g3 Nc2 13. a3 Be7 14. Kg2 O-O 15. e5 Nd5 16. Nxd5 cxd5 17. Qxc2 Rc8 18. Qd3 Qb6 19. b4 Qa6 20. Qb3 Qc4 21. Qb2 f6 22. Be2 Qc2 23. Qxc2 Rxc2 24. Bd3 Ra2 25. Rc1 fxe5 0-1
+

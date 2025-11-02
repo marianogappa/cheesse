@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/khC7yrIB"]
+[White "HardWoodPusher"]
+[Black "Nkko"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:39"]
+[WhiteElo "1895"]
+[BlackElo "1930"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+10"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.2] } 1... b6 { [%eval 0.45] } 2. Nc3 { [%eval 0.33] } 2... Bb7 { [%eval 0.32] } 3. d4 { [%eval 0.35] } 3... e6 { [%eval 0.35] } 4. Nf3 { [%eval 0.16] } 4... d5?! { [%eval 1.07] } 5. Bd3?! { [%eval 0.45] } 5... dxe4 { [%eval 0.48] } 6. Bxe4 { [%eval 0.46] } 6... Bxe4 { [%eval 0.52] } 7. Nxe4 { [%eval 0.45] } 7... Nf6 { [%eval 0.47] } 8. Neg5? { [%eval -0.62] } 8... h6 { [%eval -0.59] } 9. Nh3 { [%eval -0.55] } 9... Bb4+?! { [%eval 0.08] } 10. c3 { [%eval 0.03] } 10... Bd6 { [%eval -0.01] } 11. O-O { [%eval 0.0] } 11... O-O { [%eval 0.09] } 12. Be3 { [%eval -0.14] } 12... c5 { [%eval -0.02] } 13. dxc5 { [%eval -0.17] } 13... Bxc5 { [%eval -0.03] } 14. Bxc5 { [%eval 0.0] } 14... bxc5 { [%eval 0.1] } 15. Qxd8 { [%eval -0.18] } 15... Rxd8 { [%eval -0.07] } 16. Rad1 { [%eval -0.53] } 16... Nc6 { [%eval -0.49] } 17. Nf4 { [%eval -0.68] } 17... Rab8 { [%eval -0.58] } 18. b3 { [%eval -0.55] } 18... e5 { [%eval -0.08] } 19. Ne2 { [%eval -0.55] } 19... e4?! { [%eval -0.02] } 20. Nd2 { [%eval -0.11] } 20... Re8 { [%eval 0.0] } 21. Ng3 { [%eval 0.0] } 21... e3 { [%eval 0.0] } 22. fxe3 { [%eval 0.01] } 22... Rxe3 { [%eval 0.1] } 23. Rc1 { [%eval -0.04] } 23... Rd8 { [%eval 0.0] } 24. Kf2?? { [%eval -5.07] } 24... Rxc3?? { [%eval 0.84] } 25. Rxc3 { [%eval 0.88] } 25... Rxd2+ { [%eval 0.83] } 26. Kf3? { [%eval -0.91] } 26... Rxa2?! { [%eval -0.13] } 27. Rd1? { [%eval -1.53] } 27... Nd4+ { [%eval -1.46] } 28. Kf4?? { [%eval -7.78] } 28... Nh5+?? { [%eval 0.17] } 29. Ke5?! { [%eval -0.36] } 29... f6+?! { [%eval 0.34] } 30. Kd5 { [%eval 0.19] } 30... Nxg3?! { [%eval 0.86] } 31. hxg3 { [%eval 0.74] } 31... Ra5? { [%eval 2.47] } 0-1
+

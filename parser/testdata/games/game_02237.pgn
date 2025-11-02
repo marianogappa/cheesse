@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ckv1A2cy"]
+[White "AlaEldin"]
+[Black "sauvignon"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:21"]
+[WhiteElo "2056"]
+[BlackElo "1979"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "A58"]
+[Opening "Benko Gambit: Zaitsev System"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 c5 2. d5 Nf6 3. c4 b5 4. cxb5 a6 5. Nc3 d6 6. e4 g6 7. Nf3 Bg7 8. Nd2 O-O 9. Be2 axb5 10. Bxb5 Ba6 11. O-O Bxb5 12. Nxb5 Nbd7 13. a4 Ne8 14. Rb1 Nc7 15. Nxc7 Qxc7 16. Nc4 Nb6 17. b3 Rfb8 18. Nxb6 Qxb6 19. Be3 Qb4 20. Qc2 Ra7 21. Qc4 Rab7 22. Qc2 c4 23. Rfc1 cxb3 24. Qc6 b2 25. Rc4 Qa3 26. Qc8+ Bf8 27. Qc6 Qa1 28. Rcc1 bxc1=Q+ 29. Rxc1 Rb1 30. g3 Rxc1+ 31. Bxc1 Rb1 32. Kg2 Rxc1 33. Qe8 Rg1+ 34. Kh3 Qf1+ 35. Kh4 Rh1 36. Kg4 h5+ 37. Kf3 Qd1+ 0-1
+

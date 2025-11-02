@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nSQR1kPY"]
+[White "manchesstr"]
+[Black "Vladkuz45"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:31"]
+[WhiteElo "1800"]
+[BlackElo "1884"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. g3 d6 2. Bg2 e5 3. e3 f5 4. Ne2 Nf6 5. d4 c6 6. Nd2 e4 7. c4 Be6 8. Nf4 Bf7 9. h4 Be7 10. b3 Na6 11. a3 O-O 12. Bb2 Nc7 13. Bh3 g6 14. Nb1 Ne6 15. Nc3 Nxf4 16. exf4 a5 17. O-O a4 18. d5 axb3 19. Qxb3 cxd5 20. cxd5 Nd7 21. Rad1 Nc5 22. Qc4 Bf6 23. Rd2 Qa5 24. Rfd1 Rfc8 25. Qb5 Qxb5 26. Nxb5 Bxb2 27. Rxb2 Nd3 28. Rbd2 Bxd5 29. Rxd3 exd3 30. Nxd6 Rd8 31. Nb5 Bc6 32. Nc7 Rxa3 33. Ne6 Rd6 34. Ng5 d2 35. Bg2 Ba4 36. Bf3 Bxd1 37. Bxd1 Ra1 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/h1ZAjHRn"]
+[White "chess1981"]
+[Black "leonardo_loureiro"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:11"]
+[WhiteElo "1704"]
+[BlackElo "1589"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "A43"]
+[Opening "Old Benoni Defense: Mujannah Formation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 c5 2. d5 f5 3. c4 g6 4. Nc3 Bg7 5. h4 Nf6 6. Bg5 d6 7. Nf3 Nbd7 8. e3 Ne5 9. Nxe5 dxe5 10. f3 Nd7 11. h5 h6 12. Bh4 g5 13. Bf2 Nf6 14. Bd3 O-O 15. Qc2 Ne8 16. e4 f4 17. Bxc5 Nd6 18. Bxd6 exd6 19. b4 a5 20. Qb2 axb4 21. Qxb4 g4 22. Nb5 g3 23. Qxd6 Qa5+ 24. Ke2 b6 25. a3 Ba6 26. Qb4 Qxb4 27. axb4 Bxb5 28. cxb5 Rxa1 0-1
+

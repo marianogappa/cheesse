@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/sWQK9fFD"]
+[White "tttt1111"]
+[Black "maxtheskuxx"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:26"]
+[WhiteElo "1387"]
+[BlackElo "1386"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+10"]
+[ECO "C20"]
+[Opening "King's Pawn Opening: 2.b3"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. b3 d5 3. exd5 Qxd5 4. Nc3 Qd6 5. Bc4 Be6 6. Nb5 Qd7 7. Bxe6 Qxb5 8. c4 Qb6 9. Bxf7+ Kxf7 10. Bb2 Nc6 11. Nf3 Bd6 12. d4 exd4 13. Nxd4 Nxd4 14. Bxd4 Qb4+ 15. Kf1 Ne7 16. a3 Qa5 17. Qf3+ Kg8 18. Qxb7 Rc8 19. b4 Qh5 20. Re1 h6 21. Rxe7 Bxe7 22. Qxc8+ Kh7 23. Qxh8+ Kxh8 24. f3 a6 25. Ke2 c6 26. c5 Qe8 27. Kd3 Bg5 28. h4 Bc1 29. a4 Bf4 30. g4 Qb8 31. Bc3 Qd8+ 32. Kc2 Kh7 33. Rd1 Qxh4 34. Rd7 Qg5 35. Bxg7 Qxg7 36. Rxg7+ Kxg7 37. Kd3 Kg6 38. Ke4 Kg5 39. b5 cxb5 40. axb5 axb5 41. c6 b4 42. Kd3 Bd6 43. Kc4 Kf4 44. c7 Bxc7 45. Kxb4 Kxf3 46. Kc4 Kxg4 47. Kd3 h5 48. Ke2 Kg3 0-1
+

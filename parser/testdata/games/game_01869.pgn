@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/o9q2VYF4"]
+[White "Enuma_Elish"]
+[Black "paneof"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:59"]
+[WhiteElo "1831"]
+[BlackElo "1727"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "A41"]
+[Opening "Queen's Pawn"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. d4 d6 2. e3 e6 3. Nf3 Be7 4. Be2 Nf6 5. O-O Nfd7 6. c4 Bf6 7. b4 Be7 8. Bb2 Bf6 9. Nbd2 e5 10. dxe5 Nxe5 11. e4 Nxf3+ 12. Nxf3 Bxb2 13. Rb1 Bf6 14. Qb3 O-O 15. c5 dxc5 16. e5 Be7 17. Bc4 Nc6 18. b5 Na5 19. Qc2 Nxc4 20. Qxc4 Be6 21. Qc1 Bd5 22. Rb3 Bxb3 23. axb3 Qd5 24. g3 Qxf3 25. Qe3 Qxe3 26. fxe3 f6 27. e4 fxe5 28. Re1 Bf6 29. Kg2 c6 30. h4 cxb5 31. b4 b6 32. bxc5 bxc5 33. Rc1 c4 34. Rb1 a6 35. Ra1 h6 36. Rc1 Rfe8 37. g4 Red8 38. g5 hxg5 39. hxg5 Bxg5 40. Rf1 Bf6 41. Rf5 Rd4 42. Kg3 Rxe4 43. Rf3 Rf4 44. Re3 Bg5 0-1
+

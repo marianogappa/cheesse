@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/q916r4DO"]
+[White "shasad"]
+[Black "inteleckto"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:48"]
+[WhiteElo "1765"]
+[BlackElo "1969"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. b3 e6 2. Bb2 d5 3. g3 a5 4. Bg2 Bd7 5. e3 a4 6. bxa4 Bxa4 7. Nc3 Bd7 8. Qe2 h5 9. Nf3 h4 10. Nxh4 Rxh4 11. gxh4 Qxh4 12. Qf3 Nc6 13. e4 d4 14. Nb5 e5 15. Nxc7+ Kd8 16. Nxa8 Nf6 17. Nb6 Bc5 18. Nc4 b5 19. Na3 Nb4 20. O-O-O Nxa2+ 21. Kb1 Nb4 22. Qb3 Qxf2 23. Bf1 Nxe4 24. Bc1 Be6 25. Qb2 Qf3 26. Bxb5 Ba2+ 27. Ka1 Be6 28. Bc4 Qg4 29. Bxe6 Qxe6 30. Rhg1 g6 31. Rde1 Nd6 32. c3 Nd3 33. Qb8+ Nc8 34. Ref1 dxc3 35. Nb5 Qa6+ 36. Kb1 c2+ 37. Kxc2 Nb4+ 38. Kd1 Qc6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/YG9qhNv8"]
+[White "sl11235"]
+[Black "GeorgeWBush"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:16"]
+[WhiteElo "1944"]
+[BlackElo "2184"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "540+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 c5 3. c3 Bf5 4. Bb5+ Nc6 5. Ne2 e6 6. O-O Qb6 7. Ba4 Nh6 8. d4 cxd4 9. Nxd4 Bg6 10. Nd2 Bc5 11. N2f3 Nf5 12. Nxc6 bxc6 13. b4 Be7 14. Bg5 h6 15. Bxe7 Nxe7 16. Nh4 O-O 17. Nxg6 Nxg6 18. Qd3 Nxe5 19. Qg3 Nc4 20. Bc2 e5 21. Kh1 e4 22. Rae1 Rae8 23. f3 Ne3 24. Rxe3 Qxe3 25. fxe4 Qxg3 0-1
+

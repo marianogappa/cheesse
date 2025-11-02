@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/smdp13Pe"]
+[White "hichamsbitri"]
+[Black "KelvinCarlton"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:39"]
+[WhiteElo "1714"]
+[BlackElo "1723"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. Nf3 Bg7 3. Bc4 d6 4. Nc3 Nf6 5. Ng5 O-O 6. O-O e5 7. d3 Nbd7 8. Bd2 a6 9. f4 b5 10. Bb3 a5 11. Nxb5 Nc5 12. a4 Nxb3 13. cxb3 Bd7 14. Nc3 h6 15. fxe5 hxg5 16. exf6 Bxf6 17. Qf3 Bxc3 18. Bxc3 Qe7 19. Qh3 f5 20. Qh8+ Kf7 21. Qh7+ Ke8 22. Qxg6+ Qf7 23. Qxf7+ Rxf7 24. exf5 Re7 25. Rae1 Kd8 26. f6 Rxe1 27. Rxe1 Kc8 28. Re7 Kb7 29. Bd2 Rf8 30. Bxg5 Rxf6 31. Bxf6 Bf5 32. Be5 Bxd3 33. Bxd6 Kc6 34. Rxc7+ Kxd6 35. Ra7 Kd5 36. Rxa5+ Ke4 37. Rb5 Kd4 38. Rb4+ Kc5 39. Rc4+ Bxc4 40. bxc4 Kxc4 41. Kf2 Kb4 42. g3 Kxa4 43. h4 Kb3 44. h5 Kxb2 45. h6 Kb3 46. h7 Kb4 47. g4 Kb5 48. g5 Kb6 49. g6 Kb7 50. g7 Kb6 51. g8=Q Kc5 52. h8=Q Kb4 53. Qhh7 Kc5 54. Qe7+ Kc6 55. Qgd8 1-0
+

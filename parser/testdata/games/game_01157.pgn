@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eKJH1Fm7"]
+[White "shamsi"]
+[Black "cptreyfox"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:19"]
+[WhiteElo "2207"]
+[BlackElo "2083"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "C10"]
+[Opening "French Defense: Paulsen Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c6 4. Nf3 f5 5. e5 c5 6. Bb5+ Nc6 7. O-O Bd7 8. a3 a6 9. Bxc6 Bxc6 10. Re1 Ne7 11. h4 Ng6 12. Bg5 Be7 13. Qd2 Nxh4 14. Bxh4 Bxh4 15. dxc5 O-O 16. b4 f4 17. Ne2 Bg5 18. Ned4 Bd7 19. Qd3 Qe8 20. Nxg5 Qh5 21. Ngxe6 Bxe6 22. Nxe6 Rf5 23. Qxd5 Kh8 24. Qxb7 Rg8 25. Qf3 Qh6 26. Nd4 Rh5 27. g3 Rf8 28. e6 Re8 29. e7 g5 30. Nf5 g4 31. Qc3+ 1-0
+

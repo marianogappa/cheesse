@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/RyXlHido"]
+[White "vigilius"]
+[Black "chrisjb510"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:52"]
+[WhiteElo "1510"]
+[BlackElo "1463"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+12"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[TimeControl "1200+5"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. f4 Nf6 3. Nc3 d6 4. Nf3 Nc6 5. Be2 g6 6. O-O Bg7 7. h3 Nh5 8. d3 Nxf4 9. Bxf4 Bd4+ 10. Nxd4 Nxd4 11. e5 dxe5 12. Bxe5 f6 13. Bf4 h5 14. Rc1 e5 15. Bh2 f5 16. Bxe5 O-O 17. Bxh5 f4 18. Bxg6 Qg5 19. Qg4 Bxg4 0-1
+

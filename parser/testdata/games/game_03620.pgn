@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/g2OmtWRh"]
+[White "demidrez"]
+[Black "HubertNeutron"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:46"]
+[WhiteElo "1711"]
+[BlackElo "1572"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "C60"]
+[Opening "Ruy Lopez: Cozio Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. d4 exd4 5. Nxd4 a6 6. Ba4 b5 7. Nxc6 Nxc6 8. Bb3 Bc5 9. Qf3 O-O 10. e5 Nxe5 11. Qxa8 Nc6 12. O-O Qf6 13. Bd5 Qd6 14. Bxc6 dxc6 15. Nc3 b4 16. Ne4 Qd5 17. Nxc5 Qxc5 18. Be3 Qxc2 19. Rac1 Qxb2 20. Qxc6 Qxa2 21. Qxc7 b3 22. Qxc8 b2 23. Qc2 bxc1=Q 24. Rxc1 Qe6 25. Qb2 a5 26. h4 a4 27. h5 h6 28. Rc3 Ra8 29. Bd2 Qg4 30. Rg3 Qd1+ 31. Kh2 Qxh5+ 32. Kg1 Qd1+ 33. Kh2 Qh5+ 34. Rh3 Qc5 35. Bxh6 Qd6+ 36. Bf4 Qxf4+ 37. g3 Qd6 38. Qc2 Qg6 39. Qc4 Qf5 40. Qh4 a3 41. Qh8# 1-0
+

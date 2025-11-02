@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rfuCQA9x"]
+[White "daracreations"]
+[Black "adampekar"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:12"]
+[WhiteElo "1482"]
+[BlackElo "1690"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 d6 3. d3 Nc6 4. Qh5 g6 5. Qf3 Nf6 6. Bg5 Bg7 7. c3 O-O 8. h3 Na5 9. Nd2 Nxc4 10. Nxc4 b5 11. Na5 c5 12. Nc6 Qd7 13. Bxf6 Qxc6 14. Bxg7 Kxg7 15. Ne2 f5 16. g3 Bb7 17. h4 fxe4 18. Qxe4 Qb6 19. Qg4 Bxh1 20. O-O-O Bf3 21. Qd7+ Rf7 0-1
+

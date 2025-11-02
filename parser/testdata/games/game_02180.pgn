@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/LmKv6fCC"]
+[White "liakua"]
+[Black "sopernik"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:11"]
+[WhiteElo "1513"]
+[BlackElo "1609"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+8"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "600+5"]
+[Termination "Normal"]
+
+1. d4 d5 2. b3 a6 3. c4 dxc4 4. bxc4 e6 5. Bb2 Bb4+ 6. Bc3 Bxc3+ 7. Nxc3 Nc6 8. e3 Nf6 9. f3 O-O 10. d5 exd5 11. Nxd5 Be6 12. Nxf6+ Qxf6 13. Be2 Qc3+ 14. Kf2 Rad8 15. Qc1 Qd2 16. Qxd2 Rxd2 17. Kg3 Ne5 18. f4 Nxc4 19. Bxc4 Bxc4 20. Nf3 Re2 21. e4 Rxe4 22. Nd2 Re3+ 23. Kf2 Re2+ 24. Kf3 Rxd2 25. Rac1 Rd3+ 26. Kg4 Be6+ 27. f5 Rd4+ 28. Kg5 f6+ 29. Kh5 Bf7# 0-1
+

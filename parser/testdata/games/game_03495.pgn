@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gB9dBYqJ"]
+[White "cher2016"]
+[Black "Jon2020"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:13"]
+[WhiteElo "1624"]
+[BlackElo "1535"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 e6 3. c4 dxc4 4. Bxc4 Nf6 5. a3 Be7 6. Nc3 Bd7 7. Nf3 O-O 8. O-O a6 9. h3 b5 10. Bd3 Nc6 11. b4 Nd5 12. Bb2 Nxc3 13. Bxc3 f6 14. Rc1 Bd6 15. Qd2 e5 16. dxe5 Bxe5 17. Bxe5 fxe5 18. Be4 Rb8 19. Bxc6 Bxc6 20. Rxc6 Qxd2 21. Nxd2 Rfd8 22. Nf3 Rd3 23. Rxa6 e4 24. Nd4 Rc8 25. Rc1 g6 26. g3 Rd2 27. Rc2 Rd1+ 28. Kg2 Ra1 29. Ne6 Kf7 30. Rxc7+ Rxc7 31. Nxc7 g5 32. Nxb5 h5 33. Nc3 Rc1 34. Nxe4 g4 35. hxg4 hxg4 36. Nf6 Rc4 37. b5 Ke7 38. a4 Kd8 39. a5 Kc7 40. b6+ Kb7 41. Ra7+ Kc6 42. b7 Rb4 43. a6 Rb6 44. Ra8 Kc7 45. Nd5+ Kc6 46. Nxb6 Kxb6 47. b8=Q+ 1-0
+

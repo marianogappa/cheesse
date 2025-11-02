@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/f9ovh1JB"]
+[White "y_king"]
+[Black "SLiMMuX"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:29"]
+[WhiteElo "1322"]
+[BlackElo "1573"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[ECO "B52"]
+[Opening "Sicilian Defense: Canal Attack, Main Line"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. d3 e6 7. Bg5 Be7 8. Bxf6 Bxf6 9. c3 Qb6 10. d4 cxd4 11. Nxd4 O-O 12. Qd2 Rfd8 13. Na3 a6 14. Nc4 Qc7 15. a3 b5 16. Ne3 Nc5 17. b4 Nxe4 18. Qb2 Qxc3 19. Qxc3 Nxc3 20. Rac1 Rac8 21. Rc2 Bxd4 22. Rxc3 Rxc3 0-1
+

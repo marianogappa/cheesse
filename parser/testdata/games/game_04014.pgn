@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ePPWwHn4"]
+[White "xemiilio"]
+[Black "alvaroglm"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:16"]
+[WhiteElo "1174"]
+[BlackElo "1238"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-27"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 e6 4. Nc3 d5 5. exd5 exd5 6. Nxd5 Nf6 7. Nxf6+ Qxf6 8. d3 Qe7+ 9. Qe2 Nc6 10. Bg5 f6 11. Be3 Bd7 12. O-O O-O-O 13. Rfe1 Re8 14. Bxc5 Qxc5 15. Qxe8+ Bxe8 16. Rxe8+ Kd7 17. Rae1 Ne5 18. Nxe5+ fxe5 19. R8xe5 Qd6 20. Rd5 Qxd5 21. Bxd5 Bc5 22. Bxb7 Rb8 23. Bd5 Rxb2 24. c4 Rxa2 25. Kf1 Bxf2 26. c5 Bxe1 27. Bxa2 Bb4 28. d4 Kc6 29. Ke2 Kb5 30. Kd3 g5 31. Ke4 a5 32. Kd5 a4 33. c6 Kb6 34. Kc4 Ka5 35. c7 Kb6 36. c8=Q Ka7 37. d5 Be7 38. Qc6 Kb8 39. d6 Bd8 40. d7 a3 41. Kd5 h5 42. Ke6 Ka7 43. Kf7 g4 44. Ke8 Ba5 45. d8=Q Bxd8 46. Kxd8 g3 47. hxg3 Kb8 48. Qc7+ Ka8 49. Kc8 h4 50. Qb7# 1-0
+

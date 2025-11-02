@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DhxJRNcY"]
+[White "melquiades10"]
+[Black "DaMastaOfDisasta"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:47"]
+[WhiteElo "1798"]
+[BlackElo "1729"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C37"]
+[Opening "King's Gambit Accepted, King's Knight Gambit"]
+[TimeControl "240+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 d6 5. O-O h5 6. d4 g4 7. Ne1 Bh6 8. Bxf4 Bxf4 9. Rxf4 Be6 10. Bxe6 fxe6 11. c3 Qg5 12. Nd3 Ne7 13. Qb3 Nd7 14. Qxe6 O-O-O 15. Na3 Rde8 16. Qb3 Rhf8 17. Raf1 Rxf4 18. Rxf4 Ng6 19. Rf1 Qe3+ 20. Nf2 Nf4 21. Nc4 Qe2 22. Na5 b6 23. Nc6 Kb7 24. Na5+ Kb8 25. Nc6+ Kb7 26. Na5+ Kc8 27. Nc4 h4 28. Qd1 Qxc4 29. Nxg4 Nd3 30. Ne3 Rxe4 31. Nxc4 Nf4 32. Rxf4 Rxf4 33. Nxd6+ cxd6 34. b4 Rf8 35. a4 Kb7 36. b5 Re8 37. c4 Nb8 38. d5 Re7 39. h3 Nd7 40. Qb3 Nc5 41. Qb4 Re4 42. Qb1 Re3 43. Qh7+ 1-0
+

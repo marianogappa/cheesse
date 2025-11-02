@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wiqkexri"]
+[White "DennisMadrigal"]
+[Black "murateren"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:24"]
+[WhiteElo "2107"]
+[BlackElo "2112"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C55"]
+[Opening "Italian Game: Deutz Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d4 Bxd4 6. Nxd4 Nxd4 7. f4 exf4 8. Qxd4 1-0
+

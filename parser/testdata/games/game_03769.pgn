@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/trWg7lXz"]
+[White "Six_Feet_Under"]
+[Black "LossAccount"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:27"]
+[WhiteElo "1229"]
+[BlackElo "1255"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+10"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. f3 Nc6 3. c3 e6 4. e4 dxe4 5. fxe4 e5 6. g3 exd4 7. cxd4 Qxd4 8. Qxd4 Nxd4 9. Be3 Nc2+ 0-1
+

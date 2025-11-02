@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VtwLJT9B"]
+[White "hamiltoncr"]
+[Black "ribald"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:28"]
+[WhiteElo "2288"]
+[BlackElo "2088"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. g3 e5 2. Bg2 g6 3. Nf3 Bg7 4. d4 exd4 5. Nxd4 Ne7 6. O-O O-O 7. c4 Nbc6 8. e3 d6 9. Nc3 Bd7 10. b3 a6 11. Bb2 Nf5 12. Nd5 Re8 13. Re1 Ncxd4 14. exd4 Rxe1+ 15. Qxe1 Bxd4 16. Bxd4 Nxd4 17. Rd1 Nf5 18. Qc3 Bc6 19. Nf6+ Kf8 20. Nxh7+ Kg8 21. Nf6+ Kf8 22. Re1 Bxg2 23. Kxg2 Ng7 24. Ne8 f6 25. Nxf6 Kf7 26. Nd5 Ne6 27. Re3 Qg5 28. Rf3+ Kg8 29. h4 Qe5 30. Qd2 Kg7 31. Re3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/SshxyCt5"]
+[White "Puertoaguamar"]
+[Black "koko2"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:02"]
+[WhiteElo "2101"]
+[BlackElo "2200"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-13"]
+[ECO "A07"]
+[Opening "King's Indian Attack: Yugoslav Variation"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O Bg4 5. e3 Bd7 6. d4 e6 7. c4 Be7 8. cxd5 cxd5 9. Re1 O-O 10. Nc3 Nc6 11. e4 dxe4 12. Nxe4 Nxe4 13. Rxe4 Bf6 14. Re1 Ne7 15. Be3 Nd5 16. Bd2 Bc6 17. a3 Rc8 18. b4 a6 19. Rc1 Qd7 20. Ne5 Bxe5 21. dxe5 Qe7 22. Qb3 Rfd8 23. Red1 Qe8 24. Qb1 Ba4 25. Re1 Bc6 26. Red1 b5 27. Be3 Ba8 28. Bc5 Qd7 29. Qd3 Qc6 30. Qf1 Qb7 31. Re1 Qc6 32. Be4 Qe8 33. Bg2 g6 34. Be4 Bc6 35. Bg2 a5 36. bxa5 Ba8 37. Bb4 Rc4 38. Rxc4 bxc4 39. Qxc4 Rc8 40. Qf1 Bc6 41. Rc1 Bb7 42. Rxc8 Bxc8 43. Qe1 Bb7 44. Bxd5 Bxd5 45. Qe3 Qb5 46. f4 Qc4 47. Kf2 Qc2+ 48. Qe2 Qb3 49. Ke1 Qb1+ 50. Kd2 Qb3 51. Qd3 Qa2+ 52. Ke3 Qg2 53. Qe2 Qe4+ 54. Kd2 1-0
+

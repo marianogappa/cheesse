@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/WrSujjdc"]
+[White "steven123steven"]
+[Black "dbirzer"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:01"]
+[WhiteElo "1262"]
+[BlackElo "1396"]
+[WhiteRatingDiff "-22"]
+[BlackRatingDiff "+7"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Stonewall Attack"]
+[TimeControl "600+8"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. e3 d5 3. Bd3 c5 4. c3 c4 5. Bc2 Bg4 6. Qd2 Ne4 7. Bxe4 dxe4 8. Qc2 e6 9. f4 Bf5 10. Ne2 Qd5 11. Ng3 Be7 12. O-O O-O 13. Nd2 Bh4 14. Qa4 Bxg3 15. hxg3 b5 16. Qd1 Nc6 17. Qh5 b4 18. a3 bxc3 19. bxc3 Rab8 20. g4 Bg6 21. Qxd5 exd5 22. f5 Bxf5 23. gxf5 Ne7 24. a4 Nxf5 25. Rxf5 Rfd8 26. a5 g6 27. Rg5 h6 28. Re5 f6 29. Re7 Ra8 30. a6 h5 31. Ba3 g5 32. Bc5 Kf8 33. Rc7+ Kg8 34. Rb1 h4 35. Rbb7 g4 36. Bxa7 f5 37. Bb6 Rf8 38. a7 Kh8 39. Nb1 Rg8 40. Na3 h3 41. Kh2 f4 42. gxh3 g3+ 43. Kg2 f3+ 44. Kf1 g2+ 45. Kg1 f2+ 46. Kxf2 g1=Q+ 47. Ke2 Rg2# 0-1
+

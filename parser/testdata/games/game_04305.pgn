@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/kv05P14i"]
+[White "Dr_Fausto"]
+[Black "GustavoAPB"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:33"]
+[WhiteElo "1143"]
+[BlackElo "1317"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted, Schallopp Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. Bc4 Nxe4 5. O-O Bc5+ 6. d4 Bb6 7. Bxf4 O-O 8. Ng5 Nxg5 9. Bxg5 Qxg5 10. Rxf7 Rxf7 11. Bxf7+ Kxf7 12. Qf1+ Kg8 13. Nc3 Bxd4+ 14. Kh1 b6 15. Re1 Qg6 16. Re8+ Qxe8 17. Nd5 Bb7 18. c3 Bc5 19. b4 Bxd5 20. bxc5 Bxa2 21. c4 bxc5 22. g4 Nc6 23. Qf4 Ne5 24. Qf3 Nxf3 25. Kg2 Bxc4 26. Kxf3 Bd5+ 27. Kg3 Qe3+ 28. Kh4 Bf7 0-1
+

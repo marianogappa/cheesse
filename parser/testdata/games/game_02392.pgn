@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/YrMfWD0I"]
+[White "bratos55"]
+[Black "DrDat"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:06"]
+[WhiteElo "1377"]
+[BlackElo "1432"]
+[WhiteRatingDiff "-21"]
+[BlackRatingDiff "+9"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. e4 c6 3. Nf3 Qa5+ 4. Bd2 Qb6 5. Nc3 Qxb2 6. Na4 Qa3 7. c4 Bb4 8. Bxb4 Qxb4+ 9. Nd2 Qd6 10. Nf3 Qb4+ 11. Nd2 Qd6 12. Nf3 Qb4+ 13. Nd2 Qd6 14. c5 Qxd4 15. Nf3 Qxe4+ 16. Be2 Qb4+ 17. Nd2 Qa5 18. O-O b5 19. Nc3 Qxc3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/VshwsQTH"]
+[White "sergei-chss"]
+[Black "Chandra-PW"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:07"]
+[WhiteElo "2111"]
+[BlackElo "2326"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "A88"]
+[Opening "Dutch Defense: Leningrad Variation, Warsaw Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 f5 2. c4 g6 3. Nf3 Bg7 4. Nc3 Nf6 5. g3 O-O 6. Bg2 c6 7. O-O d6 8. Re1 Nbd7 9. e4 e5 10. dxe5 dxe5 11. exf5 gxf5 12. Nxe5 Nxe5 13. Rxe5 Ne4 14. Qxd8 Rxd8 15. Re7 Nxc3 16. bxc3 Rd1+ 17. Bf1 Bxc3 18. Rb1 f4 19. Kg2 Bf5 20. Be2 Re1 21. Rbxb7 Rxc1 22. Bh5 fxg3 23. Bf7+ Kh8 24. Be8 Bf6 25. Rf7 Rxe8 26. Rf8+ Rxf8 0-1
+

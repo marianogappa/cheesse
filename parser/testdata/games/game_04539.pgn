@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/S6aWFwPV"]
+[White "LordViper"]
+[Black "KarsenDeSekynt"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:23"]
+[WhiteElo "1200"]
+[BlackElo "1007"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-31"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Kennedy Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 Nc6 3. c3 d5 4. exd5 Qxd5 5. Na3 Nf6 6. Bc4 Qxg2 7. Qf3 Qg4 8. h3 Qh4 9. Ne2 g6 10. d5 e4 11. Qg3 Qh5 12. Nf4 Qe5 13. Bd2 Na5 14. b4 b5 15. Bxb5+ Bd7 16. Bxd7+ Kxd7 17. bxa5 Nxd5 18. Nxd5 Qxd5 19. Rd1 Qxa2 20. Bf4+ Kc6 21. Nc4 Rb8 22. Ne5+ Kb5 23. Nxf7 Qxa5 24. Nxh8 Ba3 25. Nf7 Bb2 26. Qe3 Bxc3+ 27. Qd2 Bxd2+ 28. Rxd2 Rf8 29. Be3 Rxf7 30. h4 h5 31. Rf1 c6 32. f4 c5 33. f5 c4 34. fxg6 Rxf1+ 35. Kxf1 c3 36. Rc2 Qa1+ 37. Bc1 Qa5 38. g7 Qd8 39. Rxc3 Qg8 40. Rb3+ Kc6 41. Rc3+ Kd5 42. Bh6 Qh7 43. Rc7 Qxh6 44. g8=Q+ Ke5 45. Qc4 e3 46. Rc5+ Kf6 47. Rc6+ Kg7 48. Rxh6 Kxh6 49. Qe4 Kg7 50. Qxe3 a6 51. Qc3+ Kg6 52. Qc5 Kf6 53. Qc6+ Kf5 54. Qxa6 Kg4 55. Qh6 Kxh4 56. Qf6+ Kg3 57. Qg6+ Kh3 58. Qxh5+ Kg3 59. Qg5+ Kf3 60. Qe5 Kg4 61. Qe4+ Kg5 62. Kf2 Kf6 63. Kf3 Kg7 64. Kf4 Kf6 65. Qe5+ Kf7 66. Kf5 Kf8 67. Kf6 Kg8 68. Qe8+ Kh7 69. Qg6+ Kh8 70. Qg7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ASfY1z7m"]
+[White "pljevlja2016"]
+[Black "Santiagovich"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:22"]
+[WhiteElo "1496"]
+[BlackElo "1590"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-13"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Indian Defense"]
+[TimeControl "300+8"]
+[Termination "Time forfeit"]
+
+1. g3 Nf6 2. b3 d5 3. Bb2 e6 4. Bg2 Nc6 5. e3 e5 6. Ne2 Bc5 7. d4 exd4 8. Bxd4 Bxd4 9. Nxd4 O-O 10. Nxc6 bxc6 11. O-O Bf5 12. Nc3 c5 13. Nxd5 1-0
+

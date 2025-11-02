@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/RREJenR4"]
+[White "chacal_la"]
+[Black "vinohradov"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:59"]
+[WhiteElo "1371"]
+[BlackElo "1383"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-18"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 Qf6 3. e5 Qf5 4. g4 Qf4 5. g5 Bc5 6. d4 Bxd4 7. Bxf4 Bxb2 8. Nbd2 Bxa1 9. Qxa1 f5 10. gxf6 gxf6 11. exf6 Nh6 12. Bxh6 Nc6 13. f7+ Kxf7 14. Qxh8 Ne7 15. Ne5# 1-0
+

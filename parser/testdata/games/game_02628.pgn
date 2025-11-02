@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Vq2v7U5Y"]
+[White "boedakgelo"]
+[Black "mossmohammadi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:57"]
+[WhiteElo "1722"]
+[BlackElo "1564"]
+[WhiteRatingDiff "-40"]
+[BlackRatingDiff "+16"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "1200+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Nf3 Nc6 3. Bf4 h6 4. h3 e6 5. e3 Bd6 6. Ne5 Nxe5 7. dxe5 Ne7 8. Nd2 a6 9. c3 Nf5 10. Bd3 Bc5 11. Qg4 g6 12. Qe2 Nh4 13. g3 Ng2+ 14. Kf1 Nxf4 15. gxf4 Qd7 0-1
+

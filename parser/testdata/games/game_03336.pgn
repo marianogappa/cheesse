@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/lnKPZKzQ"]
+[White "a-man"]
+[Black "olemartin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:43"]
+[WhiteElo "1274"]
+[BlackElo "1263"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. b4 Nf6 2. Bb2 e6 3. a3 Be7 4. e3 O-O 5. Nh3 c5 6. g4 cxb4 7. axb4 h6 8. g5 hxg5 9. Nxg5 Nh7 10. h4 Nc6 11. Nxh7 Kxh7 12. h5 Bg5 13. Bd3+ Kg8 14. h6 Bxh6 15. Qh5 Qg5 16. Qxg5 Bxg5 17. f4 Bh6 18. f5 exf5 19. Bxf5 Ne5 20. Nc3 Nc6 21. O-O-O d6 22. Rdg1 Bxf5 23. Nd5 Ne5 24. Ne7+ Kh7 25. Nxf5 Kh8 26. Nxh6 gxh6 27. Rxh6# 1-0
+

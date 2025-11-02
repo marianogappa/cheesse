@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kacth93O"]
+[White "adekability"]
+[Black "rubenlp78"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:25"]
+[WhiteElo "1218"]
+[BlackElo "1714"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+3"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 d6 5. Nxc6 bxc6 6. f4 Nf6 7. e5 Nd5 8. exd6 cxd6 9. g3 Bb7 10. c4 Nc7 11. Nc3 Be7 12. Be3 O-O 13. Qd3 c5 14. O-O-O Bxh1 15. Be2 Bb7 16. Bd2 Ne6 17. Bf3 Bxf3 18. Qxf3 Nd4 19. Qd3 Bf6 20. Nd5 Re8 21. Nxf6+ Qxf6 22. Re1 Rxe1+ 23. Bxe1 Re8 24. Bd2 Re2 25. Kd1 Rxh2 26. Qa3 Nf3 27. Qxa7 Rxd2+ 28. Kc1 Qxb2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Fo6YItgW"]
+[White "lgmeister89"]
+[Black "voromil"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:56"]
+[WhiteElo "1500"]
+[BlackElo "1633"]
+[WhiteRatingDiff "-120"]
+[BlackRatingDiff "+5"]
+[ECO "C44"]
+[Opening "King's Knight Opening: Normal Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bd3 Bc5 4. O-O d6 5. Re1 Bg4 6. h3 h5 7. hxg4 hxg4 8. Nh2 Qh4 9. Kf1 Qxf2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/UMM8x7OX"]
+[White "DimaLestal"]
+[Black "Andre69"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:15"]
+[WhiteElo "1601"]
+[BlackElo "1327"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "9000+15"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. e3 c6 3. Nc3 Qd6 4. e4 e6 5. e5 Qc7 6. Bg5 Qa5 7. Qd2 h6 8. Be3 Ne7 9. Nf3 Nd7 10. a3 b5 11. b4 Qd8 12. a4 a5 13. axb5 cxb5 14. Nxb5 Nc6 15. Nd6+ Bxd6 16. exd6 Nxb4 17. c3 Nc6 18. Bb5 Ncb8 19. Qe2 Ba6 20. O-O Bxb5 21. Qxb5 Ra6 22. Ne5 Rxd6 23. Rxa5 O-O 24. Nxd7 Rxd7 25. Rfa1 Qf6 26. Ra8 Rdd8 27. g3 Rc8 28. Bf4 Nc6 29. Rxc8 Rxc8 30. Qb7 Qd8 31. Ra6 Ne7 32. Rd6 Qc7 33. Qxc7 Rxc7 34. Rd8+ Kh7 35. Bxc7 f5 36. Re8 Ng6 37. Rxe6 Nf8 38. Rd6 g5 39. Rxd5 f4 40. gxf4 gxf4 41. Bxf4 Ng6 42. Bb8 Nh4 43. Rb5 Kg6 44. d5 h5 45. d6 Nf5 46. d7 Kg5 47. d8=Q+ 1-0
+

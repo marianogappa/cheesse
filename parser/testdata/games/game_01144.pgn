@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/eiVJnyqu"]
+[White "IVIED"]
+[Black "Sotkettu"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:15"]
+[WhiteElo "1517"]
+[BlackElo "1381"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Bf4 e6 3. Nc3 Bd6 4. Qd2 h6 5. Nb5 a6 6. Nxd6+ cxd6 7. Qb4 Ke7 8. Nf3 Nc6 9. Qa3 b5 10. Ne5 Nxe5 11. Bxe5 a5 12. b3 b4 13. Qb2 dxe5 14. dxe5 f6 15. e3 f5 16. Bd3 Ba6 17. Bxa6 Rxa6 18. O-O Kd7 19. Rfd1 Qg5 20. f4 Qe7 21. e4 fxe4 22. Qd4 Qd8 23. a3 Qb6 24. axb4 Qxd4+ 25. Rxd4 Ne7 26. Rxa5 Nc6 27. Rxa6 Nxd4 28. Ra7+ Kc6 29. b5+ Kb6 30. Ra1 Kxb5 31. Rd1 Nxc2 32. Rc1 1-0
+

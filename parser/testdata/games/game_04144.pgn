@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/xCuX7VKo"]
+[White "Leptiric"]
+[Black "TPaunov"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:47"]
+[WhiteElo "1704"]
+[BlackElo "1617"]
+[WhiteRatingDiff "-25"]
+[BlackRatingDiff "+13"]
+[ECO "B70"]
+[Opening "Sicilian Defense: Dragon Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. Nf3 O-O 8. O-O Nc6 9. h3 Bd7 10. Bg5 Rc8 11. a3 Qb6 12. b3 Na5 13. e5 dxe5 14. Nxe5 Be6 15. Bxe6 Qxe6 16. Re1 Rxc3 17. Nd7 Qxd7 18. Qxd7 Nxd7 19. Rad1 Nf6 20. Rxe7 Rxc2 21. b4 Nc4 22. Rc7 Nxa3 23. Rc1 Rxc1+ 24. Rxc1 Re8 25. Ra1 Nb5 26. Be3 a6 27. g3 Nd5 28. Bc5 Bxa1 0-1
+

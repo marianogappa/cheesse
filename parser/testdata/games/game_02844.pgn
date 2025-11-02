@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TcsOuoe1"]
+[White "ecrelinf"]
+[Black "azur0609"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:37"]
+[WhiteElo "2000"]
+[BlackElo "1752"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-6"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Accelerated Move Order"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. cxd5 exd5 5. Nf3 Nf6 6. Bg5 Bf5 7. e3 Bd6 8. Bd3 Bxd3 9. Qxd3 Nbd7 10. O-O h6 11. Bh4 g5 12. Bg3 Qc7 13. Bxd6 Qxd6 14. e4 dxe4 15. Nxe4 Nxe4 16. Qxe4+ Qe6 17. Rfe1 Ke7 18. Qxe6+ fxe6 19. Re4 Nf6 20. Re2 Kd6 21. Rae1 Rae8 22. Ne5 Kd5 23. f3 h5 24. Kf2 g4 25. h3 gxf3 26. Nxf3 Rhg8 27. Re5+ Kd6 28. Nd2 Nd5 29. Nc4+ Kd7 30. Rxh5 Ref8+ 31. Kg1 Nf4 32. Ne5+ Kc7 33. g4 Nxh5 34. Kh2 Nf6 35. Kg3 Kd6 36. b4 Kd5 37. a3 Ne4+ 38. Kg2 Kxd4 39. Nf3+ Kd5 40. Rd1+ Kc4 41. Rd4+ Kb3 42. Rxe4 Kxa3 43. Ne5 Rf6 44. Nd7 Rf7 45. Ne5 Rfg7 46. h4 Re7 47. g5 b6 48. g6 a5 49. h5 a4 50. Nc4+ Kxb4 51. Nxb6+ Kc5 52. Nd7+ Kd5 53. Re2 Rxd7 54. Rd2+ Kc4 55. Rxd7 a3 56. Ra7 Kb3 57. Rb7+ 1-0
+

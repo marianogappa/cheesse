@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kNMfaWd1"]
+[White "DetectiveChess"]
+[Black "HeyOmar"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:46"]
+[WhiteElo "1291"]
+[BlackElo "1150"]
+[WhiteRatingDiff "+45"]
+[BlackRatingDiff "-6"]
+[ECO "C50"]
+[Opening "Italian Game: Schilling-Kostic Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nd4 4. Nxd4 exd4 5. Qh5 Qe7 6. d3 c6 7. Bg5 g6 8. Bxe7 gxh5 9. Bxf8 Kxf8 10. Nd2 Nf6 11. e5 d5 12. exf6 dxc4 13. dxc4 c5 14. O-O-O Bg4 15. f3 Be6 16. Ne4 Bxc4 17. Nd6 b5 18. Rde1 Rd8 19. Nb7 Re8 20. Rxe8+ Kxe8 21. Nxc5 Bxa2 22. b3 b4 23. Kb2 Bxb3 24. Kxb3 Kd8 25. Kxb4 Kc7 26. Ra1 Kb6 27. Kc4 Rc8 28. Rb1+ Ka5 29. Kxd4 Rd8+ 30. Ke3 Rd5 31. Nb3+ Kb6 32. c4 Re5+ 33. Kf4 Rc5 34. Nd2+ Kc6 35. h3 a5 36. g4 Kd6 37. Ne4+ Kc6 38. Nxc5 Kxc5 39. Rb5+ Kxc4 40. Rxa5 Kd3 41. Rxh5 Kd4 42. Rxh7 Kd5 43. Rxf7 Ke6 44. Rf8 Kd6 45. g5 Kd7 46. h4 Ke6 47. h5 Kd7 48. h6 1-0
+

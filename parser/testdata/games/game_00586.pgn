@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lGwOJYC4"]
+[White "beratberat"]
+[Black "Hewkston"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:08"]
+[WhiteElo "967"]
+[BlackElo "1244"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+4"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation, Svenonius Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.17] } 1... d5 { [%eval 0.12] } 2. e3 { [%eval 0.25] } 2... e5?! { [%eval 0.82] } 3. Nc3? { [%eval -0.22] } 3... exd4 { [%eval 0.11] } 4. exd4 { [%eval 0.06] } 4... Nf6 { [%eval 0.08] } 5. Bg5 { [%eval -0.04] } 5... Qe7+ { [%eval 0.37] } 6. Nge2 { [%eval 0.22] } 6... g6?? { [%eval 4.63] } 7. f4?? { [%eval -0.5] } 7... h6?? { [%eval 4.5] } 8. Bh4?? { [%eval -0.31] } 8... Bg7? { [%eval 1.16] } 9. Qd3? { [%eval -0.65] } 9... Qd6?! { [%eval 0.33] } 10. O-O-O?! { [%eval -0.19] } 10... g5? { [%eval 1.92] } 11. Qe3+?! { [%eval 1.08] } 11... Be6 { [%eval 1.55] } 12. Bg3?! { [%eval 0.74] } 12... Ng4?? { [%eval 3.74] } 13. Qd3? { [%eval 0.87] } 13... h5? { [%eval 3.83] } 14. Qg6?? { [%eval -8.46] } 14... fxg6 { [%eval -8.22] } 15. f5 { [%eval -8.14] } 15... Bxf5?? { [%eval -4.17] } 16. Bxd6 { [%eval -4.21] } 16... Ne3? { [%eval -2.52] } 17. g4? { [%eval -3.85] } 17... Nxd1 { [%eval -3.71] } 18. Bh3?? { [%eval -10.04] } 18... Nf2?? { [%eval -6.5] } 19. Nxd5? { [%eval -8.37] } 19... Nxh1? { [%eval -6.81] } 20. Be7?? { [%eval -15.68] } 20... hxg4 { [%eval -15.35] } 21. c4 { [%eval -19.13] } 21... gxh3 { [%eval -17.03] } 22. b4 { [%eval -20.85] } 22... Be6 { [%eval -17.76] } 23. Nef4 { [%eval -25.06] } 23... Bxd5 { [%eval -18.85] } 24. Ne6 { [%eval -27.99] } 24... Bxd4 { [%eval -22.37] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/8cibgidV"]
+[White "Krowndsy"]
+[Black "leyensau"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:36"]
+[WhiteElo "2092"]
+[BlackElo "2196"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-15"]
+[ECO "D04"]
+[Opening "Queen's Pawn Game: Colle System"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. Nf3 Nf6 2. d4 d5 3. e3 c6 4. Be2 e6 5. O-O Ne4 6. c4 f5 7. Ne5 Bd6 8. f4 O-O 9. Nc3 Nxc3 10. bxc3 b6 11. g4 Bb7 12. cxd5 cxd5 13. gxf5 exf5 14. Bf3 Nd7 15. Qb3 Nf6 16. Bb2 Rc8 17. Kh1 Bxe5 18. fxe5 Ne4 19. Bxe4 fxe4 20. Ba3 Rxf1+ 21. Rxf1 Qe8 22. Rf8+ Qxf8 23. Bxf8 Rxf8 24. Qa3 Bc8 25. Qxa7 Be6 26. Qxb6 Bf7 27. a4 Bh5 28. Kg1 Bg4 29. a5 Bh3 30. Qb5 h6 31. Qxd5+ Kh8 32. Qc4 Kh7 33. a6 Kg6 34. a7 Kg5 35. e6 Kg4 36. Qe2+ Kg5 37. Qf2 Ra8 38. Qg3+ Bg4 39. h3 h5 40. hxg4 hxg4 41. Qf4+ Kh4 42. Qxe4 Rxa7 43. Qb1 Kg3 44. d5 g5 45. d6 Rh7 46. Qxh7 Kf3 47. Qf5+ Kg3 48. Qxg4+ Kxg4 49. e7 Kg3 50. e8=B g4 51. d7 Kf3 52. d8=Q g3 53. Bc6+ Ke2 54. Qb6 g2 55. Kxg2 Kd3 56. e4 Kc4 57. e5 Kd3 58. e6 Kc2 59. e7 Kxc3 60. e8=Q Kc4 61. Qe4+ Kc3 62. Qc5+ Kd2 63. Qcc2# 1-0
+

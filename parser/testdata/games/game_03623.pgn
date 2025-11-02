@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JhwzRO2R"]
+[White "jvera701"]
+[Black "trafico"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:50"]
+[WhiteElo "1306"]
+[BlackElo "1354"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+9"]
+[ECO "C16"]
+[Opening "French Defense: Winawer Variation, Advance Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Bxc3+ 5. bxc3 c5 6. Nf3 a6 7. Bd3 c4 8. Be2 b5 9. Rb1 Ne7 10. O-O O-O 11. Ba3 Bd7 12. Nd2 Nbc6 13. f4 Qa5 14. Bb4 Qb6 15. Qe1 a5 16. Bc5 Qb7 17. Qg3 b4 18. cxb4 axb4 19. Rb2 c3 0-1
+

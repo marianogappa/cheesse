@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3JSAT10Z"]
+[White "markoni99"]
+[Black "zaur11"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:23"]
+[WhiteElo "1316"]
+[BlackElo "1278"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-10"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[TimeControl "300+3"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.37] } 1... e5 { [%eval 0.31] } 2. Nf3 { [%eval 0.39] } 2... Bc5?! { [%eval 1.18] } 3. d4? { [%eval -0.12] } 3... exd4 { [%eval -0.06] } 4. Nxd4 { [%eval -0.22] } 4... h6?! { [%eval 0.43] } 5. Nc3 { [%eval 0.34] } 5... a6?! { [%eval 1.06] } 6. b3? { [%eval -0.21] } 6... d6?! { [%eval 0.35] } 7. Bb2 { [%eval 0.39] } 7... Nf6 { [%eval 0.21] } 8. Nd5 { [%eval -0.25] } 8... Nxd5 { [%eval -0.26] } 9. exd5 { [%eval -0.37] } 9... O-O { [%eval -0.23] } 10. Bd3 { [%eval -0.27] } 10... Qf6 { [%eval 0.16] } 11. Be4?? { [%eval -3.29] } 11... c6?? { [%eval 0.51] } 12. dxc6?? { [%eval -3.35] } 12... Nxc6?? { [%eval -0.29] } 13. c3?? { [%eval -4.65] } 13... Nb4?? { [%eval 2.79] } 14. O-O? { [%eval 0.18] } 14... Nc6? { [%eval 1.35] } 15. Bxc6? { [%eval 0.0] } 15... bxc6 { [%eval 0.0] } 16. Re1 { [%eval -0.31] } 16... Qg6? { [%eval 1.25] } 17. g3? { [%eval -0.35] } 17... Qg5?! { [%eval 0.45] } 18. Nxc6 { [%eval 0.47] } 18... Kh8?! { [%eval 1.04] } 19. b4 { [%eval 1.09] } 19... Bb6?! { [%eval 1.88] } 20. Bc1? { [%eval 0.25] } 20... Qf6?! { [%eval 0.79] } 21. Be3 { [%eval 0.66] } 21... Bxe3?! { [%eval 1.48] } 22. Rxe3 { [%eval 1.58] } 22... Bb7 { [%eval 1.81] } 23. Nd4 { [%eval 1.39] } 23... d5 { [%eval 1.88] } 24. Rc1 { [%eval 1.66] } 24... a5?! { [%eval 2.41] } 25. bxa5? { [%eval 1.07] } 25... Rxa5 { [%eval 0.95] } 26. c4? { [%eval -0.64] } 1-0
+

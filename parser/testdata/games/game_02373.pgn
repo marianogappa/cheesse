@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3886cAXQ"]
+[White "masajista"]
+[Black "Solrak2"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:01"]
+[WhiteElo "1386"]
+[BlackElo "1352"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 c5 3. f4 f6 4. Nf3 Bg4 5. Be2 Bxf3 6. Bxf3 fxe5 7. fxe5 g6 8. O-O Nc6 9. Re1 e6 10. c3 c4 11. b4 b5 12. Na3 a6 13. Nc2 a5 14. Nd4 Nxd4 15. cxd4 Qb6 16. Bb2 Bxb4 17. a3 Be7 18. d3 Nh6 19. Bc3 Nf5 20. dxc4 bxc4 21. Rb1 Qc7 22. a4 O-O 23. Bg4 Qc6 24. Rb5 Rab8 25. Rxa5 h5 26. Bxf5 exf5 27. Qc2 Rb3 28. Qd2 Bh4 29. Ra1 Rfb8 30. h3 Bg3 31. Rf1 Rb1 32. Qg5 Rxf1+ 33. Kxf1 Rb1+ 34. Ke2 Rb3 35. Qxg3 Kh7 36. Ra7+ Kh6 37. h4 Rxc3 38. Qg5# 1-0
+

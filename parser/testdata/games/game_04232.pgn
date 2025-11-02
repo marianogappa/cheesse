@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tghliBJL"]
+[White "KaBrOnKiNg"]
+[Black "BadAtBlitz"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:12"]
+[WhiteElo "1504"]
+[BlackElo "1689"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bf4 e6 5. Nf3 Nd7 6. Bd3 Bxd3 7. Qxd3 c5 8. c3 Ne7 9. O-O cxd4 10. Nxd4 Qb6 11. Re1 Qxb2 12. Nd2 Nc5 13. Qe2 Qxc3 14. N2f3 Ng6 15. Bg3 Be7 16. Rec1 Qa5 17. Rab1 O-O 18. Rb5 Qc7 19. Nb3 b6 20. Qe3 Qd7 21. Nfd4 Nxb3 22. Rxb3 Rac8 23. Rxc8 Rxc8 24. h3 Bc5 25. Qd3 Qa4 26. Rb2 Bxd4 27. Rc2 Rxc2 0-1
+

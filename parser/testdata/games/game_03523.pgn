@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/l0sDdssp"]
+[White "kingsharkjr"]
+[Black "AligiereTensa"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:24"]
+[WhiteElo "1205"]
+[BlackElo "1199"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+33"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.33] } 1... e5 { [%eval 0.27] } 2. Nf3 { [%eval 0.27] } 2... d6 { [%eval 0.34] } 3. Bc4 { [%eval 0.22] } 3... d5? { [%eval 1.3] } 4. exd5 { [%eval 1.19] } 4... Nd7 { [%eval 1.46] } 5. d6? { [%eval 0.11] } 5... Nc5?? { [%eval 3.37] } 6. d3? { [%eval 0.39] } 6... cxd6 { [%eval 0.64] } 7. Ng5?! { [%eval -0.04] } 7... Ne4?? { [%eval 6.95] } 8. Nxf7? { [%eval 4.87] } 8... Ng5?? { [%eval 15.22] } 9. Nxd8 { [%eval 15.57] } 9... Kxd8 { [%eval 15.41] } 10. Qf3?? { [%eval 1.02] } 10... Bg4?? { [%eval 26.6] } 11. Qf7?? { [%eval 1.4] } 11... Bf3?? { [%eval 27.01] } 12. Be6?? { [%eval 1.73] } 12... Nxe6?? { [%eval 14.4] } 13. Qxe6 { [%eval 11.0] } 13... Be7 { [%eval 15.45] } 14. Qf5? { [%eval 8.9] } 14... Nh6? { [%eval 14.58] } 15. Qxf3 { [%eval 14.46] } 15... Ng4 { [%eval 19.8] } 16. Qxg4 { [%eval 19.36] } 16... Bg5?! { [%eval #16] } 17. Bxg5+ { [%eval #16] } 17... Kc7 { [%eval 30.31] } 18. Qe6 { [%eval 24.24] } 18... Kc6 { [%eval 29.81] } 19. d4 { [%eval 25.54] } 19... Kb5?! { [%eval #5] } 20. Nc3+?! { [%eval #5] } 20... Kb4 { [%eval #2] } 21. Qb3+ { [%eval #1] } 21... Ka5 { [%eval #1] } 22. Qa4+?! { [%eval #1] } 22... Kb6 { [%eval #1] } 23. Nb5?! { [%eval 28.87] } 23... Kc6?! { [%eval #4] } 24. b4?! { [%eval 26.84] } 24... Kd7?! { [%eval #8] } 25. Qb3 { [%eval #8] } 25... Ke8 { [%eval #3] } 26. Qd5?! { [%eval #3] } 26... Kd7 { [%eval #2] } 27. Qe6+?! { [%eval 10.79] } 27... Kc6?! { [%eval #3] } 28. Qd7+?! { [%eval 11.19] } 28... Kxd7 { [%eval 10.91] } 0-1
+

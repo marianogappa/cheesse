@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Mrm9QJFJ"]
+[White "Esel23"]
+[Black "TheVoriz"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:59"]
+[WhiteElo "1130"]
+[BlackElo "1090"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+28"]
+[ECO "C20"]
+[Opening "King's Pawn Game"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. e4 e5 2. g4 Nc6 3. c4 Nf6 4. Bd3 Nb4 5. Qb3 Nxg4 6. a3 Nc6 7. Nf3 Qf6 8. O-O Qxf3 9. c5 Bxc5 10. Qd1 Bxf2+ 11. Rxf2 Qxf2+ 12. Kh1 Qxh2# 0-1
+

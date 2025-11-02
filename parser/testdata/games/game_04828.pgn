@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CP3cRLRp"]
+[White "basgitlan"]
+[Black "oceanthinking"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:38"]
+[WhiteElo "1517"]
+[BlackElo "1487"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "B44"]
+[Opening "Sicilian Defense: Paulsen Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nxc6 bxc6 6. Nc3 Qc7 7. Bd3 Nf6 8. Bg5 Be7 9. Qd2 Qb6 10. e5 Nd5 11. Nxd5 cxd5 12. Bxe7 Qxb2 13. O-O Kxe7 14. Qg5+ Ke8 15. Qxg7 Rf8 16. f4 Qd4+ 17. Kh1 h5 18. f5 Bb7 19. fxe6 dxe6 20. Bg6 1-0
+

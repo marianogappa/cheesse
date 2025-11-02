@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vVNrBvZr"]
+[White "cienki_bolek"]
+[Black "serhatb"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:43"]
+[WhiteElo "1559"]
+[BlackElo "1549"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "C61"]
+[Opening "Ruy Lopez: Bird Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O Qg5 6. Ba4 Bd6 7. d3 Qe5 8. g3 h5 9. Bb3 g5 10. Qf3 f6 11. Qf5 Qxf5 12. exf5 b6 13. Re1+ Ne7 14. c3 dxc3 15. Nxc3 Bb7 16. Nb5 Bc5 17. Nxc7+ Kd8 18. Nxa8 Bxa8 19. Be3 Bb4 20. Rf1 g4 21. a3 Bd6 22. Bf4 Bc5 23. Bc2 h4 24. b4 Bd4 25. Rac1 Nd5 26. Bb3 Nxf4 27. gxf4 g3 28. Rc4 gxh2+ 29. Kxh2 Bb2 30. a4 Rg8 31. a5 Rg2+ 32. Kh3 b5 33. Rc5 Bd4 34. Rxb5 Bxf2 35. Rb8+ Kc7 36. Rxa8 Rg3+ 37. Kh2 Be3 38. Bd5 Bd4 39. Be4 Re3 40. Rf3 Re2+ 41. Kh3 Rb2 42. Rxa7+ Kd6 43. Ra6+ Ke7 44. Kxh4 Rxb4 45. Ra8 Rb1 46. a6 Rh1+ 47. Kg4 Rg1+ 48. Rg3 Ra1 49. Bb7 Bf2 50. Rg2 Be3 51. Kf3 Bc5 52. Re2+ Kd6 53. Ke4 Ra4+ 54. Kf3 Ra3 55. Be4 Ra1 56. Rh8 Rf1+ 57. Rf2 Rxf2+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sD9HttBE"]
+[White "mvchess"]
+[Black "longboard"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:20"]
+[WhiteElo "1622"]
+[BlackElo "1600"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "A52"]
+[Opening "Budapest Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.17] } 1... Nf6 { [%eval 0.25] } 2. c4 { [%eval 0.15] } 2... e5 { [%eval 0.55] } 3. dxe5 { [%eval 0.35] } 3... Ng4 { [%eval 0.32] } 4. a3 { [%eval 0.09] } 4... Nxe5 { [%eval 0.14] } 5. e4 { [%eval 0.17] } 5... Nbc6 { [%eval 0.45] } 6. Nf3?! { [%eval -0.12] } 6... d6 { [%eval 0.08] } 7. Bf4 { [%eval -0.3] } 7... Bg4 { [%eval -0.07] } 8. Bg5?? { [%eval -4.01] } 8... f6?? { [%eval 0.08] } 9. Bf4 { [%eval -0.38] } 9... Nxf3+ { [%eval 0.0] } 10. gxf3 { [%eval -0.2] } 10... Bh5 { [%eval -0.04] } 11. h4?! { [%eval -0.56] } 11... Ne5?! { [%eval 0.19] } 12. Rh3?! { [%eval -0.43] } 12... Qd7 { [%eval -0.29] } 13. Nd2? { [%eval -1.37] } 13... O-O-O?! { [%eval -0.75] } 14. Rg3 { [%eval -0.7] } 14... Kb8 { [%eval -0.58] } 15. a4?! { [%eval -1.28] } 15... h6 { [%eval -1.09] } 16. a5 { [%eval -1.17] } 16... g5 { [%eval -0.97] } 17. Be3 { [%eval -1.08] } 17... gxh4 { [%eval -0.88] } 18. Rh3 { [%eval -0.69] } 18... Nd3+ { [%eval -0.24] } 19. Ke2 { [%eval -0.17] } 19... Ne5 { [%eval -0.18] } 20. Rxh4 { [%eval -0.09] } 20... Bg6?! { [%eval 0.45] } 21. a6 { [%eval 0.29] } 21... b6 { [%eval 0.44] } 22. Bh3?! { [%eval -0.48] } 22... f5 { [%eval -0.05] } 23. exf5?! { [%eval -0.56] } 23... Bxf5 { [%eval -0.6] } 24. Bxf5 { [%eval -0.4] } 24... Qxf5 { [%eval -0.38] } 25. b3?? { [%eval -4.15] } 25... Be7? { [%eval -1.36] } 26. Rf4? { [%eval -3.75] } 26... Qe6? { [%eval -1.1] } 27. Ne4? { [%eval -2.59] } 27... Bg5 { [%eval -2.74] } 28. Nxg5 { [%eval -2.76] } 28... hxg5 { [%eval -2.18] } 29. Re4 { [%eval -2.52] } 29... Rdf8? { [%eval -0.18] } 30. f4?? { [%eval -5.27] } 30... gxf4 { [%eval -4.85] } 0-1
+

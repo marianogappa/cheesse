@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/fYh3vYmL"]
+[White "Shuure"]
+[Black "augustojoel"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:25"]
+[WhiteElo "1351"]
+[BlackElo "1447"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "1200+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 Bf5 3. Na3 e6 4. h3 Bxa3 5. bxa3 Nc6 6. Rb1 b6 7. Rb3 Nf6 8. Ng5 O-O 9. h4 Bg4 10. f3 Bh5 11. Qd2 Qe7 12. Re3 Rae8 13. g4 Bg6 14. h5 Nxg4 15. fxg4 Qxg5 16. hxg6 Qxg6 17. Reh3 f6 18. Rxh7 Kf7 19. R1h6 Qxg4 20. Qd3 e5 21. Bh3 Qg1+ 22. Kd2 Qg5+ 23. e3 e4 24. Qf1 Na5 25. Bf5 Nc4+ 26. Kc3 Nxe3 27. Bxe3 Qxe3+ 28. Kb2 Qxd4+ 29. Kb1 Re5 30. Bg6+ Ke6 31. Rxg7 Kd6 32. Bxe4 Rxe4 33. Qf5 Re1# 0-1
+

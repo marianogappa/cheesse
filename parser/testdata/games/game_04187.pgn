@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ZI2olxt0"]
+[White "Flaccid"]
+[Black "balack"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:59"]
+[WhiteElo "2449"]
+[BlackElo "2230"]
+[WhiteRatingDiff "+21"]
+[BlackRatingDiff "-5"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[TimeControl "45+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 c5 3. d4 cxd4 4. Qxd4 Nc6 5. Qd1 Nf6 6. Nf3 d6 7. e5 dxe5 8. Qxd8+ Kxd8 9. Bg5 Bd6 10. O-O-O h6 11. Bh4 Ke7 12. Ne4 g5 13. Nfxg5 hxg5 14. Bxg5 Nd4 15. Bxf6+ Kd7 16. Bxh8 Kc6 17. c3 Nb5 18. Bxb5+ Kxb5 19. Nxd6+ Kc6 20. Nxf7 Bd7 21. Nxe5+ Kc7 22. Nxd7 1-0
+

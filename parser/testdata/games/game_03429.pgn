@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/XZNjQyH3"]
+[White "freya3"]
+[Black "abreulichess"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:02"]
+[WhiteElo "1301"]
+[BlackElo "1123"]
+[WhiteRatingDiff "-95"]
+[BlackRatingDiff "+16"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "1200+0"]
+[Termination "Normal"]
+
+1. e3 c5 2. Nf3 Nc6 3. Nc3 e6 4. Bb5 d5 5. O-O d4 6. exd4 cxd4 7. Ne4 f5 8. Neg5 Nf6 9. b3 Ne4 10. Bb2 Nxg5 11. Nxd4 Bc5 12. Nxc6 bxc6 13. Bxc6+ Bd7 14. Ba4 Bxa4 15. bxa4 O-O 16. Qh5 Ne4 17. d3 Nd2 18. Rfe1 Qb6 19. Qe2 Bb4 20. c3 Bc5 21. Rab1 Nxb1 22. Rxb1 Qd6 23. d4 Ba3 24. c4 Rab8 25. c5 Qd5 26. a5 Qxa2 27. Ra1 Qxb2 28. Qxe6+ Rf7 29. Re1 Qb1 30. Rxb1 Rxb1+ 31. Qe1 Rxe1# 0-1
+

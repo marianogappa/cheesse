@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/9naDLsbm"]
+[Site "https://lichess.org/PcxjRZge"]
+[White "brent96"]
+[Black "ANUCORSARIO"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:04"]
+[WhiteElo "1316"]
+[BlackElo "1718"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Nimzowitsch System"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 cxd4 5. Nxd4 Nc6 6. Be2 Nxd4 7. Qxd4 Qc7 8. Na3 Bc5 9. Nb5 Qb6 10. Qg4 Bxf2+ 11. Kf1 g6 12. Nd6+ Kf8 13. Nxf7 Kxf7 14. Qf4+ Ke8 15. Qxf2 Qxf2+ 16. Kxf2 Ne7 17. c4 Rf8+ 18. Kg3 Nf5+ 19. Kf2 Nd4+ 20. Ke3 Nc2+ 21. Kd3 Nxa1 22. Rf1 Rxf1 23. Bxf1 a6 24. b3 b5 25. Bb2 dxc4+ 26. bxc4 bxc4+ 27. Kxc4 Nc2 28. Bd3 Ne3+ 29. Kd4 Nxg2 30. Ba3 Nf4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/HXYPrWs1"]
+[White "plota"]
+[Black "romeonunu"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:58"]
+[WhiteElo "1720"]
+[BlackElo "1645"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "C50"]
+[Opening "Italian Game: Hungarian Defense"]
+[TimeControl "600+5"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. c3 Nf6 5. d3 O-O 6. O-O d6 7. a3 Bg4 8. Bb3 d5 9. Re1 d4 10. Bd2 dxc3 11. Bxc3 Bc5 12. Bc2 Bd4 13. h3 Bh5 14. b4 Bxc3 15. Nxc3 Nd4 16. Re3 Nxf3+ 17. Rxf3 Bxf3 18. Qxf3 Qd4 19. Rd1 Qxc3 20. Bb1 Qxa3 21. b5 a6 22. d4 Qxf3 23. gxf3 exd4 24. Rxd4 axb5 25. e5 Ra1 26. exf6 Rxb1+ 27. Kg2 g6 28. Rd7 Rc1 29. f4 b4 30. Rd4 b3 31. Rb4 Rc3 32. Rxb7 c5 33. Kf1 c4 34. Ke2 Rxh3 35. f3 Rh2+ 36. Ke3 Rb2 37. Kd4 Rc2 38. Ra7 b2 39. Rb7 c3 40. Kd3 Rc1 41. Rb3 b1=Q+ 42. Rxb1 Rxb1 43. Kxc3 Rf1 44. Kd3 Re8 0-1
+

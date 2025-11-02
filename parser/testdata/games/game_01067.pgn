@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Yn3PnGy4"]
+[White "riesgo27"]
+[Black "Sufi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:57"]
+[WhiteElo "1265"]
+[BlackElo "1375"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 d4 3. d3 Nc6 4. f4 Bf5 5. Nf3 h6 6. c3 Bg4 7. cxd4 Nxd4 8. h3 Bxf3 9. gxf3 Qd5 10. Qa4+ c6 11. Nc3 Nxf3+ 12. Kd1 Qd7 13. Be2 Nd4 14. Qa3 e6 15. Qa4 Nxe2 16. Kxe2 Bc5 17. Qb3 Ne7 18. Ne4 Bb6 19. Be3 Bxe3 20. Kxe3 Rb8 21. Nc5 Nd5+ 22. Ke4 Qe7 23. Rhg1 Qxc5 24. Rxg7 Rg8 25. Rxg8+ Qf8 26. Rxf8+ Kxf8 27. Qd1 Nxf4 28. Kxf4 Ke7 29. Qh5 Rg8 30. Qxh6 Rg6 31. Qh4+ Kf8 32. b4 1-0
+

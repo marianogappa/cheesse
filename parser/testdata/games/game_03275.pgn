@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Dnp8a25C"]
+[White "dobbo"]
+[Black "gerto4334"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:29"]
+[WhiteElo "1899"]
+[BlackElo "1777"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Nf6 5. Qe2 g6 6. c3 Bg7 7. d4 cxd4 8. cxd4 O-O 9. Bxc6 bxc6 10. e5 dxe5 11. dxe5 Nd5 12. Nbd2 Qc7 13. Re1 Bg4 14. h3 Nf4 15. Qe4 Bxf3 16. Nxf3 Nd5 17. h4 h5 18. e6 f5 19. Qc2 Rad8 20. Bg5 Bf6 21. Rad1 Bxg5 22. Nxg5 Rf6 23. Re5 Qxe5 24. Nf7 Rxf7 25. exf7+ Kxf7 26. Qxc6 Qd6 27. Qc4 e6 28. Qd4 Rd7 29. a3 Qb6 30. Qd2 Qb5 31. g3 Qc4 32. Kg2 Qe4+ 33. Kg1 Rc7 34. Qh6 Qe2 35. Qh7+ Kf6 36. Qh8+ Ke7 37. Qg7+ Kd6 38. Qf8+ Ke5 39. Rf1 Rc2 40. Qh8+ Kd6 41. Qf8+ Ne7 42. Qb8+ Rc7 43. Qb4+ Kd7 44. Qa4+ Kc8 45. Qb4 Qc4 46. Qd2 Rd7 47. Qg5 Kd8 48. Qh6 Qd4 49. Qg5 Qd3 50. Qc1 Qd2 51. Qc4 Qxb2 52. Qxe6 Qb6 53. Qe2 Qd6 54. Qf3 Qxa3 55. Qa8+ Nc8 56. Qf3 Qd6 57. Qg2 Nb6 58. Qf3 Qd5 59. Kg2 Qxf3+ 60. Kxf3 Rd3+ 61. Ke2 Rc3 62. Rb1 Rc4 63. Kd2 Kd7 64. Re1 Kc6 65. Ke3 Kc5 66. Rf1 Re4+ 67. Kd3 1-0
+

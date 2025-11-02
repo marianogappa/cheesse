@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6enXOCei"]
+[White "Rezik"]
+[Black "jujubaba"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:54"]
+[WhiteElo "1396"]
+[BlackElo "1265"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+16"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 h6 4. O-O g5 5. d4 g4 6. Ne1 h5 7. dxe5 h4 8. g3 hxg3 9. fxg3 Rh7 10. Nc3 Nd7 11. e6 fxe6 12. Bxe6 c6 13. Qxg4 Qb6+ 14. Kh1 Qa6 15. Rxf8+ Nxf8 16. Bxc8 Qf1# 0-1
+

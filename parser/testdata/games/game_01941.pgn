@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FEj1KHm7"]
+[White "Rananaeem"]
+[Black "ahk1997ahk"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:18"]
+[WhiteElo "1701"]
+[BlackElo "1713"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "180+5"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 Bd6 6. O-O O-O 7. h3 h6 8. Re1 Nbd7 9. Nbd2 c6 10. Nf1 Re8 11. Bd2 Nf8 12. Ng3 Bxg3 13. fxg3 Ne4 14. Bxe4 Rxe4 15. Ne5 Rxe1+ 16. Qxe1 Qf6 17. Bc3 Bf5 18. Qe2 Nd7 19. Rf1 Nxe5 20. dxe5 Qe6 21. g4 Be4 22. Bd4 a6 23. b3 Rc8 24. c4 dxc4 25. Qxe4 cxb3 26. axb3 Qxb3 27. e6 fxe6 28. Qe5 1-0
+

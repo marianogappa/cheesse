@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3QV691f6"]
+[White "bizixake"]
+[Black "LJB1976"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:15"]
+[WhiteElo "1017"]
+[BlackElo "1364"]
+[WhiteRatingDiff "-22"]
+[BlackRatingDiff "+3"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "900+10"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nc6 4. O-O Be6 5. b3 Qf6 6. d3 Bg4 7. Nbd2 Nd4 8. Nxd4 Bxd1 9. Rxd1 Nh6 10. f3 exd4 11. Re1 c6 12. a4 b5 13. axb5 d5 14. exd5+ Be7 15. bxc6 O-O-O 16. Rxa7 Bb4 17. Ba6+ Kb8 18. Rb7+ Ka8 19. Rc7 Ba5 20. Bb7+ Kb8 21. Rd7 Rxd7 22. cxd7 Kxb7 23. Nc4 Bxe1 24. Na5+ Ka6 25. Nc6 Ba5 26. Nb8+ Kb7 27. Nc6 Bd8 28. Nxd8+ Rxd8 29. b4 Qe5 30. c4 Qe1# 0-1
+

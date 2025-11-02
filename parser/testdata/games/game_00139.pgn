@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/H4dNXnrH"]
+[White "RicardoRojas2001"]
+[Black "ALO04"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:21"]
+[WhiteElo "1933"]
+[BlackElo "1628"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "B07"]
+[Opening "Pirc Defense #4"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nf3 e6 3. Nc3 Bd7 4. d4 Be7 5. d5 Nc6 6. dxc6 bxc6 7. Be3 e5 8. Bd3 c5 9. O-O Bc8 10. b4 Qd7 11. Bb5 c6 12. Ba4 Bb7 13. bxc5 dxc5 14. Qxd7+ Kxd7 15. Rab1 Kc7 16. Rfd1 Rb8 17. Nxe5 f6 18. Nf7 c4 19. Nxh8 Nh6 20. Nf7 Ng4 21. h3 Nxe3 22. fxe3 Rf8 23. e5 fxe5 24. Nxe5 Rf5 25. Rd7+ Kb8 26. Rbxb7+ Kc8 27. Nxc6 Bd6 28. Nxa7# 1-0
+

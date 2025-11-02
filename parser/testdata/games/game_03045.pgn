@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SyeUpiVF"]
+[White "Adelheidi"]
+[Black "lordo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:23"]
+[WhiteElo "1162"]
+[BlackElo "1037"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[TimeControl "300+2"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.22] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.21] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.0] } 3... f6? { [%eval 1.27] } 4. d5 { [%eval 1.11] } 4... Nce7 { [%eval 1.2] } 5. Bc4 { [%eval 1.0] } 5... c6 { [%eval 1.34] } 6. d6 { [%eval 1.16] } 6... Ng6 { [%eval 1.44] } 7. O-O { [%eval 1.0] } 7... b5 { [%eval 1.12] } 8. Bb3 { [%eval 1.04] } 8... Ba6?! { [%eval 1.6] } 9. c4? { [%eval -0.68] } 9... bxc4 { [%eval -0.66] } 10. Bxc4?? { [%eval -3.98] } 10... Bxc4 { [%eval -3.99] } 11. Nc3? { [%eval -5.71] } 11... Bxf1 { [%eval -5.7] } 12. Kxf1 { [%eval -5.71] } 12... Qb8 { [%eval -5.65] } 13. Na4 { [%eval -6.02] } 13... Qb5+ { [%eval -5.62] } 14. Kg1 { [%eval -5.6] } 14... Qb4 { [%eval -5.15] } 15. Nc3?! { [%eval -5.65] } 15... Qxd6 { [%eval -5.58] } 16. Qe2 { [%eval -5.58] } 16... a6 { [%eval -5.2] } 17. a4?! { [%eval -6.1] } 17... Nf4? { [%eval -4.93] } 18. Qe3? { [%eval -6.79] } 18... Qb4?! { [%eval -6.21] } 19. Nh4?! { [%eval -7.06] } 19... Bc5 { [%eval -6.97] } 20. Qf3 { [%eval -6.88] } 20... d6?! { [%eval -5.95] } 21. Nf5?! { [%eval -6.53] } 1-0
+

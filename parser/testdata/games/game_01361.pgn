@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/wOGIA0tx"]
+[White "kosticn"]
+[Black "akai2"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:08"]
+[WhiteElo "1406"]
+[BlackElo "1472"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-12"]
+[ECO "D06"]
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+[TimeControl "600+8"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 d5 3. Nc3 dxc4 4. e3 Bf5 5. Bxc4 e6 6. Nf3 Nc6 7. Bb5 Bb4 8. Ne5 O-O 9. Bxc6 bxc6 10. Nxc6 Qd6 11. Nxb4 Qxb4 12. O-O Rfd8 13. Re1 c5 14. Qb3 Rab8 15. Qxb4 cxb4 16. Na4 a5 17. b3 Nd5 18. e4 Bxe4 19. Rxe4 Nc3 20. Nxc3 bxc3 21. Bf4 Rb7 22. Rc1 Rbd7 23. g3 f5 24. Re3 Rc8 25. Rcxc3 Rxc3 26. Rxc3 Rxd4 27. Rc8+ Kf7 28. Rc7+ Kg6 29. Ra7 Rd5 30. Ra6 Kf7 31. a3 h6 32. b4 axb4 33. axb4 Rb5 34. Ra7+ Kf6 35. Ra4 g5 36. Bd2 h5 37. h4 gxh4 38. gxh4 Rd5 39. Bc3+ Kg6 40. Ra6 Kf7 41. Kg2 f4 42. Ra7+ Kg6 43. Rb7 e5 44. b5 e4 45. Re7 Kf5 46. b6 f3+ 47. Kh3 Rb5 48. Bd4 Rb1 49. b7 Rh1+ 50. Kg3 Rg1+ 51. Kh2 Rg2+ 52. Kh3 e3 53. Bxe3 1-0
+

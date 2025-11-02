@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VN9juo07"]
+[White "EdmondDantesque"]
+[Black "ayoubzarhloul"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:55"]
+[WhiteElo "1657"]
+[BlackElo "1569"]
+[WhiteRatingDiff "-149"]
+[BlackRatingDiff "+12"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 e6 3. Nf3 c5 4. e3 cxd4 5. Nxd4 Nc6 6. c3 Nf6 7. Bb5 Bd7 8. Qa4 Qc8 9. Nd2 Bc5 10. O-O a6 11. Bd3 Bxd4 12. cxd4 e5 13. dxe5 Nxe5 14. Qd4 Nxd3 15. Qxd3 Bb5 16. Qd4 Bxf1 17. Rc1 Bc4 18. Nxc4 dxc4 19. Rxc4 Qe6 20. Be5 O-O 21. f4 Rac8 22. Rxc8 Rxc8 23. f5 Qxf5 24. Bc7 Ne4 25. Bg3 Rc1+ 26. Qd1 Rxd1+ 27. Be1 Rxe1# 0-1
+

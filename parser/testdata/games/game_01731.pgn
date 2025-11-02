@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/oYJTjEnM"]
+[White "lexa1246"]
+[Black "Extermo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:33"]
+[WhiteElo "1567"]
+[BlackElo "1584"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bf4 d5 3. Nc3 Bf5 4. e3 e6 5. Bb5+ Nc6 6. Bxc6+ bxc6 7. Nf3 Bd6 8. Bg5 Rb8 9. Bxf6 Qxf6 10. Rb1 O-O 11. O-O Rfe8 12. Re1 Bg4 13. e4 dxe4 14. Nxe4 Bxf3 15. Qxf3 Qxf3 16. gxf3 e5 17. Nxd6 cxd6 18. dxe5 dxe5 19. Re3 Rbd8 20. Rbe1 f6 21. Kf1 Rd2 22. R1e2 Red8 23. Rxd2 Rxd2 24. Re2 Rd1+ 25. Re1 Rd2 26. Re2 Rd4 27. c3 Rc4 28. Rd2 a5 29. Rd3 a4 30. b3 axb3 31. axb3 Rc5 32. c4 Kf7 33. Ke2 Ke6 34. Re3 Ra5 35. f4 Ra2+ 36. Kf3 Kf5 37. fxe5 fxe5 38. Kg3 e4 39. f3 exf3 40. Rxf3+ Kg5 41. h4+ Kg6 42. Rd3 c5 43. Rd6+ Kf7 44. Kg4 Rg2+ 45. Kh3 Rb2 46. Rd3 Kf6 47. Kg4 g6 48. Rf3+ Ke5 49. Rd3 h5+ 50. Kg5 Rg2+ 51. Kh6 Rh2 52. Kxg6 Rxh4 53. Rd5+ Ke4 54. Rxc5 Kd4 55. Rxh5 Rxh5 56. Kxh5 Kc5 57. Kg4 Kb4 58. Kf4 Kxb3 59. c5 Kb4 60. c6 Kb5 61. c7 Kb6 62. c8=R Kb7 63. Rc1 Kb6 64. Ke4 Kb5 65. Kd4 Kb4 66. Rb1+ Ka5 67. Kc4 Ka4 68. Ra1# 1-0
+

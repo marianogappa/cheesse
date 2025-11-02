@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/2P0DOUZk"]
+[White "mert190706"]
+[Black "digidik"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:13"]
+[WhiteElo "1630"]
+[BlackElo "1637"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+10"]
+[ECO "C20"]
+[Opening "King's Pawn Opening: 2.b3"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. b3 Nc6 3. Bb2 Nf6 4. d3 Be7 5. Nf3 d6 6. Be2 h6 7. Nbd2 Be6 8. Nf1 Qd7 9. Ng3 Bg4 10. h3 Bxf3 11. Bxf3 O-O 12. Nf5 a5 13. g4 Bd8 14. Qd2 Kh7 15. g5 g6 16. Ng3 hxg5 17. Bg4 Nxg4 18. hxg4+ Kg7 19. O-O-O f6 20. Rh2 Be7 21. Rdh1 Rh8 22. Ne2 Rxh2 23. Rxh2 Rh8 24. Rxh8 Kxh8 25. Ng1 Qxg4 26. Qe1 Kg7 27. f3 Qg2 28. c3 b5 29. Kb1 Na7 30. d4 exd4 31. cxd4 b4 32. e5 Nc6 33. exf6+ Bxf6 34. d5 Ne5 35. Bxe5 Bxe5 36. Qc1 Kf6 37. Qc2 Qxg1+ 38. Qc1 Qd4 39. Kc2 Qc3+ 40. Kd1 Kf5 41. Qb1+ Kf4 42. Qe4+ Kg3 43. Qg4+ Kf2 44. f4 Qd3+ 45. Kc1 Qe3+ 46. Kb1 Qe1+ 47. Kc2 Qe4+ 48. Kd1 Qxf4 49. Qe2+ Kg3 50. Qe1+ Kg4 51. Qh1 Qd2+ 0-1
+

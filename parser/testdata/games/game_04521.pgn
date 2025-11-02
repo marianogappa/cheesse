@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/fgX0jrH7"]
+[White "ugulmezoglu"]
+[Black "mecitaydin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:18"]
+[WhiteElo "1757"]
+[BlackElo "1663"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "E00"]
+[Opening "Amar Opening"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. Nh3 { [%eval -0.34] } 1... e5 { [%eval -0.28] } 2. g3 { [%eval -0.76] } 2... d5 { [%eval -0.77] } 3. Bg2 { [%eval -0.87] } 3... Be6?! { [%eval 0.12] } 4. O-O?! { [%eval -0.83] } 4... Qd7? { [%eval 0.22] } 5. f3?? { [%eval -4.48] } 5... Bxh3 { [%eval -4.36] } 6. Bxh3 { [%eval -4.47] } 6... Qxh3 { [%eval -4.25] } 7. e3 { [%eval -4.62] } 7... h5 { [%eval -4.55] } 8. Qe2 { [%eval -4.65] } 8... h4 { [%eval -4.34] } 9. Qg2?! { [%eval -5.06] } 9... Qxg2+?! { [%eval -4.56] } 10. Kxg2 { [%eval -4.61] } 10... hxg3 { [%eval -4.52] } 11. Kxg3? { [%eval -5.65] } 11... Nc6 { [%eval -5.55] } 12. Kg2 { [%eval -5.72] } 12... Nf6 { [%eval -5.33] } 13. f4? { [%eval -7.16] } 13... exf4 { [%eval -7.1] } 14. exf4 { [%eval -7.29] } 14... Bd6 { [%eval -6.87] } 15. Re1+? { [%eval -8.32] } 15... Kd7 { [%eval -7.98] } 16. f5? { [%eval -28.57] } 16... Rxh2+ { [%eval -24.42] } 17. Kf3?! { [%eval #-3] } 17... Nd4+?! { [%eval #-4] } 18. Ke3 { [%eval #-4] } 18... Nxc2+ { [%eval #-3] } 19. Kd3 { [%eval #-3] } 19... Nxe1+ { [%eval #-2] } 20. Kc3 { [%eval #-2] } 20... Be5+?! { [%eval -19.92] } 21. d4 { [%eval -24.4] } 21... Bf4 { [%eval -13.62] } 22. Nd2?! { [%eval #-8] } 22... Bxd2+ { [%eval #-12] } 23. Bxd2 { [%eval -33.67] } 23... Nf3 { [%eval -16.77] } 24. Rd1?! { [%eval #-19] } 24... Nxd2 { [%eval -30.04] } 25. Rxd2?! { [%eval #-8] } 25... c6? { [%eval -7.91] } 26. Kc2? { [%eval -25.68] } 1-0
+

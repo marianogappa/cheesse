@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RRqNAEBF"]
+[White "chouvalbois"]
+[Black "avolt"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:25"]
+[WhiteElo "1325"]
+[BlackElo "1231"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Queen's Gambit Invitation"]
+[TimeControl "300+4"]
+[Termination "Normal"]
+
+1. Nf3 e6 2. d4 Be7 3. Ne5 Nf6 4. Nxf7 Kxf7 5. e3 Rf8 6. Be2 Kg8 7. a3 d6 8. c4 d5 9. O-O c6 10. Bd3 Bd6 11. c5 Be7 12. Nc3 Bd7 13. h3 b6 14. b4 bxc5 15. bxc5 e5 16. dxe5 Ne4 17. Nxe4 dxe4 18. Bxe4 Bxc5 19. Qc2 Bb6 20. Bxh7+ Kh8 21. Bg6 Bxh3 22. Qe4 Qg5 23. Rb1 Nd7 24. e6 Nc5 25. Qc2 Qxg2# 0-1
+

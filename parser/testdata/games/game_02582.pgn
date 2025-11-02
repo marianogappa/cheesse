@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xhZaZkLO"]
+[White "Alarch"]
+[Black "jansmil"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:47"]
+[WhiteElo "1629"]
+[BlackElo "1744"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+8"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Englund Gambit"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Nc3 Nxe5 5. Nxe5 Qxe5 6. Qd5 Bd6 7. Qxe5+ Bxe5 8. Nd5 c6 9. Nf4 d5 10. Nd3 Bf6 11. e3 Nh6 12. Be2 O-O 13. O-O Nf5 14. c3 Nd6 15. Nc5 b6 16. Nb3 Re8 17. Re1 a5 18. Nd4 c5 19. Nc2 Bf5 20. Na3 Rab8 21. Nb5 Nxb5 22. Bxb5 Re7 23. Rd1 Rd8 24. Bd3 Bxd3 25. Rxd3 d4 26. Kf1 Red7 27. exd4 cxd4 28. cxd4 Rxd4 29. Rxd4 Rxd4 30. Rb1 Rd1+ 31. Ke2 Rh1 32. h3 Bg5 33. Bxg5 Rxb1 34. a3 Rxb2+ 35. Kf1 f6 36. Bf4 b5 37. Bc7 a4 38. Bd6 Kf7 39. g3 Ke6 40. Bf8 g6 41. h4 Ra2 42. Ke1 Kd5 43. Be7 f5 44. Kf1 Kc4 45. Kg2 Kb3 46. Kf3 Rxa3 47. Bxa3 Kxa3 48. Kf4 Kb3 49. Kg5 a3 50. Kh6 a2 51. Kxh7 a1=Q 52. Kxg6 Qe5 53. h5 f4 54. gxf4 Qxf4 55. h6 Qg4+ 56. Kf7 Qh5+ 57. Kg7 Qg5+ 58. Kh7 Kc4 59. f3 b4 60. Kh8 Qxh6+ 61. Kg8 Kd5 62. Kf7 Qe6+ 63. Kg7 Ke5 64. Kh7 Kf6 65. Kh6 Qh3# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/W8bLamJ8"]
+[White "micor78"]
+[Black "alfiler8"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:02"]
+[WhiteElo "1583"]
+[BlackElo "1658"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-13"]
+[ECO "C62"]
+[Opening "Ruy Lopez: Steinitz Defense"]
+[TimeControl "780+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d3 a6 5. Ba4 b5 6. Bb3 Na5 7. c3 h6 8. Bc2 Bg4 9. O-O Qf6 10. Be3 Bxf3 11. gxf3 Ne7 12. b4 Nac6 13. a4 bxa4 14. Bxa4 g5 15. d4 exd4 16. Bxd4 1-0
+

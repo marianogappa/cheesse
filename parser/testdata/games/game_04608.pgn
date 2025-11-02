@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/cpq2kkfa"]
+[White "kingsharkjr"]
+[Black "AligiereTensa"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:41"]
+[WhiteElo "1184"]
+[BlackElo "1251"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+20"]
+[ECO "B02"]
+[Opening "Alekhine Defense: John Tracy Gambit"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. Nf3 Nxe4 3. Bc4 Nxf2 4. Ng5 Nxd1 5. Kxd1 f6 6. Nf7 g6 7. Nxd8 Kxd8 8. d4 d5 9. Bb3 c6 10. c3 Bg4+ 11. Ke1 Bh6 12. Bf4 Bxf4 13. Nd2 Bxd2+ 14. Kxd2 Na6 15. Rae1 Nc5 16. Re3 Nxb3+ 17. Kc2 Nxd4+ 18. Kb1 Nf5 19. Rhe1 Nxe3 20. Rxe3 Bf5+ 21. Rd3 Bg4 22. Rg3 Bf5+ 23. Rd3 Bxd3+ 24. Kc1 Be2 25. Kd2 Bf3 26. Ke3 Bg4 27. Kf4 Bh5 28. Kg3 f5 29. Kf2 g5 0-1
+

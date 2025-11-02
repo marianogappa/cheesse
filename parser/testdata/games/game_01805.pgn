@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Ab7DpbB5"]
+[White "sergei-chss"]
+[Black "gronemann"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:47"]
+[WhiteElo "2091"]
+[BlackElo "2002"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+11"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 c6 2. Nf3 d5 3. g3 Nf6 4. Bg2 Bg4 5. O-O Bxf3 6. Bxf3 e6 7. b3 Be7 8. Bb2 O-O 9. c4 Nbd7 10. Nc3 a5 11. Re1 Rc8 12. e4 dxe4 13. Nxe4 Nxe4 14. Bxe4 Nf6 15. Bf3 c5 16. Bxb7 Rb8 17. Bc6 a4 18. Bxa4 cxd4 19. Qxd4 Qxd4 20. Bxd4 Bb4 21. Red1 Ng4 22. h3 Nh6 23. Be5 Rbd8 24. a3 Be7 25. b4 Nf5 26. c5 f6 27. Bc7 Ra8 28. Bb3 Kf7 29. a4 Rfc8 30. Bd6 Bxd6 31. cxd6 Rc3 32. Rab1 Rxb3 33. Rxb3 Rxa4 34. b5 Nd4 35. Rbd3 e5 36. d7 Ke7 37. Rxd4 exd4 38. Rxd4 Rxd4 39. b6 Kxd7 40. Kg2 Rb4 41. Kf3 Rxb6 42. Kg2 Ke6 43. g4 Kf7 44. Kg3 Rb4 45. f3 g5 46. h4 gxh4+ 47. Kxh4 Kg6 48. f4 h5 49. f5+ Kh6 50. Kh3 Rxg4 51. Kh2 Kg5 52. Kh3 Kxf5 53. Kh2 Kg5 54. Kh3 f5 55. Kh2 Kf4 56. Kh3 Kf3 57. Kh2 Kf2 58. Kh1 f4 59. Kh2 Rh4# 0-1
+

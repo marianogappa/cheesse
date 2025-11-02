@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hVVopFNg"]
+[White "baroodi21"]
+[Black "wifiwifiwifi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:16"]
+[WhiteElo "1611"]
+[BlackElo "1612"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-12"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation"]
+[TimeControl "420+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Be7 4. Nc3 Nc6 5. Be3 a6 6. a3 Qb6 7. Qc1 h6 8. Be2 Nf6 9. Nd2 Nd4 10. Nc4 Qc7 11. Bxd4 cxd4 12. Nd1 b5 13. Nd2 Nh7 14. O-O Bg5 15. g3 h5 16. f4 Bh6 17. Nf3 f5 18. e5 Bb7 19. Nxd4 h4 20. Bf3 hxg3 21. hxg3 O-O 22. Bxb7 Qxb7 23. Qe3 Rac8 24. c3 Rc7 25. Qf3 Rfc8 26. Qxb7 Rxb7 27. Kg2 Nf8 28. Ne3 Ng6 29. Rad1 Ne7 30. Nf3 Kh7 31. d4 g6 32. Rh1 Kg7 33. Nc2 Nd5 34. Kf2 a5 35. Ne3 Ne7 36. Nd2 b4 37. axb4 axb4 38. c4 b3 39. Rc1 Rb4 40. Rc3 Rcb8 41. Ra1 Nc6 42. d5 Nd4 43. dxe6 dxe6 44. Ra7+ Kg8 45. Rd7 Nc2 46. Nxc2 bxc2 47. Rxc2 Rxb2 48. Rxb2 Rxb2 49. Ke3 g5 50. Rd6 gxf4+ 51. gxf4 Kf7 52. Rd7+ Ke8 53. Rd6 Ke7 54. c5 Bf8 55. c6 Rc2 56. Rd7+ Ke8 57. Rc7 Kd8 58. Rd7+ Kc8 59. Rd3 Rxc6 60. Nf3 Bc5+ 61. Ke2 Kc7 62. Ng5 Bb6 63. Nf7 1-0
+

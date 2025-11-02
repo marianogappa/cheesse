@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LunFwtrh"]
+[White "matayo"]
+[Black "jbpatzer"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:07"]
+[WhiteElo "1691"]
+[BlackElo "1930"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-18"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Scandinavian Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Ne4 4. Nxe4 dxe4 5. d4 exd3 6. Bxd3 Nc6 7. Nf3 Bg4 8. Qe2 Qd5 9. Be4 Qa5+ 10. Bd2 Qb6 11. b3 Nxe5 12. O-O O-O-O 13. Be3 Qf6 14. Qb5 Nxf3+ 15. gxf3 c6 16. Bxc6 Qxc6 17. Qxc6+ bxc6 18. fxg4 Kb7 19. Rad1 Rxd1 20. Rxd1 g6 21. Bd4 f6 22. f4 Bh6 23. g5 fxg5 24. Bxh8 1-0
+

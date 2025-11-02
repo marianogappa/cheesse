@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UKGxwQyS"]
+[White "Docdoc"]
+[Black "Leadboy"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:47"]
+[WhiteElo "1328"]
+[BlackElo "1332"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-10"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense #2"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Bd3 Nd7 4. Be3 e6 5. Nf3 g6 6. Nc3 f5 7. exf5 gxf5 8. a3 c5 9. dxc5 Bxc5 10. Bxc5 Nxc5 11. O-O Nf6 12. Re1 Bd7 13. Ne5 Rg8 14. Nxd7 Qxd7 15. Bb5 Qxb5 16. Nxb5 O-O-O 17. Rxe6 Nxe6 18. Nxa7+ Kb8 19. Nb5 Rg4 20. Nc3 Ne4 21. Nxe4 fxe4 22. Qxg4 Nd4 23. Rd1 Nxc2 24. Rd2 Rc8 25. h3 e3 26. fxe3 Nxe3 27. Qf4+ Ka8 28. Qxe3 Rc1+ 29. Kh2 Rc4 30. Rxd5 Rc6 31. Rd8+ Rc8 32. Rxc8# 1-0
+

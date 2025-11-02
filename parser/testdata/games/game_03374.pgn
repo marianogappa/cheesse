@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XFbDCFTF"]
+[White "DRANXZ88"]
+[Black "PeterWolf21"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:52"]
+[WhiteElo "1517"]
+[BlackElo "1624"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-14"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "180+6"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 h6 5. Nc3 Nf6 6. Bd3 Bd6 7. h3 O-O 8. O-O Re8 9. b3 c6 10. Bb2 Nbd7 11. Qd2 Qc7 12. Rfe1 Qb6 13. Na4 Qc7 14. c4 dxc4 15. bxc4 Bf4 16. Qc2 Nb6 17. Nc5 Nbd7 18. Nxd7 Bxd7 19. d5 cxd5 20. Bxf6 gxf6 21. cxd5 Qxc2 22. Bxc2 Rxe1+ 23. Rxe1 Rc8 24. Bb3 Bd6 25. Nd4 Kg7 26. g4 Kf8 27. f3 Bc5 28. Rd1 f5 29. Kg2 fxg4 30. hxg4 Bd6 31. Re1 a5 32. Rd1 a4 33. Bc2 Be5 34. Bf5 Bxd4 35. Bxd7 Rc2+ 36. Kf1 Bc5 37. Bxa4 Rxa2 38. Bd7 Rf2+ 39. Ke1 Rxf3 40. Rc1 Bd6 41. Rc8+ Ke7 42. Bf5 h5 43. Ke2 hxg4 44. Bxg4 Rg3 45. Bf3 Rg5 46. Ra8 Kd7 47. Ra7 Kc7 48. Ra4 Rf5 49. Rc4+ Kd7 50. Bg4 b5 51. Bxf5+ Ke7 52. Re4+ Kf6 53. Bd7 b4 54. Ba4 Kf5 55. Re8 f6 56. Kd3 Kg4 57. Rg8+ Kf5 58. Bc2 Ke5 59. Rg5+ Kf4 60. Rg8 Ke5 61. Kc4 Kf4 62. Re8 f5 63. Re6 Bc7 64. d6 Bb6 65. Kxb4 Kg4 66. d7 f4 67. Bd3 Bd8 68. Re8 Bc7 69. d8=Q Bxd8 70. Rxd8 f3 71. Rg8+ Kh3 72. Bf1+ Kh2 73. Kc4 f2 74. Kd3 Kh1 75. Ke2 Kh2 76. Kxf2 Kh1 77. Rh8# 1-0
+

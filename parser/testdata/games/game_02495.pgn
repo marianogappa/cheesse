@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/diVdjnhU"]
+[White "alessandrocarvalhaes"]
+[Black "SuperAjedrezman"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:32"]
+[WhiteElo "1797"]
+[BlackElo "1664"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. b4 e6 2. Bb2 Bxb4 3. Bxg7 Nc6 4. Bxh8 e5 5. Nf3 d6 6. e4 Bg4 7. Be2 Qg5 8. Nxg5 1-0
+

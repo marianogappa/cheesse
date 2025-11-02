@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lsMgT9DI"]
+[White "nero48"]
+[Black "gafilho"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:51"]
+[WhiteElo "1682"]
+[BlackElo "1735"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "A80"]
+[Opening "Dutch Defense"]
+[TimeControl "180+3"]
+[Termination "Normal"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 e6 4. Bg2 c6 5. O-O d5 6. b3 Bd6 7. Bb2 O-O 8. Nbd2 Bd7 9. c4 Be8 10. Ne5 Nbd7 11. Ndf3 Bh5 12. Nxd7 Nxd7 13. Ne5 Qc7 14. f4 Nxe5 15. fxe5 Be7 16. cxd5 cxd5 17. Rc1 Qa5 18. a4 Rac8 19. Qd3 Bg5 20. e3 Qb4 21. Ra1 Rf7 22. Ba3 Qb6 23. Bc5 Qa6 24. Qd2 b6 25. Ba3 Rfc7 26. Rfc1 Qe2 27. Qe1 Bxe3+ 28. Kh1 Bxc1 29. Qxe2 Bxe2 30. Bd6 Rc2 31. h4 Bb2 32. Re1 Bxd4 0-1
+

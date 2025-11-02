@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1gQhjv2w"]
+[White "omar1993j"]
+[Black "DMoney7"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:13"]
+[WhiteElo "1371"]
+[BlackElo "1537"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-16"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 Bg4 4. Bc4 a6 5. Nxe5 Bxd1 6. Bxf7+ Ke7 7. Nd5# 1-0
+

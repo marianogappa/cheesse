@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lpfRFJXC"]
+[White "redbatrecords"]
+[Black "chess3424"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:08"]
+[WhiteElo "1399"]
+[BlackElo "1351"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "C61"]
+[Opening "Ruy Lopez: Bird Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. Bc4 Nf6 6. e5 Ne4 7. Qf3 d5 8. Bd3 Ng5 9. Qg3 Be6 10. h4 Ne4 11. Bxe4 dxe4 12. O-O Qd5 13. c3 d3 14. a4 O-O-O 15. a5 f6 16. Ra4 f5 17. c4 Qd7 18. Nc3 c6 19. b3 h6 20. Ba3 g5 21. h5 f4 22. Qh2 Bg7 23. f3 e3 24. dxe3 Bxe5 25. e4 Bxc3 26. g4 Qd4+ 27. Kg2 d2 28. c5 d1=Q 29. Rxd4 Rxd4 30. Rxd1 Rxd1 31. b4 Rd2+ 32. Kh1 Rxh2+ 33. Kxh2 Bc4 34. Kg2 Rd8 35. Kf2 Rd2+ 36. Ke1 Ra2+ 37. Kd1 Rxa3 38. Kc2 Bxb4 39. Kb2 Rxa5 40. e5 Rxc5 41. e6 Re5 42. e7 Rxe7 43. Kc2 Re3 44. Kb2 Rxf3 45. Kc2 Rg3 46. Kb2 Rxg4 47. Kc2 f3 48. Kb2 f2 49. Kc2 f1=Q 50. Kb2 Qf2+ 51. Kb1 Rg1# 0-1
+

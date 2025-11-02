@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dMJTa1ZH"]
+[White "jogardenegras2"]
+[Black "buffyslayer1"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:41"]
+[WhiteElo "1993"]
+[BlackElo "1879"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+14"]
+[ECO "A48"]
+[Opening "London System"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. h3 O-O 5. e3 d6 6. Be2 Nbd7 7. O-O c5 8. c3 a6 9. a4 b6 10. Na3 Bb7 11. Bh2 Rc8 12. Rc1 Ne4 13. Nc4 b5 14. axb5 axb5 15. Na3 b4 16. cxb4 cxb4 17. Nc2 Qa5 18. Ra1 Qb6 19. Ra4 b3 20. Na3 Rc7 21. Nd2 Rfc8 22. Nxb3 Bd5 23. Ra6 Qxb3 24. Qxb3 Bxb3 25. f3 Nd2 26. Ra1 Nc4 27. Nb5 Rb7 28. Bxc4 Bxc4 29. R6a5 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/DyE35jzQ"]
+[White "svizzero"]
+[Black "lyndondjackson"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:35"]
+[WhiteElo "1293"]
+[BlackElo "1377"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+19"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.31] } 1... g6 { [%eval 0.6] } 2. d4 { [%eval 0.58] } 2... Bg7 { [%eval 0.67] } 3. e5?! { [%eval -0.32] } 3... d6 { [%eval -0.14] } 4. exd6 { [%eval -0.14] } 4... cxd6 { [%eval 0.13] } 5. f3?! { [%eval -0.7] } 5... Qa5+ { [%eval -0.29] } 6. Bd2 { [%eval -0.75] } 6... Qb6 { [%eval -0.71] } 7. b3?? { [%eval -4.85] } 7... Bxd4 { [%eval -4.36] } 8. c3? { [%eval -5.72] } 8... Bxg1? { [%eval -4.4] } 9. Bc4?? { [%eval #-1] } 9... Bf2+?? { [%eval -4.63] } 10. Kf1 { [%eval -4.87] } 10... Nf6 { [%eval -4.46] } 11. Bg5 { [%eval -4.77] } 11... O-O { [%eval -4.31] } 12. Qe2?! { [%eval -4.84] } 12... Bc5 { [%eval -4.63] } 13. b4 { [%eval -4.69] } 13... Bxb4 { [%eval -4.59] } 14. cxb4 { [%eval -4.59] } 14... Qxb4? { [%eval -2.99] } 15. Nd2 { [%eval -3.26] } 15... Nc6?! { [%eval -2.46] } 16. Kf2?! { [%eval -3.15] } 16... Qc5+ { [%eval -2.78] } 17. Be3 { [%eval -2.79] } 17... Nd4? { [%eval -1.57] } 18. Bxd4? { [%eval -3.3] } 18... Qxd4+ { [%eval -3.17] } 19. Qe3 { [%eval -3.24] } 19... Qxe3+ { [%eval -3.09] } 0-1
+

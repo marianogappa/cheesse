@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wm5Yqliz"]
+[White "LAlgaba"]
+[Black "tangien"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:54"]
+[WhiteElo "1628"]
+[BlackElo "1377"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-4"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 4. dxe5 Bxf3 5. gxf3 Nc6 6. Bb5 Be7 7. exd6 Bxd6 8. Bxc6+ bxc6 9. Be3 Ne7 10. Nd2 O-O 11. Qe2 Ng6 12. O-O-O Ne5 13. Nc4 Nxc4 14. Qxc4 c5 15. e5 Be7 16. Rxd8 Rc8 17. Rxc8 Rxc8 18. Bxc5 Bg5+ 19. f4 Bh4 20. e6 Bf6 21. exf7+ Kh8 22. f8=Q+ Rxf8 23. Bxf8 h6 24. Rg1 Kh7 25. Qf7 c5 26. Bxg7 Bxg7 27. Qxg7# 1-0
+

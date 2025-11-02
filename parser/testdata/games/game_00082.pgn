@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/6g5pcszf"]
+[White "yarbuom"]
+[Black "wmorenod"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:05"]
+[WhiteElo "1677"]
+[BlackElo "1743"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-13"]
+[ECO "C00"]
+[Opening "French Defense: Steinitz Attack"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. e5 b6 3. d4 Bb7 4. c4 Qh4 5. Nf3 Qe4+ 6. Be2 Bb4+ 7. Bd2 Nc6 8. a3 Bxd2+ 9. Qxd2 Nh6 10. Nc3 Qg6 11. O-O Nf5 12. d5 exd5 13. Nxd5 O-O-O 14. Nf4 Qg4 15. h3 Qg6 16. Nxg6 hxg6 17. b4 Nh4 18. Nxh4 Rxh4 19. Qg5 Re4 20. Bf3 Rxe5 21. Qf4 Rf5 22. Qd2 Rh8 23. Bg4 Rf6 24. Qxd7+ Kb8 25. Rae1 Rd6 26. Re8+ Rxe8 27. Qxe8+ Rd8 28. Qxf7 Ne5 29. Qxg7 Nxg4 30. hxg4 Be4 31. Re1 Bd3 32. Qf6 Rd6 33. Qf8+ Kb7 34. c5 bxc5 35. bxc5 Rc6 36. Qf3 Bb5 37. Rb1 a6 38. a4 Ka7 39. axb5 axb5 40. Qxc6 Kb8 41. Rxb5+ 1-0
+

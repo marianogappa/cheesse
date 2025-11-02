@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/7EZvWUYT"]
+[White "sexonac"]
+[Black "Baggo19"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:44"]
+[WhiteElo "1668"]
+[BlackElo "1551"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+15"]
+[ECO "C48"]
+[Opening "Four Knights Game: Spanish Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 d6 5. d4 exd4 6. Nxd4 Bd7 7. Bg5 Be7 8. Nxc6 Bxc6 9. Bxc6+ bxc6 10. Qd2 h6 11. Be3 Ng4 12. Bd4 Bf6 13. h3 Ne5 14. O-O-O O-O 15. Ne2 Qb8 16. Qc3 c5 17. Be3 a5 18. Bxh6 gxh6 19. Qg3+ Ng6 20. c3 Bg5+ 21. Kc2 Qb7 22. f4 Qxe4+ 23. Rd3 Qxe2+ 24. Kb1 Rab8 25. b3 Bf6 26. Re1 Qh5 27. c4 Qf5 28. Rf1 a4 29. Kc2 axb3+ 30. axb3 Ra8 31. Qg4 Ra2+ 32. Kb1 Rb2+ 33. Kc1 Qxd3 34. f5 Qc2# 0-1
+

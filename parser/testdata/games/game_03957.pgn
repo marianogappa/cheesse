@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/6mlnRq1q"]
+[White "Manczenko"]
+[Black "zxcvbn123456"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:02"]
+[WhiteElo "1609"]
+[BlackElo "1654"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "1800+0"]
+[Termination "Normal"]
+
+1. d4 h6 2. e4 g5 3. e5 e6 4. Nf3 c6 5. Nc3 a6 6. Bd3 d6 7. O-O d5 8. h3 b5 9. a3 Ne7 10. Nh2 Rg8 11. Ng4 Ng6 12. Nf6+ Ke7 13. Nxg8+ Kd7 14. Nf6+ Kc7 15. Bxg6 fxg6 16. f4 Bg7 17. fxg5 h5 18. Bd2 Kb7 19. a4 b4 20. Ne2 a5 21. c3 Na6 22. cxb4 axb4 23. Qb3 Qb6 24. Ne8 Bd7 25. Nd6+ Kc7 26. Rf7 Bf8 27. Rc1 c5 28. Nb5+ Kc6 29. Bxb4 c4 30. Bxf8 Be8 31. Rc7+ Qxc7 32. Nxc7 Nxc7 33. Qb4 Na6 34. Qd6+ Kb7 35. Qxe6 Bxa4 36. Qxd5+ Kb8 37. Bd6+ Nc7 38. Qg8+ Kb7 39. Qg7 Rc8 40. Rxc4 Bc6 41. Rb4+ Ka6 42. Bxc7 Rxc7 43. Qxc7 Bxg2 44. Qb6# 1-0
+

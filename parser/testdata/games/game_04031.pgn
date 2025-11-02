@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/uYqMppoZ"]
+[White "alfierearturo"]
+[Black "alan155"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:23"]
+[WhiteElo "1790"]
+[BlackElo "1717"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C21"]
+[Opening "Center Game: Kieseritzky Variation #3"]
+[TimeControl "600+4"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 c5 4. c3 dxc3 5. Bc4 h6 6. O-O Nc6 7. Nxc3 d6 8. Qb3 Qf6 9. Be3 Na5 10. Bb5+ Bd7 11. Bxd7+ Kxd7 12. Qb5+ Nc6 13. Qxb7+ 1-0
+

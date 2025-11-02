@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/xt4AYnvX"]
+[White "BusinessMan47"]
+[Black "NewFisher"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:06"]
+[WhiteElo "1172"]
+[BlackElo "1077"]
+[WhiteRatingDiff "-28"]
+[BlackRatingDiff "+15"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "1200+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. Qf3 e5 3. exd5 Bd6 4. Bc4 a5 5. d3 a4 6. Bb5+ Bd7 7. Nc3 Ra5 8. Bxd7+ Nxd7 9. Qe4 Nc5 10. Qb4 Nxd3+ 11. cxd3 Bxb4 12. Bd2 c5 13. Nf3 Bxc3 14. Bxc3 e4 15. Bxa5 Qxa5+ 16. b4 Qxb4+ 17. Nd2 exd3 18. Rb1 Qa3 19. Rxb7 Qc1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/J2Td5Xjs"]
+[White "Knight_of_la_mancha"]
+[Black "bernec"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:17"]
+[WhiteElo "1665"]
+[BlackElo "1461"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+17"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "120+6"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 d6 6. Nc3 Be7 7. Qxg7 Bf6 8. Qg3 Be6 9. Bd3 Qd7 10. Be3 b6 11. Qf3 Be5 12. O-O-O Bg4 13. Qg3 Bxg3 0-1
+

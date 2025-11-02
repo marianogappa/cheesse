@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/5htwCbqc"]
+[White "tigerpledd"]
+[Black "Nirgal"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:37"]
+[WhiteElo "1758"]
+[BlackElo "1693"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Grand Prix Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.41] } 1... c5 { [%eval 0.41] } 2. Nc3 { [%eval 0.34] } 2... Nc6 { [%eval 0.31] } 3. f4 { [%eval 0.03] } 3... e6 { [%eval -0.01] } 4. Nf3 { [%eval 0.06] } 4... Nge7 { [%eval 0.06] } 5. Bb5 { [%eval 0.07] } 5... a6 { [%eval 0.04] } 6. Bxc6 { [%eval 0.1] } 6... bxc6? { [%eval 1.19] } 7. O-O { [%eval 1.13] } 7... d5 { [%eval 1.16] } 8. d3 { [%eval 0.79] } 8... Bd7?! { [%eval 1.69] } 9. Na4 { [%eval 1.25] } 9... Ng6 { [%eval 1.27] } 10. Ne5 { [%eval 1.15] } 10... Nxe5 { [%eval 1.52] } 11. fxe5 { [%eval 1.49] } 11... Be7 { [%eval 1.94] } 12. Be3? { [%eval 0.83] } 12... d4 { [%eval 0.75] } 13. Bc1 { [%eval 0.5] } 13... O-O { [%eval 0.45] } 14. b3 { [%eval 0.69] } 14... Qc7 { [%eval 0.98] } 15. Bf4?! { [%eval 0.41] } 15... Qa5? { [%eval 1.47] } 16. Qg4 { [%eval 1.39] } 16... Rfe8? { [%eval 2.95] } 17. Rf3?! { [%eval 2.27] } 17... g6?! { [%eval 2.94] } 18. Rf2? { [%eval 1.58] } 18... Bf8? { [%eval 2.88] } 19. Qh4? { [%eval 1.87] } 19... Bg7?! { [%eval 2.73] } 20. Raf1 { [%eval 2.69] } 20... h5?? { [%eval 6.42] } 21. g4 { [%eval 5.37] } 21... hxg4? { [%eval 7.31] } 22. Qxg4?? { [%eval 3.08] } 22... Kf8?? { [%eval 21.89] } 23. Bg5 { [%eval 19.09] } 1-0
+

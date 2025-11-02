@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2z4Yx9PB"]
+[White "gianfast"]
+[Black "padrino1"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:44"]
+[WhiteElo "1378"]
+[BlackElo "1418"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 d4 3. Nf3 Nc6 4. Bb5 e6 5. Bxc6+ bxc6 6. b3 c5 7. Bb2 Bb7 8. c3 d3 9. O-O Ne7 10. Ne1 Nd5 11. Nxd3 Qg5 12. g3 f6 13. exf6 gxf6 14. Re1 e5 15. c4 Ne7 16. Nxe5 fxe5 17. Rxe5 Qf6 18. Qc2 Bg7 19. Na3 Kf7 20. Rae1 Nc6 21. Nb5 Nxe5 22. Bxe5 Qe7 23. Bxg7 Qxe1# 0-1
+

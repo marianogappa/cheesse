@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/meWfc1of"]
+[White "Francutio"]
+[Black "GodlikeMoves"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:04"]
+[WhiteElo "1399"]
+[BlackElo "1831"]
+[WhiteRatingDiff "+25"]
+[BlackRatingDiff "-23"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. d3 dxe4 3. dxe4 Qxd1+ 4. Kxd1 e5 5. c3 Nc6 6. Nf3 Bg4 7. Be2 O-O-O+ 8. Ke1 Nf6 9. Bg5 Be7 10. Bxf6 Bxf6 11. Na3 Rd7 12. Rd1 Rhd8 13. Rxd7 Rxd7 14. h3 Bxf3 15. Bxf3 a6 16. Ke2 b5 17. Rd1 Rxd1 18. Kxd1 Kb7 19. Nc2 Kb6 20. Ne3 Na5 21. Nd5+ Kb7 22. Nxf6 gxf6 23. Bh5 Kb6 24. Bxf7 Kc5 25. Bg8 h6 26. Bh7 Kc4 27. Kc2 c5 28. b3+ Nxb3 29. axb3# 1-0
+

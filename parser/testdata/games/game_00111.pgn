@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fUUmHAqR"]
+[White "CooolBlitz"]
+[Black "atdchess"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:14"]
+[WhiteElo "1928"]
+[BlackElo "2080"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+6"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation #2"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Nf6 3. Bb5+ Nbd7 4. Nf3 Nxd5 5. Ne5 c6 6. Nxc6 Qb6 7. Ne5 Qxb5 8. c4 Qa5 9. Nxd7 Bxd7 10. cxd5 Qxd5 11. O-O g6 12. Nc3 Qd6 13. d3 Bg7 14. Be3 O-O 15. Rc1 Bc6 16. Qe2 Rad8 17. Rfd1 Bd4 18. Bxd4 Qxd4 19. Ne4 Rfe8 20. Rc4 Qd5 21. Rcc1 Bb5 22. Ng3 Bxd3 23. Qd2 e5 24. b3 e4 25. Rc4 Bxc4 26. Qxd5 Bxd5 27. Nf1 Bxb3 28. Rxd8 Rxd8 29. Ne3 Bxa2 30. Kf1 f5 31. Ke1 f4 0-1
+

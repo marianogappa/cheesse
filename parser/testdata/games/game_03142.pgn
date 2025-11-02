@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hAbsaWv7"]
+[White "alfonzoalfonzo"]
+[Black "ruye"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:48"]
+[WhiteElo "1152"]
+[BlackElo "1157"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-31"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Qf6 3. f3 Nh6 4. d3 Bb4+ 5. c3 Ba5 6. Bxh6 O-O 7. Bg5 Qb6 8. b3 Nc6 9. Nd2 d6 10. a4 Bd7 11. O-O-O Rae8 12. g4 d5 13. exd5 Ne7 14. d4 exd4 15. Bd3 dxc3 16. Qxh7# 1-0
+

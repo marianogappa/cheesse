@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/COIiLtj3"]
+[White "ringhio"]
+[Black "santiagotocua"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:09"]
+[WhiteElo "1844"]
+[BlackElo "1931"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+10"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack, Anti-English"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8. Bh4 g5 9. Bg3 Bg7 10. Be2 Ne5 11. O-O h5 12. Bxh5 g4 13. Bxe5 Bxe5 14. f4 Bxd4+ 15. Qxd4 Rxh5 16. Nd5 Nc6 17. Qb6 Qxb6+ 18. Nxb6 Rb8 19. c3 Rb5 20. Nxc8 Rxc8 21. Rf2 d5 22. Re1 Rd8 23. exd5 Rdxd5 24. g3 Rd3 25. Kg2 Rbd5 26. Ree2 Rd1 27. h3 gxh3+ 28. Kxh3 Rh1+ 29. Kg4 f5+ 30. Kg5 Kf7 31. Rd2 Rxd2 32. Rxd2 Rg1 33. Kxf5 e6+ 34. Kg4 Kf6 35. Rd7 Ne7 36. Rxb7 Nf5 37. Kf3 Rxg3+ 38. Ke4 Re3# 0-1
+

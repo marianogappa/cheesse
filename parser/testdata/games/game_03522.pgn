@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Uf2F2mr8"]
+[White "Macewindo"]
+[Black "baseQ"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:20"]
+[WhiteElo "1853"]
+[BlackElo "1644"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-6"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Lean Variation, Colorado Counter Accepted"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.19] } 1... Nc6 { [%eval 0.36] } 2. Nf3 { [%eval 0.23] } 2... f5?! { [%eval 0.79] } 3. exf5 { [%eval 0.74] } 3... d5 { [%eval 0.83] } 4. d4 { [%eval 0.73] } 4... Bxf5 { [%eval 0.75] } 5. Bb5 { [%eval 0.63] } 5... Nf6 { [%eval 0.96] } 6. O-O { [%eval 0.75] } 6... Qd6 { [%eval 0.93] } 7. c3 { [%eval 0.7] } 7... O-O-O { [%eval 0.96] } 8. Qa4 { [%eval 0.98] } 8... a6 { [%eval 1.16] } 9. Bxc6 { [%eval 1.2] } 9... Qxc6 { [%eval 1.18] } 10. Qxc6 { [%eval 0.9] } 10... bxc6 { [%eval 0.97] } 11. Ne5 { [%eval 1.09] } 1-0
+

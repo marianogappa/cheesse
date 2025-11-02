@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ubkMiiDm"]
+[White "chessdant"]
+[Black "untaltal"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:00"]
+[WhiteElo "1500"]
+[BlackElo "1892"]
+[WhiteRatingDiff "+463"]
+[BlackRatingDiff "-13"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense #2"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.23] } 1... Nf6 { [%eval 0.27] } 2. c4 { [%eval 0.22] } 2... e6 { [%eval 0.29] } 3. Nc3 { [%eval 0.26] } 3... c5 { [%eval 0.72] } 4. Nf3?! { [%eval 0.11] } 4... cxd4 { [%eval 0.14] } 5. Nxd4 { [%eval 0.06] } 5... a6 { [%eval 0.25] } 6. e4 { [%eval 0.15] } 6... d6 { [%eval 0.6] } 7. Be2 { [%eval 0.54] } 7... Be7 { [%eval 0.6] } 8. O-O { [%eval 0.6] } 8... O-O { [%eval 0.62] } 9. Qc2 { [%eval 0.5] } 9... Nbd7 { [%eval 0.68] } 10. a3 { [%eval 0.54] } 10... Qc7 { [%eval 0.57] } 11. b4?! { [%eval -0.17] } 11... b6?! { [%eval 0.64] } 12. Bf3? { [%eval -0.81] } 12... Bb7 { [%eval -0.79] } 13. Re1?! { [%eval -1.46] } 13... Qxc4 { [%eval -1.06] } 14. Nb3?! { [%eval -1.93] } 14... Rac8 { [%eval -1.54] } 15. Bb2 { [%eval -1.97] } 15... Ne5 { [%eval -1.61] } 16. Nd2 { [%eval -1.85] } 16... Qc7 { [%eval -1.64] } 17. Bd1 { [%eval -1.84] } 17... b5 { [%eval -1.81] } 18. f3? { [%eval -3.36] } 18... Nc4? { [%eval -1.08] } 19. Nxc4 { [%eval -1.17] } 19... Qxc4 { [%eval -0.83] } 20. Rc1 { [%eval -1.19] } 20... d5? { [%eval -0.06] } 21. Be2? { [%eval -1.44] } 21... d4?? { [%eval 4.86] } 22. Bxc4 { [%eval 4.34] } 22... Rxc4?! { [%eval 5.12] } 23. Qd3?! { [%eval 4.58] } 23... dxc3 { [%eval 4.47] } 24. Rxc3 { [%eval 4.33] } 24... Rxc3 { [%eval 4.28] } 25. Bxc3 { [%eval 4.06] } 25... Rc8?? { [%eval 8.25] } 26. Bxf6 { [%eval 8.08] } 26... Bxf6?! { [%eval 8.81] } 27. e5? { [%eval 6.29] } 27... Be7?? { [%eval 10.41] } 28. Qd7 { [%eval 10.15] } 1-0
+

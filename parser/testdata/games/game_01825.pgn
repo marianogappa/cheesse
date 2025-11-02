@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rju4TPZR"]
+[White "alexamer"]
+[Black "Antontxu"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:53"]
+[WhiteElo "1290"]
+[BlackElo "1229"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+14"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 Be6 3. d4 Nc6 4. Be3 f6 5. exf6 Nxf6 6. Nc3 g6 7. Bd3 a5 8. Bb5 Bd7 9. Bf4 e6 10. Bxc7 Qxc7 11. Qf3 Bb4 12. Qxf6 Rf8 13. Qg5 Nxd4 14. Qh4 Nxc2+ 15. Kf1 Bxb5+ 16. Nxb5 Qc4+ 17. Ne2 Qxh4 18. Nc7+ Kd8 19. Nxa8 Qxf2# 0-1
+

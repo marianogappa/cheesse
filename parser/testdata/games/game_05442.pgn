@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/k7J1wm22"]
+[White "garykasparovofph"]
+[Black "HarryMorgan"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:58"]
+[WhiteElo "1663"]
+[BlackElo "1459"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-13"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. f4 d5 2. d3 e6 3. e3 Nc6 4. Nf3 Bd6 5. Be2 e5 6. fxe5 Bxe5 7. O-O Bd6 8. d4 a6 9. c4 Be6 10. c5 Be7 11. Nc3 b6 12. cxb6 cxb6 13. b3 Nf6 14. Bd3 O-O 15. a3 Bg4 16. h3 Bxf3 17. Qxf3 Qd6 18. Bd2 b5 19. b4 Nd7 20. Rac1 g6 21. Nxd5 Rfe8 22. Nxe7+ Rxe7 23. d5 Nce5 24. Qe4 Nxd3 25. Qxd3 Ne5 26. Qe4 Nd7 27. Qd4 Nf6 28. Rc6 Qxd5 29. Rfxf6 Qxd4 30. exd4 Rd8 31. Bh6 Rxd4 32. Rc8+ 1-0
+

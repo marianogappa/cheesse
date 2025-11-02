@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/F1OV1MxR"]
+[White "tvarhand"]
+[Black "Intherain"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:16"]
+[WhiteElo "2164"]
+[BlackElo "2088"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Scandinavian Variation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Ne4 4. d4 Bf5 5. f3 Nxc3 6. bxc3 e6 7. Ne2 Nd7 8. Rb1 Rb8 9. Ng3 Bg6 10. Bd3 Be7 11. O-O O-O 12. f4 Bxd3 13. Qxd3 f5 14. exf6 Bxf6 15. Ba3 c5 16. f5 e5 17. dxe5 Nxe5 18. Qd1 b6 19. Bc1 Re8 20. Bf4 Rc8 21. Nh5 Nc4 22. Nxf6+ gxf6 23. Rf3 Kh8 24. Rh3 d4 25. Qh5 Re7 26. Qh4 Rg7 27. Re1 dxc3 28. Bh6 Rf7 29. Qxc4 Qd7 30. Rhe3 Rg8 31. Qxc3 Qc6 32. Rg3 Qc8 33. Rxg8+ Qxg8 34. Qg3 Qxg3 35. hxg3 Rd7 36. Re8# 1-0
+

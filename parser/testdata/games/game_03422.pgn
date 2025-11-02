@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qLGebYaE"]
+[White "drunz1997"]
+[Black "CaahGM"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:02"]
+[WhiteElo "2023"]
+[BlackElo "2045"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "B07"]
+[Opening "Pirc Defense #3"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. f3 Nbd7 6. Bc4 e5 7. Nge2 exd4 8. Nxd4 O-O 9. h4 c5 10. Ndb5 d5 11. Nxd5 Nxd5 12. Bxd5 a6 13. Nc3 Bxc3+ 14. bxc3 Nb6 15. Bxc5 Nxd5 16. Bxf8 Qxf8 17. Qxd5 Be6 18. Qe5 Qa3 19. O-O Qb2 20. Rab1 Qxc2 21. Rxb7 Rd8 22. h5 gxh5 23. Qg5+ Kh8 24. Qxd8+ Kg7 25. Qg5+ Kf8 26. Rb8+ Bc8 27. Rxc8# 1-0
+

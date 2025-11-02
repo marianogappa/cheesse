@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/O4VInYaV"]
+[White "Cruncher"]
+[Black "WonderBrais"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:35"]
+[WhiteElo "1773"]
+[BlackElo "1801"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "A00"]
+[Opening "Gedult's Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. f3 d5 2. Kf2 e5 3. e3 Bc5 4. c3 d4 5. cxd4 exd4 6. d3 Qe7 7. e4 f5 8. g3 fxe4 9. fxe4 Nf6 10. Qf3 O-O 11. Ke2 Bg4 12. Qxg4 Nxg4 13. Bg2 Nc6 14. Nf3 Nce5 15. Nxe5 Qxe5 16. Rf1 Rxf1 17. Bxf1 Rf8 18. Bg2 Nxh2 19. Nd2 Ng4 20. Nc4 Rf2+ 21. Ke1 Qf6 22. Bf4 Rxg2 23. Rd1 Rg1+ 24. Kd2 Rxd1+ 25. Kxd1 b5 26. Nd2 Ne3+ 27. Ke2 g5 28. Be5 Qxe5 29. Nf1 Nxf1 30. Kxf1 Qxg3 31. Ke2 Qe3+ 32. Kd1 g4 33. Kc2 g3 34. Kb3 g2 35. a3 g1=Q 36. e5 Qxd3+ 37. Ka2 Qe4 38. a4 Qxe5 39. axb5 Bb6 40. b3 Qxb5 41. Ka3 Bc5+ 42. b4 Qe3+ 43. Ka2 Qa4+ 44. Kb2 Qxb4+ 45. Kc2 Qc4+ 46. Kd1 Qce2# 0-1
+

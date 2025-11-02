@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3dxHRXME"]
+[White "tosten"]
+[Black "CHESSMSPOLICE"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:44"]
+[WhiteElo "1956"]
+[BlackElo "1867"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "C16"]
+[Opening "French Defense: Winawer Variation, Advance Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Bb4 4. e5 Bxc3+ 5. bxc3 f6 6. Bd3 fxe5 7. Qh5+ g6 8. Bxg6+ Kd7 9. Qxe5 Qf6 10. Qxf6 Nxf6 11. Bd3 Rg8 12. g3 Nc6 13. a4 a6 14. Nf3 b6 15. O-O a5 16. Bb5 Ba6 17. Ne5+ Kd6 18. Ba3+ Nb4 19. cxb4 Bxb5 20. bxa5+ c5 21. axb5 Rxa5 22. Bxc5+ Kc7 23. Rxa5 bxa5 24. b6+ Kb7 25. Ra1 Ra8 26. f3 a4 27. c4 dxc4 28. Nxc4 Nd5 29. Kf2 h6 30. h4 h5 31. Ke2 Rc8 32. Rxa4 Nc3+ 33. Kd3 Nxa4 34. Nd6+ Kb8 35. Nxc8 Kxc8 36. Ke4 Kd7 37. Kf4 Kc6 38. Kg5 e5 39. dxe5 Nxc5 40. Kxh5 Kxb6 41. f4 Kc7 42. Kg6 Kd8 43. h5 Ne6 44. h6 Ke8 45. h7 Nf8+ 46. Kg7 Nxh7 47. Kxh7 Kf7 48. g4 Kf8 49. f5 Kf7 50. g5 Kf8 51. g6 Ke7 52. f6+ Kf8 53. e6 Ke8 54. e7 Kd7 55. g7 1-0
+

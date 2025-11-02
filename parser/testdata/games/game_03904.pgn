@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/5Jn98YYq"]
+[White "LaKobra"]
+[Black "marcello63"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:52"]
+[WhiteElo "1725"]
+[BlackElo "1677"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+13"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "1200+3"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 b6 6. Nc3 Bc5 7. Qxg7 Qf6 8. Bh6 c6 9. Qxf6 Nxf6 10. Bg7 Bxf2+ 11. Kxf2 Ng4+ 12. Ke2 Rg8 13. Bd4 c5 14. Nd5 Ba6+ 15. Kf3 cxd4 16. Nc7+ Ke7 17. Nxa8 Bxf1 18. Rhxf1 Ne5+ 19. Kf4 Ng6+ 20. Kf3 Ne5+ 21. Kf2 Ng4+ 22. Kg1 Ne3 23. Rf2 Rxa8 24. a4 Rc8 25. Rc1 d3 26. c3 Ng4 27. Rd2 Ne5 28. Kf2 Rc6 29. b3 Rd6 30. Rcd1 Ng4+ 31. Kf3 h5 32. Rxd3 Rf6+ 33. Kg3 Ne5 34. Rd5 d6 35. Kh4 Rh6 36. Rf1 f6 37. Rf5 Ng6+ 38. Kg3 h4+ 39. Kf2 Ne5 40. h3 Ke6 41. Ke3 Rg6 42. Rf2 Rg3+ 43. Kd4 Nc6+ 44. Kc4 Ne5+ 45. Kb5 Rxc3 46. Ka6 Rxb3 47. Kxa7 Nc6+ 48. Ka6 Nb4+ 49. Kb7 Nxd5 50. exd5+ Kxd5 51. Rxf6 Ra3 52. Kxb6 Rxa4 53. Rf5+ Ke6 54. Rf2 Rb4+ 55. Ka5 Rb8 56. Ka4 Kd5 57. Rc2 Rg8 58. Kb3 Rg3+ 59. Kb2 Rd3 60. Kc1 Ke4 61. Rd2 Rxd2 62. Kxd2 Kf4 63. Ke2 Kg3 64. Ke3 Kxg2 65. Kf4 Kxh3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/UWs3aIH4"]
+[White "tkls"]
+[Black "Assadour"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:45"]
+[WhiteElo "1104"]
+[BlackElo "2225"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. Qf3 dxe4 3. Qxe4 Nf6 4. Qa4+ Nc6 5. Bc4 e6 6. Qb5 Bd7 7. Qg5 Be7 8. Qf4 O-O 9. b4 e5 10. Qg3 Nxb4 11. c3 Nc2+ 12. Kd1 Nxa1 13. Bb2 Ne4 14. Qf3 Bc6 15. Bd3 Nxf2+ 16. Qxf2 Qxd3 17. Kc1 Qc2# 0-1
+

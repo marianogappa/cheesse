@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MeqBrquA"]
+[White "Audronis"]
+[Black "Vataros"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:22"]
+[WhiteElo "1853"]
+[BlackElo "1880"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+66"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nf6 5. Bg5 h6 6. Bh4 Bd6 7. f3 O-O 8. Ne2 c5 9. c3 Re8 10. O-O c4 11. Bc2 Bxh2+ 12. Kxh2 Ng4+ 13. fxg4 Qxh4+ 14. Kg1 Bxg4 15. Rf2 Qh5 16. Nd2 Bxe2 17. Qe1 Nd7 0-1
+

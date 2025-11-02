@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ENqdFAIr"]
+[White "COUTND0WN"]
+[Black "pawnspanker"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:31"]
+[WhiteElo "1859"]
+[BlackElo "1958"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "A30"]
+[Opening "English Opening: Symmetrical Variation"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. c4 c5 2. d4 Nc6 3. Bg5 cxd4 4. e3 h6 5. exd4 hxg5 6. d5 Ne5 7. Nc3 Ng6 8. f4 d6 9. fxg5 e5 10. Nf3 Bg4 11. Be2 Qb6 12. Qb3 O-O-O 13. Qxb6 axb6 14. h3 f5 15. hxg4 Rxh1+ 16. Ng1 Nf4 17. Kf2 Nxe2 18. Ngxe2 Rxa1 19. Nb1 Rxb1 20. Nc3 Rxb2+ 21. Ke3 fxg4 22. Kd3 Be7 23. Nb5 Bxg5 24. Kc3 Kb8 25. Kxb2 Nf6 26. a4 Ne4 27. Kb3 Nc5+ 28. Kb4 Nd3+ 29. Ka3 Nc5 30. Kb4 Rd7 31. Nxd6 Rxd6 32. Kb5 Rd7 33. a5 Rd6 34. axb6 Rxb6+ 35. Kxc5 Rd6 36. Kxd6 Bf4 37. Kc5 e4 38. d6 Bxd6+ 39. Kxd6 b6 40. Kd5 Kb7 41. Kxe4 Kc6 42. Kd4 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AjXKSLpp"]
+[White "MACROSPACE-1"]
+[Black "Felix119"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:48"]
+[WhiteElo "1630"]
+[BlackElo "1722"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "D01"]
+[Opening "Queen's Pawn Game: Veresov Attack, Classical Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. Nf3 d5 3. Bg5 Nf6 4. Nc3 Be7 5. Bh4 b6 6. Bg3 Bb7 7. e3 a6 8. a3 c5 9. dxc5 Bxc5 10. h3 Nc6 11. Be2 O-O 12. O-O Nh5 13. Bh2 f5 14. Nd2 Nf6 15. Re1 Ne4 16. Ncxe4 fxe4 17. f3 exf3 18. Nxf3 Ne7 19. Ne5 Nf5 20. Bf3 Bd6 21. e4 Nh4 22. Bg4 Qf6 23. Nd7 Qf2+ 24. Kh1 Qxg2# 0-1
+

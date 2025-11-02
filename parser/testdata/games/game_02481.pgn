@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/DZSbJVOh"]
+[White "sargot"]
+[Black "CapaColorada"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:26"]
+[WhiteElo "1620"]
+[BlackElo "1699"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Berlin Defense"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 h6 4. h3 b6 5. Nf3 Bb7 6. Nxe5 d5 7. Bxd5 Nxd5 8. exd5 Bxd5 9. O-O Bd6 10. Re1 O-O 11. Nf3 Nc6 12. Nc3 Be6 13. d4 Ne7 14. d5 Bd7 15. a3 c6 16. dxc6 Bxc6 17. Rf1 Qc7 18. Be3 Rad8 19. Qe2 a6 20. b4 Rfe8 21. Nh4 g5 22. Nf3 Nf5 23. Nd2 Be5 24. Qc4 Rxd2 25. Bxd2 Bh2+ 26. Kh1 Bxg2+ 27. Kxg2 Qxc4 28. Kxh2 Nh4 29. f4 Re2+ 30. Nxe2 Qxe2+ 31. Kg3 Qg2# 0-1
+

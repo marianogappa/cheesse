@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/JzFA5gT4"]
+[White "reinisporozovs"]
+[Black "VSF01"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:32"]
+[WhiteElo "1845"]
+[BlackElo "2172"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+[ECO "A46"]
+[Opening "Indian Game: Spielmann-Indian"]
+[TimeControl "120+12"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 c5 3. dxc5 Qa5+ 4. Qd2 Qxc5 5. Qc3 b6 6. Bg5 Ne4 7. Qxc5 bxc5 8. e3 Nxg5 9. Nxg5 e6 10. Nc3 Be7 11. h4 O-O 12. O-O-O Nc6 13. Nb5 d5 14. Nc7 Rb8 15. Nxd5 exd5 16. Rxd5 h6 17. Ne4 Be6 18. Rd2 c4 19. c3 Rfd8 20. Be2 Ne5 21. f4 Ng4 22. Bxg4 Bxg4 23. Nf2 Rxd2 24. Kxd2 Rxb2+ 25. Ke1 Rb1+ 26. Kd2 Rxh1 27. Nxh1 Bxh4 28. g3 Bf3 29. gxh4 Bxh1 30. a4 Kf8 31. Kc2 a5 32. Kd2 Ke7 33. e4 Bxe4 34. Ke3 Bc6 35. Kd4 Bxa4 36. Kxc4 Ke6 37. Kc5 Be8 38. c4 Kf5 39. Kb6 a4 40. c5 a3 41. c6 Bxc6 42. Kxc6 a2 0-1
+

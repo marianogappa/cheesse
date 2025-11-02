@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/glax0OI3"]
+[White "dcfalcone27"]
+[Black "mtuzzolo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:45"]
+[WhiteElo "933"]
+[BlackElo "1226"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nd2 f6 3. b4 Bf5 4. b5 e5 5. dxe5 fxe5 6. Ndf3 e4 7. Ng5 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 b6 10. Ne6 Qe7 11. Nxc7+ Qxc7 12. Qxd5 Qc3+ 13. Kd1 Qxa1+ 14. Kd2 Qf6 15. Qxa8 Qg5+ 16. e3 Qd8+ 17. Ke1 Nf6 18. a4 O-O 19. Nh3 Qd5 20. Ng5 Qxa8 21. Bc4+ Kh8 22. h4 Qb7 23. Bb3 Nd5 24. Nxh7 Kxh7 25. h5 Nc3 26. g3 Qd7 27. Rh4 Qd1# 0-1
+

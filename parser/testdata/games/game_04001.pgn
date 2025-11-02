@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/FJj8CJOo"]
+[White "Janiszevsky"]
+[Black "pipoXDD"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:16"]
+[WhiteElo "1305"]
+[BlackElo "1302"]
+[WhiteRatingDiff "-119"]
+[BlackRatingDiff "+9"]
+[ECO "C00"]
+[Opening "French Defense: Queen's Knight"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. g4 Bd6 4. exd5 exd5 5. Nxd5 Nf6 6. Bg2 Bxg4 7. f3 Nxd5 8. fxg4 Qe7+ 9. Ne2 Qh4+ 10. Ng3 Nf4 11. Bxb7 Ng2+ 12. Kf1 Qh3 13. Bxa8 Ne3+ 14. Kf2 Nxd1+ 15. Rxd1 Bc5+ 16. Kf3 O-O 17. d3 Re8 18. c3 Qxh2 19. d4 Bd6 20. Be4 Qxg3+ 21. Ke2 Qxg4+ 22. Kd2 Bf4+ 23. Kc2 Qe2+ 24. Rd2 Bxd2 25. Bxd2 Qxe4+ 26. Kb3 Nc6 27. Rg1 Qd5+ 28. c4 Nxd4+ 29. Ka3 Nc2+ 30. Kb3 Qxd2 0-1
+

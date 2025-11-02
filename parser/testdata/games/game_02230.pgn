@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/84e5uD3J"]
+[White "jortega"]
+[Black "Richard10"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:26"]
+[WhiteElo "1789"]
+[BlackElo "1716"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+13"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Nf6 7. N1c3 a6 8. Na3 Nd4 9. Nc2 Nxc2+ 10. Qxc2 Bd7 11. Bg5 Be7 12. Rd1 Qc7 13. Be2 Be6 14. b3 O-O 15. O-O h6 16. Bh4 Rfd8 17. Bf3 Rac8 18. Qb1 b5 19. cxb5 Qxc3 20. bxa6 Qa5 21. Be2 Rd7 22. b4 Qb6 23. b5 Bc4 24. Rfe1 Bxe2 25. Rxe2 Rc5 26. a4 Bd8 27. Bxf6 Bxf6 28. Ra2 Bd8 29. Qb4 Kf8 30. a5 Qxb5 31. Qxb5 Rxb5 32. Rc1 Ke7 33. a7 Rxa7 34. Rc8 Raxa5 0-1
+

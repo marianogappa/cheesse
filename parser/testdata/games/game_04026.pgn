@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/TGfkspTc"]
+[White "rameek"]
+[Black "Sun_nY"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:22"]
+[WhiteElo "1440"]
+[BlackElo "1796"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bc5 5. d3 O-O 6. Be3 Bb4 7. a3 Ba5 8. b4 Bb6 9. Nd5 Nxd5 10. exd5 Bxe3 11. dxc6 Bb6 12. Nxe5 Qf6 13. Qe2 d6 14. Nd7 Qxa1+ 15. Qd1 Qc3+ 16. Qd2 Re8+ 17. Kf1 Qa1+ 18. Qe1 Qxe1# 0-1
+

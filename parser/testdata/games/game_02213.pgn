@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CnzzMJ7s"]
+[White "thegrinder"]
+[Black "narkohat"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:21"]
+[WhiteElo "2188"]
+[BlackElo "2068"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. Nf3 Bg4 7. O-O e6 8. h3 Bh5 9. Nbd2 Bd6 10. Re1 Nf6 11. Nf1 O-O 12. Bg5 Nd7 13. Bh4 Rab8 14. Bg3 b5 15. Bxd6 Qxd6 16. Ng3 Bg6 17. h4 b4 18. h5 Bxd3 19. Qxd3 bxc3 20. bxc3 h6 21. Rab1 Na5 22. Ne5 Nxe5 23. dxe5 Qc5 24. Qd4 Qxd4 25. cxd4 Nc4 26. Rb3 Rfc8 27. Rc1 Kf8 28. f4 f5 29. exf6 gxf6 30. Kf2 Ke7 31. f5 e5 32. Ne2 Kd7 33. g4 Rxb3 34. axb3 Nd6 35. Rxc8 Kxc8 36. Nc3 exd4 37. Nxd5 Ne4+ 38. Ke2 Kd7 39. b4 Kd6 40. Nf4 Ke5 41. Ng6+ Kd5 42. Ne7+ Kc4 43. Ng8 Kxb4 44. Nxh6 Kc3 45. Nf7 d3+ 46. Ke3 d2 47. Ke2 Nf2 48. h6 d1=Q+ 49. Kxf2 Qh1 50. Kg3 a5 51. g5 fxg5 52. Kg4 a4 53. Kxg5 a3 54. Kg6 a2 55. Ng5 a1=Q 56. h7 Qa6+ 57. f6 Qhf1 58. Ne4+ Kc2 59. h8=Q Qg2+ 60. Kf7 Qxe4 61. Qh2+ Kc3 62. Qg1 Kc4 63. Qc5+ Kb3 64. Kg7 1-0
+

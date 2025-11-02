@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DTXaytdb"]
+[White "Rackattack"]
+[Black "elvanvanero"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:13"]
+[WhiteElo "2023"]
+[BlackElo "2141"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "E68"]
+[Opening "King's Indian Defense: Fianchetto Variation, Long Variation"]
+[TimeControl "240+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 d6 5. Bg2 O-O 6. Nc3 Nbd7 7. e4 e5 8. O-O exd4 9. Nxd4 Re8 10. h3 Nc5 11. Re1 a5 12. Qc2 Nfd7 13. Be3 Ne5 14. b3 Ned3 15. Red1 Nb4 16. Qe2 Bd7 17. Rac1 Qc8 18. a3 Nc6 19. Nxc6 Bxc6 20. Bxc5 dxc5 21. Nd5 Bxd5 22. Rxd5 Bd4 23. Kh2 c6 24. Rg5 Qd8 25. Rg4 h5 26. Rf4 Qe7 27. Qc2 Rad8 28. Rd1 Be5 29. Rf3 Rd4 30. Rfd3 Red8 31. f4 Rxd3 32. Rxd3 Rxd3 33. Qxd3 Bd4 34. e5 Qd8 35. Be4 Kg7 36. Kg2 Qb6 37. f5 Bxe5 38. fxg6 Qc7 39. gxf7 Kxf7 40. Bg6+ Kg7 41. Bxh5 Qd6 42. Qxd6 Bxd6 43. Kf3 b5 44. Be8 a4 45. bxa4 b4 46. axb4 cxb4 47. Bxc6 b3 48. a5 b2 49. Be4 Kf7 50. a6 Bc5 51. h4 Kf6 52. g4 Kg7 53. g5 Kh8 54. h5 Kg7 55. h6+ Kh8 56. g6 Kg8 57. Ke2 Bd4 58. Kd1 Kh8 59. Kc2 Kg8 60. Kb3 Kf8 61. Ka4 Ke7 62. Kb5 Kd6 63. g7 Ke5 64. g8=Q Kxe4 65. Qg1 Bxg1 66. h7 b1=Q+ 67. Kc6 Bd4 68. c5 Qc2 69. h8=Q Bxh8 70. a7 Qa4+ 0-1
+

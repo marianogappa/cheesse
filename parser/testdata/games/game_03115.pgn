@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/TdsF4rNd"]
+[White "Gribelnikov"]
+[Black "mostafa1888"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:44"]
+[WhiteElo "1653"]
+[BlackElo "1668"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B73"]
+[Opening "Sicilian Defense: Dragon Variation, Classical Variation #2"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d6 5. Nc3 g6 6. Be3 Bg7 7. Be2 Nf6 8. f3 O-O 9. Qd2 a6 10. g4 h5 11. h4 hxg4 12. fxg4 Bxg4 13. Bxg4 Nxg4 14. Nxc6 bxc6 15. h5 Nxe3 16. Qxe3 Qa5 17. h6 Bxc3+ 18. Qxc3 Qxc3+ 19. bxc3 Kh7 20. Rb1 Rab8 21. Rb3 Rxb3 22. cxb3 c5 23. Kd2 Rb8 24. Kd3 f6 25. Kc4 e6 26. Rd1 Rb6 27. Rf1 e5 28. Rxf6 d5+ 29. exd5 Rxf6 30. Kxc5 e4 31. Kd4 Kxh6 32. Kxe4 g5 33. Ke5 Rf1 34. c4 g4 35. d6 g3 36. d7 Rd1 37. Ke6 g2 38. Ke7 g1=Q 39. d8=Q Qg5+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/zeVo8eIC"]
+[White "miltonfriedman82"]
+[Black "jupiter10"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:09"]
+[WhiteElo "1740"]
+[BlackElo "1811"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "A07"]
+[Opening "King's Indian Attack: Omega-Delta Gambit"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. g3 d5 2. Nf3 e5 3. Nxe5 Bd6 4. Nf3 h5 5. d4 h4 6. Nxh4 Rxh4 7. gxh4 Qxh4 8. e3 Nf6 9. Be2 Ne4 10. c4 Qxf2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/6nnLFVaF"]
+[White "HAI52"]
+[Black "TarquiniusImperator"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:25"]
+[WhiteElo "1638"]
+[BlackElo "1638"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Gubinsky-Melts Defense"]
+[TimeControl "600+10"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 e6 5. Be2 Nf6 6. Nf3 Be7 7. O-O O-O 8. Bg5 Ng4 9. Bxe7 Qxe7 10. Re1 Qb4 11. Rb1 b6 12. a3 Qd6 13. Ne4 Qf4 14. Bd3 Bb7 15. h3 Nh6 16. Ne5 Nf5 17. c3 Nc6 18. Nd7 Rfd8 19. Ne5 Nxe5 20. dxe5 Qxe5 21. Qe2 Bxe4 22. Bxe4 Rab8 23. Bf3 Qxe2 24. Rxe2 a5 25. g4 Nh6 26. Re5 Rd6 27. c4 c5 28. b4 axb4 29. axb4 cxb4 30. Rxb4 Rbd8 31. Reb5 f5 32. Rxb6 Rxb6 33. Rxb6 fxg4 34. hxg4 Kf7 35. Kg2 Ng8 36. c5 Ne7 37. Rb7 Rc8 38. c6 Kf6 39. c7 Nd5 40. Bxd5 exd5 41. Kf3 Ke6 42. Ke3 Kd6 43. Kd4 Kc6 44. Rb8 Rxc7 45. Rd8 Rd7 46. Rxd7 Kxd7 47. Kxd5 Ke7 48. Ke5 Kf7 49. Kf5 g6+ 50. Ke5 Kg7 51. Ke6 Kh6 52. Kf6 g5 53. Kf5 Kg7 54. Kxg5 h6+ 55. Kf5 Kf7 56. f3 Kg7 57. Ke6 Kg6 58. f4 Kg7 59. f5 Kh7 60. Ke7 Kg7 61. f6+ Kg6 62. f7 Kg5 63. f8=Q Kxg4 64. Qf2 h5 65. Kf6 h4 66. Qh2 h3 67. Ke5 Kh4 68. Kf5 Kh5 69. Qxh3# 1-0
+

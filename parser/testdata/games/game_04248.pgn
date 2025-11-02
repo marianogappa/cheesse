@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/OSQzfFkU"]
+[White "kondo"]
+[Black "JustinThyme"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:15"]
+[WhiteElo "1530"]
+[BlackElo "1614"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "90+2"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bf4 e6 3. e3 g6 4. Be2 Bg7 5. c3 O-O 6. h3 d6 7. Nf3 h6 8. O-O Nbd7 9. Re1 b6 10. a3 a5 11. Nbd2 Ba6 12. Bh2 Bxe2 13. Rxe2 Re8 14. Qc2 Rb8 15. e4 Rc8 16. e5 dxe5 17. Nxe5 Nxe5 18. Bxe5 Qd7 19. Nf3 c5 20. Qd2 c4 21. Bh2 h5 22. Ne5 Qb7 23. Rae1 Kh7 24. Re3 Bh6 25. f4 Nd5 26. Nxf7 Qxf7 27. Qe2 Nxe3 28. Qxe3 b5 29. Qe5 Qf5 30. Qe3 b4 31. axb4 axb4 32. Bg3 bxc3 33. bxc3 Ra8 34. Kh2 h4 35. Bf2 Bxf4+ 36. Kg1 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/IaQgnKHu"]
+[White "alfjr"]
+[Black "ossama73"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:46"]
+[WhiteElo "1471"]
+[BlackElo "1522"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+11"]
+[ECO "C46"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "600+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 h6 5. d3 Bb4 6. Bd2 Bxc3 7. Bxc3 O-O 8. Nxe5 Nxe5 9. Bxe5 d6 10. Bc3 Re8 11. O-O d5 12. exd5 Nxd5 13. Bd2 Be6 14. Re1 c6 15. a3 Nc7 16. Bxe6 Rxe6 17. Rxe6 Nxe6 18. Bxh6 gxh6 19. Qg4+ Ng7 20. Re1 Qf6 21. f3 Qxb2 22. Qd7 Qxc2 23. Qxb7 Rd8 24. Qxa7 Qxd3 25. Qc7 Qd4+ 26. Kf1 Qc4+ 27. Kf2 Rd2+ 28. Kg3 Nf5+ 29. Kh3 0-1
+

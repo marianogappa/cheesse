@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/AMQQ1Rxp"]
+[White "Gainux"]
+[Black "UnderPrez"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:08"]
+[WhiteElo "2036"]
+[BlackElo "2008"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-10"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. b3 e6 2. Bb2 d5 3. d3 c5 4. Nd2 Nc6 5. h3 a6 6. a3 b5 7. e4 Nf6 8. Ngf3 dxe4 9. dxe4 Nd4 10. Bd3 e5 11. Nxe5 Bd6 12. Nef3 O-O 13. Nxd4 cxd4 14. O-O Bc5 15. Qe2 Nd7 16. f4 Re8 17. Kh1 Bb7 18. Nf3 Qc7 19. Nxd4 Rad8 20. Nf5 Nf6 21. Bxf6 gxf6 22. Qg4+ 1-0
+

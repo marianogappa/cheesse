@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3qb6Chtn"]
+[White "Jeanno"]
+[Black "Toffe77"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:20"]
+[WhiteElo "1435"]
+[BlackElo "1427"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+1"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "900+0"]
+[Termination "Time forfeit"]
+
+1. e3 e5 2. c4 c6 3. a3 d5 4. b4 d4 5. d3 c5 6. Nf3 Qd6 7. exd4 cxd4 8. Be2 h6 9. Nbd2 f5 10. Nh4 g6 11. h3 Qf6 12. Ndf3 g5 13. Nxf5 Qxf5 14. g4 Qf6 15. h4 gxh4 16. Rxh4 Be7 17. g5 hxg5 18. Rxh8 Qxh8 19. c5 g4 20. Nd2 Qh1+ 21. Bf1 Bh4 22. Ne4 Be7 23. Ra2 Nd7 24. Re2 Ngf6 25. Qa4 a6 26. Bg5 b5 27. Qd1 Bb7 28. Bxf6 Bxf6 29. Nd6+ Ke7 30. Nxb7 g3 31. c6 Nf8 32. fxg3 Ne6 33. Na5 Rg8 34. c7 Nxc7 35. Kd2 Rxg3 36. Bg2 Bg5+ 37. Kc2 Qh6 38. Rxe5+ Kf6 39. Qe2 Bf4 40. Rc5 Ne6 41. Rc6 Re3 42. Qg4 Ke7 43. Nb7 Qg5 44. Qxg5+ Bxg5 45. Bd5 Kd7 46. Nc5+ Nxc5 47. bxc5 Re5 48. Be4 a5 49. Rd6+ Kc7 50. Rxd4 Rxc5+ 51. Kb3 a4+ 52. Kb4 Kb6 53. Rd6+ Rc6 54. Bxc6 Be7 55. Bxb5+ Kc7 56. Kxa4 Bxd6 57. d4 Kb6 58. d5 Kc5 59. Be2 Kxd5 60. Kb5 Ke6 61. a4 Bf4 62. a5 Kd7 63. a6 Be3 64. Bf3 Kc7 65. Ka5 Kb8 66. Kb5 Ka7 67. Bd5 Bg1 68. Bc6 Kb8 69. Be4 Kc7 70. Bf3 Ba7 1/2-1/2
+

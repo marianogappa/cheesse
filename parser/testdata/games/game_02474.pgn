@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/POKuepmF"]
+[White "vovaava"]
+[Black "eirikfyk"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:24"]
+[WhiteElo "1350"]
+[BlackElo "1412"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense"]
+[TimeControl "600+5"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Bc4 a6 3. Nh3 b5 4. Bd5 e6 5. Bxc6 dxc6 6. d3 Bc5 7. O-O e5 8. Re1 Bxh3 9. gxh3 Qf6 10. Be3 Bxe3 11. Rxe3 O-O-O 12. Rg3 g6 13. Qg4+ Rd7 14. Na3 Ne7 15. Rd1 h5 16. Qg5 Qxg5 17. Rxg5 f6 18. Rg2 Rd4 19. c3 Rd6 20. d4 h4 21. f3 g5 22. Rgd2 Rhd8 23. Nb1 Ng6 24. dxe5 Rxd2 25. Rxd2 fxe5 26. Kf2 Nf4 27. Ke3 Nxh3 28. Rg2 Nf4 29. Rxg5 Rd1 30. Nd2 Re1+ 31. Kf2 Nh3+ 32. Kxe1 Nxg5 33. Kf2 c5 34. Kg2 c6 35. Nf1 h3+ 36. Kg3 a5 37. Ne3 c4 38. Ng4 Kd7 39. Nxe5+ Ke6 40. f4 Nxe4+ 41. Kxh3 c5 42. Kh4 Kf5 43. Kh5 Kxf4 44. Ng6+ Kf3 45. h4 Kg3 46. Ne5 Nf6+ 47. Kg5 Nh7+ 48. Kh5 Kf4 49. Ng6+ Kf5 50. Ne7+ Kf6 51. Ng8+ Kf7 52. Nh6+ Kf6 53. Kg4 b4 54. h5 b3 55. a3 Kg7 56. Nf5+ Kf8 57. Nd6 Nf6+ 58. Kg5 Nxh5 59. Kxh5 Ke7 60. Nxc4 a4 61. Nb6 Kd6 62. Nxa4 c4 63. Kg4 Kd5 64. Kf4 Kc6 65. Ke4 Kb5 66. Kd4 Kxa4 67. Kxc4 Ka5 68. Kxb3 Kb5 69. a4+ Kc5 70. a5 Kb5 71. a6 Ka5 72. a7 Ka6 73. a8=Q+ 1-0
+

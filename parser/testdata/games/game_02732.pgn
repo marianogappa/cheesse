@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vX5OqWY5"]
+[White "themarschall"]
+[Black "jbpatzer"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:13"]
+[WhiteElo "1686"]
+[BlackElo "1912"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Scandinavian Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Nxd5 Qxd5 5. d4 Nc6 6. Be3 e5 7. c4 Qa5+ 8. Bd2 Qb6 9. d5 Nd4 10. a3 Qxb2 11. Bd3 Nb3 12. Rb1 Qxd2+ 13. Qxd2 Nxd2 14. Kxd2 Bxa3 15. Nf3 f6 16. Rhe1 b6 17. Ke2 Bc5 18. Nd2 Bb7 19. Kf1 Kf7 20. Ne4 Bd6 21. c5 Be7 22. c6 Bc8 23. Bc4 Ke8 24. Red1 Bd6 25. Re1 a5 26. f4 Ke7 27. g3 h5 28. Kg2 h4 29. g4 Bxg4 30. h3 Bc8 31. Nxd6 Kxd6 32. fxe5+ fxe5 33. Rf1 Ke7 34. Rbe1 Ba6 35. Rxe5+ Kd6 36. Re6+ Kc5 37. Bxa6 Rxa6 38. Rf5 a4 39. d6+ Kxc6 40. dxc7+ Kxc7 41. Rf7+ Kc8 42. Rxg7 a3 43. Ree7 a2 44. Rc7+ Kb8 45. Rb7+ Ka8 0-1
+

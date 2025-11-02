@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MyAobUK9"]
+[White "EwigesTalent"]
+[Black "zalik92"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:28"]
+[WhiteElo "2341"]
+[BlackElo "2342"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "B38"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maroczy Bind"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. Nf3 { [%eval 0.12] } 1... c5 { [%eval 0.4] } 2. c4 { [%eval 0.06] } 2... g6 { [%eval 0.31] } 3. d4 { [%eval 0.25] } 3... cxd4 { [%eval 0.37] } 4. Nxd4 { [%eval 0.31] } 4... Bg7 { [%eval 0.3] } 5. e4 { [%eval 0.3] } 5... Nc6 { [%eval 0.36] } 6. Be3 { [%eval 0.2] } 6... d6 { [%eval 0.4] } 7. Nc3 { [%eval 0.41] } 7... Nf6 { [%eval 0.55] } 8. Be2 { [%eval 0.58] } 8... Ng4 { [%eval 0.68] } 9. Bxg4 { [%eval 0.59] } 9... Bxg4? { [%eval 2.21] } 10. Nxc6 { [%eval 2.22] } 10... Bxd1 { [%eval 2.05] } 11. Nxd8 { [%eval 2.03] } 1-0
+

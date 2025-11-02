@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FOoXKog5"]
+[White "coquen"]
+[Black "valicious"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:21"]
+[WhiteElo "1394"]
+[BlackElo "1428"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Alapin Opening"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Ne2 Nf6 3. f4 Nxe4 4. d3 Qh4+ 5. g3 Nxg3 6. Nxg3 exf4 7. Qe2+ Be7 8. Bxf4 Qxf4 9. Nd2 Nc6 10. O-O-O O-O 11. Re1 d5 12. Bg2 Bg4 13. Ref1 Qg5 14. Qf2 Bf6 15. Bxd5 Qxd5 16. Nde4 Be5 17. Nf5 Qxa2 18. Rhg1 Bxb2+ 19. Kd2 Qa5+ 20. Ke3 Bd4+ 21. Nxd4 Be6 22. Nxc6 bxc6 23. Qg2 Qb6+ 24. Ke2 g6 25. Nf6+ Kg7 26. Nh5+ Kh6 27. Qg5# 1-0
+

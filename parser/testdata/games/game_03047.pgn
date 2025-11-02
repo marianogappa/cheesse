@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uYiGe8EX"]
+[White "tommi"]
+[Black "riesgo27"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:26"]
+[WhiteElo "1232"]
+[BlackElo "1268"]
+[WhiteRatingDiff "+21"]
+[BlackRatingDiff "-11"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Qh4 3. Nf3 Qxe4+ 4. Qe2 Qe3 5. Qxe3 1-0
+

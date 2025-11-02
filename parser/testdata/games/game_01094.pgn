@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0H7plyp0"]
+[White "ferx"]
+[Black "gnagoul"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:07"]
+[WhiteElo "1694"]
+[BlackElo "1553"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "A49"]
+[Opening "Indian Game: King's Indian Variation, Fianchetto Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 c6 5. e3 d5 6. cxd5 Nxd5 7. Nc3 Nb6 8. Nge2 e5 9. dxe5 Qxd1+ 10. Nxd1 Bxe5 11. O-O Be6 12. Ndc3 N8d7 13. b3 Nc5 14. Rd1 Ke7 15. Bb2 Rhd8 16. Ba3 Nd7 17. Rac1 Ke8 18. Ne4 Nxe4 19. Bxe4 f5 20. Bg2 Nf6 21. Nc3 Rxd1+ 22. Nxd1 Rd8 23. Nc3 Rd3 24. Na4 Rd2 25. Nc5 Bc8 26. f4 Bc7 27. Ra1 Re2 28. Ne6 Bxe6 29. Rd1 Rxa2 30. Bc5 Re2 31. Bf3 Rb2 32. b4 Bd7 33. Kf1 b6 34. h3 bxc5 35. bxc5 Rb3 36. Ke2 Ke7 37. Rd3 Rb2+ 38. Rd2 Rxd2+ 39. Kxd2 Ba5+ 40. Kd3 Ke6 41. Kc4 Be8 42. Kb3 Bd2 43. Kc4 Ne4 44. Kd3 Nf2+ 45. Kxd2 Nxh3 46. Kd3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4FBqOetf"]
+[White "simplyTheBeast"]
+[Black "DumbDuck"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:04"]
+[WhiteElo "2087"]
+[BlackElo "2211"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.27] } 1... c5 { [%eval 0.41] } 2. d4 { [%eval 0.11] } 2... cxd4 { [%eval 0.23] } 3. c3 { [%eval 0.01] } 3... g6 { [%eval 0.4] } 4. cxd4 { [%eval 0.27] } 4... d5 { [%eval 0.32] } 5. e5 { [%eval 0.28] } 5... Bg7 { [%eval 0.47] } 6. Nc3 { [%eval 0.48] } 6... Nh6 { [%eval 0.57] } 7. Bd3 { [%eval 0.1] } 7... O-O { [%eval 0.19] } 8. Nge2 { [%eval 0.17] } 8... Nc6 { [%eval 0.18] } 9. O-O { [%eval 0.0] } 9... Bf5 { [%eval 0.17] } 10. Bxh6 { [%eval 0.03] } 10... Bxh6?! { [%eval 0.72] } 11. Bxf5 { [%eval 0.69] } 11... gxf5 { [%eval 0.79] } 12. f4 { [%eval 0.58] } 12... e6 { [%eval 0.92] } 13. Rf3 { [%eval 0.76] } 13... Ne7?! { [%eval 1.26] } 14. Rh3 { [%eval 1.04] } 14... Bg7 { [%eval 1.04] } 15. Ng3 { [%eval 1.11] } 15... Ng6 { [%eval 1.24] } 16. Qh5?! { [%eval 0.41] } 16... h6 { [%eval 0.28] } 17. Qf3 { [%eval 0.3] } 17... Qb6 { [%eval 0.37] } 18. Rd1?! { [%eval -0.25] } 18... Qxb2 { [%eval 0.0] } 19. Nh5?! { [%eval -0.61] } 19... Rac8?! { [%eval 0.0] } 20. Nf6+ { [%eval 0.0] } 20... Bxf6 { [%eval 0.0] } 21. exf6 { [%eval 0.08] } 21... Rfd8? { [%eval 1.75] } 22. Ne2? { [%eval 0.0] } 22... Rc2 { [%eval 0.58] } 23. Re1? { [%eval -0.6] } 23... Kf8?! { [%eval 0.01] } 24. Rxh6 { [%eval 0.0] } 24... Ke8?! { [%eval 0.81] } 25. Qh5?! { [%eval 0.07] } 25... Kd7 { [%eval 0.14] } 26. Rh7 { [%eval 0.0] } 26... Rf8 { [%eval 0.14] } 27. Rxf7+ { [%eval 0.0] } 27... Rxf7 { [%eval 0.0] } 28. Qxg6 { [%eval 0.0] } 28... Rxf6 { [%eval 0.0] } 29. Qxf6 { [%eval 0.0] } 29... Rxe2 { [%eval 0.0] } 30. Qf7+ { [%eval 0.0] } 30... Kd6 { [%eval 0.0] } 31. Qf8+ { [%eval 0.0] } 31... Kc6 { [%eval 0.0] } 32. Qc8+ { [%eval 0.0] } 32... Kb6 { [%eval 0.0] } 33. Rxe2 { [%eval 0.0] } 33... Qxe2 { [%eval 0.0] } 34. Qc1 { [%eval 0.0] } 34... Qxa2 { [%eval 0.0] } 35. h3? { [%eval -2.32] } 35... Qc4? { [%eval 0.0] } 36. Qb2+? { [%eval -1.34] } 36... Kc6 { [%eval -0.97] } 37. h4 { [%eval -0.97] } 37... Qd3 { [%eval -0.97] } 38. h5 { [%eval -1.16] } 38... Qe3+? { [%eval 0.0] } 39. Kh1? { [%eval -1.44] } 39... Qxf4 { [%eval -1.39] } 40. Qc1+?? { [%eval #-10] } 40... Qxc1+ { [%eval #-11] } 41. Kh2 { [%eval #-11] } 41... Qh6 { [%eval #-10] } 0-1
+

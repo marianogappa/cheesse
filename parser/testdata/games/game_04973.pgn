@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WVhftGGW"]
+[White "Pescer"]
+[Black "Donaldnecesito"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:01"]
+[WhiteElo "1858"]
+[BlackElo "1965"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 e6 4. Bc4 a6 5. c3 b5 6. Bb3 Bb7 7. d4 cxd4 8. cxd4 Nf6 9. Qe2 Na5 10. Bc2 Nc4 11. Nbd2 Bb4 12. O-O Rc8 13. a3 Bxd2 14. Bxd2 Nxd2 15. Qxd2 Bxe4 16. Bxe4 Nxe4 17. Qa5 Qxa5 0-1
+

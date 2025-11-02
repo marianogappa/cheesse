@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VaYbpQx9"]
+[White "ruthenex"]
+[Black "kitamworth"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:34"]
+[WhiteElo "1000"]
+[BlackElo "1560"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[ECO "C22"]
+[Opening "Center Game: Hall Variation"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qc4 Nf6 5. Nc3 Be7 6. Nf3 d6 7. Bf4 Be6 8. Qa4 O-O 9. Bc4 d5 10. exd5 Nxd5 11. Bxd5 Bxd5 12. Kf1 Be6 13. Rd1 Qc8 14. Ng5 Rd8 15. Qe4 Rxd1+ 16. Nxd1 Bxg5 17. Bxg5 Qd7 18. Ke2 h6 19. Bh4 Re8 20. Qd3 Bc4+ 21. Ne3 Bxd3+ 0-1
+

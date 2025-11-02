@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/d9a1DkCl"]
+[White "RRiicchhaarrdd"]
+[Black "jgg2000"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:55"]
+[WhiteElo "1622"]
+[BlackElo "1575"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "B09"]
+[Opening "Pirc Defense: Austrian Attack"]
+[TimeControl "0+3"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. f4 Nf6 3. Nc3 g6 4. d4 Bg7 5. e5 Ng4 6. h3 Nh6 7. Nf3 dxe5 8. fxe5 O-O 9. Bf4 e6 10. Qd2 Nf5 11. O-O-O Nc6 12. Bd3 Nfxd4 13. Nxd4 Nxd4 14. Be4 c5 15. Ne2 Nxe2+ 16. Qxe2 Qe7 17. b3 Rb8 18. Qd2 b6 19. Qd6 Qxd6 20. exd6 Bd7 21. g4 Rbd8 22. Bg5 f6 23. Be3 Rfe8 24. h4 f5 25. gxf5 exf5 26. Bd5+ Kh8 27. Bg5 Rb8 28. Be7 Bf8 29. Bf7 Rxe7 30. dxe7 Bxe7 31. Rxd7 Bf6 32. Bc4 Re8 33. Rhd1 f4 34. Rf7 Bxh4 35. Rdd7 1-0
+

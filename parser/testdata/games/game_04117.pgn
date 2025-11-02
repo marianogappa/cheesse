@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7aBs4ItH"]
+[White "Jseijp"]
+[Black "owlynx"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:42"]
+[WhiteElo "1887"]
+[BlackElo "1738"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "C55"]
+[Opening "Italian Game: Scotch Gambit, de Riviere Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nc6 4. d4 exd4 5. O-O Be7 6. Nxd4 O-O 7. Nc3 Ne5 8. Qe2 Bc5 9. Nf5 d6 10. Bd5 c6 11. Bb3 Re8 12. Bg5 Bxf5 13. exf5 Neg4 14. Qd3 Ne5 15. Qd2 h6 16. Bh4 d5 17. Kh1 Qb6 18. Bxf6 gxf6 19. Qxh6 Ng4 20. Qh4 Nxf2+ 21. Rxf2 Bxf2 22. Qxf6 Qe3 23. h4 Bg3 24. Ne4 Qd4 25. Qg5+ Kf8 26. Nxg3 Qxb2 27. Rf1 Qc3 28. f6 Qxg3 29. Qxg3 1-0
+
