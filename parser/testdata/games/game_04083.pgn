@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MzK9qQ6y"]
+[White "cagarruta"]
+[Black "sick66"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:33"]
+[WhiteElo "1476"]
+[BlackElo "1402"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "300+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. Nc3 a6 5. Nxe5 dxe5 6. Qxg4 Nf6 7. Qf3 Nc6 8. Nd5 Be7 9. Nxf6+ Bxf6 10. d3 Nd4 11. Qd1 O-O 12. c3 b5 13. Bb3 Nxb3 14. axb3 Be7 15. c4 c6 16. Be3 f5 17. f3 fxe4 18. dxe4 Qxd1+ 19. Rxd1 Bb4+ 20. Bd2 a5 21. Bxb4 axb4 22. O-O bxc4 23. bxc4 b3 24. Rd3 Rab8 25. Rc1 Rf7 26. Rcc3 Rfb7 27. Kf2 Kf7 28. g3 g5 29. Rd6 Rb6 30. Ke3 Ke7 31. Rdd3 Rd8 32. Rxd8 Kxd8 33. f4 exf4+ 34. gxf4 gxf4+ 35. Kxf4 c5 36. h4 Ke7 37. Re3 Rb4 38. Rc3 Ke6 39. e5 Rb7 40. h5 Rf7+ 41. Ke4 Rf5 42. Rxb3 Rxe5+ 43. Kf4 Rxh5 44. Rb5 Kd6 45. b3 Rh4+ 46. Kg5 Rd4 47. Rb6+ Kc7 48. Rh6 Rd7 49. Rh3 Rg7+ 50. Kh6 Re7 51. Kg5 Kb6 52. Kf6 Rb7 53. Ke6 Ka7 54. Kd5 Kb6 55. Rh6+ Ka7 56. Kxc5 Rxb3 57. Rxh7+ Rb7 58. Rxb7+ Kxb7 59. Kb5 Kc7 60. c5 Kb7 61. c6+ Kc7 62. Kc5 Kb8 63. Kd6 Kc8 64. c7 Kb7 65. Kd7 Kb6 66. c8=Q Kb5 67. Kd6 Kb4 68. Kd5 Kb5 69. Qc5+ Ka4 70. Qc4+ Ka5 71. Qc7+ Ka4 72. Kc4 Ka3 73. Kc3 Ka4 74. Kc4 Ka3 75. Qc5+ Kb2 76. Qd4+ Ka3 77. Qc5+ Kb2 78. Qd4+ Ka3 79. Qc3+ Ka4 80. Qb4# 1-0
+

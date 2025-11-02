@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/FOJvsZCV"]
+[White "GustavoAPB"]
+[Black "Skenderbei"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:24"]
+[WhiteElo "1312"]
+[BlackElo "1389"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "B00"]
+[Opening "St. George Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 a6 2. d4 h6 3. Nf3 a5 4. e5 h5 5. Bc4 a4 6. O-O h4 7. Nc3 e6 8. Nxa4 Rxa4 9. c3 Rxc4 10. Qb3 Rc6 11. Nxh4 Rb6 12. Nf3 Rxb3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2bx6RXzv"]
+[White "superstef21"]
+[Black "lastsohny"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:41"]
+[WhiteElo "1426"]
+[BlackElo "1471"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 e5 4. e3 exd4 5. exd4 Bb4 6. Bxc4 Bxc3+ 7. bxc3 Nf6 8. Nf3 Qe7+ 9. Be3 Ng4 10. O-O Nxe3 11. fxe3 O-O 12. Re1 Bg4 13. e4 Bxf3 14. Qxf3 Nc6 15. d5 Na5 16. Bd3 Qc5+ 17. Kh1 Qxc3 18. Qh3 c6 19. e5 g6 20. e6 fxe6 21. dxe6 Rfe8 22. e7 Rxe7 23. Bc4+ Qxc4 24. Rxe7 Rf8 25. Qe6+ Qxe6 26. Rxe6 c5 27. g4 c4 28. a4 Rc8 29. Rc1 c3 30. Re3 c2 31. Re2 Rc4 32. Rexc2 Rxg4 33. Rc8+ Kg7 34. R1c7+ Kh6 35. Rh8 Rxa4 36. Rhxh7+ Kg5 37. Rc5+ Kf6 38. Rh3 Rf4 39. Rxa5 b6 40. Rxa7 b5 41. Ra6+ Kf5 42. Rg3 Rg4 43. Rxg4 Kxg4 44. Rxg6+ Kf4 45. Rb6 Kg4 46. Rxb5 Kh3 47. Rb3+ Kg4 48. h3+ Kh4 49. Kg2 Kg5 50. Kg3 Kh5 51. Rb5+ Kg6 52. Kg4 Kh7 53. Rb6 Kg7 54. Kg5 Kf7 55. h4 Ke7 56. h5 Kd7 57. h6 Kc7 58. Ra6 Kb7 59. h7 Kxa6 60. h8=Q Kb5 61. Qc3 Ka4 62. Kf5 Kb5 63. Ke5 Ka4 64. Kd5 Kb5 65. Qc5+ Ka4 66. Qb6 Ka3 67. Kc5 Ka2 68. Kc4 Ka1 69. Kc3 Ka2 70. Qb2# 1-0
+

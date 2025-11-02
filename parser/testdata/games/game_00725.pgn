@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UnfgLfVF"]
+[White "atteppurg"]
+[Black "leite_10"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:44"]
+[WhiteElo "1663"]
+[BlackElo "1574"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+[ECO "C60"]
+[Opening "Ruy Lopez: Cozio Defense"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. Ng5 h6 5. Nf3 a6 6. Bxc6 Nxc6 7. O-O d6 8. c3 Bg4 9. d3 Bxf3 10. Qxf3 Qf6 11. Qe3 h5 12. Na3 h4 13. h3 g6 14. Qg5 Qxg5 15. Bxg5 Be7 16. Bxe7 Nxe7 17. Nc4 O-O-O 18. d4 exd4 19. cxd4 Nc6 20. d5 Nd4 21. Rad1 Ne2+ 22. Kh1 Nf4 23. Kh2 Rhe8 24. Rde1 b5 25. Na5 Re5 26. Nc6 Nxg2 27. Kxg2 Rg5+ 28. Kh2 Rf8 29. f4 Rg3 30. Rg1 Rd3 31. Nb4 Rd2+ 32. Rg2 Rd4 33. Nc6 Ra4 34. a3 Rc4 35. Na5 Rd4 36. Nb3 Rd3 37. Na5 Rd4 38. Rge2 Ra4 39. Nc6 Rc4 40. Na7+ Kb7 41. Nc6 Kc8 42. Ne7+ Kd7 43. Nc6 Kc8 1/2-1/2
+

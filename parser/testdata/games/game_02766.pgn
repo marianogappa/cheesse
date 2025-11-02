@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pttXYvZu"]
+[White "Mateikonys"]
+[Black "thekillingjoke"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:23"]
+[WhiteElo "1632"]
+[BlackElo "1650"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. g3 d5 2. Bg2 Nf6 3. c4 d4 4. Qa4+ c6 5. c5 Na6 6. Nf3 Nxc5 7. Qxd4 Qxd4 8. Nxd4 e5 9. Nb3 Nxb3 10. axb3 Bc5 11. e3 Be6 12. O-O Bxb3 13. Nc3 Bc4 14. Re1 O-O 15. Ne4 Nxe4 16. Bxe4 f5 17. Bf3 e4 18. Bg2 Rfd8 19. Ra5 Bb4 20. Rxf5 Bxd2 21. Bxd2 Rxd2 22. Bxe4 Rxb2 23. Rc1 Bd5 24. Bxd5+ cxd5 25. Rxd5 a5 26. Rd7 a4 27. Rcc7 a3 28. Rxg7+ Kf8 29. Rxh7 a2 30. Rh8# 1-0
+

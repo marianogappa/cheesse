@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kkjj7ktu"]
+[White "slayerjawor"]
+[Black "francjanez"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:12"]
+[WhiteElo "1521"]
+[BlackElo "1596"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-12"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nf3 Ne7 3. c4 Ng6 4. g3 Be7 5. d4 h5 6. Nc3 Bb4 7. Bd2 Bxc3 8. bxc3 d5 9. cxd5 exd5 10. exd5 Qxd5 11. Bg2 Bg4 12. h3 Qe4+ 13. Be3 O-O 14. hxg4 hxg4 15. Nh4 Qe6 16. Nxg6 fxg6 17. Bxb7 c6 18. Bxa8 Qe4 19. d5 Qxh1+ 20. Ke2 Qf3+ 21. Kf1 Qh1+ 22. Ke2 Qf3+ 23. Kf1 Qxd1+ 24. Rxd1 cxd5 25. Bxa7 Nd7 26. Bxd5+ Kh7 27. Be6 Ne5 28. Bc5 Rf6 29. Bc8 Nf3 30. Bd4 Nxd4 31. cxd4 Kh6 32. d5 Rd6 33. Rd4 Kg5 34. Ke2 Kf6 35. Ke3 Ke5 36. Bb7 g5 37. a4 g6 38. Bc6 Kf6 39. a5 1-0
+

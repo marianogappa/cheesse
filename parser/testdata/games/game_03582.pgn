@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/E4qcXhcT"]
+[White "tk207"]
+[Black "Mueremalnacido"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:41"]
+[WhiteElo "1518"]
+[BlackElo "1889"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. d3 d5 2. e4 dxe4 3. dxe4 Qxd1+ 4. Kxd1 Nc6 5. Nc3 a6 6. Be3 e5 7. Bd3 Be6 8. Nf3 f6 9. a4 Rd8 10. Ke2 Bb4 11. Rhb1 Nge7 12. h4 Nd4+ 13. Bxd4 exd4 14. Nd5 Bxd5 15. exd5 Rxd5 16. Rc1 Rd6 17. c3 dxc3 18. bxc3 Bc5 19. Rab1 b6 20. g4 a5 21. g5 O-O 22. g6 hxg6 23. Rh1 Re8 24. Rbg1 Nf5+ 25. Kf1 Rxd3 26. Ne1 Rd1 27. Kg2 Nxh4+ 28. Rxh4 Rexe1 29. Rxe1 Rxe1 30. Kf3 Rf1 31. Re4 Rxf2+ 32. Kg3 f5 33. Re7 Bxe7 0-1
+

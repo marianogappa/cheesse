@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/rb9mtMaP"]
+[White "AligiereTensa"]
+[Black "kingsharkjr"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:47"]
+[WhiteElo "1227"]
+[BlackElo "1195"]
+[WhiteRatingDiff "+24"]
+[BlackRatingDiff "-11"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c3 Nc6 3. e4 Bg4 4. exd5 Bxd1 5. dxc6 Qd5 6. Kxd1 Qxc6 7. Nd2 O-O-O 8. Nb3 e5 9. Na5 Qb6 10. Nc6 Qxc6 11. Bb5 Qxb5 12. Bf4 exd4 13. Be5 Qxe5 14. Rc1 dxc3+ 15. Kc2 Qd4 16. Ne2 Qd2+ 17. Kb3 Qxe2 18. Rxc3 Qe4 19. Rhc1 Rd4 20. Rxc7+ Kb8 21. Rc8# 1-0
+

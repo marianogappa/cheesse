@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7duBcZSD"]
+[White "dragonovic"]
+[Black "DarrylChan"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:04"]
+[WhiteElo "1515"]
+[BlackElo "1817"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+48"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Ulysses Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. d4 dxe4 4. Ng5 Nf6 5. Nc3 Bf5 6. Bc4 e6 7. Be3 h6 8. Nh3 Bb4 9. Nf4 Nbd7 10. O-O Nb6 11. Bb3 Bxc3 12. bxc3 Nbd5 13. Nxd5 cxd5 14. h3 O-O 15. f3 Rc8 16. fxe4 Nxe4 17. Bd2 Nxc3 18. Bxc3 Rxc3 19. Qd2 Rg3 20. Qf4 Rg6 21. g4 Qh4 22. Kh2 Bxg4 23. c4 Qxh3+ 24. Kg1 Bf3+ 25. Kf2 Qg2+ 26. Ke3 Qe2# 0-1
+

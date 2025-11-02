@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/tuUBZuMw"]
+[White "Chandra-PW"]
+[Black "hoscarua"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:20"]
+[WhiteElo "2367"]
+[BlackElo "2104"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "B50"]
+[Opening "Sicilian Defense: Delayed Alapin"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.29] } 1... c5 { [%eval 0.3] } 2. Nf3 { [%eval 0.29] } 2... d6 { [%eval 0.28] } 3. c3 { [%eval 0.14] } 3... e5?! { [%eval 0.79] } 4. h3?! { [%eval 0.08] } 4... Nc6?! { [%eval 0.71] } 5. d4 { [%eval 0.68] } 5... Nf6 { [%eval 0.85] } 6. dxe5 { [%eval 0.53] } 6... dxe5 { [%eval 0.72] } 7. Qxd8+ { [%eval 0.63] } 7... Kxd8 { [%eval 0.75] } 8. Bb5 { [%eval 0.46] } 8... Bd6 { [%eval 0.53] } 9. O-O { [%eval 0.41] } 9... Kc7 { [%eval 0.41] } 10. Bg5? { [%eval -0.7] } 10... Be6?! { [%eval 0.12] } 11. Bxf6 { [%eval -0.25] } 11... gxf6 { [%eval -0.07] } 12. Bxc6?! { [%eval -0.78] } 12... Kxc6 { [%eval -0.7] } 13. Nbd2 { [%eval -0.68] } 13... Rhg8 { [%eval -0.63] } 14. Kh1 { [%eval -0.77] } 14... Rg7 { [%eval -0.33] } 15. Nh4 { [%eval -0.45] } 15... Rag8 { [%eval 0.0] } 16. Rg1?! { [%eval -0.5] } 16... h5?! { [%eval 0.19] } 17. Nf5?! { [%eval -0.58] } 17... Bxf5 { [%eval -0.56] } 18. exf5 { [%eval -0.67] } 18... Rd8? { [%eval 0.9] } 19. Ne4 { [%eval 0.77] } 19... Be7 { [%eval 0.87] } 20. Rad1 { [%eval 0.85] } 20... Rgg8 { [%eval 0.74] } 21. g4? { [%eval -0.46] } 21... hxg4? { [%eval 0.86] } 22. Rxd8 { [%eval 0.79] } 22... Rxd8?! { [%eval 1.32] } 23. Rxg4 { [%eval 1.07] } 23... Rd1+ { [%eval 1.56] } 24. Kg2 { [%eval 1.19] } 24... Rb1? { [%eval 2.56] } 25. b3 { [%eval 2.16] } 25... Rb2?! { [%eval 2.67] } 26. Rg7 { [%eval 2.46] } 26... c4?! { [%eval 3.0] } 27. bxc4 { [%eval 2.54] } 27... Rxa2?! { [%eval 3.14] } 28. Rxf7 { [%eval 2.76] } 28... Bc5?? { [%eval 10.18] } 29. Rxf6+ { [%eval 9.75] } 29... Kc7 { [%eval 9.45] } 30. Nxc5 { [%eval 8.75] } 30... Rc2? { [%eval 15.32] } 31. Rf7+ { [%eval 14.14] } 31... Kc6 { [%eval 14.09] } 32. Ne4 { [%eval 12.52] } 32... Re2 { [%eval 15.75] } 33. Kf3 { [%eval 13.49] } 33... Ra2 { [%eval 124.73] } 34. f6 { [%eval 56.01] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/u9AI00bP"]
+[White "pldn"]
+[Black "paspaspas"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:46"]
+[WhiteElo "1578"]
+[BlackElo "1725"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "C42"]
+[Opening "Russian Game: Damiano Variation, Kholmov Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 Qe7 5. d4 Nf6 6. Bg5 d6 7. Bxf6 gxf6 8. Ng4 Bxg4 9. Qxe7+ Bxe7 10. f3 Bf5 11. c3 Nc6 12. Nd2 O-O-O 13. Ne4 d5 14. Ng3 Bg6 15. Bb5 Rhe8 16. Bxc6 bxc6 17. O-O Bd6 18. Ne2 Rxe2 0-1
+

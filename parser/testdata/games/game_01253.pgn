@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QaGl27O6"]
+[White "ssvandine"]
+[Black "probando"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:38"]
+[WhiteElo "1983"]
+[BlackElo "1907"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. f4 e6 2. e3 Be7 3. Nf3 d5 4. b3 c5 5. Bb2 Bf6 6. Nc3 b5 7. Bxb5+ Bd7 8. Bxd7+ Nxd7 9. O-O a5 10. Na4 Ne7 11. Bxf6 Nxf6 12. Nxc5 Qc7 13. d4 Nc6 14. c4 O-O 15. Rc1 Nb4 16. a3 Nc6 17. Qd2 Rfb8 18. Rb1 Rb6 19. Rb2 Rab8 20. Rfb1 h6 21. Ne5 Nxe5 22. fxe5 Nd7 23. Nxd7 Qxd7 24. c5 Ra6 25. b4 axb4 26. axb4 Ra3 27. Qe2 Qa4 28. b5 Ra1 29. b6 Kf8 30. Qb5 Qa3 31. Qb3 Rxb1+ 32. Rxb1 Qa6 33. c6 Ke7 34. c7 Rb7 1-0
+

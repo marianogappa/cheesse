@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/k9Pyl0e3"]
+[White "bachkop999"]
+[Black "Vladislavwwvv"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:58"]
+[WhiteElo "1382"]
+[BlackElo "1293"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-56"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation #3"]
+[TimeControl "0+2"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 e6 3. d4 f6 4. Nf3 fxe5 5. Nxe5 g6 6. Qf3 h6 7. Qf7# 1-0
+

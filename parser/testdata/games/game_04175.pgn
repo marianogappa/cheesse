@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yDR6Xhjq"]
+[White "rubenpinus"]
+[Black "new_world"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:56"]
+[WhiteElo "2121"]
+[BlackElo "2224"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-14"]
+[ECO "C41"]
+[Opening "Philidor Defense: Lion Variation"]
+[TimeControl "240+2"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Re1 a6 8. a4 b6 9. Ba2 Bb7 10. h3 h6 11. dxe5 Nxe5 12. Nxe5 dxe5 13. Qf3 Bb4 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/4WsH7Bff"]
+[White "lobodc"]
+[Black "bluesfer"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:43"]
+[WhiteElo "1639"]
+[BlackElo "1634"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation #2"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Be6 5. Bd3 Qd7 6. O-O Nc6 7. Nb5 a6 8. N5c3 Be7 9. f4 Bg4 10. Qe1 Nd4 11. Qd2 Nf6 1/2-1/2
+

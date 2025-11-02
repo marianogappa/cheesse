@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/BhifyT2h"]
+[White "Biggyswa"]
+[Black "JarassicJock"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:55"]
+[WhiteElo "1549"]
+[BlackElo "1455"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+[ECO "A34"]
+[Opening "English Opening: Symmetrical Variation, Normal Variation"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. c4 c5 2. Nc3 g6 3. Nf3 Bg7 4. d4 cxd4 5. Nxd4 Nc6 6. Nxc6 bxc6 7. Bf4 1-0
+

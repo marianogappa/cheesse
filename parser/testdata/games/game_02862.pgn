@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/WFtxTYBg"]
+[White "Turmouth"]
+[Black "DoctorCheck"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:41"]
+[WhiteElo "1798"]
+[BlackElo "1591"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 c5 3. Nf3 Bg4 4. Be2 e6 5. c3 Nc6 6. d4 cxd4 7. cxd4 Qb6 8. Be3 Qxb2 9. Nbd2 Qc3 10. O-O Bxf3 11. gxf3 Qa5 12. Kh1 Qd8 13. Rg1 g6 14. Bg5 Be7 15. Bxe7 Qxe7 16. Rb1 b6 17. Bb5 Qd7 18. Qa4 Nge7 19. Rbc1 Rc8 20. Rc3 O-O 21. Rgc1 Qb7 22. Bxc6 Nxc6 23. Rxc6 Rxc6 24. Qxc6 b5 25. Qxb7 1-0
+

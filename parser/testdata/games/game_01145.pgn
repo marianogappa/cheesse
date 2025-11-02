@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Wn5PyVhd"]
+[White "turco1"]
+[Black "PressX_toWin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:17"]
+[WhiteElo "976"]
+[BlackElo "887"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Qf3 Nf6 3. Bc4 d5 4. Bb5+ Nc6 5. exd5 Nxd5 6. Bc4 Nd4 7. Qxd5 Nxc2+ 8. Kd1 Nxa1 9. Qxf7+ Kd7 10. Be6+ Kc7 11. Qf4+ Kc6 12. Qe4+ Kd6 13. Bd5 e6 14. Bc4 Qa5 15. Qf4+ Kc6 16. Qe4+ Kd6 17. Nc3 e5 18. Nb5+ Kd7 19. Qd5+ Bd6 20. Qxd6+ Ke8 21. Nc7+ Qxc7 1-0
+

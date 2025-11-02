@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DoULd1VC"]
+[White "rezamoghimi20"]
+[Black "RobiVan"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:57"]
+[WhiteElo "1446"]
+[BlackElo "1424"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "A80"]
+[Opening "Dutch Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 f5 2. e3 e6 3. c4 Nf6 4. Bd3 Nc6 5. Nf3 Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 O-O 8. Qb3 d5 9. cxd5 Nxd5 10. Bc4 Na5 11. Qb5 Nxc4 12. Qxc4 c6 13. O-O Qd7 14. a3 b5 15. Qc2 a5 16. Ne5 Qc7 17. Qxc6 Qxc6 18. Nxc6 Bb7 19. Ne5 Ba6 20. Rfc1 b4 21. axb4 axb4 22. Rc6 Be2 23. Rxa8 Rxa8 24. g3 Ra1+ 25. Kg2 h6 26. Rxe6 Nf6 27. Rb6 Ne4 28. Nxe4 fxe4 29. Rxb4 Bf3+ 30. Kh3 Rg1 31. Nxf3 exf3 32. Kg4 Rh1 33. h4 Rh2 34. Kxf3 h5 35. e4 g6 36. d5 Kf7 37. e5 Rh1 38. Rb7+ Ke8 39. d6 Re1 40. Kf4 Rf1 41. f3 g5+ 42. hxg5 Rh1 43. e6 h4 44. gxh4 Rxh4+ 45. Kf5 Rd4 46. d7+ Kd8 47. g6 Rd5+ 48. Kf6 Rd3 49. f4 Re3 50. g7 Rf3 51. g8=Q# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/orE8LCKU"]
+[White "aryanbalyan"]
+[Black "mossrogers"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:45"]
+[WhiteElo "1682"]
+[BlackElo "1780"]
+[WhiteRatingDiff "+85"]
+[BlackRatingDiff "-12"]
+[ECO "D32"]
+[Opening "Tarrasch Defense: Two Knights Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.12] } 1... e6 { [%eval 0.21] } 2. Nf3 { [%eval 0.21] } 2... d5 { [%eval 0.14] } 3. c4 { [%eval 0.15] } 3... c5 { [%eval 0.36] } 4. cxd5 { [%eval 0.32] } 4... exd5 { [%eval 0.39] } 5. Nc3 { [%eval 0.28] } 5... cxd4 { [%eval 0.39] } 6. Nxd4 { [%eval 0.31] } 6... Nc6 { [%eval 0.52] } 7. g3 { [%eval 0.27] } 7... Bc5 { [%eval 0.43] } 8. Nb3 { [%eval 0.29] } 8... d4? { [%eval 1.65] } 9. Nxc5 { [%eval 1.59] } 9... dxc3 { [%eval 1.51] } 10. Qxd8+ { [%eval 1.51] } 10... Nxd8 { [%eval 1.5] } 11. bxc3 { [%eval 1.53] } 11... Nf6 { [%eval 1.68] } 12. Bg2 { [%eval 1.54] } 12... O-O { [%eval 1.42] } 13. O-O { [%eval 1.35] } 13... Re8 { [%eval 1.47] } 14. e4 { [%eval 1.21] } 14... b6 { [%eval 1.56] } 15. e5 { [%eval 1.5] } 15... Rxe5?! { [%eval 2.25] } 16. Bxa8 { [%eval 2.0] } 16... bxc5? { [%eval 3.11] } 17. Bf4 { [%eval 2.86] } 17... Rh5?? { [%eval 6.01] } 18. Rad1? { [%eval 3.45] } 18... Ne6 { [%eval 3.5] } 19. Rfe1 { [%eval 3.25] } 19... h6 { [%eval 3.57] } 20. Be5 { [%eval 3.49] } 20... Ng5?? { [%eval 8.9] } 21. Bxf6 { [%eval 8.7] } 21... gxf6? { [%eval 10.65] } 22. Re8+ { [%eval 10.31] } 22... Kg7 { [%eval 10.22] } 23. Rxc8 { [%eval 9.97] } 23... Nf3+ { [%eval 15.53] } 1-0
+

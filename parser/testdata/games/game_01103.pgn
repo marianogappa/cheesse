@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/N5tZ9sAc"]
+[White "Meetztapooz"]
+[Black "Hackfleisch"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:07"]
+[WhiteElo "1733"]
+[BlackElo "1731"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+1"]
+[ECO "A00"]
+[Opening "Polish Opening: King's Indian Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. b4 Nf6 2. Bb2 g6 3. c4 Bg7 4. Nc3 O-O 5. Qc2 Re8 6. e3 d6 7. d4 Nbd7 8. Bd3 e5 9. dxe5 dxe5 10. Nf3 c5 11. b5 b6 12. Ne4 Nxe4 13. Bxe4 Rb8 14. Rd1 Qe7 15. h4 Bb7 16. Bd5 Bxd5 17. cxd5 e4 18. d6 Qe6 19. Ng5 Qf5 20. Bxg7 Kxg7 21. Qc3+ f6 22. Nh3 Ne5 23. Nf4 Rbd8 24. Qb3 Rd7 25. Rh3 Red8 26. Rd5 Qg4 27. Rg3 Qxh4 28. Ne6+ Kh8 29. Nxd8 Rxd8 30. d7 Nd3+ 31. Ke2 Qh5+ 32. Kd2 Qh1 33. Rxd3 exd3 34. Qxd3 Qh5 35. Qd6 Qe5 36. Qxe5 fxe5 37. Ke2 Rxd7 38. Rf3 Kg7 39. g3 Rd5 40. a4 c4 41. e4 Rc5 42. Rc3 h5 43. Ke3 Kf6 44. f3 g5 45. f4 h4 46. gxh4 gxh4 47. fxe5+ Kxe5 48. Kf3 h3 49. Kg3 h2 50. Kxh2 Kxe4 51. Kg3 Kd4 52. Rf3 c3 53. Rf4+ Kd3 54. Rf3+ Kc2 55. Rf2+ Kb3 56. Rf3 Kb2 57. Rf2+ c2 58. Rf1 c1=Q 59. Rxc1 Rxc1 60. Kf3 Ra1 61. Ke4 Rxa4+ 62. Kd5 Rb4 63. Kc6 Rxb5 64. Kxb5 Kb3 65. Ka6 Kb4 66. Kxa7 b5 67. Ka6 Ka4 68. Kb6 b4 69. Kc5 b3 70. Kd4 b2 71. Kd3 b1=Q+ 72. Kd4 1/2-1/2
+

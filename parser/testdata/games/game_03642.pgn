@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/bnDrh4WV"]
+[White "wipawa"]
+[Black "ridox"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:54"]
+[WhiteElo "1538"]
+[BlackElo "1594"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "B03"]
+[Opening "Alekhine Defense: Exchange Variation"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. exd6 cxd6 6. Nf3 g6 7. Be2 Bg7 8. Be3 Nc6 9. O-O Bg4 10. b3 O-O 11. Nc3 e5 12. dxe5 dxe5 13. Rc1 Bxf3 14. Bxf3 Qc7 15. Bxc6 bxc6 16. Qf3 Nc8 17. Rfd1 Ne7 18. Bc5 Rfc8 19. Bxe7 Qxe7 20. Ne4 f5 21. Nd6 Rd8 22. c5 a5 23. a3 e4 24. Qe3 Be5 25. b4 Bxd6 26. Rxd6 Rxd6 27. cxd6 Qxd6 28. Qc5 Qxc5 29. Rxc5 axb4 30. Rxc6 bxa3 0-1
+

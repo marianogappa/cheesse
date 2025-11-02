@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FgUccnwz"]
+[White "guagua"]
+[Black "empiezo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:33"]
+[WhiteElo "1298"]
+[BlackElo "1466"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-17"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Be2 Nc6 4. O-O Be7 5. d4 Nf6 6. dxe5 Nd7 7. exd6 Bxd6 8. Nc3 O-O 9. Be3 Qe7 10. Re1 Bb4 11. Bd3 Nde5 12. Nxe5 Qxe5 13. Bd2 Be6 14. a3 Ba5 15. Nb5 Bxd2 16. Qxd2 Rad8 17. Nc3 Nd4 18. Qe3 c6 19. Rab1 Bc4 20. Bxc4 Nxc2 21. Qxa7 Nxe1 22. Rxe1 Rd2 23. Qxb7 Qc5 24. Bf1 Rfd8 25. Qb4 Qd6 26. g3 h6 27. Bg2 c5 28. Qc4 Rd4 29. Qe2 Rd2 30. Qb5 Qd4 31. Qf1 c4 32. Bf3 Rxb2 33. Rd1 Qxc3 34. Rxd8+ Kh7 35. Be2 Qd2 36. Bxc4 Qd3 37. Bxd3 1-0
+

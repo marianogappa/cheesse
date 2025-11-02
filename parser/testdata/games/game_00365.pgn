@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/cl4XXuOi"]
+[White "Rollpawn666"]
+[Black "Names99"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:15"]
+[WhiteElo "1906"]
+[BlackElo "1946"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "A48"]
+[Opening "London System"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 c6 5. Nbd2 d5 6. Bd3 Nbd7 7. h3 O-O 8. Ne5 Ne8 9. c4 Nxe5 10. dxe5 dxc4 11. Bxc4 Qa5 12. e6 Bxe6 13. Bxe6 fxe6 14. Qb3 Rd8 15. Qxe6+ Kh8 16. Rd1 Bxb2 17. Qxe7 Nf6 18. Bc7 Qh5 19. Bxd8 Re8 20. Qxf6+ Bxf6 21. Bxf6+ Kg8 22. Nf3 Qa5+ 23. Nd2 Qxa2 24. O-O Qe6 25. Ba1 b5 26. Nb3 Qxb3 27. Rd7 a5 28. Rfd1 Re7 29. Rd8+ Kf7 30. Kh2 a4 31. Rc1 Qe6 32. Rh8 Qd6+ 33. g3 Ke6 34. Rc8 Rc7 35. Re8+ Kf5 36. Kg2 Rf7 37. Bd4 a3 38. Rc5+ Qxc5 39. Bxc5 a2 40. Ra8 Ke6 41. Rxa2 Kd5 42. Bb4 c5 43. Rd2+ Kc4 44. Ba5 b4 45. Kf1 Kc3 46. Rd1 Kc2 47. Rd5 Rf5 48. Rd7 b3 49. Ke2 b2 50. Rd2+ Kb3 51. Rd3+ Ka2 52. Bd2 b1=Q 53. Rd8 Qb5+ 54. Ke1 Qb7 55. Rd3 0-1
+

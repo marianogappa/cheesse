@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/aj3DsMvG"]
+[White "matlinger"]
+[Black "xRambaZamba"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:31"]
+[WhiteElo "1291"]
+[BlackElo "1429"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+8"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #3"]
+[TimeControl "1200+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. e3 d5 3. c4 Nc6 4. c5 e5 5. Nf3 exd4 6. Nxd4 Nxd4 7. exd4 Ne4 8. f3 Qh4+ 9. g3 Nxg3 10. Qd2 Nxh1+ 11. Kd1 Nf2+ 12. Kc2 Bf5+ 13. Kc3 Qxh2 14. Qe2+ Be7 15. Nd2 O-O 16. f4 Qg3+ 17. Nf3 Ne4+ 18. Kb3 Bg4 19. Kc2 Bxf3 20. Qe3 Qf2+ 21. Qxf2 Nxf2 22. Be3 Ne4 23. b4 f5 24. a4 c6 25. a5 a6 26. Re1 Rae8 27. Be2 Bh4 28. Bxf3 Bxe1 29. Bxe4 dxe4 30. Bd2 Bxd2 31. Kxd2 Rd8 32. Kc3 Rf6 33. Kc4 Rh6 34. d5 Rxd5 35. b5 axb5+ 36. Kb4 Rh4 37. Kc3 Rxf4 38. a6 bxa6 39. Kb4 e3+ 40. Ka5 Rxc5 41. Kxa6 e2 42. Kb6 Rc3 43. Kb7 e1=Q 44. Kb6 Qb1 45. Kb7 Ra4 46. Kb6 Qb4 47. Kc7 Qc5 48. Kc8 Qf8+ 49. Kc7 Rd3 50. Kb6 c5 51. Kxb5 Rad4 52. Kc6 c4 53. Kb5 c3 54. Kb6 c2 55. Kb5 c1=Q 56. Kb6 Rb3+ 57. Ka6 Ra4# 0-1
+

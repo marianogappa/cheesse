@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/y5Ns3vFj"]
+[White "Enrof"]
+[Black "megaserg86"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:47"]
+[WhiteElo "1996"]
+[BlackElo "2073"]
+[WhiteRatingDiff "-21"]
+[BlackRatingDiff "+9"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[TimeControl "0+1"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 c6 3. d4 Nf6 4. Nf3 cxd5 5. Nc3 Nc6 6. Bg5 e6 7. Bb5 Be7 8. Ne5 Bd7 9. Nxd7 Qxd7 10. O-O a6 11. Bd3 h6 12. Be3 g5 13. f4 g4 14. g3 h5 15. Qe2 O-O-O 16. Qf2 h4 17. a4 hxg3 18. Qxg3 Rh3 19. Qg2 Rdh8 20. Qxh3 gxh3 21. Kf2 Ne4+ 22. Nxe4 dxe4 23. Be2 Nxd4 24. Bg4 f5 25. Be2 Nxe2 26. Kxe2 Qc6 27. Rad1 Qc4+ 28. Kf2 Rg8 29. c3 Rg2+ 30. Ke1 Re2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EFt3WAAx"]
+[White "tonypons"]
+[Black "militan"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:49"]
+[WhiteElo "1690"]
+[BlackElo "1625"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "180+1"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 d6 5. Nxc6 bxc6 6. Nc3 Nf6 7. Be2 g6 8. Bf3 Bg7 9. e5 Nd5 10. Nxd5 cxd5 11. Bxd5 Rb8 12. exd6 Qxd6 13. O-O O-O 14. Bf3 Qxd1 15. Bxd1 Bxb2 16. Bxb2 Rxb2 17. a3 Bf5 18. c4 Bd3 19. Re1 Bxc4 20. Re7 Rc8 21. Bg4 f5 22. Bf3 Ba6 23. h3 Rc2 24. Rd1 Be2 25. Bxe2 Rxe2 26. Rdd7 Rxe7 27. Rxe7 c5 28. Rxa7 c4 29. Rd7 c3 30. Rd1 Kf7 31. Rc1 Ke6 32. Kf1 Kd5 33. Ke2 Kd4 34. Kd1 Kd3 35. g4 f4 36. a4 Ra8 37. Ra1 c2+ 38. Kc1 Rb8 39. a5 Rb7 40. a6 Ra7 41. Ra2 1-0
+

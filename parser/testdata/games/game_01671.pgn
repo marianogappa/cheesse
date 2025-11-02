@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/VwupEz1G"]
+[White "lean19"]
+[Black "ecadeoamor"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:17"]
+[WhiteElo "1541"]
+[BlackElo "1438"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Qf6 3. d4 Nc6 4. d5 Nb4 5. Bd2 b6 6. a3 Na6 7. Bg5 Qg6 8. Nc3 Be7 9. Qd2 Nf6 10. Nxe5 Nxe4 11. Nxg6 Nxd2 12. Bxe7 Rg8 13. Kxd2 hxg6 14. Re1 Nc5 15. Bxc5+ Kd8 16. Be7+ Ke8 17. d6 cxd6 18. Bxd6+ Kd8 19. Nd5 Bb7 20. Bc7+ Kc8 21. Ne7+ Kxc7 22. Nxg8 Rxg8 23. f3 Bd5 24. c4 Bc6 25. b4 Ba4 26. b5 d6 27. Kc3 a5 28. bxa6 Ra8 29. Re7+ Kd8 30. Rxf7 Rxa6 31. c5 Ra8 32. Rf8+ Be8 33. cxd6 Rc8+ 34. Kd4 Kd7 35. Bb5+ Kxd6 36. Rxe8 Rc5 37. Rd8+ Ke6 1-0
+

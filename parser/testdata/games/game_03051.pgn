@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/11euWM7R"]
+[White "Jdvalter"]
+[Black "OmarHydrah"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:26"]
+[WhiteElo "1812"]
+[BlackElo "1820"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+11"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 c6 3. Nc3 a6 4. e4 b5 5. Bd3 bxc4 6. Bxc4 d5 7. Bd3 Nf6 8. Nge2 Be7 9. f3 Nfd7 10. e5 Bh4+ 11. g3 Be7 12. O-O c5 13. Be3 Nc6 14. Kg2 cxd4 15. Nxd4 Ncxe5 16. Bc2 Nc4 17. Nc6 Nxe3+ 18. Kh1 Nxd1 19. Nxd8 Bxd8 20. Raxd1 O-O 21. f4 Rb8 22. b3 Bf6 23. Ne2 Nc5 24. f5 h6 25. Kg2 exf5 26. h4 g6 27. Kh2 Be6 28. Nf4 Kg7 29. Nxd5 Bxd5 30. Rxd5 Rbc8 31. Bd1 Ne4 32. Re1 Rc3 33. Rg1 Bd8 34. g4 Bc7+ 35. Kg2 Rg3+ 36. Kf1 Rxg1+ 37. Kxg1 Nc3 38. Rd7 Bb6+ 39. Kg2 Nxd1 40. Rxd1 fxg4 41. Rd6 Rb8 42. Kg3 h5 43. Kf4 Bc7 44. Ke5 Rb5+ 0-1
+

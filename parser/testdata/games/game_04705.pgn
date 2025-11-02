@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ItsTJNa3"]
+[White "firasa"]
+[Black "rosalvin"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:06"]
+[WhiteElo "1461"]
+[BlackElo "1619"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 h6 4. e5 e6 5. Nc3 Ne7 6. Bc4 a6 7. O-O d5 8. exd6 cxd6 9. d5 e5 10. Re1 f5 11. Nh4 Nd7 12. f4 e4 13. Be3 Bxc3 14. bxc3 b5 15. Bd4 Rg8 16. Bb3 Bb7 17. c4 bxc4 18. Bxc4 Bxd5 19. Bf6 Nxf6 20. Bxd5 Nfxd5 21. Qxd5 Kf8 22. Qd1 Qb6+ 23. Kh1 Rd8 24. Rb1 Qc5 25. g4 Nd5 26. gxf5 Nc3 27. Qd2 Nxb1 28. Nxg6+ Rxg6 29. fxg6 Nxd2 30. Rg1 Kg7 31. f5 Nf3 32. Rg2 d5 33. h3 d4 34. Re2 d3 35. cxd3 exd3 36. Re6 Rf8 37. Kg2 Ne1+ 38. Rxe1 Rxf5 39. Re6 Qf2+ 40. Kh1 Qf1+ 41. Kh2 Rf2+ 42. Kg3 Qg2+ 43. Kh4 Qg5# 0-1
+

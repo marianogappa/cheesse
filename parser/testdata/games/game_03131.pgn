@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/wTIMJCvh"]
+[White "Robertsun"]
+[Black "osipov"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:47"]
+[WhiteElo "2183"]
+[BlackElo "1997"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. Nf3 d5 3. g3 Nf6 4. Bg2 c5 5. O-O cxd4 6. Nxd4 Nc6 7. c4 Bc5 8. Nxc6 bxc6 9. Qa4 Bd7 10. Bg5 O-O 11. Nd2 Be7 12. Rac1 Rb8 13. Qc2 h6 14. Bf4 Rb7 15. Rfd1 Bb4 16. b3 Ba3 17. Rb1 Qe7 18. e4 dxe4 19. Nxe4 Nxe4 20. Qxe4 Rb6 21. Be3 Ra6 22. Bf4 Rd8 23. Rd2 Bb4 24. Rd3 Rxa2 25. Rbd1 Qc5 26. Be3 Qe7 27. Qf3 Bc5 28. Bf4 Bxf2+ 29. Kh1 Bxg3 30. hxg3 Rb8 31. Bxb8 Qa3 32. Rxd7 Rxg2 33. Kxg2 Qa2+ 34. R7d2 Qxb3 35. Rd8+ 1-0
+

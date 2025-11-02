@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/LC2O3wcL"]
+[White "helvetian"]
+[Black "KingRod"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:45"]
+[WhiteElo "1668"]
+[BlackElo "1611"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+14"]
+[ECO "C30"]
+[Opening "King's Gambit Declined, Queen's Knight Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 d6 4. Nc3 Bg4 5. Bc4 Bxf3 6. Qxf3 Nd4 7. Qd1 Qh4+ 8. g3 Qh3 9. d3 Nf6 10. Ne2 Nxe2 11. Qxe2 Be7 12. fxe5 dxe5 13. Bg5 O-O 14. Bxf6 Bxf6 15. Rf1 Rad8 16. O-O-O a6 17. Rf5 b5 18. Rh5 Qd7 19. Bb3 a5 20. a3 a4 21. Ba2 Qe7 22. Rf1 c5 23. Rff5 g6 24. Qg4 Kh8 25. Rxh7+ Kxh7 26. Qh3+ Kg7 27. Qg4 Rh8 28. h4 Kf8 29. Rf2 Rh5 30. Qe2 b4 31. axb4 cxb4 32. Bc4 a3 33. b3 a2 34. Kb2 Ra8 35. Rf1 Qd8 36. Ra1 Qd4+ 37. c3 Qxc3# 0-1
+

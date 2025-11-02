@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3l4NgnAw"]
+[White "Toulis"]
+[Black "alaa_haifawi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:11"]
+[WhiteElo "1661"]
+[BlackElo "1654"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-12"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "600+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nc6 4. dxe5 Be6 5. Bb5 Qd7 6. b3 O-O-O 7. O-O Bg4 8. Nbd2 dxe5 9. Bb2 Bb4 10. c3 Bxf3 11. Nxf3 Qe6 12. Qc2 Be7 13. Bxc6 Qxc6 14. Nxe5 Qb6 15. Nxf7 Nf6 16. Nxh8 Rxh8 17. c4 Rf8 18. h3 Bc5 19. Rad1 g6 20. e5 Nh5 21. Qd2 Ng3 22. Qd7+ Kb8 23. Qd8+ 1-0
+

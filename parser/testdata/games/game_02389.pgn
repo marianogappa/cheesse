@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/uoopwBsf"]
+[White "markast"]
+[Black "jerrimada"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:05"]
+[WhiteElo "1231"]
+[BlackElo "1319"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. g3 Nh6 2. Bg2 Na6 3. b3 d5 4. d3 e6 5. Bxh6 Bc5 6. e3 gxh6 7. d4 O-O 8. dxc5 Kh8 9. Qd2 Nxc5 10. Qd4+ f6 11. Qxc5 Qd6 12. Qxd5 Qxd5 13. Bxd5 exd5 14. Nc3 Bf5 15. O-O-O a5 16. Rxd5 c6 17. Rd6 Rad8 18. Rxd8 Rxd8 19. Nf3 c5 20. Nh4 Rd5 21. Rd1 Rxd1+ 22. Nxd1 Be4 23. f3 Kg7 24. fxe4 Kf7 25. Nf5 Ke6 26. Nxh6 Ke5 27. Ng8 Kxe4 28. Nh6 Kf3 29. Nf7 Kg2 30. Nd8 Kxh2 31. Ne6 Kxg3 32. Nc3 Kf3 33. e4 Kg4 34. Nc7 Kg5 35. Na6 f5 36. Nxc5 fxe4 37. Nxb7 Kf5 38. Nxa5 Ke5 39. Nc4+ Kd4 40. a4 Kc5 41. a5 Kb4 42. a6 Kxc3 43. a7 Kd4 44. a8=Q Kc5 45. Qd8 Kb4 46. Qc8 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/XsLHQkRT"]
+[White "jmallet4"]
+[Black "bcuevas002"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:23"]
+[WhiteElo "1429"]
+[BlackElo "1423"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. e3 Nf6 4. Nf3 c6 5. Bd3 Bb4+ 6. Bd2 Qb6 7. O-O Bxd2 8. Nbxd2 Qxb2 9. Ne5 c5 10. cxd5 exd5 11. a4 cxd4 12. exd4 Qxd4 13. Ndf3 Qf4 14. Bb5+ Nc6 15. Nxc6 bxc6 16. Bxc6+ Bd7 17. Bxa8 Ne4 18. Bxd5 Ng5 19. Re1+ Kf8 20. Rb1 Nh3+ 21. gxh3 Bxh3 22. Rb8+ Qxb8 23. Ng5 f6 24. Ne6+ Kf7 25. Nf4+ Kf8 26. Nxh3 1-0
+

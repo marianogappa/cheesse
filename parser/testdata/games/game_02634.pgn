@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5vErhEq1"]
+[White "boris25"]
+[Black "SableMJ"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:58"]
+[WhiteElo "1692"]
+[BlackElo "1711"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[ECO "C93"]
+[Opening "Ruy Lopez: Closed Variations, Smyslov Defense"]
+[TimeControl "240+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 h6 10. d4 Re8 11. Nbd2 Bb7 12. Nf1 Na5 13. Bc2 Qd7 14. dxe5 dxe5 15. Qxd7 Nxd7 16. Ng3 Bc5 17. Nf5 Bb6 18. Be3 Bxe3 19. Nxe3 Nf6 20. Nf5 Nc4 21. b3 Nd6 22. Nxd6 cxd6 23. Rad1 Red8 24. Nd2 Rac8 25. c4 bxc4 26. Nxc4 Rc6 27. Na5 Rxc2 28. Nxb7 Rd7 29. Nxd6 Rxa2 30. f3 Rb2 31. Nc4 Rxd1 32. Rxd1 Rxb3 33. Nxe5 Rb8 34. Ra1 Ra8 35. Nc6 Ne8 36. Kf2 Nc7 37. Ke3 Kf8 38. Kd3 Ke8 39. Kc4 Kd7 40. Ne5+ Ke6 41. f4 f6 42. Nc6 Kd6 43. Nd4 a5 44. Nf5+ Kc6 45. Nxg7 a4 46. Nf5 Ne6 47. g3 h5 48. Ra3 Nc7 49. Nd4+ Kd7 50. Nb5 Ne6 51. Kb4 Kc6 52. Rxa4 Rxa4+ 53. Kxa4 Nc5+ 54. Kb4 Nxe4 55. Nd4+ Kd5 56. Nf5 Nf2 57. Ng7 Nxh3 58. Nxh5 f5 59. Kc3 Ke4 60. Kc4 Kf3 61. Ng7 Nf2 62. Nxf5 Ne4 63. Kd4 Nxg3 64. Nxg3 Kxf4 1/2-1/2
+

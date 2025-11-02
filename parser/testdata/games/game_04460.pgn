@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/B9XHMbxC"]
+[White "SamuelIFowler"]
+[Black "aryanbalyan"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:09"]
+[WhiteElo "2255"]
+[BlackElo "1848"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-10"]
+[ECO "C25"]
+[Opening "Vienna Game: Paulsen Variation"]
+[TimeControl "5400+30"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. g3 g6 1-0
+

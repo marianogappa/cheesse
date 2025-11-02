@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/zjrcNzJ3"]
+[White "ogromariatorres"]
+[Black "Nicolaskasparov"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:06"]
+[WhiteElo "1535"]
+[BlackElo "1451"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "B00"]
+[Opening "Barnes Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.41] } 1... f6?! { [%eval 1.37] } 2. Bc4 { [%eval 0.93] } 2... e5 { [%eval 1.28] } 3. Bxg8?! { [%eval 0.35] } 3... Rxg8 { [%eval 0.52] } 4. Qh5+?! { [%eval -0.31] } 4... g6 { [%eval -0.12] } 5. Qxh7 { [%eval -0.21] } 5... Bc5?? { [%eval 8.28] } 6. Qxg8+ { [%eval 8.23] } 6... Ke7 { [%eval 8.37] } 7. Qg7+ { [%eval 8.12] } 7... Kd6 { [%eval 8.35] } 8. Qxg6?! { [%eval 7.81] } 8... Qe8? { [%eval 19.94] } 9. Nc3?? { [%eval -3.94] } 9... Kc6?? { [%eval 22.98] } 10. Qxf6+? { [%eval 8.72] } 10... d6 { [%eval 8.47] } 11. d4? { [%eval 6.72] } 11... exd4 { [%eval 6.83] } 12. Nd5?? { [%eval 2.66] } 12... Bg4?? { [%eval 8.6] } 13. f3 { [%eval 8.31] } 13... Nd7? { [%eval 9.9] } 14. Ne7+? { [%eval 8.75] } 14... Kb6?! { [%eval 9.72] } 15. Qg5? { [%eval 7.6] } 15... Be6 { [%eval 7.73] } 16. Nd5+ { [%eval 7.54] } 16... Bxd5 { [%eval 7.51] } 17. Qxd5 { [%eval 7.25] } 17... Nf6? { [%eval 9.22] } 18. Qb3+ { [%eval 8.84] } 18... Kc6?! { [%eval 9.48] } 19. Ne2 { [%eval 9.33] } 19... d5?! { [%eval 11.33] } 20. exd5+? { [%eval 8.12] } 20... Nxd5 { [%eval 8.25] } 21. O-O?? { [%eval 3.94] } 21... Nf4?? { [%eval 15.33] } 22. Nxf4 { [%eval 14.72] } 22... Qg6 { [%eval 31.76] } 23. Qd5+ { [%eval 30.63] } 23... Kb5?! { [%eval #10] } 24. Nxg6 { [%eval #15] } 24... Rg8 { [%eval #6] } 25. a4+ { [%eval #5] } 1-0
+

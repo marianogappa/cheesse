@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/s7aGxpDJ"]
+[White "Chancherox"]
+[Black "douddiboule"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:06"]
+[WhiteElo "2104"]
+[BlackElo "2069"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. b3 d5 2. Bb2 Nf6 3. e3 c5 4. Nf3 Nc6 5. Bb5 Bf5 6. O-O e6 7. d4 Bd6 8. c4 Qc7 9. cxd5 exd5 10. dxc5 Bxc5 11. Ne5 a6 12. Qc1 Bxe3 13. Qxe3 O-O 14. Nxc6 Rfe8 15. Be5 Qa5 16. Nxa5 1-0
+

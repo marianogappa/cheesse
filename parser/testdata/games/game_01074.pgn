@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/fkc5YLtJ"]
+[White "reager"]
+[Black "RobertB1998"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:58"]
+[WhiteElo "1737"]
+[BlackElo "1763"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.16] } 1... c5 { [%eval 0.32] } 2. c3 { [%eval 0.33] } 2... d6 { [%eval 0.5] } 3. d4 { [%eval 0.38] } 3... cxd4 { [%eval 0.71] } 4. cxd4 { [%eval 0.6] } 4... Nf6 { [%eval 0.69] } 5. Nc3 { [%eval 0.68] } 5... a6 { [%eval 0.64] } 6. Nf3 { [%eval 0.6] } 6... Bg4 { [%eval 0.98] } 7. Be2 { [%eval 0.96] } 7... Bc8 { [%eval 1.33] } 8. O-O { [%eval 0.96] } 8... Nbd7? { [%eval 2.47] } 9. Ng5? { [%eval 1.25] } 9... e6?! { [%eval 2.17] } 10. a4? { [%eval 0.68] } 10... h6 { [%eval 0.64] } 11. Nf3 { [%eval 0.7] } 11... Rb8?! { [%eval 1.48] } 12. Bf4 { [%eval 1.14] } 12... e5? { [%eval 2.76] } 13. dxe5 { [%eval 2.78] } 13... dxe5?! { [%eval 3.41] } 14. Nxe5 { [%eval 3.33] } 14... Nxe5 { [%eval 3.22] } 15. Qxd8+ { [%eval 3.07] } 15... Kxd8 { [%eval 3.17] } 16. Bxe5 { [%eval 3.11] } 16... Ra8 { [%eval 3.11] } 17. Rfd1+ { [%eval 2.98] } 17... Ke8 { [%eval 3.08] } 18. Rd2?! { [%eval 2.5] } 18... Bb4 { [%eval 2.64] } 19. Rad1? { [%eval 1.62] } 19... Nd7? { [%eval 4.57] } 20. Bxg7 { [%eval 4.56] } 20... Rh7 { [%eval 4.66] } 21. Bd4 { [%eval 4.54] } 21... b5 { [%eval 4.97] } 22. Rd3 { [%eval 4.64] } 22... Bxc3?! { [%eval 5.58] } 23. Bxc3 { [%eval 5.42] } 23... bxa4 { [%eval 5.72] } 24. e5 { [%eval 5.73] } 24... Bb7?? { [%eval 11.58] } 25. Rxd7 { [%eval 11.35] } 25... Rg7 { [%eval 20.68] } 26. Rxb7 { [%eval 16.72] } 1-0
+

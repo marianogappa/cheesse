@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/BBLT3B6s"]
+[White "unnamed1"]
+[Black "RussianMachine"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:51"]
+[WhiteElo "1058"]
+[BlackElo "965"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+14"]
+[ECO "A44"]
+[Opening "Semi-Bononi"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.37] } 1... e5 { [%eval 0.41] } 2. d4 { [%eval 0.01] } 2... d6?! { [%eval 0.52] } 3. d5 { [%eval 0.2] } 3... c5?! { [%eval 0.77] } 4. Nc3 { [%eval 0.61] } 4... Na6 { [%eval 0.91] } 5. Nf3 { [%eval 0.63] } 5... b5?? { [%eval 4.1] } 6. a3? { [%eval 1.51] } 6... b4 { [%eval 1.66] } 7. axb4 { [%eval 1.61] } 7... cxb4 { [%eval 1.61] } 8. Ne2? { [%eval 0.28] } 8... Nc5 { [%eval 0.45] } 9. g3? { [%eval -0.73] } 9... Be7 { [%eval -0.44] } 10. Bg2 { [%eval -0.57] } 10... Qd7?! { [%eval 0.0] } 11. Be3 { [%eval 0.0] } 11... Nf6? { [%eval 2.99] } 12. O-O?? { [%eval -0.48] } 12... Nfxe4 { [%eval -0.12] } 13. Bxc5?! { [%eval -0.82] } 13... Nxc5 { [%eval -0.69] } 14. Nh4? { [%eval -2.02] } 14... O-O { [%eval -2.1] } 15. Qd2 { [%eval -2.25] } 15... b3 { [%eval -1.96] } 16. cxb3? { [%eval -3.92] } 16... Nxb3 { [%eval -3.75] } 17. Qb4 { [%eval -3.92] } 17... Nxa1 { [%eval -3.75] } 18. Rxa1 { [%eval -3.77] } 18... Ba6?? { [%eval 0.24] } 19. Qd2?? { [%eval -4.44] } 19... Bxe2 { [%eval -4.38] } 20. Qxe2 { [%eval -4.25] } 20... Qb5?? { [%eval 7.71] } 21. Re1?? { [%eval -4.49] } 21... Qxb2?? { [%eval 6.61] } 22. Qxb2 { [%eval 6.57] } 22... Bxh4? { [%eval 9.05] } 23. Qe2?? { [%eval 2.79] } 23... f6?? { [%eval 8.87] } 24. gxh4 { [%eval 8.35] } 24... Rfc8? { [%eval 10.43] } 25. Qf3 { [%eval 10.02] } 25... h6 { [%eval 13.7] } 26. Qg4 { [%eval 10.64] } 26... Rc4 { [%eval 19.35] } 0-1
+

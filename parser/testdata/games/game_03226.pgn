@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/C69OLYxo"]
+[White "john1234"]
+[Black "anax_makis"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:12"]
+[WhiteElo "1684"]
+[BlackElo "2093"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+[ECO "C20"]
+[Opening "King's Pawn Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. h3 Nf6 3. d3 d5 4. exd5 Nxd5 5. a3 Bd6 6. Be2 O-O 7. Nf3 Bf5 8. O-O Nf4 9. Nc3 Nc6 10. Bxf4 exf4 11. Qd2 g5 12. Rae1 g4 13. hxg4 Bxg4 14. Nh2 Bxe2 15. Rxe2 Re8 16. Rxe8+ Qxe8 17. Re1 Qd7 18. Ne4 Qf5 19. Nxd6 cxd6 20. Re4 Qh5 21. Qxf4 Ne5 22. f3 f5 23. Rd4 Qg6 24. Nf1 Qe6 25. Ne3 Rf8 26. Qg5+ Kh8 27. Rf4 Nf7 28. Qxf5 Qxe3+ 29. Kh2 Qe5 30. Qxe5+ dxe5 31. Rf5 Kg7 32. g4 h6 33. Kg3 Rc8 34. c3 Rd8 35. Kh4 Rxd3 36. f4 exf4 37. Rxf4 Ng5 38. Rd4 Rh3# 0-1
+

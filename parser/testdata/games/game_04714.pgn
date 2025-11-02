@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/DuWHsc92"]
+[White "FuturechessGM27"]
+[Black "UnderPrez"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:08"]
+[WhiteElo "2028"]
+[BlackElo "1991"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "C06"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation, Main Line"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 cxd4 7. cxd4 Nc6 8. Ne2 Qb6 9. Nf3 f6 10. exf6 Nxf6 11. O-O Bd6 12. a3 O-O 13. b4 e5 14. dxe5 Nxe5 15. Nxe5 Bxe5 16. Rb1 Ng4 17. Qe1 Bxh2+ 18. Kh1 Rxf2 19. Rxf2 Nxf2+ 20. Kxh2 Nxd3 21. Qd2 Qd6+ 22. Kg1 Qb6+ 23. Qe3 Qg6 24. Rb3 Bf5 25. Ng3 Be4 26. Nxe4 dxe4 27. Bd2 Rf8 28. Rb1 Qf5 29. Rf1 Qxf1+ 30. Kh2 Qf4+ 31. Qxf4 Nxf4 32. Kg3 Nd3 33. Be3 a6 34. Bd4 h6 35. Be3 Rf7 36. Bd4 Kf8 37. Be3 Ke7 38. Bd4 Ke6 39. Be3 Kd5 40. Bd4 Kc4 41. Be3 Kc3 42. Bc5 Kc2 43. Be3 g6 44. Bd4 h5 45. Be3 Kd1 46. Kh4 Ke2 47. Kg5 Kxe3 48. Kxg6 Nf4+ 49. Kxf7 Kd3 50. Kf6 e3 51. Kg5 e2 52. Kh4 e1=Q+ 53. g3 Ne2 54. Kxh5 Qxg3 55. Kh6 Nf4 56. Kh7 Qg6+ 57. Kh8 Ne6 58. b5 Qg7# 0-1
+

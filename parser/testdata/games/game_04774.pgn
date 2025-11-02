@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/hzFBjR8a"]
+[White "hiphappy"]
+[Black "donnarcis"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:21"]
+[WhiteElo "1999"]
+[BlackElo "2081"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-14"]
+[ECO "B11"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. Nc3 { [%eval 0.02] } 1... c6 { [%eval 0.39] } 2. e4 { [%eval 0.46] } 2... d5 { [%eval 0.51] } 3. f4?! { [%eval -0.18] } 3... dxe4 { [%eval -0.08] } 4. Nxe4 { [%eval -0.05] } 4... Nf6 { [%eval -0.06] } 5. Nxf6+ { [%eval -0.24] } 5... exf6 { [%eval -0.22] } 6. Nf3 { [%eval -0.37] } 6... Be7 { [%eval -0.03] } 7. d4 { [%eval -0.06] } 7... O-O { [%eval 0.0] } 8. Be2 { [%eval -0.04] } 8... Bg4 { [%eval -0.1] } 9. O-O { [%eval -0.08] } 9... Nd7 { [%eval 0.0] } 10. c3 { [%eval -0.13] } 10... Bd6 { [%eval 0.04] } 11. Be3?! { [%eval -0.66] } 11... Qc7 { [%eval -0.31] } 12. Qd2 { [%eval -0.31] } 12... Rfe8 { [%eval -0.22] } 13. h3 { [%eval -0.44] } 13... Bh5?! { [%eval 0.18] } 14. g4 { [%eval -0.24] } 14... Bg6? { [%eval 2.04] } 15. f5 { [%eval 1.97] } 15... Nb6 { [%eval 2.0] } 16. fxg6 { [%eval 1.88] } 16... hxg6 { [%eval 1.83] } 17. Rae1? { [%eval 0.76] } 17... Nd5 { [%eval 0.97] } 18. Bf2 { [%eval 0.87] } 18... Re7? { [%eval 2.58] } 19. Bd3 { [%eval 2.21] } 19... Bf4?! { [%eval 2.94] } 20. Qc2?! { [%eval 2.19] } 20... g5?! { [%eval 3.14] } 21. Rxe7 { [%eval 3.18] } 21... Qxe7 { [%eval 3.24] } 22. Re1 { [%eval 3.18] } 22... Qd6 { [%eval 3.27] } 23. Bf5 { [%eval 2.82] } 23... g6? { [%eval 4.59] } 24. Bxg6 { [%eval 4.31] } 24... fxg6? { [%eval 6.09] } 25. Qxg6+ { [%eval 5.84] } 25... Kf8 { [%eval 5.84] } 26. Qh6+ { [%eval 5.63] } 26... Kf7?? { [%eval 10.34] } 27. Qh7+? { [%eval 8.36] } 27... Kf8 { [%eval 8.33] } 28. Qh8+ { [%eval 8.2] } 28... Kf7 { [%eval 8.2] } 29. Qxa8 { [%eval 8.07] } 29... Kg6? { [%eval 21.75] } 30. Qg8+ { [%eval 20.36] } 1-0
+

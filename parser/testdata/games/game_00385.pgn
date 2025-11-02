@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/olgGMHFL"]
+[White "torreforte"]
+[Black "Alaeddin"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:20"]
+[WhiteElo "1832"]
+[BlackElo "1748"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. f4 f5 2. d4 e6 3. e3 c5 4. c4 Nf6 5. Nc3 Be7 6. Nf3 O-O 7. a3 a6 8. dxc5 Bxc5 9. b4 Be7 10. c5 Nc6 11. Nd4 Ng4 12. Be2 e5 13. Nxc6 dxc6 14. Bxg4 fxg4 15. O-O exf4 16. exf4 Bf6 17. Qb3+ Kh8 18. Bb2 Bf5 19. Rad1 Qc7 20. Bc1 Rad8 21. Be3 Rfe8 22. Rxd8 Qxd8 23. Bf2 Qd3 24. Be1 Re7 25. Qb2 Bd4+ 26. Kh1 Qxf1# 0-1
+

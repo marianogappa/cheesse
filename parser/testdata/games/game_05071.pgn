@@ -1,0 +1,19 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/UTvGRuVT"]
+[White "HooCee"]
+[Black "Flaccid"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:14"]
+[WhiteElo "2314"]
+[BlackElo "2470"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+26"]
+[WhiteTitle "FM"]
+[ECO "C00"]
+[Opening "French Defense: Pelikan Variation"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.35] } 1... d5 { [%eval 0.84] } 2. Nc3? { [%eval -0.34] } 2... e6?! { [%eval 0.28] } 3. f4?! { [%eval -0.31] } 3... Ne7?! { [%eval 0.31] } 4. Nf3 { [%eval 0.04] } 4... c5 { [%eval 0.06] } 5. d4 { [%eval 0.01] } 5... cxd4 { [%eval 0.22] } 6. Nxd4 { [%eval 0.1] } 6... Nbc6 { [%eval 0.39] } 7. Nxc6 { [%eval -0.03] } 7... Nxc6 { [%eval 0.12] } 8. e5?! { [%eval -0.55] } 8... d4?! { [%eval 0.16] } 9. Ne4 { [%eval 0.09] } 9... Bb4+?! { [%eval 0.74] } 10. Bd2 { [%eval 0.71] } 10... Be7 { [%eval 0.85] } 11. Bd3 { [%eval 0.68] } 11... f5?! { [%eval 1.33] } 12. O-O?? { [%eval -1.81] } 12... fxe4 { [%eval -1.68] } 13. Bxe4 { [%eval -1.68] } 13... O-O { [%eval -1.4] } 14. Qh5 { [%eval -1.38] } 14... Rf5 { [%eval -1.36] } 15. Bxf5 { [%eval -1.74] } 15... exf5 { [%eval -1.74] } 16. Rae1 { [%eval -2.05] } 16... Be6 { [%eval -1.97] } 17. Qh3?! { [%eval -2.81] } 17... Qd5?! { [%eval -1.86] } 18. Kh1? { [%eval -3.14] } 18... Rc8?! { [%eval -2.23] } 19. Rf3? { [%eval -3.49] } 19... h6? { [%eval -1.74] } 20. Rg3 { [%eval -1.85] } 20... Kh7 { [%eval -1.71] } 21. Rxg7+?? { [%eval -8.06] } 21... Kxg7 { [%eval -7.83] } 22. Rf1? { [%eval -9.25] } 22... Kh7?! { [%eval -8.33] } 23. Rf3? { [%eval -10.52] } 23... Rg8 { [%eval -9.75] } 24. Rg3 { [%eval -24.5] } 24... Rxg3 { [%eval -10.8] } 25. hxg3 { [%eval -12.39] } 25... Qe4 { [%eval -11.44] } 0-1
+

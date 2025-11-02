@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qneuEfW0"]
+[White "litoy1"]
+[Black "crippleking"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:43"]
+[WhiteElo "1617"]
+[BlackElo "1681"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-12"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer Gambit: Fritz Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. e4 dxe4 3. Bc4 Nf6 4. Bf4 Bg4 5. Ne2 Nc6 6. h3 Bxe2 7. Bxe2 Nxd4 8. O-O e6 9. c3 Nxe2+ 10. Qxe2 Bc5 11. Nd2 Qd3 12. Qxd3 exd3 13. Bxc7 O-O 14. Nb3 Be7 15. Rad1 Nd5 16. Bg3 Bf6 17. Rxd3 Rfd8 18. Rfd1 Nb6 19. Rxd8+ Rxd8 20. Rxd8+ Bxd8 21. Nc5 Nd5 22. Nxb7 Bb6 23. Nd6 Kf8 24. c4 Nc7 25. b3 Ke7 26. Nc8+ Kf6 27. Nxb6 axb6 28. Bxc7 1-0
+

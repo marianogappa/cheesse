@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/EeEAboB9"]
+[White "rht"]
+[Black "Mat-chess"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:58"]
+[WhiteElo "1570"]
+[BlackElo "1907"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. d4 Nf6 3. Bf4 Bf5 4. e3 e6 5. Bd3 Bxd3 6. Qxd3 c5 7. c3 c4 8. Nbd2 cxd3 0-1
+

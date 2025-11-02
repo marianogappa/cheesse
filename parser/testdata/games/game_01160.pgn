@@ -1,0 +1,19 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/wBiY1QrN"]
+[White "donnarcis"]
+[Black "visitvenus"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:19"]
+[WhiteElo "2097"]
+[BlackElo "2417"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-23"]
+[BlackTitle "NM"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Slav Formation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. g3 d5 2. Bg2 c6 3. d4 Nf6 4. c3 e6 5. Nf3 Bd6 6. Bg5 O-O 7. Bxf6 Qxf6 8. Nbd2 Nd7 9. O-O e5 10. dxe5 Nxe5 11. Nxe5 Bxe5 12. e4 dxe4 13. Nxe4 Qg6 14. Qb3 Bf5 15. Nd2 Rab8 16. Nf3 Bf6 17. Nd4 Bxd4 18. cxd4 Be4 19. d5 Bxg2 20. Kxg2 Qe4+ 21. Qf3 Qxf3+ 22. Kxf3 cxd5 23. Rad1 Rfd8 24. Rd4 Rbc8 25. Rfd1 Rc5 26. b4 Rb5 27. a4 Rb6 28. b5 Rbd6 29. Kf4 f6 30. Rc1 Kf7 31. Rc7+ R8d7 32. Rc8 Rd8 33. Rc7+ R6d7 34. Rc5 Ke6 35. g4 g5+ 36. Ke3 Re7 37. Kd3 Rd6 38. f4 Kf7 39. fxg5 fxg5 40. Kd2 Rde6 41. Rcxd5 Re2+ 42. Kc3 R7e3+ 43. Kb4 Rb2+ 44. Kc5 Rc3+ 45. Kd6 Re2 46. Rc5 Re6+ 47. Kd5 Re7 48. Rxc3 Rd7+ 49. Kc4 Re7 50. Rcd3 Rc7+ 51. Kb4 Re7 52. Rd7 Ke6 53. Rxe7+ Kxe7 54. Rd5 Ke6 55. Rxg5 Kf6 56. Rh5 Kg6 57. Rc5 h6 58. Rc7 Kg5 59. Rxb7 h5 60. Rxa7 h4 61. Rh7 Kxg4 62. Rxh4+ Kf5 63. b6 Ke6 64. b7 Kd7 65. b8=Q Ke6 66. Qb5 Kd6 67. Rc4 Ke7 68. Rc6 Kd8 69. Qb7 Ke8 70. Rc8# 1-0
+

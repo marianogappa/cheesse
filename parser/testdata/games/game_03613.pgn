@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZT1N2pf3"]
+[White "Tapsutin"]
+[Black "fracton"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:47"]
+[WhiteElo "1475"]
+[BlackElo "1638"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[ECO "A40"]
+[Opening "Polish Defense"]
+[TimeControl "180+1"]
+[Termination "Normal"]
+
+1. d4 b5 2. Nf3 Bb7 3. e3 a6 4. b3 d5 5. Bb2 e6 6. Bd3 c5 7. O-O cxd4 8. Bxd4 Nf6 9. Nc3 Nc6 10. Bxf6 Qxf6 11. Qd2 Bb4 12. Nd4 Nxd4 13. exd4 Bc6 14. Nxd5 Bxd2 15. Nxf6+ gxf6 16. Rad1 Bc3 17. f3 Rd8 18. Be2 Bxd4+ 19. Kh1 e5 20. Rd3 e4 21. Rdd1 exf3 22. Bxf3 Bxf3 23. Rxf3 Be5 24. Re1 O-O 25. Re4 Rd1+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/3oNnJgYQ"]
+[White "AdiStf"]
+[Black "PegasusPony"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:11"]
+[WhiteElo "1987"]
+[BlackElo "2088"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. g3 e6 2. Bg2 Ne7 3. Nf3 g6 4. d3 Bg7 5. c3 O-O 6. Bg5 d5 7. Bxe7 Qxe7 8. d4 c5 9. O-O cxd4 10. Nxd4 Nc6 11. Nxc6 bxc6 12. f4 Bb7 13. Nd2 c5 14. Nf3 Rad8 15. e3 d4 16. exd4 cxd4 17. cxd4 Bxf3 18. Bxf3 Bxd4+ 19. Kg2 Bxb2 20. Qc2 Bxa1 21. Rxa1 Rc8 22. Rd1 Rxc2+ 23. Be2 Qa3 24. Re1 Qxa2 25. Kf3 Rd8 26. Bc4 Rdd2 27. Bxa2 Rxa2 28. Re3 Rf2+ 29. Ke4 f5+ 30. Kd3 Rfd2+ 31. Kc3 Rac2+ 32. Kb3 Rb2+ 33. Kc4 Rdc2+ 34. Rc3 Kf7 35. Kd3 Rxc3+ 36. Kxc3 Rxh2 37. Kd3 Rg2 38. g4 Rg3+ 39. Kd4 Rxg4 40. Ke5 Rxf4 41. Kxf4 g5+ 42. Kxg5 e5 43. Kh6 e4 44. Kxh7 e3 45. Kh6 e2 46. Kg5 e1=Q 47. Kxf5 a6 48. Kf4 a5 49. Kf5 a4 50. Kg4 a3 51. Kh5 a2 52. Kg4 a1=Q 53. Kg5 Qf6+ 54. Kh5 Qg1 1/2-1/2
+

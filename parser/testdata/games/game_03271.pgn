@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/d2syzjXT"]
+[White "dwmvicoli"]
+[Black "sam23"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:27"]
+[WhiteElo "1630"]
+[BlackElo "1733"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 4. dxe5 Nc6 5. Bb5 a6 6. Bxc6+ bxc6 7. exd6 Qxd6 8. O-O Qxd1 9. Rxd1 Bxf3 10. gxf3 Bd6 11. Nd2 Nf6 12. Nc4 O-O-O 13. e5 Be7 14. Rxd8+ Rxd8 15. exf6 Rd1+ 16. Kg2 Bxf6 17. Ne3 Re1 18. Ng4 Bxb2 19. Bxb2 Re6 1-0
+

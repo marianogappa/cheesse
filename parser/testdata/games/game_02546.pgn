@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DSNODHD2"]
+[White "Amirhossein11"]
+[Black "canyouheerme"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:40"]
+[WhiteElo "1745"]
+[BlackElo "1692"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+[ECO "A84"]
+[Opening "Dutch Defense: Rubinstein Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 f5 3. Nc3 Nf6 4. f4 Bb4 5. e3 Bxc3+ 6. bxc3 O-O 7. Nf3 b6 8. Bd3 Bb7 9. O-O d6 10. Re1 Nbd7 11. d5 e5 12. fxe5 Nxe5 13. Bxf5 Nxc4 14. Be6+ Kh8 15. Qd3 Ne5 16. Nxe5 dxe5 17. c4 c5 18. e4 Nh5 19. Qh3 Nf4 20. Bxf4 Rxf4 21. Bf5 Rh4 22. Qg3 Qf6 23. Rf1 Ba6 24. Bc8 Qd8 25. Bxa6 Rxe4 26. Rae1 Rxe1 27. Rxe1 Qf6 28. Qxe5 Qxe5 29. Rxe5 g6 30. d6 Kg7 31. d7 Kf7 32. Bb7 Rb8 33. a4 Rd8 34. Bd5+ Kf8 35. Bc6 h6 36. Re8+ 1-0
+

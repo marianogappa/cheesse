@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ijBBduxR"]
+[White "thejas"]
+[Black "Diego1987"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:32"]
+[WhiteElo "1735"]
+[BlackElo "1812"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. Qe2 Bg4 5. Qb5+ Qd7 6. Qxd7+ Nxd7 7. Be2 e5 8. d3 e4 9. dxe4 dxe4 10. Nd4 Bxe2 11. Nxe2 O-O-O 12. O-O Bc5 13. c3 f5 14. Bf4 h6 15. h4 Ngf6 16. Ng3 g5 17. hxg5 hxg5 18. Bxg5 Rdg8 19. Bf4 Rh4 20. Be3 Bxe3 21. fxe3 Rxg3 22. Rxf5 Ng4 23. Rg5 Rh2 24. Rxg4 Rhxg2+ 25. Kf1 Rxg4 26. Na3 Rg1+ 0-1
+

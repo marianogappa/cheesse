@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/5QKFCKMu"]
+[White "rebergen"]
+[Black "CircusClown"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:03"]
+[WhiteElo "2106"]
+[BlackElo "2072"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-50"]
+[ECO "B49"]
+[Opening "Sicilian Defense: Paulsen Variation, Bastrikov Variation"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.08] } 1... e6 { [%eval 0.18] } 2. d4 { [%eval 0.23] } 2... c5 { [%eval 0.65] } 3. Nf3 { [%eval 0.17] } 3... cxd4 { [%eval 0.31] } 4. Nxd4 { [%eval 0.21] } 4... Nc6 { [%eval 0.25] } 5. Nc3 { [%eval 0.17] } 5... a6 { [%eval 0.35] } 6. Be3 { [%eval 0.19] } 6... Qc7 { [%eval 0.29] } 7. Be2 { [%eval 0.21] } 7... Nf6 { [%eval 0.4] } 8. Qd2 { [%eval 0.02] } 8... Bb4 { [%eval 0.12] } 9. a3? { [%eval -2.16] } 9... Nxe4 { [%eval -2.16] } 10. Qd3?! { [%eval -2.67] } 10... Bxc3+ { [%eval -2.51] } 11. bxc3 { [%eval -2.61] } 11... d5? { [%eval -0.8] } 12. O-O?! { [%eval -1.56] } 12... Ne5?! { [%eval -0.65] } 13. Bf4 { [%eval -0.69] } 13... f6 { [%eval -0.43] } 14. Bxe5? { [%eval -2.17] } 14... fxe5 { [%eval -2.22] } 15. Nf3?! { [%eval -3.02] } 15... Nxc3 { [%eval -2.95] } 16. Nd2 { [%eval -3.08] } 16... e4 { [%eval -3.09] } 17. Qe3 { [%eval -3.19] } 17... d4 { [%eval -3.06] } 18. Bh5+ { [%eval -3.02] } 18... g6 { [%eval -3.05] } 19. Qxd4 { [%eval -3.47] } 19... e5 { [%eval -3.33] } 20. Bxg6+? { [%eval -4.42] } 20... hxg6 { [%eval -4.35] } 21. Qe3 { [%eval -4.57] } 21... Qh7 { [%eval -4.45] } 22. h3 { [%eval -4.4] } 22... Qc7? { [%eval -3.04] } 23. Nxe4 { [%eval -3.1] } 23... Nxe4 { [%eval -3.02] } 24. Qxe4 { [%eval -2.93] } 24... Bf5 { [%eval -2.71] } 25. Qd5 { [%eval -3.2] } 25... Rd8 { [%eval -3.04] } 26. Qb3 { [%eval -3.12] } 26... Bxc2 { [%eval -3.03] } 27. Qf3 { [%eval -3.05] } 27... Rd3?! { [%eval -2.31] } 28. Qf6 { [%eval -2.2] } 28... Rh5?! { [%eval -1.66] } 29. Qe6+ { [%eval -1.97] } 29... Kf8 { [%eval -1.72] } 30. Qxg6 { [%eval -1.83] } 30... Qf7 { [%eval -1.85] } 31. Qg4 { [%eval -1.79] } 31... Rf5? { [%eval -0.34] } 32. Qe4 { [%eval -0.48] } 32... Rd2?? { [%eval 4.24] } 33. Qb4+ { [%eval 3.95] } 1-0
+

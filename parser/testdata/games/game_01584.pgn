@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/P99WAqkW"]
+[White "aprentice1"]
+[Black "edermate"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:56"]
+[WhiteElo "1519"]
+[BlackElo "1525"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. O-O Nc6 5. c3 Qd7 6. d3 O-O-O 7. Nbd2 Kb8 8. b4 h5 9. b5 Na5 10. Bd5 c6 11. bxc6 Nxc6 12. Qb3 Ka8 13. a4 Na5 14. Qb4 Qc7 15. Bxb7+ Nxb7 16. Rb1 Rb8 17. Qb5 Bd7 18. Qd5 Nf6 19. Qxf7 Ng4 20. h3 Nh6 21. Qd5 Bc6 22. a5 Bxd5 23. exd5 Qxc3 24. a6 Qxd3 25. axb7+ Rxb7 26. Ra1 Qxf1+ 27. Kxf1 Be7 28. Ba3 Rhb8 29. Ne1 Rb1 30. Rxb1 Rxb1 31. Nxb1 Nf5 32. Nc3 Ne3+ 33. Ke2 Nc4 34. Ne4 Nxa3 35. Nd3 1-0
+

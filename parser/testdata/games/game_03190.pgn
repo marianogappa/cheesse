@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/v91UmUSs"]
+[White "DarkGandalfor"]
+[Black "Deadwood_Chess"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:04"]
+[WhiteElo "1750"]
+[BlackElo "1891"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nc6 4. Bc4 e6 5. d3 a6 6. Bg5 Qc7 7. Qe2 h6 8. Bh4 Rb8 9. O-O b5 10. Bb3 Nd4 11. Nxd4 cxd4 12. Nd1 Be7 13. f3 Bxh4 14. g3 Be7 15. f4 Nf6 16. e5 dxe5 17. fxe5 Nd5 18. Bxd5 exd5 19. Nf2 O-O 20. Ng4 Bxg4 21. Qxg4 Qxe5 22. Rae1 Qd6 23. Rf4 Bg5 24. Rxd4 Rfe8 25. Rf1 Be3+ 0-1
+

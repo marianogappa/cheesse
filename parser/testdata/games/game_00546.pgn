@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/aETACBp3"]
+[White "molliets"]
+[Black "OttoLotto"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:01"]
+[WhiteElo "1281"]
+[BlackElo "1280"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-20"]
+[ECO "C57"]
+[Opening "Italian Game: Two Knights Defense, Knight Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Qe7 5. Nxf7 Rg8 6. Ng5 Rh8 7. Bf7+ Kd8 8. O-O h6 9. Qf3 Qxf7 10. Nxf7+ Ke7 11. Nxh8 1-0
+

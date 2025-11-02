@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/oB6rgGga"]
+[White "topins"]
+[Black "juanky"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:24"]
+[WhiteElo "1690"]
+[BlackElo "1716"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. d3 Nf6 3. exd5 c6 4. dxc6 Nxc6 5. Nc3 e5 6. Bd2 Bd6 7. Qe2 Be6 8. O-O-O a6 9. g3 Qe7 10. f4 O-O-O 11. fxe5 Nxe5 12. Bg2 Rd7 13. Ne4 Nc6 14. Nxd6+ Qxd6 15. Bf4 Qb4 16. a3 Qa4 17. Bxc6 bxc6 18. Qe5 Kd8 19. Nf3 Ke7 20. Ng5 Rc8 21. Nxe6 fxe6 22. Rhe1 Kf7 23. Qxe6+ Kf8 24. Bd6+ 1-0
+

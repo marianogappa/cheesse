@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tMqZ3blD"]
+[White "Jdvalter"]
+[Black "misumatto"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:24"]
+[WhiteElo "1796"]
+[BlackElo "1603"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-5"]
+[ECO "C10"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. e4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. c3 Ngf6 6. Bd3 b6 7. Nf3 Bb7 8. Qe2 c5 9. O-O cxd4 10. cxd4 Be7 11. Bf4 O-O 12. h3 Nd5 13. Bg3 N7f6 14. Rac1 Rc8 15. Ne5 Nb4 16. Bb1 Qxd4 17. Rfd1 Rxc1 18. Nxf6+ Bxf6 19. Rxc1 Rd8 20. Ng4 Be7 21. Kh2 Nd5 22. Rd1 Qc5 23. Ne5 Nf6 24. Rxd8+ Bxd8 25. Ng4 Nxg4+ 26. Qxg4 Qd5 27. f3 g6 28. Be4 Qd7 29. Be5 Bxe4 30. Qxe4 Be7 31. Qf4 f5 32. Qh6 Bf8 33. Qg5 Bg7 34. f4 Bxe5 35. fxe5 Kg7 36. Qf6+ Kg8 37. h4 Qf7 38. Qd8+ Kg7 39. Qg5 h5 40. g3 Qc7 41. Qf6+ Kh7 42. Qxe6 Qc2+ 43. Kh3 Qxb2 44. Qe7+ Kh6 45. Qg5+ Kh7 46. e6 Qg7 47. e7 Qf7 48. Qe3 Qe8 49. Qe6 Kg7 50. Kg2 1-0
+

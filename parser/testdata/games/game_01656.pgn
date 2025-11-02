@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/RL9Sg2rx"]
+[White "DeannaeD"]
+[Black "RobDaMob"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:17"]
+[WhiteElo "1269"]
+[BlackElo "1320"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 0-1
+

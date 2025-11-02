@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/6rBBv3vH"]
+[White "CavaliereInesistente"]
+[Black "slayer1996"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:32"]
+[WhiteElo "1427"]
+[BlackElo "1503"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-17"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Queenside Fianchetto Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. Nf3 b6 2. e4 Bb7 3. Nc3 c5 4. d4 d6 5. d5 Nf6 6. Bg5 e6 7. Bxf6 Qxf6 8. dxe6 Qd8 9. Nd5 Be7 10. exf7+ Kxf7 11. Qd2 Bxd5 12. Qxd5+ Kf6 13. Bd3 Na6 14. Bc4 Nb4 15. Qg5# 1-0
+

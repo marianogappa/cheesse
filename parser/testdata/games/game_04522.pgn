@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ebSYscQE"]
+[White "MilanLukic"]
+[Black "wismar1990"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:20"]
+[WhiteElo "1843"]
+[BlackElo "1806"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer Gambit: Ryder Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 g6 6. h3 Bg7 7. Be3 O-O 8. O-O-O a6 9. g4 c6 10. Bg2 Be6 11. Qe2 Qa5 12. Kb1 b5 13. d5 cxd5 14. Nxd5 Nc6 15. Nf3 Nxd5 16. Bd2 Nc3+ 17. Bxc3 Qxa2+ 18. Kc1 Bxc3 19. bxc3 Qa1+ 20. Kd2 Rad8+ 21. Nd4 Qa5 22. Bxc6 Rxd4+ 23. Kc1 Qa1# 0-1
+

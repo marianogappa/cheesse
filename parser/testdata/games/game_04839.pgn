@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/XwFz1KlV"]
+[White "Rolandos"]
+[Black "Luchador1978"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:42"]
+[WhiteElo "1354"]
+[BlackElo "1466"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-15"]
+[ECO "C42"]
+[Opening "Russian Game: Urusov Gambit"]
+[TimeControl "1500+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 d6 4. Ng5 d5 5. exd5 Nxd5 6. Nxf7 Kxf7 7. Qf3+ Ke8 8. Bxd5 Qe7 9. Bxb7 Bxb7 10. Qxb7 Nd7 11. Qxa8+ Qd8 12. Qxa7 Bc5 13. Qa4 e4 14. O-O Kf7 15. Qxe4 Nf6 16. Qc4+ 1-0
+

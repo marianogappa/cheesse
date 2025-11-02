@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/5YHY7Lev"]
+[White "coca2017"]
+[Black "bonny1985"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:31"]
+[WhiteElo "1805"]
+[BlackElo "1650"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 e6 4. O-O Nf6 5. e5 Ne4 6. d3 d5 7. dxe4 dxc4 8. Qxd8+ Nxd8 9. Nc3 a6 10. Bg5 Be7 11. Bxe7 Kxe7 12. Rfd1 b5 13. Rd6 b4 14. Na4 f6 15. Nxc5 fxe5 16. Rad1 Nb7 17. Nxb7 Bxb7 18. Ng5 Bc8 19. Nf3 Kf6 20. Rc6 Bb7 21. Rxc4 Bxe4 22. Rxe4 Kf5 23. Rxe5+ Kf6 24. Rd6 Rhe8 25. g4 h6 26. h4 Rac8 27. g5+ Kg6 28. Nd4 Rc4 29. Nxe6 Rxe6 30. Rdxe6+ Kh5 31. gxh6+ Kxh4 32. h7 Rxc2 33. h8=Q+ Kg4 34. Qxg7+ Kf4 35. Qg3# 1-0
+

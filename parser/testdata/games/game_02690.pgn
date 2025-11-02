@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/xtBCz7FN"]
+[White "Hugofan"]
+[Black "patmarkus"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:08"]
+[WhiteElo "1500"]
+[BlackElo "1535"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Berlin Defense"]
+[TimeControl "1800+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. h3 d5 5. exd5 Nxd5 6. Bxd5 Qxd5 7. Qf3 c6 8. Qxd5 cxd5 9. Be3 Bxe3 10. fxe3 O-O 11. Nd2 a5 12. a3 b6 13. Ngf3 f6 14. e4 Bb7 15. O-O Nd7 16. c4 dxe4 17. dxe4 Nc5 18. Rfe1 Nd3 19. Reb1 Nf4 20. Kf1 Rad8 21. Nb3 Bxe4 22. Rd1 Rxd1+ 23. Rxd1 Bc2 24. Rd6 Bxb3 25. Rxb6 Bxc4+ 26. Kf2 Nd3+ 27. Kg3 h5 28. b3 Bd5 29. Rd6 Be4 30. Nd2 h4+ 31. Kxh4 g5+ 32. Kg3 Bg6 33. Rd5 Be4 34. Rxa5 Bg6 35. Ra4 Nc5 36. Rb4 Rd8 37. a4 Rxd2 38. Rb5 Ne4+ 39. Kh2 Bh5 40. Rb8+ Kg7 41. Rb7+ Kg6 42. Rb8 Bf3 0-1
+

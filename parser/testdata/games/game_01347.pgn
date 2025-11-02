@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/BjLEii7M"]
+[White "Synprime"]
+[Black "speddygonzalez"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:00"]
+[WhiteElo "1209"]
+[BlackElo "1369"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+6"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d6 3. e5 dxe5 4. dxe5 Qxd1+ 5. Kxd1 Bg4+ 6. Be2 Bf5 7. Na3 Nd7 8. Bf4 O-O-O 9. Bd3 Bxd3 10. cxd3 Nc5 11. Kc2 Nxd3 12. Nh3 Rd4 13. Kc3 Rxf4 14. Nxf4 Nxf4 15. g3 Nd5+ 16. Kd3 e6 17. Rad1 Bc5 18. Nc4 Nh6 19. Nd6+ Bxd6 20. exd6 Rd8 21. Ke4 Rxd6 22. Rhg1 Ng4 23. h3 Nxf2+ 0-1
+

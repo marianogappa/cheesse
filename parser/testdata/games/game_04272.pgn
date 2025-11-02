@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/QcgT6OQ2"]
+[White "Florinmagnus"]
+[Black "Sy_Abelman"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:20"]
+[WhiteElo "2150"]
+[BlackElo "2150"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 Qd8 4. Be2 Nf6 5. O-O e6 6. d3 b6 7. Nc3 Bb7 8. Bd2 Nbd7 9. Qc1 Bd6 10. Bg5 h6 11. Bf4 Qe7 12. Re1 O-O-O 13. Nb5 Bxf4 14. Qxf4 Nd5 15. Qd2 a6 16. Nc3 g5 17. Nxd5 Bxd5 18. c4 Bb7 19. Bd1 g4 20. Nd4 Qh4 21. Qf4 e5 22. Qxg4 Qxg4 23. Bxg4 exd4 24. Re7 Bc6 25. a4 Rhg8 26. Bh3 Kb7 27. b4 Ne5 28. Rxe5 Rde8 29. Rxe8 Rxe8 30. b5 Re5 31. bxc6+ Kxc6 32. Bg4 Kc5 33. Rb1 a5 34. Bf3 Kd6 35. Rb5 Re1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/fBOHgt1G"]
+[White "mylastdream"]
+[Black "dkurashev"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:54"]
+[WhiteElo "1478"]
+[BlackElo "1588"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Scandinavian Variation, Advance Variation"]
+[TimeControl "300+12"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 Nc6 3. d4 Bf5 4. h3 e6 5. Nc3 Bb4 6. Qd2 Qe7 7. a3 Bxc3 8. Qxc3 O-O-O 9. Nf3 f6 10. Bb5 fxe5 11. Bxc6 bxc6 12. Nxe5 c5 13. Nc6 Qd7 14. Nxa7+ Kb7 15. Qa5 Ne7 16. dxc5 Nc6 17. Nxc6 Qxc6 18. Qb4+ Kc8 19. Bf4 d4 20. O-O Rhg8 21. Qa5 g5 22. Be5 Bxc2 23. Rac1 d3 24. Qc3 d2 25. Qxc2 dxc1=Q 26. Rxc1 Rd5 27. Bg3 h5 28. b4 e5 29. Qh7 Qg6 30. Qe7 Re8 31. Qxe8+ Qxe8 32. c6 h4 33. Bh2 Qd8 34. g3 Rd1+ 35. Rxd1 Qxd1+ 36. Kg2 Qd5+ 37. Kg1 Qxc6 38. gxh4 Qc1+ 39. Kg2 gxh4 40. a4 Qc6+ 41. Kf1 Qxa4 42. Bxe5 Qxb4 43. Bf6 c5 44. f3 c4 45. Kf2 c3 46. Bg5 c2 47. f4 c1=Q 0-1
+

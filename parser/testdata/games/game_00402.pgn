@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/moHePud4"]
+[White "GiantSpaceTurtle"]
+[Black "jd9295"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:23"]
+[WhiteElo "1543"]
+[BlackElo "1559"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-11"]
+[ECO "A07"]
+[Opening "King's Indian Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. g3 Nc6 3. d4 Nf6 4. Bg2 g6 5. O-O Bg7 6. Re1 O-O 7. c3 Bf5 8. Qb3 b6 9. Qb5 Qd7 10. Qb3 e6 11. Ne5 Na5 12. Qb4 Qd6 13. Qb5 Nc4 14. Nxc4 dxc4 15. Bxa8 Rxa8 16. Nd2 Bh3 17. Nxc4 Qd5 18. Qxd5 Nxd5 19. e4 Ne7 20. Ne3 Rd8 21. f3 c5 22. dxc5 bxc5 23. Nc4 Rd3 24. Re3 Rd1+ 25. Kf2 Rf1+ 26. Ke2 Nc6 27. Nd6 f5 28. exf5 exf5 29. Re8+ Bf8 30. Bh6 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/7xbTjekE"]
+[White "le_batman"]
+[Black "Aparcana"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:56"]
+[WhiteElo "1984"]
+[BlackElo "2097"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-14"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e3 d5 2. Nf3 c5 3. d3 Nc6 4. Be2 e5 5. O-O f6 6. h3 Nge7 7. Nh2 Be6 8. Nd2 Qd7 9. Re1 Nc8 10. Ndf1 Be7 11. c3 Nb6 12. a3 O-O 13. b4 a5 14. bxc5 Bxc5 15. d4 exd4 16. cxd4 Be7 17. Bb2 Bd6 18. Rc1 Rac8 19. Nf3 Qe7 20. Bb5 Nd7 21. Ra1 Bf5 22. Bd3 Bxd3 23. Qxd3 f5 24. Ng3 a4 25. Ne2 Na5 26. Nf4 Qf7 27. Qb5 Nc4 28. Bc1 Nf6 29. Ng5 Qc7 30. Nxd5 Nxd5 31. Qxd5+ Kh8 32. Ne6 Qf7 33. Nf4 Qf6 34. Qf3 Nb6 35. Ne2 f4 36. exf4 Nc4 37. Qd5 Nb6 38. Qf3 Nc4 39. g3 Qf7 40. Qg2 Bb8 41. Nc3 Nd6 42. Qd5 Qf6 43. Qg2 Nf5 44. Ne4 Qg6 45. g4 Nh4 46. Qg3 Qh6 47. g5 1-0
+

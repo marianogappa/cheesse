@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/fHaUnIEx"]
+[White "CallsignBlank"]
+[Black "fidelk"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:55"]
+[WhiteElo "1336"]
+[BlackElo "1356"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bd3 Nf6 4. O-O h6 5. Re1 c6 6. c4 Be7 7. b4 Na6 8. a3 c5 9. b5 Nc7 10. a4 a6 11. b6 Ne6 12. Bb2 Nf4 13. Bc2 Bg4 14. h3 Qd7 15. Nh2 0-1
+

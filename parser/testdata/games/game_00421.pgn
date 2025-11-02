@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/t5lL9jll"]
+[White "cruceiro"]
+[Black "baaak"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:28"]
+[WhiteElo "1505"]
+[BlackElo "1678"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 b6 2. Bc4 Bb7 3. d3 e6 4. a4 Nc6 5. a5 Nxa5 6. Rxa5 bxa5 7. Qd2 c6 8. Qc3 a6 9. Bd2 d5 10. Ba2 Rc8 11. Qxa5 Qxa5 12. Bxa5 c5 13. e5 Ne7 14. Bb3 Nc6 15. Ba4 Be7 16. Nf3 O-O 17. Bd2 f6 18. Bxc6 Bxc6 19. Bf4 fxe5 20. Bxe5 Bf6 21. O-O Bb5 22. b3 c4 23. d4 cxb3 24. cxb3 Bxf1 25. Kxf1 Rc1+ 0-1
+

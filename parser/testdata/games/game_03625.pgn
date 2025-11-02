@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/bvfxuDBA"]
+[White "rast197"]
+[Black "martinroldan23"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:50"]
+[WhiteElo "1484"]
+[BlackElo "1597"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+[ECO "E60"]
+[Opening "King's Indian Defense: Normal Variation, King's Knight Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. e3 c5 5. Nc3 cxd4 6. exd4 O-O 7. Bd3 Nc6 8. d5 Nb4 9. Be2 d6 10. a3 Na6 11. Bg5 h6 12. Bxf6 Bxf6 13. O-O Nc5 14. b4 Bxc3 15. b5 Bxa1 16. Qxa1 a6 17. Nd4 Ne4 18. f3 Nf6 19. Nb3 axb5 20. cxb5 Qb6+ 21. Kh1 Qe3 22. Bc4 b6 23. Qb1 Kg7 24. Re1 Qc3 25. Rxe7 Re8 26. Rxe8 Nxe8 27. Nc1 Qxc4 28. Qe4 Qxe4 29. fxe4 Rxa3 30. Ne2 Ra1+ 31. Ng1 Nf6 32. e5 Ne4 33. e6 Nf2# 0-1
+

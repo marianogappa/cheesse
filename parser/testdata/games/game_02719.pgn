@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YqQCHQuS"]
+[White "yesimbrewer"]
+[Black "ASLAN-62"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:13"]
+[WhiteElo "1755"]
+[BlackElo "1932"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[ECO "A00"]
+[Opening "Polish Opening: Schiffler-Sokolsky Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. b4 e6 2. Bb2 d5 3. e3 Nf6 4. b5 c5 5. Nf3 Bd6 6. Be2 O-O 7. c4 a6 8. a4 dxc4 9. Bxc4 axb5 10. axb5 Rxa1 11. Bxa1 Bd7 12. O-O Be7 13. d4 Qa5 14. Nbd2 Bxb5 15. Bxb5 Qxb5 16. dxc5 Qxc5 17. Qb3 b5 18. Rb1 b4 19. Bd4 Qb5 20. Ne5 Nfd7 21. Nxd7 Qxd7 22. Nf3 Nc6 23. h3 Nxd4 24. Nxd4 Rc8 25. Qd3 e5 0-1
+

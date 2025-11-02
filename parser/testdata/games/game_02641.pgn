@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/SQgLQyb8"]
+[White "zkralla"]
+[Black "scrauler"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:53"]
+[WhiteElo "1646"]
+[BlackElo "1531"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+15"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. e3 e6 2. c3 Ne7 3. d4 g6 4. Bb5 Bg7 5. Ba4 c6 6. Bb3 d5 7. f3 O-O 8. Ne2 Nd7 9. O-O b6 10. Bc2 Bb7 11. Bd3 c5 12. c4 dxc4 13. Bxc4 a6 14. dxc5 b5 15. Bd3 Nxc5 16. Bc2 Rc8 17. b4 Nd7 18. Be4 Bxa1 19. Bxb7 Rb8 20. Nd2 Rxb7 21. e4 Be5 22. Nb3 Qc7 23. Ng3 Bxg3 24. f4 Bxf4 25. g3 Bxg3 26. hxg3 Qxg3+ 27. Kh1 Ne5 28. Qe2 Ng4 29. Qh2 Qxh2# 0-1
+

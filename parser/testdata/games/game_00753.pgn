@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/7nOpQj2K"]
+[White "JulioASantos"]
+[Black "roeme"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:47"]
+[WhiteElo "1989"]
+[BlackElo "1845"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "B08"]
+[Opening "Pirc Defense: Classical Variation, Schlechter Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nf3 Nf6 3. Nc3 g6 4. d4 Bg7 5. h3 O-O 6. Be3 Nbd7 7. Qd2 b6 8. O-O-O c5 9. Bh6 cxd4 10. Nxd4 Bb7 11. Bxg7 Kxg7 12. Bd3 Rc8 13. h4 h5 14. f3 Ne5 15. g4 e6 16. Rdg1 Rh8 17. gxh5 Rxh5 18. Rg5 Nc4 19. Bxc4 Rxc4 20. Rhg1 Qc7 21. Qg2 Rxd4 22. Rxg6+ fxg6 23. Qxg6+ Kf8 24. Qxf6+ Qf7 25. Qd8+ Qe8 26. Rg8+ Kxg8 27. Qxe8+ Kg7 28. Qxh5 e5 29. Qg5+ Kf7 30. Qf5+ Ke7 31. Qh7+ Kd8 32. Qxb7 Ke8 33. Nd5 Rxd5 34. exd5 Kf8 35. h5 e4 36. h6 exf3 37. h7 f2 38. h8=Q# 1-0
+

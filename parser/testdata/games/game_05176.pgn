@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/sMEFcc2U"]
+[White "speddygonzalez"]
+[Black "Abdouch"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:55"]
+[WhiteElo "1367"]
+[BlackElo "1367"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C60"]
+[Opening "Ruy Lopez: Cozio Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. Nc3 a6 5. Ba4 d5 6. Bb3 dxe4 7. Ng5 e3 8. Nxf7 exf2+ 9. Kf1 Qd4 10. Nxh8 Bg4 11. Ne2 Qe4 12. Kxf2 Nd4 13. d3 Qf5+ 14. Ke1 Bxe2 15. Qd2 e4 16. Bf7+ Kd8 17. c3 exd3 18. cxd4 Qe4 19. Bc4 Qxg2 20. Bxd3 Bxd3 21. Qxd3 Qxh1+ 22. Kd2 Qxh2+ 23. Kc3 Nd5+ 24. Kc4 Nb6+ 25. Kc3 Na4+ 26. Kb3 b5 27. Nf7+ Kc8 28. Qf5+ Kb8 29. Qd7 Qg3+ 30. Kc2 Qf2+ 31. Kb1 Nb6 32. a4 Nxd7 0-1
+

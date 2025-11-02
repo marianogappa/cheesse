@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NjuJEM30"]
+[White "dislikechess"]
+[Black "kus4art"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:25"]
+[WhiteElo "1952"]
+[BlackElo "1896"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+12"]
+[ECO "A10"]
+[Opening "English Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. c4 b6 2. Nf3 Bb7 3. d4 e6 4. Bf4 f5 5. Nc3 Nf6 6. g3 Be7 7. Bg2 O-O 8. O-O c5 9. e3 Nc6 10. a3 cxd4 11. exd4 Rc8 12. b3 Ne4 13. Nb5 a6 14. d5 axb5 15. dxc6 Bxc6 16. Ne5 bxc4 17. Nxc4 Bc5 18. b4 Bxf2+ 19. Rxf2 Nxf2 20. Kxf2 Bxg2 21. Kxg2 Rxc4 22. Qd3 d5 23. Re1 Re8 24. Qe3 Qd7 25. Qxb6 Rc6 26. Qe3 Ra8 27. Be5 Qc8 28. Bd4 Rc2+ 29. Kh3 Qe8 30. Bc5 Qh5# 0-1
+

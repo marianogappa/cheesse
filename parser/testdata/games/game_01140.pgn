@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/FuVn7tCO"]
+[White "Richard10"]
+[Black "jortega"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:15"]
+[WhiteElo "1725"]
+[BlackElo "1781"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "B03"]
+[Opening "Alekhine Defense: Four Pawns Attack, 6...Nc6"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Nc6 7. Nf3 Bg4 8. Be3 e6 9. a3 Be7 10. Be2 O-O 11. O-O f6 12. h3 Bxf3 13. Bxf3 Nxc4 14. Bxc6 Nxe3 15. Qb3 Nxf1 16. Qxe6+ Kh8 17. Bxb7 Qxd4+ 18. Kxf1 fxe5+ 19. Bf3 Bc5 20. Ke2 Qxb2+ 21. Nd2 Qxa1 22. Bxa8 Qd4 23. Bf3 Qe3+ 24. Kd1 Rd8 25. Qa2 Bxa3 26. Qc2 Bb4 27. Kc1 Bxd2+ 0-1
+

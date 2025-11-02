@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/fWes8vpU"]
+[White "TP94"]
+[Black "Abelrom"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:43"]
+[WhiteElo "1328"]
+[BlackElo "1315"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Napoleon Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qf3 Nf6 3. d3 Na6 4. Nh3 Nc5 5. Nc3 d5 6. exd5 Qe7 7. Ng5 e4 8. dxe4 h6 9. Bb5+ c6 10. Bc4 Ncxe4 11. Ngxe4 cxd5 12. Bb5+ Bd7 13. Bd3 dxe4 14. Nxe4 Bc6 15. O-O Bxe4 16. Bb5+ Kd8 17. Rd1+ Kc8 18. Qc3+ Qc7 19. Rd8+ Kxd8 20. Qd4+ Kc8 21. c3 a6 22. Be2 Bc5 23. Qc4 Rd8 24. Bf4 Qc6 25. Qxf7 g5 26. b4 gxf4 27. Rd1 Bd6 28. Qxf6 Bf8 29. Qxd8# 1-0
+

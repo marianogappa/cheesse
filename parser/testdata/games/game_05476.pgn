@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Aqg5b5pq"]
+[White "chornicot63"]
+[Black "niltonmaia"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:06"]
+[WhiteElo "1927"]
+[BlackElo "1925"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C70"]
+[Opening "Ruy Lopez: Morphy Defense, Caro Variation"]
+[TimeControl "900+20"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Nf6 6. O-O Nxe4 7. Re1 d5 8. d3 Nf6 9. Nxe5 Nxe5 10. Rxe5+ Be7 11. Qe2 Be6 12. Nc3 c6 13. Rxe6 fxe6 14. Qxe6 Qd6 15. Qh3 O-O 16. Bd2 Rae8 17. Ne2 Bd8 18. Ng3 Qe6 19. Qh4 Ng4 20. Qh5 Rxf2 21. Bc3 Rff8 22. h3 Qe3+ 23. Kh1 Nf2+ 24. Kh2 Bc7 25. Qh4 Bxg3+ 26. Qxg3 Qxg3+ 27. Kxg3 Re2 28. Bd4 Rf5 29. Rf1 Rg5+ 30. Kf3 Re7 31. Rxf2 Rf5+ 32. Kg3 Rg5+ 33. Kh2 h5 34. a4 Kh7 35. axb5 axb5 36. c4 dxc4 37. dxc4 bxc4 38. Bxc4 Rd7 39. Bc3 c5 40. Bf7 h4 41. Be6 Re7 42. Bf5+ g6 43. Bc2 Re6 44. Rf4 Re2 45. Rxh4+ Kg8 46. Be4 Kf7 47. Bf3 Rc2 48. Rh7+ Ke6 49. Rc7 Kd6 50. Rc6+ Kd7 51. Be4 Re2 52. Rxg6 Rexg2+ 53. Bxg2 Rxg6 54. Bf3 Kd6 55. Bg4 Kd5 56. Kg3 Ke4 57. Kf2 Kf4 58. Ke2 c4 59. Bd2+ Kg3 60. Bc3 Rg8 61. Ke3 Rd8 62. Be5+ Kg2 63. Ke4 Rd2 64. h4 Rd8 65. h5 Rg8 66. Bf3+ Kh3 67. h6 Rh8 68. Bxh8 1-0
+

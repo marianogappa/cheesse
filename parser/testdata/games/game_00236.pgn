@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/dlCT0zvN"]
+[White "Muta"]
+[Black "menfhischess"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:42"]
+[WhiteElo "1566"]
+[BlackElo "1963"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bf4 c5 3. Nf3 e6 4. e3 d5 5. c4 cxd4 6. Nxd4 Bb4+ 7. Nc3 Ne4 8. Qa4+ Nc6 9. Nxc6 Bxc3+ 10. bxc3 bxc6 11. Qc2 O-O 12. f3 Nf6 13. Rb1 Ba6 14. cxd5 Bxf1 15. Rxf1 cxd5 16. Rf2 Rc8 17. Rc1 Qa5 18. Qb3 Rc4 19. Rfc2 Rfc8 20. Be5 Nd7 21. Bg3 Nc5 22. Qb2 Nd3+ 23. Kd2 Nxb2 24. Rxb2 h5 25. Be1 Rxc3 26. Rxc3 Qxc3+ 27. Kd1 Qxb2 0-1
+

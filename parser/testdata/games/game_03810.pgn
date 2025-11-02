@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/fd4ZgRyQ"]
+[White "Guitarplaya"]
+[Black "abricot"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:36"]
+[WhiteElo "1984"]
+[BlackElo "2266"]
+[WhiteRatingDiff "+20"]
+[BlackRatingDiff "-21"]
+[ECO "A80"]
+[Opening "Dutch Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 f5 2. Nf3 Nf6 3. e3 g6 4. Bd3 Bg7 5. O-O O-O 6. Re1 d6 7. Nbd2 Nc6 8. c4 e5 9. d5 Ne7 10. Bc2 c5 11. e4 f4 12. b3 h6 13. Nf1 g5 14. g3 Ng6 15. Qe2 Bg4 16. Kg2 Nh5 17. h3 Bd7 18. g4 Nf6 19. N3h2 Nh4+ 20. Kg1 h5 21. f3 hxg4 22. Nxg4 Nxg4 23. fxg4 f3 24. Qf2 Ng2 25. Rd1 b5 26. Ne3 Nf4 27. Nf5 Nxh3+ 28. Kf1 Nxf2 29. Kxf2 Bxf5 30. exf5 bxc4 31. bxc4 e4 32. Bxe4 Bxa1 33. Rh1 Bd4+ 34. Kxf3 Qf6 35. Rh5 Rae8 36. Rxg5+ Kf7 37. Bf4 Rxe4 38. Kxe4 Re8+ 39. Kf3 Be5 40. Rg6 Bxf4 41. Rxf6+ Kxf6 42. Kxf4 Re1 43. g5+ Kf7 44. f6 Kg6 45. Kg4 Rg1+ 46. Kf4 Rxg5 47. f7 Rf5+ 48. Ke4 Rxf7 49. Kd3 Rf5 50. Kc3 Rf3+ 51. Kb2 a5 52. a4 Re3 53. Kc2 Kf5 54. Kb2 Ke4 55. Kc2 Kd4 56. Kb2 Kxc4 57. Kc2 Rd3 58. Kb2 Rb3+ 59. Ka2 Rb4 60. Ka3 Kxd5 61. Ka2 Kc4 62. Ka3 d5 63. Ka2 d4 64. Ka3 d3 65. Ka2 d2 66. Ka3 d1=Q 67. Ka2 Qb1+ 68. Ka3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OPmLdiep"]
+[White "suddenness"]
+[Black "lugalbanda"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:42"]
+[WhiteElo "1922"]
+[BlackElo "2035"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. d4 Bg7 3. c3 d6 4. f4 c6 5. Nf3 Nd7 6. Be3 Ngf6 7. Nbd2 e5 8. fxe5 dxe5 9. dxe5 Ng4 10. Qe2 Ngxe5 11. Nxe5 Nxe5 12. Bd4 O-O 13. O-O-O Qe7 14. Kb1 Be6 15. Bxe5 Bxe5 16. Nf3 Bg7 17. Nd4 b5 18. Nxe6 Qxe6 19. g3 a5 20. Bg2 a4 21. a3 b4 22. cxb4 Qe5 23. Rc1 Rfd8 24. Rc5 Qd4 25. Rhc1 Be5 26. Rxc6 Rd7 27. Bh3 Re7 28. R6c4 Qd6 29. Qc2 Rd8 30. Rc8 Rxc8 31. Qxc8+ Kg7 32. Qc2 Qd4 33. Rd1 Qe3 34. Bc8 Rc7 35. Rd3 Qxe4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XCxG0vHS"]
+[White "lerose"]
+[Black "Barbikusz"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:04"]
+[WhiteElo "2187"]
+[BlackElo "2121"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+15"]
+[ECO "B48"]
+[Opening "Sicilian Defense: Paulsen Variation, Bastrikov Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Bd3 Nf6 8. O-O Ne5 9. h3 Bc5 10. Qe2 d6 11. f4 Ng6 12. Kh1 O-O 13. Nb3 Bxe3 14. Qxe3 b5 15. f5 Ne5 16. fxe6 fxe6 17. Nd4 Bd7 18. Qg3 Kh8 19. Qh4 Qc5 20. Nce2 b4 21. Rac1 a5 22. Nf3 a4 23. Ng5 h6 24. Nf4 Nxd3 25. cxd3 Qxg5 26. Qxg5 hxg5 27. Ng6+ Kg8 28. Nxf8 Kxf8 29. Rc7 Ke7 30. Kg1 Rc8 31. Rfc1 Rxc7 32. Rxc7 e5 33. Rb7 d5 34. Rxb4 dxe4 35. dxe4 Bc6 36. Rb6 Kd7 37. Ra6 Nxe4 38. Ra7+ Kd6 39. Rxg7 Bd5 40. a3 Be6 41. Ra7 Bd7 42. g4 Nc5 43. Kh2 Bc6 44. Rg7 Ne4 45. h4 gxh4 46. g5 Bd7 47. g6 Be6 48. Ra7 Bb3 49. g7 Nf6 50. Ra6+ Ke7 0-1
+

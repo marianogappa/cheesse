@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/YehQHVQ9"]
+[White "mgeorgi"]
+[Black "geo156"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:01"]
+[WhiteElo "1663"]
+[BlackElo "1674"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-26"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense, Beverwijk Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nf6 5. Bxc6 bxc6 6. Nxe5 O-O 7. d4 Bd6 8. Bg5 Ba6 9. Re1 Be7 10. c4 c5 11. d5 d6 12. Nc6 Qd7 13. b3 Bb7 14. e5 dxe5 15. Nxe5 Qf5 16. Bh4 g5 17. Bg3 h5 18. h3 Ne4 19. Qxh5 Bf6 20. Ng4 Nxg3 21. fxg3 Bd4+ 22. Kh2 Qh7 23. Qxg5+ Kh8 24. Nf6 Qg7 25. Qh5+ Qh6 26. Qxh6# 1-0
+

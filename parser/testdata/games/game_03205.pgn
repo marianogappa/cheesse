@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/568nFtCy"]
+[White "rafaelandrademd"]
+[Black "tonycitrini"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:07"]
+[WhiteElo "1709"]
+[BlackElo "1732"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf, Lipnitsky Attack"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 Qc7 7. Bb3 b5 8. Nd5 Nxd5 9. Bxd5 Bb7 10. Bxb7 Qxb7 11. Qe2 Nc6 12. Nf5 g6 13. Ne3 Rc8 14. O-O Bg7 15. Nd5 Nd4 16. Qg4 Rxc2 17. Be3 Ne6 18. Rac1 Rxc1 19. Rxc1 O-O 20. Rc2 Nd4 21. Rc7 Qb8 22. Nxe7+ Kh8 23. Nd5 Rc8 24. Rxc8+ Qxc8 25. Qxc8+ 1-0
+

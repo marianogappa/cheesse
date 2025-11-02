@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/CvC6NZtq"]
+[White "el_maurice"]
+[Black "MarcoRikolino"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:34"]
+[WhiteElo "1462"]
+[BlackElo "1415"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.28] } 1... e5 { [%eval 0.39] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.29] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.17] } 4. Nxd4 { [%eval 0.13] } 4... Nxd4 { [%eval 0.5] } 5. Qxd4 { [%eval 0.58] } 5... c5 { [%eval 1.02] } 6. Qd5?! { [%eval 0.29] } 6... d6? { [%eval 1.55] } 7. Bc4?! { [%eval 0.81] } 7... Qe7?! { [%eval 1.31] } 8. Nc3 { [%eval 1.13] } 8... Nf6 { [%eval 1.33] } 9. Qd3 { [%eval 1.23] } 9... g6?! { [%eval 1.85] } 10. Bg5 { [%eval 1.59] } 10... Qxe4+?? { [%eval 27.65] } 11. Nxe4 { [%eval 25.21] } 11... Nxe4?! { [%eval #3] } 12. Qxe4+?! { [%eval 26.75] } 12... Kd7 { [%eval 23.15] } 13. O-O-O { [%eval 18.35] } 13... Bg7?! { [%eval #2] } 14. Qd5?! { [%eval #6] } 14... Be5 { [%eval #3] } 15. Qxf7+?! { [%eval 30.07] } 15... Kc6 { [%eval 28.21] } 16. Qd5+ { [%eval 24.6] } 16... Kd7?! { [%eval #3] } 17. f4?! { [%eval #6] } 17... Bg7 { [%eval #2] } 18. Qf7+?! { [%eval #4] } 18... Kc6 { [%eval #4] } 19. Qxg7?! { [%eval #6] } 19... Bf5 { [%eval #4] } 20. Bd5+?! { [%eval #4] } 20... Kb5 { [%eval #4] } 21. Qc3?! { [%eval #8] } 21... Kb6 { [%eval #6] } 22. Qb3+ { [%eval #5] } 1-0
+

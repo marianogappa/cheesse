@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/w2qndP0l"]
+[White "avdvovlvfvo"]
+[Black "Sta-s"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:10"]
+[WhiteElo "1794"]
+[BlackElo "1602"]
+[WhiteRatingDiff "-56"]
+[BlackRatingDiff "+20"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Bg4 5. Be2 Nf6 6. h3 Bxf3 7. Bxf3 a6 8. Nc3 e6 9. Bg5 Be7 10. O-O b5 11. a3 Qb6 12. Re1 O-O 13. b4 Rc8 14. Qd2 Rc4 15. Ne2 Nc6 16. c3 a5 17. Rab1 axb4 18. axb4 Rc8 19. Nf4 h6 20. Bh4 g5 21. Bxg5 hxg5 22. Nxd5 Nxd5 23. Bxd5 exd5 24. Rxe7 Nxe7 25. Qxg5+ Kf8 26. Re1 R8c7 27. Qh6+ Ke8 28. Qxb6 Rxc3 29. Qb8+ Rc8 30. Qxb5+ R8c6 31. Qxd5 Rc1 32. Rxc1 Rxc1+ 33. Kh2 Nxd5 34. h4 f5 35. h5 Kd8 36. h6 Rc7 37. b5 Rh7 38. Kg3 Rxh6 39. f3 Ke7 40. Kf2 Rb6 41. g4 fxg4 42. fxg4 Rxb5 43. g5 Kf7 44. Kf3 Kg6 45. Ke4 Nc7 46. Kf4 Rxg5 47. d5 Nxd5+ 48. Ke4 Kf6 49. Kd4 Ke6 50. Kc5 Ne7+ 51. Kd4 Re5 52. Kd3 Kd5 0-1
+

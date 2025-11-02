@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PU6BAyG4"]
+[White "AZA711"]
+[Black "Longhair"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:18"]
+[WhiteElo "2001"]
+[BlackElo "1873"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Staunton-Cochrane Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. c4 e6 3. Nc3 Ne7 4. d3 d5 5. cxd5 exd5 6. e5 Bf5 7. f4 a6 8. Nf3 d4 9. Ne2 Nd5 10. Ng3 Bg4 11. Be2 Be7 12. Nxd4 1-0
+

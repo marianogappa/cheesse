@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dhBnDGsW"]
+[White "padawn08"]
+[Black "Sharhanove"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:38"]
+[WhiteElo "1773"]
+[BlackElo "1803"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation #2"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Nxd5 Qxd5 5. Nf3 e5 6. b3 Nc6 7. Bc4 Qd6 8. O-O Be7 9. Re1 O-O 10. Bb2 Bf6 11. Bf1 Bg4 12. Rb1 Rfe8 13. Be2 Ne7 14. h3 Bh5 15. Nh2 Bxe2 16. Qxe2 Ng6 17. Nf3 Nf4 18. Qf1 e4 19. Bxf6 exf3 20. g3 Qxf6 21. gxf4 Qxf4 22. d3 Rad8 23. Re4 Qg5+ 24. Kh2 Rxe4 25. dxe4 Qf4+ 26. Kh1 Qxe4 27. Re1 Qf5 28. Qd3 Qxd3 29. cxd3 g6 30. Re3 Rd5 31. Rxf3 Rc5 32. d4 Rc1+ 33. Kg2 Rc2 34. a4 Rd2 35. Rf4 Rd3 36. Re4 Rxb3 37. f3 Kf8 38. Kg3 Ra3 39. Kg4 Rxa4 40. Kg5 Ra5+ 41. Kh6 Rh5# 0-1
+

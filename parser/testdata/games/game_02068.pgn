@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eCwUHRJg"]
+[White "Tianmu"]
+[Black "goblincobbler"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:47"]
+[WhiteElo "2069"]
+[BlackElo "1908"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[ECO "D85"]
+[Opening "Gruenfeld Defense: Exchange Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8. Qd2 Qa5 9. Rb1 cxd4 10. cxd4 Qxd2+ 11. Kxd2 Nc6 12. d5 Ne5 13. h3 O-O 14. f4 Nd7 15. Nf3 a6 16. Bd3 Rd8 17. Rhc1 Nf6 18. Ke2 e6 19. Bb6 Rd7 20. Ne5 Re7 21. d6 Re8 22. Rc7 Nd7 23. Nxd7 Rd8 24. Ne5 Rxd6 25. Bc5 Rd8 26. Rc1 b5 27. Be7 Re8 28. g4 f5 29. g5 fxe4 30. Bxe4 h6 31. Bxa8 1-0
+

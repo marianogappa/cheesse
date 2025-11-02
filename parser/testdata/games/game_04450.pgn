@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YxPUhmFH"]
+[White "Wallabeebeatles"]
+[Black "DIEGO_M"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:04"]
+[WhiteElo "1523"]
+[BlackElo "1619"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. f4 e6 5. c3 Nd7 6. Nd2 c5 7. Nb3 cxd4 8. cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 Ne7 11. Nf3 O-O 12. Bd3 Bg4 13. O-O Bf5 14. Ng5 h6 15. Bxf5 Nxf5 16. Nf3 Rc8 17. g4 Ne7 18. g5 h5 19. Qd3 g6 20. Qe2 Nf5 21. Rac1 Qb6 22. Rxc8 Rxc8 23. a3 Qxb3 0-1
+

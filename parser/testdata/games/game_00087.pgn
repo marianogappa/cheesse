@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MyervZiK"]
+[White "Baltare"]
+[Black "Usohatchi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:06"]
+[WhiteElo "1355"]
+[BlackElo "1363"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit, Dubois Reti Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. Nxd4 Nxe4 6. Nxc6 Qh4 7. Qe2 dxc6 8. Bd3 Bf5 9. g3 Qe7 10. Bxe4 Bxe4 11. Nc3 Bxh1 12. Qxe7+ Bxe7 13. Bf4 O-O-O 14. Ke2 g5 15. Be5 f6 16. Bxc7 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/l07VaW1H"]
+[White "countermeasurer"]
+[Black "traian_patrusel"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:44"]
+[WhiteElo "1921"]
+[BlackElo "1828"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d3 e6 2. Nd2 Be7 3. Ngf3 Bg5 4. g3 Bxd2+ 5. Bxd2 Nf6 6. Bg2 h6 7. O-O c5 8. e4 d6 9. c3 Nc6 10. a4 e5 11. h3 b6 12. Be3 Be6 13. Re1 Na5 14. Kh2 Qd7 15. d4 cxd4 16. cxd4 exd4 17. Nxd4 O-O 18. e5 Ne8 19. Nxe6 fxe6 20. Bxa8 d5 21. b4 Nc4 22. Bd4 Nc7 23. Bb7 a6 24. Rc1 Qf7 25. Rxc4 dxc4 26. Bxb6 Nd5 27. Bxd5 exd5 28. Qxd5 Qxd5 29. e6 Re8 30. e7 Rxe7 31. Bc5 Rxe1 32. g4 Qd1 33. Kg3 Rh1 34. Kf4 Qg1 35. Ke5 Qh2+ 36. Kd5 Qf4 37. Kc6 Rd1 38. Kb6 Qf6+ 39. Ka5 Qf7 40. b5 Qf6 41. b6 Rd5 42. Kxa6 Rxc5 43. a5 Qc6 44. Ka7 Rb5 45. a6 Qc5 0-1
+

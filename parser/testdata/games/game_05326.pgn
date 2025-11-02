@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/tPTTebu3"]
+[White "bobbytal"]
+[Black "hobiii"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:27"]
+[WhiteElo "1711"]
+[BlackElo "1746"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-13"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 Nc6 3. d5 Nce7 4. c4 Ng6 5. Nc3 Bc5 6. Nf3 d6 7. h3 N8e7 8. Bd3 Nf4 9. O-O Nxh3+ 10. gxh3 Bxh3 11. Ng5 Bxf1 12. Kxf1 Ng6 13. Qf3 O-O 14. Qh3 h6 15. Nf3 Nf4 16. Bxf4 exf4 17. Qf5 Qf6 18. e5 dxe5 19. Nxe5 Qxf5 20. Bxf5 Bd4 21. Nd7 Rfe8 22. Nb5 Bxb2 23. Rb1 Be5 24. Nxe5 Rxe5 25. Nxc7 Rc8 26. Bxc8 b6 27. d6 Rc5 28. d7 Rxc7 29. d8=Q+ Kh7 30. Qxc7 1-0
+

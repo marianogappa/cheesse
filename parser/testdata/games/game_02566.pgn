@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/4XEkvEA5"]
+[White "drunkingreatness"]
+[Black "TheLAZYmd"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:46"]
+[WhiteElo "2033"]
+[BlackElo "1870"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+27"]
+[ECO "C25"]
+[Opening "Vienna Game: Anderssen Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Bc5 3. f4 exf4 4. Nf3 Nf6 5. d4 Bb6 6. e5 Ng4 7. Bxf4 Nc6 8. h3 Nh6 9. d5 Nb4 10. a3 Na6 11. Qd2 O-O 12. Bxh6 d6 13. Bg5 f6 0-1
+

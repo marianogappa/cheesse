@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bcPQyUQT"]
+[White "RobDaMob"]
+[Black "thomazcampos07"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:49"]
+[WhiteElo "1320"]
+[BlackElo "1281"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "B07"]
+[Opening "King's Pawn Game: Maroczy Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 d6 3. dxe5 dxe5 4. Qxd8+ Kxd8 5. Nf3 Nc6 6. Bb5 Bd7 7. Bxc6 Bxc6 8. Nxe5 Ke7 9. O-O Bxe4 10. Re1 Nf6 11. Nc3 Bxc2 12. Ng6+ Kd7 13. Nxh8 Re8 14. Re3 Bc5 15. Nxf7 Rxe3 16. fxe3 Ng4 17. Nd5 c6 18. h3 cxd5 19. hxg4 d4 20. exd4 Bxd4+ 21. Kh1 Ke7 22. Ng5 h6 23. Nf3 Bf2 24. Bd2 Be4 25. Bb4+ Kf6 26. Bc3+ Kg6 27. Ne5+ Kh7 28. Rf1 Bh4 29. Rf4 Bd5 30. Rd4 Bxa2 31. Nf3 Bf6 32. Ra4 Bxc3 33. bxc3 Bd5 34. Rxa7 Bxf3 35. gxf3 g5 36. Rxb7+ Kg6 37. Rd7 h5 38. gxh5+ Kxh5 39. c4 Kh4 40. Kg2 1-0
+

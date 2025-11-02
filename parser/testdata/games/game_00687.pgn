@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FBmAj5aC"]
+[White "woopwoop"]
+[Black "behrooz_rzi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:30"]
+[WhiteElo "1163"]
+[BlackElo "1441"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+4"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c5 { [%eval 0.22] } 2. c3 { [%eval 0.2] } 2... g6 { [%eval 0.37] } 3. d4 { [%eval 0.24] } 3... cxd4 { [%eval 0.33] } 4. cxd4 { [%eval 0.3] } 4... Bg7 { [%eval 0.71] } 5. Nf3?! { [%eval 0.18] } 5... Nc6?! { [%eval 0.7] } 6. Be2 { [%eval 0.63] } 6... e6 { [%eval 0.71] } 7. O-O?! { [%eval 0.17] } 7... Nf6 { [%eval 0.6] } 8. Nc3 { [%eval 0.63] } 8... O-O { [%eval 0.77] } 9. g3?! { [%eval 0.27] } 9... a6 { [%eval 0.47] } 10. Bg5 { [%eval 0.1] } 10... Qb6 { [%eval 0.47] } 11. Rb1 { [%eval 0.37] } 11... d5 { [%eval 0.44] } 12. e5 { [%eval 0.45] } 12... Ne4 { [%eval 0.62] } 13. Be7?? { [%eval -4.16] } 13... Nxe7 { [%eval -3.94] } 14. b3?? { [%eval -10.52] } 14... Nxc3 { [%eval -10.31] } 15. Qd2 { [%eval -10.43] } 15... Nxb1 { [%eval -10.13] } 16. Rxb1 { [%eval -10.1] } 16... Nf5 { [%eval -9.84] } 17. a4 { [%eval -10.47] } 17... f6 { [%eval -10.41] } 18. a5 { [%eval -10.4] } 18... Qc7 { [%eval -10.02] } 19. exf6 { [%eval -10.68] } 19... Bxf6 { [%eval -10.39] } 20. Qf4 { [%eval -14.17] } 20... Qc2 { [%eval -12.27] } 21. Re1 { [%eval -12.08] } 21... Bd7 { [%eval -11.72] } 22. b4 { [%eval -12.64] } 22... Bb5 { [%eval -11.97] } 23. Ng5 { [%eval -20.45] } 23... Bxg5 { [%eval -19.57] } 24. Qxg5 { [%eval -21.38] } 24... Bxe2 { [%eval -20.11] } 25. Qe7?! { [%eval #-6] } 0-1
+

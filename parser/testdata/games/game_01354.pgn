@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4aKZNd13"]
+[White "alterit"]
+[Black "kcn77"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:59"]
+[WhiteElo "2011"]
+[BlackElo "1978"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-9"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O a6 6. Ba4 d6 7. c3 b5 8. Bc2 Bg4 9. Bg5 Qd7 10. Nbd2 h6 11. Be3 Bb6 12. Bxb6 cxb6 13. Qe1 h5 14. Qe3 h4 15. h3 Bxh3 16. gxh3 Qxh3 17. Nh2 Qd7 18. Qxb6 Rc8 19. Qxa6 Ng4 20. Ndf3 h3 21. Qxb5 f5 22. Ba4 fxe4 23. dxe4 g5 24. Qd5 Nxh2 25. Nxh2 g4 26. Rad1 g3 27. fxg3 Qa7+ 28. Rf2 Qxa4 29. Qf7+ Kd8 30. Rxd6# 1-0
+

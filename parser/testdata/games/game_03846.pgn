@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oINdett2"]
+[White "calegarius"]
+[Black "umbabarauma"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:40"]
+[WhiteElo "1867"]
+[BlackElo "1746"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "E68"]
+[Opening "King's Indian, Fianchetto, Classical Variation, 8.e4"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d6 5. Bg2 O-O 6. O-O Nbd7 7. Nc3 e5 8. e4 exd4 9. Nxd4 Ne5 10. b3 c6 11. h3 Be6 12. Be3 Qe7 13. Qd2 c5 14. Nxe6 fxe6 15. Bh6 Rad8 16. Bxg7 Kxg7 17. Rad1 Nc6 18. Nb5 Nd4 19. Nxd4 cxd4 20. Qxd4 b6 21. Qc3 e5 22. Rd2 Qe6 23. Rfd1 Rf7 24. Qb4 Rfd7 25. Kh2 h6 26. h4 g5 27. hxg5 Ng4+ 28. Kg1 hxg5 29. Bh3 Rh8 30. Bxg4 Qxg4 31. Rxd6 Rhd8 32. Rxd7+ Rxd7 33. Rxd7+ Qxd7 34. Qc3 Qd1+ 35. Kg2 Qd6 36. Qe3 Kf6 37. Qf3+ Kg7 38. Qf5 Kh6 39. f4 Qd2+ 40. Kh3 exf4 41. Qf6+ Kh7 42. Qxg5 Qxa2 43. gxf4 Qxb3+ 44. Kg4 Qxc4 45. Qe7+ Kg8 46. Qxa7 Qe2+ 47. Kf5 Qh5+ 48. Ke6 Qg6+ 49. Ke5 Qh5+ 50. f5 Qh2+ 51. Ke6 Qh6+ 52. Kd5 Qd2+ 53. Ke6 Qh6+ 54. f6 Qh3+ 55. Kd6 Qg3+ 56. e5 Qd3+ 57. Ke6 Qh3+ 58. Ke7 Qh7+ 59. Kd6 Qxa7 60. e6 Qb8+ 61. Kd5 Kf8 62. Ke4 b5 63. Kf5 b4 64. Kg6 Qg3+ 65. Kf5 Qf3+ 66. Kg6 Qg4+ 67. Kh6 Qxe6 0-1
+

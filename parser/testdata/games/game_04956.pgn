@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3CO3CF4P"]
+[White "us2224577899"]
+[Black "atdchess"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:08"]
+[WhiteElo "1986"]
+[BlackElo "2075"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Marshall Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nc3 Bf5 6. Nf3 Nc6 7. d5 Nb4 8. Nd4 Bg6 9. a3 Na6 10. Bd3 Bxd3 11. Qxd3 Nc5 12. Qe2 g6 13. O-O Bg7 14. Be3 O-O 15. b4 Bxd4 16. Bxd4 Nb3 17. Rad1 Nxd4 18. Rxd4 e6 19. c5 Nxd5 20. Nxd5 exd5 21. Rfd1 c6 22. b5 Re8 23. Qf3 Qa5 24. h4 Qxb5 25. h5 Qxc5 26. hxg6 hxg6 27. Qf6 Re6 28. Qg5 Qe7 29. Qh6 Re4 30. R4d3 Re1+ 31. Kh2 Rxd1 32. Rxd1 Qe5+ 33. g3 Qh5+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VxaBb0Tm"]
+[White "homoeporediensis"]
+[Black "chovoss"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:25"]
+[WhiteElo "2004"]
+[BlackElo "2026"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. g3 e5 2. Bg2 f5 3. d4 e4 4. h4 d5 5. Bg5 Nf6 6. c3 h6 7. Bxf6 Qxf6 8. e3 Bd6 9. Na3 c6 10. Nh3 Nd7 11. Nc2 O-O 12. Nf4 g6 13. Qe2 a5 14. a4 b6 15. b3 Kg7 16. Qd2 Qe7 17. Qd1 Nf6 18. h5 Bxf4 19. exf4 g5 20. Ne3 Ba6 21. Nxf5+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/QHyHS76a"]
+[White "vnessuno"]
+[Black "Ivorybags"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:16"]
+[WhiteElo "1893"]
+[BlackElo "1895"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "E00"]
+[Opening "Kangaroo Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. c4 e6 2. d4 Bb4+ 3. Bd2 Qe7 4. Nc3 Nc6 5. d5 exd5 6. Nxd5 Bxd2+ 7. Qxd2 Qd8 8. O-O-O Nge7 9. e4 O-O 10. Be2 d6 11. Bf3 Be6 12. Ne2 Ne5 13. Nd4 Nxc4 14. Qc3 Bxd5 15. exd5 Nb6 16. Kb1 Qd7 17. Rc1 Nexd5 18. Bxd5 Nxd5 19. Qc4 c6 20. Nf3 h6 21. Rhd1 Rfe8 22. a3 Rac8 23. h3 b5 24. Qg4 Qxg4 25. hxg4 a5 26. Nd4 Nf4 27. Nxc6 Kf8 28. Nxa5 Rxc1+ 29. Rxc1 Nxg2 30. Nb7 Re1 31. Nxd6 Rxc1+ 32. Kxc1 Nf4 33. Nxb5 Nd3+ 34. Kd2 Nxf2 35. a4 Nxg4 36. a5 Ne5 37. a6 Nd7 38. Nc7 Ke7 39. a7 Nb6 40. Nd5+ 1-0
+

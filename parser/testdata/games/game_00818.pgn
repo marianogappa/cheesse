@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/cN6yBIeS"]
+[White "romybacks"]
+[Black "HarpSeal"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:02"]
+[WhiteElo "1746"]
+[BlackElo "1982"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-19"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Quiet System"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. Nf3 Nf6 2. e3 e6 3. d3 c5 4. Nbd2 b6 5. a3 Bb7 6. c4 Be7 7. b3 O-O 8. Bb2 d5 9. Qc2 Nc6 10. Be2 d4 11. e4 e5 12. g3 Ne8 13. h4 f5 14. Rg1 Nd6 15. O-O-O fxe4 16. dxe4 b5 17. cxb5 d3 18. Bxd3 Nd4 19. Nxd4 cxd4 20. Bc4+ Kh8 21. f4 exf4 22. Bxd4 f3 23. Qc3 Ne8 24. Nxf3 Qc8 25. Ng5 Nd6 26. Bxg7# 1-0
+

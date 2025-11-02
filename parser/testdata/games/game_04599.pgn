@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/4Db0Q1Hc"]
+[White "mliner"]
+[Black "avakarka"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:39"]
+[WhiteElo "1642"]
+[BlackElo "1539"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+16"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 a6 4. d3 b5 5. Bb3 h6 6. Nc3 Bb7 7. O-O g5 8. h3 Nf6 9. Nh2 a5 10. a3 a4 11. Ba2 Bc6 12. Qf3 Na6 13. Ng4 Bg7 14. Nxf6+ Bxf6 15. Nd5 Bxd5 16. Bxd5 Rb8 17. Bc6+ Kf8 18. Qh5 Qe7 19. b4 Rb6 20. Bd5 c6 21. Ba2 c5 22. Be3 Rc6 23. Bd5 Rc7 24. bxc5 Nxc5 25. Rab1 Ne6 26. Rxb5 Rxc2 27. Bxe6 Qxe6 28. Rb8+ Rc8 29. Rfb1 Kg7 30. Rxc8 Qxc8 31. Qd1 Qd7 32. Rb4 Ra8 33. Qb1 Be7 34. Rb7 Qe6 35. Ra7 Rxa7 36. Bxa7 Qb3 37. Qc1 Qxd3 38. Qe3 Qxe3 39. Bxe3 Kg6 40. Bc1 Kh5 41. f3 Kh4 42. Kh2 Kh5 43. Kg3 Kg6 44. Kf2 Bd8 45. Bd2 Bb6+ 46. Ke2 Bg1 47. Bb4 Bh2 48. Bxd6 Bf4 49. Kf2 h5 50. g3 Bc1 51. Ke2 f5 52. Kd1 Bb2 53. Kc2 Bd4 54. exf5+ Kxf5 55. Kd3 Ke6 56. Bf8 Kf7 57. Bb4 Ke6 58. Kc4 Bf2 59. g4 h4 60. Kb5 Kd5 61. Kxa4 Kd4 62. Kb5 Ke3 63. Bd6 Kxf3 64. Bxe5 Kg2 65. Bf6 Be3 66. a4 Kxh3 67. a5 Kxg4 68. a6 h3 69. Kc4 h2 70. Bd4 Bf4 71. a7 h1=Q 72. Kc5 Qa8 0-1
+

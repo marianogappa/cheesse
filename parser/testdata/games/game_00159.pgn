@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DAi4iDDJ"]
+[White "sebcbien"]
+[Black "esemihcicek97"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:26"]
+[WhiteElo "1474"]
+[BlackElo "1464"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Nimzowitsch System"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. d4 Nc6 5. dxc5 Bxc5 6. Bb5 a6 7. Bxc6+ bxc6 8. Nc3 f6 9. Na4 Qa5+ 10. Nc3 Ne7 11. exf6 gxf6 12. Bh6 d4 13. Bg7 dxc3 14. bxc3 Qxc3+ 15. Kf1 Rg8 16. Bh6 Nf5 17. Bd2 Qc4+ 18. Ke1 Qe4+ 19. Qe2 Qxe2+ 20. Kxe2 Nd4+ 21. Nxd4 Bxd4 22. Rab1 Bd7 23. f3 Ke7 24. Kf1 Rab8 25. Rd1 c5 26. c3 Be5 27. f4 Bd6 28. Be3 Rb2 29. g3 Rxa2 30. c4 Ra4 31. Rc1 Rb8 32. Kg2 Rbb4 33. Kh3 Rxc4 34. Rxc4 Rxc4 35. Ra1 Bb5 36. Kh4 Kf7 37. Kh5 Kg7 38. f5 exf5 39. Bh6+ Kf7 40. h4 a5 41. Rxa5 Rb4 42. Ra7+ Ke6 43. Rxh7 c4 44. Rg7 c3 45. Rg8 c2 46. Re8+ Kd5 47. Re1 Rb1 48. Re8 c1=Q 49. Bxc1 Rxc1 50. Rd8 Bd3 51. Kg6 Rg1 52. Kxf6 Rxg3 53. h5 Rh3 54. Kg5 f4 55. Kg4 Re3 56. Rf8 f3 57. Rxf3 Rxf3 58. Kxf3 Bh7 59. Kg4 1-0
+

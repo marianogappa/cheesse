@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/MWQuNuqP"]
+[White "miltonmp"]
+[Black "samirchess"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:46"]
+[WhiteElo "1775"]
+[BlackElo "1780"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "B94"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nc6 7. Nb3 e5 8. f4 Be7 9. Bd3 h6 10. Bh4 O-O 11. Qf3 Bg4 12. Qg3 exf4 13. Qxf4 Be6 14. Bxf6 Bxf6 15. O-O-O Bxc3 16. bxc3 Ne5 17. Be2 Qc7 18. Qg3 Rfd8 19. Nd4 Bxa2 20. Rhf1 Rac8 21. Nf5 Qa5 22. Qxg7# 1-0
+

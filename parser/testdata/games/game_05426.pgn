@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/dpyZ6CIr"]
+[White "chess2016chess"]
+[Black "sztachalom"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:55"]
+[WhiteElo "1909"]
+[BlackElo "1976"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-13"]
+[ECO "B33"]
+[Opening "Sicilian Defense: Open"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 e5 7. O-O Bc5 8. Be3 Bxe3 9. fxe3 O-O 10. c4 Qb6 11. Qd2 Rb8 12. b3 Ba6 13. Nc3 Rfe8 14. h3 Qc7 15. Qf2 d5 16. exd5 cxd5 17. Qg3 Kh8 18. Rxf6 gxf6 19. Nxd5 Qd6 20. Qh4 e4 21. Nxf6 Kg7 22. Nxe8+ Rxe8 23. Be2 Qd2 24. Bg4 Qxe3+ 25. Kh1 Rd8 26. Rf1 Rd2 27. Qf6+ Kg8 28. Qxf7+ Kh8 29. Qf6+ Kg8 30. Be6# 1-0
+

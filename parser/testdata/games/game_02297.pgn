@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FxHnuWii"]
+[White "Aerfest"]
+[Black "Mashhour1985"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:45"]
+[WhiteElo "2039"]
+[BlackElo "1760"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Levitsky Attack"]
+[TimeControl "180+1"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bg5 Nf6 3. Bxf6 exf6 4. e3 g6 5. Bd3 Bg7 6. c3 O-O 7. Nd2 Re8 8. Ne2 Bg4 9. h3 Bd7 10. Ng3 b6 11. O-O c5 12. Re1 Nc6 13. Bb5 a6 14. Bd3 c4 15. Bc2 Qc7 16. e4 dxe4 17. Bxe4 Rad8 18. Nxc4 b5 19. Nd2 f5 20. Bf3 f4 21. Nge4 f5 22. Nc5 Re7 23. Qb3+ Kh8 24. Bxc6 Bxc6 25. Ne6 Rde8 26. Nxc7 Rxe1+ 27. Rxe1 Rxe1+ 28. Kh2 f3 29. Nxf3 Bxf3 30. gxf3 Bh6 31. Ne6 Re2 32. Kg2 Be3 33. Nd8 Bxf2 34. Nf7+ Kg7 35. Kf1 Rd2 36. Ne5 Bg3 37. Qf7+ Kh6 38. Qf8+ Kh5 39. Nf7 Rf2+ 40. Kg1 Rxb2 41. Qh6# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/sksLnqgl"]
+[White "cathy_cathy"]
+[Black "shackall"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:45"]
+[WhiteElo "1517"]
+[BlackElo "1469"]
+[WhiteRatingDiff "-23"]
+[BlackRatingDiff "+12"]
+[ECO "A41"]
+[Opening "Queen's Pawn"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. d4 d6 2. e3 e5 3. c3 f6 4. f3 h5 5. g3 Qe7 6. f4 Bg4 7. Nf3 e4 8. Qa4+ c6 9. Nh4 b5 10. Qa5 Bf5 11. Nxf5 Qd7 12. Bh3 g6 13. Nh4 Qxh3 14. Qc7 Qd7 15. Qxd7+ Nxd7 16. Nxg6 Rh6 17. Nxf8 Kxf8 18. Nd2 f5 19. b3 a5 20. b4 a4 21. c4 Ngf6 22. cxb5 cxb5 23. Bb2 Nd5 24. Ke2 N7b6 25. Rac1 Rc8 26. Rxc8+ Nxc8 27. Rc1 Ndb6 28. d5 h4 29. g4 fxg4 30. f5 g3 31. hxg3 h3 32. Nf1 h2 33. Nxh2 Rxh2+ 34. Kd1 Rxb2 35. Rc6 Rb1+ 36. Kc2 Rg1 37. Rc7 Rg2+ 38. Kc3 Rxa2 39. g4 Ra3+ 40. Kd4 Rd3+ 41. Kxe4 Rxd5 42. Kf4 Nc4 43. e4 Rd4 44. g5 d5 45. Rxc8+ Kf7 46. Rc7+ Ke8 47. Rc6 Rxe4+ 0-1
+

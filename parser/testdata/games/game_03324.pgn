@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qqlNkf33"]
+[White "kreph"]
+[Black "josemaria1979"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:41"]
+[WhiteElo "1680"]
+[BlackElo "1496"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Deferred"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. c3 Ne7 5. cxd4 Nbc6 6. Bc4 a6 7. Qe2 b5 8. Bb3 g6 9. O-O Bg7 10. Bg5 Nxd4 11. Nxd4 Bxd4 12. Nc3 Bg7 13. e5 O-O 14. Rad1 d5 15. exd6 Nf5 16. Bxd8 Rxd8 1-0
+

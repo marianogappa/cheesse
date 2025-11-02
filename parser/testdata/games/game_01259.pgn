@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/2ysJhXQt"]
+[White "pampopp"]
+[Black "bachkop999"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:40"]
+[WhiteElo "1398"]
+[BlackElo "1368"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+13"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "0+2"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Be2 Bd7 4. d3 Nc6 5. c4 Nf6 6. b3 Be7 7. a3 O-O 8. b4 h6 9. Bb2 Bg4 10. b5 Nb8 11. Bc3 c6 12. Nbd2 cxb5 13. cxb5 Qb6 14. Bb4 Qxb5 15. Rb1 a6 16. Bxd6 Qd7 17. Bxe7 Qxe7 18. Nh4 Be6 19. Nhf3 Nc6 20. Nc4 Bxc4 21. dxc4 Qe6 22. Rxb7 Nd4 23. Nxd4 exd4 24. Qxd4 Nxe4 0-1
+

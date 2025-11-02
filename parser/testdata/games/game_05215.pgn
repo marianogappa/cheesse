@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jusDNolV"]
+[White "Julius55"]
+[Black "Fortesacity"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:01"]
+[WhiteElo "1921"]
+[BlackElo "1767"]
+[WhiteRatingDiff "-19"]
+[BlackRatingDiff "+15"]
+[ECO "A40"]
+[Opening "Modern Defense"]
+[TimeControl "300+3"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.19] } 1... g6?! { [%eval 0.89] } 2. Nf3 { [%eval 0.5] } 2... e6 { [%eval 0.87] } 3. g3?! { [%eval 0.2] } 3... c6?! { [%eval 0.74] } 4. Bg2 { [%eval 0.42] } 4... a6?! { [%eval 0.95] } 5. O-O { [%eval 0.83] } 5... Bg7 { [%eval 0.79] } 6. e4 { [%eval 0.87] } 6... f6?! { [%eval 1.49] } 7. e5 { [%eval 1.55] } 7... f5?! { [%eval 2.14] } 8. Bg5 { [%eval 2.03] } 8... Ne7 { [%eval 2.03] } 9. Nc3 { [%eval 1.84] } 9... O-O { [%eval 1.75] } 10. Nd2 { [%eval 1.32] } 10... h6 { [%eval 1.4] } 11. Be3 { [%eval 1.07] } 11... b6?! { [%eval 1.62] } 12. Nc4 { [%eval 1.53] } 12... a5 { [%eval 1.58] } 13. Nd6 { [%eval 1.45] } 13... Ba6 { [%eval 1.65] } 14. Re1 { [%eval 1.47] } 14... Nd5? { [%eval 3.15] } 15. Nxd5 { [%eval 2.99] } 15... cxd5 { [%eval 3.08] } 16. b3? { [%eval 1.82] } 16... Nc6 { [%eval 2.1] } 17. c4 { [%eval 2.0] } 17... dxc4 { [%eval 2.02] } 18. bxc4 { [%eval 1.81] } 18... Rb8 { [%eval 2.07] } 19. d5? { [%eval 0.18] } 19... Nxe5 { [%eval 0.18] } 20. dxe6 { [%eval 0.15] } 20... dxe6 { [%eval 0.0] } 21. Nb5? { [%eval -1.7] } 21... Nxc4 { [%eval -1.7] } 22. Qb3? { [%eval -4.47] } 22... Nxe3 { [%eval -4.35] } 23. Rxe3?? { [%eval -7.41] } 23... Bxa1 { [%eval -7.26] } 24. Rxe6 { [%eval -7.36] } 24... Kh7 { [%eval -6.95] } 25. Rd6?! { [%eval -7.84] } 25... Qe8?! { [%eval -7.08] } 26. Bc6? { [%eval -8.27] } 26... Qe1+ { [%eval -7.98] } 27. Kg2 { [%eval -8.01] } 27... Bg7 { [%eval -7.77] } 28. Rd7? { [%eval -10.83] } 28... Rbc8 { [%eval -10.45] } 29. Nc7?! { [%eval #-3] } 29... Bf1+ { [%eval #-2] } 30. Kf3 { [%eval #-2] } 30... Bh3?! { [%eval -16.61] } 31. Qb2?! { [%eval #-11] } 31... Qh1+ { [%eval #-10] } 32. Ke3 { [%eval #-9] } 32... Rfe8+ { [%eval #-8] } 33. Kd2 { [%eval #-7] } 33... Qe1+ { [%eval #-6] } 34. Kd3 { [%eval #-4] } 34... Bf1+ { [%eval #-3] } 35. Kc2 { [%eval #-3] } 35... Re2+ { [%eval #-2] } 0-1
+

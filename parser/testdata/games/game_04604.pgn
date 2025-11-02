@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/9LlWxAte"]
+[White "Dummer"]
+[Black "doniver"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:41"]
+[WhiteElo "1588"]
+[BlackElo "1717"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-16"]
+[ECO "B07"]
+[Opening "Rat Defense: Harmonist"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. f4 e5 3. fxe5 dxe5 4. Nf3 f5 5. Bc4 fxe4 6. O-O Nf6 7. Nxe5 Be7 8. Bf7+ Kf8 9. Bb3 c6 10. Qh5 Qe8 11. Bf7 Qd8 12. Bc4 Qe8 13. Nf7 Rg8 14. Qf3 Nbd7 15. Ng5 Rh8 16. Ne6+ Kf7 17. Nc7+ Kf8 18. Nxe8 Kxe8 19. d3 Kd8 20. dxe4 Ke8 21. e5 Nd5 22. Bxd5 cxd5 23. Qxd5 a6 24. Qf7+ Kd8 25. e6 Rf8 26. Qxg7 Nc5 27. Rd1+ Kc7 28. Qxe7+ Kb6 29. Qxf8 Ka7 30. Qxc5+ b6 31. Qc7+ Bb7 32. Rd7 Rc8 33. Qxb7# 1-0
+

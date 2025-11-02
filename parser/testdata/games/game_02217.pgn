@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/OKZVxCNi"]
+[White "EstebanP"]
+[Black "Mizuna"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:22"]
+[WhiteElo "1663"]
+[BlackElo "1671"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "A40"]
+[Opening "English Defense #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 b6 2. e4 Bb7 3. f3 e6 4. Nc3 Nf6 5. e5 Nd5 6. Nxd5 Bxd5 7. Bd3 Qh4+ 8. g3 Qxd4 9. c3 Qxe5+ 10. Be2 Bc4 11. Qd4 Qxd4 12. cxd4 Bxe2 13. Nxe2 Bb4+ 14. Kf2 O-O 15. a3 Be7 16. b4 c5 17. dxc5 bxc5 18. bxc5 Bxc5+ 19. Be3 Bxe3+ 20. Kxe3 Nc6 21. h4 Na5 22. Rad1 d5 23. Nd4 Nc4+ 24. Kf2 Nxa3 25. Rhe1 Nc4 26. Nc6 Rfe8 27. Ra1 a6 28. Re2 g6 29. Rea2 h5 30. Rxa6 Rxa6 31. Rxa6 Nb2 32. Ra7 Nd3+ 33. Ke3 Nc5 34. Ne5 Rf8 35. g4 Kg7 36. g5 Kg8 37. Kd4 Nb3+ 38. Kc3 Nc1 39. f4 Ne2+ 40. Kc2 Nxf4 41. Nd7 Rd8 42. Nf6+ Kg7 43. Nh7 Ng2 44. Nf6 Nxh4 45. Kd3 Nf3 46. Nd7 Nxg5 47. Ne5 h4 48. Ra1 h3 49. Rg1 f6 50. Nc6 Rh8 51. Ke2 h2 52. Rh1 e5 53. Kf2 e4 54. Nd4 f5 55. Kg2 f4 56. Rxh2 Rxh2+ 57. Kxh2 f3 58. Kg1 e3 59. Kf1 Kf6 60. Nc2 d4 61. Nxd4 Ke5 62. Nc6+ Ke4 63. Nb4 e2+ 64. Ke1 Kf4 65. Kf2 Nh3+ 66. Ke1 Kg3 67. Nd3 Kg2 68. Kd2 f2 69. Nxf2 Nxf2 70. Kxe2 g5 0-1
+

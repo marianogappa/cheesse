@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/r9nfsGXr"]
+[White "fraffo"]
+[Black "fede120"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:30"]
+[WhiteElo "1245"]
+[BlackElo "1279"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-12"]
+[ECO "A46"]
+[Opening "Indian Game: Wade-Tartakower Defense"]
+[TimeControl "900+1"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 d6 3. Nc3 Bg4 4. Ng5 h6 5. Nge4 Nxe4 6. Nxe4 Nc6 7. h3 Bf5 8. Ng3 e5 9. d5 Nb4 10. Nxf5 Nxd5 11. Qxd5 1-0
+

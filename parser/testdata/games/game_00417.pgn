@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/syC8NVMI"]
+[White "RighteousFist"]
+[Black "OllinEdmundo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:28"]
+[WhiteElo "1307"]
+[BlackElo "1291"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Franco-Sicilian Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 e6 4. dxc5 Bxc5 5. b3 Qb6 6. Qd2 Nf6 7. Bb2 Nxe4 8. Qe2 Bxf2+ 9. Kd1 Nd6 10. Bxg7 Rg8 11. Be5 Nd4 12. Bxd6 Nxe2 13. Be5 d6 14. Bf6 Nd4 15. g3 Nxf3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/yrTsskWt"]
+[White "DickTurpin"]
+[Black "mattemio"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:40"]
+[WhiteElo "1043"]
+[BlackElo "1048"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+12"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. Nf3 Nf6 3. c3 d5 4. Bf4 Ne4 5. Qd3 Nd6 6. Bh6 gxh6 7. Ne5 Nd7 8. Nf3 f6 9. Nh4 e5 10. e4 Nxe4 11. dxe5 fxe5 12. Qxd5 Qe7 13. Qxe4 Nc5 14. Qe2 Qxh4 15. g3 Qe4 16. Bg2 Qxg2 17. Qf1 Qxf1+ 18. Kxf1 Bh3+ 19. Ke2 e4 20. Nd2 Bg4+ 21. Kf1 Nd3 22. Nxe4 b6 23. Nf6+ Ke7 24. Nxg4 Rd8 25. Rd1 h5 26. Ne3 Bh6 27. Ke2 Rhf8 28. Rhf1 Bxe3 29. Kxe3 Nxb2 30. Rxd8 Kxd8 31. Rb1 Nc4+ 32. Kd3 Ne5+ 33. Kc2 Rxf2+ 34. Kb3 Rxh2 35. Rd1+ Kc8 36. Re1 b5 37. Rxe5 h4 38. gxh4 Rxh4 39. Rxb5 a6 40. Ra5 Rh6 41. c4 c6 42. Kb4 Rh2 43. Rxa6 Rxa2 44. Rxc6+ Kd7 45. Kb3 Rh2 46. Rc5 h5 47. Rd5+ Ke6 48. Rd4 h4 49. c5 h3 50. c6 Rh1 51. c7 Rc1 52. Rd7 h2 53. c8=Q Rxc8 54. Rd2 h1=Q 55. Rb2 Qb7+ 56. Ka2 Qd5+ 57. Kb1 Qc5 58. Rc2 Qxc2+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AlwXSMDp"]
+[White "rem198"]
+[Black "danka11"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:23"]
+[WhiteElo "1840"]
+[BlackElo "1907"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Bc4 e5 5. Nf3 Nf6 6. d3 Bb4 7. Bd2 O-O 8. O-O Bg4 9. a3 Bxc3 10. Bxc3 Qc5 11. h3 Bxf3 12. Qxf3 Nc6 13. Rfe1 Rae8 14. b4 Qd6 15. b5 Nd4 16. Qd1 c5 17. bxc6 bxc6 18. Rb1 Rb8 19. Qd2 c5 20. Ba1 h6 21. c3 Nc6 22. Qe3 Rfe8 23. Qg3 Rxb1 24. Rxb1 Rb8 25. Rxb8+ Qxb8 26. Ba2 Qe8 27. Qe3 Qe7 28. Bb2 Nd7 29. Bc1 Qd6 30. Qe4 Ne7 31. Qc4 Qf6 32. Be3 Nf5 33. Bxc5 Nxc5 34. Qxc5 a6 35. Qc8+ Kh7 36. Qd7 Nh4 37. Qxf7 Qxf7 38. Bxf7 g5 39. c4 Kg7 40. Bd5 Kf6 41. Kf1 Ke7 42. Ke2 Nf5 43. Be4 Nd4+ 44. Ke3 Nc2+ 45. Kf3 Nxa3 46. Kg4 Kf6 47. Kh5 Nc2 48. Kxh6 a5 49. Bc6 Nd4 50. Ba4 Ne6 51. Kh5 Nf4+ 52. Kg4 Nxg2 53. Kg3 Ne1 54. h4 Nxd3 55. hxg5+ Kxg5 56. Kf3 Nc5 57. Bc2 a4 58. Bb1 a3 59. Ke2 Kf4 60. Kd2 e4 61. Kc3 Kf3 62. Kb4 Kxf2 0-1
+

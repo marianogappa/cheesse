@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Nby7PScB"]
+[White "OmarMovia"]
+[Black "navE02"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:08"]
+[WhiteElo "1838"]
+[BlackElo "1914"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. f4 e6 3. Nf3 c5 4. e3 cxd4 5. Nxd4 Nc6 6. c3 Bc5 7. Bb5 Qc7 8. O-O a6 9. Ba4 Nf6 10. Nd2 b5 11. Bc2 b4 12. N2f3 bxc3 13. bxc3 O-O 14. Bd2 h6 15. Rb1 e5 16. fxe5 Nxe5 17. Nxe5 Qxe5 18. Nc6 Qe6 19. Nd4 Qd6 20. Qf3 Bg4 21. Qf2 Rfe8 22. Rfe1 Rf8 23. Nf5 Bxf5 24. Bxf5 Ne4 25. Bxe4 dxe4 26. Kh1 Rad8 27. Red1 Qg6 28. c4 Rd7 29. Bb4 Rxd1+ 30. Rxd1 Bxb4 31. Qf4 a5 32. a4 Qg5 33. Qxe4 Rd8 34. Rf1 Rf8 35. Qd3 Rd8 36. Qe2 Re8 37. Qf3 Qg6 38. Qd5 Rxe3 39. c5 Rd3 40. Qd8+ Rxd8 41. c6 Rc8 42. Rc1 Rxc6 43. Re1 Rc2 44. Re8+ Kh7 45. h4 Qxg2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/WCSbaGaV"]
+[White "miltonfriedman82"]
+[Black "jupiter10"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:44"]
+[WhiteElo "1723"]
+[BlackElo "1829"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-15"]
+[ECO "A07"]
+[Opening "King's Indian Attack"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. g3 d5 2. Nf3 f6 3. d4 Nc6 4. Bg2 e5 5. dxe5 fxe5 6. Bg5 Be7 7. Bxe7 Ngxe7 8. O-O e4 9. Nfd2 h5 10. c3 h4 11. c4 hxg3 12. fxg3 Be6 13. cxd5 Bxd5 14. Nxe4 Bxe4 15. Qxd8+ Rxd8 16. Bxe4 Rf8 17. Nc3 Rxf1+ 18. Rxf1 Nd4 19. Bxb7 Nxe2+ 20. Nxe2 Rd2 21. Re1 Rxb2 22. Be4 Kd8 23. Rd1+ Ke8 24. Nc3 Nc8 25. Nd5 Nd6 26. Bg2 Rxa2 27. Nxc7+ Kf7 28. Bd5+ Ke7 29. Bxa2 Nf5 30. Nd5+ Kf8 31. Nf4 Ne3 32. Rd8+ Ke7 33. Rh8 Kf6 34. Ra8 g5 35. Nd3 Kf5 36. Nf2 1-0
+

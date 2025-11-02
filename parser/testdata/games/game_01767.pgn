@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Xwb10JAE"]
+[White "are123"]
+[Black "DJA"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:41"]
+[WhiteElo "1760"]
+[BlackElo "1894"]
+[WhiteRatingDiff "-23"]
+[BlackRatingDiff "+7"]
+[ECO "B80"]
+[Opening "Sicilian Defense: Scheveningen Variation, English Attack #2"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e6 7. Be3 Be7 8. Qd2 Qc7 9. O-O-O Nc6 10. g4 b5 11. g5 Nd7 12. f4 b4 13. Nce2 Nc5 14. Ng3 Rb8 15. f5 Ne5 16. g6 hxg6 17. fxg6 Nxg6 18. Bc4 Ne5 19. Be2 a5 20. Bg5 a4 21. Bxe7 Qxe7 22. Rhf1 Bb7 23. Bb5+ Kd8 24. Qxb4 Bxe4 25. Qa5+ Qc7 26. Qxc7+ Kxc7 27. Rf2 Bg6 28. Nge2 Ng4 29. Rff1 Rxh2 30. Nf4 Be4 31. Nfxe6+ fxe6 32. Rf7+ Kb6 33. Rxg7 Ne3 34. Rd2 Rh1+ 35. Rd1 Rxd1# 0-1
+

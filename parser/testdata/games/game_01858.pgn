@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/i2AUFUSD"]
+[White "mariomarcos"]
+[Black "solinjarr"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:59"]
+[WhiteElo "1692"]
+[BlackElo "1655"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C36"]
+[Opening "King's Gambit Accepted: Modern Defense #2"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Bg4 5. Bc4 Bxf3 6. Qxf3 Qh4+ 7. Kd1 Nf6 8. Re1+ Be7 9. d3 Nh5 10. d6 cxd6 11. Qxb7 Qg4+ 12. Qf3 Qxf3+ 13. gxf3 Nd7 14. Nc3 Ne5 15. Nb5 O-O 16. Bd2 Nxc4 17. dxc4 Bh4 18. Re4 Bg5 19. Nxd6 Rad8 20. c5 Rd7 21. Ba5 Nf6 22. Rd4 Rc8 23. Bb4 a5 24. Ba3 Ne8 25. c3 Bf6 26. Rd3 Rcd8 27. Kc2 Be7 28. Rad1 Nxd6 29. cxd6 Bf6 30. c4 Rc8 31. b3 g5 32. Rd5 Ra8 33. c5 Kg7 34. c6 h6 35. cxd7 Rd8 36. Rxa5 Rxd7 37. Rf5 1-0
+

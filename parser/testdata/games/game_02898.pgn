@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/aEFc5C9s"]
+[White "NewChessyPlaya"]
+[Black "JustinThyme"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:52"]
+[WhiteElo "1409"]
+[BlackElo "1609"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Indian Variation"]
+[TimeControl "90+2"]
+[Termination "Normal"]
+
+1. b3 Nf6 2. Bb2 e6 3. e3 d5 4. Qe2 Be7 5. Nc3 Nbd7 6. O-O-O Ne4 7. Nxe4 dxe4 8. Bxg7 Rg8 9. Bb2 Bf6 10. g3 Bxb2+ 11. Kxb2 a5 12. Bg2 Nf6 13. d3 exd3 14. Rxd3 Qe7 15. Nh3 a4 16. Rhd1 axb3 17. Rxb3 c6 18. Nf4 e5 19. Nd3 Be6 20. Nc1 Bxb3 21. cxb3 e4 22. f3 Qa3+ 23. Kc3 Rg5 24. Qd2 Rc5+ 25. Kd4 Rd5+ 26. Kc3 Rxd2 27. Rxd2 Qc5+ 28. Kb2 exf3 29. Bxf3 Nd5 30. Bxd5 cxd5 31. Nd3 Qa3+ 32. Kc3 Qa5+ 33. Kb2 Kf8 34. Rc2 Qxa2+ 35. Kc3 Qa5+ 36. Kb2 Qa1# 0-1
+

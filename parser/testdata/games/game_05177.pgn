@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bVzJnrxk"]
+[White "Nomadic_George"]
+[Black "adityarotti"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:55"]
+[WhiteElo "1883"]
+[BlackElo "1863"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. Bb5+ Bd7 4. Bc4 c6 5. dxc6 Nxc6 6. d4 e6 7. Bg5 Be7 8. Nc3 O-O 9. Qd2 a6 10. O-O-O b5 11. Bb3 Na5 12. h4 Nc4 13. Qd3 Na5 14. h5 Nxb3+ 15. axb3 Nd5 16. Nxd5 Bxg5+ 17. Ne3 a5 18. Nf3 Be7 19. g4 a4 20. bxa4 Rxa4 21. c3 Bc6 22. d5 exd5 23. Nxd5 Bc5 24. g5 Re8 25. Nf6+ gxf6 26. Qxd8 Ra1+ 27. Kc2 Be4+ 28. Kb3 Ra8 29. Qxf6 Bf8 30. h6 Bg6 31. Nh4 Bh5 32. Rd2 Re6 33. Qd4 Rae8 34. Rh3 Re4 35. Qd3 Rg4 36. Re2 Rxe2 37. Qxe2 Rb4+ 38. cxb4 Bxe2 39. Re3 Bc4+ 40. Kc3 Be6 41. Re5 Be7 42. Rxb5 f6 43. gxf6 Bxf6+ 44. Kc2 Bxh4 45. Rb8+ Kf7 46. Rb7+ Kf6 47. Rxh7 Bf5+ 48. Kb3 Bxh7 49. f4 Kf5 50. b5 Kxf4 51. b6 Be4 52. b7 Bxb7 53. h7 Bf6 54. h8=Q Bxh8 55. Kc2 Ke4 56. b4 Kd4 57. b5 Kc5 58. b6 Kxb6 59. Kd2 Bg7 60. Ke3 Bc8 61. Kf4 Ba6 62. Ke3 Kc5 63. Ke4 Bc4 64. Kf5 Bb2 65. Ke4 Bg8 66. Ke3 Bh7 67. Kf4 Kd5 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/AMGgd3WN"]
+[White "ThaKler"]
+[Black "TAlmeida"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:00"]
+[WhiteElo "1602"]
+[BlackElo "1500"]
+[WhiteRatingDiff "-39"]
+[BlackRatingDiff "+303"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Dutch Variation"]
+[TimeControl "-"]
+[Termination "Time forfeit"]
+
+1. Nf3 f5 2. Nc3 e5 3. Nxe5 Qf6 4. Nf3 Bc5 5. e4 fxe4 0-1
+

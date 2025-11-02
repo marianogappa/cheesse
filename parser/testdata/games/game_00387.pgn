@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TseKEoQJ"]
+[White "Mashhour1985"]
+[Black "Aerfest"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:19"]
+[WhiteElo "1766"]
+[BlackElo "2035"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+4"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "180+1"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bg4 4. c3 e6 5. Be2 Be7 6. d4 Nd7 7. Be3 h5 8. h3 Bf5 9. Bd3 Bxd3 10. Qxd3 h4 11. O-O Nh6 12. Bxh6 Rxh6 13. Nbd2 Qb6 14. Rab1 O-O-O 15. a4 Rg8 16. b3 g5 17. b4 g4 18. hxg4 Rxg4 19. Nh2 Rg7 20. a5 Qd8 21. b5 c5 22. dxc5 Nxc5 23. Qe3 Rhg6 24. Qf3 Rxg2+ 25. Qxg2 Rxg2+ 26. Kxg2 Qg8+ 27. Kh1 Qg5 28. Ndf3 Qf4 29. Rg1 Kc7 30. b6+ axb6 31. axb6+ Kd7 32. Rb4 Ne4 33. Rg4 Qc1+ 34. Kg2 Bxb4 35. cxb4 Qc2 36. Rxe4 dxe4 37. Nd4 Qc3 38. Ne2 Qxe5 39. Ng4 Qg5 40. Kh3 Ke7 41. Nd4 f5 42. Ne3 f4 43. Ng4 e3 44. fxe3 fxe3 45. b5 Qd5 46. Ne2 Qf3+ 47. Ng3 Qxg3# 0-1
+

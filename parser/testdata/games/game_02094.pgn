@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ufxIrlQm"]
+[White "luxor1231"]
+[Black "Rookanb97"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:51"]
+[WhiteElo "1195"]
+[BlackElo "1230"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C00"]
+[Opening "French Defense: Steiner Variation"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. c4 Nf6 3. d3 Nc6 4. f4 Bb4+ 5. Bd2 h5 6. e5 Ng4 7. Bxb4 Nxb4 8. h3 Ne3 9. Qd2 Nbc2+ 10. Ke2 Nxa1 11. Qxe3 b6 12. Qd2 Bb7 13. b3 g5 14. fxg5 Rg8 15. h4 d6 16. Nf3 dxe5 17. Nxe5 f6 18. Nf3 Bxf3+ 19. gxf3 fxg5 20. Rg1 g4 21. Qh6 Qxh4 22. Qxe6+ Kf8 23. Qf6+ Qxf6 24. Kd2 Qxf3 25. Be2 Qf2 26. Rf1 Qxf1 27. Bxf1 h4 28. d4 g3 29. Bg2 h3 30. Bxh3 g2 31. Bxg2 Rxg2+ 32. Kd3 Rg1 33. c5 Rxb1 34. cxb6 axb6 35. Ke4 Rxa2 36. b4 Nb3 37. Kd5 Rd1 38. Ke5 Rad2 39. Kf5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/TC7qSJge"]
+[White "npkalex"]
+[Black "musemi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:51"]
+[WhiteElo "1697"]
+[BlackElo "1658"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e3 e5 2. b3 d5 3. Bb2 Nc6 4. Nf3 Bd6 5. h3 f5 6. c4 Nf6 7. cxd5 Nxd5 8. Bc4 Be6 9. Nc3 Nxc3 10. Bxc3 Bxc4 11. bxc4 O-O 12. O-O e4 13. Nd4 Nxd4 14. Bxd4 c5 15. Bc3 Qh4 16. Rb1 b6 17. a4 f4 18. exf4 Rxf4 19. g3 Qxh3 20. Qe2 Rg4 21. Qe3 Rf8 22. d4 Rf3 23. Qd2 Bxg3 24. fxg3 Rgxg3+ 25. Qg2 Qxg2# 0-1
+

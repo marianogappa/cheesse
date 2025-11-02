@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/uF5IQWcb"]
+[White "Chancherox"]
+[Black "qualifier"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:20"]
+[WhiteElo "2062"]
+[BlackElo "2025"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. b3 e6 2. Bb2 Ne7 3. e3 Ng6 4. f4 Be7 5. Bxg7 Rg8 6. Bb2 Bf6 7. Nc3 a6 8. d4 b5 9. Nf3 b4 10. Na4 a5 11. e4 d6 12. e5 Be7 13. Qd2 Bd7 14. Bd3 Bxa4 15. bxa4 c6 16. O-O d5 17. f5 exf5 18. Bxf5 Qc7 19. Qh6 Nd7 20. Qxh7 O-O-O 21. Qxf7 Nh4 22. Nxh4 Bxh4 23. e6 Nb6 24. e7+ Kb7 25. exd8=Q Qxf7 26. Qxh4 Qg7 27. Qf2 Nc4 28. Bc1 Kb6 29. Bf4 Qf6 30. Be5 Qg5 31. Be6 Qd2 32. Bxg8 Qxf2+ 33. Rxf2 Ne3 34. h4 Nc4 35. h5 c5 36. h6 cxd4 37. h7 d3 38. h8=Q d2 39. Bd4+ Kc6 40. Qh6+ Kd7 41. Rf7+ Ke8 42. Qe6+ Kd8 43. Qd7# 1-0
+

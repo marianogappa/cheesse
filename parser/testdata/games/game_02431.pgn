@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8oqpZXm1"]
+[White "svich"]
+[Black "Emm"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:15"]
+[WhiteElo "1727"]
+[BlackElo "1795"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "C00"]
+[Opening "French Defense: Steinitz Attack"]
+[TimeControl "180+1"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. e5 d5 3. f4 Nc6 4. d4 b6 5. c3 Bb7 6. Be2 Qh4+ 7. g3 Qd8 8. Bf3 Nge7 9. Nd2 Ng6 10. Nb3 Be7 11. Bd2 Qd7 12. Qe2 a5 13. Nh3 Ba6 14. Qf2 a4 15. Nc1 Qd8 16. b3 axb3 17. Nxb3 Nh4 18. Be2 Nf5 19. O-O Bc4 20. Rfb1 Bxe2 21. Qxe2 O-O 22. Rf1 h6 23. Qh5 Kh8 24. g4 g6 0-1
+

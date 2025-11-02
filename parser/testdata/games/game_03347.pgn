@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/Cif11cqN"]
+[White "Mondong0"]
+[Black "Ceppo22"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:46"]
+[WhiteElo "1525"]
+[BlackElo "2021"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian Defense: Leningrad Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. a3 Bxc3+ 7. bxc3 d6 8. dxc5 Qa5 9. Qd2 Qxc5 10. Rd1 g5 11. Bg3 Ne4 12. Qd3 Nxg3 13. hxg3 Nc6 14. Qxd6 Qxd6 15. Rxd6 Ke7 16. Rd2 Ne5 17. Nf3 Nxc4 18. Rd4 Nxa3 19. Ra4 Nb5 20. Nxg5 Bd7 21. Ne4 Nd6 22. Ra3 Nxe4 23. f3 Nxg3 24. Rh4 Nxf1 25. Kxf1 a6 26. Rb3 Bc6 27. e4 Rad8 28. Rh5 f6 29. Rc5 Rd7 30. Ke2 Rhd8 31. Ke3 e5 32. Kf2 h5 33. Kg3 Rg8+ 34. Kh4 Rxg2 35. Kxh5 Rg3 36. c4 Bxe4 37. Kh4 Rxf3 38. Rxf3 Bxf3 39. Ra5 e4 40. Ra3 f5 41. Re3 Rd4 42. Kg3 Rxc4 43. Kf4 b5 44. Re1 a5 0-1
+

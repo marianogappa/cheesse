@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/yHi2Kz0z"]
+[White "chober"]
+[Black "pivizz"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:51"]
+[WhiteElo "1550"]
+[BlackElo "1543"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+64"]
+[ECO "C50"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bc5 5. O-O O-O 6. d3 h6 7. a3 Nd4 8. Be3 d6 9. b4 Bb6 10. Nd5 Nxd5 11. Bxd5 Bg4 12. c3 Nxf3+ 13. gxf3 Bh3 14. Re1 Qf6 15. Bxb7 Qg6+ 16. Kh1 Qg2# 0-1
+

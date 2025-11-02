@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WSkKRIU3"]
+[White "Paul-G"]
+[Black "HektorWektor"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:11"]
+[WhiteElo "1478"]
+[BlackElo "1292"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Qf6 3. d3 Bc5 4. Nc3 c6 5. Bg5 Qg6 6. Qd2 h6 7. Nxe5 Qe6 8. Bf4 d6 9. Nc4 Bd4 10. Nxd6+ Ke7 11. Nf5+ Kf6 12. Nxd4 Qd7 13. Nf3 g5 14. Be5+ Ke6 15. Bxh8 1-0
+

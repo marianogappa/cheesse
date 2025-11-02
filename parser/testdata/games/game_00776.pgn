@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/0J84bAN2"]
+[White "AlexisArsenal"]
+[Black "yangxiaoxian"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:54"]
+[WhiteElo "2122"]
+[BlackElo "2197"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. Bd3 d6 6. exd6 Bxd6 7. O-O Qc7 8. Re1 O-O 9. a3 Nd7 10. h3 a5 11. Bf1 b6 12. c4 N5f6 13. Nc3 Ba6 14. b3 Rfd8 15. Qc2 Ne5 16. Nxe5 Bxe5 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/u1i8SiCf"]
+[White "qwewrty"]
+[Black "azur0609"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:59"]
+[WhiteElo "2039"]
+[BlackElo "1732"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-5"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. d4 Bg7 3. Be3 d6 4. Nc3 Nc6 5. Qd2 e5 6. Nge2 Nge7 7. O-O-O O-O 8. f3 exd4 9. Nxd4 Nxd4 10. Bxd4 Nc6 11. Bxg7 Kxg7 12. g4 Qh4 13. Rg1 Ne5 14. Rg3 Be6 15. Rh3 Qe7 16. Qh6+ Kf6 17. g5# 1-0
+

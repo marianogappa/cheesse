@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/09du8xzP"]
+[White "klunkerkoenig"]
+[Black "Guliaka"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:56"]
+[WhiteElo "1930"]
+[BlackElo "1840"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Normal Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nf3 e6 4. Bc4 Nb6 5. Bb3 c5 6. O-O c4 7. Bxc4 Nxc4 8. d3 Nb6 9. c4 d5 10. c5 Bxc5 11. d4 Be7 12. b4 Bxb4 13. a4 a5 14. Ba3 Bxa3 15. Nxa3 O-O 16. Nb5 Bd7 17. Nd6 Nc4 18. Nxb7 Qc7 19. Rb1 Nc6 20. Nc5 Nb4 21. Nd2 Nxd2 22. Qxd2 Na6 23. Rfc1 Nxc5 24. Rxc5 Qa7 25. Rbc1 Bxa4 26. Rc7 Qa6 27. h3 Bb5 28. Qg5 Bc4 29. h4 Qb6 30. Re7 h6 31. Qg3 a4 32. Qa3 Qxd4 33. Rc3 Qxe5 34. Re3 Qf6 35. Rc7 Qxh4 36. Rxc4 dxc4 37. g3 Qh3 38. g4 Qxg4+ 39. Kf1 Qd1+ 40. Kg2 Qg4+ 41. Rg3 Qe4+ 42. Kh2 Rfd8 43. Qc3 Rd2 44. Qxg7# 1-0
+

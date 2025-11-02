@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ZlxRCqxZ"]
+[White "linomennone"]
+[Black "Arminas"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:01"]
+[WhiteElo "1425"]
+[BlackElo "1040"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Tennison Gambit"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ne5 Qd6 4. d4 f6 5. Ng4 Nc6 6. g3 f5 7. Bf4 Qf6 8. Ne3 Nxd4 9. c3 Nf3+ 10. Ke2 Be6 11. Bg2 Bc4+ 12. Nxc4 e5 13. Nxe5 Nxe5 14. Bxe5 Qxe5 15. Nd2 Bd6 16. Nc4 Qe6 17. Re1 O-O-O 18. Kf1 Be7 19. Qe2 Bc5 20. Na3 Nf6 21. Nb5 1-0
+

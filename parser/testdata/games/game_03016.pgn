@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fAabpJUY"]
+[White "Torkrall"]
+[Black "Itwasme"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:16"]
+[WhiteElo "1511"]
+[BlackElo "1499"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. f4 e6 2. Nf3 c5 3. b3 Nc6 4. Bb2 Bd6 5. Bxg7 Bxf4 6. Bxh8 f6 7. e3 Be5 8. Nxe5 Nxe5 9. Qh5+ Ng6 10. Qxh7 N8e7 11. Bxf6 Nf8 12. Qh5+ Nfg6 13. Bd3 Qc7 14. Bxg6+ Kd8 15. Qh8# 1-0
+

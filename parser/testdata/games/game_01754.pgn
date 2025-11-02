@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/y2dUWJzm"]
+[White "Nosorozec"]
+[Black "addictedtoyou"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:39"]
+[WhiteElo "2056"]
+[BlackElo "1728"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+[ECO "D02"]
+[Opening "Queen's Gambit Refused: Baltic Defense, Pseudo-Slav"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nc3 Bf5 4. Nf3 e6 5. Qb3 Nf6 6. Qxb7 Nbd7 7. Qxc6 Be7 8. cxd5 Nxd5 9. Nxd5 Qa5+ 10. Nc3 1-0
+

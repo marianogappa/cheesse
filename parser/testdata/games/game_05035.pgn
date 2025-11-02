@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/cdOpjWRt"]
+[White "ryzhkovsn"]
+[Black "fenb"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:23"]
+[WhiteElo "1555"]
+[BlackElo "1777"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 Nc6 3. Nf3 d6 4. Nc3 a6 5. a4 g6 6. Ng5 e6 7. Qf3 Qxg5 8. d4 Qd8 9. d5 Ne5 10. Qe3 Nxc4 11. Qd3 Ne5 12. Qg3 Bg7 13. Bf4 Ne7 14. O-O-O O-O 15. Bxe5 Bxe5 16. Qg5 Bxc3 17. bxc3 exd5 18. exd5 Nf5 0-1
+

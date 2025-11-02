@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KKfMeVqg"]
+[White "av_d7"]
+[Black "MistySchism"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:02"]
+[WhiteElo "1801"]
+[BlackElo "1778"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-10"]
+[ECO "D07"]
+[Opening "Queen's Gambit Refused: Chigorin Defense, Main Line"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. e3 e5 5. dxe5 d4 6. exd4 Bxf3 7. Qxf3 Qxd4 8. Nc3 O-O-O 9. Qxf7 Qxe5+ 10. Be3 Bb4 11. Rc1 Nh6 12. Qf4 Qxf4 13. Bxf4 Rhe8+ 14. Be2 Nf5 15. O-O Bxc3 16. Bg4 Bxb2 17. Bxf5+ Kb8 18. Rb1 Nd4 19. Bxh7 Ba3 20. Be3 Rh8 21. Be4 b6 22. h3 1-0
+

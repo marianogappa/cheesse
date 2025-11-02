@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/pcflM1QL"]
+[White "Intherain"]
+[Black "tvarhand"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:18"]
+[WhiteElo "2091"]
+[BlackElo "2162"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "A41"]
+[Opening "Queen's Pawn"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. d4 d6 2. Nf3 g6 3. Bg5 h6 4. Bh4 g5 5. Bg3 Bg7 6. e4 Nc6 7. c3 e6 8. Bb5 Bd7 9. O-O Nge7 10. h4 g4 11. Nh2 f5 12. exf5 exf5 13. Re1 O-O 14. f3 f4 15. Bxf4 Rxf4 16. Nxg4 Ng6 17. Bc4+ Kh8 18. Qd2 Bxg4 19. fxg4 Qxh4 20. Na3 Raf8 21. Rf1 Qxg4 22. Nc2 Nh4 23. Ne3 Qg3 24. Rxf4 Rxf4 25. Rf1 Nxd4 26. cxd4 Bxd4 27. Rxf4 Bxe3+ 28. Kf1 Qxf4+ 29. Ke2 Bxd2 30. Kd3 Qe3+ 31. Kc2 Bb4 32. Bd3 Qd2+ 33. Kb3 c6 34. Bc4 b5 35. Bf7 a5 36. a3 a4+ 37. Ka2 Bc5 38. g3 Bd4 39. Kb1 Qxb2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ihQYzG6k"]
+[White "l-gogo"]
+[Black "kadirak"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:42"]
+[WhiteElo "1383"]
+[BlackElo "1310"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+12"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Qf3 Ne5 3. Qh5 d6 4. Bc4 e6 5. d4 g6 6. Qe2 Nxc4 7. Qxc4 d5 8. exd5 Qxd5 9. Qxd5 exd5 10. Nf3 Be7 11. Ne5 Bd6 12. c4 dxc4 13. Nxc4 Be6 14. Ne5 Bxe5 15. dxe5 O-O-O 16. O-O f6 17. exf6 Nxf6 18. g3 h6 19. Nc3 c6 20. h3 g5 21. h4 gxh4 22. gxh4 Rhg8+ 23. Kh1 b5 24. Bxh6 b4 25. Na4 Bd5+ 26. Kh2 Ng4+ 27. Kg3 Nxh6+ 28. Kf4 Rdf8+ 29. Ke3 Ng4+ 30. Kd4 Rf4+ 31. Kc5 Kc7 32. a3 b3 33. Rac1 Nh2 34. Rfe1 Rxa4 35. Re7+ Kd8 36. Kd6 Rg6+ 37. Re6 Rxe6+ 0-1
+

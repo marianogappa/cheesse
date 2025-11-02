@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2Z9uZQ2e"]
+[White "luziaf"]
+[Black "Abu_jamil"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:29"]
+[WhiteElo "1562"]
+[BlackElo "1513"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-9"]
+[ECO "D02"]
+[Opening "Queen's Gambit Refused: Baltic Defense"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.3] } 1... d5 { [%eval 0.22] } 2. c4 { [%eval 0.21] } 2... Bf5?! { [%eval 0.71] } 3. Nc3 { [%eval 0.27] } 3... e6 { [%eval 0.2] } 4. Nf3 { [%eval 0.26] } 4... Nf6 { [%eval 0.43] } 5. Nh4 { [%eval 0.39] } 5... Bg6 { [%eval 0.57] } 6. Nxg6 { [%eval 0.39] } 6... hxg6 { [%eval 0.67] } 7. f3? { [%eval -0.39] } 7... c6?! { [%eval 0.12] } 8. e4 { [%eval -0.07] } 8... dxe4 { [%eval -0.24] } 9. fxe4 { [%eval 0.03] } 9... Nbd7 { [%eval 0.01] } 10. Bg5?! { [%eval -0.52] } 10... Bb4 { [%eval -0.25] } 11. e5 { [%eval -0.23] } 11... Rh5? { [%eval 1.41] } 12. h4 { [%eval 1.51] } 12... Qa5? { [%eval 2.69] } 13. exf6 { [%eval 2.58] } 13... Nxf6 { [%eval 2.8] } 14. Bd2? { [%eval 1.44] } 14... Bxc3? { [%eval 2.84] } 15. Bxc3 { [%eval 2.79] } 15... Qf5 { [%eval 2.95] } 16. Be2?! { [%eval 2.41] } 16... Rh7?! { [%eval 3.34] } 17. Qb3 { [%eval 3.46] } 17... b6? { [%eval 4.54] } 18. O-O-O { [%eval 4.32] } 18... Ne4? { [%eval 5.92] } 19. Bd3? { [%eval 3.91] } 19... Qf4+ { [%eval 3.73] } 20. Kb1 { [%eval 3.31] } 20... Nxc3+? { [%eval 4.36] } 21. Qxc3 { [%eval 3.91] } 21... Kf8?? { [%eval 7.26] } 22. Bxg6 { [%eval 6.94] } 22... fxg6? { [%eval 8.32] } 23. Rhf1 { [%eval 8.11] } 23... Qxf1? { [%eval 13.18] } 24. Rxf1+ { [%eval 12.96] } 24... Kg8 { [%eval 12.56] } 25. Qf3 { [%eval 11.72] } 25... Rh5 { [%eval 13.66] } 26. Qxc6 { [%eval 12.59] } 26... Rf8?! { [%eval #10] } 27. Qxe6+ { [%eval #9] } 1-0
+

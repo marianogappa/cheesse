@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MJ0rUV7u"]
+[White "CapawhiteAprentice12"]
+[Black "s_o_u_s"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:34"]
+[WhiteElo "1623"]
+[BlackElo "1647"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Tennison Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Nf6 4. d3 exd3 5. Bxd3 Qd5 6. O-O b6 7. b3 Bb7 8. f3 Qd4+ 9. Be3 Qxa1 10. Bb5+ c6 11. Bd4 Qxa2 12. Nc3 Qa3 13. Bc4 Qd6 14. Bxf7+ Kd8 15. Be6 Kc7 16. f4 h6 17. Be5 1-0
+

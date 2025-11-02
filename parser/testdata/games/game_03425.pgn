@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zJNtUSaq"]
+[White "Geert52"]
+[Black "kingslayer29"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:02"]
+[WhiteElo "1264"]
+[BlackElo "1200"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+24"]
+[ECO "A40"]
+[Opening "Mikenas Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 Nc6 2. Nf3 b6 3. Bf4 Bb7 4. e3 d6 5. Bb5 e5 6. Bg3 e4 7. Ng5 Qf6 0-1
+

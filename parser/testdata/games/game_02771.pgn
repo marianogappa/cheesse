@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gG8oIoqe"]
+[White "ignatus"]
+[Black "justbeginner01"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:24"]
+[WhiteElo "1786"]
+[BlackElo "1799"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C37"]
+[Opening "King's Gambit Accepted, Blachly Gambit"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 exf4 4. Bc4 g5 5. d4 Bg7 6. c3 h6 7. O-O Nge7 8. Re1 d6 9. e5 Bg4 10. Qa4 Bxf3 11. gxf3 a6 12. d5 b5 13. Bxb5 axb5 14. Qxb5 Rb8 15. Qa4 Qd7 16. dxc6 Qxc6 17. Qxc6+ Nxc6 18. exd6+ Kd7 19. dxc7 Kxc7 20. Nd2 Rhe8 21. Ne4 Ne5 22. Kg2 Nd3 23. Re2 Rb5 24. a4 Rb3 25. Kf1 Reb8 26. Nc5 Nxc1 27. Rxc1 Rxb2 28. Na6+ Kc6 29. Nxb8+ Rxb8 30. Ra2 Ra8 31. a5 Ra6 32. Ke2 Bf8 33. Kd3 Bc5 34. h3 Bb6 35. Rca1 Be3 36. c4 f6 37. Ke4 Bd2 38. Rxd2 Kc5 39. Rc2 Kc6 40. Kf5 Kc5 41. Kg4 Kd6 42. Kh5 Ke5 43. Kxh6 Kf5 44. Kg7 Ke6 45. c5 Kf5 46. c6 Ra8 47. c7 Ra6 48. c8=Q+ Ke5 49. Rc5+ Kd4 50. Qxa6 Ke3 51. Qd6 Kf2 52. Rxg5 f5 53. Qd2+ 1-0
+

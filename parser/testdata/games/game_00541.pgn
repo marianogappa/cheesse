@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/xarmbiyL"]
+[White "titotito"]
+[Black "Simon69"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:59"]
+[WhiteElo "1882"]
+[BlackElo "1924"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. d4 d5 2. f3 Nf6 3. Bg5 Bf5 4. g3 e6 5. Bg2 Be7 6. Bxf6 Bxf6 7. e3 O-O 8. Ne2 c5 9. c3 cxd4 10. cxd4 Qa5+ 11. Nbc3 Nc6 12. O-O Rac8 13. a3 a6 14. Rc1 b5 15. b4 Qd8 16. g4 Bg6 17. f4 Bh4 18. Ng3 Ne7 19. Qd2 Rc4 20. Nge2 Qc7 21. e4 Rc8 22. f5 exf5 23. exf5 f6 24. fxg6 Bg5 25. Nf4 hxg6 26. Rf3 Bxf4 27. Rxf4 Rxc3 28. Rxc3 Qxc3 29. Qxc3 Rxc3 30. Rf3 Rc1+ 31. Kf2 Kf7 32. Rd3 Ke6 33. h3 Kd6 34. h4 Nc6 35. Bf3 a5 36. bxa5 Nxa5 37. h5 gxh5 38. gxh5 Nc4 39. Rb3 Rc2+ 40. Kg3 Ra2 41. Rxb5 Rxa3 42. Rxd5+ Ke6 43. Kf4 Rxf3+ 44. Kxf3 Kxd5 0-1
+

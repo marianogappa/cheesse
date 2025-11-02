@@ -1,0 +1,19 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/dvXPpz0b"]
+[White "meoxx"]
+[Black "abena_abeni"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:12"]
+[WhiteElo "2218"]
+[BlackElo "2341"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[BlackTitle "LM"]
+[ECO "B07"]
+[Opening "Pirc Defense #2"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.41] } 1... d6 { [%eval 0.5] } 2. d4 { [%eval 0.45] } 2... Nf6 { [%eval 0.48] } 3. Nc3 { [%eval 0.49] } 3... e5 { [%eval 0.57] } 4. dxe5 { [%eval 0.5] } 4... dxe5 { [%eval 0.54] } 5. Qxd8+ { [%eval 0.58] } 5... Kxd8 { [%eval 0.68] } 6. Bg5 { [%eval 0.3] } 6... Be6 { [%eval 0.27] } 7. O-O-O+ { [%eval 0.25] } 7... Nd7 { [%eval 0.52] } 8. Nf3 { [%eval 0.13] } 8... Bd6 { [%eval 0.23] } 9. Nb5 { [%eval 0.13] } 9... Ke7 { [%eval 0.23] } 10. Nxd6 { [%eval 0.0] } 10... cxd6 { [%eval 0.03] } 11. b3 { [%eval -0.29] } 11... h6 { [%eval -0.38] } 12. Bxf6+ { [%eval -0.35] } 12... Nxf6 { [%eval -0.29] } 13. Bd3 { [%eval -0.5] } 13... Rhc8 { [%eval -0.15] } 14. Kb2 { [%eval -0.36] } 14... a6 { [%eval -0.17] } 15. h3 { [%eval -0.26] } 15... b5 { [%eval -0.31] } 16. a3 { [%eval -0.3] } 16... Nh5 { [%eval -0.16] } 17. g3 { [%eval -0.28] } 17... g6 { [%eval -0.2] } 18. Rd2 { [%eval -0.37] } 18... Nf6 { [%eval -0.41] } 19. g4 { [%eval -0.57] } 19... Nd7 { [%eval -0.3] } 20. Rhd1 { [%eval -0.33] } 20... Nc5 { [%eval -0.34] } 21. b4?? { [%eval -3.61] } 21... Na4+ { [%eval -3.6] } 22. Ka1? { [%eval -5.28] } 22... Rc3 { [%eval -5.01] } 23. Bf1?? { [%eval -9.45] } 23... Rxa3+ { [%eval -9.35] } 24. Kb1 { [%eval -8.95] } 24... Rd8?? { [%eval -4.86] } 25. Rd3 { [%eval -4.94] } 25... Ra2 { [%eval -4.99] } 26. Nxe5? { [%eval -7.81] } 26... Rb2+ { [%eval -7.66] } 27. Kc1 { [%eval -7.52] } 27... Rc8 { [%eval -7.23] } 0-1
+

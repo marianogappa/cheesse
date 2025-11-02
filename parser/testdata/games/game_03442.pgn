@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/LK47PmsY"]
+[White "bfs"]
+[Black "julietaamaro62"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:04"]
+[WhiteElo "1709"]
+[BlackElo "1386"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+[ECO "A35"]
+[Opening "English Opening: Symmetrical Variation, Two Knights Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. c4 { [%eval -0.06] } 1... c5 { [%eval 0.18] } 2. Nc3 { [%eval 0.12] } 2... Nc6 { [%eval 0.17] } 3. e3 { [%eval 0.02] } 3... e6 { [%eval 0.03] } 4. a3 { [%eval 0.0] } 4... Nf6 { [%eval 0.16] } 5. Nf3 { [%eval 0.0] } 5... Be7 { [%eval 0.2] } 6. d4 { [%eval 0.14] } 6... cxd4 { [%eval 0.18] } 7. exd4 { [%eval 0.2] } 7... d5 { [%eval 0.26] } 8. Be2 { [%eval -0.15] } 8... O-O { [%eval -0.15] } 9. O-O { [%eval 0.02] } 9... a6 { [%eval 0.48] } 10. Bf4 { [%eval 0.08] } 10... h6 { [%eval 0.53] } 11. Rc1 { [%eval 0.31] } 11... Ne4 { [%eval 0.48] } 12. cxd5 { [%eval 0.32] } 12... exd5 { [%eval 0.41] } 13. Nxe4?! { [%eval -0.31] } 13... dxe4 { [%eval -0.17] } 14. Nd2 { [%eval -0.54] } 14... Qxd4 { [%eval -0.31] } 15. Be3?! { [%eval -0.95] } 15... Qd7? { [%eval 0.17] } 16. Nxe4 { [%eval 0.14] } 16... Qxd1 { [%eval 0.35] } 17. Rfxd1 { [%eval 0.39] } 17... Be6 { [%eval 0.56] } 18. h3 { [%eval 0.31] } 18... Rfd8 { [%eval 0.33] } 19. g4 { [%eval 0.16] } 19... Bb3 { [%eval 0.23] } 20. Rxd8+ { [%eval 0.29] } 20... Rxd8 { [%eval 0.26] } 21. Kg2 { [%eval 0.0] } 21... Bd5 { [%eval 0.0] } 22. Bf3? { [%eval -1.08] } 22... Ne5 { [%eval -1.14] } 23. Kg3? { [%eval -2.91] } 23... Nxf3 { [%eval -2.64] } 24. Kxf3 { [%eval -2.58] } 24... Bf6 { [%eval -2.79] } 25. Kf4? { [%eval -4.7] } 25... Bxe4?? { [%eval -0.7] } 26. Kxe4 { [%eval -0.8] } 26... Bxb2 { [%eval -0.69] } 27. Rc7 { [%eval -0.72] } 27... Bxa3 { [%eval -0.56] } 28. Rxb7 { [%eval -0.6] } 28... a5?! { [%eval -0.05] } 29. Ra7 { [%eval -0.1] } 29... Bb4 { [%eval -0.05] } 30. Kf3 { [%eval -0.22] } 30... Re8 { [%eval -0.1] } 31. Kg3 { [%eval -0.27] } 31... g6 { [%eval 0.07] } 32. Bb6 { [%eval 0.0] } 32... Kg7 { [%eval 0.0] } 33. Bxa5 { [%eval 0.0] } 33... Bxa5 { [%eval 0.0] } 34. Rxa5 { [%eval 0.0] } 34... Re2 { [%eval 0.0] } 35. f4 { [%eval 0.0] } 1-0
+

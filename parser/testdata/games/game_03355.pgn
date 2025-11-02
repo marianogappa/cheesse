@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/sDYCFVCg"]
+[White "regulusrexus"]
+[Black "canibalchess"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:45"]
+[WhiteElo "1981"]
+[BlackElo "2207"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+6"]
+[ECO "C41"]
+[Opening "Philidor Defense #4"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. Nc3 Nf6 5. d4 exd4 6. Nxd4 O-O 7. O-O Bd7 8. Re1 Nc6 9. a3 a6 10. Nd5 Nxd5 11. Bxd5 Bf6 12. c3 Rb8 13. Bf4 Ne5 14. Bg3 g6 15. Qd2 Bg7 16. f4 Nc6 17. Rf1 Nxd4 18. cxd4 Bb5 19. Rfe1 c6 20. Ba2 Rc8 21. Rac1 c5 22. dxc5 dxc5 23. Qe3 Bd4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CrRA4Iq7"]
+[White "vladazp"]
+[Black "iMinichrispy"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:06"]
+[WhiteElo "1663"]
+[BlackElo "1674"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e3 c5 2. Be2 e6 3. d3 Nc6 4. Bd2 a6 5. a3 Qc7 6. g4 Nf6 7. g5 Ng8 8. h4 h6 9. Nh3 hxg5 10. Nxg5 f6 11. Ne4 b6 12. Bh5+ Ke7 13. Bg6 Bb7 14. h5 Ne5 15. Rg1 Nxg6 16. Rxg6 Bxe4 17. dxe4 Qh2 18. Qg4 Qh1+ 19. Ke2 Qh2 20. Bc3 e5 21. Nd2 Qxh5 22. Qxh5 Rxh5 23. Nc4 Kf7 24. Rag1 Rb8 25. b4 b5 26. Na5 Ne7 27. R6g4 c4 28. f4 Nc6 29. Nxc6 dxc6 30. fxe5 fxe5 31. Rg5 Rh2+ 32. Kd1 Rd8+ 33. Kc1 Re8 34. Bxe5 Re6 35. Bxh2 1-0
+

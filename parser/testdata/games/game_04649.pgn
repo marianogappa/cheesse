@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/j8gSFXQD"]
+[White "Avet8030"]
+[Black "katrinesi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:51"]
+[WhiteElo "1880"]
+[BlackElo "1874"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+23"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. Nc3 d5 2. d4 e6 3. Bf4 Bb4 4. Nf3 Nf6 5. a3 Bxc3+ 6. bxc3 b6 7. Bg5 Nbd7 8. e3 O-O 9. c4 Bb7 10. Bd3 dxc4 11. Bxc4 Qc8 12. O-O Ne4 13. Bd3 h6 14. Bf4 Ndf6 15. Be5 c5 16. Bxe4 Nxe4 17. Qd3 cxd4 18. Bxd4 Qc6 19. Rac1 Ng5 20. Nh4 Nh3+ 21. Kh1 g5 22. Nf3 g4 23. Nh4 Rad8 24. Qe2 h5 25. f3 Ng5 26. fxg4 Rd5 27. gxh5 Rfd8 28. h6 Nh7 29. Rf3 Rg5 30. Rg3 Qe4 31. Rxg5+ Nxg5 32. Bf6 Rd6 33. Bxg5 Rd5 34. Qh5 Kf8 35. Rf1 Rf5 36. Rxf5 exf5 37. h7 Ke8 38. h8=Q+ Kd7 39. Qd8+ Kc6 40. Qh6+ Kb5 41. Qd7+ Ka6 42. Qhd6 Qxc2 43. h3 Qc1+ 44. Kh2 Be4 45. Qb4 Qc5 46. Qc8+ Bb7 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rhR6e1RV"]
+[White "bernec"]
+[Black "Triston_Walls14"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:07"]
+[WhiteElo "1478"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-186"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "120+6"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Nf3 e5 3. dxe5 g6 4. Nc3 c6 5. g3 g5 6. Bxg5 f5 7. Bxd8 c5 8. Qxd5 Nh6 9. Bf6 Rg8 10. Qd8+ Kf7 11. Ng5+ Kg6 12. Qe8+ 1-0
+

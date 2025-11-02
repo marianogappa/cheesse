@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Lp7Ap2Gn"]
+[White "sandokandn"]
+[Black "kl695"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:31"]
+[WhiteElo "1332"]
+[BlackElo "1437"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-13"]
+[ECO "C21"]
+[Opening "Danish Gambit Declined, Sorensen Defense"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. c3 d5 3. d4 exd4 4. Qa4+ Nc6 5. cxd4 dxe4 6. Nc3 Bd7 7. d5 Ne5 8. Qxe4 f6 9. f4 f5 10. Qxe5+ Ne7 11. d6 cxd6 12. Qxd6 Nc6 13. Qd3 Nb4 14. Qe2+ Be6 15. Qxe6+ Be7 16. Bb5+ Kf8 17. Qxf5+ Bf6 18. Qc5+ Be7 19. Qf2 a6 20. Be2 h5 21. a3 Nc2+ 22. Kf1 Nxa1 23. Ne4 Rc8 24. Qe3 Nc2 25. Qb3 Nd4 26. Qg3 Rxc1+ 27. Kf2 Bc5 28. Nxc5 Nf5 29. Ne6+ Kg8 30. Qb3 Qh4+ 31. g3 Nxg3 32. Ng5+ Kf8 33. Ne6+ Ke7 34. Qe3 Nf1+ 35. Kf3 Nxe3 36. Kxe3 Kxe6 37. Nf3 Qd8 38. Rxc1 Qb6+ 39. Nd4+ Kf7 40. Bc4+ Kf8 41. Ke4 Qg6+ 42. f5 Qg4+ 43. Ke5 Qg2 44. Ne6+ Kf7 45. Nf4+ Kf8 46. Nxg2 Ke7 47. Rd1 Re8 48. Rd6 Kf8+ 49. Be6 1-0
+

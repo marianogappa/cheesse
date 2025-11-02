@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZXHdeKIY"]
+[White "Radiohead3"]
+[Black "hansi44"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:11"]
+[WhiteElo "1391"]
+[BlackElo "1604"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "300+1"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nf3 b6 3. d4 Bb7 4. Nc3 Bg7 5. Bf4 a6 6. Be2 d6 7. Qd2 Nc6 8. O-O Nf6 9. Rad1 O-O 10. Qe3 Nh5 11. d5 Nb8 12. Bh6 Nd7 13. Bxg7 Kxg7 14. Ng5 Nhf6 15. h4 Bc8 16. h5 Ne5 17. hxg6 hxg6 18. f4 Neg4 19. Bxg4 Bxg4 20. Rde1 Qd7 21. e5 Nh7 22. e6 fxe6 23. dxe6 Qc6 24. Qg3 Nxg5 25. Qxg4 Nh7 26. f5 g5 27. Qh5 Qc5+ 28. Kh1 Rxf5 29. Rxf5 Qxf5 30. Ne2 Rf8 31. Ng3 Qg6 32. Qg4 Nf6 33. Qd4 Qxc2 34. Kg1 Qc5 35. Qxc5 bxc5 36. Nf5+ Kh7 37. Nxe7 Re8 38. Nc6 Nd5 39. g3 Kg7 40. g4 Kf6 41. Kf2 Rxe6 42. Rxe6+ Kxe6 43. Kf3 Nb4 44. Nxb4 cxb4 45. Ke4 c6 46. b3 a5 47. Kd4 Kf6 48. Ke3 d5 49. Kd4 Ke6 50. Kc5 Ke5 51. Kxc6 d4 52. Kb5 d3 53. Kxa5 d2 54. Kxb4 d1=Q 0-1
+

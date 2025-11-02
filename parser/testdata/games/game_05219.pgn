@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/92Df0qzL"]
+[White "vysotskiy"]
+[Black "RaulHuerta"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:03"]
+[WhiteElo "1826"]
+[BlackElo "1947"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "A42"]
+[Opening "Modern Defense: Averbakh Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 c6 5. Be2 e5 6. d5 c5 7. Be3 a6 8. Nf3 Ne7 9. Nd2 f5 10. f3 f4 11. Bf2 O-O 12. g4 fxg3 13. hxg3 Qe8 14. Be3 Qf7 15. Qc2 Nd7 16. O-O-O b5 17. f4 bxc4 18. Nxc4 exf4 19. gxf4 Rb8 20. Rdg1 Qf6 21. e5 dxe5 22. fxe5 Nxe5 23. Bg5 Qf7 24. d6 Nf5 25. Nxe5 Bxe5 26. Be7 Nxe7 27. dxe7 Qxe7 28. Bc4+ Be6 29. Rxg6+ hxg6 30. Qxg6+ Bg7 31. Bxe6+ Qxe6 32. Qxe6+ Rf7 33. Rf1 Rf8 34. Rxf7 Rxf7 35. Qe8+ Bf8 36. Kd2 Kg7 37. Qe5+ Kg8 38. Nd5 Rd7 39. Kc2 Rd6 40. Nf6+ Kf7 41. Ne4 Re6 42. Qf5+ Ke7 43. Nxc5 Rf6 44. Qe5+ Kf7 45. Qc7+ Kg6 0-1
+

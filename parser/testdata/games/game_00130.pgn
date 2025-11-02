@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GWfk37zv"]
+[White "welder1878"]
+[Black "TheHideous"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:16"]
+[WhiteElo "1410"]
+[BlackElo "1288"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-9"]
+[ECO "C50"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nc6 4. Nc3 Bc5 5. h3 O-O 6. a3 b6 7. Nd5 Nxd5 8. Bxd5 Bb7 9. b4 Bd4 10. c3 Na5 11. Bxb7 Nxb7 12. cxd4 exd4 13. Nxd4 d5 14. Nc6 Qd6 15. b5 Rfe8 16. O-O dxe4 17. Re1 a6 18. bxa6 Rxa6 19. Nb4 Ra5 20. d3 Rae5 21. Bb2 R5e6 22. Qg4 exd3 23. Qxg7# 1-0
+

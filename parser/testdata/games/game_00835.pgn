@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uIgOgHP2"]
+[White "SableMJ"]
+[Black "JuanDRO"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:07"]
+[WhiteElo "1702"]
+[BlackElo "1665"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. c4 e6 2. Nc3 c6 3. g3 d5 4. cxd5 cxd5 5. Bg2 Bd7 6. e3 Nc6 7. Nge2 Bb4 8. a3 Ba5 9. b4 Bc7 10. O-O a6 11. d4 Nf6 12. Bb2 O-O 13. Rc1 Ne7 14. Na4 b6 15. Nac3 b5 16. e4 dxe4 17. Nxe4 Nxe4 18. Bxe4 Rc8 19. Qd3 h6 20. Qf3 Bb6 21. Rxc8 Qxc8 22. Rc1 Qd8 23. Qc3 Nd5 24. Bxd5 exd5 25. Nf4 g5 26. Nxd5 Ba7 27. Nc7 Bh3 28. d5 Bb6 29. Qg7# 1-0
+

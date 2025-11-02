@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/rtTLtDqG"]
+[White "luffyr2"]
+[Black "adriaticor2"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:04"]
+[WhiteElo "1422"]
+[BlackElo "1315"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "C00"]
+[Opening "French Defense: Reti-Spielmann Attack"]
+[TimeControl "480+5"]
+[Termination "Normal"]
+
+1. e4 e6 2. g3 Nf6 3. Bg2 d5 4. Nc3 c6 5. exd5 Nxd5 6. Nxd5 cxd5 7. d4 Nc6 8. c3 Bd6 9. Nf3 b5 10. O-O a6 11. Bg5 Be7 12. Qd2 f6 13. Bf4 Qa5 14. a3 b4 15. axb4 Qb5 16. Rfe1 e5 17. dxe5 fxe5 18. Nxe5 Nxe5 19. Bxe5 Bb7 20. Bxg7 Rg8 21. Bf6 O-O-O 22. Bxe7 Rde8 23. Bh3+ Kb8 24. Bd6+ Ka7 25. Rxe8 Rxe8 26. Qd1 Qc6 27. Bc5+ Ka8 28. Bg2 Re5 29. Qd4 Rh5 30. Qh8+ Bc8 31. c4 Qe6 32. Bxd5+ Rxd5 33. cxd5 Qxd5 34. Qxc8# 1-0
+

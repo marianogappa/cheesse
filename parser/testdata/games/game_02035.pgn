@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pPhQrAUj"]
+[White "apelsins"]
+[Black "InsaneChessPlayer"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:39"]
+[WhiteElo "2486"]
+[BlackElo "2484"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+12"]
+[ECO "C13"]
+[Opening "French Defense: Alekhine-Chatard Attack, Breyer Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Bxe7 Kxe7 8. f4 cxd4 9. Qxd4 Nc6 10. Qd2 Qb6 11. O-O-O Nc5 12. Nf3 Bd7 13. f5 Rac8 14. Qg5+ Kf8 15. f6 gxf6 16. Qxf6 Rg8 17. Ng5 Rg7 18. Rh3 d4 19. Nce4 Nxe4 20. Nxe4 Qa5 21. Ra3 Qxe5 22. Qxe5 Nxe5 23. Rxd4 Bc6 24. Rxa7 Rg4 25. Nd6 Rxd4 26. Nxc8 Rf4 27. Be2 Bxg2 28. Nd6 Rf2 29. Kd1 Bf3 30. Bxf3 Nxf3 31. Nxb7 Rd2+ 32. Kc1 Rh2 33. b4 Rxh4 34. b5 Ne5 35. Nd6 Rd4 36. Ra8+ Ke7 37. b6 Rxd6 38. b7 Nd7 39. b8=Q Nxb8 40. Rxb8 Rd8 41. Rb4 h5 42. a4 Rh8 43. Rh4 Kf6 44. a5 Kg5 45. Ra4 h4 46. a6 h3 47. Kb2 h2 48. Ra1 h1=Q 49. Rxh1 Rxh1 0-1
+

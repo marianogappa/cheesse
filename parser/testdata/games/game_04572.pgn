@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/287AyFKX"]
+[White "martha"]
+[Black "miro1188"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:29"]
+[WhiteElo "1888"]
+[BlackElo "1644"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "480+0"]
+[Termination "Time forfeit"]
+
+1. e3 d5 2. d3 d4 3. e4 Nf6 4. h3 h5 5. g3 Na6 6. a3 Qd7 7. Nd2 Qa4 8. Bg2 Nb4 9. b3 Qa6 10. Ngf3 Nc6 11. O-O Be6 12. Nh2 g5 13. f4 g4 14. h4 O-O-O 15. f5 Bd7 16. Rf2 Bh6 17. Nc4 Bxc1 18. Qxc1 Rhg8 19. e5 Nd5 20. Bxd5 Rgf8 21. Nb2 e6 22. Bc4 Qa5 23. b4 Qxe5 24. Nf1 exf5 25. Qf4 Qxf4 26. Rxf4 Ne5 27. Bb3 Nf3+ 28. Kf2 Rde8 29. Bd5 Ne5 30. Rxd4 Bc6 31. Bb3 Rd8 32. Rf4 Bd7 33. c4 Ng6 34. Rd4 Bc6 35. Rxd8+ Rxd8 36. Nd2 Ne5 37. Ke3 Re8 38. Kf4 Bd7 39. d4 Ng6+ 40. Kg5 Re3 41. Kxh5 Rxg3 42. Rf1 Rh3 43. Kg5 Rxh4 44. Rxf5 Bxf5 45. Kxf5 g3 46. Nf3 Rh1 47. Bc2 Rf1 48. Be4 g2 49. Kg4 Rxf3 50. Bf5+ Kd8 51. Kxf3 g1=Q 52. Bxg6 fxg6 53. Nd3 g5 54. Ne5 Ke7 55. Ke4 Qe1+ 56. Kf5 Qc3 57. Ng6+ Kf7 58. Ne5+ Ke7 59. Nc6+ Kd7 60. Ne5+ Kc8 61. d5 Qxa3 62. b5 1-0
+

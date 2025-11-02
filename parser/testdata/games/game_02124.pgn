@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/PUKstOi5"]
+[White "ivaneltitan"]
+[Black "davidelohim"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:01"]
+[WhiteElo "1405"]
+[BlackElo "1308"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-12"]
+[ECO "D01"]
+[Opening "Richter-Veresov Attack"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 Ng4 4. e3 f6 5. Bf4 g5 6. Bg3 h5 7. h3 Nh6 8. Bd3 h4 9. Bh2 g4 10. Bg6+ Kd7 11. Nxd5 Rg8 12. hxg4 Rxg6 13. g5 Rxg5 14. Nb4 e6 15. Nf3 Bxb4+ 16. c3 Rxg2 17. Nxh4 Rxh2 18. Rxh2 Bd6 19. Rg2 f5 20. Rg7+ Be7 21. Qh5 Ng8 22. Ng6 Nc6 23. O-O-O b6 24. Qh7 Bb7 25. Rxe7+ Ncxe7 26. Nxe7 Nxe7 27. Rg1 Kc8 28. Qf7 c6 29. Qxe6+ Qd7 30. Qf7 Nd5 31. Qg8+ Kc7 32. Rg7 Ne7 33. Qc4 Rh8 34. Kc2 Rh2 35. Kb3 a5 36. Qf7 Qd5+ 37. Ka3 Qxf7 38. Rxf7 Rxf2 39. Rxe7+ Kd6 40. Re5 c5 41. Re8 cxd4 42. Rd8+ Ke7 43. Rxd4 Bf3 44. Rf4 Bc6 45. Rxf5 1-0
+

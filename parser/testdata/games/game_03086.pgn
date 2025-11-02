@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oV3hfsCJ"]
+[White "carpediem257"]
+[Black "Masbruto"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:27"]
+[WhiteElo "1769"]
+[BlackElo "1757"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-13"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.13] } 1... d5 { [%eval 0.2] } 2. Nf3 { [%eval 0.08] } 2... c6 { [%eval 0.39] } 3. Bg5 { [%eval 0.25] } 3... Nf6 { [%eval 0.22] } 4. Bxf6 { [%eval 0.0] } 4... exf6 { [%eval 0.06] } 5. e3 { [%eval -0.05] } 5... Bd6 { [%eval 0.05] } 6. c4 { [%eval 0.0] } 6... Bg4?! { [%eval 0.51] } 7. cxd5 { [%eval 0.28] } 7... cxd5 { [%eval 0.25] } 8. Nbd2 { [%eval -0.04] } 8... O-O { [%eval -0.08] } 9. a3 { [%eval -0.1] } 9... Nc6 { [%eval 0.0] } 10. Be2 { [%eval -0.1] } 10... Re8 { [%eval -0.09] } 11. O-O { [%eval -0.09] } 11... Qe7 { [%eval 0.0] } 12. Re1 { [%eval 0.09] } 12... Qc7 { [%eval 0.15] } 13. b4 { [%eval -0.25] } 13... a5 { [%eval -0.27] } 14. b5 { [%eval -0.25] } 14... Ne7 { [%eval -0.23] } 15. a4 { [%eval -0.29] } 15... Qd7 { [%eval -0.31] } 16. h3 { [%eval -0.26] } 16... Bh5 { [%eval -0.18] } 17. Nh2 { [%eval -0.4] } 17... Bg6 { [%eval -0.4] } 18. Nhf3 { [%eval -0.55] } 18... Be5?? { [%eval 4.46] } 19. Nxe5?? { [%eval 1.43] } 1-0
+

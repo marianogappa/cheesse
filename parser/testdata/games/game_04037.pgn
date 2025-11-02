@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JycIylA7"]
+[White "sharcashmo"]
+[Black "anaroual"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:20"]
+[WhiteElo "1771"]
+[BlackElo "1806"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "A30"]
+[Opening "English Opening: Symmetrical Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. e4 e5 5. d3 d6 6. Nc3 Nc6 7. Nge2 Nge7 8. O-O O-O 9. Rb1 f5 10. exf5 Bxf5 11. f4 Qd7 12. Nd5 Nxd5 13. Bxd5+ Kh8 14. Bg2 Rfe8 15. a3 e4 16. dxe4 Bxe4 17. Bxe4 Rxe4 18. b4 Rae8 19. Re1 Rxc4 20. bxc5 Rxc5 21. Bb2 Qg4 22. Bxg7+ Kxg7 23. Rxb7+ Kh6 24. Qd2 Na5 25. f5+ g5 26. Rb4 Qh3 27. Rh4+ Qxh4 28. gxh4 Rce5 29. Qxg5# 1-0
+

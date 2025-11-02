@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/XbggDJCa"]
+[White "lollipop61"]
+[Black "Dummer"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:15"]
+[WhiteElo "1504"]
+[BlackElo "1572"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "A02"]
+[Opening "Bird Opening: From's Gambit, Lasker Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. h3 Bg3# 0-1
+

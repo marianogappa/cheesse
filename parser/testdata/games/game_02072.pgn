@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7DWiys4I"]
+[White "Wilmer17"]
+[Black "Andres_Felipe"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:47"]
+[WhiteElo "1506"]
+[BlackElo "1741"]
+[WhiteRatingDiff "+22"]
+[BlackRatingDiff "-20"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d3 Nf6 3. Nf3 Nc6 4. Bg5 Be7 5. Nc3 h6 6. Bh4 d6 7. Be2 Bg4 8. Bxf6 Bxf6 9. h3 Be6 10. Qd2 Bg5 11. Nxg5 hxg5 12. Nb5 a6 13. Nc3 Qf6 14. f3 O-O-O 15. O-O-O Qf4 16. Qxf4 gxf4 17. a3 d5 18. exd5 Bxd5 19. Nxd5 Rxd5 20. Rd2 Rhd8 21. Rhd1 Kd7 22. Rg1 Ke6 23. g3 g5 24. gxf4 gxf4 25. h4 Rh8 26. Rh1 Kf5 27. h5 Kg5 28. h6 Rxh6 29. Rg1+ Kf6 30. b3 Rh2 31. c4 Rd7 32. Kc2 Nd4+ 33. Kd1 Nxb3 34. Rb2 Rxd3+ 35. Ke1 Re3 36. Rf1 Nd4 37. Rf2 Rxe2+ 38. Rbxe2 Rh1+ 39. Rf1 Rxf1+ 40. Kxf1 Nxe2 41. Kxe2 Kf5 42. Kd3 b5 43. cxb5 axb5 44. Ke2 e4 45. fxe4+ 1-0
+

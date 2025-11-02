@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/ZxFec9Od"]
+[White "hiphappy"]
+[Black "jongek_bali"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:46"]
+[WhiteElo "1985"]
+[BlackElo "2006"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "A00"]
+[Opening "Van Geet Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. Nc3 Nc6 2. e4 f5 3. f4 fxe4 4. d3 d5 5. dxe4 d4 6. Nce2 e5 7. f5 Nf6 8. Ng3 Bc5 9. Nf3 O-O 10. Bb5 Bd7 11. O-O Ng4 12. Kh1 d3 13. cxd3 Nf2+ 14. Rxf2 Bxf2 15. Bxc6 Bxg3 16. Bxd7 Qxd7 17. hxg3 Rad8 18. Nxe5 Qd4 19. Bf4 c5 20. Qb3+ Kh8 21. Nf7+ Rxf7 22. Qxf7 Qxd3 23. Re1 Qd4 24. e5 Qxb2 25. e6 Qf2 26. Rg1 Qd4 27. e7 Rg8 28. e8=Q Rxe8 29. Qxe8# 1-0
+

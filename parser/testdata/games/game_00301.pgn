@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YKa2HqCn"]
+[White "anatoliuss"]
+[Black "MrTaffs"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:58"]
+[WhiteElo "1728"]
+[BlackElo "1706"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "A51"]
+[Opening "Indian Game: Budapest Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 e5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 e4 6. e3 d5 7. Qc2 O-O 8. g3 Bg4 9. Bg2 c6 10. Ne2 Bf3 11. O-O Qd7 12. cxd5 cxd5 13. c4 Nc6 14. cxd5 Qxd5 15. Nc3 Qh5 16. Bb2 Ng4 17. h3 Nf6 18. g4 Bxg4 19. Nxe4 Nxe4 20. Qxe4 Bf5 21. Qf3 Qg6 22. Qg3 Qh6 23. Rac1 Na5 24. Rc7 Nb3 25. Bxb7 Rab8 26. Bd5 Nd2 27. Ba1 Nxf1 28. Kxf1 Rb1+ 29. Kg2 Rxa1 30. Bf3 Rxa3 31. Bd5 Qg6 32. Qxg6 Bxg6 33. h4 Rd8 34. Bc4 Be4+ 35. Kg3 g6 36. Bxf7+ Kf8 37. Bc4 Bd5 38. Bb5 Ra5 39. Bd3 Ra3 40. Bb5 Rb3 41. Ba4 Rb4 42. Bd1 a5 43. h5 a4 44. hxg6 1-0
+

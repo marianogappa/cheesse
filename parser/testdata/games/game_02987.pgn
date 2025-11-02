@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bqLBBlga"]
+[White "joninaka"]
+[Black "flobirch"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:12"]
+[WhiteElo "1479"]
+[BlackElo "1497"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C60"]
+[Opening "Ruy Lopez: Cozio Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. Bxc6 Nxc6 5. Nc3 d6 6. d4 exd4 7. Nxd4 Nxd4 8. Qxd4 c5 9. Qd5 Be7 10. e5 O-O 11. exd6 Be6 12. dxe7 Qxd5 13. Nxd5 Rfe8 14. Nc7 Rxe7 15. Nxa8 Bc4+ 16. Kd2 Re2+ 17. Kc3 b5 18. a3 Rxf2 19. Re1 g6 20. Be3 Rf5 21. Nc7 Rf6 22. b3 Be6 23. Nxb5 Bf5 24. Nxa7 1-0
+

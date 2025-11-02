@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/X74xZxeX"]
+[White "racim"]
+[Black "Basejump"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:50"]
+[WhiteElo "1674"]
+[BlackElo "1702"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "D06"]
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 Nc6 4. Nf3 e6 5. Bg5 Bb4 6. cxd5 Bxc3+ 7. bxc3 exd5 8. e3 Be6 9. Bd3 h6 10. Bh4 Qe7 11. O-O O-O-O 12. a4 Qd6 13. a5 Bg4 14. a6 b6 15. Bg3 Qe6 16. c4 Bf5 17. cxd5 Nxd5 18. e4 Bxe4 19. Re1 Bxf3 20. Rxe6 Bxd1 21. Rxc6 Bb3 22. Rb1 Ba2 23. Rb2 Kd7 24. Rc1 Nb4 25. Rxb4 1-0
+

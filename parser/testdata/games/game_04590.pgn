@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/9AulLggo"]
+[White "vivaperoncarajo"]
+[Black "uriellaurito"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:36"]
+[WhiteElo "1356"]
+[BlackElo "1437"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "C42"]
+[Opening "Petrov's Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. g3 Bc5 4. d4 Bxd4 5. Nxd4 exd4 6. Qxd4 Nc6 7. Qd3 d5 8. exd5 Nxd5 9. Bg2 Qe7+ 10. Be4 Ncb4 11. Qc4 c6 12. O-O Bh3 13. Re1 O-O 14. Bxd5 Qxe1+ 0-1
+

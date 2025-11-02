@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0JBrx9oV"]
+[White "vsndl"]
+[Black "weirdtactics"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:47"]
+[WhiteElo "1718"]
+[BlackElo "1952"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[ECO "C57"]
+[Opening "Italian Game: Two Knights Defense, Polerio Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nc6 4. Ng5 d5 5. exd5 Na5 6. Qe2 Nxc4 7. Qxc4 Qxd5 8. Qxd5 Nxd5 9. O-O Bd6 10. Ne4 Be7 11. c3 f5 12. Ng3 O-O 13. d3 Bd6 14. c4 Nb4 15. Na3 Nxd3 16. Bd2 Nxb2 17. Nb5 Nxc4 18. Bc3 a6 19. Nxd6 cxd6 20. Rfc1 b5 21. Bb4 Bb7 22. h3 f4 23. Nf1 f3 24. g3 Bc8 25. a4 Bxh3 26. axb5 axb5 27. Bc3 Bd7 28. Nh2 Bc6 29. Ng4 h5 30. Nh2 g5 31. Nf1 h4 32. g4 Bd7 33. Nh2 Kg7 34. Bb4 Kf6 35. Rd1 Ke6 36. Rab1 Rf4 37. Bd2 Nxd2 38. Rxd2 Ke7 39. Rbd1 Ra6 40. Kf1 Bxg4 41. Nxg4 Rxg4 42. Rd3 e4 43. Re3 Rf4 44. Ke1 Ke6 45. Kd2 d5 46. Rc3 Ra2+ 47. Rc2 Rxc2+ 48. Kxc2 Rg4 49. Rd2 Rg2 50. Kc3 h3 51. Rd1 h2 52. Rh1 Rxf2 53. Kd4 g4 54. Kc5 g3 55. Kxb5 g2 56. Rc1 g1=Q 57. Rc6+ Ke5 58. Kb6 Rb2+ 59. Kc7 Qa1 60. Rb6 Qa7+ 61. Kc8 Rxb6 62. Kd8 Rb7 63. Ke8 Qa8# 0-1
+

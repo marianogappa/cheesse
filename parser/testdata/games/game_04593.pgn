@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/jh7lDWAi"]
+[White "chess2016chess"]
+[Black "aprentice1"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:38"]
+[WhiteElo "1906"]
+[BlackElo "1523"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Bc4 Bg4 6. f3 Bh5 7. Bf4 e6 8. Qd2 Nbd7 9. O-O-O c6 10. Bb3 Bb4 11. h4 Nd5 12. Bg5 f6 13. Be3 Nxc3 14. bxc3 Ba3+ 15. Kb1 Qb6 16. g4 Bf7 17. g5 O-O 18. Ne2 a5 19. d5 Qb5 20. c4 Qb4 21. Qxb4 axb4 22. dxc6 bxc6 23. Rxd7 c5 24. gxf6 gxf6 25. Rg1+ Kh8 26. Bh6 Rg8 27. Rxf7 Rxg1+ 28. Nxg1 Rd8 29. c3 Rd1+ 30. Bxd1 bxc3 31. Bc2 Bb4 32. Rxh7+ Kg8 33. Rg7+ Kh8 34. Rh7+ Kg8 35. Be3 Kf8 36. Rc7 Ke8 37. Bxc5 Kd8 38. Rc6 Bxc5 39. Rxc5 Kd7 40. Rb5 Kd6 41. a4 Kc6 42. a5 Kd6 43. a6 Ke7 44. a7 Kf7 45. a8=Q Kg7 46. Qa7+ Kh6 47. Rb8 Kh5 48. Rh8# 1-0
+

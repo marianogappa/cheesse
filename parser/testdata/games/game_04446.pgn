@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Q9goFkXr"]
+[White "waterflossyourself"]
+[Black "fidsansan"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:04"]
+[WhiteElo "2005"]
+[BlackElo "1705"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+[ECO "D10"]
+[Opening "Slav Defense #2"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 c6 3. Nc3 b6 4. Qc2 e6 5. cxd5 cxd5 6. Bd2 Bb7 7. e4 Nd7 8. exd5 Bxd5 9. Nxd5 exd5 10. Rc1 Ne7 11. Bd3 g6 12. Nf3 Rc8 13. Qa4 Rxc1+ 14. Bxc1 Bg7 15. O-O O-O 16. Re1 Nc8 17. Qb5 Qc7 18. Qxd5 Nf6 19. Qb3 Re8 20. Be3 Ng4 21. Bc4 Nxe3 22. Rxe3 Rxe3 23. fxe3 Nd6 24. Bd3 Qc1+ 25. Kf2 Qc7 26. Qc3 Qxc3 27. bxc3 Kf8 28. e4 Ke7 29. e5 Ne8 30. Ke3 Nc7 31. Ke4 f5+ 32. Kf4 Bh6+ 33. Kg3 Nd5 34. c4 Nb4 35. Bb1 f4+ 36. Kg4 a6 37. d5 b5 38. a3 Nxd5 39. cxd5 1-0
+

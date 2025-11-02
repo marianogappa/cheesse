@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/AOErLKW7"]
+[White "ashkan1206"]
+[Black "jasmineteachowsing"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:05"]
+[WhiteElo "1576"]
+[BlackElo "1555"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.27] } 1... c5 { [%eval 0.24] } 2. d3 { [%eval -0.11] } 2... e6 { [%eval 0.0] } 3. Nh3 { [%eval -0.31] } 3... d5 { [%eval -0.24] } 4. e5?! { [%eval -1.1] } 4... Nc6 { [%eval -0.95] } 5. Bg5?! { [%eval -1.83] } 5... Qc7 { [%eval -1.45] } 6. Bf4 { [%eval -1.43] } 6... Nxe5?! { [%eval -0.89] } 7. Qe2? { [%eval -1.93] } 7... Bd6 { [%eval -1.68] } 8. Nc3 { [%eval -1.74] } 8... a6?! { [%eval -1.17] } 9. Rd1? { [%eval -2.61] } 9... Nf6 { [%eval -2.41] } 10. d4 { [%eval -2.85] } 10... cxd4 { [%eval -2.84] } 11. Rxd4 { [%eval -2.97] } 11... Nc6 { [%eval -2.71] } 12. Bxd6 { [%eval -3.04] } 12... Qxd6 { [%eval -3.03] } 13. Rd1 { [%eval -3.41] } 13... O-O { [%eval -3.23] } 14. Qd3 { [%eval -3.51] } 14... Qb4 { [%eval -3.33] } 15. Rb1 { [%eval -3.74] } 15... d4?! { [%eval -3.03] } 16. a3 { [%eval -3.33] } 16... Qa5 { [%eval -2.93] } 17. b4 { [%eval -3.14] } 17... Qxa3 { [%eval -2.7] } 18. Ne2? { [%eval -4.55] } 18... Qxd3?! { [%eval -3.96] } 19. cxd3 { [%eval -3.96] } 19... Nd5 { [%eval -4.15] } 20. Ng3?! { [%eval -4.75] } 20... Ndxb4?! { [%eval -4.18] } 21. Be2 { [%eval -4.32] } 21... Nc2+?! { [%eval -3.65] } 22. Kd2 { [%eval -3.78] } 22... N2b4 { [%eval -3.44] } 23. Rhc1 { [%eval -3.9] } 23... Nd5?! { [%eval -3.35] } 24. Bf3 { [%eval -3.47] } 24... Ne5? { [%eval -1.44] } 25. Bxd5 { [%eval -1.55] } 25... exd5 { [%eval -1.43] } 26. Rc2? { [%eval -3.2] } 26... Bxh3 { [%eval -3.02] } 27. gxh3 { [%eval -3.04] } 27... b5?! { [%eval -2.38] } 28. Rc7? { [%eval -3.68] } 28... Rac8 { [%eval -3.33] } 29. Rd7?? { [%eval -9.87] } 29... Nxd7 { [%eval -9.71] } 0-1
+

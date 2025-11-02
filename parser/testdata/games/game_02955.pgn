@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/gjcSHFtS"]
+[White "mahmutcarlsen"]
+[Black "Vic44"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:05"]
+[WhiteElo "1405"]
+[BlackElo "1510"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+8"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Kingside Fianchetto"]
+[TimeControl "900+5"]
+[Termination "Normal"]
+
+1. Nf3 g6 2. g3 Bg7 3. Bg2 h6 4. O-O e6 5. d3 Ne7 6. Nbd2 O-O 7. Re1 c6 8. e4 Qb6 9. d4 f5 10. c3 fxe4 11. Nxe4 d5 12. Nc5 Nd7 13. Nxd7 Bxd7 14. Ne5 Bxe5 15. Rxe5 Rf7 16. b4 g5 17. f4 Ng6 18. Re1 gxf4 19. Qh5 Kh7 20. Bxf4 Nxf4 21. gxf4 Rg7 22. Qe5 Rag8 23. Re2 Qb5 24. Rae1 Qd3 25. Qc7 Be8 26. Qd8 Bh5 27. Re3 Rxg2+ 28. Kh1 Qd2 29. Qe7+ R8g7 30. Qxe6 Rxh2# 0-1
+

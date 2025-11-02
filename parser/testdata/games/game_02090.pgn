@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/Ym0PfaK9"]
+[White "Pasttime"]
+[Black "gavilan1"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:49"]
+[WhiteElo "1672"]
+[BlackElo "1668"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. d4 exd4 6. e5 dxe5 7. Bxf7+ Ke7 8. Ng5 Nf6 9. Bb3 Bg4 10. f3 Bf5 11. Nf7 Qd7 12. Nxh8 d3+ 13. Kh1 Rxh8 14. cxd3 Rd8 15. Nc3 Nd4 16. Bc4 c6 17. g4 Bg6 18. g5 Nh5 19. f4 b5 20. f5 Bf7 21. Bxf7 Kxf7 22. g6+ hxg6 23. fxg6+ Kg8 24. Qxh5 Qd5+ 25. Nxd5 cxd5 26. Qh7# 1-0
+

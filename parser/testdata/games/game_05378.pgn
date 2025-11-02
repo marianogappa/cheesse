@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/JXxTaDdM"]
+[White "vladimirzozulya1500"]
+[Black "IIMadDog"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:44"]
+[WhiteElo "1864"]
+[BlackElo "1862"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "C46"]
+[Opening "Three Knights Opening #2"]
+[TimeControl "600+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bb4 4. Bc4 d6 5. a3 Ba5 6. b4 Bb6 7. Na4 Nf6 8. Nxb6 axb6 9. d3 O-O 10. b5 Na5 11. Ba2 c6 12. a4 cxb5 13. axb5 Bd7 14. c4 Nxe4 15. dxe4 Nxc4 16. Bg5 f6 17. Bxc4+ 1-0
+

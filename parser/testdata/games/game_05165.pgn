@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/jvCtDTaL"]
+[White "IVIED"]
+[Black "RAMerriam"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:50"]
+[WhiteElo "1549"]
+[BlackElo "1445"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+14"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 c6 3. Nc3 Nf6 4. a3 e6 5. b4 Bd7 6. b5 Be7 7. Nf3 a6 8. a4 cxb5 9. axb5 Bxb5 10. Nxb5 axb5 11. Rxa8 O-O 12. Rxb8 Qb6 13. Rxf8+ Bxf8 14. Bd2 b4 15. Qb1 Ne4 16. Bxb4 Bxb4+ 17. Kd1 Nc3+ 18. Kc1 Nxb1 19. Kxb1 Bc3+ 20. Kc1 Qb2+ 21. Kd1 Qb1# 0-1
+

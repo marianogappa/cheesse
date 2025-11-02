@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/4vpLiHhs"]
+[White "Marek89"]
+[Black "alan155"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:21"]
+[WhiteElo "1704"]
+[BlackElo "1708"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[TimeControl "600+4"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Bc5 3. Nf3 Nc6 4. O-O Nf6 5. Nc3 O-O 6. d3 d6 7. h3 a6 8. Nd5 b5 9. Bb3 a5 10. a3 a4 11. Ba2 Be6 12. Nxf6+ Qxf6 13. Bxe6 Qxe6 14. Qe2 Bd4 15. c3 Bb6 16. Be3 Bxe3 17. Qxe3 f5 18. Rfe1 f4 19. Qd2 Rad8 20. d4 Qf6 21. d5 Na5 22. Qd3 Nb3 23. Rab1 Rb8 24. Nd2 Nc5 25. Qe2 Qg6 26. b4 axb3 27. Nxb3 f3 28. Qf1 Nd3 29. Red1 fxg2 30. Qxd3 Rxf2 31. Nd2 Rbf8 32. Qe3 Rf1+ 33. Nxf1 gxf1=Q+ 34. Kh2 Qgg2# 0-1
+

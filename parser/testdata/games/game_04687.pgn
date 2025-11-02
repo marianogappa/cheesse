@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DnMIF3u2"]
+[White "kaplja"]
+[Black "CAREM"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:00"]
+[WhiteElo "1819"]
+[BlackElo "1826"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C00"]
+[Opening "French Defense: La Bourdonnais Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. f4 f5 3. e5 d5 4. d4 g6 5. c3 c5 6. Nf3 c4 7. Be2 Be7 8. O-O h6 9. b3 b5 10. a4 cxb3 11. Qxb3 bxa4 12. Rxa4 Nc6 13. Nfd2 Bd7 14. Ra6 Rb8 15. Qc2 Qc8 16. Qd3 Nd8 17. g4 Bb5 18. c4 Bxa6 19. gxf5 exf5 20. Qg3 Kf7 21. h4 Ne6 22. h5 g5 23. fxg5 hxg5 24. cxd5 Bxe2 25. dxe6+ Qxe6 26. Rf2 Bg4 27. Ne4 Rxb1 28. Qc3 Rxh5 29. d5 Qxd5 30. e6+ Kxe6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/gzFwnt1w"]
+[White "SHARK70"]
+[Black "RNC"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:10"]
+[WhiteElo "1696"]
+[BlackElo "1677"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "A40"]
+[Opening "Englund Gambit Declined, Reversed Krebs"]
+[TimeControl "60+2"]
+[Termination "Normal"]
+
+1. d4 e5 2. Nf3 e4 3. Nfd2 d5 4. e3 c6 5. c4 Nf6 6. cxd5 cxd5 7. Nc3 Be6 8. Bb5+ Nc6 9. O-O Bd6 10. f3 exf3 11. Nxf3 O-O 12. Ne2 a6 13. Bd3 Ne4 14. Nc3 Nxc3 15. bxc3 Rc8 16. Qe2 Bb8 17. Qf2 Bg4 18. Ba3 Re8 19. Ne5 Nxe5 20. dxe5 Be6 21. Bf5 Qd7 22. Rab1 Bxf5 23. Qxf5 Qxf5 24. Rxf5 b5 25. Rbf1 Rxc3 26. Rxf7 Rxa3 27. e6 Rxe3 28. e7 R3xe7 0-1
+

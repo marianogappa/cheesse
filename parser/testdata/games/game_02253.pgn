@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BryZfvot"]
+[White "CoolMagma"]
+[Black "danielillochess"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:33"]
+[WhiteElo "1260"]
+[BlackElo "1487"]
+[WhiteRatingDiff "-38"]
+[BlackRatingDiff "+5"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "120+2"]
+[Termination "Normal"]
+
+1. g3 d5 2. Bg2 e5 3. b3 e4 4. Bb2 f6 5. e3 Nc6 6. Ne2 b6 7. Nbc3 Bb7 8. a4 Bd6 9. Nb5 Be7 10. Nf4 Qd7 11. h4 O-O-O 12. Bh3 f5 13. c3 g6 14. b4 Nf6 15. a5 Kb8 16. axb6 axb6 17. Nd4 Nxd4 18. cxd4 Qb5 19. Bf1 Qxb4 20. Bc3 Qd6 21. Qa4 Qc6 22. Bb5 Qd6 23. Bb4 Qxb4 24. Qa8+ Bxa8 25. Be2 Bc6 26. O-O Kb7 27. Rfb1 Qxd2 28. Bf1 Ra8 29. Rd1 Qc3 30. Rdc1 Qb4 31. Rab1 Qd6 32. Bb5 Bxb5 33. Rxb5 Ra6 34. Kg2 Rha8 35. Kh3 h5 36. Nxg6 Ng4 37. Ne5 Nxf2+ 38. Kg2 Nd3 39. Rc6 Qa3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/nrIuGXYi"]
+[White "javiervegavilla"]
+[Black "Smits"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:59"]
+[WhiteElo "1460"]
+[BlackElo "1406"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Open Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 d5 5. exd5 Nxd4 6. Nxe5 Bc5 7. O-O Nxd5 8. Bxd5 Qxd5 9. Nc3 Qe6 10. Re1 O-O 11. b4 Bb6 12. a4 Qf5 13. a5 Nxc2 14. axb6 Nxa1 15. Ba3 Nc2 16. Qc1 Nxe1 17. Qxe1 Re8 0-1
+

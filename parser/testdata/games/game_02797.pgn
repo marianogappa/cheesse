@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/2svUXGYL"]
+[White "FrenchGeek"]
+[Black "aGrig"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:28"]
+[WhiteElo "1814"]
+[BlackElo "2048"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "C63"]
+[Opening "Ruy Lopez: Schliemann Defense, Exchange Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Bxc6 dxc6 5. d3 fxe4 6. dxe4 Qxd1+ 7. Kxd1 Bg4 8. Ke2 Nf6 9. Nd2 Bb4 10. c3 Bc5 11. h3 Bxf3+ 12. Kxf3 O-O-O 13. Nc4 Rhf8 14. Be3 Bxe3 15. Kxe3 Rfe8 16. Rhd1 b5 17. Na5 c5 18. Rxd8+ Kxd8 19. Nc6+ Kd7 20. Na5 Ke6 21. Nb3 Kd6 22. Rd1+ Kc6 23. f3 Kb6 24. g4 a5 25. g5 Nh5 26. Rd7 a4 27. Nd2 Kc6 28. Rf7 Kd6 29. f4 exf4+ 30. Kf3 c6 31. e5+ Ke6 32. Rc7 Kxe5 33. Rxc6 Kd5 34. Rb6 Re3+ 35. Kf2 Rxh3 36. Rxb5 Rh2+ 37. Ke1 Ng3 38. Nf3 Re2+ 39. Kd1 Ke4 40. Ne5 Kxe5 41. Rxc5+ Ke4 42. Rc4+ Kd3 43. Rxa4 Rd2+ 44. Ke1 Re2+ 45. Kd1 f3 46. Rd4+ Ke3 0-1
+

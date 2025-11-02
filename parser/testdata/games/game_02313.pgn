@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ITZviUSE"]
+[White "Cowlinn"]
+[Black "tirek1982"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:46"]
+[WhiteElo "1236"]
+[BlackElo "1411"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-16"]
+[ECO "C60"]
+[Opening "Ruy Lopez: Nuernberg Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f6 4. d3 Nge7 5. Nbd2 Ng6 6. O-O Bb4 7. c3 Ba5 8. b4 Bb6 9. Bb2 a6 10. Bxc6 dxc6 11. c4 a5 12. bxa5 Bxa5 13. g3 b5 14. cxb5 cxb5 15. Nb3 O-O 16. Nxa5 Rxa5 17. Bc3 Be6 18. Bxa5 Qa8 19. Bxc7 Bxa2 20. Qd2 Qa7 21. Bd6 Rd8 22. Bxe5 fxe5 23. Rxa2 Qc5 24. Ra5 Ne7 25. Qa2+ Kh8 26. Ra8 Rxa8 27. Qxa8+ Qc8 28. Qxc8+ Nxc8 29. Nxe5 h6 30. Ng6+ Kh7 31. Nf8+ Kg8 32. Ne6 Kf7 33. Nd4 Kf6 34. Rc1 Ke5 35. Nc6+ Kd6 36. Nd8 Ne7 37. Nf7+ Ke6 38. Nd8+ Ke5 39. Rc5+ Kd4 40. Rxb5 Kxd3 41. Rb7 Ng6 42. Rxg7 Ne5 43. Rh7 Ke2 44. Rxh6 Nf3+ 45. Kg2 Ne1+ 46. Kh3 Kxf2 47. Rf6+ Ke3 48. Rf1 Nf3 49. Kg4 Ne5+ 50. Kf5 Nd3 51. Kg4 Nf2+ 52. Rxf2 Kxf2 53. h4 Ke3 54. h5 Kxe4 55. h6 Ke5 56. h7 Kf6 57. h8=Q+ Ke7 58. Nc6+ Kd6 59. Qc3 Kc7 60. Kf3 Kd7 61. g4 Kd6 62. g5 Kd7 63. g6 Ke6 64. g7 Kf7 65. g8=Q+ Kxg8 66. Qc4+ Kf8 67. Qf4+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/U0VpVYVw"]
+[White "Lutfimaulana"]
+[Black "joeschlabotnik"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:57"]
+[WhiteElo "848"]
+[BlackElo "1149"]
+[WhiteRatingDiff "-22"]
+[BlackRatingDiff "+35"]
+[ECO "C41"]
+[Opening "Philidor Defense: Nimzowitsch Variation"]
+[TimeControl "180+2"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d4 d6 3. Nf3 Nf6 4. dxe5 dxe5 5. Nxe5 Bd6 6. f4 O-O 7. Bc4 Bxe5 8. fxe5 Qxd1+ 9. Kxd1 Nxe4 10. Be3 Bg4+ 11. Ke1 Rd8 12. Nc3 Nc6 13. Nxe4 Nb4 14. Bb3 Rd7 15. h3 Rad8 16. Kf2 Bf5 17. Kf3 g5 18. Nf6+ Kg7 19. Nxd7 Rxd7 20. c3 Nd5 21. Rad1 c6 22. c4 Nb6 23. c5 Nd5 24. Bxd5 Rxd5 25. g4 Bg6 26. Rxd5 cxd5 27. Rd1 Be4+ 28. Ke2 Kf8 29. Rxd5 Bxd5 30. Bxg5 Kg7 31. h4 Kg6 32. Bf6 h6 33. h5+ Kh7 34. g5 hxg5 35. Bxg5 Bxa2 36. Kf2 Bd5 37. e6 Bxe6 38. Bd8 a6 39. Kf3 Kh6 40. Ke4 Kxh5 41. Ke5 Kg6 42. Kd6 f6 43. Kc7 f5 44. Kxb7 f4 45. c6 f3 46. c7 f2 47. c8=Q Bxc8+ 48. Kxc8 f1=Q 49. b3 Qd1 50. b4 Qc1+ 51. Kb7 Qc4 52. Kb8 Qb5+ 53. Kc8 Qxb4 54. Kc7 Qc4+ 55. Kb7 a5 56. Kb8 a4 57. Ka8 a3 58. Kb8 a2 59. Ka8 Qa4+ 60. Kb8 a1=Q 61. Kb7 Qb2+ 0-1
+

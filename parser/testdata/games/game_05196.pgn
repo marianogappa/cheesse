@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/GBSlQjiH"]
+[White "Sahit"]
+[Black "CaptainGadukin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:55"]
+[WhiteElo "1487"]
+[BlackElo "1398"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 d6 4. Bc4 Bg4 5. d3 Nd4 6. Be3 Bxf3 7. gxf3 d5 8. Nxd5 Bb4+ 9. Nxb4 c5 10. Nd5 Qa5+ 11. Bd2 Qd8 12. Bc3 Nh6 13. Qd2 O-O 14. O-O-O Re8 15. f4 Nf3 16. Qe3 Nd4 17. fxe5 Rxe5 18. Bxd4 cxd4 19. Qxd4 Rg5 20. f4 Rg2 21. Qe5 Ng4 22. Qf5 Nf2 23. Rd2 Nxh1 24. Rxg2 Qh4 25. Qg4 Qe1+ 26. Qd1 Qxd1+ 27. Kxd1 Re8 28. Ke1 f6 29. Kf1 Rf8 30. f5 g5 31. Kg1 Kh8 32. Kxh1 Rg8 33. Nxf6 Rg7 34. h4 h6 35. hxg5 hxg5 36. Rh2+ Rh7 37. Rxh7# 1-0
+

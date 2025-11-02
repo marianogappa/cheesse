@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gQ24OUkR"]
+[White "Pierre_Brunetot"]
+[Black "Liborianer123"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:22"]
+[WhiteElo "1467"]
+[BlackElo "1660"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-17"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d3 e5 2. e4 d5 3. exd5 Qxd5 4. Nf3 Bg4 5. Be2 Nc6 6. c4 Qd8 7. Bg5 Be7 8. Bxe7 Ngxe7 9. Nc3 O-O 10. Ne4 Bxf3 11. gxf3 Nd4 12. Nc3 Ng6 13. Ne4 Nf4 14. Bf1 Qh4 15. h3 Qh5 16. Kd2 Qxf3 17. Qxf3 Nxf3+ 18. Ke3 Nd4 19. Nc5 b6 20. Nd7 Rfe8 21. Nxe5 Rxe5+ 22. Kxd4 Ree8 23. Rg1 Rad8+ 24. Kc3 Ne2+ 25. Bxe2 Rxe2 26. Rgf1 Rd6 27. Rae1 Rxe1 28. Rxe1 Rf6 29. Re2 Kf8 30. Kd4 Rf3 31. h4 Rh3 32. Re4 Rh2 33. Rf4 Rh1 34. b3 Ra1 35. a4 Rb1 36. Kc3 Re1 37. f3 Re6 38. Kd4 Rd6+ 39. Kc3 Ke7 40. Re4+ Kf6 41. h5 Kg5 42. Re7 Rf6 43. Rxc7 Rxf3 44. Rxa7 Kxh5 45. Kb4 Rxd3 46. Rb7 Rd6 47. Kb5 f5 48. Rxb6 f4 49. Rxd6 1-0
+

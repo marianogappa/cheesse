@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/vSHBIUoT"]
+[White "TerrorAtTheOpera"]
+[Black "jorao"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:53"]
+[WhiteElo "1291"]
+[BlackElo "1328"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+10"]
+[ECO "C40"]
+[Opening "Latvian Gambit"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 f5 3. d3 fxe4 4. dxe4 Nc6 5. Bc4 h6 6. Qd5 Qf6 7. Nc3 Nge7 8. Qd3 Nb4 9. Qe2 c6 10. a3 Na6 11. O-O Nc7 12. Be3 b5 13. Ba2 Ne6 14. Rad1 d6 15. Rxd6 Ng6 16. Rxc6 Bb7 17. Rxe6+ Qxe6 18. Bxe6 Ke7 19. Bf5 Nf4 20. Bc5+ Kf6 21. Qxb5 Bxc5 22. Qxc5 Rhe8 23. Qd6+ Kf7 24. Nxe5+ Kg8 25. Re1 Bxe4 26. Rxe4 Rxe5 27. Rxe5 Ne2+ 28. Rxe2 Rf8 29. Qe7 Rxf5 30. Rd2 Rf8 31. h3 h5 32. Rd7 Rf7 0-1
+

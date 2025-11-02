@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/yXdhLE2Q"]
+[White "shiroikaeru"]
+[Black "Horrible_at_Chess"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:44"]
+[WhiteElo "1102"]
+[BlackElo "1259"]
+[WhiteRatingDiff "+214"]
+[BlackRatingDiff "-11"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Bf4 e6 3. e3 Qh4 4. Nf3 Qg4 5. Bxc7 Qe4 6. Bxb8 Rxb8 7. Bd3 Qg4 8. a3 e5 9. O-O exd4 10. Nxd4 Bf5 11. Qxg4 Bxg4 12. Bb5+ Kd8 13. c3 Bc5 14. Nd2 Bxd4 15. cxd4 Bd7 16. Bxd7 Kxd7 17. Nf3 Nf6 18. b4 Ne4 19. Rfc1 Nd2 20. Rc5 Rbc8 21. Rxd5+ Ke6 22. Re5+ Kd6 23. h3 Nxf3+ 24. gxf3 f6 25. Rc5 Rxc5 26. bxc5+ Kd5 27. Kg2 b6 28. cxb6 axb6 29. Rb1 Kc6 30. Rb3 Ra8 31. Kf1 b5 32. Ke2 Kb6 33. Kd3 Ka5 34. Rb4 g6 35. Ke4 f5+ 36. Kf4 Rc8 37. Rb2 Rc3 38. Kg5 Rxa3 39. Kh6 b4 40. Kxh7 Ka4 41. Kxg6 Rb3 42. Rxb3 Kxb3 43. h4 Kc4 44. h5 b3 45. h6 b2 46. h7 b1=Q 47. h8=Q Qg1+ 48. Kxf5 Qb1+ 49. e4 Qb5+ 50. Qe5 Kd3 51. Qxb5+ Kxd4 52. Qd5+ Kc3 53. e5 1-0
+

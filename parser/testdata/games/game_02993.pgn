@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/GVKtmxO6"]
+[White "untaltal"]
+[Black "butofcourshh"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:12"]
+[WhiteElo "1879"]
+[BlackElo "1848"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+11"]
+[ECO "C00"]
+[Opening "Rat Defense: Small Center Defense"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 e6 3. Nc3 Be7 4. Be3 Nd7 5. Bd3 Nf8 6. Nf3 g5 7. h3 h6 8. Nd2 Bd7 9. Qe2 a6 10. f4 b5 11. a3 Qb8 12. d5 b4 13. dxe6 Bxe6 14. Nd1 bxa3 15. Rxa3 d5 16. Rxa6 Rxa6 17. Bxa6 c6 18. exd5 Bxd5 19. Bc4 gxf4 20. Bd4 Bxc4 21. Qxc4 Bh4+ 22. Kf1 Qd6 23. Bxh8 Qxd2 24. Qe2+ Qxe2+ 25. Kxe2 f6 26. Bg7 Ne6 27. Bh8 Kf7 28. Nc3 Ne7 29. Ne4 Ng6 30. Nd6+ Kg8 31. Bxf6 Bxf6 32. c3 Be7 33. Nf5 Bf8 34. Ra1 Kf7 35. Nd4 Nxd4+ 36. cxd4 Ke6 37. Kd3 Nh4 38. Re1+ Kd6 39. Re2 Bg7 40. b4 Kd5 41. Rf2 Ng6 42. g4 Bxd4 43. Rf3 Ne5+ 44. Ke2 Nxf3 45. Kxf3 Be5 46. h4 Bd6 47. g5 hxg5 48. hxg5 Ke6 49. Kg4 Kf7 50. Kf3 Kg6 51. Kg4 f3 52. Kxf3 Kxg5 53. Ke4 Bxb4 54. Kd4 c5+ 55. Kc4 Kf4 56. Kb3 Ke3 57. Kc2 Ke2 58. Kc1 Bd2+ 59. Kc2 c4 60. Kb1 c3 61. Kc2 Ke3 62. Kd1 Kd4 63. Kc2 Kc4 64. Kb1 Kb3 65. Ka1 Kc2 66. Ka2 Kc1 67. Kb3 Kb1 0-1
+

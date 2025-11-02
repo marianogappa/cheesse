@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yLdqo0Zi"]
+[White "fernandoferreira"]
+[Black "pierropass"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:05"]
+[WhiteElo "1660"]
+[BlackElo "1752"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e3 e5 2. Ne2 d5 3. d3 Nf6 4. Nd2 Nc6 5. g3 Bg4 6. Bg2 Bd6 7. h3 Be6 8. g4 h6 9. f4 exf4 10. exf4 g6 11. Nb3 Qe7 12. Qd2 Bd7 13. Bf3 O-O-O 14. c3 Rde8 15. Nd4 Nxd4 16. cxd4 h5 17. Bg2 hxg4 18. hxg4 Rxh1+ 19. Bxh1 Nxg4 20. Bf3 Ne3 21. b3 Qh4+ 22. Ng3 Qxg3+ 23. Qf2 Nc2+ 24. Kf1 Re1+ 25. Qxe1 Qxe1+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/OCAAx1HD"]
+[White "sossa_bang"]
+[Black "reguideste"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:58"]
+[WhiteElo "1380"]
+[BlackElo "1401"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 Nc6 3. Bxf7+ Kxf7 4. Qh5+ g6 5. Qxc5 e6 6. Qe3 b6 7. Qf3+ Ke8 8. Ne2 Ne5 9. Qf4 Bd6 10. O-O Qe7 11. Nd4 Nf7 12. e5 Bxe5 13. Qe4 Qd6 14. Qxa8 Qc5 15. c3 Bd6 16. Na3 Ne7 17. Nab5 Qe5 18. Nxd6+ Nxd6 19. Qxa7 Nef5 20. Nxf5 Qxf5 21. Qxb6 Ke7 22. d4 Bb7 23. d5 Qxd5 24. f3 Rf8 25. Bh6 Rf7 26. Rfd1 Qh5 27. Qxd6+ Kd8 28. Qb6+ Kc8 29. Be3 Bxf3 30. Qa6+ Kd8 31. Bb6+ Ke8 32. Qc8+ Ke7 33. Bc5+ Kf6 34. Bd4+ e5 35. Qa6+ Ke7 36. Bc5+ d6 37. Qa7+ Kf6 38. Rxd6+ Kf5 39. Qxf7+ Ke4 40. Qxf3+ Qxf3 41. gxf3+ Kf4 42. Kg2 g5 1-0
+

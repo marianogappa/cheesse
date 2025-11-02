@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/12OYa4Dd"]
+[White "camarareis"]
+[Black "FabioPessoa"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:59"]
+[WhiteElo "1936"]
+[BlackElo "1865"]
+[WhiteRatingDiff "+46"]
+[BlackRatingDiff "-8"]
+[ECO "C87"]
+[Opening "Ruy Lopez: Closed Variations, Averbakh Variation"]
+[TimeControl "600+10"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 O-O 8. h3 b5 9. Bc2 Nb8 10. a4 c6 11. d4 Nbd7 12. Nbd2 Bb7 13. Nf1 c5 14. d5 c4 15. Ng3 Nc5 16. axb5 axb5 17. Rxa8 Qxa8 18. Nf5 Re8 19. g4 g6 20. Nh6+ Kg7 21. Qd2 Qd8 22. Ng5 Rf8 23. h4 Bc8 24. f3 Nd3 25. Bxd3 cxd3 26. Nh3 Bd7 27. Qxd3 Qb6+ 28. Be3 Qa5 29. Kh2 Ra8 30. Kg3 Qa2 31. Re2 Qa1 32. Rg2 Ra2 33. Qc2 Qe1+ 34. Bf2 Qa1 35. Rg1 Qxb2 36. Qxb2 Rxb2 37. Be3 Rc2 38. Ra1 Rxc3 39. Bg5 Nxe4+ 40. Kg2 Nxg5 41. hxg5 Rc2+ 42. Kg3 Rc7 43. Ra8 Bf8 44. Nf2 f6 45. gxf6+ Kxh6 46. Rxf8 g5 47. Ne4 Rc8 48. Rf7 Be8 49. Rg7 Rd8 50. Rxg5 Bf7 51. Rg7 Bxd5 52. Kh4 1-0
+

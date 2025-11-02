@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/1suDu44q"]
+[White "sueli"]
+[Black "DaVinci021"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:29"]
+[WhiteElo "1401"]
+[BlackElo "1323"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "480+8"]
+[Termination "Normal"]
+
+1. e3 d5 2. b3 Nh6 3. Bb2 Nc6 4. Be2 e5 5. Nf3 e4 6. Ne5 Be7 7. Bh5 Nxe5 8. Bxe5 Bf6 9. Bc3 Bxc3 10. Nxc3 O-O 11. Qb1 f6 12. Qb2 Be6 13. Nb5 Qd7 14. Nd4 Bf7 15. Bxf7+ Nxf7 16. O-O-O c5 17. Ne2 b5 18. f3 c4 19. fxe4 dxe4 20. b4 Rac8 21. Nd4 a6 22. Rdf1 Qd8 23. Rf4 a5 24. c3 a4 25. Rxe4 f5 26. Nxf5 Qd3 27. Rd4 Qxf5 28. Rf4 Qd5 29. Rhf1 Rc7 30. R1f3 Ng5 31. Rg3 h6 32. Rd4 Qf5 33. Rf4 Qc8 34. h4 Rxf4 35. exf4 Ne4 36. Re3 Nf2 37. Qc2 Ng4 38. Rg3 h5 39. Qg6 Rc6 40. Qxh5 Nh6 41. Qd5+ Kh8 42. Qxb5 Qe6 43. Qb8+ Rc8 44. Qb5 Qe1+ 45. Kc2 Qxg3 46. Qd7 Rg8 47. Qd4 Qxh4 48. Qxc4 Nf5 49. Qb5 Nd6 50. Qxa4 Qxf4 51. Qc6 Qf5+ 52. Kc1 Nb5 53. a4 Na3 54. Kb2 Nb1 55. Kc1 Qf1+ 56. Kb2 Nxd2 57. Qd5 Qb1+ 58. Ka3 Qa1+ 59. Qa2 Qc1+ 60. Qb2 Nc4+ 61. Kb3 Qxb2+ 62. Kxc4 Qxg2 63. a5 Rc8+ 64. Kb3 Qd5+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/WaEcbwSa"]
+[White "KelvinCarlton"]
+[Black "scrauler"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:15"]
+[WhiteElo "1699"]
+[BlackElo "1521"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. g3 e6 2. Bg2 Ne7 3. Nf3 g6 4. O-O Bg7 5. d3 O-O 6. e4 d6 7. Nc3 Nd7 8. Bg5 b6 9. Qd2 Bb7 10. Bh6 Nf6 11. Bxg7 Kxg7 12. h3 e5 13. Ng5 Bc8 14. Nf3 Qd7 15. d4 exd4 16. Nd5 Nexd5 17. exd5 Nxd5 18. Nxd4 c5 19. Bxd5 Bb7 20. Bxb7 Qxb7 21. Ne2 Rae8 22. Qd5 Re5 23. Qd2 Rfe8 24. Rfe1 Rxe2 25. Rxe2 Qd7 26. Rxe8 Qxe8 27. Re1 Qc6 28. Re8 d5 29. Re5 d4 30. Re2 Qd6 31. Qf4 Qxf4 32. gxf4 f5 33. Re7+ Kh6 34. Rxa7 Kh5 35. Rb7 1-0
+

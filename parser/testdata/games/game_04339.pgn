@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/E8Kq854E"]
+[White "brocoli"]
+[Black "erkamgulbahar"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:42"]
+[WhiteElo "1595"]
+[BlackElo "2004"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+2"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qd1 e5 5. Nf3 Nf6 6. Bb5 Nxe4 7. Bxc6 bxc6 8. Qe2 d5 9. Nxe5 Qf6 10. f3 Qxe5 11. fxe4 Qxe4 12. Qxe4+ dxe4 13. O-O Bc5+ 14. Kh1 O-O 15. Nc3 Re8 16. Re1 f5 17. Na4 Bf2 18. Rf1 e3 19. Nc3 Ba6 20. Rxf2 exf2 21. Bg5 Re1+ 22. Rxe1 fxe1=R# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dQ1dlOd4"]
+[White "malmost"]
+[Black "SandiNurAgung"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:30"]
+[WhiteElo "1502"]
+[BlackElo "1606"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Scandinavian Variation, Advance Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. d4 d5 3. e5 Bf5 4. Bd3 e6 5. Nf3 Bb4+ 6. c3 Ba5 7. O-O Nge7 8. a4 a6 9. Bg5 O-O 10. b4 Bb6 11. a5 Ba7 12. Bxf5 Nxf5 13. Nbd2 Qd7 14. c4 Ncxd4 15. Nxd4 Bxd4 16. Ra2 h6 17. Bh4 dxc4 18. Nxc4 Rad8 19. Rd2 Nxh4 20. Nb2 Nf5 21. Nd3 Kh8 22. Nc5 Qd5 23. Qg4 b6 24. Nxa6 Qc4 25. axb6 Qxa6 26. bxc7 Rd7 27. Rc1 Rxc7 28. Rxc7 Qa1+ 29. Rd1 Qb2 30. h4 Qxb4 31. Qh5 Qb6 32. Rxf7 Rxf7 33. Qxf7 Bxf2+ 34. Kh2 Qe3 35. h5 Qg3+ 36. Kh1 Qh4# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/TUxC4xWX"]
+[White "Tinm"]
+[Black "schoeneckerdeep"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:02"]
+[WhiteElo "1841"]
+[BlackElo "1592"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "C30"]
+[Opening "King's Gambit Declined, Keene Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.39] } 1... e5 { [%eval 0.36] } 2. f4?! { [%eval -0.16] } 2... Qh4+?! { [%eval 0.47] } 3. g3 { [%eval 0.32] } 3... Qe7 { [%eval 0.66] } 4. f5? { [%eval -0.7] } 4... d5 { [%eval -0.62] } 5. d3 { [%eval -0.45] } 5... dxe4 { [%eval -0.06] } 6. dxe4 { [%eval -0.18] } 6... Nc6 { [%eval -0.1] } 7. Nc3 { [%eval -0.3] } 7... Bd7 { [%eval -0.13] } 8. Nf3 { [%eval -0.06] } 8... O-O-O { [%eval 0.04] } 9. Bd3 { [%eval -0.37] } 9... Nf6 { [%eval -0.24] } 10. Bg5 { [%eval -0.43] } 10... h6 { [%eval -0.17] } 11. Be3?! { [%eval -0.76] } 11... Ng4?! { [%eval 0.04] } 12. Qd2 { [%eval -0.25] } 12... Nxe3 { [%eval -0.21] } 13. Qxe3 { [%eval -0.28] } 13... Kb8 { [%eval -0.18] } 14. O-O-O { [%eval -0.2] } 14... Nd4 { [%eval 0.12] } 15. Nxd4?! { [%eval -0.49] } 15... exd4 { [%eval -0.32] } 16. Qxd4 { [%eval -0.55] } 16... Bxf5 { [%eval -0.55] } 17. Qa4 { [%eval -0.41] } 17... Bd7 { [%eval -0.3] } 18. Qb3 { [%eval -0.43] } 18... Be6 { [%eval 0.0] } 19. Nd5? { [%eval -2.86] } 19... c6?? { [%eval 0.71] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rTIgAxIO"]
+[White "trothan"]
+[Black "zoulum"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:33"]
+[WhiteElo "1731"]
+[BlackElo "1594"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense #2"]
+[TimeControl "180+2"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Be7 4. e4 O-O 5. e5 Ne8 6. f4 d6 7. Nf3 c5 8. d5 b6 9. Be3 f6 10. Qd2 fxe5 11. fxe5 exd5 12. Nxd5 Bb7 13. O-O-O Rf5 14. Nxe7+ Qxe7 15. Bd3 Rh5 16. exd6 Nxd6 17. Rhe1 Qf6 18. Bxh7+ Kxh7 19. Qxd6 Qf5 20. Rf1 Qe4 21. Ng5+ Rxg5 22. Bxg5 Qxg2 23. Qd3+ Kg8 24. Qd8+ Kh7 25. Qd3+ Kg8 26. Rg1 Qe4 27. Bh6 Kh7 28. Rxg7+ Kxh6 29. Qd2+ Kxg7 30. Rg1+ Kf6 31. Qg5+ Ke6 32. Qg8+ Kf5 33. Qh7+ Ke5 34. Rg5+ Kd4 35. Qd7+ Kxc4 36. Rg4 Qd4 37. Rxd4+ cxd4 38. Qxb7 Na6 39. Qxa8 Kb5 40. Qxa7 Nb4 41. Qa3 1-0
+

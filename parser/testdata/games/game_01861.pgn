@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/TfFBwwtG"]
+[White "kurzeme"]
+[Black "Klushki-com"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:58"]
+[WhiteElo "1902"]
+[BlackElo "1885"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-10"]
+[ECO "A40"]
+[Opening "English Defense #2"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. d4 b6 2. c3 Bb7 3. e3 e6 4. f4 Nf6 5. Nf3 d5 6. Bd3 Nbd7 7. O-O c5 8. Nbd2 c4 9. Bc2 Be7 10. Qe2 O-O 11. e4 h6 12. e5 Ne4 13. Nxe4 dxe4 14. Bxe4 Bxe4 15. Qxe4 f5 16. exf6 Nxf6 17. Qxe6+ Kh8 18. Ne5 Re8 19. Nf7+ Kg8 20. Nxd8+ Kf8 21. Qf7# 1-0
+

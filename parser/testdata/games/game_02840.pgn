@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9GMUk7Mt"]
+[White "Aisolon18"]
+[Black "Chemix"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:35"]
+[WhiteElo "1568"]
+[BlackElo "1306"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-5"]
+[ECO "A22"]
+[Opening "English Opening: Carls-Bremen System"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. c4 { [%eval 0.18] } 1... e5 { [%eval 0.03] } 2. Nc3 { [%eval 0.0] } 2... Nf6 { [%eval 0.07] } 3. g3 { [%eval -0.06] } 3... Nc6 { [%eval 0.1] } 4. Bg2 { [%eval 0.18] } 4... d5? { [%eval 1.29] } 5. cxd5 { [%eval 1.18] } 5... Ne7 { [%eval 1.55] } 6. e4 { [%eval 1.63] } 6... Bg4?! { [%eval 2.29] } 7. Nf3?! { [%eval 1.59] } 7... Qd6?! { [%eval 2.28] } 8. O-O { [%eval 2.32] } 8... c6 { [%eval 2.18] } 9. dxc6? { [%eval 1.06] } 9... Qxc6? { [%eval 2.64] } 10. Re1?! { [%eval 2.04] } 10... Qc4? { [%eval 3.97] } 11. h3? { [%eval 1.91] } 11... Bh5?? { [%eval 5.25] } 12. d3? { [%eval 2.91] } 12... Qc6? { [%eval 4.43] } 13. Qc2? { [%eval 2.18] } 13... Rc8?? { [%eval 5.58] } 14. Nxe5 { [%eval 5.18] } 14... Qe6 { [%eval 5.66] } 15. Nc4 { [%eval 5.28] } 15... Nc6 { [%eval 5.15] } 16. Bd2 { [%eval 4.91] } 16... Bc5? { [%eval 6.27] } 17. Nd5?? { [%eval 2.79] } 17... Nd4 { [%eval 2.87] } 18. Qc3 { [%eval 2.66] } 18... Nxd5?? { [%eval 6.07] } 19. exd5 { [%eval 5.64] } 19... Ne2+ { [%eval 5.58] } 20. Rxe2 { [%eval 5.66] } 20... Qxe2 { [%eval 5.64] } 21. Be3 { [%eval 5.52] } 21... Bxe3 { [%eval 5.46] } 22. fxe3 { [%eval 5.32] } 22... O-O? { [%eval 6.4] } 23. Re1 { [%eval 6.02] } 23... Rxc4?? { [%eval 11.53] } 24. dxc4 { [%eval 11.11] } 1-0
+

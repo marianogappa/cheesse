@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6f0w8sdQ"]
+[White "balack"]
+[Black "zalik92"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:04"]
+[WhiteElo "2308"]
+[BlackElo "2320"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "E44"]
+[Opening "Nimzo-Indian Defense: Fischer Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. a3 Bxc3+ 7. Nxc3 d6 8. Bd3 O-O 9. O-O Nbd7 10. e4 e5 11. d5 a5 12. Rb1 Nc5 13. Bc2 Qe7 14. b4 Ncd7 15. Nb5 Rfc8 16. Re1 Ba6 17. Ba4 g6 18. Bg5 Kg7 19. Qd3 h6 20. Bd2 Nh5 21. g3 Nhf6 22. bxa5 bxa5 23. Bxa5 Bxb5 24. Rxb5 Nc5 25. Qc2 Ra7 26. Bb3 Ncxe4 27. Rxe4 Nxe4 28. Qxe4 f5 29. Qe3 Rca8 30. Bb4 g5 31. f4 gxf4 32. gxf4 e4 33. Rb8 Kh7 34. Rxa8 Rxa8 35. Bd1 Rg8+ 36. Kh1 Qg7 37. Qg3 Qa1 38. Qe1 Qa2 39. Be2 Qb3 40. Qc3 Qb1+ 41. Qe1 Qb3 42. Bf1 Qf3+ 43. Bg2 Qxg2# 0-1
+

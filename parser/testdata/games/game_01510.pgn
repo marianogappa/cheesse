@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ivGcyGE4"]
+[White "Gregster101"]
+[Black "merip"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:32"]
+[WhiteElo "1522"]
+[BlackElo "1503"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "B33"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Schlechter Variation"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nb3 Bb4 7. Bd2 Bxc3 8. Bxc3 Nxe4 9. Qf3 Nxc3 10. Qxc3 O-O 11. O-O-O Qg5+ 12. Kb1 d5 13. Rxd5 Be6 14. Rd1 Rfd8 15. Rxd8+ Rxd8 16. a3 Rd1+ 17. Ka2 Bxb3+ 18. Kxb3 Nd4+ 19. Ka2 h6 20. h4 Qc1 21. Qxd4 Rxd4 22. Rh3 Qxf1 23. Rb3 0-1
+

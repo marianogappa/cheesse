@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Nz6qvmsi"]
+[White "Jalalattar"]
+[Black "sharky2017"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:05"]
+[WhiteElo "1667"]
+[BlackElo "1671"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 g6 4. Nf3 Bg7 5. Bg5 Bg4 6. e3 Bxf3 7. Qxf3 Nc6 8. Bxc4 Nf6 9. Ne4 O-O 10. Nxf6+ exf6 11. Bh4 a6 12. Bg3 b5 13. Bd5 Nb4 14. Bb3 Nd3+ 15. Ke2 Nxb2 16. Rac1 c5 17. Rxc5 Re8 18. Rhc1 Qxd4 19. Rd5 Qb6 20. Kf1 Rad8 21. Bc7 Rxd5 22. Bxb6 Rd6 23. Bd4 Nd3 24. Rc7 Rf8 25. Qe2 Ne5 26. Bc5 Rd7 27. Rxd7 Nxd7 28. Bxf8 Bxf8 29. Qf3 a5 30. Qd5 Ne5 31. f4 a4 32. fxe5 a3 33. Qxf7+ 1-0
+

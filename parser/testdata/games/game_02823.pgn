@@ -1,0 +1,18 @@
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/heTYNfSg"]
+[White "BioHazaaard"]
+[Black "Rustlane"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:35"]
+[WhiteElo "1549"]
+[BlackElo "1874"]
+[WhiteRatingDiff "+109"]
+[BlackRatingDiff "-34"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "-"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nc6 3. Qh5 Qf6 4. d3 h6 5. Bg5 Qxg5 6. Qxf7+ Kd8 7. Qxf8# 1-0
+

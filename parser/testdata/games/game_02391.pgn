@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/cls7fNDe"]
+[White "rovkaspa"]
+[Black "TCF_Megawhoop"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:05"]
+[WhiteElo "1912"]
+[BlackElo "1858"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "B07"]
+[Opening "Pirc Defense #4"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. Nc3 c6 3. d4 Qc7 4. f4 e5 5. Nf3 Bg4 6. fxe5 dxe5 7. Be2 Nd7 8. d5 Ngf6 9. O-O Be7 10. dxc6 Qxc6 11. Be3 a6 12. h3 Bh5 13. Nd5 Bc5 14. Nxf6+ Nxf6 15. Qd2 Rd8 16. Qc1 Qb6 17. Bxc5 Qxc5+ 18. Kh1 O-O 19. Qg5 Rfe8 20. Bd3 h6 21. Qf5 Bg6 22. Nh4 Bxf5 23. Nxf5 Rxd3 24. cxd3 Qc2 25. Nxh6+ gxh6 26. Rxf6 Qxb2 27. Raf1 Re7 28. Rxh6 Kg7 29. Rff6 Qc1+ 30. Kh2 Qxh6 31. Rxh6 Kxh6 32. Kg3 Rd7 33. Kf3 Rxd3+ 34. Ke2 Ra3 35. Kf2 Rxa2+ 36. Kg3 Rc2 37. Kh2 b5 38. Kg3 b4 39. Kg4 b3 40. Kf5 b2 41. g4 b1=Q 42. g5+ Kh5 43. h4 Rf2+ 44. Kxe5 Re2 45. Kd5 Qxe4+ 0-1
+

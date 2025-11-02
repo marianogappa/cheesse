@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/DXcedQcR"]
+[White "witold22"]
+[Black "Viu"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:07"]
+[WhiteElo "1792"]
+[BlackElo "1795"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Panov Attack, Modern Defense, Czerniak Line"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.32] } 1... c6 { [%eval 0.39] } 2. d4 { [%eval 0.3] } 2... d5 { [%eval 0.41] } 3. exd5 { [%eval 0.31] } 3... cxd5 { [%eval 0.29] } 4. c4 { [%eval 0.24] } 4... Nf6 { [%eval 0.21] } 5. Nc3 { [%eval 0.17] } 5... Nc6 { [%eval 0.12] } 6. Bg5 { [%eval 0.06] } 6... Qa5 { [%eval 0.47] } 7. Bxf6 { [%eval 0.0] } 7... exf6 { [%eval -0.01] } 8. a3 { [%eval -0.2] } 8... dxc4 { [%eval 0.0] } 9. Bxc4 { [%eval -0.21] } 9... Bd6 { [%eval -0.25] } 10. Ne2 { [%eval -0.47] } 10... O-O { [%eval -0.49] } 11. O-O { [%eval -0.54] } 11... Bg4 { [%eval -0.25] } 12. h3 { [%eval -0.35] } 12... Bxe2 { [%eval -0.22] } 13. Nxe2 { [%eval -0.25] } 13... Qb6 { [%eval 0.05] } 14. b4 { [%eval -0.22] } 14... Rad8 { [%eval -0.22] } 15. b5?! { [%eval -0.74] } 15... Nxd4 { [%eval -0.68] } 16. Nxd4 { [%eval -0.59] } 16... Be5 { [%eval -0.66] } 17. Qh5 { [%eval -1.1] } 17... Rxd4 { [%eval -1.02] } 18. Be2 { [%eval -1.45] } 18... g6 { [%eval -1.35] } 19. Qf3 { [%eval -1.56] } 19... Rf4 { [%eval -1.6] } 20. Qb3?? { [%eval -6.42] } 20... Bxa1 { [%eval -6.42] } 21. g3 { [%eval -6.87] } 21... Rf5 { [%eval -6.65] } 22. Bg4?? { [%eval -9.9] } 22... Rxb5 { [%eval -9.49] } 23. Qf3?! { [%eval -10.2] } 23... Rb3 { [%eval -9.79] } 24. Qf4 { [%eval -10.87] } 24... Be5 { [%eval -10.33] } 25. Qh6?! { [%eval #-7] } 25... Rxg3+ { [%eval #-6] } 0-1
+

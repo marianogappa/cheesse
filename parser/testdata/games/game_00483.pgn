@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/0PMWGCP9"]
+[White "chrisjb510"]
+[Black "georgatos00"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:48"]
+[WhiteElo "1472"]
+[BlackElo "1512"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "300+6"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 Qf6 6. Qxf6 Nxf6 7. Nc3 Bb4 8. e5 Nh5 9. Bd2 O-O 10. g4 Bxc3 11. Bxc3 Nf4 12. O-O-O b6 13. h4 Bb7 14. Rg1 Bf3 15. Rxd7 c5 16. g5 Be2 17. Bg2 Bg4 18. Kb1 Bxd7 19. Bxa8 Rxa8 20. Rg4 Bxg4 0-1
+

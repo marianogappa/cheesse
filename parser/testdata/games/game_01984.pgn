@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/0aUITjih"]
+[White "bgdasilveira"]
+[Black "Redipicche"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:29"]
+[WhiteElo "1569"]
+[BlackElo "1582"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-13"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Paulsen-Basman Defense"]
+[TimeControl "1500+10"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 c5 3. Nf3 cxd4 4. Nxd4 Bc5 5. Nc3 Qf6 6. Be3 b6 7. Na4 Bb4+ 8. c3 Bc5 9. Nxc5 bxc5 10. Nb5 Qe5 11. Nd6+ Kd8 12. Nxf7+ Ke7 13. Nxe5 d6 14. Bxc5 dxc5 15. Bc4 Nd7 16. Nxd7 Bxd7 17. O-O Rd8 18. Qg4 g6 19. Qf4 Nf6 20. Rad1 Bc6 21. Qc7+ Bd7 22. Qxc5+ Ke8 23. e5 Ne4 24. Qxa7 Rf8 25. Qc7 Rf7 26. Bxe6 Re7 27. Bxd7+ Rexd7 28. Rxd7 Rxd7 29. Qc6 Nd2 30. e6 1-0
+

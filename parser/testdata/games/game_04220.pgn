@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/eN8UQ0NV"]
+[White "jorao"]
+[Black "TerrorAtTheOpera"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:08"]
+[WhiteElo "1338"]
+[BlackElo "1276"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+19"]
+[ECO "C30"]
+[Opening "King's Gambit: Panteldakis Countergambit, Greco Variation"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.31] } 1... e5 { [%eval 0.39] } 2. f4 { [%eval -0.02] } 2... f5 { [%eval 0.39] } 3. exf5 { [%eval 0.3] } 3... Qh4+?! { [%eval 1.04] } 4. g3 { [%eval 0.95] } 4... Qh6? { [%eval 2.94] } 5. d4? { [%eval 0.53] } 5... exf4? { [%eval 2.19] } 6. Bxf4 { [%eval 1.66] } 6... Qc6?! { [%eval 2.54] } 7. Nf3 { [%eval 2.41] } 7... d6? { [%eval 3.84] } 8. Nc3 { [%eval 3.24] } 8... Bxf5?? { [%eval 8.66] } 9. d5?? { [%eval 2.52] } 9... Qd7 { [%eval 2.43] } 10. Qe2+?! { [%eval 1.87] } 10... Be7 { [%eval 2.35] } 11. Ng5 { [%eval 1.92] } 11... Nf6 { [%eval 1.97] } 12. Ne6 { [%eval 2.06] } 12... Bxe6 { [%eval 2.11] } 13. dxe6 { [%eval 2.03] } 13... Qc6 { [%eval 2.23] } 14. Bg2 { [%eval 2.15] } 14... Qb6 { [%eval 2.2] } 15. Be3 { [%eval 1.81] } 15... Qxb2? { [%eval 3.81] } 16. Rb1?? { [%eval -2.18] } 16... Qxc3+ { [%eval -1.62] } 17. Bd2 { [%eval -2.32] } 17... Qe5?? { [%eval 2.08] } 18. Qxe5 { [%eval 1.96] } 18... dxe5 { [%eval 2.01] } 19. Rxb7?? { [%eval -2.66] } 19... Na6 { [%eval -2.39] } 20. O-O { [%eval -2.79] } 20... O-O { [%eval -2.53] } 21. Bg5 { [%eval -2.81] } 21... h6 { [%eval -2.58] } 22. Be3 { [%eval -3.01] } 22... Bc5? { [%eval -0.91] } 23. Bxc5 { [%eval -1.02] } 23... Nxc5 { [%eval -0.98] } 24. Rxc7? { [%eval -3.47] } 24... Rac8?! { [%eval -2.51] } 25. Rxc8?! { [%eval -3.27] } 25... Rxc8 { [%eval -3.24] } 26. Bh3?! { [%eval -3.96] } 26... Re8 { [%eval -3.89] } 27. Re1 { [%eval -3.92] } 27... Nce4? { [%eval -2.6] } 28. Bf5 { [%eval -2.92] } 28... Nd2 { [%eval -2.66] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ex2D1AQK"]
+[White "waleed-elkomy"]
+[Black "leifman314"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:22"]
+[WhiteElo "1694"]
+[BlackElo "1639"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+12"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "900+0"]
+[Termination "Time forfeit"]
+
+1. e3 e5 2. b3 g6 3. Bb2 Bg7 4. a3 d5 5. c4 c6 6. Qf3 e4 7. Qd1 Bxb2 8. Ra2 Bg7 9. d3 dxc4 10. dxc4 Qxd1+ 11. Kxd1 Nf6 12. Nd2 O-O 13. f3 exf3 14. Ngxf3 Bg4 15. Be2 Bxf3 16. Bxf3 Nbd7 17. Ke2 Ne5 18. Rd1 Nxf3 19. gxf3 Rad8 20. Rg1 Rd7 21. e4 Rfd8 22. h3 Nh5 23. b4 Nf4+ 24. Ke3 Nxh3 25. Rg3 Rd3+ 26. Ke2 Nf4+ 27. Ke1 Bc3 28. Rg4 Ne6 29. Rg2 Bxd2+ 30. Rgxd2 Rxd2 31. Rxd2 Rxd2 32. Kxd2 Nd4 33. Ke3 Nc2+ 34. Kd3 Nxa3 35. Kc3 b5 36. c5 Nc4 37. Kd4 h5 38. f4 h4 39. e5 h3 40. Ke4 h2 41. Kd3 h1=Q 42. Kc2 Qf3 43. Kb1 Qb3+ 44. Kc1 Qa2 0-1
+

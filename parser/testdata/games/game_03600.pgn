@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sMzr6vKO"]
+[White "betyarkorte"]
+[Black "Bretto"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:45"]
+[WhiteElo "1508"]
+[BlackElo "1501"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Bb4 5. c3 Bc5 6. d4 Bb6 7. dxe5 Nxe4 8. Re1 Nxc3 9. Nxc3 O-O 10. Bg5 Qe8 11. Qb3 Kh8 12. Rad1 f6 13. exf6 Qh5 14. f7 d6 15. Re8 Bg4 16. Rxf8+ Rxf8 17. Bc1 Bxf3 18. gxf3 Qxf3 19. Rd2 Nd4 20. Qd1 Qf4 21. Rd3 Nf3+ 22. Rxf3 Qxc4 23. a3 Rxf7 24. Rxf7 Qxf7 25. Be3 Bxe3 26. fxe3 Qg6+ 27. Kf1 Qf5+ 28. Ke1 h6 29. Qe2 Qe5 30. e4 a6 31. Nd5 c6 32. Nb6 Qf4 33. Nd7 Qc1+ 34. Kf2 Qf4+ 35. Kg2 Qg5+ 36. Kf1 Qf4+ 37. Ke1 Qc1+ 38. Kf2 Qf4+ 39. Kg2 Qg5+ 40. Kh1 Qe7 41. Nb6 Qe5 42. Nc4 Qe6 43. Qd3 d5 44. exd5 cxd5 45. Ne3 Qh3 46. Qxd5 Qg3 47. Qd8+ Kh7 48. Qd3+ 1-0
+

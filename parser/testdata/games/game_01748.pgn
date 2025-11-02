@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/o4W9io0Y"]
+[White "hbastien57"]
+[Black "dimapobeditel"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:37"]
+[WhiteElo "2043"]
+[BlackElo "1842"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "180+5"]
+[Termination "Normal"]
+
+1. e3 d5 2. f4 c5 3. Nf3 Nc6 4. Bb5 Qb6 5. c4 dxc4 6. Na3 Bg4 7. Qa4 Bxf3 8. gxf3 O-O-O 9. Nxc4 Qc7 10. Bxc6 Qxc6 11. Qxc6+ bxc6 12. Ne5 Nh6 13. Nxc6 Rd5 14. b3 g5 15. Bb2 Rg8 16. e4 Rd7 17. Ne5 Rd8 18. f5 g4 19. Rc1 e6 20. fxg4 Nxg4 21. Nxf7 Rd3 22. fxe6 Rh3 23. Ne5 Nxh2 24. Rc3 Nf3+ 25. Rxf3 Rxh1+ 26. Ke2 Bg7 27. e7 Re8 28. Rf7 Rh2+ 29. Kd3 Rh3+ 30. Kc4 Bxe5 31. Bxe5 h6 32. Kxc5 h5 33. d4 Kd7 34. Bd6 h4 35. Kd5 Re3 36. e5 h3 37. Rh7 a5 38. Bc5 Rg3 39. e6+ Kc8 40. Kd6 Reg8 41. d5 Re8 42. Bd4 Rg2 43. Rxh3 Rxa2 44. Rf3 Rg2 45. Be5 Rg5 46. Rf8 Rg8 47. Bg7 Kb7 48. Kd7 Rgxf8 49. exf8=Q Rxf8 50. Bxf8 1-0
+

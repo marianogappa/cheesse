@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/24is1XFT"]
+[White "chesschamp123"]
+[Black "hoddi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:24"]
+[WhiteElo "1487"]
+[BlackElo "1614"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-15"]
+[ECO "A43"]
+[Opening "Benoni Defense: Old Benoni"]
+[TimeControl "120+2"]
+[Termination "Normal"]
+
+1. d4 c5 2. d5 d6 3. e4 b5 4. Bxb5+ Bd7 5. Qd3 Qa5+ 6. Bd2 Qxb5 7. Qxb5 Bxb5 8. Nc3 Nf6 9. O-O-O g6 10. Nf3 Bg7 11. Nxb5 O-O 12. Nc7 Na6 13. Nxa8 Rxa8 14. Bc3 Nc7 15. Bxf6 Bxf6 16. Rhe1 Rb8 17. c3 Na6 18. e5 dxe5 19. Nxe5 Rd8 20. Re2 Nc7 21. Red2 e6 22. Nf3 Nxd5 23. g4 Rb8 24. g5 Bg7 25. h4 Nf4 26. Rd8+ Rxd8 27. Rxd8+ Bf8 28. Ra8 Nd3+ 29. Kd2 Nxf2 30. Rxa7 Ne4+ 31. Kc2 Ng3 32. Ne5 Nf5 33. Nxf7 Nxh4 34. Nh6+ Bxh6 35. gxh6 Nf5 36. Rc7 Nxh6 37. Rxc5 Nf5 38. a4 h5 39. a5 Ne7 40. a6 Nd5 41. a7 Nb6 42. Rb5 Na8 43. Rb8+ Kg7 44. Rxa8 h4 45. Rc8 h3 46. a8=Q 1-0
+

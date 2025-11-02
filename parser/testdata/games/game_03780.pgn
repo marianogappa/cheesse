@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5XY6waJF"]
+[White "Plattfuss"]
+[Black "svalka"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:31"]
+[WhiteElo "2369"]
+[BlackElo "2261"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "B45"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+[TimeControl "180+2"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bb4 7. a3 Bxc3+ 8. Nxc3 d5 9. exd5 exd5 10. Bd3 d4 11. Ne2 O-O 12. O-O Bg4 13. f3 Bh5 14. Bg5 Bg6 15. Bh4 Qd6 16. Bg3 Qd7 17. Bxg6 hxg6 18. Qd2 Rfd8 19. Rad1 Rac8 20. Bf2 Qf5 21. Bxd4 Qb5 22. c3 Ne5 23. Qc2 Nc4 24. Rb1 Nd5 25. a4 Qd7 26. Qd3 Re8 27. Rfe1 g5 28. b3 Nce3 29. c4 Nf4 30. Nxf4 gxf4 31. Qc3 Qf5 32. Bxe3 Rxe3 33. Rxe3 fxe3 34. Re1 Re8 35. Rxe3 Qb1+ 36. Kf2 Qa2+ 37. Kg3 Rd8 38. Qe1 Rd2 39. Re8+ Kh7 40. Qe4+ 1-0
+

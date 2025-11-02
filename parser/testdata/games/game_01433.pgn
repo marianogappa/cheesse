@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RZycX4r4"]
+[White "pippol8"]
+[Black "priorchess"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:21"]
+[WhiteElo "1847"]
+[BlackElo "1681"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "C40"]
+[Opening "Elephant Gambit: Paulsen Countergambit"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Ng1 Nf6 5. Nc3 Bc5 6. Qe2 O-O 7. Qc4 Bd4 8. Qxd4 c5 9. Qe3 Nbd7 10. Be2 Nb6 11. Nh3 Nbxd5 12. Nxd5 Nxd5 13. Qxc5 f5 14. O-O Kh8 15. Bc4 f4 16. Ng5 Qxg5 17. Qxd5 Qg6 18. d3 f3 19. g3 Bf5 20. dxe4 Bxe4 21. Qg5 Qc6 22. Bb3 Rf5 23. Qe3 Raf8 24. Bd2 Qe8 25. Rfe1 Qh5 26. Bc4 Bc6 27. Bf1 Re8 28. Qxa7 Rd5 29. Bc3 Qf7 30. Bc4 Rxe1+ 31. Rxe1 h6 32. Qb8+ Kh7 33. Qf4 Qxf4 34. gxf4 Rd8 35. Bd3+ Kh8 36. Re7 Rg8 37. Bc4 b5 38. Bxg8 Kxg8 39. Rxg7+ Kf8 40. Rg6 Be4 41. Rxh6 Bxc2 42. Rb6 Kf7 43. Rxb5 Ke6 44. a3 Bd1 45. Re5+ Kd6 46. Bd4 Be2 47. Rc5 Ke6 48. b4 Kd6 49. b5 Kd7 50. a4 Kd6 51. a5 Kd7 52. a6 Bd3 53. a7 Be4 54. b6 Ba8 55. Kf1 Kd6 56. Ke1 Be4 57. Kd2 Ba8 58. Ke3 Bb7 59. f5 Ba8 60. Kf4 Bb7 61. Kg5 Ba8 62. Kg6 Bb7 63. Kg7 Ke7 64. f6+ Kd6 65. f7 Bc6 66. f8=Q+ Kd7 67. Qf6 Be4 68. Be5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/WvW9ZkAS"]
+[White "Nikola89"]
+[Black "davorin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:37"]
+[WhiteElo "1729"]
+[BlackElo "1618"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[ECO "B07"]
+[Opening "Pirc Defense #5"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 g6 3. Nf3 Bg7 4. c4 e6 5. Nc3 Ne7 6. Be3 O-O 7. Qd2 Nd7 8. h4 f5 9. Bg5 h5 10. O-O-O Nf6 11. e5 dxe5 12. Nxe5 b6 13. Qe2 Bb7 14. f3 a5 15. Rg1 Qe8 16. g4 fxg4 17. fxg4 Nxg4 18. Nxg4 hxg4 19. Qxe6+ Rf7 20. h5 gxh5 21. Re1 Kf8 22. d5 Rd8 23. Rh1 Rd6 24. Qe4 Bf6 25. Bh6+ Kg8 26. Rxh5 Rh7 27. Bd3 Qf7 28. Qxg4+ Bg7 29. Bxh7+ Kxh7 30. Bxg7+ Qxh5 31. Qxh5+ Kxg7 32. Rxe7+ Kf8 33. Qf7# 1-0
+

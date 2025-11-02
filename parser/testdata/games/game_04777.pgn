@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/Pf5XA0bA"]
+[White "gokupar"]
+[Black "MizginBae"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:24"]
+[WhiteElo "1282"]
+[BlackElo "1897"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e3 c5 2. d4 cxd4 3. exd4 e6 4. c3 b6 5. Nf3 Bb7 6. Bg5 Be7 7. Bf4 Nf6 8. Bxb8 Rxb8 9. Ne5 O-O 10. Bd3 Bxg2 11. Rg1 Be4 12. Ng4 Bxd3 13. Qxd3 Nxg4 14. Rxg4 Bf6 15. Qg3 Qe7 16. Nd2 e5 17. Ne4 exd4 18. cxd4 d5 19. O-O-O dxe4 20. Re1 Rfc8+ 21. Kb1 Qc7 22. Rf4 Qc2+ 23. Ka1 Qc1+ 24. Rxc1 Rxc1# 0-1
+

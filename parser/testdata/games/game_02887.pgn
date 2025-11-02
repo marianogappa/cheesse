@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rp9UEIVC"]
+[White "Ruslan1106"]
+[Black "tom2323"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:48"]
+[WhiteElo "1409"]
+[BlackElo "1856"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation #2"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. e5 d5 3. d4 c5 4. c3 Qa5 5. Bd2 Qb6 6. b3 Nc6 7. Qh5 cxd4 8. cxd4 Qxd4 9. Nc3 Nxe5 10. Nb5 Qe4+ 11. Ne2 Nf6 12. Qh3 Nd3+ 13. Kd1 Nxf2+ 14. Ke1 Nxh3 15. Nd6+ Bxd6 16. Rc1 Ng4 17. gxh3 Qxh1 18. Bg5 Nxh2 19. Ng3 Bxg3+ 20. Kd1 Nxf1 21. Kc2 Qg2+ 22. Kb1 Qe4+ 23. Ka1 Qe5+ 24. Kb1 Qxg5 25. Rxf1 Bd7 26. Rc1 Qg6+ 27. Ka1 Be5+ 28. Rc3 Bxc3# 0-1
+

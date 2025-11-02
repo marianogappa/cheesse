@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BZtIpAzd"]
+[White "JordanPocco"]
+[Black "remactep"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:36"]
+[WhiteElo "1372"]
+[BlackElo "1389"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "B00"]
+[Opening "Barnes Defense"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 f6 2. d4 e5 3. dxe5 fxe5 4. Qh5+ g6 5. Qxe5+ Qe7 6. Qxe7+ Nxe7 7. Bg5 Bg7 8. c3 Nbc6 9. Nd2 d6 10. Ngf3 Bd7 11. Bb5 Kd8 12. Nc4 Ne5 13. Ncxe5 Bxe5 14. Bxd7 Kxd7 15. Rd1 Ke8 16. Nxe5 dxe5 17. O-O h6 18. Bxe7 Kxe7 19. Rd5 Ke6 20. Rfd1 c6 21. Rd6+ Ke7 22. Rxg6 Rad8 23. Rc1 Rhg8 24. Rxh6 Rd6 25. Rh7+ Ke6 26. Rxb7 Rgd8 27. Kf1 Rd1+ 28. Rxd1 Rxd1+ 29. Ke2 Ra1 30. a3 Rb1 31. a4 Rc1 32. a5 Rc2+ 33. Ke3 Rc1 34. a6 Re1+ 35. Kd3 Rd1+ 36. Ke2 Ra1 37. Rxa7 Kd6 38. b4 c5 39. bxc5+ Kxc5 40. Kd3 Kb5 41. Rb7+ Kxa6 42. Re7 Rd1+ 43. Ke3 Re1+ 44. Kd2 Rxe4 45. f3 Rh4 46. h3 Ra4 47. Rxe5 Ra2+ 48. Ke3 Rxg2 49. f4 Rg3+ 50. Ke4 Rxh3 51. c4 Rh4 52. c5 Kb5 53. Rf5 Kc6 54. Kd4 Rh1 55. Rf6+ Kb5 56. Rb6+ Ka5 57. f5 Rd1+ 58. Kc4 Rc1+ 59. Kd5 Rd1+ 60. Kc6 Rf1 61. Rb5+ Ka6 62. Rb6+ Ka5 63. Kc7 Rxf5 64. c6 Rf7+ 65. Kd6 Kxb6 66. Ke6 Rc7 67. Kd6 Rxc6+ 68. Kd7 Rh6 69. Ke7 Kc6 70. Kf7 Kd6 71. Kg7 Re6 72. Kf7 Ke5 73. Kg7 Kf5 74. Kf7 Ra6 75. Ke7 Ke5 76. Kd7 Rh6 77. Ke7 Rh7+ 78. Kf8 Ke6 79. Kg8 Ra7 80. Kf8 Kf6 81. Ke8 Ke6 82. Kd8 Rh7 83. Kc8 Kd6 84. Kb8 Kc6 85. Ka8 Kb6 86. Kb8 Rh8# 0-1
+

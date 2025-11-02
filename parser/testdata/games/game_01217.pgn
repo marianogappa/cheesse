@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/V1uMI4xK"]
+[White "shemsiu"]
+[Black "Begemot777"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:33"]
+[WhiteElo "1892"]
+[BlackElo "2181"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Euwe Attack"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. b3 d5 3. exd5 cxd5 4. Bb2 Nc6 5. Be2 Bf5 6. Nf3 e6 7. O-O Nf6 8. Nd4 Nxd4 9. Bxd4 Be7 10. Bb2 O-O 11. d3 Rc8 12. Nd2 Qa5 13. Nf3 Ba3 14. Bxf6 gxf6 15. c4 dxc4 16. bxc4 Rfd8 17. Nh4 Bg6 18. f4 Rxc4 19. g4 Bxd3 20. Bxd3 Rcd4 21. Bxh7+ Kxh7 22. Qc2+ Kg8 23. Rf3 Rd2 24. Qc4 Qd5 25. Qxd5 R8xd5 26. f5 Bc5+ 27. Kh1 e5 28. Rc1 Rd1+ 29. Rxd1 Rxd1+ 30. Kg2 Rd2+ 31. Kh3 Rxa2 32. Rc3 Ra3 33. Rxa3 Bxa3 34. Kg3 Bc5 35. Kf3 a5 36. Ke4 a4 37. Nf3 a3 38. Nd2 b5 39. Nb3 Bd4 40. Kd3 b4 41. Kc4 a2 42. Kxb4 a1=Q 43. Nxa1 Bxa1 44. Kc4 Bd4 0-1
+

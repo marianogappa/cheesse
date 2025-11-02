@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/1o7JJZl8"]
+[White "BlunderTown"]
+[Black "lerajam"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:03"]
+[WhiteElo "1148"]
+[BlackElo "1004"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+43"]
+[ECO "C70"]
+[Opening "Ruy Lopez: Morphy Defense, Caro Variation"]
+[TimeControl "1200+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 d6 6. a4 b4 7. d3 Nf6 8. Ng5 d5 9. exd5 Bg4 10. f3 Qd7 11. dxc6 Qxc6 12. Bxf7+ Ke7 13. Qe2 0-1
+

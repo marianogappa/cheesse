@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/eb6HAarc"]
+[White "pandi2000"]
+[Black "HavidRC"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:07"]
+[WhiteElo "1321"]
+[BlackElo "1185"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-9"]
+[ECO "A40"]
+[Opening "Modern Defense"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. d4 g6 2. c4 Bg7 3. Bf4 Nf6 4. e3 O-O 5. Nc3 d6 6. h4 Nh5 7. Nge2 Nxf4 8. Nxf4 c5 9. dxc5 Bxc3+ 10. bxc3 Qa5 11. Qc2 Qxc5 12. Bd3 Na6 13. O-O e6 14. h5 d5 15. cxd5 exd5 16. Nh3 Nb4 17. cxb4 Qxc2 18. Bxc2 Bxh3 19. gxh3 b6 20. hxg6 hxg6 21. Rad1 Rac8 22. Bb3 Rfd8 23. Rxd5 Rxd5 24. Bxd5 Rd8 25. e4 a5 26. bxa5 bxa5 27. Rc1 Kg7 28. Rc7 a4 29. Rxf7+ Kh6 30. Ra7 Rxd5 31. exd5 g5 32. d6 Kg6 33. Re7 Kf6 34. Re1 Kf5 35. d7 g4 36. d8=Q gxh3 37. Qd5+ Kf6 38. Re6+ Kf7 39. Qd7+ Kf8 40. Re8# 1-0
+

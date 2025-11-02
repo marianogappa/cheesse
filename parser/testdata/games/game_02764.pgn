@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/mDeUZq1L"]
+[White "siveda"]
+[Black "Arcazio"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:21"]
+[WhiteElo "1264"]
+[BlackElo "1295"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "D04"]
+[Opening "Queen's Pawn Game: Colle System"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 Nf6 3. Nf3 Nc6 4. Bb5 Bd7 5. Bxc6 Bxc6 6. Ne5 Qd6 7. b3 Ne4 8. Nd2 Qb4 9. a3 Qb5 10. Nxe4 dxe4 11. a4 Qa5+ 12. Bd2 Qd5 13. O-O O-O-O 14. g3 f6 15. c4 Qe6 16. d5 Bxd5 17. cxd5 Qxe5 18. Ba5 b6 19. Bxb6 cxb6 20. Qc2+ Kb8 21. Rfd1 Rxd5 22. Rxd5 Qxd5 23. Rd1 Qe5 24. Rd7 Qa1+ 25. Kg2 Qd1 26. Rxd1 e5 27. Rd8+ Kb7 28. Qc8# 1-0
+

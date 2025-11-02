@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/4IkJD9Pd"]
+[White "ivanoVVasya"]
+[Black "zinoukako"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:00"]
+[WhiteElo "1826"]
+[BlackElo "1581"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted"]
+[TimeControl "600+8"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.17] } 1... d5 { [%eval 0.14] } 2. c4 { [%eval 0.18] } 2... dxc4 { [%eval 0.21] } 3. Nc3 { [%eval 0.04] } 3... Nf6 { [%eval 0.06] } 4. e4 { [%eval -0.11] } 4... g6? { [%eval 1.03] } 5. Bxc4 { [%eval 0.81] } 5... Bg7 { [%eval 0.91] } 6. Nf3 { [%eval 0.96] } 6... O-O { [%eval 1.16] } 7. h3 { [%eval 0.91] } 7... b6 { [%eval 1.29] } 8. O-O { [%eval 1.04] } 8... Bxh3? { [%eval 3.75] } 9. gxh3 { [%eval 3.91] } 9... Qd7?! { [%eval 4.72] } 10. Kg2? { [%eval 3.71] } 10... Nc6?! { [%eval 4.55] } 11. Be3?! { [%eval 3.99] } 11... e6? { [%eval 6.66] } 12. Qd2? { [%eval 3.75] } 12... Ne7 { [%eval 3.77] } 13. Bh6 { [%eval 3.34] } 13... Nh5 { [%eval 3.66] } 14. Bxg7 { [%eval 3.42] } 14... Kxg7 { [%eval 3.54] } 15. Ne5 { [%eval 3.33] } 15... Qe8 { [%eval 3.44] } 16. f4 { [%eval 3.38] } 16... f5? { [%eval 4.73] } 17. Bxe6 { [%eval 4.52] } 17... Rf6?! { [%eval 5.18] } 18. Bd5?! { [%eval 4.39] } 18... Rd8 { [%eval 4.51] } 19. Bb3 { [%eval 4.38] } 19... Nc6? { [%eval 6.83] } 20. Nd5 { [%eval 6.7] } 20... Rf8?? { [%eval 14.72] } 21. Nxc7 { [%eval 14.5] } 21... Qe7 { [%eval 14.29] } 22. Ne6+ { [%eval 13.91] } 22... Kh8 { [%eval 15.71] } 23. Nxf8? { [%eval 8.41] } 23... Qh4? { [%eval 29.47] } 24. Nfxg6+ { [%eval 27.95] } 24... hxg6 { [%eval 27.98] } 25. Nxg6+ { [%eval 26.1] } 1-0
+

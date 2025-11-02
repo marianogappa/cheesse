@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6cyhvpcJ"]
+[White "jfam"]
+[Black "Ahells"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:07"]
+[WhiteElo "1780"]
+[BlackElo "1797"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense"]
+[TimeControl "180+3"]
+[Termination "Time forfeit"]
+
+1. c4 e6 2. Nc3 d5 3. cxd5 exd5 4. d4 c6 5. g3 h6 6. Bg2 Nf6 7. Nf3 Bd6 8. O-O Be6 9. Re1 O-O 10. e4 dxe4 11. Nxe4 Nxe4 12. Rxe4 Qf6 13. Bf4 Bd5 14. Be5 Bxe5 15. Rxe5 Nd7 16. Re3 Rfe8 17. Qd2 Rxe3 18. Qxe3 Kf8 19. Re1 Bxf3 20. Bxf3 Nb6 21. b3 Nc8 22. Qc3 Nd6 23. Bg2 Nf5 24. Qb4+ Kg8 25. Qxb7 Rd8 26. Qxa7 Nxd4 27. Re3 Nf5 28. Re1 Nd4 29. Re3 Nc2 30. Rf3 Rd1+ 31. Bf1 Rxf1+ 32. Kxf1 Qxf3 33. Qa8+ Kh7 34. Qd8 Ne3+ 35. Ke1 Ng4 0-1
+

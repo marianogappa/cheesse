@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/04gJsGpK"]
+[White "GingerNinja06"]
+[Black "cvd2012"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:23"]
+[WhiteElo "1471"]
+[BlackElo "1323"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+15"]
+[ECO "C21"]
+[Opening "Danish Gambit Accepted, Classical Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Nf6 6. e5 Qe7 7. Ne2 Qb4+ 8. Bc3 Qxc4 9. exf6 Qc6 10. O-O g6 11. Re1 Kd8 12. Nd4 Qc4 13. Re4 Qa6 14. Qe1 Bc5 15. Nd2 d5 16. Re3 Bd7 17. Re5 Re8 18. Rxe8+ Bxe8 19. Qe5 Bd6 20. Qe3 Nc6 21. Re1 Be5 22. Nxc6+ bxc6 23. Qxe5 Kd7 24. Qe7+ Kc8 25. Qxe8+ Kb7 26. Qxf7 Rb8 27. Re7 Qa4 28. Rxc7+ Ka8 29. Rxa7+ Qxa7 30. Qxa7+ Kxa7 31. h4 c5 32. g4 d4 33. Ba5 Rb5 0-1
+

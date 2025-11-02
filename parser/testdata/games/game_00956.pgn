@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yHGcn10Y"]
+[White "PEKOINDARTT"]
+[Black "IsraelAlcaraz"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:34"]
+[WhiteElo "1660"]
+[BlackElo "1673"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation #2"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Bd7 5. Nc3 Nc6 6. Bc4 Nf6 7. Be3 Be7 8. O-O Bg4 9. f3 Be6 10. Bxe6 fxe6 11. Nxe6 Qd7 12. Nxg7+ Kd8 13. Nf5 Ne5 14. Nd5 Nxd5 15. Qxd5 c6 16. Qd2 Nc4 17. Qc3 Rg8 18. Qxc4 Bf6 19. Qxg8+ Kc7 20. Qxa8 Be5 21. Qxa7 Qf7 22. Bb6+ Kc8 23. Qa8+ Kd7 24. Qxb7+ Ke6 1-0
+

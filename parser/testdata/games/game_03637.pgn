@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3bfALbvB"]
+[White "varuj777"]
+[Black "gnagoul"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:55"]
+[WhiteElo "1414"]
+[BlackElo "1546"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Breyer Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. d3 d5 3. exd5 cxd5 4. Be3 Nf6 5. Be2 e5 6. Nd2 h6 7. f4 Bd6 8. fxe5 Bxe5 9. c3 Nc6 10. d4 Bd6 11. Ngf3 O-O 12. O-O Re8 13. b4 Rxe3 14. Ne5 Nxe5 15. dxe5 Bxe5 16. Nf3 Bxc3 17. Rc1 Bxb4 18. a4 Qe7 19. Bb5 Bg4 20. Qd4 a6 21. Rb1 Bc3 22. Rb3 Bxd4 23. Rxe3 Bxe3+ 24. Kh1 axb5 25. axb5 Ra2 26. Nh4 Ne4 27. h3 Be2 28. Nf5 Qg5 29. Nxe3 Qxe3 30. Rf3 Bxf3 31. Kh2 Bxg2 32. h4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MjU4Oa6i"]
+[White "orcus"]
+[Black "leoale"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:15"]
+[WhiteElo "1782"]
+[BlackElo "1965"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-15"]
+[ECO "A51"]
+[Opening "Indian Game: Budapest Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e5 3. Nc3 exd4 4. Qxd4 Nc6 5. Qd3 Bc5 6. a3 a5 7. e3 d6 8. Be2 g6 9. Nf3 Bf5 10. e4 Be6 11. O-O Qd7 12. Rb1 h5 13. b3 h4 14. Ng5 Bg4 15. Bxg4 Nxg4 16. h3 Nce5 17. Qe2 Nh6 18. b4 Bd4 19. Nd5 O-O-O 20. bxa5 f5 21. a6 b6 22. Be3 Bxe3 23. Qxe3 fxe4 24. Rxb6 Nf5 25. Qb3 Qg7 26. Rb8+ Kd7 27. Qb5+ Nc6 28. Rxd8+ Rxd8 29. Nxe4 Rb8 30. Nef6+ Kc8 31. Qxc6 g5 32. Re1 1-0
+

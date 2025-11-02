@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xBsmS6oW"]
+[White "sarcin"]
+[Black "ubiramesq"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:02"]
+[WhiteElo "1514"]
+[BlackElo "1511"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 e6 4. O-O Nf6 5. e5 Ng4 6. d3 Ngxe5 7. Nxe5 Nxe5 8. Bb3 d5 9. d4 cxd4 10. Qxd4 Nc6 11. Ba4 Bd7 12. Bxc6 bxc6 13. Nc3 c5 14. Qf4 d4 15. Ne4 Be7 16. Nd6+ Bxd6 17. Qxd6 Bb5 18. Qxc5 Bxf1 19. Bg5 f6 20. Qc6+ Kf8 21. Rxf1 fxg5 22. Qxe6 Qe8 23. Qf5+ Qf7 24. Qxg5 Qxa2 25. Qc5+ Kf7 26. Qc7+ Kg6 27. Qd6+ Kf7 28. Qd7+ Kg6 29. Qd6+ Kf5 30. Qd7+ Qe6 31. Qb5+ Qe5 32. Qd7+ Kf6 33. Qc6+ Qe6 34. Qf3+ Ke7 35. Qb7+ Qd7 36. Re1+ Kd6 37. Qb4+ Kc6 38. Qc4+ Kb7 39. Qb4+ Kc8 40. Qc5+ Qc7 41. Qf5+ Kb8 42. Qb5+ Qb7 43. Qe5+ Qc7 44. Qb5+ Kc8 45. Qd5 Rb8 46. Qf5+ Kb7 47. Qd5+ Kc8 48. Qf5+ Qd7 49. Qc5+ Kd8 50. Qa5+ Rb6 51. Qg5+ Kc7 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/f5DOyIb4"]
+[White "RRiicchhaarrdd"]
+[Black "fafalepotedericou"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:09"]
+[WhiteElo "1623"]
+[BlackElo "1490"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "0+3"]
+[Termination "Normal"]
+
+1. e4 b6 2. f4 Bb7 3. Nc3 d5 4. e5 d4 5. Nce2 c5 6. Nf3 Nc6 7. d3 e6 8. Ng3 Nge7 9. Be2 Nf5 10. Nxf5 exf5 11. O-O Be7 12. Ng5 O-O 13. Bf3 f6 14. Ne6 Qd7 15. Nxf8 Rxf8 16. Bd5+ Qxd5 17. exf6 Rxf6 18. Qe2 Rf8 19. Bd2 Nd8 20. Rf2 Ne6 21. c3 h6 22. cxd4 cxd4 23. b3 a5 24. Re1 Nc5 25. Qxe7 Nxd3 26. Qe6+ Qxe6 27. Rxe6 Nxf2 28. Kxf2 d3 29. g3 Be4 30. Rxb6 Ra8 31. a3 a4 32. b4 Rc8 33. b5 Rc2 34. Ke3 Ra2 35. Rb8+ Kh7 36. Bb4 d2 37. Bxd2 Rxa3+ 38. Ke2 Rb3 39. Re8 a3 40. Re6 a2 41. Ra6 Bd3+ 42. Kf2 Bxb5 43. Rxa2 Bc4 44. Ra7 Rb2 45. Ke3 Rb3+ 46. Kd4 Bf1 47. Bc3 Rb1 48. Kd5 Rd1+ 49. Ke6 Bc4+ 50. Kxf5 Rh1 51. Rxg7+ Kh8 52. Rc7+ Kg8 53. Rxc4 Rxh2 54. Kg4 h5+ 55. Kf3 h4 56. gxh4 Rxh4 57. Rc7 Kf8 58. Ke4 Ke8 59. Ra7 Rh3 60. Bd4 Rh4 61. Ke5 Rh5+ 62. f5 Rh4 63. Bc5 Rh1 64. Bd6 Re1+ 65. Kf6 Kd8 66. Be5 Rc1 67. Ke6 Kc8 68. f6 Rf1 69. f7 Rxf7 70. Kxf7 Kd8 71. Ke6 Kc8 72. Rh7 Kd8 73. Bf4 Kc8 74. Kd6 Kb8 75. Ke6+ Kc8 76. Bc1 Kb8 77. Kd6 Kc8 78. Bd2 Kb8 79. Kc6 Ka8 80. Kb6 Kb8 81. Rh8# 1-0
+

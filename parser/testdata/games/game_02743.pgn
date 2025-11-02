@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/3p2eNlVk"]
+[White "proutprout72"]
+[Black "ronniak2"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:18"]
+[WhiteElo "2126"]
+[BlackElo "2014"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+15"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Englund Gambit"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Bf4 Qb4+ 5. Nc3 Qxf4 6. Nd5 Qh6 7. Nxc7+ Kd8 8. Nxa8 f6 9. Qd2 Qxd2+ 10. Kxd2 fxe5 11. e3 b6 12. Bb5 Bd6 13. Rad1 Bb8 14. Kc1 Ke7 15. Nd2 Bb7 16. Nxb6 axb6 17. Nc4 Bc7 18. Rd2 Nf6 19. Rhd1 d5 20. Na3 Rd8 21. Be2 Bd6 22. Nb5 Ba6 23. Nxd6 Bxe2 24. Rxe2 Rxd6 25. f3 b5 26. Red2 b4 27. c3 bxc3 28. bxc3 Na5 29. Rb2 Nc4 30. Rb7+ Rd7 31. Rxd7+ Kxd7 32. Re1 Kd6 33. a4 Nd7 34. Kc2 Nc5 35. Ra1 Nxe3+ 36. Kc1 Nb3+ 37. Kb2 Nxa1 38. Kxa1 Kc5 39. a5 Nc4 40. f4 exf4 41. a6 Kb6 42. a7 Kxa7 43. Kb1 Kb6 44. Kc2 Kc5 45. Kd1 Ne3+ 46. Ke2 Nxg2 47. Kf3 Ne1+ 48. Kxf4 Kc4 49. h4 Kxc3 50. h5 d4 51. Ke5 d3 52. Ke6 Ng2 53. Kf7 Nf4 54. h6 gxh6 55. Kg7 d2 56. Kxh6 d1=Q 57. Kxh7 Qg1 58. Kh8 Kd4 59. Kh7 Ke5 60. Kh8 Kf6 61. Kh7 Qg7# 0-1
+

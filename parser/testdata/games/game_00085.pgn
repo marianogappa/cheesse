@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wDJ1Cjnx"]
+[White "Falconz"]
+[Black "baileyblood"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:06"]
+[WhiteElo "1129"]
+[BlackElo "1195"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nf3 a6 5. Ng5 d5 6. exd5 Nxd5 7. Nc3 Nxc3 8. Bxf7+ Ke7 9. bxc3 h6 10. Ba3+ Kf6 11. Qf3+ Kxg5 12. Qh5+ Kf6 13. Qg6# 1-0
+

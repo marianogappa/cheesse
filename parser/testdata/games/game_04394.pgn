@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/IKa8keW0"]
+[White "bullik"]
+[Black "JoakimBy"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:55"]
+[WhiteElo "1909"]
+[BlackElo "1766"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[ECO "D08"]
+[Opening "Queen's Gambit Refused: Albin Countergambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e5 3. dxe5 Nc6 4. Nf3 dxc4 5. Qxd8+ Nxd8 6. Nc3 Bg4 7. Nd4 Bb4 8. Nb5 Ne6 9. a3 Ba5 10. e3 Kd8 11. Bxc4 Ne7 12. Bd2 c6 13. Nd4 Nc7 14. h3 Be6 15. Nxe6+ Nxe6 16. Bxe6 fxe6 17. O-O-O Bxc3 18. Bxc3+ Kc7 19. Rd6 Nd5 20. Rxe6 Nxc3 21. bxc3 Rhf8 22. f4 g5 23. Rf1 Kd7 24. Rd6+ Kc7 25. f5 Rae8 26. Rh6 Rxe5 27. Rxh7+ Kb6 28. f6 Rxe3 29. Kd2 Re6 30. f7 Re7 31. Rg7 c5 32. Rxg5 Rexf7 33. Rxf7 Rxf7 34. g4 Kc6 35. h4 Kd6 36. h5 b6 37. h6 Ke6 38. Rg6+ Ke7 39. g5 Kf8 40. Rd6 Rf5 41. g6 Rg5 42. h7 Kg7 43. Rd7+ Kh8 44. Rd8+ Kg7 45. h8=Q+ Kxg6 46. Rg8+ Kf5 47. Rxg5+ Kxg5 48. Qh3 Kf6 49. Qe3 Kf7 50. Kd3 b5 51. c4 bxc4+ 52. Kxc4 a5 53. Kxc5 a4 54. Kb5 Kf6 55. Kxa4 Kf5 56. Kb5 Kf6 57. a4 Kf5 58. a5 Kf6 59. Qe4 Kf7 60. Qe5 Kg6 61. Kc5 Kf7 62. Qd6 Kg7 63. Qe6 Kh7 64. Qg4 Kh6 65. Kd5 Kh7 66. Ke6 Kh6 67. Kf7 Kh7 68. Qg7# 1-0
+

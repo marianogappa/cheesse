@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oyprSSqk"]
+[White "sandro97"]
+[Black "mathesna"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:08"]
+[WhiteElo "1363"]
+[BlackElo "1163"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "C60"]
+[Opening "Ruy Lopez: Pollock Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Na5 4. Nxe5 Qf6 5. d4 c5 6. Bc4 Nxc4 7. Nxc4 cxd4 8. e5 Qf5 9. Qxd4 b6 10. O-O Bc5 11. Qd6 Bxd6 12. Nxd6+ Kf8 13. Nxf5 d6 14. Nxd6 Nf6 15. exf6 gxf6 16. b3 Bd7 17. Bb2 Kg7 18. Ne4 Rhe8 19. Nxf6 Re5 20. Bxe5 Rc8 21. Nxd7+ Kg8 22. Nf6+ Kh8 23. Na3 Rc5 24. Nd7+ Rxe5 25. Nxe5 1-0
+

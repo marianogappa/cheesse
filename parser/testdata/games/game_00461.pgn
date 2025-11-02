@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oYILpsxj"]
+[White "nmer"]
+[Black "MasterBishop"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:38"]
+[WhiteElo "2219"]
+[BlackElo "2139"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-7"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Pirc Invitation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. Nf3 d6 2. e3 e5 3. c4 Be6 4. d4 f6 5. d5 Bf5 6. Nc3 Bg4 7. e4 g6 8. Be2 Bd7 9. O-O c6 10. dxc6 bxc6 11. b3 Be6 12. Ba3 Qc7 13. Rc1 Nd7 14. Bb2 g5 15. Nd5 Qb8 16. Nxf6+ Ngxf6 17. Nxg5 Ke7 18. Nxe6 Kxe6 19. f4 Bh6 20. Bg4+ Ke7 21. Bxd7 Nxd7 22. Qh5 Bxf4 23. Rxf4 exf4 24. Qg5+ Ke8 25. Bxh8 d5 26. Qg8+ Ke7 27. Qxh7+ Kd6 28. e5+ Kc7 29. e6 Qxh8 30. Qxd7+ Kb6 31. cxd5 Qd4+ 32. Kh1 Qxd5 33. Rd1 Qe4 34. e7 f3 35. Qd8+ Rxd8 36. exd8=Q+ Kc5 37. Qa5# 1-0
+

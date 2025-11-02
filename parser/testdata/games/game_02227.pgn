@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/EDrnWV8g"]
+[White "SpaceInvader"]
+[Black "Zozori"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:22"]
+[WhiteElo "1492"]
+[BlackElo "1599"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-14"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 h6 5. c3 Bc5 6. cxd4 Bb4+ 7. Nc3 d6 8. Qb3 Bg4 9. Bxf7+ Kd7 10. d5 Bxc3+ 11. Qxc3 Bxf3 12. Qxf3 Ne5 13. Qf5+ Ke7 14. Qe6+ Kf8 15. O-O Qf6 16. Qxf6 Nxf6 17. Be6 Ke7 18. f4 Ned7 19. b4 Raf8 20. Bb2 Rh7 21. e5 Ne8 22. exd6+ Nxd6 23. Rae1 Kd8 24. Be5 Nxe5 25. fxe5 Rxf1+ 26. Rxf1 Ne4 27. Bf5 Nc3 28. Bxh7 Nxd5 29. Bg6 Nxb4 30. e6 Ke7 31. Rf7+ Kxe6 32. Rxc7 Kf6 33. Bb1 b6 34. Rxa7 Ke5 35. Rb7 Nd5 36. Rxg7 b5 37. Rh7 Nc3 38. Bc2 b4 39. Bb3 Ne2+ 40. Kf2 Nd4 41. Rxh6 Nxb3 42. axb3 Kd4 43. Rb6 Kc3 44. g4 Kxb3 45. g5 Kc3 46. g6 b3 47. g7 Kc2 48. g8=Q b2 49. Rxb2+ 1-0
+

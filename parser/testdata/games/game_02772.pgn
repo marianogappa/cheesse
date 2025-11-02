@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1oK4ZgJy"]
+[White "janito"]
+[Black "guatanga"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:23"]
+[WhiteElo "1728"]
+[BlackElo "1791"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 e6 3. c4 Nf6 4. a3 c6 5. Nc3 Bd6 6. e3 Bxf4 7. exf4 O-O 8. Nf3 Nbd7 9. Ne5 a6 10. Nxd7 Qxd7 11. c5 Rb8 12. b4 Qe7 13. h3 h6 14. Bd3 b5 15. Bc2 Bd7 16. Qd3 g6 17. O-O Kg7 18. a4 Nh5 19. g3 Qf6 20. axb5 axb5 21. Ra7 Rfd8 22. Rfa1 Be8 23. Rc7 Rbc8 24. Raa7 Kf8 25. Re7 Qxe7 26. Rxe7 Kxe7 27. f5 exf5 28. g4 fxg4 29. hxg4 Nf6 30. Qe3+ Kf8 31. Qxh6+ Ke7 32. g5 Ne4 33. Nxe4 dxe4 34. Bxe4 Rxd4 35. f3 Rxb4 36. Qg7 Rxe4 37. fxe4 Bd7 38. Qf6+ Kf8 39. e5 Be6 40. Kf1 Ra8 41. Qh8+ 1-0
+

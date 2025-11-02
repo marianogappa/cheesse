@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9faz62dh"]
+[White "planinc"]
+[Black "geekknight"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:25"]
+[WhiteElo "1424"]
+[BlackElo "1976"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[ECO "D15"]
+[Opening "Slav Defense: Two Knights Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 c6 2. Nf3 d5 3. c4 Nf6 4. Nc3 dxc4 5. Bf4 b5 6. e3 a6 7. a4 Bb7 8. axb5 cxb5 9. Bxb8 Rxb8 10. Nxb5 axb5 11. Ra7 Qb6 12. Bxc4 bxc4 13. Qa4+ Nd7 14. O-O Bc6 15. Qxc4 Qxa7 16. Ng5 e6 17. Qc1 Qb7 18. e4 Qxb2 19. Qf4 Nf6 20. Nf3 Be7 21. Ne5 Bxe4 22. Nc6 Bxc6 0-1
+

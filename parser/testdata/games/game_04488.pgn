@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/9naDLsbm"]
+[Site "https://lichess.org/P5ScxYJk"]
+[White "JPBruce"]
+[Black "Magun"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:13"]
+[WhiteElo "1654"]
+[BlackElo "1379"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+20"]
+[ECO "A21"]
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. c4 e5 2. Nc3 Bc5 3. e4 Nf6 4. d3 O-O 5. Nf3 d5 6. Nxd5 Nc6 7. Nxf6+ Qxf6 8. Bg5 Bg4 9. Be2 Bxf2+ 10. Kxf2 Qf4 11. Bxf4 exf4 12. Ng5 Bxe2 13. Qxe2 Nd4 14. Qh5 h6 15. Nh3 Kh7 16. Ng5+ Kg8 17. Nh3 Rae8 18. Nxf4 Kh7 19. Nh3 f5 20. exf5 Rxf5+ 21. Kg1 Rxh5 22. Rf1 Ne2+ 23. Kf2 Rf5+ 24. Ke1 Rxf1+ 25. Kxf1 g5 26. Kf2 Nf4 27. Nxf4 Rf8 28. g3 gxf4 29. gxf4 Rxf4+ 30. Ke3 Rh4 31. Rf1 h5 32. Rf7+ Kg6 33. Rxc7 Rxh2 34. Rxb7 h4 35. c5 h3 36. c6 Rg2 37. c7 Rc2 38. d4 h2 39. c8=Q Rxc8 40. Rxa7 Re8+ 41. Kd3 h1=Q 42. Ra6+ Kf5 43. Ra5+ Kf4 44. d5 Qd1+ 45. Kc4 Rd8 46. Kc5 Ke4 47. Ra4+ Ke5 48. b4 Qxa4 49. Kb6 Rb8+ 50. Kc5 Qxb4+ 51. Kc6 Rb6+ 52. Kd7 Qd6+ 53. Ke8 Rb8+ 54. Kf7 Qf6# 0-1
+

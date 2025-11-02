@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/K88ibRT4"]
+[White "peter899"]
+[Black "miguelabad"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:35"]
+[WhiteElo "1487"]
+[BlackElo "1373"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+15"]
+[ECO "C00"]
+[Opening "French Defense: Steinitz Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. e5 c5 3. Nf3 f6 4. exf6 Qxf6 5. Nc3 Nc6 6. d3 Nge7 7. Bg5 Qf5 8. Bxe7 Bxe7 9. h3 b6 10. g4 Qf6 11. Bg2 O-O 12. Qd2 Ne5 13. Nxe5 Qxe5+ 14. Qe3 Qxe3+ 15. fxe3 Bh4+ 16. Kd1 Rb8 17. Kd2 Rf2+ 18. Kc1 Rxg2 19. Ne4 Bb7 20. Rd1 Bxe4 21. dxe4 Bg5 22. b3 Bxe3+ 23. Kb2 Bd4+ 0-1
+

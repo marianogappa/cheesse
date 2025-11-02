@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/d02Y7SIU"]
+[White "Richard10"]
+[Black "jortega"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:59"]
+[WhiteElo "1731"]
+[BlackElo "1775"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "E17"]
+[Opening "Queen's Indian Defense: Classical Variation, Traditional Variation"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. d4 d6 8. Bg5 Nbd7 9. Re1 h6 10. Bc1 e5 11. d5 a5 12. Nh4 Ba6 13. b3 Ne8 14. Nf5 Bg5 15. Ne4 Bxc1 16. Qxc1 Nef6 17. Nxh6+ gxh6 18. Qxh6 Nxe4 19. Bxe4 f5 20. Qe6+ Kg7 21. Bxf5 Rf6 22. Qxd7+ Qxd7 23. Bxd7 b5 24. Bxb5 Bxb5 25. cxb5 Rb8 26. a4 Rbf8 27. Rf1 e4 28. Rac1 R8f7 29. Rc3 Re7 30. Re3 Rf5 31. Kg2 Rxd5 32. f3 Rd2 33. Kf2 d5 34. Rc1 Rb2 35. fxe4 d4 36. Rd3 Rxe4 37. Rc4 Rexe2+ 38. Kf3 Rxh2 39. Rdxd4 Rbc2 40. Rxc2 Rxc2 41. Rd7+ Kf6 42. Rd8 Rc3+ 43. Kg4 Rxb3 44. Rc8 Rc3 45. b6 1-0
+

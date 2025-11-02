@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PCncC29c"]
+[White "pilor77"]
+[Black "rubenpinus"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:21"]
+[WhiteElo "2140"]
+[BlackElo "2110"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "240+2"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. Bg5 d5 3. Bxf6 exf6 4. e3 Bd6 5. Bd3 O-O 6. Qf3 Re8 7. Ne2 Nc6 8. c3 Ne7 9. Nd2 Be6 10. h4 Qd7 11. g3 Bg4 12. Qg2 Bf5 13. Bxf5 Qxf5 14. Qf3 Qd3 0-1
+

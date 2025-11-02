@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ayKcCCbb"]
+[White "R10HD"]
+[Black "mufti"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:33"]
+[WhiteElo "1702"]
+[BlackElo "1610"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "B07"]
+[Opening "King's Pawn Game: Maroczy Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 e5 3. dxe5 dxe5 4. Qxd8+ Kxd8 5. Nf3 Bg4 6. Nxe5 Be6 7. Bc4 Bd6 8. Bxe6 Bxe5 9. Bxf7 Nh6 10. Bg5+ Kd7 11. Bb3 Nc6 12. Nc3 Ng4 13. O-O-O+ Nd4 14. Be3 c5 15. h3 Nxe3 16. fxe3 Kc6 17. exd4 Bf4+ 18. Kb1 cxd4 19. Rxd4 a6 20. Bd5+ Kc5 21. Rdd1 Rad8 22. Bxb7 Rhe8 23. Rxd8 Rxd8 24. Bxa6 Rd2 25. g4 Kd4 26. Rd1 Rxd1+ 27. Nxd1 Kxe4 28. Bd3+ Kf3 29. Bxh7 Kg3 30. Bf5 Kxh3 31. a4 Bd2 32. c3 1-0
+

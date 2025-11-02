@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/zFsxcK2T"]
+[White "entwistle"]
+[Black "Molata"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:14"]
+[WhiteElo "1609"]
+[BlackElo "1882"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-18"]
+[ECO "C13"]
+[Opening "French Defense: Classical Variation, Richter Attack #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.03] } 1... e6 { [%eval 0.12] } 2. d4 { [%eval 0.08] } 2... d5 { [%eval 0.04] } 3. Nc3 { [%eval 0.0] } 3... Nf6 { [%eval 0.07] } 4. Bg5 { [%eval -0.04] } 4... Be7 { [%eval 0.06] } 5. Bxf6 { [%eval -0.18] } 5... Bxf6 { [%eval -0.2] } 6. e5 { [%eval -0.52] } 6... Be7 { [%eval -0.37] } 7. Nge2?! { [%eval -1.06] } 7... c5 { [%eval -1.1] } 8. dxc5 { [%eval -1.14] } 8... Bxc5 { [%eval -1.13] } 9. Nd4?! { [%eval -1.74] } 9... Nc6?! { [%eval -1.1] } 10. Bb5 { [%eval -1.15] } 10... Bd7 { [%eval -1.05] } 11. Nxc6?! { [%eval -1.61] } 11... bxc6 { [%eval -1.56] } 12. Bd3 { [%eval -1.72] } 12... Qc7 { [%eval -1.4] } 13. f4 { [%eval -1.47] } 13... Bb4?! { [%eval -0.54] } 14. a3 { [%eval -0.95] } 14... Ba5 { [%eval -0.75] } 15. b4 { [%eval -0.81] } 15... Bb6 { [%eval -0.78] } 16. Qg4? { [%eval -1.78] } 16... O-O?! { [%eval -0.93] } 17. Qh4 { [%eval -1.08] } 17... h6 { [%eval -1.18] } 18. Qg3? { [%eval -2.83] } 18... c5 { [%eval -2.91] } 19. b5? { [%eval -4.51] } 19... d4? { [%eval -1.66] } 20. Na4? { [%eval -4.34] } 20... Ba5+ { [%eval -4.02] } 21. Kf2 { [%eval -4.31] } 21... c4 { [%eval -3.82] } 22. Be4 { [%eval -4.11] } 22... Rad8? { [%eval -3.0] } 23. Rhd1? { [%eval -5.18] } 23... Bxb5 { [%eval -4.81] } 24. Nb2 { [%eval -5.01] } 24... Bc3 { [%eval -4.27] } 25. Rab1?! { [%eval -5.06] } 25... Qc5 { [%eval -4.74] } 26. Kf1 { [%eval -5.07] } 26... Qxa3? { [%eval -2.27] } 27. Ra1?? { [%eval -7.27] } 27... Qxb2?? { [%eval -3.12] } 28. Rxa7?? { [%eval -14.41] } 28... Qxc2?? { [%eval 4.2] } 29. Bxc2 { [%eval 4.04] } 1-0
+

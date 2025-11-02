@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yRKwYijn"]
+[White "BlueJohnny"]
+[Black "PedroJimenezz"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:51"]
+[WhiteElo "1363"]
+[BlackElo "1485"]
+[WhiteRatingDiff "+22"]
+[BlackRatingDiff "-15"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 d6 4. d4 Be7 5. Bb5 Bd7 6. Nc3 Nf6 7. dxe5 Nxe5 8. Bxd7+ Nexd7 9. O-O O-O 10. Re1 c6 11. b3 b5 12. e5 dxe5 13. Nxe5 Nxe5 14. Qxd8 Raxd8 15. Rxe5 Bb4 16. Bb2 Ng4 17. Re4 Bxc3 18. Bxc3 f5 19. Re7 Rf7 20. Rxf7 Kxf7 21. f3 Ne3 22. Rc1 Rd1+ 23. Rxd1 Nxd1 24. Bd4 a6 25. Kf1 f4 26. Ke1 Ne3 27. Bxe3 fxe3 28. Ke2 g5 29. Kxe3 Kf6 30. Ke4 h5 31. c4 c5 32. Kd5 bxc4 33. bxc4 Kf5 34. g3 g4 35. fxg4+ hxg4 36. a3 a5 37. a4 Kf6 38. Kxc5 Ke5 39. Kb5 Ke4 40. c5 Kf3 41. c6 Kg2 42. c7 Kxh2 43. c8=Q Kxg3 44. Qc3+ Kh4 45. Kxa5 g3 46. Qe1 Kh3 47. Qg1 g2 48. Kb5 Kg3 49. a5 Kf3 50. a6 Kg3 51. a7 Kh3 52. a8=Q Kg3 53. Qg8+ Kh3 54. Q1xg2+ Kh4 55. Qh1# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/45PDnWfk"]
+[White "eurosaldi"]
+[Black "gp4"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:20"]
+[WhiteElo "1740"]
+[BlackElo "1737"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "180+15"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. Nf3 d5 3. a3 c5 4. Nc3 cxd4 5. Nxd4 a6 6. Nf3 Nc6 7. Bg5 Be7 8. Bf4 Bd6 9. Bg5 Qb6 10. Na4 Qa5+ 11. c3 h6 12. b4 Qc7 13. Bh4 Nge7 14. h3 Nf5 15. g4 Nxh4 16. Nxh4 Ne7 17. Qd3 Bd7 18. Nb2 Bb5 19. Qd4 Nc6 20. Qxg7 O-O-O 21. Qf6 Be7 22. Qxf7 Bxh4 23. Qxe6+ Kb8 24. O-O-O Bxf2 25. Rxd5 Qf4+ 26. Kb1 Rxd5 27. Qxd5 Rd8 28. Qf3 Qxf3 29. exf3 Bxf1 30. Rxf1 Rd2 31. Nc4 b5 32. Nxd2 1-0
+

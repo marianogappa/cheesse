@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yZ3nmN64"]
+[White "mehrsam_esm1395"]
+[Black "waterflossyourself"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:10"]
+[WhiteElo "1712"]
+[BlackElo "2001"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 c5 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Qa5+ 6. Nc3 Qxb5 7. Nxb5 Nxd4 8. Nxd4 Bd7 9. f4 e6 10. c3 Ne7 11. Ngf3 Nc6 12. Be3 Be7 13. g4 f6 14. O-O fxe5 15. Nxc6 bxc6 16. Nxe5 Rf8 17. Nxd7 Kxd7 18. b4 a5 19. a3 Bd6 20. f5 e5 21. Bc5 Bxc5+ 22. bxc5 a4 23. Rab1 Kc7 24. Rb4 Ra5 25. Rfb1 Rxc5 26. Rxa4 Rxc3 27. Ra7+ Kd6 28. Rxg7 Rxa3 29. Rxh7 e4 30. Rh6+ Kc5 31. Rc1+ Kd4 32. Rcxc6 e3 33. Rce6 Rb8 34. f6 Rb2 35. Rh3 Ra1# 0-1
+

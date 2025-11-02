@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ZQJVvHlZ"]
+[White "Smyrterina"]
+[Black "stoebken"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:52"]
+[WhiteElo "1139"]
+[BlackElo "1317"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d3 d5 3. exd5 Qxd5 4. c4 Qc6 5. b3 b6 6. Nd2 Bb7 7. Ne4 Nf6 8. Nxf6+ Qxf6 9. Nf3 Bc5 10. Be3 Bb4+ 11. Bd2 Bc5 12. Be3 Bb4+ 13. Bd2 Bxd2+ 14. Qxd2 Bxf3 15. gxf3 Qxf3 16. Rg1 O-O 17. Qe2 Qxe2+ 18. Bxe2 Nc6 19. O-O-O Nb4 20. a3 Na2+ 21. Kb2 Nc3 22. Kxc3 Rad8 23. f3 Rfe8 24. Rge1 g6 25. d4 exd4+ 26. Rxd4 Re3+ 27. Rd3 Rdxd3+ 28. Bxd3 Rxe1 29. Kb4 Rh1 30. c5 Rxh2 31. cxb6 axb6 32. a4 Rh3 33. Be4 f5 34. Bc6 Rh1 35. a5 bxa5+ 36. Kxa5 Rc1 37. Kb5 Rxc6 38. Kxc6 h5 39. b4 h4 40. b5 h3 41. Kxc7 h2 42. b6 h1=Q 43. b7 Qc1+ 44. Kd7 Qd2+ 45. Kc7 Qc3+ 46. Kd7 Qd4+ 47. Kc7 Qc5+ 48. Kb8 Qb6 49. f4 Qa6 50. Kc8 Qf6 51. b8=Q Qf8+ 52. Kb7 Qxb8+ 53. Kxb8 Kf7 54. Kc7 Kf6 55. Kd6 g5 56. fxg5+ Kxg5 57. Ke5 Kg4 58. Kd4 Kf3 59. Ke5 f4 60. Kf5 Ke3 61. Kg4 f3 62. Kg3 Ke2 63. Kh2 f2 64. Kg2 f1=Q+ 65. Kh2 Ke3 66. Kg3 Qf3+ 67. Kh4 Kf2 68. Kg5 Kg3 0-1
+

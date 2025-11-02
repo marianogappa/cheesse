@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/T6PTD3fg"]
+[White "Motannu"]
+[Black "OttoLotto"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:38"]
+[WhiteElo "1223"]
+[BlackElo "1280"]
+[WhiteRatingDiff "-36"]
+[BlackRatingDiff "+15"]
+[ECO "C44"]
+[Opening "Scotch Game: Goering Gambit, Double Pawn Sacrifice"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 Nc6 5. Nf3 h6 6. O-O Bc5 7. Nxc3 d6 8. g3 Bd7 9. Nd5 a6 10. Qe2 Nf6 11. Bf4 O-O 12. e5 dxe5 13. Bxe5 Re8 14. Qd3 Nxe5 15. Nxe5 Rxe5 16. Nxf6+ gxf6 17. Rae1 Rxe1 18. Rxe1 b5 19. Bb3 c6 20. Bc2 f5 21. g4 Qc8 22. gxf5 Bxf5 23. Qg3+ Kf8 24. Bxf5 Qxf5 25. Re5 Bxf2+ 26. Kh1 Qb1+ 27. Kg2 Qg1+ 28. Kf3 Bxg3 29. b4 Qxh2 30. a4 Bxe5 31. axb5 axb5 32. Ke4 Qh5 33. Kd3 Ra4 34. Ke4 Rxb4+ 35. Kd3 Qh3+ 36. Kd2 Rb2+ 37. Kc1 Rg2 38. Kb1 Qh1# 0-1
+

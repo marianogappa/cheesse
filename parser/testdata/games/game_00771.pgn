@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/0n8XX9xK"]
+[White "zokki6"]
+[Black "jenji"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:53"]
+[WhiteElo "2139"]
+[BlackElo "2051"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+[ECO "C21"]
+[Opening "Danish Gambit"]
+[TimeControl "420+3"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 Bb4 5. Nxc3 c6 6. Bxf7+ Kxf7 7. Qb3+ Kf8 8. Qxb4+ d6 9. Nf3 Qe7 10. O-O Na6 11. Qd4 Nc7 12. Re1 Ne6 13. Qc4 Nf6 14. e5 Ne8 15. exd6 Nxd6 16. Qe2 h6 17. Ne5 Qf6 18. Qd3 Nf5 19. Nd7+ Bxd7 20. Qxd7 Nc5 21. Qd2 Rd8 22. Qf4 Kf7 23. Be3 Ne6 24. Qc4 a6 25. Qb3 Rd7 26. Rad1 Rhd8 27. Rxd7+ Rxd7 28. Ne4 Qe5 29. Nc5 Nxe3 30. Nxd7 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bwLyW5DC"]
+[White "griffedours"]
+[Black "kkarppov"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:18"]
+[WhiteElo "2037"]
+[BlackElo "1941"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+[ECO "A43"]
+[Opening "Old Benoni Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 c5 2. Nf3 cxd4 3. Nxd4 Nc6 4. Nxc6 dxc6 5. Qxd8+ Kxd8 6. Bf4 f6 7. c3 e5 8. Be3 Be6 9. g3 Kc7 10. Bg2 g6 11. O-O Bh6 12. Bxh6 Nxh6 13. Nd2 Nf7 14. Rfd1 Rad8 15. a3 f5 16. Kf1 e4 17. e3 Ne5 18. f3 exf3 19. Nxf3 Nc4 20. Kf2 Nxb2 21. Nd4 Bf7 22. Re1 Rhe8 23. Kg1 Nc4 24. e4 fxe4 25. Bxe4 a6 26. Bg2 c5 27. Nf3 Rxe1+ 28. Rxe1 Re8 29. Rxe8 Bxe8 30. Ng5 h6 31. Ne6+ Kb6 32. Kf2 Nxa3 33. Ke3 Nc4+ 34. Kd3 Nd6 35. Kc2 Bf7 36. Nf4 Kc7 37. Nd3 b6 38. Ne5 Be8 39. Bd5 Nf5 40. Kd3 Kd6 41. Bf7 Bxf7 42. Nxf7+ Ke6 43. Nd8+ Kd7 44. Nf7 b5 45. Ne5+ Ke6 46. Nxg6 a5 47. Nf8+ Kd6 48. g4 Nh4 49. Nh7 a4 50. Nf6 a3 51. Kc2 b4 52. cxb4 cxb4 53. Ng8 Nf3 54. Nxh6 Nxh2 55. g5 Ke6 56. Kb3 Nf3 57. g6 Kf6 58. Ng4+ Kxg6 59. Ne3 Kg5 60. Nd5 Nd4+ 61. Ka2 Nc6 62. Nxb4 Nxb4+ 63. Kxa3 1/2-1/2
+

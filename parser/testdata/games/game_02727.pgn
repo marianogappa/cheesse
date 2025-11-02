@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KTYVMwuS"]
+[White "mauriziospin"]
+[Black "mirek38"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:13"]
+[WhiteElo "1596"]
+[BlackElo "1722"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-15"]
+[ECO "D10"]
+[Opening "Slav Defense: Exchange Variation"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 c6 3. cxd5 Qxd5 4. Nc3 Qd8 5. e4 h6 6. Nf3 Nd7 7. Bd3 e6 8. O-O Ngf6 9. Bc2 Bb4 10. Qd3 c5 11. e5 Nh7 12. Be3 Bxc3 13. bxc3 cxd4 14. cxd4 Ng5 15. Nxg5 hxg5 16. Qd2 g4 17. f4 Qh4 18. g3 Qh5 19. Bd1 f5 20. exf6 gxf6 21. Rf2 f5 22. h4 gxh3 23. Bxh5+ 1-0
+

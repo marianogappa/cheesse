@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AHzt66Sv"]
+[White "novelsound"]
+[Black "AleFerraz"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:48"]
+[WhiteElo "1703"]
+[BlackElo "1523"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "B18"]
+[Opening "Caro-Kann Defense: Classical Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. c3 h6 7. Nf3 Nf6 8. Bf4 e6 9. Bd3 Bxd3 10. Qxd3 Bd6 11. Bxd6 Qxd6 12. O-O Nbd7 13. Rfe1 O-O-O 14. b4 Rhe8 15. a4 e5 16. Qc4 e4 17. Ne5 Nxe5 18. dxe5 Rxe5 19. b5 Rc5 20. Qxf7 Rd7 21. Qg6 Rxc3 22. Nxe4 Nxe4 23. Qe8+ Kc7 24. Qxe4 cxb5 25. Rab1 b4 26. Rxb4 Rc6 27. a5 a6 28. h3 g5 29. Reb1 b5 30. axb6+ Kb7 31. Rc4 Re7 32. Qf3 Kb8 33. Rxc6 Qe5 34. b7 1-0
+

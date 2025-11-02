@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/drI8eELo"]
+[White "marshmallowmadness"]
+[Black "adel31"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:28"]
+[WhiteElo "1304"]
+[BlackElo "957"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-8"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nc3 Nc6 3. f3 f6 4. e4 e6 5. Bf4 Bb4 6. Qd2 Na5 7. e5 Bd7 8. Bg3 Ba4 9. b3 Bd7 10. a3 Bf8 11. b4 Nb3 12. cxb3 1-0
+

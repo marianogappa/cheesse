@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Xh5lIsLC"]
+[White "Changali"]
+[Black "tributefischer"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:02"]
+[WhiteElo "1438"]
+[BlackElo "1501"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-12"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Queen's Knight Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. Bd2 dxc4 5. e3 b5 6. Nxb5 Qd7 7. Nc3 Bxc3 8. Bxc3 Ba6 9. Nf3 Nf6 10. g3 Nc6 11. Bg2 Rb8 12. O-O Bb7 13. Qa4 O-O 14. Qxc4 Ne4 15. Qd3 Nd8 16. h4 Qd6 17. Ng5 h6 18. Nxe4 Bxe4 19. Qxe4 f5 20. Qd3 g5 21. Rad1 gxh4 22. gxh4 Rf7 23. a3 Rg7 24. Bb4 Qd7 25. d5 e5 26. e4 f4 27. Bc3 Qg4 28. Qh3 Qh5 29. Kh2 Rb3 30. Rd3 Nb7 31. Rfd1 Nc5 32. Bxe5 Rxd3 33. Rxd3 Nxd3 34. Bxg7 Nxf2 35. Qf3 Qxh4+ 36. Kg1 Kxg7 37. Qxf2 Qe7 38. Qxf4 Qc5+ 39. Kh2 Qc2 40. Qe5+ Kg6 41. Kg3 Qd3+ 42. Bf3 Qb1 43. Bh5+ Kh7 44. Qe7+ Kg8 45. Qf7+ Kh8 46. Bg6 Qg1+ 47. Kf4 Qf1+ 48. Ke5 Qxf7 49. Bxf7 Kg7 50. Be6 c5 51. d6 Kf8 52. d7 Ke7 53. Bg4 c4 54. Kd4 h5 55. Bxh5 Kxd7 56. Kxc4 Kc6 57. Kd4 a5 58. Ke5 Kc5 59. Ke6 Kd4 60. e5 a4 61. Kd6 Ke4 62. e6 Kd3 63. e7 Kc2 64. e8=Q Kxb2 65. Qxa4 Ka2 66. Bg6 Kb2 67. Qc2+ Ka1 68. Qb1# 1-0
+

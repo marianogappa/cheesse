@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zZt5a1Nr"]
+[White "bumbac"]
+[Black "Ivan08012015"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:06"]
+[WhiteElo "1633"]
+[BlackElo "1605"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-10"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "300+3"]
+[Termination "Time forfeit"]
+
+1. c4 e6 2. d4 d5 3. e3 Nf6 4. a3 Be7 5. Nc3 O-O 6. Nf3 c5 7. cxd5 Nxd5 8. Nxd5 Qxd5 9. Bd2 b6 10. Bc3 Ba6 11. Bxa6 Nxa6 12. O-O cxd4 13. Bxd4 Nc5 14. b4 Nb3 15. Rb1 Nxd4 16. Nxd4 Bf6 17. f3 Bxd4 18. Qxd4 Qxd4 19. exd4 Rfd8 20. Rfd1 Rac8 21. Rb3 Rc4 22. Rbd3 Rd5 23. Kf2 Rc2+ 24. R1d2 Rc4 25. Ke3 Kf8 26. f4 g6 27. g4 Ke7 28. Ke4 f5+ 29. gxf5 exf5+ 30. Kf3 Kf6 31. Re2 Rdxd4 32. Rxd4 Rxd4 33. Re3 Rc4 34. Rd3 Ke6 35. Re3+ Kf6 36. h3 b5 37. Rd3 Ke6 38. Re3+ Kf6 39. Rd3 a6 40. Rd6+ Ke7 41. Rxa6 Rc3+ 42. Kg2 Rb3 43. Ra7+ Kd6 44. a4 Rxb4 45. Ra6+ Kc5 46. axb5 Kxb5 47. Ra7 Rxf4 48. Rxh7 Rc4 49. Rg7 Rc6 50. Kf3 Kc5 51. Kf4 Kd5 52. Kg5 Ke5 53. Re7+ Re6 54. Rb7 Ke4 55. Rb4+ Kf3 56. Rb3+ Ke4 57. Rb1 Kf3 58. Rf1+ Kg2 59. Rf4 Kxh3 60. Rh4+ Kg3 61. Rb4 Kf3 62. Rb3+ Ke4 63. Rb4+ Kd5 64. Rb2 Kd6 65. Rb6+ Ke7 66. Rb7+ Kf8 67. Rb8+ Kf7 68. Rb7+ Ke8 69. Rb8+ Kd7 70. Rb7+ Kd6 71. Rb1 Kd5 72. Rd1+ Kc4 73. Rc1+ Kd3 74. Ra1 Ke2 75. Ra2+ Kf3 76. Ra3+ Re3 77. Ra4 Re6 78. Rf4+ Kg3 79. Rf1 Kg2 80. Rf4 Kg3 81. Rf1 Ra6 82. Rg1+ Kf3 83. Rh1 Ke3 84. Rh3+ Ke4 85. Rh4+ Ke3 86. Rf4 Kd3 87. Rf3+ Ke2 88. Rh3 Rc6 89. Rh2+ Kf3 90. Rh4 Kg3 91. Rf4 Rd6 92. Rh4 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/nvbVk1HE"]
+[White "tennotan"]
+[Black "carlosdenmark"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:58"]
+[WhiteElo "1494"]
+[BlackElo "1367"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+15"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. d3 f6 5. h3 Bxf3 6. Qxf3 c6 7. Qf5 Ne7 8. Qe6 b5 9. Qf7+ Kd7 10. Be6+ Kc7 11. Be3 Na6 12. a3 g5 13. Qxf6 Nc5 14. Bxc5 dxc5 15. Qxh8 h6 16. Qxe5+ Kb6 17. Nd2 Ng6 18. Qf5 Nh4 19. Qg4 Qd6 20. O-O-O a5 21. g3 Ng6 22. Nb3 Ne5 23. Qf5 b4 24. d4 cxd4 25. Rxd4 Qc7 26. a4 c5 27. Rd7 Qb8 28. Rf7 Nxf7 29. Qxc5+ Bxc5 30. Nxc5 Kxc5 31. Bxf7 Qf8 32. Bd5 Rd8 33. b3 Qxf2 34. Bc4 Qe3+ 35. Kb2 Qxe4 36. Rd1 0-1
+

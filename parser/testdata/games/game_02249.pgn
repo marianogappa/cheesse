@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YzYQuVb0"]
+[White "esencia"]
+[Black "enviro"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:31"]
+[WhiteElo "1049"]
+[BlackElo "980"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nc3 Bg7 3. d3 Bxc3+ 4. bxc3 Nf6 5. Nf3 d6 6. Bb2 e5 7. Qe2 Bg4 8. h3 Bxf3 9. Qxf3 Nc6 10. d4 Qe7 11. dxe5 dxe5 12. Be2 O-O 13. g4 Qe6 14. g5 Nh5 15. a4 a6 16. Ba3 Rfe8 17. c4 Nd4 18. Qc3 Nxe2 19. Kxe2 Nf4+ 20. Kd2 Rad8+ 21. Kc1 Ne2+ 22. Kb2 Nxc3 23. Kxc3 b5 24. axb5 a5 25. Rhd1 Rxd1 26. Rxd1 c5 27. Bxc5 Kg7 28. b6 Qc6 29. Be3 Qxb6 30. Bxb6 1-0
+

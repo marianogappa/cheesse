@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KgFFx0qI"]
+[White "kurdederouen"]
+[Black "chesswanted"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:11"]
+[WhiteElo "1824"]
+[BlackElo "1801"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "B45"]
+[Opening "Sicilian Defense: Paulsen Variation, Normal Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Bb4 6. Nb5 a6 7. Nd6+ Bxd6 8. Qxd6 Nge7 9. h4 h6 10. g4 O-O 11. g5 Qa5 12. gxh6 g6 13. h5 Qe5 14. Qxe5 Nxe5 15. hxg6 fxg6 16. h7+ Kh8 17. Be2 Rf7 18. f4 N5c6 19. b3 Rxh7 20. Rg1 d6 21. Bb2 e5 22. fxe5 dxe5 23. O-O-O Nd4 24. Bc4 Nec6 25. Nd5 b5 26. Bd3 Be6 27. Nf6 Rg7 28. Rh1+ 1-0
+

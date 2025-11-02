@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/30JYzCtI"]
+[White "Biggyswa"]
+[Black "Kutnapletes"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:42"]
+[WhiteElo "1548"]
+[BlackElo "1579"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+13"]
+[ECO "A22"]
+[Opening "English Opening: King's English Variation, Two Knights Variation"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. c4 e5 2. Nc3 Nf6 3. e4 Bc5 4. Nf3 Nc6 5. d3 Ng4 6. d4 exd4 7. Nxd4 Nxd4 8. Bd3 Nxf2 9. Kxf2 Nc2+ 10. Kf3 Nxa1 11. Be3 Qf6+ 12. Ke2 d5 13. Bxc5 Bg4+ 14. Kd2 Bxd1 0-1
+

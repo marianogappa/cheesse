@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ICGXA35Q"]
+[White "serhatb"]
+[Black "linotte"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:06"]
+[WhiteElo "1548"]
+[BlackElo "1558"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Scandinavian Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 d4 4. exf6 dxc3 5. fxe7 cxd2+ 6. Qxd2 Qxd2+ 7. Bxd2 Bxe7 8. O-O-O Bf6 9. Bb5+ c6 10. Bc4 O-O 11. Bb4 Re8 12. Nf3 Be6 13. Bd3 Bxa2 14. b3 a5 15. Ba3 a4 16. b4 Be6 17. b5 cxb5 18. Bxb5 Na6 19. Bxe8 Rxe8 20. Nd4 Bg5+ 21. Kb1 Bc4 22. g3 Bf6 23. Nf5 Be2 24. Rd7 Bg4 25. Rd5 Re5 26. Rxe5 Bxe5 27. Ne3 Bf3 28. Rd1 Bxd1 29. Nxd1 f6 30. c3 Nc7 31. Kc2 b5 32. Kd3 Kf7 33. Ne3 Ke6 34. c4 bxc4+ 35. Nxc4 Nb5 36. Kc2 Kd5 37. Ne3+ Kd4 38. Bb2+ Ke4 39. Bxe5 Kxe5 40. Kb2 a3+ 41. Kb3 Kd4 42. Nf5+ Kc5 43. Nxg7 Kd4 44. Ne6+ Kd3 45. Nf8 h5 46. Nh7 f5 47. Nf6 Ke2 48. f4 Kf2 49. Nxh5 Kg2 50. h4 Kh3 51. Ng7 Kg4 52. h5 Kxg3 53. h6 Kxf4 54. h7 Ke3 55. h8=Q f4 56. Nf5+ Ke4 57. Nd6+ Nxd6 58. Kxa3 f3 59. Qh4+ Ke3 60. Qg5+ Ke2 61. Qe5+ Kf2 62. Qxd6 Kg2 63. Qg6+ Kf1 64. Qb1+ Kg2 65. Qc2+ f2 66. Qe4+ Kg1 67. Qg4+ Kf1 68. Qh3+ Ke1 69. Qh1+ f1=Q 70. Qe4+ Qe2 71. Qb1+ Qd1 72. Qe4+ Kd2 73. Qd4+ Kc1 74. Qc4+ Qc2 75. Qf4+ Kb1 76. Qf1+ Qc1+ 77. Qxc1+ Kxc1 1/2-1/2
+

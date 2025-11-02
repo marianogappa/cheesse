@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/XsuUDT1R"]
+[White "TwitchLurker"]
+[Black "WonderBrais"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:19"]
+[WhiteElo "1696"]
+[BlackElo "1819"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-13"]
+[ECO "A40"]
+[Opening "Englund Gambit Declined, Reversed Krebs"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. Nf3 { [%eval 0.18] } 1... e5?! { [%eval 1.09] } 2. d4? { [%eval 0.0] } 2... e4 { [%eval 0.0] } 3. Nfd2 { [%eval 0.0] } 3... d5 { [%eval 0.0] } 4. f3?! { [%eval -0.52] } 4... f5 { [%eval -0.25] } 5. fxe4 { [%eval -0.53] } 5... fxe4 { [%eval -0.33] } 6. e3? { [%eval -1.97] } 6... Qh4+?! { [%eval -1.1] } 7. g3 { [%eval -1.09] } 7... Qh6 { [%eval -0.83] } 8. Be2 { [%eval -1.0] } 8... Qxe3?? { [%eval 6.83] } 9. Nf1?! { [%eval 6.02] } 9... Qh6? { [%eval 8.19] } 10. Bxh6 { [%eval 8.01] } 10... gxh6?! { [%eval 8.8] } 11. Nbd2?! { [%eval 8.04] } 11... Nc6? { [%eval 9.48] } 12. Bh5+ { [%eval 9.12] } 12... Kd8 { [%eval 8.89] } 13. Qe2? { [%eval 6.76] } 13... Nxd4? { [%eval 8.03] } 14. Qd1 { [%eval 7.72] } 14... Bb4? { [%eval 10.2] } 15. c3 { [%eval 9.77] } 15... Bxc3 { [%eval 13.94] } 16. bxc3 { [%eval 13.74] } 16... Nf5 { [%eval 13.89] } 17. Bg4 { [%eval 10.62] } 17... Nf6 { [%eval 12.15] } 18. Bxf5 { [%eval 11.97] } 18... Bxf5 { [%eval 11.67] } 19. Qc2 { [%eval 10.47] } 19... c6 { [%eval 11.89] } 20. O-O-O { [%eval 9.6] } 20... Kc7 { [%eval 10.07] } 21. Qb3? { [%eval 8.28] } 21... Rac8? { [%eval 10.47] } 22. Ne3 { [%eval 10.13] } 22... Be6 { [%eval 11.42] } 23. Qa3 { [%eval 10.95] } 23... Rhe8 { [%eval 11.42] } 24. Qxa7 { [%eval 10.2] } 24... Ra8 { [%eval 10.87] } 25. Qd4 { [%eval 10.27] } 25... Rxa2 { [%eval 15.21] } 26. Qxf6 { [%eval 14.72] } 26... Rea8 { [%eval 20.23] } 27. Nb3 { [%eval 16.92] } 27... d4 { [%eval 25.07] } 28. Qe7+ { [%eval 22.96] } 28... Kb6 { [%eval 25.82] } 29. Qb4+ { [%eval 23.0] } 29... Kc7 { [%eval 22.79] } 30. Rd2 { [%eval 13.14] } 30... R2a5?! { [%eval #9] } 31. cxd4?! { [%eval 15.96] } 1-0
+

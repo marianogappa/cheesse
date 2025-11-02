@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/g75tpP6R"]
+[White "guagua"]
+[Black "tranfunzel"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:10"]
+[WhiteElo "1312"]
+[BlackElo "1216"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+13"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 0-1
+

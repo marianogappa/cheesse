@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/gb0hnzPC"]
+[White "Alex-r"]
+[Black "merip"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:19"]
+[WhiteElo "1580"]
+[BlackElo "1515"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+14"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. c3 g6 3. d4 cxd4 4. cxd4 Bg7 5. e5 d6 6. Nf3 dxe5 7. dxe5 Nc6 8. Qxd8+ Nxd8 9. Bb5+ Bd7 10. Bxd7+ Kxd7 11. Bf4 Nc6 12. Nc3 Ke6 13. Ng5+ Kf5 14. Ne2 Nh6 15. f3 Bxe5 16. g4+ Kf6 17. Ne4+ Ke6 18. Bxh6 Rad8 19. Nc5+ Kd5 20. Be3 b6 21. Rd1+ Kc4 22. b3+ Kb5 23. a4+ Kb4 24. Na6+ Kxb3 25. Rb1+ Kxa4 26. Ra1+ Kb5 27. Kf2 Bxa1 28. Rxa1 Rd7 29. Ke1 Rhd8 30. Nc3+ Kc4 31. Rc1 Kb3 32. Ne4 Kb2 33. Rxc6 Rd1+ 34. Ke2 Ra1 35. Nc7 Rc8 36. Nd2 Ka3 37. Nc4+ Kb4 38. Ne5 Ka5 39. Rc2 Rh1 40. Kd2 Rxh2+ 41. Kd3 Rxc2 42. Kxc2 Rxc7+ 43. Kd3 b5 44. Nxf7 b4 45. Bd4 b3 46. Ng5 Ka4 47. Nxh7 Ka3 48. Nf8 b2 49. Bxb2+ Kxb2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/43hknP5s"]
+[White "giseee"]
+[Black "masoudmoosavi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:24"]
+[WhiteElo "2029"]
+[BlackElo "1911"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Qe2 d6 5. c3 a6 6. Ba4 b5 7. Bc2 Bb7 8. O-O Be7 9. Rd1 O-O 10. d4 exd4 11. cxd4 d5 12. e5 Ne8 13. a3 b4 14. Be3 a5 15. Qd3 g6 16. Bh6 Ba6 17. Qd2 Ng7 18. Qe1 Rb8 19. axb4 Nxb4 20. Qd2 Nxc2 21. Qxc2 Bb4 22. Nc3 Qd7 23. Re1 Rfc8 24. Ng5 Nf5 25. e6 fxe6 26. Rxe6 Nxd4 27. Rxg6+ Kh8 28. Qd2 hxg6 29. Qxd4+ Kg8 30. Nxd5 Qd6 31. Qg7# 1-0
+

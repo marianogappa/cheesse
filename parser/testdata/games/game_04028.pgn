@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/0dZ8jVuL"]
+[White "gont"]
+[Black "Chkmate"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:21"]
+[WhiteElo "1515"]
+[BlackElo "1776"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-18"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "60+2"]
+[Termination "Normal"]
+
+1. e4 c6 2. f4 d6 3. Nf3 Qc7 4. d4 Bg4 5. Be2 Bxf3 6. Bxf3 e5 7. d5 Nf6 8. Nc3 Nbd7 9. O-O Be7 10. f5 a6 11. Bg5 Nxd5 12. Bxe7 Nxe7 13. f6 Nxf6 14. Bh5 Nxh5 15. Qxh5 O-O 16. Ne2 Ng6 17. Ng3 Nf4 18. Qg4 Qb6+ 19. Kh1 Qxb2 20. Nf5 g6 21. Rab1 Qxc2 22. Rxb7 Kh8 23. Nh6 f5 24. Qg5 Qxe4 25. Nf7+ Rxf7 26. Rxf7 Nh5 27. Qh6 Qxg2+ 28. Kxg2 Nf4+ 29. Rxf4 exf4 30. Qg7# 1-0
+

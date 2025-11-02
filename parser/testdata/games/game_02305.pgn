@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2L7OQ0lC"]
+[White "DHMDHMDHM"]
+[Black "Giandre"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:47"]
+[WhiteElo "1790"]
+[BlackElo "1747"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-11"]
+[ECO "A20"]
+[Opening "English Opening: King's English Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. c4 e5 2. g3 c6 3. Bg2 Be7 4. d4 exd4 5. Qxd4 Nf6 6. Nc3 O-O 7. e4 d6 8. Nge2 Qb6 9. O-O Be6 10. Rd1 Rd8 11. Qxb6 axb6 12. Be3 c5 13. b3 Nc6 14. Nf4 Bg4 15. Rd2 Nh5 16. Ncd5 h6 17. Nxb6 Ra6 18. Nbd5 Nb4 19. Nxb4 cxb4 20. Nxh5 Bxh5 21. e5 dxe5 22. Rxd8+ Bxd8 23. Bxb7 Rf6 24. a3 bxa3 25. Rxa3 Be7 26. Be4 g6 27. Ra8+ Kg7 28. Ra7 Bb4 29. c5 Bd1 30. Bd5 Be1 31. c6 Bxb3 32. Bxb3 Rxc6 33. Bd5 Rc2 34. Rxf7+ Kh8 35. Bxh6 Bxf2+ 36. Rxf2 Rxf2 37. Kxf2 e4 38. Ke3 g5 39. Bxg5 Kg7 40. Bxe4 Kf7 41. h4 Ke6 42. h5 Kf7 43. h6 Kg8 44. h7+ Kh8 45. Bf6# 1-0
+

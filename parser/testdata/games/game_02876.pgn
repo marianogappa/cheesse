@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7elXYQuM"]
+[White "Feda10Feda"]
+[Black "AAAllin"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:46"]
+[WhiteElo "1625"]
+[BlackElo "2054"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+2"]
+[ECO "C68"]
+[Opening "Ruy Lopez: Exchange Variation, Romanovsky Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d3 f6 6. Nc3 Bd6 7. Bd2 Ne7 8. Qe2 O-O 9. Nh4 Be6 10. g4 c5 11. Nf5 b5 12. Nh6+ gxh6 13. Bxh6 Ng6 14. Bxf8 Bxf8 15. O-O-O Bh6+ 16. Kb1 b4 17. Na4 Qd6 18. b3 Bd7 19. Nb2 Bb5 20. Nc4 Bxc4 21. dxc4 Qe7 22. Rd3 Rd8 23. Rhd1 Rxd3 24. Rxd3 Nf4 25. Qf1 Nxd3 26. Qxd3 Qd6 27. Qf3 Bf4 28. h4 Qd2 29. Qh1 Qxf2 30. g5 Be3 31. g6 hxg6 32. Qh3 Qe1+ 33. Kb2 Bd4+ 34. c3 Qd2+ 35. Kb1 Qd1+ 36. Kb2 Bxc3+ 37. Qxc3 bxc3+ 38. Kxc3 Qd4+ 39. Kc2 Qxe4+ 40. Kb2 Qxh4 41. Kc3 Qd4+ 42. Kc2 e4 43. a4 f5 0-1
+

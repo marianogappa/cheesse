@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/5zgiPI3b"]
+[White "robinsjp"]
+[Black "breakpad"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:46"]
+[WhiteElo "1686"]
+[BlackElo "1558"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+26"]
+[ECO "B27"]
+[Opening "Sicilian Defense: Brussels Gambit"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 f5 3. exf5 Nf6 4. d4 d5 5. dxc5 Bxf5 6. Nd4 Bd7 7. c4 e5 8. cxd5 exd4 9. Qxd4 Bxc5 10. Qxc5 Na6 11. Qe3+ Kf7 12. Be2 Re8 13. Qf3 Qa5+ 14. Bd2 Qxd2+ 15. Nxd2 Nb4 16. O-O Nc2 17. Rac1 Nd4 18. Qa3 Nxe2+ 19. Kh1 Nd4 20. Rc7 Rad8 21. Nc4 Kg6 22. f4 Ng4 23. Ne5+ Nxe5 24. fxe5 Rxe5 25. Qg3+ Rg5 26. Qd3+ Nf5 27. Qd4 Rh5 28. Qd3 Kf6 29. g4 Rxh2+ 30. Kxh2 Kf7 31. gxf5 Kg8 0-1
+

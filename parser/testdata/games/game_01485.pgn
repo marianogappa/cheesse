@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tOVh8kr4"]
+[White "dumi07"]
+[Black "welder1878"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:31"]
+[WhiteElo "1477"]
+[BlackElo "1417"]
+[WhiteRatingDiff "-23"]
+[BlackRatingDiff "+12"]
+[ECO "C20"]
+[Opening "King's Pawn Opening: 2.b3"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. b3 Nc6 3. Bc4 Nf6 4. Nc3 Bc5 5. h3 Bd4 6. Nf3 Bxc3 7. dxc3 Nxe4 8. Qd3 Nc5 9. Qf5 d5 10. Bb5 Bxf5 11. Bxc6+ bxc6 12. Nxe5 Qe7 13. O-O O-O 14. Re1 Qf6 15. Bb2 Qg5 16. Nf3 Qg6 17. g4 Bxg4 18. Ne5 Qxc2 19. Rab1 Bxh3 20. Nxc6 Nd3 21. Re3 Qxf2+ 22. Kh1 Qg2# 0-1
+

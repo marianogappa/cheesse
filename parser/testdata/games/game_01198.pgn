@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/8DcLEL3g"]
+[White "kostas5678"]
+[Black "hacsel"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:29"]
+[WhiteElo "1625"]
+[BlackElo "1698"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-30"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Gubinsky-Melts Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 e5 5. Bb5+ Bd7 6. O-O Bxb5 7. Nxb5 Qc6 8. Qe2 Bd6 9. Nxe5 Bxe5 10. Qxe5+ Ne7 11. Nxc7+ Kf8 12. Nxa8 Nd7 13. Qc3 Qe6 14. Nc7 Qd6 15. b3 f6 16. Re1 Kf7 17. Qc4+ Kf8 18. Ne6+ Ke8 19. Nxg7+ Kd8 20. Bb2 Nb6 21. Qd4 Qxd4 22. Bxd4 Rg8 23. Bxf6 1-0
+

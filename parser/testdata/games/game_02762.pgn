@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/al1NrePn"]
+[White "Skhad"]
+[Black "Sotkettu"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:23"]
+[WhiteElo "1413"]
+[BlackElo "1588"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "D21"]
+[Opening "Queen's Gambit Accepted: Rosenthal Variation"]
+[TimeControl "420+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 e6 3. Nf3 dxc4 4. Bf4 h6 5. e3 g5 6. Be5 f6 7. Bg3 b5 8. h3 a6 9. a4 Bb7 10. axb5 axb5 11. Rxa8 Bxa8 12. Bxc4 bxc4 13. Qa4+ Bc6 14. Qxc4 Bd6 15. Bxd6 Qxd6 16. O-O Bxf3 17. gxf3 f5 18. Qb5+ Nd7 19. Nc3 f4 20. e4 e5 21. dxe5 Qxe5 22. Rd1 Qxb5 23. Nxb5 Ngf6 24. Nxc7+ Ke7 25. Nb5 Rb8 26. Nd6 Rxb2 27. Nf5+ Kf7 28. Nxh6+ Kg6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/F2s9ynEg"]
+[White "zaka21"]
+[Black "Radiohead3"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:53"]
+[WhiteElo "1585"]
+[BlackElo "1386"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-6"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "300+1"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 c6 3. Nf3 e6 4. a3 Nf6 5. b4 Be7 6. Bb2 Nbd7 7. Be2 O-O 8. O-O a6 9. Nbd2 b6 10. Nb3 Re8 11. Ne5 Nxe5 12. dxe5 Nd7 13. f4 Qc7 14. Bh5 c5 15. bxc5 Nxc5 16. Nxc5 Qxc5 17. Bd4 Qc6 18. Qe2 b5 19. Rfb1 Bd7 20. Qf3 Rab8 21. Qg3 Qxc2 22. Rc1 Qf5 23. Bg4 Qg6 24. Rc7 Bc8 25. Rac1 h5 26. Bf3 h4 27. Qxg6 fxg6 28. Ba7 Ra8 29. Bg4 Bxa3 30. R1c6 Kf8 31. Bc5+ Kg8 32. Bxa3 Kh7 33. g3 hxg3 34. hxg3 a5 35. Bd6 b4 36. Rf7 b3 37. Rcc7 Rg8 38. Ba3 a4 39. Rce7 Rb8 40. Bxe6 Bxe6 41. Rxe6 b2 42. Bxb2 Rxb2 43. Ra6 Rb4 44. Rfa7 Rb3 45. Kf2 a3 46. Rxa3 Rxa3 47. Rxa3 Rd8 48. Kf3 Kh6 49. Ra6 Kh5 50. e6 Kh6 51. Ra7 Re8 52. e7 Kh7 53. Ke2 Kg8 54. Kd3 Kf7 55. Kd4 Ke6 56. g4 Rxe7 57. Rxe7+ Kxe7 58. Kxd5 Kf6 59. g5+ Kf5 60. e4+ Kxf4 61. e5 Kxg5 62. e6 Kf6 63. Kd6 g5 64. Kd7 g4 65. e7 g3 66. e8=Q g2 67. Qe1 Kg5 68. Qg1 1-0
+

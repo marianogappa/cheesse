@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VbzaFbPq"]
+[White "ProxyPanda"]
+[Black "rubarciya3"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:08"]
+[WhiteElo "1766"]
+[BlackElo "1779"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 h6 4. c3 Nc6 5. d4 exd4 6. cxd4 Nf6 7. O-O Be7 8. Re1 Bg4 9. h3 Bh5 10. Bb3 O-O 11. Bc2 a6 12. Nc3 Nb4 13. Bb1 c5 14. a3 Nc6 15. dxc5 dxc5 16. Qc2 Bxf3 17. gxf3 Nh7 18. e5 g6 19. Bxh6 Re8 20. Kh2 Bg5 21. Rg1 Bxh6 22. Rxg6+ fxg6 23. Qxg6+ Bg7 24. Qxh7+ Kf7 25. Ne4 Rh8 26. Qf5+ Kg8 27. Bc2 Bxe5+ 28. Kg2 Nd4 29. Qxe5 Nxc2 30. Rg1 Kf8 31. Qxh8+ Ke7 32. Qe5+ Kf7 33. Kh2 Qe7 34. Nd6+ Qxd6 35. Qxd6 Rh8 36. Qg6+ Ke7 37. Qg7+ Kd6 38. Qxh8 Kd5 39. Rg5+ Kc4 40. Qc3+ Kb5 41. Qxc2 b6 42. Rg6 a5 43. Qb3+ Ka6 44. Qxb6# 1-0
+

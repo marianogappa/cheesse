@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/qe5rPHiQ"]
+[White "ihatechessboricua"]
+[Black "JustTraining"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:07"]
+[WhiteElo "1828"]
+[BlackElo "2059"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer Gambit: Netherlands Variation"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 f5 4. Bg5 Nf6 5. f3 h6 6. Bxf6 exf6 7. fxe4 fxe4 8. Nxe4 Be7 9. Qe2 O-O 10. Nf3 f5 11. Ng3 Nc6 12. Qb5 Bd7 13. Bc4+ Kh8 14. O-O a6 15. Qxb7 Rb8 16. Qxa6 Rxb2 17. Rfb1 Rxb1+ 18. Rxb1 Bf6 19. Ne5 Nxe5 20. dxe5 Bxe5 21. Qa5 Bxg3 22. hxg3 c6 23. Bd3 Qxa5 24. a4 Qc5+ 25. Kh1 Rf6 26. Re1 Rg6 27. Rg1 Kh7 28. g4 Rxg4 29. Kh2 Rh4+ 0-1
+

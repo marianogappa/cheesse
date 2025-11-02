@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/FCTpF3VV"]
+[White "JLAK"]
+[Black "svizzero"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:50"]
+[WhiteElo "1553"]
+[BlackElo "1284"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nf6 4. Ng5 Be6 5. Nxe6 fxe6 6. Bxe6 Qe7 7. Bb3 Nc6 8. d3 O-O-O 9. Bg5 h6 10. Bxf6 gxf6 11. Qg4+ Kb8 12. O-O Bg7 13. Nc3 h5 14. Qg3 Bh6 15. Nd5 Qd7 16. Nxf6 Qe7 17. Nd5 Qd7 18. a4 Rh7 19. a5 Rg7 20. Qf3 h4 21. h3 Rdg8 22. a6 Rxg2+ 23. Qxg2 Rxg2+ 24. Kxg2 b6 25. Kh2 Qg7 26. Rg1 Bf4+ 27. Kh1 Qxg1+ 28. Rxg1 1-0
+

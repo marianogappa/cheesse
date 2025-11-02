@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/pX8aKWE7"]
+[White "Espenfor"]
+[Black "terminatordead"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:11"]
+[WhiteElo "1264"]
+[BlackElo "1158"]
+[WhiteRatingDiff "+27"]
+[BlackRatingDiff "-18"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Tennison Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 dxe4 3. Bb5+ c6 4. Nc3 cxb5 5. Nxe4 Bg4 6. d4 f5 7. Nfg5 fxe4 8. Qxg4 h5 9. Qxe4 Nf6 10. Qg6+ Kd7 11. Nf7 Qe8 12. O-O Rh6 13. Bxh6 gxh6 14. h4 Nc6 15. Rfe1 Rd8 16. Re5 Nxe5 17. dxe5 Nd5 18. Rd1 e6 19. b3 Ke7 20. c4 Nc3 21. Qf6# 1-0
+

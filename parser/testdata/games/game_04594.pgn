@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/CJXIJDfy"]
+[White "Kernow1"]
+[Black "lucianobonfico"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:38"]
+[WhiteElo "1956"]
+[BlackElo "2220"]
+[WhiteRatingDiff "+20"]
+[BlackRatingDiff "-23"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Hartlaub-Charlick Gambit"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 e5 2. dxe5 d6 3. Nf3 Nc6 4. Bg5 f6 5. exf6 Nxf6 6. Nc3 Be7 7. e3 Be6 8. Bd3 h6 9. Bh4 Bf7 10. Nd4 Qd7 11. Bg3 O-O-O 12. Bf5 Qxf5 13. Nxf5 Bf8 14. Qd2 g6 15. Nd4 Ne5 16. O-O-O Nc4 17. Qd3 h5 18. h4 Ng4 19. Rhf1 Nge5 20. Qe2 Nc6 21. Nxc6 bxc6 22. Qf3 d5 23. Qxf7 Bb4 24. Qxc7# 1-0
+

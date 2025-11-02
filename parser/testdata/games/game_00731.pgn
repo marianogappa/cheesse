@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HcZqGdVK"]
+[White "Periigo"]
+[Black "Acala"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:46"]
+[WhiteElo "2377"]
+[BlackElo "2234"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. e5 Ng4 5. Qe2 Qc7 6. Nd5 Qb8 7. d3 Ngxe5 8. Bf4 d6 9. Bxe5 Nxe5 10. Nxe5 dxe5 11. O-O-O Be6 12. Nc3 b5 13. Re1 f6 14. f4 b4 15. Ne4 Qc7 16. fxe5 Qxe5 17. Nxc5 Qxe2 18. Bxe2 Bd5 19. Bf3 Bxf3 20. gxf3 e5 21. Na6 Kf7 22. Nc7 Rc8 23. Nd5 Bd6 24. h4 Rhd8 25. Ne3 Bc5 26. Nc4 a5 27. h5 a4 28. Re2 b3 29. axb3 axb3 30. Rh3 Ra8 31. cxb3 Rxd3 32. Kc2 Rd4 33. Re4 Rad8 34. Rxd4 Rxd4 35. Nd2 f5 36. Nc4 Kf6 37. Rh2 g6 38. hxg6 hxg6 39. Rd2 Rxd2+ 40. Kxd2 g5 41. Ke2 g4 42. fxg4 fxg4 43. b4 Bxb4 44. Ne3 Bc5 45. Nxg4+ Ke6 46. Kd3 Kf5 47. Nh2 Bb4 48. Nf1 Bf8 49. Ne3+ Kf4 50. Nd5+ Kf3 51. Nc3 Bb4 52. Nd5 e4+ 53. Kc4 Bd2 54. b3 e3 55. Nf6 e2 56. Nd7 e1=Q 57. Nc5 Qb1 58. Kd5 Qxb3+ 59. Nxb3 1/2-1/2
+

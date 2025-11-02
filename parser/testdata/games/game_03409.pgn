@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/D3PnaEBx"]
+[White "saidtugcu"]
+[Black "sa2016"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:59"]
+[WhiteElo "1316"]
+[BlackElo "1281"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+12"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "420+7"]
+[Termination "Normal"]
+
+1. e3 e5 2. Qf3 Nc6 3. Bc4 Nf6 4. Nh3 Nb4 5. Bb3 d5 6. O-O Bxh3 7. Qxh3 Ne4 8. Qh5 Nf6 9. Qxe5+ Be7 10. Qg3 Bd6 11. Qxg7 Bxh2+ 12. Kxh2 Qd6+ 13. Kg1 Rg8 14. Qh6 Ng4 15. Qxh7 Ke7 16. Qh4+ f6 17. Qh7+ Ke6 18. Ba4 Nc6 19. Qh3 f5 20. b3 Rh8 21. Qf3 Qh2# 0-1
+

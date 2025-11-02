@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/sKaCWvzy"]
+[White "alexeev"]
+[Black "schoeneckerdeep"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:50"]
+[WhiteElo "1778"]
+[BlackElo "1587"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Bd3 Be7 6. Bg5 O-O 7. O-O Bd7 8. Nd2 Nc6 9. Nxc6 Bxc6 10. Re1 Nd7 11. Bxe7 Qxe7 12. Nf3 Ne5 13. Nxe5 dxe5 14. c4 Rad8 15. Qc2 Qg5 16. g3 h5 17. Be2 h4 18. Rad1 hxg3 19. hxg3 Rxd1 20. Rxd1 g6 21. b4 b6 22. b5 Bb7 23. c5 Kg7 24. c6 Bc8 25. a4 Rh8 26. Qd2 1-0
+

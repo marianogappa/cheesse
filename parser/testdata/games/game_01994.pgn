@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/C2jLKQT0"]
+[White "Mat-chess"]
+[Black "Elisem96"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:31"]
+[WhiteElo "1910"]
+[BlackElo "1441"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Ponziani Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 d6 4. dxe5 dxe5 5. Bxf7+ Ke7 6. Qxd8+ Kxd8 7. Bg5 Bb4+ 8. c3 Bc5 9. Nf3 h6 10. Bh4 g5 11. Bg3 Nxe4 12. O-O Rf8 13. Bh5 Be6 14. Nxe5 Nc6 15. Nxc6+ bxc6 16. b4 Bd6 17. Bxd6 cxd6 18. f3 Nd2 19. Nxd2 Kc7 20. Rfe1 Bf7 21. Re7+ Kd8 22. Rxf7 Rxf7 23. Bxf7 Ke7 24. Bb3 Rf8 25. Re1+ Kd7 26. Ne4 d5 27. Nc5+ Kd6 28. Re6+ Kc7 29. Ba4 Rd8 30. Rxc6+ Kb8 31. Rxh6 d4 32. Nd7+ Kc8 33. cxd4 a6 34. Rd6 Kc7 35. Rd5 Kb7 36. Nc5+ Kb6 37. Rxd8 Ka7 38. Rd6 Kb8 39. Rxa6 Kc7 40. Rg6 Kd8 41. Rxg5 Ke7 42. Rg6 Kf8 43. Ra6 Ke7 44. b5 Kd8 45. Ra7 Kc8 46. b6 Kb8 47. Rc7 Ka8 48. Bc6+ Kb8 49. Nd7# 1-0
+

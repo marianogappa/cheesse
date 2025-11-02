@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YV15N0lf"]
+[White "elena_21"]
+[Black "JosefinW"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:53"]
+[WhiteElo "1369"]
+[BlackElo "1694"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. g3 e5 2. Bg2 Nf6 3. d3 d5 4. Nf3 Nc6 5. Bg5 Be7 6. b3 O-O 7. O-O Bg4 8. c4 d4 9. h3 Be6 10. Bxf6 Bxf6 11. e3 dxe3 12. Nc3 e4 13. dxe4 Bxc3 14. Rc1 Qxd1 15. Rfxd1 exf2+ 16. Kxf2 Bb4 17. Ng5 Rad8 18. Nxe6 fxe6+ 19. Kg1 Bc5+ 20. Kh2 Rxd1 21. Rxd1 Rf2 22. h4 Kf7 23. Rd7+ Kf6 24. Rxc7 Rxa2 25. Rxb7 Ne5 26. Kh3 h5 27. Rc7 Bd6 28. Rc8 Ng4 29. Bf3 Rh2# 0-1
+

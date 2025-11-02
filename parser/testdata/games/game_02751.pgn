@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/cW3ylBVL"]
+[White "Shiinaknight"]
+[Black "serhaTimur"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:19"]
+[WhiteElo "2121"]
+[BlackElo "2101"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "B57"]
+[Opening "Sicilian Defense: Classical Variation, Anti-Sozin Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Qb6 7. Nb3 e6 8. Bf4 Ne5 9. Bb5+ Bd7 10. Bxe5 dxe5 11. Bxd7+ Nxd7 12. Qe2 Bb4 13. O-O-O Bxc3 14. bxc3 Nf6 15. g4 Rc8 16. g5 Nd7 17. Qd3 Rc7 18. h4 Qxf2 19. Rhf1 Qxh4 20. Qd6 Qxg5+ 21. Kb1 Qd8 22. Rg1 g6 23. Rgf1 h5 24. Rd3 Qc8 25. Rfd1 b6 26. Rf1 Rc6 27. Qb4 Rc4 28. Qd6 Rxe4 29. Nd2 Re2 30. Nf3 e4 31. Ng5 exd3 32. Nxf7 dxc2+ 33. Kc1 Qxc3 34. Nxh8 Qa1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/NdryCyQN"]
+[White "GodlikeMoves"]
+[Black "julietaamaro62"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:46"]
+[WhiteElo "1829"]
+[BlackElo "1388"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.29] } 1... c5 { [%eval 0.3] } 2. Nf3 { [%eval 0.33] } 2... Nc6 { [%eval 0.35] } 3. Bc4 { [%eval 0.0] } 3... e6 { [%eval 0.0] } 4. O-O { [%eval 0.01] } 4... d5 { [%eval 0.05] } 5. exd5 { [%eval 0.0] } 5... exd5 { [%eval 0.0] } 6. Re1+ { [%eval 0.0] } 6... Be7 { [%eval 0.0] } 7. Bb5 { [%eval -0.06] } 7... Nf6 { [%eval -0.15] } 8. d4 { [%eval -0.14] } 8... O-O { [%eval -0.1] } 9. dxc5 { [%eval -0.52] } 9... Bxc5 { [%eval -0.34] } 10. Bg5? { [%eval -2.18] } 10... a6? { [%eval -0.1] } 11. Bd3 { [%eval -0.27] } 11... h6 { [%eval -0.33] } 12. Bh4 { [%eval -0.79] } 12... Bg4?! { [%eval 0.0] } 13. h3 { [%eval 0.0] } 13... Be6 { [%eval 0.14] } 14. Nc3 { [%eval 0.0] } 14... Be7 { [%eval 0.17] } 15. Ne2 { [%eval 0.0] } 15... Rc8?! { [%eval 0.83] } 16. Ng3?! { [%eval 0.2] } 16... Qa5 { [%eval 0.61] } 17. c3 { [%eval 0.54] } 17... Qb6 { [%eval 0.71] } 18. Qc2? { [%eval -0.83] } 18... g6?? { [%eval 4.28] } 19. Bxg6 { [%eval 4.06] } 19... Ne4? { [%eval 5.78] } 20. Bxf7+?? { [%eval -0.59] } 20... Bxf7?! { [%eval 0.0] } 21. Nxe4 { [%eval 0.0] } 21... dxe4 { [%eval 0.49] } 22. Rxe4 { [%eval 0.26] } 22... Bg6?? { [%eval 5.29] } 23. Rae1?? { [%eval -0.83] } 23... Bxe4? { [%eval 1.54] } 24. Qxe4 { [%eval 1.62] } 24... Bxh4?? { [%eval 6.89] } 25. Qe6+?? { [%eval -1.65] } 25... Kg7 { [%eval -1.5] } 26. Nxh4?? { [%eval -9.25] } 26... Qxf2+ { [%eval -9.13] } 27. Kh2 { [%eval -9.25] } 27... Qxh4 { [%eval -9.1] } 28. Re4 { [%eval -9.0] } 28... Qf6 { [%eval -8.78] } 29. Rg4+?! { [%eval -9.66] } 29... Kh7 { [%eval -9.38] } 30. Qe4+ { [%eval -9.81] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/tB0YsfTX"]
+[White "MightyRobot"]
+[Black "jeanfabian"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:39"]
+[WhiteElo "1883"]
+[BlackElo "1717"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nf3 d6 3. d4 c6 4. Nc3 b6 5. Bd3 Bb7 6. Be3 Nd7 7. O-O g6 8. Qd2 Bg7 9. Rfe1 Ne7 10. e5 dxe5 11. dxe5 Nxe5 12. Nxe5 Bxe5 13. Bh6 Qc7 14. Ne4 Bxh2+ 15. Kh1 Be5 16. f4 Bxb2 17. Rab1 Bd4 18. c3 Nf5 19. cxd4 Nxh6 20. Nf6+ Kf8 21. Qe3 Rd8 22. Rbd1 Qe7 23. Qe5 Qd6 24. Nd7+ Ke7 25. Qxd6+ Kxd6 26. Ne5 Ke7 27. g4 f6 28. g5 fxg5 29. fxg5 Nf5 30. Bxf5 gxf5 31. Kg2 c5+ 32. Kg3 Rxd4 33. Rxd4 cxd4 34. Rc1 Rc8 35. Rxc8 Bxc8 36. Nc6+ Kd6 37. Nxd4 e5 38. Nb5+ Kd5 39. Nxa7 Bd7 40. Kf3 Kd4 41. a3 Kd3 42. a4 e4+ 43. Kf2 Kd2 44. Nb5 e3+ 45. Kf3 Bxb5 46. axb5 e2 47. Kf4 e1=Q 48. Kxf5 Qf2+ 49. Kg4 Kd3 50. Kh5 Ke4 51. Kh6 Kf5 52. Kxh7 Qh4+ 53. Kg7 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/i47PvkzM"]
+[White "rinardo"]
+[Black "HardWoodPusher"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:15"]
+[WhiteElo "1890"]
+[BlackElo "1924"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation #3"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. b3 e5 2. Bb2 Nc6 3. g3 Nf6 4. Bg2 d5 5. c4 Be6 6. cxd5 Bxd5 7. f3 Qd7 8. e4 Be6 9. a4 O-O-O 10. Ba3 Qd3 11. Bxf8 Rhxf8 12. Ne2 Rd7 13. Nbc3 Rfd8 14. Nc1 a6 15. Nxd3 Rxd3 16. Bf1 R3d7 17. d3 Nb4 18. Nd5 Bxd5 19. exd5 Rxd5 20. Kf2 Nxd3+ 21. Bxd3 Rxd3 22. Qb1 Rd2+ 23. Kg1 Nd5 24. Ra2 Rd4 25. Kg2 Nc3 26. Qf5+ Kb8 27. Rc2 Nd5 28. Qxf7 Ne3+ 29. Kh3 Nxc2 30. Rc1 1-0
+

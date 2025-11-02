@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/cnhLm8dM"]
+[White "Juanned2017"]
+[Black "jalefred"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:23"]
+[WhiteElo "1461"]
+[BlackElo "1439"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "360+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 a5 3. d4 exd4 4. Qxd4 Nc6 5. Qd3 d6 6. Bd5 Nge7 7. Qf3 Nxd5 8. exd5 Ne5 9. Qe2 Bg4 10. f3 Bh5 11. g4 Bg6 12. Bf4 Qd7 13. Bxe5 dxe5 14. Qxe5+ Qe7 15. Qxe7+ Bxe7 16. Kd1 O-O-O 17. Nc3 Bb4 18. a3 Bxc3 19. bxc3 Rxd5+ 20. Kc1 Rhd8 21. Nh3 f5 22. Nf4 Rc5 23. Ne6 Rxc3 24. Nxd8 Kxd8 25. Rd1+ Kc8 26. Rd5 Rxf3 27. gxf5 Bxf5 28. Rxa5 Rf2 29. Rb1 Bxc2 30. Rb2 Rxh2 31. Rxc2 Rxc2+ 32. Kxc2 Kb8 33. Rf5 g6 34. Rf8+ Ka7 35. Rh8 b5 36. Rxh7 Kb6 37. Rg7 c5 38. Rxg6+ Ka5 39. Kb3 c4+ 40. Kc3 Ka4 41. Ra6# 1-0
+

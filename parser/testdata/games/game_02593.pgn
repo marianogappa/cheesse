@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yjrCMpnw"]
+[White "kkarppov"]
+[Black "CHESSMSPOLICE"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:51"]
+[WhiteElo "1944"]
+[BlackElo "1859"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "C61"]
+[Opening "Ruy Lopez: Bird Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O Bc5 6. c3 Ne7 7. d3 O-O 8. cxd4 Bxd4 9. Nc3 Bxc3 10. bxc3 c6 11. Bc4 d5 12. exd5 Nxd5 13. Qf3 Nxc3 14. Bb2 Nd5 15. Qg3 f6 16. Rfe1 Kh8 17. Rad1 Bf5 18. Qf3 Bg6 19. Re3 Nxe3 20. fxe3 Re8 21. e4 Qd7 22. Bxf6 gxf6 23. Qxf6+ Qg7 24. Qh4 Rad8 25. Rf1 Qd4+ 26. Kh1 Rf8 27. Rb1 Qf2 28. Qg5 Qf1+ 0-1
+

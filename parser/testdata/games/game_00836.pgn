@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ySvDNyHp"]
+[White "yyasmines"]
+[Black "moj911"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:05"]
+[WhiteElo "1118"]
+[BlackElo "931"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+21"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "420+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 0-1
+

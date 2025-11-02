@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GfJuHNWC"]
+[White "bjagus"]
+[Black "briciola"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:48"]
+[WhiteElo "1858"]
+[BlackElo "1720"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "E61"]
+[Opening "King's Indian Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. g3 d5 6. Bg2 dxc4 7. Ne5 Nc6 8. Nxc4 Qxd4 9. Nd2 Rd8 10. O-O Bf5 11. e4 Bg4 12. Bf3 Bxf3 13. Qxf3 Ne5 14. Qe2 Bh6 15. Rd1 Nfg4 16. Kg2 f5 17. h3 Nf6 18. exf5 gxf5 19. Nf3 Qc5 20. Rxd8+ Rxd8 21. Bxh6 Ne4 22. Nxe4 fxe4 23. Qxe4 Rd4 24. Qxe5 Qxe5 25. Nxe5 Rd2 26. b3 1-0
+

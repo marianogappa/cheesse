@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/V9pqgHAG"]
+[White "Marfis"]
+[Black "Heisenbass"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:54"]
+[WhiteElo "1351"]
+[BlackElo "1240"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 d4 3. d3 c5 4. c4 Nc6 5. Bd2 Nxe5 6. b4 e6 7. Nf3 Nxf3+ 8. Qxf3 e5 9. Be2 f6 10. Qh5+ g6 11. Qf3 b6 12. O-O Rb8 13. Qc6+ Bd7 14. Qe4 Rc8 15. a3 Bc6 16. Qg4 Bd7 17. Qg3 Bh6 18. bxc5 Bxd2 19. Nxd2 bxc5 20. a4 Qa5 21. Nb3 Qb4 22. Rfb1 Qc3 23. Bg4 f5 24. Qxe5+ Ne7 25. Qxh8+ Kf7 26. Qxh7+ Kf6 27. Qh4+ g5 28. Qh6+ Kf7 29. Qh7+ Kf6 30. Qh6+ Kf7 31. Qh5+ Kf6 32. Bf3 Qxd3 33. Bb7 Rb8 34. Nxc5 Bc6 35. Nxd3 Rxb7 36. Qh8+ Ke6 37. Nc5+ 1-0
+

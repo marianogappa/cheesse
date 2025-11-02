@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lP7108Q5"]
+[White "Cezary_Wagner"]
+[Black "miguel71317"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:29"]
+[WhiteElo "1348"]
+[BlackElo "1332"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "A16"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Knight Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 d6 5. Nf3 Nc6 6. Qa4 Bd7 7. Qb3 O-O 8. Qxb7 Rb8 9. Qxa7 Nxa7 0-1
+

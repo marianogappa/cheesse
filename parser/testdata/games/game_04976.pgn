@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/mlXnx8i6"]
+[White "dono"]
+[Black "behzzzad"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:00"]
+[WhiteElo "1858"]
+[BlackElo "1865"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "A42"]
+[Opening "Sicilian Defense: Hyperaccelerated Fianchetto"]
+[TimeControl "420+2"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Bg7 5. Nc3 Nc6 6. f3 Nxd4 7. Be3 Nc6 8. Qd2 Nf6 9. O-O-O O-O 10. h4 d6 11. h5 Nxh5 12. g4 Ng3 13. Rh3 Nxf1 14. Rxf1 Ne5 15. Bh6 Nc4 16. Qh2 Be5 17. f4 Bf6 18. Bxf8 Qxf8 19. Rxh7 Bxg4 20. Nd5 Bh5 21. Rxh5 gxh5 22. Nxf6+ exf6 23. Rg1+ Kh7 24. Qxh5+ Qh6 25. Qxf7+ Kh8 26. Qxc4 Qxf4+ 27. Kb1 Re8 28. Rh1+ Kg7 29. Qc7+ Kg6 30. Qh7+ Kg5 31. Rg1+ Qg3 32. Qg7+ Kf4 33. Qg4+ Qxg4 34. Rxg4+ Kxg4 0-1
+

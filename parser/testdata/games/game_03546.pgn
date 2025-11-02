@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LWMqCzuS"]
+[White "chessbona"]
+[Black "fatihkanlidere"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:36"]
+[WhiteElo "1841"]
+[BlackElo "1858"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Paulsen-Basman Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. e4 c5 3. Nf3 cxd4 4. Nxd4 Bc5 5. Be3 Qb6 6. b3 e5 7. Nf5 Bxe3 8. fxe3 g6 9. Nd6+ Ke7 10. Nc4 Qc5 11. Bd3 b5 12. Ncd2 Qxe3+ 13. Qe2 Qxe2+ 14. Bxe2 Nf6 15. O-O Nc6 16. c4 bxc4 17. Bxc4 Nd4 18. Nc3 Bb7 19. Nd5+ Nxd5 20. exd5 d6 21. Ne4 f5 22. Ng5 Rac8 23. Nf3 Nc2 24. Rac1 Ne3 25. Rfe1 Nxc4 26. bxc4 e4 27. Nd4 Kf6 28. Nb5 Rhd8 29. Nxa7 Ra8 30. Nb5 Rxa2 31. Ra1 Rc2 32. Ra7 Ba8 33. Nc7 Bxd5 34. Nxd5+ Ke5 35. Ra4 Rc8 36. Ra5 Ke6 37. Nf4+ Kf6 38. Rd1 Rc6 39. Nd5+ Kg5 40. h3 R2xc4 41. Ne7 Rb6 42. g4 Rc5 43. Rxc5 dxc5 44. Rd5 Rb1+ 45. Kg2 Rb2+ 46. Kg3 Rb3+ 47. Kg2 Rb2+ 48. Kf1 Rb1+ 49. Ke2 Rb2+ 50. Kd1 Rf2 51. gxf5 gxf5 52. Rxc5 e3 53. Ke1 Rh2 54. Nxf5 Kf4 55. Nd4 Rxh3 56. Ne2+ Kf3 57. Rf5+ Ke4 58. Rf4+ Kd5 59. Ra4 Kc5 60. Nf4 Rf3 61. Ke2 Rf2+ 62. Kxe3 Rh2 63. Ne6+ Kb5 64. Re4 Rh3+ 65. Kf4 Rh4+ 66. Kf5 Rh5+ 67. Ng5 h6 68. Kg6 Rxg5+ 0-1
+

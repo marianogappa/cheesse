@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/EcQYSmGv"]
+[White "yury_kalinau"]
+[Black "tetreb85"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:03"]
+[WhiteElo "1542"]
+[BlackElo "1418"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 Nf6 6. e5 Nh5 7. Be2 c5 8. Qd5 Nf4 9. Bxf4 d6 1-0
+

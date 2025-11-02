@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/61vVbkVL"]
+[White "adhocprog"]
+[Black "Guliaka"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:51"]
+[WhiteElo "1826"]
+[BlackElo "1835"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B03"]
+[Opening "Alekhine Defense: Four Pawns Attack, 6...Nc6"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Nc6 7. Nf3 Bg4 8. Be3 e6 9. h3 Bxf3 10. gxf3 Qh4+ 11. Bf2 Qf4 12. c5 Nd5 13. Nc3 Nxc3 14. bxc3 O-O-O 15. Bb5 Nxe5 16. dxe5 Rxd1+ 17. Rxd1 Qxe5+ 18. Kf1 Bxc5 19. Bd7+ Kb8 20. Rh2 Qxh2 21. Rd2 Bxf2 22. Rxf2 Qxh3+ 23. Ke2 Rd8 24. Bb5 Qf5 25. Bd3 Qd5 26. Kf1 Qxd3+ 27. Kg2 Rd5 0-1
+

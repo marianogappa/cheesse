@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bDFo1AGT"]
+[White "Olmodiego"]
+[Black "david2555"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:11"]
+[WhiteElo "1215"]
+[BlackElo "1790"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+2"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Snyder Variation"]
+[TimeControl "900+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. b3 Nc6 3. Bb2 d6 4. Bc4 e6 5. f4 Nf6 6. d3 Be7 7. Qe2 Qc7 8. Nh3 Nd4 9. Bxd4 cxd4 10. c3 dxc3 11. Nxc3 Bd7 12. e5 dxe5 13. fxe5 Nd5 14. Bxd5 Qxc3+ 15. Kf2 Qd4+ 16. Qe3 Qxd5 17. Rac1 O-O 18. Rc4 Bb5 19. Rd4 Qc6 20. a4 Ba6 21. Rc1 Qxg2+ 22. Kxg2 Rac8 23. Rf1 Bc5 24. Rff4 Rcd8 25. Qc1 Bxd4 26. Qc7 Bb6 27. Qe7 Rxd3 28. Ng5 Rd2+ 29. Kg3 Rd3+ 30. Rf3 Rxf3+ 31. Kxf3 h6 32. Ne4 Bg1 33. b4 Bd3 34. Nd6 Bxh2 35. Nxb7 Bxe5 36. Nc5 Bc2 37. a5 Bd1+ 38. Ke4 Bc3 39. Qb7 Bc2+ 40. Nd3 Rd8 41. Qxa7 Bxd3+ 42. Ke3 Bxb4 43. a6 Bxa6 44. Qb6 Bc4 45. Qxd8+ Kh7 46. Qd4 Bd5 47. Qxb4 h5 48. Qb1+ g6 49. Qb7 Kg7 50. Qb2+ f6 51. Qb7+ Kh6 52. Qf7 f5 53. Kf4 g5+ 54. Ke5 g4 55. Qf8+ Kg5 56. Qxf5+ exf5 57. Kxd5 Kf4 58. Kd4 Kf3 59. Kd3 Kf2 60. Kd2 g3 61. Kd1 g2 62. Kd2 h4 63. Kd3 h3 64. Kd4 h2 0-1
+

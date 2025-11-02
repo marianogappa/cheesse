@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Hx8pgBVO"]
+[White "guagua"]
+[Black "funkmaster954"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:21"]
+[WhiteElo "1306"]
+[BlackElo "1406"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "C44"]
+[Opening "King's Pawn Game: Tayler Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. Nc3 Bb4 5. d3 d6 6. Bd2 Be6 7. O-O Qd7 8. a3 Bxc3 9. Bxc3 O-O 10. Rb1 Nd4 11. Nxd4 exd4 12. Bxd4 Ba2 13. Ra1 Be6 14. Bxf6 gxf6 15. Bh5 f5 16. Qf3 f6 17. Qg3+ Qg7 18. Qxg7+ Kxg7 19. Rae1 Bf7 20. Bf3 fxe4 21. Bxe4 c6 22. Bf5 Rfe8 23. h3 Rxe1 24. Rxe1 Bg6 25. Bxg6 Kxg6 26. Re7 b5 27. Rc7 c5 28. Rd7 Kf5 29. Rxd6 Re8 30. Kf1 Ke5 31. Rd7 h5 32. Rxa7 Kf4 33. Rc7 Re5 34. Rc6 f5 35. Rb6 b4 36. axb4 cxb4 37. Rxb4+ Kg5 38. g3 f4 39. Rxf4 Kg6 40. Re4 Ra5 41. Ke2 Kf5 42. Ke3 Ra8 43. b4 Rc8 44. c4 Ra8 45. d4 Ra3+ 46. Ke2 Kxe4 47. f3+ Kxd4 48. Kf2 Kxc4 49. g4 hxg4 50. hxg4 Kxb4 51. Kg3 Kc4 52. Kf4 Kd5 53. g5 Ra4+ 54. Kf5 Ra8 55. f4 Rf8+ 56. Kg4 Ke4 57. g6 Rxf4+ 58. Kg5 Rf8 59. Kh6 Kf5 60. g7 Rg8 61. Kh7 Rd8 62. g8=Q Rxg8 63. Kxg8 1/2-1/2
+

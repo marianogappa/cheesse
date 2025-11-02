@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CQgJDXXf"]
+[White "kleckewitzer"]
+[Black "kreshnik2"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:50"]
+[WhiteElo "1871"]
+[BlackElo "1853"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation, Pseudo-Catalan"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 e6 4. Bg2 Bd6 5. O-O c6 6. c3 Nbd7 7. Nbd2 O-O 8. Re1 Re8 9. e4 e5 10. dxe5 Nxe5 11. exd5 cxd5 12. Nxe5 Bxe5 13. Nf3 Bg4 14. Qa4 Bd6 15. Rxe8+ Qxe8 16. Qxe8+ Rxe8 17. Be3 Ne4 18. h3 Be6 19. Bxa7 Ra8 20. Bd4 Nc5 21. Bxc5 Bxc5 22. a3 b5 23. Ng5 b4 24. cxb4 Bxb4 25. Rc1 Bd2 26. Nxe6 Bxc1 27. Nc7 Ra7 28. Nxd5 Bxb2 29. h4 Rxa3 30. Ne3 f6 31. Bf3 g6 32. Kg2 Bd4 33. Nc2 Rd3 34. Bd5+ Kg7 35. Nxd4 Rxd4 36. Bf3 f5 37. Bc6 Kf6 38. Bb7 h6 39. Ba8 g5 40. hxg5+ hxg5 41. Bb7 Rg4 42. Kf3 Rb4 43. Bc8 Ke5 44. Kg2 Ke4 45. Bd7 Rb2 46. Bc6+ Ke5 47. Kf3 f4 48. gxf4+ gxf4 49. Ba8 Kf5 50. Be4+ Kg5 51. Bd5 Rd2 52. Be4 Rb2 53. Bd5 Rb5 54. Be4 Rb3+ 55. Kg2 Kg4 56. Bd5 f3+ 57. Kh2 Rb2 58. Be6+ Kf4 0-1
+

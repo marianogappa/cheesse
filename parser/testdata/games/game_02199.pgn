@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3cCucTj2"]
+[White "whiskeynkush"]
+[Black "Mehmedov"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:18"]
+[WhiteElo "1252"]
+[BlackElo "1246"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C55"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. d4 d6 5. d5 Nce7 6. O-O Bg4 7. Nc3 h5 8. Be3 h4 9. Be2 h3 10. g3 Bxf3 11. Bxf3 Qd7 12. Qd3 O-O-O 13. Nb5 a6 14. Nc3 g6 15. b4 f5 16. b5 f4 17. gxf4 exf4 18. Bd4 Rh4 19. bxa6 bxa6 20. Qxa6+ Kb8 21. Ba7+ Ka8 22. Bd4+ Kb8 23. Nb5 c6 24. Qb6+ Kc8 25. Na7+ Qxa7 26. Qxa7 Rd7 27. Qa6+ Kd8 28. dxc6 Rc7 29. e5 dxe5 30. Bxe5 Rxc6 31. Bxc6 Rg4+ 32. Kh1 Nxc6 33. Rfd1+ Ke7 34. Qxc6 f3 35. Rd7+ Ke8 36. Qe6+ Be7 37. Bf6 Rd4 38. Rxd4 Nxf6 39. Qa6 g5 40. Rb1 g4 41. Rb8+ Kf7 42. Rf4 g3 43. Rb7 g2+ 0-1
+

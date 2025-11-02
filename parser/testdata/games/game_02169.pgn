@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/sXDvvo0s"]
+[White "CarlosRim"]
+[Black "Baverone"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:12"]
+[WhiteElo "1557"]
+[BlackElo "1437"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[ECO "E22"]
+[Opening "Nimzo-Indian Defense: Spielmann Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 Bxc3+ 5. Qxc3 O-O 6. Nf3 d5 7. e3 dxc4 8. Bxc4 Bd7 9. O-O Bc6 10. a3 Nbd7 11. Bd2 Nd5 12. Bxd5 exd5 13. Qc2 h6 14. Rac1 Re8 15. b4 Bb5 16. Rfd1 Nf6 17. a4 Bc6 18. b5 Bd7 19. Qxc7 Qxc7 20. Rxc7 Rab8 21. Rdc1 Bf5 22. Bb4 Ne4 23. Ne5 f6 24. Nf3 Bg4 25. Nh4 g5 26. Ng6 Be2 27. Ne7+ Kf8 28. Ng6+ Kg8 29. R1c5 Bc4 30. Ne7+ Kf8 31. Ng6+ Kg8 32. Rg7+ Kxg7 33. Rc7+ Kxg6 34. Rg7+ 1-0
+

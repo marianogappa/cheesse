@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/kRa2Mbss"]
+[White "sakaorka"]
+[Black "scumm"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:31"]
+[WhiteElo "1518"]
+[BlackElo "1568"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C57"]
+[Opening "Italian Game: Two Knights Defense, Polerio Defense"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. c3 Nxc4 7. Qa4+ b5 8. Qxb5+ Bd7 9. Qxc4 Rb8 10. d6 Be6 11. Nxe6 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HackOGbb"]
+[White "hombre1967"]
+[Black "Captivus"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:01"]
+[WhiteElo "1597"]
+[BlackElo "1474"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+13"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 g6 3. Bd3 Bg7 4. h3 Nf6 5. Nf3 Nc6 6. Nc3 a6 7. a3 O-O 8. b3 Re8 9. Bb2 Nd7 10. g4 e5 11. Ng1 exd4 12. Nce2 dxe3 13. Bxg7 Kxg7 14. Qb1 exf2+ 15. Kxf2 Nde5 16. Qb2 Qf6+ 17. Ke1 Nxd3+ 18. cxd3 Qxb2 19. Rd1 Nd4 20. Rh2 Qxb3 21. Rf2 Nc2+ 22. Kf1 Ne3+ 23. Ke1 Qxd1# 0-1
+

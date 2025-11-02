@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tpVdrzRo"]
+[White "KentVika"]
+[Black "adrian0223805"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:04"]
+[WhiteElo "1693"]
+[BlackElo "1500"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+298"]
+[ECO "A53"]
+[Opening "Old Indian Defense"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nc6 4. e4 e5 5. d5 Ne7 6. Nf3 Bg4 7. h3 Bh5 8. Be2 c6 9. O-O cxd5 10. cxd5 Rc8 11. Bg5 h6 12. Bxf6 gxf6 13. Nh4 Bxe2 14. Qxe2 Rg8 15. Qf3 Qb6 16. Qxf6 Qxb2 17. Qf3 Rxc3 18. Qh5 Rc4 19. Rab1 Qxa2 20. Rxb7 Rxe4 21. Rb8+ Kd7 22. Qxf7 Rg7 23. Qxf8 Qxd5 24. Qxg7 Rxh4 25. Qf8 Rh5 26. Qd8+ Ke6 27. Qe8 Rg5 28. f3 Qd4+ 29. Kh1 e4 30. fxe4 Qxe4 31. Qf7+ Kd7 32. Qe8+ Ke6 33. Rbb1 Qxg2# 0-1
+

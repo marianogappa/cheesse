@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4YT6StbH"]
+[White "mazatec"]
+[Black "ssi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:26"]
+[WhiteElo "1627"]
+[BlackElo "1725"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "180+2"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Bc4 e6 3. Nc3 Nc6 4. Nge2 d5 5. Bb5 d4 6. Bxc6+ bxc6 7. Na4 Nf6 8. d3 e5 9. b3 Be7 10. Nb2 Be6 11. O-O O-O 12. f4 Nd7 13. f5 a5 14. fxe6 fxe6 15. Nc4 Bf6 16. Ng3 a4 17. Ba3 Qe7 18. Qg4 axb3 19. axb3 Ra7 20. Nh5 Kh8 21. Nxf6 gxf6 22. Qh4 Rg8 23. Nxe5 Nxe5 24. Rxf6 Qg7 25. Qf2 Ng4 26. Rf7 Rxf7 27. Qg3 Qh6 28. Bxc5 Qf6 29. Bxd4 Qxd4+ 0-1
+

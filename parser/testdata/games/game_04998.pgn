@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/uOlfgrt3"]
+[White "mickymc1959"]
+[Black "ns462"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:04"]
+[WhiteElo "2095"]
+[BlackElo "1938"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Open #3"]
+[TimeControl "1800+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.12] } 1... c5 { [%eval 0.33] } 2. Nf3 { [%eval 0.17] } 2... Nc6 { [%eval 0.43] } 3. d4 { [%eval 0.0] } 3... cxd4 { [%eval -0.14] } 4. Nxd4 { [%eval -0.01] } 4... d6 { [%eval 0.35] } 5. c4 { [%eval 0.33] } 5... Nf6 { [%eval 0.21] } 6. Nc3 { [%eval 0.14] } 6... a6 { [%eval 0.47] } 7. Be2 { [%eval 0.43] } 7... g6 { [%eval 0.56] } 8. Be3 { [%eval 0.56] } 8... Bg7 { [%eval 0.51] } 9. O-O { [%eval 0.6] } 9... h5 { [%eval 0.95] } 10. f3 { [%eval 0.55] } 10... Bd7 { [%eval 0.77] } 11. Nd5 { [%eval 0.3] } 11... Nxd5 { [%eval 0.34] } 12. cxd5 { [%eval 0.29] } 12... Ne5?! { [%eval 1.2] } 13. Rc1 { [%eval 1.08] } 13... O-O { [%eval 1.22] } 14. h3 { [%eval 1.12] } 14... Bc8 { [%eval 1.21] } 15. Qd2 { [%eval 1.11] } 15... Kh7?! { [%eval 1.74] } 16. f4 { [%eval 1.41] } 16... Nd7 { [%eval 1.71] } 17. Nf3 { [%eval 1.52] } 17... e6?? { [%eval 5.71] } 18. Ng5+ { [%eval 5.47] } 18... Kg8? { [%eval 6.7] } 19. dxe6 { [%eval 6.49] } 19... fxe6? { [%eval 7.64] } 20. Nxe6 { [%eval 7.36] } 20... Qe7 { [%eval 7.28] } 21. Nxf8 { [%eval 7.17] } 21... Nxf8 { [%eval 6.97] } 22. Bc4+? { [%eval 5.51] } 22... Be6 { [%eval 5.41] } 23. Bxe6+ { [%eval 5.36] } 23... Nxe6?! { [%eval 6.18] } 24. f5 { [%eval 6.07] } 24... gxf5 { [%eval 6.06] } 25. exf5 { [%eval 6.12] } 25... Nc5 { [%eval 6.16] } 26. Qd5+ { [%eval 5.63] } 26... Kh8?? { [%eval 9.33] } 27. Bxc5 { [%eval 9.01] } 27... dxc5 { [%eval 8.73] } 28. Qxc5?? { [%eval -1.43] } 28... Qh4?? { [%eval 10.41] } 29. Qc4?? { [%eval 5.07] } 29... Qg5? { [%eval 6.08] } 30. Rcd1?! { [%eval 5.14] } 30... Rg8 { [%eval 5.32] } 31. Rf2 { [%eval 5.24] } 31... Be5?! { [%eval 5.83] } 32. Qe4 { [%eval 5.57] } 32... Qg7? { [%eval 7.32] } 33. Qf3 { [%eval 6.87] } 33... Qg5?? { [%eval 10.58] } 34. f6 { [%eval 9.97] } 34... Rf8 { [%eval 11.51] } 35. Qf5?? { [%eval 5.09] } 35... Qe3?? { [%eval #3] } 36. Qxh5+ { [%eval #2] } 36... Kg8 { [%eval #2] } 37. Qg6+ { [%eval #1] } 1-0
+

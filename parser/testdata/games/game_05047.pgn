@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/j68n8KoT"]
+[White "ecko_xxx"]
+[Black "sdrag"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:27"]
+[WhiteElo "1783"]
+[BlackElo "1569"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "A53"]
+[Opening "Old Indian: Czech Variation, with Nc3"]
+[TimeControl "60+2"]
+[Termination "Normal"]
+
+1. d4 d6 2. c4 Nf6 3. Nc3 c6 4. e3 g6 5. Bd3 Bg7 6. f4 O-O 7. Nf3 e6 8. h3 a6 9. g4 b5 10. b3 bxc4 11. bxc4 d5 12. c5 Nfd7 13. g5 f5 14. Bd2 a5 15. Qe2 Ba6 16. Rb1 Bxd3 17. Qxd3 Na6 18. a3 Qc7 19. Ke2 Kf7 20. h4 Rh8 21. h5 Ra7 22. hxg6+ hxg6 23. Rxh8 Bxh8 24. Qc2 Bg7 25. Qb3 Ra8 26. Qb7 Qxb7 27. Rxb7 Nb8 28. Na4 Ke8 29. Nb6 Nxb6 30. Rxg7 Nc4 31. Bc1 Nd7 32. Rxg6 Nf8 33. Rh6 Ra7 34. Ne5 Rb7 35. Nxc6 Rb1 36. Kd1 Nxe3+ 37. Kd2 Nc4+ 38. Kc2 Ra1 39. g6 Nxa3+ 40. Bxa3 Rxa3 41. g7 Kd7 42. Ne5+ Kc7 43. gxf8=Q Ra2+ 44. Kb3 Ra1 45. Qf7+ Kb8 46. Rh8# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3nTLKLUG"]
+[White "theredrook"]
+[Black "parmenides_aletheia"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:38"]
+[WhiteElo "1076"]
+[BlackElo "1053"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "A00"]
+[Opening "Saragossa Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. c3 g5 2. e3 Bg7 3. Nf3 f6 4. Na3 d6 5. Qa4+ Bd7 6. Qb4 Nc6 7. Qxb7 g4 8. Nd4 Nxd4 9. cxd4 e5 10. d5 a5 11. Bb5 Rb8 12. Bxd7+ Kxd7 13. Qc6+ Kc8 14. Nb5 Ne7 15. Na7# 1-0
+

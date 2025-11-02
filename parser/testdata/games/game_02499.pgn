@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/9SXzJs1Z"]
+[White "tolia"]
+[Black "subiquetellevo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:32"]
+[WhiteElo "1810"]
+[BlackElo "1613"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 Nc6 3. Nc3 g6 4. d3 Bg7 5. f4 Nf6 6. Nf3 O-O 7. O-O d6 8. Ne2 Bg4 9. c3 a6 10. Ng3 b5 11. Bb3 a5 12. h3 Bd7 13. a4 b4 14. Ng5 bxc3 15. bxc3 Rb8 16. Bxf7+ Kh8 17. Bc4 d5 18. exd5 h6 19. dxc6 hxg5 20. cxd7 gxf4 21. Ne4 Nxe4 22. dxe4 e5 23. Bb5 Qh4 24. Qg4 Qf6 25. g3 g5 26. h4 Bh6 27. Qf5 Qb6 28. Qxe5+ Bg7 29. Qxg5 fxg3 30. Rxf8+ Rxf8 31. Qh5+ Bh6 32. Bxh6 c4+ 33. Kg2 Rf2+ 34. Kh3 Rh2+ 35. Kg4 Qe6+ 36. Qf5 Qxh6 37. Qe5+ Qg7+ 38. Qxg7+ Kxg7 39. Kxg3 Rg2+ 40. Kxg2 Kf6 41. d8=Q+ 1-0
+

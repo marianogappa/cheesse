@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ljrnk3YO"]
+[White "buddycl"]
+[Black "R10HD"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:28"]
+[WhiteElo "1635"]
+[BlackElo "1709"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "A03"]
+[Opening "Bird Opening"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. f4 Nf6 2. Nf3 e6 3. d4 d5 4. e3 Bd6 5. Bd3 Nbd7 6. Nbd2 a6 7. O-O c6 8. a4 Qc7 9. Ne5 O-O 10. Rf3 b6 11. Rh3 g6 12. g4 Re8 13. g5 Nh5 14. Rxh5 gxh5 15. Qxh5 Nf8 16. Qxf7+ Qxf7 17. Nxf7 Kxf7 0-1
+

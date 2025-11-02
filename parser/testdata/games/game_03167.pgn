@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tAhOSl79"]
+[White "catujo"]
+[Black "doogsiakdov"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:57"]
+[WhiteElo "1759"]
+[BlackElo "1752"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Slav Formation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. g3 d5 2. Bg2 c6 3. d3 Nf6 4. f4 e6 5. Nf3 Nbd7 6. O-O g6 7. e4 Bg7 8. e5 Ng8 9. c3 Ne7 10. d4 O-O 11. a4 c5 12. Be3 b6 13. a5 Bb7 14. axb6 axb6 15. Rxa8 Qxa8 16. Na3 Bc6 17. Qd2 Qa4 18. Ra1 Qb3 19. Nb1 Ra8 20. Rxa8+ Bxa8 21. Bf1 Nc6 22. Qf2 Na5 23. Ne1 Nc4 24. Bc1 Qd1 25. Bxc4 Qxc1 26. Bb5 Qxb1 27. Bxd7 c4 28. Ba4 Qe4 29. Nf3 Qb1+ 30. Kg2 Qa2 31. Bd1 Bc6 32. Ne1 Ba4 33. Bxa4 Qxa4 34. Nc2 b5 35. Nb4 Bf8 36. Nc2 Qb3 37. Ne3 b4 38. Qd2 bxc3 39. Qxc3 Qxc3 40. bxc3 Ba3 41. Nd1 Bc1 42. h4 Bd2 43. Kf3 h5 44. g4 Kg7 45. g5 Be1 46. Kg2 Bxh4 47. Kh3 Be1 48. Kg2 Bd2 49. Kf3 Bc1 50. Ne3 Bxe3 51. Kxe3 Kf8 52. Kf3 Ke7 53. Kg3 Kd7 54. Kh4 Kc7 55. Kg3 Kb6 56. Kf3 Ka5 57. Ke3 Ka4 58. Kd2 Ka3 59. Kc2 Ka2 60. Kd2 Kb3 61. f5 exf5 62. e6 fxe6 63. Ke3 Kxc3 64. Kf4 Kxd4 65. Kg3 c3 66. Kh4 c2 67. Kg3 c1=Q 68. Kh4 Qf4+ 69. Kh3 Qg4+ 70. Kh2 f4 71. Kh1 f3 72. Kh2 f2 73. Kh1 f1=Q+ 74. Kh2 Qfg2# 0-1
+

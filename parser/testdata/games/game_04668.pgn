@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Pxl79CKx"]
+[White "Arcazio"]
+[Black "siveda"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:54"]
+[WhiteElo "1284"]
+[BlackElo "1276"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 4. dxe5 Bxf3 5. Qxf3 dxe5 6. Nc3 Bb4 7. a3 Bxc3+ 8. Qxc3 f6 9. g4 h6 10. g5 hxg5 11. Bxg5 fxg5 12. Qxe5+ Ne7 13. Qxg7 Rg8 14. Qf6 Nd7 15. Qe6 Rg6 16. Qb3 b6 17. O-O-O Rd6 18. Bh3 Rxd1+ 19. Rxd1 Nc5 20. Rxd8+ Kxd8 21. Qc3 Nxe4 22. Qh8+ Ng8 23. Qxg8+ Ke7 24. Qxa8 Nxf2 25. Qxa7 1-0
+

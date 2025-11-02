@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/56sJFG6o"]
+[White "rabl"]
+[Black "meoxx"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:15"]
+[WhiteElo "2105"]
+[BlackElo "2195"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. e3 c6 3. Bd3 Nf6 4. Nd2 Bg4 5. f3 Be6 6. c3 Bd7 7. f4 e6 8. Ngf3 c5 9. Ne5 Nc6 10. O-O c4 11. Bc2 Qc7 12. Rf3 h6 13. Rg3 b5 14. a3 a5 15. Qe1 g6 16. e4 Bg7 17. Nxg6 fxg6 18. e5 Ne4 19. Nxe4 dxe4 20. Rxg6 Bf8 21. Bxe4 O-O-O 22. d5 exd5 23. Bxd5 Bc5+ 24. Be3 Nb8 25. Qf2 Bxe3 26. Qxe3 Bc6 27. Be6+ Kb7 28. Rf1 Qb6 29. Qxb6+ Kxb6 30. f5 Kc5 31. f6 Nd7 32. Bg4 Nxe5 33. Rg7 Nxg4 34. Rxg4 Rhf8 35. Rgf4 Rf7 36. Rf5+ Kb6 37. Rh5 Rh8 38. h3 a4 39. g4 Rg8 40. Kh2 Rg6 41. Kg3 Rfxf6 42. Kh4 Rxf1 43. Rf5 Rf6 44. Rxf6 Rxf6 45. g5 hxg5+ 46. Kxg5 Rd6 47. h4 Rd5+ 48. Kf4 Be8 49. Ke3 Rd6 50. b3 Re6+ 51. Kd4 Bh5 52. bxc4 Rd6+ 53. Ke3 bxc4 54. Ke4 Kc5 55. Kf5 Re6 56. Kg5 Re5+ 0-1
+

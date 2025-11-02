@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/KEkTBJuG"]
+[White "GillsT26"]
+[Black "Ruff"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:23"]
+[WhiteElo "1092"]
+[BlackElo "1191"]
+[WhiteRatingDiff "+21"]
+[BlackRatingDiff "-14"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 Qh4 3. Bd3 Nf6 4. Nf3 Qh5 5. e5 Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 1-0
+

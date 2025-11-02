@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/4dcJ4y6t"]
+[White "dragonssez"]
+[Black "mikiric"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:41"]
+[WhiteElo "1817"]
+[BlackElo "1465"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "600+2"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 Bg4 5. d4 Qe6 6. Be3 Bxe2 7. Qxe2 Qc6 8. Nf3 e5 9. Nxe5 Qxg2 10. O-O-O Nc6 11. Nxc6 Qxc6 12. Bg5+ Be7 13. Rhe1 O-O-O 14. Bxe7 Nxe7 15. Qxe7 Rde8 16. Qxf7 Qh6+ 17. Kb1 Rxe1 18. Rxe1 Qxh2 19. Re8+ Rxe8 20. Qxe8# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/bKcbeEsr"]
+[White "potsy722"]
+[Black "Perspicacious"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:00"]
+[WhiteElo "1774"]
+[BlackElo "1673"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-18"]
+[ECO "C00"]
+[Opening "French Defense: La Bourdonnais Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.11] } 1... e6 { [%eval 0.2] } 2. f4 { [%eval -0.18] } 2... d5 { [%eval -0.16] } 3. e5 { [%eval -0.27] } 3... d4 { [%eval -0.08] } 4. d3 { [%eval -0.14] } 4... c5 { [%eval 0.01] } 5. Nf3 { [%eval -0.07] } 5... Nc6 { [%eval 0.0] } 6. Be2 { [%eval -0.02] } 6... Nge7 { [%eval 0.11] } 7. O-O { [%eval 0.04] } 7... Nd5 { [%eval 0.03] } 8. c3 { [%eval 0.02] } 8... Qb6 { [%eval 0.39] } 9. cxd4?! { [%eval -0.22] } 9... cxd4 { [%eval -0.24] } 10. Na3 { [%eval -0.35] } 10... Ne3? { [%eval 0.85] } 11. Bxe3 { [%eval 0.8] } 11... Bxa3 { [%eval 0.93] } 12. Bf2 { [%eval 0.83] } 12... Be7 { [%eval 1.0] } 13. Kh1? { [%eval 0.0] } 13... O-O { [%eval 0.31] } 14. b3 { [%eval 0.13] } 14... Rd8 { [%eval 0.25] } 15. Ng5? { [%eval -0.79] } 15... h6?! { [%eval 0.02] } 16. Ne4 { [%eval -0.47] } 16... a5?! { [%eval 0.22] } 17. Bf3?! { [%eval -0.3] } 17... Nb4 { [%eval -0.21] } 18. a3 { [%eval -0.36] } 18... Nd5 { [%eval -0.35] } 19. b4?! { [%eval -1.22] } 19... axb4 { [%eval -0.95] } 20. axb4 { [%eval -0.96] } 20... Rxa1 { [%eval -0.51] } 21. Qxa1 { [%eval -0.56] } 21... Nxf4 { [%eval -0.47] } 22. g3?? { [%eval -4.04] } 22... Nxd3 { [%eval -3.62] } 23. Bg1? { [%eval -4.76] } 23... Nxe5 { [%eval -4.55] } 24. Bg2 { [%eval -4.7] } 24... Qxb4? { [%eval -3.51] } 25. Re1? { [%eval -4.91] } 25... d3? { [%eval -2.06] } 26. Nf2?? { [%eval -5.34] } 26... d2? { [%eval -4.27] } 27. Rxe5 { [%eval -4.21] } 27... Bf6 { [%eval -3.77] } 28. Nd1?? { [%eval -7.7] } 28... Bxe5?? { [%eval -3.99] } 29. Qxe5 { [%eval -4.12] } 29... Qb1 { [%eval -3.56] } 30. Bf3?! { [%eval -4.38] } 30... Bd7 { [%eval -4.06] } 31. Bd4? { [%eval -5.32] } 31... f6 { [%eval -4.72] } 32. Qd6?? { [%eval -9.79] } 32... Be8?? { [%eval 4.75] } 33. Qxd8 { [%eval 4.58] } 33... Kf7?? { [%eval 11.37] } 34. Qc7+?? { [%eval 4.66] } 1-0
+

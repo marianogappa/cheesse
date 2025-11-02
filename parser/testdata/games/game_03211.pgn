@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/U4ysO7zE"]
+[White "aslejo"]
+[Black "linto"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:08"]
+[WhiteElo "1778"]
+[BlackElo "1853"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation #4"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Ne2 Nc6 5. f4 Qb6 6. Nd2 cxd4 7. Ng3 Nge7 8. Bd3 Ng6 9. O-O Bd7 10. Nf3 O-O-O 11. a3 h6 12. b4 Kb8 13. Bd2 Be7 14. b5 Na5 15. a4 Nc4 16. Qe2 Rc8 17. Rfb1 Rc7 18. a5 Qc5 19. b6 axb6 20. axb6 Nxb6 21. Ba5 Rc6 22. Bxb6 Rxb6 23. Rxb6 Qxb6 24. Qd2 Bb4 25. Qc1 Bb5 26. Nh5 Bxd3 27. cxd3 Rc8 28. Qb2 Qc5 29. Qa2 Bc3 30. Qa8+ Kc7 31. Qa7 Qxa7 32. Rxa7 Kb6 33. Ra2 Rc7 34. h3 Rc5 35. Kh2 Rb5 36. Kg3 Kc5 37. Nxg7 Rb2 38. Rxb2 Bxb2 39. Ne8 b5 40. Nd6 b4 41. Nd2 Bc3 42. Nb3+ Kb6 43. h4 Ne7 44. Kf3 Nf5 45. g3 Nxd6 46. exd6 Kc6 47. g4 Kxd6 48. g5 Be1 49. gxh6 Bxh4 50. h7 Bf6 51. Nd2 Kc5 52. Ke2 e5 53. fxe5 Bxe5 54. Nf3 Bh8 55. Ng5 b3 56. Kd2 Kb4 57. Kc1 Ka3 58. Kb1 Kb4 59. Nxf7 Bg7 60. h8=Q Bxh8 61. Nxh8 Kc3 62. Ng6 Kxd3 63. Nf4+ Kc3 64. Nxd5+ Kc4 65. Nf4 Kc3 66. Ne2+ Kd2 67. Nf4 d3 68. Kb2 Ke3 0-1
+

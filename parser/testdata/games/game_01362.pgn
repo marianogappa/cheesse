@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/JXZdRQDT"]
+[White "mariopotas"]
+[Black "DO2008"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:09"]
+[WhiteElo "1502"]
+[BlackElo "1529"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+31"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Staunton-Cochrane Variation"]
+[TimeControl "300+8"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. c4 Nc6 3. d3 g6 4. g4 Bg7 5. h4 h5 6. g5 d6 7. f4 e5 8. Nf3 exf4 9. Bxf4 Bxb2 10. Nbd2 Bxa1 11. Qxa1 Rh7 12. Bxd6 Qxd6 0-1
+

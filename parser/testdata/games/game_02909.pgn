@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dGafZCOp"]
+[White "rusPlayer"]
+[Black "KilluaMaNN"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:53"]
+[WhiteElo "1782"]
+[BlackElo "1974"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-16"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.26] } 1... e6 { [%eval 0.26] } 2. c4 { [%eval 0.24] } 2... Nf6 { [%eval 0.22] } 3. Nc3 { [%eval 0.13] } 3... d5 { [%eval 0.31] } 4. Bf4 { [%eval -0.13] } 4... Bb4 { [%eval 0.1] } 5. e3 { [%eval -0.02] } 5... O-O { [%eval 0.0] } 6. Bd3 { [%eval 0.04] } 6... c5 { [%eval 0.05] } 7. cxd5?! { [%eval -0.65] } 7... exd5?! { [%eval 0.31] } 8. Ne2 { [%eval 0.33] } 8... Nc6 { [%eval 0.41] } 9. dxc5 { [%eval 0.14] } 9... Qa5?! { [%eval 0.81] } 10. O-O { [%eval 0.81] } 10... Qxc5?! { [%eval 1.48] } 11. Rc1?! { [%eval 0.65] } 11... Qe7 { [%eval 0.79] } 12. Bg5 { [%eval 0.71] } 12... Be6 { [%eval 1.18] } 13. Nf4?! { [%eval 0.57] } 13... h6?? { [%eval 4.94] } 14. Nfxd5?! { [%eval 4.27] } 14... Qd8 { [%eval 4.15] } 15. Nxf6+ { [%eval 4.13] } 15... gxf6 { [%eval 4.21] } 16. Bxh6 { [%eval 4.02] } 16... Ne5?! { [%eval 4.59] } 17. Bxf8 { [%eval 4.4] } 17... Nxd3? { [%eval 5.78] } 18. Bxb4 { [%eval 5.47] } 18... Nxc1?! { [%eval 6.4] } 19. Qxd8+? { [%eval 4.89] } 19... Rxd8 { [%eval 4.92] } 20. Rxc1 { [%eval 4.87] } 20... Rd2 { [%eval 5.07] } 1-0
+

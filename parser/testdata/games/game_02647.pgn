@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cJLMtyIs"]
+[White "agronomo48"]
+[Black "vectra"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:00"]
+[WhiteElo "1767"]
+[BlackElo "1826"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Queen's Knight Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 e6 3. Nc3 f5 4. e3 c6 5. c5 Nf6 6. h3 Be7 7. Nf3 O-O 8. Be2 Nbd7 9. a3 a6 10. O-O Qe8 11. b4 h6 12. Bb2 Kh7 13. Qc2 Ne4 14. Ne5 Nxe5 15. dxe5 Qg6 16. f4 Ng3 17. Rf3 Nxe2+ 18. Nxe2 Bh4 19. Kh2 Qh5 20. Rg1 Rg8 21. Ng3 Bxg3+ 22. Rxg3 Bd7 23. Bd4 Raf8 24. Qf2 Be8 25. Rf1 g6 26. Qf3 Qxf3 27. Rfxf3 g5 28. fxg5 Rxg5 29. Rxg5 hxg5 30. g3 Bh5 31. Rf2 Kg6 32. Kg2 Bd1 33. Kh2 Ba4 34. Kg2 Rh8 35. Kh2 Bb5 36. Rf3 Bd3 37. Rf2 Be4 38. Rd2 f4 39. exf4 gxf4 40. g4 Kg5 41. Rf2 Rf8 42. Bc3 f3 43. Kg3 Kg6 44. h4 Rf7 45. h5+ Kh7 46. g5 Kg7 47. Bd2 Rf5 48. Bf4 Kh7 49. Rh2 Kg7 50. h6+ Kh7 51. Kg4 Rf8 52. Kh5 Bg6+ 53. Kg4 Be4 54. Rf2 Bf5+ 55. Kxf3 Bg6 56. Kg3 Bh5 0-1
+

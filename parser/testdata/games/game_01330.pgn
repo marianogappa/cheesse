@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/unsSQOmb"]
+[White "miral123"]
+[Black "battmarc"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:56"]
+[WhiteElo "1844"]
+[BlackElo "1782"]
+[WhiteRatingDiff "-36"]
+[BlackRatingDiff "+39"]
+[ECO "C00"]
+[Opening "French Defense: Queen's Knight"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.16] } 1... e6 { [%eval 0.2] } 2. Nc3 { [%eval 0.18] } 2... d5 { [%eval 0.38] } 3. exd5 { [%eval 0.1] } 3... exd5 { [%eval 0.16] } 4. Qf3 { [%eval -0.25] } 4... Nf6 { [%eval -0.24] } 5. Bb5+?! { [%eval -1.05] } 5... c6 { [%eval -0.92] } 6. Ba4 { [%eval -1.14] } 6... Bb4 { [%eval -0.7] } 7. a3 { [%eval -0.84] } 7... Bxc3 { [%eval -0.55] } 8. bxc3?! { [%eval -1.4] } 8... O-O { [%eval -0.89] } 9. Ne2? { [%eval -2.44] } 9... Bg4 { [%eval -2.97] } 10. Qd3 { [%eval -2.68] } 10... Re8?! { [%eval -1.94] } 11. f3 { [%eval -1.87] } 11... Bh5 { [%eval -1.74] } 12. O-O? { [%eval -4.55] } 12... Bg6 { [%eval -4.47] } 13. Qd4 { [%eval -4.63] } 13... Rxe2 { [%eval -4.52] } 14. d3 { [%eval -4.94] } 14... Qe8?! { [%eval -4.18] } 15. Bg5 { [%eval -4.52] } 15... Nbd7 { [%eval -4.59] } 16. c4?! { [%eval -5.47] } 16... h6 { [%eval -5.03] } 17. Bxf6 { [%eval -5.08] } 17... Nxf6 { [%eval -5.01] } 18. cxd5 { [%eval -5.05] } 18... Nxd5 { [%eval -4.97] } 19. Rf2 { [%eval -5.19] } 19... Re1+ { [%eval -4.87] } 20. Rxe1?! { [%eval -5.7] } 20... Qxe1+ { [%eval -5.44] } 21. Rf1 { [%eval -5.46] } 21... Qe6? { [%eval -4.44] } 22. Bb3 { [%eval -4.54] } 22... Re8 { [%eval -4.39] } 23. Qxa7 { [%eval -4.62] } 23... Qe2?! { [%eval -3.95] } 24. Bxd5 { [%eval -3.89] } 24... cxd5 { [%eval -3.74] } 25. Qxb7? { [%eval -5.38] } 25... Qxc2 { [%eval -5.25] } 26. Qxd5?? { [%eval -16.37] } 26... Bxd3 { [%eval -13.29] } 27. Qd7 { [%eval -16.39] } 27... Re2?? { [%eval -6.97] } 28. Qd8+?? { [%eval -61.56] } 28... Kh7 { [%eval -17.25] } 29. Qh4?! { [%eval #-10] } 29... Rxg2+ { [%eval #-9] } 30. Kh1 { [%eval #-9] } 0-1
+

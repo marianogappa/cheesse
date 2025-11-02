@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/9DMeK4P1"]
+[White "majik19582"]
+[Black "jalil14000"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:46"]
+[WhiteElo "1697"]
+[BlackElo "1499"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "300+6"]
+[Termination "Normal"]
+
+1. e4 e5 2. d3 d5 3. f4 f6 4. Nf3 d4 5. Be2 Nc6 6. O-O Nh6 7. c3 Bc5 8. cxd4 Nxd4 9. fxe5 Nxe2+ 10. Kh1 Nd4 11. exf6 Qxf6 12. Bg5 Qb6 13. Ne5 Be6 14. Qh5+ Bf7 15. Nxf7 Nxf7 16. Qxf7# 1-0
+

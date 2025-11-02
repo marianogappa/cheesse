@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/pLcwZoAv"]
+[White "calnem"]
+[Black "Druser"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:18"]
+[WhiteElo "1315"]
+[BlackElo "1300"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C42"]
+[Opening "Russian Game: Urusov Gambit"]
+[TimeControl "600+10"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nxe4 4. Qe2 Nd6 5. Qxe5+ Qe7 6. Qxe7+ Bxe7 7. O-O Nxc4 8. d3 Nd6 9. Nc3 Bf6 10. d4 O-O 11. Bf4 Re8 12. Nd5 Na6 13. Rae1 Rxe1 14. Rxe1 c6 15. Bxd6 h6 16. Re8+ Kh7 17. Ne5 cxd5 18. Nxf7 Kg6 19. Nh8+ Kf5 20. f3 Bxd4+ 21. Kf1 Bc5 22. g4+ Kg5 23. Re5+ Kf4 24. Ng6+ Kxf3 25. Nh4+ Kxg4 26. Nf5 Kf4 27. Nxg7 Bxd6 28. Rxd5 Bf8 29. Nh5+ Kg4 30. Kg2 Nb4 31. Re5 Nxa2 32. h3+ Kh4 33. Re8 Bb4 34. c3 Bxc3 35. bxc3 Nxc3 36. Nf6 d5 37. Nd7 d4 38. Nc5 Bxh3+ 39. Kf3 1-0
+

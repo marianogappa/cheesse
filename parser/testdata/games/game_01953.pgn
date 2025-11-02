@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/r955q114"]
+[White "VTumane"]
+[Black "bastonetonante"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:19"]
+[WhiteElo "1661"]
+[BlackElo "1608"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be6 4. Bxe6 fxe6 5. O-O Nf6 6. d3 Nc6 7. Bg5 Be7 8. Nc3 O-O 9. h3 Nd4 10. Nxd4 exd4 11. Nb5 c6 12. Nxd4 e5 13. Ne6 Qb6 14. Nxf8 Kxf8 15. Bxf6 Bxf6 16. Qf3 Qxb2 17. g4 Qxc2 18. g5 Ke7 19. gxf6+ gxf6 20. Kh2 Rf8 21. Rg1 Kf7 22. Qh5+ Ke6 23. Qxh7 Qxf2+ 24. Kh1 Qf3+ 25. Rg2 Qxd3 26. Qf5+ Ke7 27. Rg7+ Rf7 28. Rxf7+ Kxf7 29. Qd7+ Kg6 30. Rg1+ Kh5 31. Qh7# 1-0
+

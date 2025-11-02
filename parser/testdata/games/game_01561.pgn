@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AGVSpAZt"]
+[White "hombre1967"]
+[Black "Federico111Red"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:52"]
+[WhiteElo "1583"]
+[BlackElo "1576"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "A00"]
+[Opening "Clemenz Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. h3 d6 2. Nf3 g6 3. d3 b6 4. Bg5 Bb7 5. Qd2 h6 6. Be3 Bg7 7. Nc3 Nf6 8. Nh2 h5 9. Rg1 Nbd7 10. Qc1 e5 11. Qd2 Qe7 12. Qc1 O-O-O 13. Nb5 Kb8 14. a4 a6 15. Qd2 axb5 16. axb5 Nc5 17. Qb4 Nd5 18. Qa3 Kc8 19. Bxc5 dxc5 20. c3 Nf6 21. g3 Rhe8 22. Bg2 Bxg2 23. Rxg2 e4 24. e3 exd3 25. Kd2 Ne4+ 26. Ke1 d2+ 27. Kd1 Qf6 28. Qa8+ Kd7 29. Qd5+ Ke7 30. Qxe4+ Kf8 31. Qf3 Qd6 32. Qe2 Qd5 33. f3 Qb3# 0-1
+

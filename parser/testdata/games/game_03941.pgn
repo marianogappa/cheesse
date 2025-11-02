@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0fhjuIS0"]
+[White "AblazheiRatibor"]
+[Black "vastlov"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:59"]
+[WhiteElo "1438"]
+[BlackElo "1380"]
+[WhiteRatingDiff "-21"]
+[BlackRatingDiff "+12"]
+[ECO "B07"]
+[Opening "Pirc Defense #4"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. Bc4 c5 3. Nf3 e5 4. O-O Nc6 5. Nc3 Nd4 6. Nd5 Nxf3+ 7. Qxf3 Nf6 8. Nc3 Be7 9. Bd5 O-O 10. d3 Nxd5 11. Nxd5 Be6 12. Qg3 Bxd5 13. exd5 h6 14. Bxh6 Bf6 15. f4 e4 16. dxe4 Qe7 17. e5 dxe5 18. fxe5 Qxe5 19. Rf4 Kh7 20. Raf1 gxh6 21. Qg4 Qxd5 22. Rxf6 Rae8 23. Qh4 Qd4+ 24. Kh1 Qxh4 25. g3 Qg5 26. Kg2 Re7 27. h4 Qd2+ 28. Kh3 Qd7+ 29. Kg2 Re2+ 30. R1f2 Rxf2+ 31. Rxf2 f5 32. Kh2 Re8 33. c3 Rg8 34. b4 Qd6 35. bxc5 Qxg3+ 36. Kh1 Qxf2 37. c6 Rg1# 0-1
+

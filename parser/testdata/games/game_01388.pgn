@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uyuSuMCt"]
+[White "lavivas"]
+[Black "gorynyh"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:10"]
+[WhiteElo "1397"]
+[BlackElo "1598"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+4"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Old Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.19] } 1... d5 { [%eval 0.37] } 2. c4 { [%eval 0.15] } 2... dxc4 { [%eval 0.37] } 3. e3 { [%eval 0.51] } 3... b5 { [%eval 0.75] } 4. a4 { [%eval 0.74] } 4... c6?! { [%eval 1.48] } 5. Qf3? { [%eval -0.67] } 5... Qb6? { [%eval 1.15] } 6. Na3? { [%eval -0.91] } 6... Bb7 { [%eval -0.87] } 7. axb5?! { [%eval -1.71] } 7... cxb5 { [%eval -1.57] } 8. Qf5 { [%eval -2.04] } 8... a6 { [%eval -1.96] } 9. Nf3 { [%eval -1.98] } 9... e6 { [%eval -1.93] } 10. Qe5?! { [%eval -2.71] } 10... Bxa3? { [%eval 0.13] } 11. Rxa3? { [%eval -1.69] } 11... Nc6?? { [%eval 4.12] } 12. Qc5?? { [%eval -2.58] } 12... Qxc5 { [%eval -2.47] } 13. dxc5 { [%eval -2.56] } 13... Nf6 { [%eval -2.41] } 14. b4? { [%eval -3.89] } 14... cxb3? { [%eval -1.83] } 15. Rxb3 { [%eval -2.13] } 15... Nd7?! { [%eval -1.35] } 16. Bd3? { [%eval -3.15] } 16... O-O? { [%eval -2.11] } 17. O-O?! { [%eval -2.83] } 17... Nxc5 { [%eval -2.69] } 18. Rc3 { [%eval -2.74] } 18... Na4 { [%eval -2.76] } 19. Ra3 { [%eval -2.72] } 19... Rfd8 { [%eval -2.68] } 20. Rd1? { [%eval -4.32] } 20... Nc5 { [%eval -4.06] } 21. Bb2?? { [%eval -7.06] } 21... b4 { [%eval -6.87] } 22. Bxh7+?! { [%eval -7.43] } 22... Kxh7 { [%eval -7.06] } 23. Rxd8? { [%eval -8.7] } 23... Rxd8 { [%eval -8.52] } 24. Ra1 { [%eval -8.39] } 24... Nd3 { [%eval -8.13] } 25. Rd1? { [%eval -12.35] } 25... Nxb2 { [%eval -12.02] } 26. Rxd8 { [%eval -16.42] } 26... Nxd8 { [%eval -13.78] } 27. Ng5+ { [%eval -18.88] } 27... Kg8 { [%eval -17.82] } 28. Kf1 { [%eval -20.33] } 28... f6 { [%eval -16.58] } 0-1
+

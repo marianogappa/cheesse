@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/OWqRP4mZ"]
+[White "gasel"]
+[Black "Legate"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:45"]
+[WhiteElo "1922"]
+[BlackElo "2074"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+8"]
+[ECO "C30"]
+[Opening "King's Gambit Declined, Classical Variation"]
+[TimeControl "30+2"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.31] } 1... e5 { [%eval 0.45] } 2. f4?! { [%eval -0.27] } 2... Bc5?! { [%eval 0.27] } 3. Nf3 { [%eval 0.14] } 3... d6 { [%eval 0.31] } 4. Bc4?! { [%eval -0.35] } 4... Nf6 { [%eval -0.32] } 5. Nc3 { [%eval -0.31] } 5... Nc6 { [%eval -0.27] } 6. Na4 { [%eval -0.6] } 6... Bb6?! { [%eval 0.12] } 7. Nxb6 { [%eval 0.02] } 7... axb6 { [%eval 0.0] } 8. d3 { [%eval 0.0] } 8... h6 { [%eval 0.44] } 9. fxe5 { [%eval 0.43] } 9... dxe5 { [%eval 0.44] } 10. Be3 { [%eval 0.34] } 10... O-O { [%eval 0.41] } 11. O-O { [%eval 0.2] } 11... Qe7 { [%eval 0.28] } 12. c3 { [%eval -0.15] } 12... Bg4 { [%eval 0.2] } 13. Qd2?! { [%eval -0.4] } 13... Rad8? { [%eval 1.05] } 14. Bb3? { [%eval -1.14] } 14... Nxe4 { [%eval -1.06] } 15. Qe2 { [%eval -1.13] } 15... Nc5 { [%eval -1.0] } 16. h3?! { [%eval -1.68] } 16... Bxf3 { [%eval -1.55] } 17. Rxf3 { [%eval -1.56] } 17... Nxb3 { [%eval -1.5] } 18. axb3 { [%eval -1.63] } 18... e4?! { [%eval -0.81] } 19. dxe4 { [%eval -0.83] } 19... Qxe4 { [%eval -0.91] } 20. Qf1 { [%eval -0.93] } 20... Rd3 { [%eval -0.56] } 21. Re1 { [%eval -0.53] } 21... Qg6 { [%eval -0.35] } 22. h4?! { [%eval -1.22] } 22... Re8 { [%eval -1.17] } 23. h5 { [%eval -1.56] } 23... Qd6 { [%eval -1.48] } 24. Rxf7?? { [%eval -5.08] } 24... Rdxe3 { [%eval -5.02] } 25. Rxe3 { [%eval -4.99] } 25... Rxe3 { [%eval -4.89] } 26. Rf8+?? { [%eval -12.78] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kPG0aGhB"]
+[White "brida7"]
+[Black "more_hawk"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:54"]
+[WhiteElo "1489"]
+[BlackElo "1543"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[ECO "C20"]
+[Opening "English Opening: The Whale"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. c4 Qf6 3. Nc3 c6 4. d3 Bc5 5. Be3 Bb4 6. Bd2 b6 7. Qf3 h6 8. Qxf6 Nxf6 9. a3 Bxc3 10. Bxc3 d6 11. Nf3 Bg4 12. Be2 Bxf3 13. Bxf3 Nbd7 14. d4 c5 15. d5 h5 16. h3 g5 17. b4 a5 18. b5 Nf8 19. a4 Ng6 20. O-O-O Nf4 21. Rde1 Rg8 22. g3 Ng6 23. g4 hxg4 24. hxg4 Nf4 25. Rh6 Ke7 26. Bd2 Nd3+ 27. Kc2 Nxe1+ 28. Bxe1 Rh8 29. Rh1 Rxh1 30. Bxh1 Nxg4 31. Bf3 Nh2 32. Bg2 g4 33. f3 gxf3 34. Bh1 f2 35. Bxf2 Rg8 36. Bh4+ f6 37. Kd2 Rg1 38. Bg3 Rxh1 39. Ke2 Ng4 40. Kf3 Nh6 41. Kg2 Ra1 42. Kh3 Rxa4 43. Bf2 Rxc4 44. Kh4 Rxe4+ 45. Kh5 Nf5 46. Kg6 Nd4 47. Bh4 Rf4 48. Bg3 Rf3 49. Bh4 a4 50. Be1 a3 51. Kh5 a2 52. Kg4 a1=Q 53. Bh4 Qg1+ 54. Kh5 Qg8 55. Kh6 Rh3 56. Kh5 Nf3 0-1
+

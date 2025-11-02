@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cerjFdM7"]
+[White "cienki_bolek"]
+[Black "boucha"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:26"]
+[WhiteElo "1551"]
+[BlackElo "1470"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "C48"]
+[Opening "Four Knights Game: Spanish Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 d5 5. exd5 Nxd5 6. O-O a6 7. Ba4 b5 8. Bb3 Nxc3 9. dxc3 Bc5 10. Re1 O-O 11. Be3 Bxe3 12. Rxe3 Qf6 13. Qe1 Re8 14. Bd5 Bb7 15. Nd4 Rab8 16. Bxc6 Bxc6 17. Nxc6 Qxc6 18. Rxe5 Rxe5 19. Qxe5 Re8 20. Qd4 Qe6 21. h3 Qg6 22. Qd1 Qf6 23. a4 bxa4 24. Rxa4 Rd8 25. Qa1 Rd5 26. Rxa6 Qe7 27. Ra8+ Rd8 28. Rxd8+ Qxd8 29. b4 f6 30. c4 g5 31. b5 Qd6 32. Qc3 Qe6 33. c5 Qe7 34. b6 cxb6 35. cxb6 Qc7 36. Qxf6 Qxc2 37. Qxg5+ Kf7 38. b7 Qb1+ 39. Kh2 Qxb7 40. Qh5+ Ke6 41. f4 Qc7 42. Qh6+ Kd5 43. Qg5+ Ke4 44. Qe5+ Qxe5 45. fxe5 Kxe5 46. Kg3 Kf5 47. Kf3 Kg5 48. g3 h5 49. Ke4 h4 50. g4 Kg6 51. Ke5 Kg5 52. Ke4 Kg6 53. Kf4 Kf6 54. g5+ Kg6 55. Kg4 Kg7 56. Kxh4 Kg6 57. Kg4 Kg7 58. h4 Kg6 59. h5+ Kg7 60. Kf5 Kh7 61. Kf6 Kg8 62. h6 Kh8 63. g6 Kg8 64. h7+ Kh8 65. g7+ 1-0
+

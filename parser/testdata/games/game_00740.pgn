@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/j8KCwRn2"]
+[White "gianflisi"]
+[Black "jony77"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:46"]
+[WhiteElo "1413"]
+[BlackElo "1319"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Tennison Gambit"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng1 Nf6 4. d3 Bg4 5. f3 exf3 6. Nxf3 e5 7. h3 Bh5 8. g4 Bg6 9. Nxe5 c6 10. Qe2 Nbd7 11. Nxc6+ Be7 12. Nxd8 Rxd8 13. Bg5 h6 14. Bxf6 gxf6 15. Nc3 O-O 16. O-O-O Rfe8 17. Qf3 Ne5 18. Qxb7 f5 19. gxf5 Bxf5 20. Rg1+ Kh8 21. Qg2 a6 22. Qg7# 1-0
+

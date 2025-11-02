@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mz9IDA7x"]
+[White "josip712"]
+[Black "alihakan"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:57"]
+[WhiteElo "1760"]
+[BlackElo "1760"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.29] } 1... c5 { [%eval 0.2] } 2. Bc4 { [%eval -0.18] } 2... Nc6 { [%eval -0.13] } 3. Nf3 { [%eval 0.04] } 3... g6 { [%eval 0.38] } 4. Ng5?! { [%eval -0.56] } 4... e6 { [%eval -0.38] } 5. f4 { [%eval -0.85] } 5... Be7?! { [%eval -0.23] } 6. O-O { [%eval -0.57] } 6... Bxg5?! { [%eval 0.32] } 7. fxg5 { [%eval 0.31] } 7... Qxg5?! { [%eval 1.05] } 8. d4 { [%eval 0.86] } 8... Qe7 { [%eval 0.81] } 9. d5 { [%eval 0.89] } 9... Ne5 { [%eval 0.98] } 10. Be2 { [%eval 0.75] } 10... f6?! { [%eval 1.25] } 11. b3 { [%eval 0.85] } 11... a6 { [%eval 1.19] } 12. c4?! { [%eval 0.51] } 12... b6?! { [%eval 1.2] } 13. Bb2 { [%eval 0.94] } 13... d6 { [%eval 0.81] } 14. Nd2 { [%eval 0.51] } 14... exd5 { [%eval 0.7] } 15. cxd5 { [%eval 0.71] } 15... Nh6 { [%eval 0.63] } 16. Rf2?! { [%eval -0.21] } 16... O-O { [%eval -0.22] } 17. Nf3? { [%eval -1.8] } 17... Nxf3+? { [%eval -0.11] } 18. Bxf3 { [%eval -0.59] } 18... f5? { [%eval 1.69] } 19. Qd2?! { [%eval 0.79] } 19... Ng4? { [%eval 3.0] } 20. Re2? { [%eval 0.16] } 20... fxe4?? { [%eval 4.62] } 21. Rxe4 { [%eval 4.58] } 21... Qf7 { [%eval 4.27] } 22. Bxg4?! { [%eval 3.66] } 22... Bxg4 { [%eval 3.76] } 23. Rxg4 { [%eval 3.62] } 23... Rae8 { [%eval 3.28] } 24. Qc3?? { [%eval #-3] } 24... Qf2+ { [%eval #-2] } 25. Kh1 { [%eval #-2] } 25... Qf1+ { [%eval #-1] } 0-1
+

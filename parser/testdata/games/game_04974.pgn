@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PFsHkTx2"]
+[White "vidavi"]
+[Black "Musonius"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:02"]
+[WhiteElo "2238"]
+[BlackElo "2243"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "E76"]
+[Opening "King's Indian Defense: Steiner Attack"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f3 d6 6. Bg5 h6 7. Be3 e5 8. d5 c6 9. Qd2 cxd5 10. cxd5 Nh5 11. Bd3 Nf4 12. Bf1 Kh7 13. g3 Nh5 14. Bd3 a6 15. a4 Nd7 16. Nge2 b6 17. O-O Nc5 18. Bc2 a5 19. Nb5 f5 20. exf5 Bxf5 21. Nec3 Qd7 22. Ne4 Bxe4 23. Bxe4 Nf6 24. Bc2 Rae8 25. Rad1 e4 26. f4 Ng4 27. Bd4 e3 28. Qe2 h5 29. Kg2 Nf2 30. Rxf2 exf2 31. Qxf2 Re7 32. Bxg7 Rxg7 33. Re1 Re7 34. Rxe7+ Qxe7 35. f5 gxf5 36. Bxf5+ Kh8 37. Qd4+ Qe5 38. Qxe5+ dxe5 39. Bg6 h4 40. gxh4 Kg7 41. h5 Rd8 42. d6 Nb7 43. Kf3 Nxd6 44. Nxd6 Rxd6 45. Ke4 Kf6 46. Be8 Rd4+ 47. Ke3 Rh4 48. Kd3 Rxh2 49. b3 Ke7 50. Bg6 Rh4 51. Be4 Rxh5 52. Kc4 Rh4 53. Kd5 Kf6 54. Bg2 Rb4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/yfx0nGlO"]
+[White "exiit"]
+[Black "zeitgeist_kaal"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:05"]
+[WhiteElo "1679"]
+[BlackElo "1651"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "A40"]
+[Opening "Englund Gambit Declined, Reversed French"]
+[TimeControl "0+4"]
+[Termination "Normal"]
+
+1. e3 e5 2. d4 exd4 3. exd4 d5 4. Nf3 Nf6 5. g3 Bd6 6. Bg2 Bg4 7. O-O O-O 8. h3 Bh5 9. Bg5 h6 10. Be3 Nc6 11. Nbd2 Ne7 12. c4 Nf5 13. c5 Be7 14. g4 Nxe3 15. fxe3 Bg6 16. Ne5 Bh7 17. Qf3 Ne4 18. Nxe4 Bxe4 19. Qg3 Bxg2 20. Kxg2 b6 21. Nc6 Qd7 22. Nxe7+ Qxe7 23. cxb6 axb6 24. Rae1 Qe4+ 25. Qf3 Rxa2 26. Qxe4 Rxb2+ 27. Kf3 dxe4+ 28. Kxe4 Re8+ 29. Kf3 Rb3 30. Rf2 c5 31. d5 Rd3 32. Rb2 Rxd5 33. Rxb6 Rc8 34. Rc1 c4 35. Ke4 Rd2 36. Rc3 Rh2 37. Rb4 Rxh3 38. Rbxc4 Re8+ 39. Kf4 g5+ 40. Kf5 Rhxe3 41. Rxe3 Rxe3 42. Rc6 Rf3+ 43. Ke5 Kg7 44. Rc4 Kg6 45. Re4 f6+ 46. Ke6 Rf4 0-1
+

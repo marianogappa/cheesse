@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/htBTHlJw"]
+[White "ugurkoseoglu19"]
+[Black "wsliang"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:06"]
+[WhiteElo "1517"]
+[BlackElo "1490"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[ECO "C68"]
+[Opening "Ruy Lopez: Exchange Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nxe5 Qd4 6. Qh5 g6 7. Qg5 f6 8. Qg3 Qxe4+ 9. Kd1 Qxe5 10. Qd3 Bf5 11. Qb3 O-O-O 12. Re1 Qxh2 13. d4 Bg7 14. Qf7 Qh5+ 15. Kd2 Rxd4+ 16. Kc3 Rd8 17. Qxg7 Nh6 18. Bxh6 Rdg8 19. Qxf6 Qxh6 20. f3 Qg7 21. Qxg7 Rxg7 22. g4 Bd7 23. Na3 h5 24. gxh5 gxh5 25. Nc4 Rg5 26. Ne5 h4 27. Nxd7 Kxd7 28. Rad1+ Kc8 29. Rh1 h3 30. Rd3 h2 31. Rd2 Rc5+ 32. Kd4 Rch5 33. f4 Kd7 34. Ke4+ Ke7 35. f5 Kf6 36. Rf2 Rh3 37. c4 c5 38. Kd5 b6 39. Kc6 R3h5 40. Kxc7 Rxf5 41. Rfxh2 Rxh2 42. Rxh2 b5 43. Rh6+ Kg7 44. Rxa6 bxc4 45. a4 c3 46. bxc3 Rf3 47. c4 Rc3 48. a5 Rxc4 49. Rc6 Kf7 50. a6 Ra4 51. Kb7 Ke7 52. a7 Kd7 53. a8=Q Rxa8 54. Rxc5 Rh8 55. Rc7+ Kd6 56. Rc6+ Kd5 57. Rc7 Ke4 58. Rc4+ Kd5 59. Rc7 Kd6 60. Rc6+ Kd5 61. Kc7 Kd4 62. Kd7 Ke5 63. Rd6 Ke4 64. Ke7 Ke5 65. Kf7 Ke4 66. Ke6 Rh6+ 67. Kd7 Rxd6+ 68. Kxd6 1/2-1/2
+

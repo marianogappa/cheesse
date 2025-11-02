@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/5BrBOZv4"]
+[White "valerioneto"]
+[Black "Urdysh"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:04"]
+[WhiteElo "1656"]
+[BlackElo "1767"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "C46"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Nxe4 5. Nxe4 d5 6. d4 dxe4 7. Nxe5 Nxe5 8. dxe5 Bf5 9. Qh5 Bg6 10. Qe2 Bc5 11. Be3 Qe7 12. O-O O-O-O 13. h3 Bf5 14. g4 Qxe5 15. gxf5 Bd6 16. f4 Qf6 17. Qg4 h5 18. Qg5 Qxb2 19. Bxf7 Qc3 20. Be6+ Kb8 21. Rae1 Bb4 22. Qg2 Qb2 23. Re2 Rde8 24. a4 Qf6 25. Rd1 Qh4 26. Rf1 g6 27. Bf2 Qf6 28. Qxe4 gxf5 29. Qxb4 Rxe6 30. Bd4 Rg8+ 31. Kh2 Rxe2+ 32. Rf2 Rxf2+ 33. Bxf2 Qc6 34. Bg3 Qxc2+ 35. Kg1 Rxg3+ 36. Kf1 Qg2+ 37. Ke1 Re3+ 38. Kd1 Qe2+ 39. Kc1 Qe1+ 40. Qxe1 Rxe1+ 41. Kd2 Rh1 42. Ke3 Rxh3+ 43. Kd4 Ra3 44. Ke5 h4 45. Kxf5 h3 46. Kg4 h2 47. f5 h1=Q 48. f6 Qg1+ 49. Kf5 Qf1+ 50. Kg6 Rg3+ 51. Kf7 Qc4+ 52. Ke7 Re3+ 53. Kf8 Re8+ 54. Kxe8 Qxa4+ 0-1
+

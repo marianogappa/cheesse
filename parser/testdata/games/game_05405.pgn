@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/J9G5UBo6"]
+[White "adyummi"]
+[Black "iv78"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:49"]
+[WhiteElo "1400"]
+[BlackElo "1426"]
+[WhiteRatingDiff "-68"]
+[BlackRatingDiff "+8"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Tennison Gambit"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. e4 dxe4 3. Nd4 Nf6 4. c3 e6 5. d3 exd3 6. Qxd3 Be7 7. Be3 O-O 8. f4 Nbd7 9. f5 exf5 10. Nxf5 Re8 11. Nd4 Nc5 12. Qb5 Bd6 13. Ke2 a6 14. Qc4 b5 15. Qd3 Nxd3 16. Kxd3 Bb7 0-1
+

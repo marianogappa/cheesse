@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MTNEvhFt"]
+[White "Taul"]
+[Black "shahtigr"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:27"]
+[WhiteElo "1884"]
+[BlackElo "1836"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "C06"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation, Main Line"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4 f6 9. f4 Qb6 10. Nf3 fxe5 11. fxe5 Bb4+ 12. Bd2 O-O 13. O-O Ndxe5 14. Nxe5 Nxe5 15. Bxb4 Rxf1+ 16. Qxf1 Qxb4 17. dxe5 Qxb2 18. Nf4 Qxe5 19. Re1 Qd4+ 20. Kh1 e5 21. Nh5 e4 22. Bc2 Bg4 23. Ng3 Rf8 24. Qb5 Qd2 25. Qb1 Rf2 26. Bxe4 dxe4 27. Qxe4 Qf4 28. Qxb7 1-0
+

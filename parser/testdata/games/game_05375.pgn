@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/g2Xnf0yN"]
+[White "jrlegal"]
+[Black "rebroff77"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:42"]
+[WhiteElo "1336"]
+[BlackElo "1401"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e3 e5 2. c4 e4 3. d4 d5 4. Qa4+ Bd7 5. Qb3 Bc6 6. Nc3 dxc4 7. Bxc4 Qe7 8. d5 Bd7 9. Qxb7 Qb4 10. Qxb4 Bxb4 11. a3 Bc5 12. Nxe4 Nf6 13. Nxc5 O-O 14. Nf3 Bf5 15. e4 Nxe4 16. Nxe4 Bxe4 17. Ng5 Bf5 18. Bf4 Nd7 19. d6 cxd6 20. Bxd6 Rfe8+ 21. Kd2 Rac8 22. Bxf7+ Kh8 23. Bxe8 Rxe8 24. Nf7+ Kg8 25. Ng5 Nf6 26. Rae1 Rd8 27. Nf7 Kxf7 28. Re7+ Kg6 29. h4 Rxd6+ 30. Ke3 Nd5+ 31. Kf3 Nxe7 32. h5+ Kg5 33. h6 g6 34. Kg3 Rd3+ 35. f3 Nd5 36. Rh4 Ne3 37. Kh2 Nf1+ 38. Kg1 Nd2 39. Rh3 Nc4 40. g3 Rxf3 41. Rh4 Rxg3+ 0-1
+

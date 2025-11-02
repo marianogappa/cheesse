@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/E7qkGoad"]
+[White "Jeremiah215"]
+[Black "potato7890"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:27"]
+[WhiteElo "1611"]
+[BlackElo "1505"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Open #3"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 g6 6. Bc4 Bg7 7. Nxc6 bxc6 8. O-O Be5 9. Bd2 Bb8 10. Qf3 e6 11. e5 Bxe5 12. Rfe1 Qc7 13. Rab1 Bxh2+ 14. Kf1 Be5 15. Ne4 Bg7 16. Qd3 d5 17. Nc5 dxc4 18. Qxc4 Ne7 19. Bc3 Bxc3 20. Qxc3 O-O 21. Qe3 Nf5 22. Qf3 a5 23. g4 Ne7 24. Ne4 Ba6+ 25. Kg1 f5 26. gxf5 Rxf5 27. Qh3 Qe5 28. Ng3 Qf6 29. Nxf5 Nxf5 30. c3 Qg5+ 31. Qg2 Qf6 32. Rbc1 Bb7 33. Re2 Rb8 34. Qh2 Nh4 35. Qxb8+ Kg7 36. Qxb7+ Kh6 37. Qxc6 Qg5+ 38. Kf1 Qxc1+ 39. Re1 Qd2 40. Qxe6 Qd3+ 41. Kg1 Qf3 42. Qe3+ Qxe3 43. Rxe3 Nf5 44. Rh3+ Kg5 45. c4 h5 46. c5 Kf6 47. Rc3 Ke6 48. c6 Kd6 49. b4 axb4 50. Rb3 Kxc6 51. Rxb4 Kc5 52. Rb8 Kd4 53. Kg2 Ke4 54. Re8+ Kf4 55. Rg8 Nh4+ 56. Kh3 g5 57. a4 Nf3 58. a5 g4+ 59. Kg2 Ne1+ 60. Kf1 Nd3 61. a6 Kf3 62. Rf8+ Ke4 63. a7 h4 64. a8=Q+ Kd4 65. Rd8+ Kc3 66. Rxd3+ Kxd3 67. Qh8 Ke4 68. Qxh4 Kf3 69. Kg1 Kf4 70. Qg3+ Kg5 71. Kg2 Kf5 72. Qh4 Kf4 73. f3 Ke3 74. fxg4 Kd2 75. g5 Kc3 76. g6 Kb3 77. g7 Kc2 78. g8=Q Kd3 79. Qgg3+ Kd2 80. Kf3 Kc3 81. Kf4+ Kd4 82. Kf5+ Kd5 83. Kg6 Ke6 84. Qgg5 Kd7 85. Kh5 Kd6 86. Kg4 Kc6 87. Qhh6+ Kd7 88. Qgg7+ Kc8 89. Qhh8# 1-0
+

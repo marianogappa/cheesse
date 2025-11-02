@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/xBnPhXZN"]
+[White "AligiereTensa"]
+[Black "kingsharkjr"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:53"]
+[WhiteElo "1260"]
+[BlackElo "1179"]
+[WhiteRatingDiff "-26"]
+[BlackRatingDiff "+14"]
+[ECO "D00"]
+[Opening "Amazon Attack"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Qd3 Nc6 3. Qf5 Bxf5 4. c3 e5 5. e4 exd4 6. exf5 Qe7+ 7. Kd1 Nf6 8. cxd4 O-O-O 9. Bb5 Re8 10. Bxc6 Qe1+ 11. Kc2 Re2+ 12. Kd3 Qxc1 13. Nc3 Ne4 14. Ncxe2 Qd2# 0-1
+

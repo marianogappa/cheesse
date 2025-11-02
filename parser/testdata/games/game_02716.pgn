@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/YZcv0RBC"]
+[White "gwagner"]
+[Black "traian_patrusel"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:12"]
+[WhiteElo "1855"]
+[BlackElo "1811"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. Nf3 Be7 3. Bg5 Bxg5 4. e3 Be7 5. c3 Nf6 6. Bd3 d5 7. Qc2 c5 8. Nbd2 c4 9. Be2 Nc6 10. e4 b5 11. e5 Nd7 12. O-O a5 13. Rfe1 b4 14. h3 bxc3 15. bxc3 Ba6 16. Nh2 O-O 17. f4 f6 18. Bg4 f5 19. Bh5 g6 20. Be2 Bh4 21. Rf1 Bg3 22. Nhf3 Bxf4 23. Rf2 Be3 24. Rf1 Bxf2+ 25. Rxf2 Rf7 26. Nh2 Nf8 27. Qd1 g5 28. Ndf3 Rg7 29. Qd2 h5 30. Ne1 g4 31. hxg4 hxg4 32. Nf1 Ng6 33. Ng3 Nh4 34. Qh6 Qg5 35. Qxe6+ Kh7 36. Qxc6 Qe3 37. Qxd5 Nxg2 38. Kxg2 Bb7 39. Qxb7 Rxb7 40. Nxf5 Qxf2+ 41. Kxf2 Rf7 42. Kg3 Rxf5 43. Bxg4 Rf4 44. Ng2 Rxg4+ 45. Kxg4 Rg8+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/KAsrN61R"]
+[White "sik2"]
+[Black "milanbelobrk"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:28"]
+[WhiteElo "1731"]
+[BlackElo "2022"]
+[WhiteRatingDiff "+21"]
+[BlackRatingDiff "-20"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. e3 d6 3. c4 Be7 4. Nf3 c5 5. Be2 cxd4 6. exd4 b6 7. b3 Bb7 8. Bb2 Nd7 9. O-O Ngf6 10. Ne1 O-O 11. Bf3 Bxf3 12. Nxf3 Rc8 13. Nbd2 d5 14. cxd5 Nxd5 15. Ne5 N7f6 16. Ndf3 Bd6 17. Re1 Qc7 18. Rc1 Qb8 19. Rxc8 Rxc8 20. Qb1 Qc7 21. Rc1 Qb7 22. Rc2 Rxc2 23. Qxc2 Qc7 24. Qxc7 Bxc7 25. Ba3 a6 26. Nd2 b5 27. Bc5 h6 28. h3 Bxe5 29. dxe5 Nd7 30. Bd6 Nf4 31. Ne4 Nd3 32. Kf1 N3xe5 33. Ke2 Nc6 34. Bc7 f6 35. Nd6 e5 36. Nf5 Kf7 37. Nd6+ Ke6 38. Nc8 Nc5 39. Bb6 Ne4 40. f3 Nc3+ 41. Kd3 Nxa2 42. Ba5 Nab4+ 43. Bxb4 Nxb4+ 44. Kc3 Nd5+ 45. Kb2 Ne3 46. Ka3 Nxg2 47. Nb6 Nh4 48. Kb4 Nxf3 49. Ka5 Ng5 50. Kxa6 b4 51. Kb5 Nxh3 52. Kxb4 g5 53. Kc5 g4 54. b4 g3 55. Nc4 g2 56. Ne3 g1=Q 57. b5 1-0
+

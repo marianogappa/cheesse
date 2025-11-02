@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/oy7xuP54"]
+[White "placidacres"]
+[Black "Mister-X-Mister-X"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:40"]
+[WhiteElo "1148"]
+[BlackElo "1099"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+1"]
+[ECO "C27"]
+[Opening "Vienna Game"]
+[TimeControl "1500+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 c6 3. Nf3 f6 4. d4 d6 5. Nh4 g5 6. Nf3 h6 7. h4 Rh7 8. hxg5 fxg5 9. dxe5 Rd7 10. Be2 dxe5 11. Nxe5 Rxd1+ 12. Nxd1 Bb4+ 13. c3 Bd6 14. Nc4 Bc5 15. Ne5 Nd7 16. Ng6 Ngf6 17. Rxh6 Kf7 18. Bc4+ Kg7 19. Bxg5 Ne5 20. Nxe5 Nxe4 21. Bxd8 Kxh6 22. Nf7+ Kg7 23. Ne5 Bf5 24. b4 Bxf2+ 25. Nxf2 Rxd8 26. Nf7 Rd2 27. Nxe4 Rc2 28. Bd3 Rxg2 29. Ne5 Rg1+ 30. Kf2 Rxa1 31. Nd6 Rxa2+ 32. Ke3 Bh3 33. Nf5+ Kf6 34. Nd7+ Ke6 35. Nc5+ Ke5 36. Nxb7 Bxf5 37. Bxf5 Kxf5 38. Nd6+ Ke5 39. Nc4+ Ke6 40. Nd2 a6 41. Nf3 c5 42. bxc5 a5 43. Ng5+ Kd5 44. c6 Kxc6 45. Ne4 Rc2 46. Nd2 Rb2 47. Nc4 Ra2 48. Ne5+ Kb5 49. c4+ Kc5 50. Nd3+ Kxc4 51. Ne5+ Kd5 52. Nd3 a4 53. Nb4+ Kc4 54. Nxa2 Kb3 55. Nc1+ Kb2 56. Nd3+ Kb3 57. Nc1+ Kc2 58. Na2 a3 59. Kf3 Kb2 60. Ke3 Kxa2 61. Kd3 Kb3 62. Kd2 Kb2 63. Kd1 a2 64. Kd2 a1=Q 65. Kd3 Qa3+ 66. Kd4 Qc3+ 67. Kd5 Kc2 68. Ke4 Qd3+ 69. Ke5 Kd2 70. Kf4 Qe3+ 71. Kf5 Ke2 72. Kf6 Qd4+ 73. Kf5 Ke3 74. Ke6 Qc4+ 75. Kd7 Qd5+ 76. Ke7 Ke4 77. Kf6 Qe5+ 78. Kf7 Kf5 79. Kg8 Qe6+ 80. Kh7 Qf6 81. Kg8 Kg6 1/2-1/2
+

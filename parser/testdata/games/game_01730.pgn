@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/9IGWJmcd"]
+[White "sachbox"]
+[Black "BenR05"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:33"]
+[WhiteElo "1256"]
+[BlackElo "1290"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Old Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. e3 e6 4. Qa4+ Qd7 5. Qxc4 b5 6. Qxb5 Qxb5 7. Bxb5+ c6 8. Ba4 Bd7 9. Nf3 f6 10. e4 c5 11. Bxd7+ Nxd7 12. dxc5 Nxc5 13. O-O Nxe4 14. Re1 Ng5 15. Nxg5 fxg5 16. Rxe6+ Be7 17. Bxg5 Nf6 18. Nc3 Kd7 19. Re2 Rac8 20. Nb5 Rc5 21. Bxf6 Bxf6 22. Rd1+ Kc6 23. Nxa7+ Kb6 24. Re6+ Kxa7 25. Rd7+ Kb8 26. Rb6+ Kc8 27. Rbb7 Rc1+ 0-1
+

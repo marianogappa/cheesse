@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XR2JGhJp"]
+[White "tomamisz"]
+[Black "mo-alfiky"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:45"]
+[WhiteElo "1682"]
+[BlackElo "1636"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "A43"]
+[Opening "Benoni Defense: Benoni Gambit Accepted"]
+[TimeControl "360+0"]
+[Termination "Time forfeit"]
+
+1. d4 c5 2. dxc5 Qa5+ 3. Nc3 Qxc5 4. Be3 Qb4 5. Rb1 Nc6 6. a3 Qa5 7. Bd2 e6 8. Nf3 a6 9. g3 Qb6 10. Be3 Qa5 11. Bg2 d5 12. O-O Nf6 13. Nd4 Nxd4 14. Bxd4 Be7 15. e4 dxe4 16. Nxe4 Qf5 17. Nxf6+ Bxf6 18. Bxf6 Qxf6 19. c3 O-O 20. Qb3 Rb8 21. Rbd1 b5 22. Rd6 Qe5 23. Rfd1 Qe2 24. Bf1 Qf3 25. Bg2 Qe2 26. Qb4 a5 27. Qxa5 Qxb2 28. Rd8 Bb7 29. Rxf8+ Rxf8 30. Bxb7 1-0
+

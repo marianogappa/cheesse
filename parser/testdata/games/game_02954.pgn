@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/eZdUyCI2"]
+[White "scrauler"]
+[Black "zkralla"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:03"]
+[WhiteElo "1546"]
+[BlackElo "1633"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "B07"]
+[Opening "Pirc Defense #4"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.29] } 1... d6 { [%eval 0.47] } 2. Bc4 { [%eval 0.19] } 2... f6? { [%eval 1.43] } 3. Qh5+?! { [%eval 0.66] } 3... g6 { [%eval 0.6] } 4. Qf3 { [%eval 0.43] } 4... a6 { [%eval 0.76] } 5. e5? { [%eval -0.98] } 5... b5?? { [%eval 4.15] } 6. Bb3?? { [%eval 0.56] } 6... dxe5?? { [%eval 4.62] } 7. d4?? { [%eval -0.17] } 7... exd4?? { [%eval 2.92] } 8. Ne2?? { [%eval -0.41] } 8... e5?? { [%eval 3.29] } 9. O-O?? { [%eval -0.82] } 9... Qe7?? { [%eval 6.7] } 10. Re1?? { [%eval 0.1] } 10... Be6?? { [%eval 8.52] } 11. Bxe6?? { [%eval 5.0] } 11... Qxe6 { [%eval 5.21] } 12. Nxd4 { [%eval 5.08] } 12... Nd7?? { [%eval 17.89] } 13. Nxe6 { [%eval 16.18] } 13... Ke7 { [%eval 19.98] } 14. Nxc7 { [%eval 19.83] } 14... Rc8 { [%eval 22.01] } 15. Nd5+ { [%eval 14.55] } 15... Kf7 { [%eval 14.7] } 16. Nxf6 { [%eval 11.82] } 16... Ngxf6 { [%eval 11.6] } 17. Rxe5?? { [%eval 4.77] } 17... Nxe5 { [%eval 4.73] } 18. Qb7+ { [%eval 4.59] } 18... Ned7?? { [%eval 11.96] } 19. Qxc8 { [%eval 11.62] } 19... Be7 { [%eval 17.83] } 20. Bg5?? { [%eval -3.08] } 20... Rxc8 { [%eval -2.98] } 21. Bxf6? { [%eval -4.82] } 21... Bxf6? { [%eval -3.17] } 22. Nc3? { [%eval -4.7] } 22... Bxc3 { [%eval -4.5] } 0-1
+

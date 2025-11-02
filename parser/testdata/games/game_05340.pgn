@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/5I4LyCXE"]
+[White "AlfredGjoncari"]
+[Black "andrewsus"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:33"]
+[WhiteElo "1601"]
+[BlackElo "1750"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack, Tal Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 d5 3. exd5 Nf6 4. c4 e6 5. dxe6 Bxe6 6. b3 Bd6 7. d4 cxd4 8. Qxd4 Nc6 9. Qf2 Ne4 10. Qf3 Bb4+ 11. Ke2 Nd4+ 12. Ke3 Nxf3 13. Nxf3 Nf6 14. Bd3 Bc5+ 15. Ke2 O-O 16. Bb2 Re8 17. Be5 Ng4 18. Nc3 Nf6 19. h3 Nd7 20. Rad1 Nxe5 21. Nxe5 Qf6 22. g3 g5 23. Ne4 Qe7 24. Nxg5 h6 25. Nh7 Rad8 26. f5 Bxf5 27. Bxf5 Qxe5+ 28. Kf3 Qxf5+ 29. Kg2 Qf2# 0-1
+

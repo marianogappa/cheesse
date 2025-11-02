@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Richt6ya"]
+[White "DrLegendaddy"]
+[Black "FerCoss"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:46"]
+[WhiteElo "1584"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-138"]
+[ECO "C50"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "300+10"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bc5 5. O-O d5 6. exd5 Nxd5 7. d4 f6 8. dxe5 fxe5 9. Re1 Bf5 10. Nxe5 Nxe5 11. Rxe5+ Kd7 12. Qxd5+ Kc8 13. Qxd8+ Kxd8 14. Rxf5 Bd6 15. Bf4 Re8 16. Bxd6 cxd6 17. Nb5 Rc8 18. Nxd6 g6 19. Nxe8 Kxe8 20. Re5+ Kd7 21. Be6+ Kd6 22. Bxc8 Kxe5 23. Re1+ Kf6 24. f4 g5 25. g4 gxf4 26. h4 h6 27. Re6+ Kf7 28. Kf2 b5 29. Kf3 a5 30. Kxf4 b4 31. Kf5 a4 32. Rxh6 b3 33. cxb3 axb3 34. axb3 Ke7 35. Ke5 Kf7 36. Rf6+ Ke7 37. Kf5 Kd8 38. Ke6 Kxc8 39. Rf7 Kd8 40. Re7 Kc8 41. Rd7 Kb8 42. Kd6 Kc8 43. Rc7+ Kd8 44. Kc6 Ke8 45. Kd6 Kd8 46. Kc6 Ke8 47. Rd7 Kf8 48. Kd6 Ke8 49. Ke6 Kf8 50. Re7 Kg8 51. Rf7 Kh8 52. Kf6 Kg8 53. Kg6 Kh8 54. Rf8# 1-0
+

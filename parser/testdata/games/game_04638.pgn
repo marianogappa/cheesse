@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Akb4Ufr3"]
+[White "allanimals"]
+[Black "sqalim76"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:50"]
+[WhiteElo "1363"]
+[BlackElo "1079"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "B00"]
+[Opening "King's Pawn Game: Nimzowitsch Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. d4 Nf6 3. Nc3 d6 4. Bc4 a6 5. Nf3 b5 6. Bd3 b4 7. Nd5 Nxd5 8. exd5 Na5 9. O-O e5 10. dxe5 Qe7 11. Re1 dxe5 12. Nxe5 Qf6 13. Ng4+ Kd8 14. Nxf6 gxf6 15. Qh5 b3 16. axb3 Nc6 17. dxc6 Be6 18. Bxa6 Bd6 19. Bd2 Rg8 20. Qxh7 Ke7 21. Bc4 Rh8 22. Rxe6+ Kf8 23. Qxh8# 1-0
+

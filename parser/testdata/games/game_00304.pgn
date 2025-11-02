@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/IAOHuaIL"]
+[White "Fler"]
+[Black "papab"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:58"]
+[WhiteElo "1839"]
+[BlackElo "1438"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. d4 h5 2. c4 d5 3. Nc3 dxc4 4. Bf4 Nc6 5. e3 Nb4 6. Qa4+ c6 7. Qxb4 e6 8. Qxc4 Nf6 9. Bg5 Be7 10. Bxf6 Bxf6 11. Ne4 Bh4 12. Nf3 g5 13. Nxh4 gxh4 14. f4 f5 15. Nf2 h3 16. Nxh3 Qh4+ 17. Nf2 Qe7 18. Nh3 Qh4+ 19. g3 Qg4 20. Bg2 h4 21. Kf2 hxg3+ 22. hxg3 Bd7 23. Qf1 Qg8 24. Ng5 Rxh1 25. Qxh1 Ke7 26. Qh7+ Qxh7 27. Nxh7 a5 28. a3 a4 29. Ng5 Ra5 30. Rc1 Rb5 31. Rc2 Rb3 32. Bf1 Kf6 33. Nf3 b5 34. Ne5 b4 35. Nxd7+ Ke7 36. Nc5 Kd6 37. Nxb3 axb3 38. Rc4 bxa3 39. bxa3 b2 40. Rb4 c5 41. dxc5+ Kxc5 42. Rxb2 Kd5 43. Rb5+ Ke4 44. Re5# 1-0
+

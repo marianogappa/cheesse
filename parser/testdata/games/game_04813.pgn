@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/k6HCfXxt"]
+[White "mrtpc"]
+[Black "dagreatsorongo"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:31"]
+[WhiteElo "1502"]
+[BlackElo "1362"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+4"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 d6 4. O-O Nf6 5. Re1 Bg4 6. d3 Nd4 7. Nbd2 Qd7 8. c3 Nxf3+ 9. Nxf3 g6 10. h3 Bxf3 11. Qxf3 Bg7 12. d4 cxd4 13. cxd4 O-O 14. Be3 b5 15. Bb3 a5 16. Rad1 a4 17. Bc2 Rad8 18. e5 dxe5 19. dxe5 Qc7 20. Rxd8 Rxd8 21. exf6 Qxc2 22. fxg7 Kxg7 23. Bg5 Qxb2 24. Rxe7 Rf8 25. Bf4 Qxa2 26. Be5+ Kg8 27. Rb7 Qb3 28. Qxb3 axb3 29. Rxb5 Re8 30. Bb2 Re2 31. Rxb3 Re1+ 32. Kh2 Re2 33. Kg3 Kf8 34. Bf6 Ke8 35. Rb8+ Kd7 36. Rb7+ Ke6 37. Bg5 f6 38. Be3 Rc2 39. Rb6+ Kf7 40. Rb7+ Ke6 41. Rxh7 g5 42. Rb7 Ke5 43. Rb5+ Ke6 44. h4 gxh4+ 45. Kxh4 Rc4+ 46. g4 Re4 47. Rb6+ Kf7 48. Kh5 Kg7 49. g5 fxg5 50. Bxg5 Re5 51. Rb7+ Kg8 52. Kg6 Kf8 53. Rb8+ Re8 54. Rxe8+ Kxe8 55. f4 Kf8 56. Kf6 Ke8 57. Bh6 Kd7 58. f5 Kd8 59. Kg7 Ke8 60. f6 Kd7 61. f7 Kc6 1/2-1/2
+

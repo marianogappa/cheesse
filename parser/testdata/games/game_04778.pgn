@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3HFX6HeW"]
+[White "blasone100"]
+[Black "Supersamu"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:24"]
+[WhiteElo "1050"]
+[BlackElo "1168"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-74"]
+[ECO "C20"]
+[Opening "King's Pawn Game"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nh3 Nf6 3. Bc4 d5 4. Bb3 dxe4 5. Ng5 Bc5 6. Nxf7 Qe7 7. Nxh8 Be6 8. c3 Bxb3 9. Qxb3 Ng4 10. Rf1 Nxf2 11. Rxf2 Bxf2+ 12. Kxf2 Qf8+ 13. Nf7 Qh8 14. Nxh8 1-0
+

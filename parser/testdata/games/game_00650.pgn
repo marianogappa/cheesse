@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TGdBV2j5"]
+[White "Bishopkiller"]
+[Black "arachne"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:20"]
+[WhiteElo "1780"]
+[BlackElo "1840"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-12"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. c4 c6 6. cxd5 cxd5 7. Bb5+ Bd7 8. Bxd7+ Nbxd7 9. O-O Be7 10. Qb3 Qb6 11. Nc3 Qxb3 12. axb3 O-O 13. Re1 Bd6 14. Nb5 Bb8 15. Bg5 a6 16. Nc3 Bd6 17. Bxf6 Nxf6 18. Ne5 Rfe8 19. Na4 b5 20. Nb6 Ra7 21. Nc6 Rxe1+ 22. Rxe1 Rc7 23. Nd8 Kf8 24. g3 Rc2 25. f4 Rxb2 26. g4 Rxb3 27. g5 Bc7 28. gxf6 Bxd8 29. Nd7+ Kg8 30. Re8# 1-0
+

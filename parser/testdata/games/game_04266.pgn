@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uCgGBMOC"]
+[White "rubenlp78"]
+[Black "suckysuper494"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:20"]
+[WhiteElo "1711"]
+[BlackElo "1227"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-12"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Qg5 3. Nf3 Bc5 4. Nxg5 1-0
+

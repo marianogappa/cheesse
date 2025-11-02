@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/n4e2pTSo"]
+[White "Nkko"]
+[Black "HardWoodPusher"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:14"]
+[WhiteElo "1920"]
+[BlackElo "1904"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "0+1"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 c6 3. Nf3 Bf5 4. e3 Nf6 5. Bd3 e6 6. Bxf5 exf5 7. Nbd2 Bd6 8. Bg5 Nbd7 9. c4 dxc4 10. Nxc4 Bc7 11. O-O O-O 12. Qc2 h6 13. Bh4 g5 14. Bg3 Nd5 15. Nfe5 Qf6 16. Nxd7 Qg6 17. Nxf8 Rxf8 18. Bxc7 Nxc7 19. Ne5 Qg7 20. Nd7 Rc8 21. Ne5 Nd5 22. a3 f6 23. Nc4 b5 24. Nd2 Rc7 25. Nb3 Re7 26. Nc5 f4 27. exf4 gxf4 28. f3 Ne3 29. Qf2 Nxf1 30. Rxf1 Qg5 31. Re1 h5 32. Rxe7 f5 33. Re1 h4 34. Qe2 h3 35. b4 Kh7 36. Ne6 Qxg2+ 37. Qxg2 hxg2 38. Kxg2 Kg6 39. Nxf4+ Kf6 40. d5 1-0
+

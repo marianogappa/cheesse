@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/4VCEYqOz"]
+[White "MiesesBM"]
+[Black "Blueshorizon"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:15"]
+[WhiteElo "1746"]
+[BlackElo "1578"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 c5 3. e3 cxd4 4. exd4 Nc6 5. Nf3 Bb4+ 6. Nc3 Qa5 7. Bd2 Nf6 8. a3 Bxc3 9. Bxc3 Qb6 10. Be2 Ne4 11. Qc2 f5 12. O-O g5 13. Ne5 Nxe5 14. dxe5 g4 15. Rad1 h5 16. g3 h4 17. Bd4 Qc6 18. b4 a6 19. Rc1 hxg3 20. fxg3 Nxg3 21. hxg3 Qh1+ 22. Kf2 Rh2+ 23. Ke1 Qc6 24. b5 axb5 25. cxb5 Qd5 26. Qc5 Qe4 27. Bf2 Rxa3 28. Qxc8+ Kf7 29. Qxd7+ Kg6 30. Qxe6+ Kh5 31. Qf7+ Kh6 32. Qf8+ Kg6 33. Qxa3 Qxe5 34. Qe3 Qd6 35. Qe8+ Kg5 36. Qg8+ Kh5 37. Qh7+ Kg5 38. Qxh2 Qb4+ 39. Kd1 Qb3+ 40. Kd2 Qb4+ 41. Rc3 Qb2+ 42. Kd3 Qxb5+ 43. Kd4 Qd7+ 44. Kc4 Qc6+ 45. Kb3 Qe6+ 46. Bc4 Qe2 47. Bxe2 1-0
+

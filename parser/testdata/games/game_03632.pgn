@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Jdru1dar"]
+[White "blhck"]
+[Black "katakrak"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:53"]
+[WhiteElo "1680"]
+[BlackElo "1618"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Old Variation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nc6 4. Bxc4 e6 5. Nc3 Nf6 6. Nf3 Bd6 7. e4 Bb4 8. e5 Ne4 9. Bd2 Nxd2 10. Qxd2 Bd7 11. O-O Qe7 12. a3 Ba5 13. b4 Bb6 14. Rfb1 O-O 15. Na4 Bxd4 16. Nxd4 Nxd4 17. Nc5 Rad8 18. Qxd4 Bb5 19. Qc3 Bc6 20. Rd1 Qg5 21. Bf1 b6 22. Nd3 Bb5 23. a4 Bc6 24. b5 Bb7 25. Nb4 Rxd1 26. Rxd1 Qg4 27. Qd2 h6 28. Nc6 a6 29. h3 Qg6 30. Bd3 axb5 31. Bxg6 fxg6 32. axb5 Kh7 33. Qd7 Bc8 34. Qxc7 1-0
+

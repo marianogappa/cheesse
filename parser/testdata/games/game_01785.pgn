@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/CvC1GbMp"]
+[White "1taurus"]
+[Black "Arian123"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:39"]
+[WhiteElo "1677"]
+[BlackElo "1416"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+96"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Myers Attack #2"]
+[TimeControl "600+5"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.22] } 1... c5 { [%eval 0.35] } 2. a4 { [%eval 0.03] } 2... Nc6 { [%eval 0.05] } 3. c3?! { [%eval -0.68] } 3... d5 { [%eval -0.43] } 4. exd5 { [%eval -0.56] } 4... Qxd5 { [%eval -0.39] } 5. d3 { [%eval -0.51] } 5... Nf6 { [%eval -0.61] } 6. f3?! { [%eval -1.44] } 6... e5 { [%eval -1.04] } 7. Qe2 { [%eval -1.34] } 7... g6?! { [%eval -0.73] } 8. Bg5 { [%eval -1.14] } 8... Bg7 { [%eval -1.06] } 9. Nd2 { [%eval -1.19] } 9... O-O { [%eval -0.75] } 10. Ne4 { [%eval -1.08] } 10... Nxe4?! { [%eval -0.39] } 11. dxe4 { [%eval -0.61] } 11... Qe6 { [%eval -0.29] } 12. Rd1?! { [%eval -1.19] } 12... Bf6?! { [%eval -0.43] } 13. Bh6 { [%eval -0.6] } 13... Rd8 { [%eval -0.5] } 14. Rxd8+ { [%eval -0.68] } 14... Bxd8 { [%eval -0.49] } 15. Nh3 { [%eval -0.59] } 15... Qb3 { [%eval -0.36] } 16. g4? { [%eval -2.89] } 16... Qxa4? { [%eval -1.12] } 17. Qd3?? { [%eval -6.39] } 17... Qa1+?? { [%eval -2.49] } 18. Ke2? { [%eval -4.1] } 18... Qxb2+? { [%eval -3.0] } 19. Bd2?? { [%eval -11.05] } 19... Be6 { [%eval -10.68] } 20. Bg2 { [%eval -8.68] } 20... Be7?! { [%eval -8.0] } 21. Rb1 { [%eval -7.88] } 21... Qa2 { [%eval -7.49] } 22. Rd1? { [%eval -15.38] } 22... Rd8 { [%eval -12.15] } 23. Qe3 { [%eval -11.05] } 23... Bc4+ { [%eval -10.72] } 24. Kf2 { [%eval -10.72] } 24... Bb3 { [%eval -10.33] } 0-1
+

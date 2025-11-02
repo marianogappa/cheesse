@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yAzC6Fnk"]
+[White "dogg1993"]
+[Black "edgaretto"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:17"]
+[WhiteElo "1427"]
+[BlackElo "1665"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[ECO "A43"]
+[Opening "Old Benoni Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 c5 2. Nf3 e6 3. Nc3 d5 4. e3 Bd6 5. Bb5+ Nd7 6. Bxd7+ Bxd7 7. dxc5 Bxc5 8. e4 dxe4 9. Nxe4 Bb6 10. O-O Bc6 11. Qxd8+ Rxd8 12. Bg5 Bxe4 13. Bxd8 Kxd8 14. Rad1+ Ke7 15. c3 Nf6 16. Ne5 Bc7 17. Nd3 Bg6 18. Nc5 b6 19. Na4 Bc2 20. Rd4 b5 21. Rg4 bxa4 22. Rxg7 Bg6 23. Rd1 Nh5 24. Rxg6 hxg6 0-1
+

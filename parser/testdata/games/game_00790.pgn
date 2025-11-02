@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/nfe6gPFV"]
+[White "pallino"]
+[Black "caissa12345"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:47"]
+[WhiteElo "1679"]
+[BlackElo "1551"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+16"]
+[ECO "C21"]
+[Opening "Danish Gambit Accepted, Classical Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.21] } 1... e5 { [%eval 0.36] } 2. d4?! { [%eval -0.35] } 2... exd4 { [%eval -0.04] } 3. c3 { [%eval -0.24] } 3... dxc3 { [%eval -0.23] } 4. Bc4?! { [%eval -0.79] } 4... cxb2 { [%eval -0.9] } 5. Bxb2 { [%eval -0.92] } 5... Nf6 { [%eval -0.56] } 6. Nc3 { [%eval -0.98] } 6... d6 { [%eval -0.56] } 7. Nf3 { [%eval -0.91] } 7... Be7 { [%eval -0.87] } 8. h3 { [%eval -1.05] } 8... O-O { [%eval -1.11] } 9. O-O { [%eval -1.2] } 9... Be6? { [%eval -0.08] } 10. Nd5? { [%eval -1.45] } 10... Nxd5 { [%eval -1.2] } 11. exd5 { [%eval -1.36] } 11... Bd7?! { [%eval -0.83] } 12. Bd3 { [%eval -0.83] } 12... Bf6?! { [%eval -0.32] } 13. Bxf6?! { [%eval -0.92] } 13... Qxf6 { [%eval -0.7] } 14. Qc2?! { [%eval -1.22] } 14... g6 { [%eval -0.97] } 15. Rae1 { [%eval -1.1] } 15... c6 { [%eval -1.06] } 16. Be4?! { [%eval -1.85] } 16... cxd5?! { [%eval -0.98] } 17. Bxd5 { [%eval -0.99] } 17... Nc6 { [%eval -0.62] } 18. Re3?! { [%eval -1.56] } 18... Bf5? { [%eval -0.43] } 19. Qe2 { [%eval -0.64] } 19... Rac8 { [%eval -0.65] } 20. Re1 { [%eval -0.8] } 20... Nd4 { [%eval -0.58] } 21. Nxd4 { [%eval -0.63] } 21... Qxd4 { [%eval -0.44] } 22. Bb3 { [%eval -0.79] } 22... a5 { [%eval -0.81] } 23. Re7?! { [%eval -1.47] } 23... Be6? { [%eval 0.13] } 24. Rxe6 { [%eval 0.03] } 24... fxe6 { [%eval 0.19] } 25. Qxe6+?? { [%eval -3.85] } 25... Kh8?! { [%eval -3.32] } 0-1
+

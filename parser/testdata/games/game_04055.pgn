@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/E4DZgmVN"]
+[White "SmallCaliber"]
+[Black "moskow_ger"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:30"]
+[WhiteElo "1762"]
+[BlackElo "1628"]
+[WhiteRatingDiff "-118"]
+[BlackRatingDiff "+13"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. c4 Bg7 3. d4 Nf6 4. e5 Ng4 5. Qxg4 d6 6. exd6 Bxg4 0-1
+

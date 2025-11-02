@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/OAAXUFOD"]
+[White "Anwer26"]
+[Black "kvirto"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:02"]
+[WhiteElo "1725"]
+[BlackElo "1870"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-16"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation #2"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Nf3 Nxc3 5. bxc3 Bf5 6. d4 a6 7. Bd3 Bg4 8. Bf4 Nc6 9. O-O Rc8 10. Be4 Na5 11. Qd3 c6 12. Ne5 Be6 13. Rfe1 f6 14. Bg6+ 1-0
+

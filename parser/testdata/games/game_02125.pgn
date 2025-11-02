@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/jz4GjV7H"]
+[White "enea"]
+[Black "jlce"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:00"]
+[WhiteElo "1354"]
+[BlackElo "1359"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-12"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. d4 f6 2. e4 e5 3. Nf3 Nc6 4. d5 Nb4 5. a3 Na6 6. b4 c5 7. Bb5 Nc7 8. Ba4 b5 9. Bb3 c4 10. Ba2 a5 11. Bd2 Na6 12. O-O axb4 13. axb4 Nxb4 14. Bxb4 Bxb4 15. c3 Bc5 16. Qd2 d6 17. Qb2 Ra5 18. Nfd2 f5 19. g3 f4 20. Nf3 fxg3 21. hxg3 h5 22. Nh4 g5 23. Nf5 h4 24. Ng7+ Kf7 25. Ne6 Bxe6 26. dxe6+ Kg7 27. Qe2 hxg3 28. Kg2 Rh2+ 29. Kxg3 Rh5 30. Qxh5 Nf6 31. Qxg5+ Kf8 32. Kf3 Ra7 33. Rh1 Rg7 34. Rh8+ Rg8 35. Rxg8+ Nxg8 36. Qxd8+ Kg7 37. e7 1-0
+

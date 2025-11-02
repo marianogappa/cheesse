@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/tpkLYX0S"]
+[White "King_Amapa"]
+[Black "StoneyDreadfull"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:16"]
+[WhiteElo "1899"]
+[BlackElo "1948"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-14"]
+[ECO "B27"]
+[Opening "Sicilian Defense: Hyperaccelerated Pterodactyl"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 g6 2. Nf3 Bg7 3. e4 c5 4. c3 Nc6 5. Bc4 cxd4 6. cxd4 Qb6 7. O-O Nxd4 8. Nc3 Nxf3+ 9. Qxf3 e6 10. Re1 Ne7 11. Bg5 Qxb2 12. Bxe7 Kxe7 13. Nd5+ exd5 14. exd5+ Kf8 15. Rab1 Qf6 16. Qa3+ d6 17. Bb5 a6 18. Re8# 1-0
+

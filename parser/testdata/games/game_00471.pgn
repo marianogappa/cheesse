@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pzdr14GD"]
+[White "AdamastorGeiviclei"]
+[Black "Uschi69"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:40"]
+[WhiteElo "1388"]
+[BlackElo "1297"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. d4 Bg7 3. e5 c5 4. c3 d6 5. Nf3 Qa5 6. Bf4 dxe5 7. dxe5 Nc6 8. Be2 Qc7 9. O-O Bxe5 10. Bxe5 Nxe5 11. Nxe5 Qxe5 12. Bf3 Nf6 13. Qa4+ Nd7 14. Nd2 O-O 15. a3 Nb6 16. Qb5 Rd8 17. Nc4 Nxc4 18. Qxc4 Be6 19. Qe2 Qxe2 20. Bxe2 b6 21. Bf3 Rac8 22. Bb7 Rc7 23. Ba6 Rcd7 24. b4 cxb4 25. axb4 f5 26. c4 Rc7 27. Rac1 Rd6 28. c5 bxc5 29. bxc5 Rxa6 30. f4 Rac6 31. Rfe1 Kf7 32. Re5 Kf6 33. Rce1 h5 34. h4 a5 35. g3 a4 36. Kf2 a3 37. Kf3 a2 38. Ke3 Ra7 39. Ra1 Ra5 40. Kd4 Ra4+ 41. Kc3 Ra5 42. Kb4 Ra8 43. Kb5 Rac8 44. Kb4 Rb8+ 45. Kc3 Rb5 46. Kd4 Rb2 47. Kc3 Rb3+ 48. Kd4 Rb4+ 49. Kc3 Rc4+ 50. Kb3 R6xc5 51. Rxc5 Rxc5+ 52. Kb4 Rc2 53. Ka3 Rd2 54. Kb4 Rd3 55. Kc5 Rc3+ 56. Kd4 1-0
+

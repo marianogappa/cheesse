@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tdTu7lIW"]
+[White "emzzoo"]
+[Black "Dominicp"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:19"]
+[WhiteElo "1405"]
+[BlackElo "1414"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "A40"]
+[Opening "Modern Defense"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 g6 2. Bg5 Bg7 3. e3 h6 4. Bh4 Nf6 5. Nf3 O-O 6. Bc4 a6 7. Ne5 d5 8. Be2 Ne4 9. Nf3 Nd7 10. c4 dxc4 11. Bxc4 b5 12. Bd3 Nef6 13. O-O Bb7 14. Nfd2 e5 15. dxe5 Nxe5 16. Be2 g5 17. Bg3 Nh5 18. Bxh5 Nc6 19. Bf3 Bxb2 20. Nc3 0-1
+

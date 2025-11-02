@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/F4RxjA4P"]
+[White "JohnathanC"]
+[Black "AlekDavian"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:42"]
+[WhiteElo "1408"]
+[BlackElo "1474"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Bc4 Qf6 3. Nf3 d6 4. Nc3 c6 5. d3 h6 6. Be3 g5 7. Qd2 g4 8. Ng1 a5 9. Bb3 a4 10. Bxa4 b5 11. Bb3 Be6 12. Bxe6 Qxe6 13. f3 h5 14. O-O-O Bh6 15. fxg4 Bxe3 16. Qxe3 b4 17. Nce2 Qxa2 18. gxh5 Qa1+ 19. Kd2 Qxb2 20. Nf3 b3 21. Ke1 bxc2 22. Rc1 Ra1 23. Kf2 Rxc1 24. Qxc1 Qxc1 25. Rxc1 Nf6 26. Rxc2 Ng4+ 27. Kg1 Rxh5 28. Ng3 Rh8 29. Ra2 Ne3 30. Ra8 Kd7 31. d4 exd4 32. Nxd4 Kc7 33. Ndf5 Ng4 34. h3 Ne5 35. Kf2 Nd3+ 36. Ke3 Ne5 37. Kf4 Kb7 38. Ra1 Nd3+ 39. Ke3 Nb4 40. Nxd6+ Kc7 41. Nxf7 Rf8 42. Ne5 Nc2+ 43. Kd3 Nxa1 44. Kc4 Re8 45. Kd4 c5+ 46. Kd5 Nd7 47. Nxd7 Kxd7 48. e5 Nb3 49. Nf5 c4 50. Kxc4 Rxe5 51. Kxb3 Rxf5 52. Kc3 Kd6 53. Kd3 Kd5 54. Ke3 Re5+ 55. Kf4 Kd4 56. g4 Re4+ 57. Kg5 Ke5 58. Kg6 Rf4 59. g5 Ke4 60. Kh5 Rf3 61. h4 Kf4 62. Kg6 Rh3 63. h5 1-0
+

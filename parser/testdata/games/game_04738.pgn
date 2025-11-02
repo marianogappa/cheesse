@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ZoNYderV"]
+[White "draganrakovic"]
+[Black "Racurs"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:17"]
+[WhiteElo "1695"]
+[BlackElo "1742"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-14"]
+[ECO "C55"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 Qf6 7. e5 Qb6 8. Qxb6 axb6 9. O-O Bb4 10. Bd2 Ba5 11. c3 Ne7 12. b4 O-O 13. bxa5 Rxa5 14. f4 Nf5 15. Bd3 d6 16. Bxf5 Bxf5 17. exd6 cxd6 18. c4 Bxb1 19. Raxb1 Rxa2 20. Be3 Re8 21. Bxb6 Ree2 22. Rf2 Rec2 23. Rxc2 Rxc2 24. Be3 Rxc4 25. Rxb7 Kf8 26. Kf2 d5 27. Rd7 Rc2+ 28. Kf3 g5 29. fxg5 hxg5 30. Rxd5 f6 31. Rf5 Rc6 32. Bxg5 Kg8 33. Rxf6 Rc3+ 34. Be3 Ra3 35. g4 Ra1 36. h4 Rf1+ 37. Bf2 Kg7 38. g5 Kh7 39. h5 Rb1 40. Rf7+ Kg8 41. g6 Kh8 42. g7+ Kh7 43. h6 Kxh6 44. g8=Q Rb3+ 45. Be3+ 1-0
+

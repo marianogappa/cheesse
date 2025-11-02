@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8dCwCGev"]
+[White "thegrinder"]
+[Black "GandalfTheTW"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:39"]
+[WhiteElo "2200"]
+[BlackElo "2178"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.27] } 1... c6 { [%eval 0.5] } 2. d4 { [%eval 0.37] } 2... d5 { [%eval 0.43] } 3. exd5 { [%eval 0.23] } 3... cxd5 { [%eval 0.29] } 4. Bd3 { [%eval 0.13] } 4... Nc6 { [%eval 0.14] } 5. c3 { [%eval 0.19] } 5... Nf6 { [%eval 0.45] } 6. Nf3 { [%eval 0.29] } 6... Qb6 { [%eval 0.43] } 7. O-O { [%eval 0.22] } 7... Bg4 { [%eval 0.31] } 8. h3 { [%eval 0.27] } 8... Bh5 { [%eval 0.34] } 9. Nbd2 { [%eval 0.09] } 9... e6 { [%eval 0.12] } 10. Re1 { [%eval 0.07] } 10... Bd6 { [%eval 0.25] } 11. Nf1 { [%eval -0.13] } 11... Qc7 { [%eval 0.07] } 12. Bg5 { [%eval 0.1] } 12... Nd7 { [%eval 0.28] } 13. Bh4 { [%eval 0.33] } 13... O-O { [%eval 0.32] } 14. Bg3 { [%eval 0.31] } 14... e5 { [%eval 0.57] } 15. dxe5 { [%eval 0.51] } 15... Ndxe5 { [%eval 0.83] } 16. Be2 { [%eval 0.51] } 16... Nxf3+ { [%eval 0.57] } 17. Bxf3 { [%eval 0.54] } 17... Bxf3 { [%eval 0.58] } 18. Qxf3 { [%eval 0.61] } 18... d4 { [%eval 0.57] } 19. Bxd6?! { [%eval 0.06] } 19... Qxd6 { [%eval 0.16] } 20. Rad1 { [%eval 0.06] } 20... Rad8 { [%eval 0.09] } 21. Ng3 { [%eval 0.04] } 21... Qc5 { [%eval 0.08] } 22. cxd4 { [%eval 0.06] } 22... Rxd4 { [%eval 0.08] } 23. Nf5 { [%eval 0.0] } 23... Rxd1 { [%eval 0.06] } 24. Rxd1 { [%eval 0.0] } 24... Qc2 { [%eval 0.24] } 25. Qg4 { [%eval -0.16] } 25... Qxb2 { [%eval 0.0] } 26. Rd7 { [%eval 0.0] } 26... g6 { [%eval 0.0] } 27. Nh6+ { [%eval 0.0] } 27... Kg7 { [%eval 0.0] } 28. Nf5+?! { [%eval -0.83] } 28... Kg8?! { [%eval 0.0] } 29. Nh6+ { [%eval 0.0] } 29... Kg7 { [%eval 0.0] } 30. Nf5+?! { [%eval -0.86] } 30... Kg8?! { [%eval 0.0] } 31. Nh6+ { [%eval 0.0] } 31... Kg7 { [%eval 0.0] } 32. Nf5+ { [%eval -0.88] } 32... Kg8?! { [%eval 0.0] } 33. Nh6+ { [%eval 0.0] } 33... Kg7 { [%eval 0.0] } 34. Nf5+ { [%eval -0.88] } 34... Kg8?! { [%eval 0.0] } 35. Nh6+ { [%eval 0.0] } 1/2-1/2
+

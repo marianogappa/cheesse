@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/cPH4Scyv"]
+[White "zorgas"]
+[Black "ali-1369"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:42"]
+[WhiteElo "1777"]
+[BlackElo "1609"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-27"]
+[ECO "C61"]
+[Opening "Ruy Lopez: Bird Variation"]
+[TimeControl "900+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Bc4 Bc5 5. c3 Nxf3+ 6. Qxf3 Qf6 7. Be2 d6 8. a4 a6 9. b4 Ba7 10. h3 Ne7 11. g3 Qh6 12. Na3 Bxh3 13. d4 Qe6 14. d5 Qd7 15. g4 Bxg4 16. Qxg4 Ng6 17. Qxd7+ Kxd7 18. Nc4 Rhe8 19. Na5 Rab8 20. Rxh7 Rg8 21. Bg4+ Ke7 22. Ke2 Rh8 23. Rxh8 Rxh8 24. Be3 Bxe3 25. fxe3 Rh2+ 26. Kd3 Nh4 27. Nxb7 Ng2 28. Bf3 Nh4 29. Bh1 g5 30. Na5 g4 31. Nc4 g3 32. Nd2 g2 33. Bxg2 Nxg2 34. Nf1 Rh3 35. Ra2 Nh4 36. Rh2 Rxh2 37. Nxh2 Kf6 38. c4 Kg5 39. a5 f5 40. b5 axb5 41. cxb5 f4 42. Ke2 fxe3 43. Nf3+ Kf4 44. Nxh4 Kxe4 45. a6 Kxd5 46. a7 Kc5 47. a8=Q Kxb5 48. Kxe3 Kc5 49. Kd3 d5 50. Qa7+ Kd6 51. Qa3+ c5 52. Qa6+ Kc7 53. Nf5 c4+ 54. Kc3 Kd8 55. Qd6+ Ke8 56. Qe7# 1-0
+

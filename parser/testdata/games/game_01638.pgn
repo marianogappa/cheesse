@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/YK5tMGH0"]
+[White "Milsosa"]
+[Black "tkls"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:11"]
+[WhiteElo "1912"]
+[BlackElo "1105"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "+0"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted, King's Knight Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 c6 4. d4 d5 5. e5 f6 6. Bxf4 g5 7. Be3 b5 8. Bd3 a5 9. O-O a4 10. Nxg5 fxg5 11. Qh5+ Kd7 12. Rf7+ Ke6 13. Bf5# 1-0
+

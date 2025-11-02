@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/X5UgGclL"]
+[White "kingslayer29"]
+[Black "Geert52"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:55"]
+[WhiteElo "1224"]
+[BlackElo "1252"]
+[WhiteRatingDiff "+21"]
+[BlackRatingDiff "-12"]
+[ECO "C55"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. d3 d6 5. g3 Be7 6. Nh4 Bxh4 7. gxh4 Qxh4 8. Be3 Qe7 9. Rg1 g6 10. Nc3 Be6 11. Nd5 Bxd5 12. exd5 Na5 13. b4 Nxc4 14. dxc4 Nf6 15. c5 O-O-O 16. c6 b6 17. Qe2 Kb8 18. Qa6 1-0
+

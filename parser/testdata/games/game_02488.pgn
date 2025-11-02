@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bGmFHV6H"]
+[White "djhawk"]
+[Black "safatuna"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:24"]
+[WhiteElo "1375"]
+[BlackElo "1478"]
+[WhiteRatingDiff "-90"]
+[BlackRatingDiff "+7"]
+[ECO "D70"]
+[Opening "Neo-Gruenfeld Defense: Non- or Delayed Fianchetto"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 g6 3. c4 Nf6 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 e6 8. Be2 O-O 9. O-O N8d7 10. Rc1 Nf6 11. Ne5 a6 12. b4 Bd7 13. Bd3 h5 14. Rc2 Na4 15. Nxd7 Qxd7 16. Nxa4 Qxa4 17. Rxc7 Qxd1 18. Rxd1 a5 19. b5 b6 20. Rc6 Rab8 21. Bf4 Rb7 22. Be5 Rd8 23. Bxf6 Bxf6 24. d5 exd5 25. Rxf6 dxe4 26. Be2 Rxd1+ 27. Bxd1 Rd7 28. Bb3 Rd3 29. Rxg6+ Kh7 30. Rxb6 f5 31. Ra6 f4 32. Ra7+ Kh6 33. Rxa5 Rc3 34. b6 Rc1+ 35. Bd1 Rxd1# 0-1
+

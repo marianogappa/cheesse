@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/NrwWHDYv"]
+[White "King_Amapa"]
+[Black "HarpSeal"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:12"]
+[WhiteElo "1915"]
+[BlackElo "1963"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "E10"]
+[Opening "Blumenfeld Countergambit #2"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. a3 cxd4 5. Nxd4 d5 6. Nc3 Nc6 7. Bg5 Be7 8. e3 O-O 9. Bd3 dxc4 10. Bxc4 Nxd4 11. exd4 Qc7 12. Bd3 b6 13. Rc1 Bb7 14. Nd5 Qd8 15. Nxe7+ Qxe7 16. O-O h6 17. Bh4 Rfd8 18. Kh1 Rac8 19. Re1 Bd5 20. Qd2 g5 21. Bxg5 hxg5 22. Qxg5+ Kf8 23. Qh6+ Kg8 24. Rxc8 Rxc8 25. Re5 Nh7 26. Bxh7+ Kh8 27. Bg6+ Kg8 28. Bh7+ Kh8 29. Bd3+ Kg8 30. Rg5+ 1-0
+

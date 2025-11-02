@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/9naDLsbm"]
+[Site "https://lichess.org/XE3KVk2c"]
+[White "Jorgeh"]
+[Black "GuillaumeL"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:56"]
+[WhiteElo "1411"]
+[BlackElo "1545"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-16"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. Bc4 h6 5. O-O f5 6. exf5 Bxf5 7. d3 Bg4 8. Nxe5 Bxd1 9. Bf7+ Ke7 10. Nd5# 1-0
+

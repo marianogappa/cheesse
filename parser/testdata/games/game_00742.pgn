@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/jXjbK843"]
+[White "Miki023"]
+[Black "JePasse"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:47"]
+[WhiteElo "1218"]
+[BlackElo "1246"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "B07"]
+[Opening "Pirc Defense #4"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. Nf3 f6 3. d4 e5 4. d5 c6 5. c4 c5 6. Bd2 a5 7. a3 Bd7 8. b4 b5 9. cxb5 Qb6 10. Nc3 axb4 11. axb4 Rxa1 12. Qxa1 cxb4 13. Na4 Qa5 14. Bd3 Bxb5 15. O-O Bxd3 16. Rc1 Bb5 17. Nb2 Qxa1 18. Rxa1 Bd3 19. Nxd3 Be7 20. Ra8 Kd7 21. Rxb8 Kc7 22. Rb7+ Kxb7 0-1
+

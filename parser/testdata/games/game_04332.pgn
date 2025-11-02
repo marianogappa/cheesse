@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2h5pKsLk"]
+[White "Magnus"]
+[Black "burge"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:40"]
+[WhiteElo "1712"]
+[BlackElo "1625"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+15"]
+[ECO "E61"]
+[Opening "King's Indian Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Bg5 d6 5. h3 Nc6 6. Nf3 h6 7. Bh4 e5 8. d5 Ne7 9. e4 O-O 10. Be2 Bd7 11. O-O g5 12. Nxg5 hxg5 13. Bxg5 Ng6 14. f4 Qc8 15. f5 Nh8 16. Qd2 Nh7 17. Bh6 f6 18. Bxg7 Kxg7 19. Bh5 Be8 20. Qe2 Ng5 21. Qg4 Bxh5 22. Qxh5 Nhf7 23. h4 Nh7 24. Rf3 Rh8 25. Rg3+ Kf8 26. Rg7 Qd7 27. Rxh7 Rg8 28. Qh6+ Ke7 29. Qh5 Qe8 30. Nb5 Rg3 31. b3 Qg8 32. Qxf7+ Qxf7 33. Rxf7+ Kxf7 34. Rf1 Rh8 35. Nxc7 Rxh4 36. Nb5 Rxe4 37. Nxa7 Re2 38. Nb5 Rgxg2+ 39. Kh1 Rh2+ 40. Kg1 Reg2# 0-1
+

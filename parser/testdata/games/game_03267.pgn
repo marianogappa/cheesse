@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hWO4cTrs"]
+[White "sexonac"]
+[Black "KT7"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:24"]
+[WhiteElo "1646"]
+[BlackElo "1699"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "C46"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.27] } 2. Nf3 { [%eval 0.21] } 2... Nc6 { [%eval 0.3] } 3. Nc3 { [%eval 0.06] } 3... Nf6 { [%eval 0.22] } 4. Bc4 { [%eval 0.0] } 4... Nxe4 { [%eval 0.06] } 5. Nxe4 { [%eval -0.4] } 5... d5 { [%eval -0.09] } 6. Bxd5?! { [%eval -0.66] } 6... Qxd5 { [%eval -0.58] } 7. d3 { [%eval -0.97] } 7... f5?! { [%eval -0.19] } 8. Nc3 { [%eval -0.25] } 8... Qg8 { [%eval 0.02] } 9. Qe2 { [%eval -0.2] } 9... Be6? { [%eval 0.85] } 10. Nxe5 { [%eval 0.64] } 10... Bd6? { [%eval 1.64] } 11. Nxc6 { [%eval 1.64] } 11... bxc6 { [%eval 1.64] } 12. O-O { [%eval 1.55] } 12... O-O-O { [%eval 1.76] } 13. d4? { [%eval -0.32] } 13... g5? { [%eval 1.27] } 14. Qa6+ { [%eval 1.15] } 14... Kd7? { [%eval 2.66] } 15. Re1 { [%eval 2.21] } 15... h5? { [%eval 3.28] } 16. a3? { [%eval 0.9] } 16... f4? { [%eval 3.41] } 17. Ne4 { [%eval 3.37] } 17... g4?? { [%eval 13.17] } 18. Nf6+ { [%eval 13.03] } 18... Ke7 { [%eval 12.95] } 19. Nxg8+ { [%eval 12.51] } 19... Rdxg8 { [%eval 15.74] } 20. Qxc6 { [%eval 15.09] } 20... h4 { [%eval 18.27] } 21. Bxf4 { [%eval 17.37] } 21... g3?! { [%eval #8] } 22. hxg3?! { [%eval 20.95] } 22... hxg3?! { [%eval #8] } 23. fxg3?! { [%eval 21.77] } 23... Bxf4?! { [%eval #9] } 24. Qxe6+ { [%eval #11] } 24... Kd8 { [%eval #14] } 25. gxf4 { [%eval #14] } 25... Re8 { [%eval #14] } 26. Qf6+ { [%eval #15] } 26... Kc8 { [%eval #13] } 27. Rxe8+ { [%eval #12] } 27... Rxe8 { [%eval #16] } 28. Qa6+ { [%eval 122.7] } 28... Kb8?! { [%eval #6] } 29. Kf2 { [%eval #6] } 29... Rd8 { [%eval #6] } 30. c3 { [%eval #14] } 30... Rd6 { [%eval #14] } 31. Qb5+ { [%eval 114.42] } 31... Kc8?! { [%eval #6] } 32. Re1 { [%eval #5] } 32... c6 { [%eval #3] } 33. Qa6+?! { [%eval #5] } 1-0
+

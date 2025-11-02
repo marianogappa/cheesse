@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/plIPHhm6"]
+[White "el_maurice"]
+[Black "North_Pole"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:52"]
+[WhiteElo "1471"]
+[BlackElo "1466"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+13"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. d4 e5 4. Nc3 Qd6 5. d5 f6 6. Nf3 Be7 7. Bb5+ c6 8. dxc6 bxc6 9. Bd3 c5 10. Be3 Nc6 11. O-O Nd4 12. Bxd4 cxd4 13. Ne4 Qd8 14. c3 dxc3 15. Qa4+ Qd7 16. Bb5 Qxb5 17. Qxb5+ Bd7 18. Qd5 Nh6 19. Qxa8+ Bd8 20. bxc3 O-O 21. Qxa7 Be7 22. Qxd7 Bc5 23. Nxc5 Rf7 24. Qd2 Rf8 25. Rad1 Nf5 26. Nd3 Ne7 27. Nc5 Kf7 28. Qb2 Kg6 29. Qb3 Kf5 30. c4 Kg6 31. Rfe1 Kf5 32. Qe3 Kg6 33. Qe4+ Kh5 34. Qg4+ Kh6 35. Qh4+ Kg6 36. g4 Kf7 0-1
+

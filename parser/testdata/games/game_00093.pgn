@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/uHobB1T7"]
+[White "Hicks1997"]
+[Black "mertsondal"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "1500"]
+[BlackElo "1498"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+13"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation #4"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. b3 { [%eval 0.05] } 1... e5 { [%eval 0.08] } 2. Bb2 { [%eval -0.04] } 2... Nc6 { [%eval -0.01] } 3. e3 { [%eval 0.05] } 3... d5 { [%eval 0.04] } 4. g3?! { [%eval -0.63] } 4... Bg4?? { [%eval 3.37] } 5. Bg2?? { [%eval -7.5] } 5... Bxd1 { [%eval -7.5] } 6. Kxd1 { [%eval -7.51] } 6... Nf6 { [%eval -7.4] } 7. d3 { [%eval -7.89] } 7... Bd6 { [%eval -7.65] } 8. Nd2 { [%eval -7.56] } 8... O-O { [%eval -7.54] } 9. h4 { [%eval -7.94] } 9... e4 { [%eval -7.87] } 10. d4? { [%eval -10.19] } 10... Re8? { [%eval -7.84] } 11. Ne2? { [%eval -8.96] } 11... h5? { [%eval -7.66] } 12. Nf4? { [%eval -9.16] } 12... g6? { [%eval -7.94] } 13. c4? { [%eval -10.14] } 13... dxc4? { [%eval -8.62] } 14. d5? { [%eval -11.29] } 14... Nxd5? { [%eval -8.47] } 15. Nxd5 { [%eval -8.67] } 15... Re5?? { [%eval -4.51] } 16. Bxe5? { [%eval -7.49] } 16... Bxe5 { [%eval -7.37] } 17. Nf6+? { [%eval -15.81] } 17... Kg7 { [%eval -9.85] } 18. Nxe4 { [%eval -10.83] } 18... Bxa1 { [%eval -10.4] } 19. Kc2 { [%eval -17.7] } 19... Ne5 { [%eval -11.8] } 20. Rxa1 { [%eval -13.2] } 20... c3? { [%eval -8.11] } 21. Nc4? { [%eval #-11] } 21... Qf6?? { [%eval 6.02] } 22. Rd1?? { [%eval -4.38] } 22... Nf3?? { [%eval 9.84] } 23. Bxf3?? { [%eval -7.81] } 23... Qxf3 { [%eval -7.5] } 0-1
+

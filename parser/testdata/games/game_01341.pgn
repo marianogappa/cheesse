@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/aUJDv3Ov"]
+[White "Jezumo"]
+[Black "caracolo23"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:58"]
+[WhiteElo "1695"]
+[BlackElo "1616"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+13"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.17] } 1... c5 { [%eval 0.3] } 2. Nf3 { [%eval 0.22] } 2... d6 { [%eval 0.34] } 3. Bc4 { [%eval 0.17] } 3... Nf6 { [%eval 0.19] } 4. a3? { [%eval -0.81] } 4... g6?! { [%eval 0.01] } 5. d3 { [%eval 0.06] } 5... Bg7 { [%eval 0.06] } 6. c3 { [%eval -0.02] } 6... a6 { [%eval 0.04] } 7. O-O { [%eval -0.12] } 7... b5 { [%eval -0.1] } 8. Ba2 { [%eval -0.16] } 8... Nbd7 { [%eval 0.0] } 9. h3 { [%eval 0.0] } 9... O-O { [%eval 0.06] } 10. Nh2 { [%eval -0.33] } 10... Bb7 { [%eval -0.37] } 11. f4? { [%eval -1.57] } 11... Qc7?! { [%eval -1.04] } 12. f5?! { [%eval -1.79] } 12... gxf5?! { [%eval -0.8] } 13. exf5 { [%eval -0.77] } 13... Qc6 { [%eval -0.64] } 14. Rf2 { [%eval -1.08] } 14... c4 { [%eval -0.96] } 15. d4 { [%eval -1.17] } 15... e5 { [%eval -0.98] } 16. dxe5? { [%eval -3.72] } 16... dxe5? { [%eval -2.28] } 17. Nd2 { [%eval -2.58] } 17... Rad8 { [%eval -2.12] } 18. Qf3?! { [%eval -2.72] } 18... e4 { [%eval -2.68] } 19. Qg3? { [%eval -3.73] } 19... Rfe8? { [%eval -2.51] } 20. Ndf1 { [%eval -2.39] } 20... Nc5? { [%eval -1.02] } 21. Bb1?? { [%eval -4.79] } 21... Kh8? { [%eval -1.83] } 22. Qe3?? { [%eval -5.78] } 22... Nd3 { [%eval -5.33] } 23. Bxd3? { [%eval -6.65] } 23... exd3 { [%eval -6.11] } 24. Bd2?? { [%eval -9.65] } 24... Rxe3 { [%eval -9.16] } 25. Nxe3?! { [%eval -12.11] } 25... Ne4 { [%eval -11.45] } 26. Nhg4 { [%eval -15.12] } 26... Nxf2 { [%eval -14.19] } 27. Nxf2 { [%eval -29.95] } 27... Re8 { [%eval -18.7] } 28. Neg4?! { [%eval #-1] } 0-1
+

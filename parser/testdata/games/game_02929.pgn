@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/acNZX2QC"]
+[White "Berk1925"]
+[Black "Wisell"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:57"]
+[WhiteElo "1169"]
+[BlackElo "1188"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 d6 3. Bc4 g6 4. Qf3 Be6 5. Bb3 d5 6. exd5 Qxd5 7. Bxd5 Nf6 8. Bxb7 Bg4 9. Qa3 Bxa3 10. bxa3 Ne4 11. Bxe4 c6 12. f3 f5 13. fxg4 fxe4 14. d3 exd3 15. cxd3 Nd7 16. Bb2 Nf6 17. g5 Ng4 18. d4 O-O-O 19. dxe5 Rhe8 20. Nd2 Nxe5 21. O-O-O Nd3+ 22. Kb1 Re2 23. Nxe2 Nxb2 24. Kxb2 Rd5 25. Nf4 Rxg5 26. Ne6 Rxg2 27. Rhg1 Rxh2 28. a4 Kd7 29. Nf8+ Ke7 30. Rgf1 g5 31. Rde1+ Kd6 32. Kc1 g4 33. Re6+ Kd5 34. Rf5+ Kd4 35. Re4+ Kc3 36. Rxg4 Rxd2 37. Nxh7 Rxa2 38. Rf3# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XW3u9FPW"]
+[White "Liborianer123"]
+[Black "Pierre_Brunetot"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:47"]
+[WhiteElo "1656"]
+[BlackElo "1471"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 Be7 3. h3 Nc6 4. d4 Nf6 5. Nc3 Bb4 6. Bd3 Bxc3+ 7. bxc3 d5 8. e5 Nh5 9. Ng5 Kf8 10. Qxh5 g6 11. Qh6+ Ke7 12. Nf3 Qf8 13. Qxf8+ Rxf8 14. Ng5 h6 15. Nf3 g5 16. g4 b6 17. Nh2 Na5 18. f4 gxf4 19. Bxf4 Bd7 20. Bxh6 Rh8 21. g5 Rag8 22. Ng4 Be8 23. Nf6 Rxh6 24. gxh6 Rh8 25. h7 Nc6 26. Rg1 Kf8 27. Rg8+ Rxg8 28. hxg8=Q+ 1-0
+

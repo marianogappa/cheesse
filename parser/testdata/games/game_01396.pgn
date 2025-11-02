@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/pM73lYTg"]
+[White "Konce"]
+[Black "hashashine"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:15"]
+[WhiteElo "1788"]
+[BlackElo "1757"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "C42"]
+[Opening "Russian Game: Three Knights Game"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.32] } 1... e5 { [%eval 0.32] } 2. Nc3 { [%eval 0.12] } 2... Nf6 { [%eval 0.1] } 3. Nf3 { [%eval 0.09] } 3... d6 { [%eval 0.28] } 4. d4 { [%eval 0.29] } 4... exd4 { [%eval 0.38] } 5. Nxd4 { [%eval 0.21] } 5... Be7 { [%eval 0.37] } 6. Be2 { [%eval 0.15] } 6... O-O { [%eval 0.28] } 7. O-O { [%eval 0.28] } 7... c5 { [%eval 0.41] } 8. Nf5 { [%eval 0.15] } 8... Re8?! { [%eval 1.14] } 9. Bf3? { [%eval 0.11] } 9... Bxf5 { [%eval 0.12] } 10. exf5 { [%eval 0.11] } 10... Nc6 { [%eval 0.21] } 11. Nd5 { [%eval 0.0] } 11... Nxd5 { [%eval 0.25] } 12. Qxd5 { [%eval 0.32] } 12... Bf6 { [%eval 0.33] } 13. c3 { [%eval 0.33] } 13... Re5 { [%eval 0.39] } 14. Qd3 { [%eval 0.34] } 14... Qc7?! { [%eval 0.87] } 15. Bf4 { [%eval 0.91] } 15... Re7 { [%eval 1.04] } 16. Bxd6?! { [%eval 0.54] } 16... Rd7? { [%eval 1.85] } 17. Bxc7 { [%eval 1.74] } 17... Rxd3 { [%eval 1.87] } 18. Be4?! { [%eval 1.08] } 18... Rd7 { [%eval 1.15] } 19. Bf4 { [%eval 1.18] } 19... Rad8 { [%eval 1.25] } 20. g4 { [%eval 1.31] } 20... g6 { [%eval 1.7] } 21. g5 { [%eval 1.56] } 21... Bg7?! { [%eval 2.1] } 22. f6 { [%eval 1.94] } 22... Bf8 { [%eval 1.95] } 23. h4 { [%eval 1.77] } 23... Bd6 { [%eval 1.79] } 24. Be3 { [%eval 1.31] } 24... Ne5 { [%eval 1.4] } 25. h5?! { [%eval 0.77] } 25... Ng4?! { [%eval 1.39] } 26. hxg6 { [%eval 1.26] } 26... hxg6 { [%eval 1.32] } 27. Bxg6?? { [%eval -2.47] } 27... fxg6 { [%eval -1.94] } 28. Bd2?? { [%eval -8.37] } 28... Ne5?? { [%eval -2.19] } 29. f4?! { [%eval -2.89] } 29... Nd3 { [%eval -2.79] } 30. Be3 { [%eval -3.26] } 30... Nxb2 { [%eval -3.02] } 31. Rab1?! { [%eval -3.6] } 31... Nd3?! { [%eval -3.04] } 32. Rbd1?! { [%eval -3.77] } 32... c4 { [%eval -3.58] } 33. Kg2 { [%eval -3.95] } 33... Bc5? { [%eval -2.24] } 34. Kf3? { [%eval -4.31] } 34... Bxe3 { [%eval -4.24] } 35. Kxe3 { [%eval -4.11] } 35... Re8+ { [%eval -3.65] } 36. Kf3 { [%eval -3.75] } 36... Rd6?! { [%eval -3.24] } 37. Rh1? { [%eval -4.92] } 37... Rde6 { [%eval -4.63] } 0-1
+

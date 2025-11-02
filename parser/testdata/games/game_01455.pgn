@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/2U3Ge8fG"]
+[White "binkqwe"]
+[Black "afi012290"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:26"]
+[WhiteElo "1749"]
+[BlackElo "1393"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Be6 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Nxe5 Nd7 7. Nxd7 Bxd7 8. Bc4 Nf6 9. f3 Be6 10. Bxe6 fxe6 11. Nc3 Ke7 12. Bf4 c5 13. O-O-O Rd8 14. Rxd8 Kxd8 15. e5 Nh5 16. Be3 h6 17. f4 g5 18. g4 Ng7 19. fxg5 hxg5 20. Bxg5+ Be7 21. Bxe7+ Kxe7 22. h4 Kf7 23. h5 Rh6 24. Ne4 b6 25. Nd6+ Ke7 26. a3 Ne8 27. Nxe8 Kxe8 28. Rf1 Ke7 29. b4 Kd7 30. c4 Kc6 31. Rf6 Rh7 32. h6 Re7 33. g5 Kd7 34. g6 Ke8 35. h7 Rf7 36. gxf7+ Kf8 37. h8=Q+ Ke7 38. Qe8# 1-0
+

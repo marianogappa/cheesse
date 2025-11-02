@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/OX7ewlWw"]
+[White "mixer666666"]
+[Black "Audrys"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:56"]
+[WhiteElo "1105"]
+[BlackElo "1423"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+[ECO "A41"]
+[Opening "Queen's Pawn"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. d4 d6 2. g3 e5 3. Bg2 Qf6 4. dxe5 dxe5 5. g4 Bxg4 6. Bxb7 Bc5 7. Bxa8 Qxf2+ 8. Kd2 c6 9. Nf3 Bxf3 10. Rf1 Qg2 11. Kc3 Bd4+ 12. Kb4 Bxe2 13. Re1 Bxd1 14. Rxd1 Bxb2 15. Bxb2 Qg4+ 16. Kc5 Qxd1 17. Bxc6+ Nxc6 18. Kxc6 Qd7+ 19. Kc5 f6 20. Nc3 Nh6 21. Rd1 Qc7+ 22. Kd5 O-O 23. Ke6 Re8+ 24. Kd5 Rd8+ 25. Ke4 Rxd1 26. Nxd1 Qxc2+ 27. Kd5 Qxd1+ 28. Ke6 e4 29. Ke7 e3 30. Ba3 e2 31. Bb4 Qa4 32. Bd2 Qxa2 33. Ke8 Qxd2 0-1
+

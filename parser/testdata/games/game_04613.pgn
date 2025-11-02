@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BFCGc3sX"]
+[White "Telpecarne"]
+[Black "Zalevskyi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:34"]
+[WhiteElo "1667"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-109"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Franco-Sicilian Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.3] } 1... c5 { [%eval 0.26] } 2. Nf3 { [%eval 0.23] } 2... e6 { [%eval 0.28] } 3. d4 { [%eval 0.22] } 3... Nc6? { [%eval 1.46] } 4. Bb5? { [%eval 0.02] } 4... a6 { [%eval 0.1] } 5. Bxc6 { [%eval 0.14] } 5... bxc6 { [%eval 0.18] } 6. O-O { [%eval 0.09] } 6... Bb7 { [%eval 0.51] } 7. Bg5 { [%eval 0.52] } 7... f6 { [%eval 0.56] } 8. Bh4 { [%eval 0.22] } 8... g5? { [%eval 2.12] } 9. Bg3? { [%eval 0.18] } 9... d5? { [%eval 1.28] } 10. e5?! { [%eval 0.41] } 10... f5 { [%eval 0.4] } 11. h4 { [%eval 0.0] } 11... g4 { [%eval -0.06] } 12. Ng5?! { [%eval -1.04] } 12... h6?? { [%eval 3.34] } 13. Nxe6 { [%eval 3.11] } 13... Qe7? { [%eval 4.31] } 14. Nxc5 { [%eval 4.2] } 14... Rb8? { [%eval 6.0] } 15. f3? { [%eval 4.09] } 15... gxf3? { [%eval 5.63] } 16. Qxf3 { [%eval 5.51] } 16... Bc8 { [%eval 5.41] } 17. b3? { [%eval 3.37] } 17... h5? { [%eval 5.9] } 18. a4? { [%eval 3.26] } 18... Qa7? { [%eval 4.67] } 19. Bf2? { [%eval 2.55] } 19... Bxc5 { [%eval 2.5] } 20. dxc5 { [%eval 2.6] } 20... Nh6 { [%eval 2.87] } 21. Nd2 { [%eval 2.77] } 21... Ng4?! { [%eval 3.52] } 22. Qf4 { [%eval 3.28] } 22... a5? { [%eval 5.09] } 23. Qg5? { [%eval 2.89] } 23... Nxf2? { [%eval 3.93] } 24. Rxf2 { [%eval 3.82] } 24... Qxc5?? { [%eval 8.96] } 25. Qg6+ { [%eval 8.63] } 25... Kd7?! { [%eval 9.42] } 26. Qg7+ { [%eval 9.22] } 26... Ke6?! { [%eval 20.6] } 27. Qxh8 { [%eval 11.8] } 27... Ba6 { [%eval 34.7] } 28. Qxb8 { [%eval 26.87] } 28... d4?! { [%eval #10] } 29. Qd6+?! { [%eval 20.25] } 29... Qxd6 { [%eval 18.3] } 30. exd6 { [%eval 17.83] } 30... Kxd6 { [%eval 20.81] } 31. Rxf5 { [%eval 19.29] } 31... Ke6 { [%eval 23.48] } 32. Rxh5 { [%eval 21.15] } 1-0
+

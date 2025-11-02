@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IJiMowhu"]
+[White "SaulGoodman"]
+[Black "Duubik"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:31"]
+[WhiteElo "2078"]
+[BlackElo "2154"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "A80"]
+[Opening "Dutch Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 f5 2. Nf3 Nf6 3. Bf4 e6 4. e3 Be7 5. h3 O-O 6. Nbd2 d5 7. Ne5 c6 8. c4 Nbd7 9. Ndf3 Bb4+ 10. Nd2 Ne4 11. Nf3 Ndf6 12. a3 Be7 13. Bd3 Bd7 14. Ne5 b6 15. O-O g5 16. Bh2 Be8 17. f3 Nxd2 18. Qxd2 Kh8 19. Rac1 Rc8 20. Qc3 Bd7 21. Qb3 Qe8 22. Rf2 Qd8 23. Rfc2 Bd6 24. Ng6+ hxg6 25. Bxd6 Rg8 26. Be5 Kh7 27. cxd5 exd5 28. Ba6 Qe7 29. Bxc8 Rxc8 30. Qa4 a5 31. Qb3 b5 32. a4 b4 33. Rc5 Ra8 34. Qc2 Ra6 35. b3 Qe6 36. Kh1 Ng8 37. Qf2 Ne7 38. Qg3 g4 39. fxg4 fxg4 40. hxg4 Qxg4 41. Qxg4 Bxg4 42. Kh2 Bd7 43. Kg3 Nf5+ 44. Kf4 Ra8 45. Rh1+ Kg8 46. Rh8+ 1-0
+

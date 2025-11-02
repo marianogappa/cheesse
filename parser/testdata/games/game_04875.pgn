@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/XRj8IpaH"]
+[White "Urugup68"]
+[Black "RussianMachine"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:48"]
+[WhiteElo "1048"]
+[BlackElo "991"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Accelerated Mannheim Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. Qa4+ b5 4. Qxb5+ Qd7 5. Qxc4 Nc6 6. g3 Nxd4 7. Bh3 Qc6 8. Qxd4 e5 9. Qxe5+ Be6 10. Bxe6 fxe6 11. Qh5+ g6 12. Qf3 h5 13. Qxc6+ Kf7 14. Qxa8 1-0
+

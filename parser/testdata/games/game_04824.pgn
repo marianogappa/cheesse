@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Ts3RvTf3"]
+[White "fkcrage"]
+[Black "whiteveil"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:38"]
+[WhiteElo "1234"]
+[BlackElo "1238"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-23"]
+[ECO "D07"]
+[Opening "Queen's Gambit Refused: Chigorin Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Qd6 4. Nc3 dxc4 5. e3 Bg4 6. Bxc4 Bxf3 7. Qxf3 e6 8. O-O e5 9. Rd1 exd4 10. Rxd4 Nxd4 11. exd4 Qxd4 12. Qd3 Qh4 13. Nd5 Bc5 14. Nxc7+ Ke7 15. Qe2+ Kd8 16. Nxa8 Bd6 17. Qd2 Qxh2+ 18. Kf1 Qe5 19. b3 Kc8 20. Bb2 Qe7 21. Re1 Qd8 22. Bxg7 Kb8 23. Bxh8 Kxa8 24. Be5 Qb6 25. Bxd6 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7ZI9DPvo"]
+[White "Marihuanerito"]
+[Black "GlauberVinicius"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:56"]
+[WhiteElo "1499"]
+[BlackElo "1387"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+13"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Bb5+ Bd7 4. f4 Bxb5 5. Nxb5 a6 6. Nc3 e6 7. d3 Be7 8. Nf3 Nf6 9. O-O O-O 10. Qe1 Re8 11. Qg3 Nc6 12. Ne2 Qb6 13. c3 c4+ 14. d4 Nxe4 15. Qh3 d5 16. Kh1 Qc7 17. f5 exf5 18. Qxf5 Qd6 19. Bf4 Qe6 20. Qh5 g6 21. Qh6 Bf8 22. Qg5 Nxg5 23. Nxg5 Qxe2 24. Be5 Nxe5 25. dxe5 Rxe5 26. Rxf7 Qe1+ 0-1
+

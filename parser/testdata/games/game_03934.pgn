@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FmyZYuYr"]
+[White "burge"]
+[Black "edimer"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:59"]
+[WhiteElo "1609"]
+[BlackElo "1750"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-15"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 Nc6 5. Nf3 Qh5 6. d3 Bg4 7. Be3 e6 8. Nd4 Bxe2 9. Qxe2 Qd5 10. Nxd5 1-0
+

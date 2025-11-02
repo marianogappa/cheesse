@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Qfjk6jXP"]
+[White "TAREKSAYED"]
+[Black "Tactful"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:20"]
+[WhiteElo "1538"]
+[BlackElo "1567"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 f6 4. Nc3 Na5 5. Bd5 c6 6. Bb3 d5 7. exd5 Nxb3 8. axb3 cxd5 9. d4 Bg4 10. O-O Bxf3 11. Qxf3 exd4 12. Nxd5 Ne7 13. Nf4 g5 14. Qh5+ Kd7 15. Nd3 Qe8 16. Qg4+ Kd8 17. Qxd4+ Qd7 18. Qe4 f5 19. Qc4 Rc8 20. Qb4 Nd5 21. Qa3 Bxa3 22. bxa3 Re8 23. Bxg5+ Kc7 24. Nc5 Qd6 25. b4 b6 26. Na6+ Kb7 27. b5 Nc7 28. Nb4 Qe5 29. c4 Qe2 30. Be3 Qxc4 31. Rac1 Qxb5 32. Nc6 Nd5 33. Na5+ Ka6 34. Nc4 Rxc4 35. Rxc4 Qxc4 36. h3 Nxe3 37. fxe3 0-1
+

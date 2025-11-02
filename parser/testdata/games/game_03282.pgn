@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/FsfeVj7f"]
+[White "chod7"]
+[Black "Deleidge"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:29"]
+[WhiteElo "1237"]
+[BlackElo "1202"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. Qf3 Bg7 3. Bc4 e6 4. Nh3 Ne7 5. Ng5 O-O 6. d3 Nec6 7. d4 Nxd4 8. Qc3 Ndc6 9. h4 Bxc3+ 10. bxc3 h6 11. Nf3 h5 12. Ng5 d5 13. exd5 exd5 14. Bb3 Qe8+ 15. Kf1 d4 16. cxd4 Nxd4 17. Be3 Qb5+ 18. c4 Qb6 19. Bxd4 Qxd4 20. Nf3 Qxa1 21. Bc2 Qxa2 22. Ne5 Qxc2 23. Nxf7 Rxf7 0-1
+

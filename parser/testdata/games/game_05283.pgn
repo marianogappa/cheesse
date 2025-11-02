@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zhWIdsUa"]
+[White "dioni64"]
+[Black "gotmike"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:20"]
+[WhiteElo "1660"]
+[BlackElo "1745"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 e6 3. Nc3 d5 4. exd5 exd5 5. Nxd5 Nf6 6. Nxf6+ Qxf6 7. c3 Bd6 8. h3 O-O 9. d3 Nc6 10. Be3 Re8 11. Nf3 Bf5 12. O-O Ne5 13. Nxe5 Qxe5 14. f4 Qxe3+ 15. Kh1 Bxd3 16. Bxd3 Bxf4 17. Rf3 Qd2 18. Qf1 Bc7 19. Rd1 Qxb2 20. Rxf7 Ba5 21. Bc4 Kh8 22. Rdd7 Qxc3 23. Rxg7 Re1 24. Rxh7# 1-0
+

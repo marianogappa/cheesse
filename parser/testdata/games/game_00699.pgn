@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/x02t6jtz"]
+[White "Peter_I"]
+[Black "andrea_desi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:33"]
+[WhiteElo "1264"]
+[BlackElo "1448"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer Gambit"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Qd6 4. f3 exf3 5. Qxf3 e5 6. dxe5 Qxe5+ 7. Be2 Bb4 8. Bf4 Qc5 9. Be3 Bxc3+ 10. bxc3 Qe5 11. Bf4 Qf6 12. O-O-O Nh6 13. Qe4+ Be6 14. Bxc7 O-O 15. Bd3 g6 16. Nf3 Bg4 17. h3 Bxf3 18. gxf3 Nd7 19. f4 Nc5 20. Qc4 Nxd3+ 21. Qxd3 Rac8 22. Be5 Qf5 23. Qxf5 Nxf5 24. Rhg1 Ne3 25. Rxg6+ hxg6 26. Rg1 Rfd8 27. Rg5 Rd1+ 28. Kb2 Rc5 29. Bd4 Rb5+ 30. Ka3 Rxg5 31. Bxe3 Ra5+ 32. Kb4 Rb1+ 33. Kxa5 b6+ 34. Ka6 b5 35. Kxa7 f6 36. c4 Ra1 0-1
+

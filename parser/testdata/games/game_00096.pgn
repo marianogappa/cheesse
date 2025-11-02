@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qtyDcJV7"]
+[White "Imbadgiveme"]
+[Black "ParanoidAndroidd"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:12"]
+[WhiteElo "1468"]
+[BlackElo "1396"]
+[WhiteRatingDiff "-25"]
+[BlackRatingDiff "+13"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. Bc4 a6 4. c3 b5 5. Bf1 Bb7 6. d4 Bxe4 7. dxc5 Bxf3 8. gxf3 Bxc5 9. Bg2 Qh4 10. Be3 Bxe3 0-1
+

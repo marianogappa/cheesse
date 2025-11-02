@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/w00xRq0c"]
+[White "tay666"]
+[Black "freedombanker"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:49"]
+[WhiteElo "1370"]
+[BlackElo "1446"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #3"]
+[TimeControl "420+1"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 Nf6 3. h3 e6 4. Bd3 Be7 5. Ne2 O-O 6. Nf4 Nc6 7. g4 Bd6 8. g5 Bxf4 9. exf4 Ne4 10. f3 Nd6 11. h4 Nxd4 12. h5 N4f5 13. h6 g6 14. Bxf5 Nxf5 15. Rg1 c6 16. Nc3 Qb6 17. Rg2 Ne3 18. Bxe3 Qxe3+ 19. Qe2 Qxf4 20. Na4 Qxa4 21. O-O-O Qxa2 22. Qe1 Qa1+ 23. Kd2 Qxb2 24. Qe5 Qxe5 25. Re1 Qf4+ 26. Ke2 e5 27. Kf2 e4 28. Rg3 Bf5 29. Kg2 Qd2+ 30. Kf1 Qxc2 31. fxe4 Bxe4 32. Kg1 Qc5+ 33. Kf1 Rfe8 34. Rh3 Bf5 35. Rxe8+ Rxe8 36. Rg3 Qc4+ 37. Kf2 Qe2+ 38. Kg1 Qe1+ 39. Kg2 Re2+ 40. Kf3 Qf1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/l6B01DSS"]
+[White "SergioM"]
+[Black "MonteiroERM"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:53"]
+[WhiteElo "1636"]
+[BlackElo "1633"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-13"]
+[ECO "C53"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+[TimeControl "0+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. Bb3 Re8 7. Bg5 Be7 8. O-O h6 9. Bh4 Nh7 10. Bg3 Ng5 11. Nxe5 Nxe5 12. Bxe5 d6 13. Bg3 Be6 14. f4 Bxb3 15. Qxb3 Ne6 16. Nd2 Nc5 17. Qc2 Qd7 18. d4 Ne6 19. b4 g5 20. d5 Nxf4 21. Bxf4 gxf4 22. Rxf4 Bg5 23. Rf5 Bxd2 24. Qxd2 Rxe4 25. Raf1 Rh4 26. Qf2 Re4 27. Rxf7 Qe8 28. Qg3+ Kh8 29. Qg7# 1-0
+

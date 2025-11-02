@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5LpCxc0d"]
+[White "InsaneChessPlayer"]
+[Black "apelsins"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:08"]
+[WhiteElo "2496"]
+[BlackElo "2476"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+10"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. f4 g6 2. Nf3 Bg7 3. e4 c5 4. Bc4 e6 5. O-O Ne7 6. d3 d5 7. Bb5+ Nbc6 8. Nc3 O-O 9. Qe1 Nd4 10. Ba4 a6 11. f5 b5 12. Bb3 c4 13. Nxd4 Bxd4+ 14. Be3 Bxe3+ 15. Qxe3 exf5 16. dxc4 dxc4 17. Rad1 Qc7 18. Qh6 cxb3 19. exf5 Bxf5 20. axb3 Rad8 21. Rde1 b4 22. Ne2 Qc5+ 23. Kh1 Rd2 24. Qxd2 Rc8 25. Ng1 Kf8 26. Qh6+ Kg8 27. Nf3 Nd5 28. Ng5 Nf6 29. Rxf5 Qxf5 30. h3 Qf2 31. Re7 Qf1+ 32. Kh2 Qf4+ 33. Kg1 Rf8 34. Re2 Qc1+ 35. Kh2 Qf4+ 36. Kh1 a5 37. Re1 Qf2 38. Rg1 Qf4 39. Rf1 Qxf1+ 40. Kh2 Qf4+ 0-1
+

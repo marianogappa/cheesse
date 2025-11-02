@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/FEKEl6Gn"]
+[White "GECHUN"]
+[Black "sbarbier"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:47"]
+[WhiteElo "1594"]
+[BlackElo "1533"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Tennison Gambit"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Nf6 4. d3 exd3 5. Bxd3 Bd7 6. O-O Bc6 7. Re1 e6 8. h3 Bc5 9. Nc3 O-O 10. Be3 h6 11. Bxc5 hxg5 12. Bxf8 Qxf8 13. Qd2 Qd6 14. Qxg5 Nd5 15. Nxd5 Qxd5 16. Qg3 Nd7 17. Rad1 Qxa2 18. b3 Qb2 19. Qh4 g6 20. Re3 Qg7 21. Rg3 Ne5 22. Qf4 Nxd3 23. Rdxd3 e5 24. Qb4 Re8 25. Rc3 e4 26. Rxc6 e3 27. Rxc7 exf2+ 0-1
+

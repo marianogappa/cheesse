@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lWWIpi30"]
+[White "pipo1"]
+[Black "floshift"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:07"]
+[WhiteElo "1807"]
+[BlackElo "1745"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. c4 Bg4 6. cxd5 Nxd5 7. Qb3 Bxf3 8. Qxf3 e6 9. a3 a6 10. Be2 Nc6 11. Be3 Be7 12. O-O O-O 13. Nd2 Bf6 14. Ne4 Bxd4 15. Bg5 f6 16. Bh4 Ne5 17. Qb3 Qb6 18. Qa2 Nf4 19. Rae1 Rac8 20. Bg3 Nxe2+ 21. Rxe2 Rfd8 22. b4 Nc4 23. Nc5 Bxc5 24. bxc5 Rxc5 25. Rb1 Qc6 26. h3 Rdd5 27. a4 e5 28. a5 Rxa5 29. Qc2 Rab5 30. Rc1 Rd4 31. Qf5 Nd6 32. Qe6+ 1-0
+

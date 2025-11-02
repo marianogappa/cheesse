@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/kMDRwWti"]
+[White "Gabriel291987"]
+[Black "vitalie053"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:10"]
+[WhiteElo "1676"]
+[BlackElo "1469"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+17"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 c6 3. Nc3 d5 4. exd5 exd5 5. Qe2+ Ne7 6. d4 a5 7. b3 b5 8. Qe3 Be6 9. Bd3 b4 10. Na4 Nd7 11. Ng5 g6 12. Nxe6 fxe6 13. Qf3 Nf5 14. Bxf5 gxf5 15. Qh5+ Ke7 16. Bg5+ Nf6 17. Bxf6+ Kxf6 18. Qh4+ Kf7 19. Qxd8 Rxd8 20. c3 Rg8 21. O-O h5 22. h3 Bg7 23. Rac1 bxc3 24. Nxc3 Bxd4 25. Ne2 c5 26. Nxd4 cxd4 27. Rfd1 e5 28. f3 e4 29. fxe4 dxe4 30. Rf1 Kf6 31. Rf4 Ke5 32. Rh4 Rh8 33. Rc5+ Rd5 34. Rc7 d3 35. Rc1 e3 36. Rhc4 d2 37. Rd1 e2 38. Rxd2 e1=Q+ 39. Kh2 Qxd2 40. Rc7 Qxa2 41. Re7+ Kf4 0-1
+

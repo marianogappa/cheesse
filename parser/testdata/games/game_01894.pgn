@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cX16vRQy"]
+[White "Awilen"]
+[Black "nimzovic"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:04"]
+[WhiteElo "1360"]
+[BlackElo "1571"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-125"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[TimeControl "180+2"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.33] } 1... e5 { [%eval 0.45] } 2. Nf3 { [%eval 0.33] } 2... Bc5?! { [%eval 1.31] } 3. c3?! { [%eval 0.68] } 3... Nf6 { [%eval 0.69] } 4. Nxe5 { [%eval 0.62] } 4... Nxe4 { [%eval 0.6] } 5. d4 { [%eval 0.56] } 5... Bb6?! { [%eval 1.5] } 6. Qe2?! { [%eval 0.65] } 6... d5 { [%eval 0.7] } 7. f3?! { [%eval 0.18] } 7... Qh4+ { [%eval 0.37] } 8. Kd1?! { [%eval -0.59] } 8... Nf2+ { [%eval -0.71] } 9. Kc2 { [%eval -0.81] } 9... Bf5+ { [%eval -0.6] } 10. Kb3 { [%eval -0.87] } 10... Nxh1?? { [%eval 6.12] } 11. Ng6+ { [%eval 5.84] } 11... Be6 { [%eval 6.21] } 12. Nxh4 { [%eval 6.24] } 12... O-O { [%eval 6.11] } 13. Bf4? { [%eval 5.04] } 13... c5 { [%eval 5.0] } 14. dxc5 { [%eval 4.61] } 14... Bxc5 { [%eval 5.15] } 15. Qb5? { [%eval 3.57] } 1-0
+

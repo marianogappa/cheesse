@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/SJcqvhUB"]
+[White "hoscarua"]
+[Black "knightorrent"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:28"]
+[WhiteElo "2082"]
+[BlackElo "2039"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Two Pawn Attack, Lasker Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Bc4 e6 6. Bxd5 exd5 7. d4 d6 8. exd6 cxd6 9. cxd6 Bxd6 10. Nf3 O-O 11. O-O Nc6 12. h3 Bf5 13. Nc3 Bb8 14. a3 a6 15. Be3 Qd6 16. Ne2 f6 17. Bf4 Qd7 18. Bxb8 Raxb8 19. Ng3 Rfe8 20. Nxf5 Qxf5 21. Qb3 b5 22. Rfe1 Na5 23. Qb4 Nc4 24. b3 Nb6 25. Rac1 Re4 26. Qd6 Rb7 27. Qc6 Qd7 28. Qxd7 Rxd7 29. Rc6 Rb7 30. Rec1 a5 31. Rc7 a4 32. bxa4 1-0
+

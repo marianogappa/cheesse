@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/KHQgTba4"]
+[White "ckjdj"]
+[Black "fastmove6"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:30"]
+[WhiteElo "1659"]
+[BlackElo "1529"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. b4 d5 2. a3 e6 3. Bb2 c6 4. e3 Nf6 5. c4 Be7 6. Qc2 O-O 7. Nc3 dxc4 8. Bxc4 Nd5 9. Ne4 Nf6 10. Ng3 Nd5 11. Nh5 g6 12. Bxd5 cxd5 13. Qc3 f6 14. Ng3 Rf7 15. Nf3 Qf8 16. Nd4 Nc6 17. Nb5 Bd8 18. h4 a6 19. Nd4 Nxd4 20. Qxd4 Bd7 21. Rc1 Bc6 22. f4 Rb8 23. Ne2 Be7 24. g4 Rg7 25. Ng3 Qf7 26. Ke2 Bd6 27. g5 f5 28. Qxg7+ Qxg7 29. Bxg7 Kxg7 30. h5 Rd8 31. hxg6 hxg6 32. Rh2 Rh8 33. Rch1 Rxh2+ 34. Rxh2 Bb5+ 35. Kd1 Bc4 36. Kc2 Bc7 37. d3 Bd6 38. dxc4 b6 39. Kc3 dxc4 40. Kxc4 b5+ 41. Kc3 Be7 42. Rd2 Bd8 43. Rd7+ Kf8 44. Rxd8+ Ke7 45. Ra8 Kf7 46. Rxa6 Ke7 47. Rb6 Kd7 48. Rxb5 Kd6 49. Rxf5 1-0
+

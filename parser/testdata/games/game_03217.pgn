@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zLFOLB4j"]
+[White "Alekhzin"]
+[Black "riesgo27"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:10"]
+[WhiteElo "1262"]
+[BlackElo "1257"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Accelerated Mannheim Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. Qa4+ Qd7 4. Qxc4 Nc6 5. e3 e6 6. a3 Nf6 7. Qa4 a6 8. b4 b5 9. Bxb5 axb5 10. Qxa8 Bd6 11. Nf3 O-O 12. O-O Bb7 13. Qxb7 Rb8 14. Qa6 Nd5 15. Re1 Nb6 16. Ne5 Bxe5 17. dxe5 Na8 18. Nc3 Nxe5 19. Rd1 Nd3 20. Qa7 Rf8 21. h3 Nb6 22. a4 Qc6 23. Rxd3 g6 24. axb5 Qxb5 25. Nxb5 1-0
+

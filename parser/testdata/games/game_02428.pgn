@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/K40JouJC"]
+[White "Dollar-USD"]
+[Black "LAlgaba"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:10"]
+[WhiteElo "1620"]
+[BlackElo "1578"]
+[WhiteRatingDiff "-29"]
+[BlackRatingDiff "+50"]
+[ECO "B02"]
+[Opening "Alekhine Defense: John Tracy Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.26] } 1... Nf6 { [%eval 0.58] } 2. Nf3? { [%eval -0.42] } 2... Nxe4 { [%eval -0.46] } 3. d4 { [%eval -0.46] } 3... Nf6 { [%eval -0.34] } 4. Bc4 { [%eval -0.72] } 4... d5 { [%eval -0.69] } 5. Bb3 { [%eval -0.93] } 5... Nc6 { [%eval -0.73] } 6. c4 { [%eval -1.12] } 6... Bg4 { [%eval -0.86] } 7. Nbd2?! { [%eval -1.75] } 7... Nxd4 { [%eval -1.69] } 8. O-O { [%eval -1.95] } 8... Nxb3 { [%eval -1.61] } 9. Qxb3 { [%eval -1.63] } 9... dxc4? { [%eval -0.52] } 10. Qxb7 { [%eval -0.48] } 10... Rb8 { [%eval -0.17] } 11. Qc6+?! { [%eval -0.78] } 11... Qd7?! { [%eval -0.05] } 12. Qxd7+?! { [%eval -0.75] } 12... Nxd7 { [%eval -0.56] } 13. Nxc4 { [%eval -0.74] } 13... Bxf3 { [%eval -0.66] } 14. gxf3 { [%eval -1.0] } 14... g6?! { [%eval -0.21] } 15. Bf4 { [%eval -0.35] } 15... Bg7 { [%eval -0.14] } 16. Bxc7?! { [%eval -1.02] } 16... Rc8 { [%eval -0.94] } 17. Nd6+? { [%eval -2.7] } 17... exd6 { [%eval -2.7] } 18. Bxd6?! { [%eval -3.46] } 18... Bf8? { [%eval -2.23] } 19. Rfe1+?! { [%eval -2.94] } 19... Kd8 { [%eval -2.84] } 20. Bf4 { [%eval -2.91] } 20... Bg7 { [%eval -2.89] } 21. Rad1 { [%eval -3.16] } 21... Re8 { [%eval -3.15] } 22. Rxe8+ { [%eval -3.29] } 22... Kxe8 { [%eval -3.17] } 23. Bd6? { [%eval -4.34] } 23... Rc6?! { [%eval -3.53] } 24. Re1+ { [%eval -3.84] } 24... Kd8 { [%eval -3.71] } 25. Be7+ { [%eval -3.69] } 25... Kc8 { [%eval -3.7] } 0-1
+

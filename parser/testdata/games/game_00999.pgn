@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/2rJ37RAB"]
+[White "Modeste_mpolo"]
+[Black "ChessOtaku"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:42"]
+[WhiteElo "1553"]
+[BlackElo "1527"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+34"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 b6 6. e5 Bc5 7. Qg4 g6 8. Nc3 d6 9. Bf4 Bxg4 0-1
+

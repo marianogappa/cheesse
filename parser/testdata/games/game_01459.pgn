@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/wEOHjez3"]
+[White "roidesfou"]
+[Black "CarlosArrabal"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:30"]
+[WhiteElo "1733"]
+[BlackElo "1768"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+[TimeControl "900+6"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 c5 3. c3 a6 4. d4 cxd4 5. cxd4 Nc6 6. Nc3 Bb4 7. Bd2 Nf6 8. d5 exd5 9. exd5 Qe7+ 10. Be2 O-O 11. dxc6 dxc6 12. O-O Bg4 13. Re1 Qc7 14. a3 Ba5 15. b4 Bb6 16. Bg5 Nh5 17. Nd2 Bxe2 18. Qxe2 Nf4 19. Qg4 Nd3 20. Re7 Qb8 21. Bf6 g6 22. Qh4 Bxf2+ 23. Qxf2 Nxf2 24. Kxf2 Qf4+ 25. Nf3 Qxf6 26. Re3 Rfe8 0-1
+

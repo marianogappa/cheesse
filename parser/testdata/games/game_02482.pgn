@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/6WiecFpb"]
+[White "Papijor"]
+[Black "Morfeo115"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:27"]
+[WhiteElo "1608"]
+[BlackElo "1271"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-15"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Bxc6 bxc6 5. Nc3 Bb7 6. d3 d5 7. Nxe5 d4 8. Ne2 Bc5 9. Bg5 O-O 10. Ng3 Be7 11. Nf5 h6 12. Bxf6 Bxf6 13. Ng4 c5 14. O-O Qd7 15. f4 Bc8 16. Nxf6+ gxf6 17. Qg4+ Kh7 18. Qg7# 1-0
+

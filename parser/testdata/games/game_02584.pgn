@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ukpqjkmJ"]
+[White "carango20"]
+[Black "ltorres140662"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:50"]
+[WhiteElo "1804"]
+[BlackElo "1793"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 a6 6. Be3 b5 7. a3 c4 8. Nbd2 Nge7 9. g3 Nf5 10. Bg2 Nxe3 11. fxe3 Be7 12. O-O Bg5 13. Nxg5 Qxg5 14. e4 Ne7 15. exd5 exd5 16. Nf3 Qe3+ 17. Kh1 Bg4 18. Qe1 Qh6 19. Nh4 O-O-O 20. Rf4 Be6 21. Rf2 g5 22. Nf3 f5 23. Qc1 Rdg8 24. Kg1 f4 25. gxf4 gxf4 26. Qe1 Nf5 27. a4 Ne3 28. Qe2 Bh3 29. axb5 Bxg2 30. Nh4 Bf3+ 31. Rg2 Bxe2 32. Rxg8+ Rxg8+ 33. Kf2 Qxh4+ 34. Kxe2 Rg2+ 35. Kf3 Rf2# 0-1
+

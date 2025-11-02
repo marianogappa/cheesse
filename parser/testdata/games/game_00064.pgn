@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/IDURSj9G"]
+[White "redbulls38"]
+[Black "Mancuelo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "1509"]
+[BlackElo "1463"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-11"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Old Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Nc3 Bf5 5. Nf3 e6 6. Bxc4 Bb4 7. Qa4+ Nc6 8. Ne5 Bxc3+ 9. bxc3 Qd6 10. Ba3 Qe7 11. Bxe7 Kxe7 12. Nxc6+ bxc6 13. Qxc6 Rab8 14. Bb5 Rb6 15. Qxc7+ Kf8 16. Qd8+ Ne8 17. Qxe8# 1-0
+

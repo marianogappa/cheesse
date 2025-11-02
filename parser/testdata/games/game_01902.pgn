@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2OnQUqTh"]
+[White "attackingweak_pawn"]
+[Black "Skat1205732"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:07"]
+[WhiteElo "1958"]
+[BlackElo "2066"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "A43"]
+[Opening "Old Benoni Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 c5 2. Nf3 Nc6 3. Bf4 e6 4. e3 Nf6 5. c3 Nd5 6. Bg3 Be7 7. Bd3 O-O 8. O-O d6 9. Nbd2 cxd4 10. exd4 Nf6 11. Re1 d5 12. Ne5 Bd6 13. f4 Bxe5 14. fxe5 Ne4 15. Nxe4 dxe4 16. Bxe4 f5 17. exf6 Qxf6 18. Rf1 Qxf1+ 19. Qxf1 Rxf1+ 20. Kxf1 Bd7 21. Ke2 Rf8 22. Rf1 Rxf1 23. Kxf1 a6 24. Ke2 b5 25. Bd6 Na5 26. b3 Nc6 27. Kd3 g6 28. c4 bxc4+ 29. bxc4 Kf7 30. Kc3 a5 31. Bc7 Nb4 32. a3 Na2+ 33. Kb2 Nb4 34. axb4 axb4 35. Kb3 h5 36. Kxb4 g5 37. Kc5 Ke7 38. Bd6+ Kf6 39. Bc6 Bc8 40. Be5+ Kf5 41. Kd6 Ba6 42. Bb5 Bb7 43. d5 exd5 44. cxd5 Ke4 45. Bc6 Ba6 46. Bf6 g4 47. Kc5 Bc8 48. d6+ Kf5 49. Bh4 Ke6 50. Bg3 Ba6 51. d7 Bf1 52. d8=Q h4 53. Bd7+ Kf7 54. Qe8+ Kf6 55. Bxh4+ Kg7 56. Qe5+ Kg6 57. Qf5+ Kg7 58. Bf6+ Kf7 59. Be6+ Ke8 60. Qg6+ Kf8 61. Qf7# 1-0
+

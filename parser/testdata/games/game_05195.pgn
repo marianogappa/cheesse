@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/tx5L68RZ"]
+[White "simbali"]
+[Black "Pumuckl"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:53"]
+[WhiteElo "1939"]
+[BlackElo "1874"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-10"]
+[ECO "A00"]
+[Opening "Grob Opening: Grob Gambit, Fritz Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. g4 d5 2. Bg2 Bxg4 3. c4 Be6 4. Qb3 Qc8 5. cxd5 Bf5 6. e4 Bg6 7. Nc3 c6 8. d4 Nf6 9. Nge2 cxd5 10. exd5 Nbd7 11. O-O Nb6 12. Bg5 Qg4 13. Bxf6 gxf6 14. h3 Qh4 15. Ng3 Rg8 16. Nb5 Qf4 17. Rac1 Bf5 18. Nc7+ Kd8 19. Nxa8 Bh6 20. Nxb6 Be4 21. Rc8# 1-0
+

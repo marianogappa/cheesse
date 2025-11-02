@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1wI9Xmrz"]
+[White "ditkin"]
+[Black "Mesa-Boogie"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:35"]
+[WhiteElo "2256"]
+[BlackElo "2476"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-18"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation, Open"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 c5 3. Nf3 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Nf6 7. N5c3 a6 8. Bg5 Be7 9. Bxf6 Bxf6 10. Nd5 O-O 11. Be2 g6 12. O-O Nc6 13. Nbc3 Nd4 14. Nxf6+ Qxf6 15. Nd5 Qd8 16. f4 Be6 17. Bd3 f5 18. exf5 gxf5 19. Kh1 Rc8 20. Qh5 e4 21. Be2 Bf7 22. Qh6 Nxe2 23. Nf6+ Qxf6 24. Qxf6 Bg6 25. Qxd6 Rcd8 26. Qe6+ Kg7 27. Rad1 Rde8 28. Rd7+ Kh6 29. Qb6 Rc8 30. Qf2 Nxf4 31. Qxf4+ Kh5 32. g4+ fxg4 33. Rd5+ Kh4 34. Qg3# 1-0
+

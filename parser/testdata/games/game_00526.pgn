@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rdTf2qv5"]
+[White "Simoneta"]
+[Black "lucas-08-92"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:55"]
+[WhiteElo "1660"]
+[BlackElo "1662"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 f6 2. e3 Nc6 3. c4 e5 4. dxe5 Nxe5 5. Nf3 Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 Qe7 8. b3 d6 9. Bd3 Bg4 10. O-O O-O-O 11. h3 Bxf3 12. Nxf3 Nxd3 13. Qxd3 h5 14. b4 g5 15. a4 g4 16. hxg4 hxg4 17. Nh2 f5 18. Qxf5+ Kb8 19. Qxg4 Nf6 20. Qg3 Rdg8 21. Qf4 Qh7 22. f3 Nh5 23. Qh4 Qd3 24. Qf2 Ng3 25. Rfc1 Rxh2 26. Kxh2 Qh7+ 27. Kg1 Qh1# 0-1
+

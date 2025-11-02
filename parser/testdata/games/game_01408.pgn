@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TaWQf3k6"]
+[White "Developr"]
+[Black "moj911"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:18"]
+[WhiteElo "1140"]
+[BlackElo "952"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+21"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 a6 4. d3 b5 5. Bg5 f6 6. Bh4 g5 7. Bg3 g4 8. Nh4 h5 9. f3 b4 10. Nd5 Nc6 11. fxg4 Nd4 12. gxh5 c6 13. Nxb4 a5 14. Nxc6 Nxc6 15. Qf3 Nd4 16. Qe3 Nxc2+ 17. Kd2 Nxe3 18. Kxe3 Bh6+ 19. Ke2 Bb7 20. Nf5 d5 21. Nxh6 Nxh6 22. Be1 dxe4 23. dxe4 Bxe4 24. g3 Bxh1 0-1
+

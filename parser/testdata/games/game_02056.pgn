@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nLDNBQXu"]
+[White "Peter_li"]
+[Black "Empyrosis"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:42"]
+[WhiteElo "1684"]
+[BlackElo "1620"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "C61"]
+[Opening "Ruy Lopez: Bird Variation"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O a6 6. Ba4 b5 7. Bb3 c5 8. a3 d6 9. e5 dxe5 10. Qf3 Nf6 11. Qxa8 Be7 12. Qc6+ Nd7 13. d3 O-O 14. Qf3 Nf6 15. Qg3 Qc7 16. Bh6 Nh5 17. Qf3 g6 18. Bxf8 Kxf8 19. Qxf7# 1-0
+

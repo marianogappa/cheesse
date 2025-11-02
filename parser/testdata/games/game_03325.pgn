@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/92ymWkjY"]
+[White "YakimovPH"]
+[Black "carpediem257"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:41"]
+[WhiteElo "1778"]
+[BlackElo "1779"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Bc4 g6 5. Nf3 Bg7 6. O-O Nf6 7. Re1 O-O 8. d4 b6 9. Qe2 Re8 10. Bb5 Nbd7 11. Bc6 Rb8 12. Nb5 a6 13. Nc3 Bb7 14. Bxb7 Rxb7 15. d5 c5 16. dxc6 Rc7 17. cxd7 Rxd7 18. Bg5 h6 19. Bxf6 Bxf6 20. Qxa6 e5 21. Rad1 Rxd1 22. Rxd1 Qe7 23. Qxb6 e4 24. Nd4 Bxd4 25. Qxd4 e3 26. fxe3 Qxe3+ 27. Qxe3 Rxe3 28. Kf2 1-0
+

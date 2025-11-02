@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JAlAjKbC"]
+[White "MarcosRomam"]
+[Black "pampopp"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:53"]
+[WhiteElo "1661"]
+[BlackElo "1463"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "C42"]
+[Opening "Russian Game: Three Knights Game"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 d6 4. Bc4 Bg4 5. h3 Bxf3 6. Qxf3 Be7 7. O-O Nc6 8. Ne2 a6 9. a3 b5 10. Ba2 O-O 11. c3 Na5 12. d3 c5 13. Bg5 Nd7 14. Be3 Bg5 15. Rad1 Bxe3 16. Qxe3 Nb6 17. f4 c4 18. d4 exd4 19. Qxd4 Re8 20. Ng3 Qh4 21. Kh2 Re6 22. Qxb6 Nb3 23. Qb7 Ree8 24. Rxd6 Nc5 25. Rc6 Rab8 26. Qc7 Nxe4 27. Nxe4 h6 28. Nd6 Qh5 29. Nxe8 Rxe8 30. Bb1 Qe2 31. Rg1 g6 32. Bxg6 Rf8 1-0
+

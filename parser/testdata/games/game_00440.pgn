@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cZLQ90Uo"]
+[White "T1T1"]
+[Black "litoy1"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:30"]
+[WhiteElo "1673"]
+[BlackElo "1652"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 d6 3. e4 Nd7 4. Bd3 Be7 5. Ne2 e5 6. d5 b6 7. b4 a5 8. b5 Ngf6 9. O-O Nc5 10. Bc2 Nfxe4 11. Bxe4 Nxe4 12. Nbc3 Nxc3 13. Nxc3 f5 14. f4 e4 15. g4 O-O 16. Bb2 Bf6 17. Rb1 Bxc3 18. Bxc3 fxg4 19. Qe2 Bf5 20. Rbe1 Qh4 21. Rf2 Rae8 22. Rg2 e3 23. h3 Be4 24. Rxg4 Qxh3 25. Rxg7+ Kh8 26. Rg3+ 1-0
+

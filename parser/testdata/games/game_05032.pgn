@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/cq0HLvrU"]
+[White "razvan345"]
+[Black "Davidlfc"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:23"]
+[WhiteElo "1668"]
+[BlackElo "1689"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Staunton-Cochrane Variation"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 c5 2. c4 g6 3. d4 cxd4 4. Qxd4 Nc6 5. Qxh8 Nf6 6. Bg5 Qa5+ 7. Bd2 Qe5 8. Nc3 Nxe4 9. Qxe5 Nxe5 10. Nxe4 1-0
+

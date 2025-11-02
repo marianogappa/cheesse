@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/yMxNOLo6"]
+[White "agustincba"]
+[Black "Mauriciano"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:31"]
+[WhiteElo "1408"]
+[BlackElo "1091"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "1200+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. f3 e5 3. Nc3 f5 4. exd5 Ne7 5. Bb5+ c6 6. dxc6 bxc6 7. Ba4 Nd5 8. Nxd5 Qxd5 9. Qe2 Bc5 10. f4 e4 11. Nf3 Ba6 12. c4 Bxc4 13. d3 Bxd3 14. Qd2 e3 15. Qa5 Nd7 16. Bxe3 Bxe3 17. Qb4 O-O-O 18. Ne5 Qxg2 19. Nxd3 Qxh1+ 20. Ke2 Qxa1 21. Kxe3 Nb6 22. Bxc6 Qxa2 23. Qc5 Rhe8+ 24. Bxe8+ Kb7 25. Qe7+ Kc8 26. Qc5+ Kb7 27. Bc6+ Kc7 28. Bd5+ Kb8 29. Bxa2 Re8+ 30. Ne5 Rc8 31. Qd6+ Kb7 32. Bd5+ Nxd5+ 33. Qxd5+ Kb6 34. Nd7+ Ka6 35. Nc5+ Kb5 36. Nb3+ Kb4 37. Qxf5 g6 38. Qxc8 1-0
+

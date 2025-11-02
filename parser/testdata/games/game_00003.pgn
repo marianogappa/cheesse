@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Fmzpsdgt"]
+[White "richard7226"]
+[Black "maliuk"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:00"]
+[WhiteElo "1402"]
+[BlackElo "1524"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-16"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Maroczy Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. d3 Nc6 3. Nc3 e5 4. Bg5 h6 5. Bh4 Be7 6. Be2 d5 7. exd5 Nxd5 8. Bxe7 Kxe7 9. Nf3 Re8 10. O-O Kf8 11. d4 Nf4 12. Bb5 Bd7 13. Bxc6 bxc6 14. g3 Nh5 15. Re1 Qf6 16. Nxe5 Bh3 17. Qxh5 Rad8 18. Qxh3 1-0
+

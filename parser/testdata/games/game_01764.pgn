@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EZL1G7aA"]
+[White "balval"]
+[Black "Spyke24"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:41"]
+[WhiteElo "1927"]
+[BlackElo "1747"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 h6 5. c3 Nf6 6. Ne2 Bd6 7. O-O O-O 8. Be3 Ng4 9. Bf4 Qf6 10. Bxd6 Qxd6 11. Ng3 c6 12. Qc2 Nd7 13. h3 Nxf2 14. Kxf2 Nf6 15. Nf5 Qf4+ 16. Kg1 Qg5 17. Qd2 Qh5 18. Be2 Qg5 19. Qxg5 hxg5 20. Ne7+ Kh8 21. Nxc8 Raxc8 22. Nd2 Rce8 23. Rae1 Re3 24. Rf3 Rfe8 25. Kf2 R3e7 26. Kf1 g4 27. Rf2 gxh3 28. gxh3 Kg8 29. Nf3 Ne4 30. Rg2 Nd6 31. Bd3 Rxe1+ 32. Nxe1 Re3 33. Kf2 Rxh3 34. Nf3 f6 35. Bc2 1-0
+

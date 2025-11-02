@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NRBzGwra"]
+[White "juanlg"]
+[Black "omar1993j"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:55"]
+[WhiteElo "1429"]
+[BlackElo "1380"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Black Mustang Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. Nf3 Nc6 2. d4 Nf6 3. d5 Nb4 4. c4 c5 5. Bd2 b5 6. b3 d6 7. cxb5 Bf5 8. Bxb4 cxb4 9. Nd4 g6 10. Nxf5 gxf5 11. e3 Ne4 12. Bd3 Bg7 13. Nd2 Bxa1 14. Qxa1 Nc3 15. Bxf5 e6 16. dxe6 fxe6 17. Be4 Qh4 18. Bxa8 Rf8 19. Bc6+ Ke7 20. Bf3 e5 21. O-O Rg8 22. a4 Qh3 23. g3 e4 24. Nxe4 Nxe4 25. Bxe4 h5 26. Qd1 h4 27. Bg2 Qf5 28. h3 hxg3 29. fxg3 Rxg3 30. Rxf5 Rxe3 31. Qh5 Re6 32. Qf7+ Kd8 33. Qxe6 Kc7 34. Qc4+ Kb6 35. Qc6+ Ka5 36. Qa6# 1-0
+

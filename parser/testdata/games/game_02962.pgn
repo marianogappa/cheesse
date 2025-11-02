@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Ivl4J2Wf"]
+[White "Roma75"]
+[Black "suny_abhi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:09"]
+[WhiteElo "1531"]
+[BlackElo "1403"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+16"]
+[ECO "D07"]
+[Opening "Queen's Gambit Refused: Chigorin Defense #3"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nc6 2. c4 d5 3. Nc3 dxc4 4. d5 Nb4 5. Qa4+ c6 6. Qxb4 cxd5 7. Qb5+ Bd7 8. Qxd5 Nf6 9. Qxc4 e6 10. e3 Rc8 11. Qb3 Nd5 12. Nxd5 exd5 13. Bb5 Bxb5 14. Qxb5+ Qd7 15. Qxd7+ Kxd7 16. Nf3 Bb4+ 17. Bd2 Rc2 18. Bxb4 Rxb2 19. Bc5 Rc8 20. Bd4 Rbc2 21. O-O b5 22. Ne5+ Kd6 23. Nxf7+ Kd7 24. Ne5+ Kd6 25. a3 a5 26. Nd3 g5 27. Nc5 h5 28. Rab1 b4 29. axb4 a4 30. b5 a3 31. b6 a2 32. Ra1 Rb8 33. b7 Kc6 34. Rfe1 Kd6 35. f3 Kc6 36. g4 hxg4 37. fxg4 Kd6 38. Rf1 Kc6 39. Rf6+ Kb5 40. Rf5 Kc4 41. Rxg5 Kb4 42. Rg8 Rxg8 43. Na6+ Ka5 44. b8=Q Rxb8 45. Nxb8 Kb5 46. Nd7 Kc4 47. Ne5+ Kb3 48. Nf3 Kc4 0-1
+

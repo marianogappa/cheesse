@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/fMBRIRrc"]
+[White "posnofa"]
+[Black "Delingstone"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:22"]
+[WhiteElo "1678"]
+[BlackElo "1512"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e3 e6 2. c4 d5 3. cxd5 exd5 4. Nc3 Nf6 5. d4 Be6 6. Nf3 Nc6 7. Bd3 Qd7 8. Bd2 Bd6 9. Rc1 O-O 10. Bb1 Bxh2 11. Rxh2 h6 12. Nh4 a6 13. Qe2 b5 14. e4 b4 15. Nd1 Rfe8 16. e5 Ne4 17. f3 Nxd2 18. Qxd2 a5 19. Qd3 Ne7 20. Qh7+ Kf8 21. Qh8+ Ng8 22. f4 g6 23. Qh7 Qb5 24. Nxg6+ fxg6 25. Bxg6 Re7 26. Qh8 Qa4 27. Bh7 Qxa2 28. Rxh6 Qb3 29. Rf6+ Bf7 30. Qxg8# 1-0
+

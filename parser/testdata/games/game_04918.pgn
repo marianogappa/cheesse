@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ZYDhSzjv"]
+[White "scacman"]
+[Black "khan1"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:55"]
+[WhiteElo "1605"]
+[BlackElo "1462"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Napoleon Attack"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qf3 d6 3. Be2 Nf6 4. h3 Nc6 5. Na3 Nd4 6. Qe3 d5 7. exd5 Bd6 8. Bd1 O-O 9. d3 Nxd5 10. Qg3 e4 11. Qg5 Qxg5 12. Bxg5 Bxa3 13. bxa3 h6 14. Bd2 e3 15. fxe3 Nf5 16. e4 Nde3 17. exf5 Nxg2+ 18. Kf2 Nh4 19. Bg4 Bxf5 20. Nf3 Bxg4 21. hxg4 Nxf3 22. Kxf3 Rfe8 23. Be3 Re6 24. Ke2 Rae8 25. Rh3 Kh7 26. Kd2 Kg6 27. Rf3 a6 28. Raf1 f6 29. R1f2 h5 30. gxh5+ Kxh5 31. Rg3 g5 32. Rh2+ Kg6 33. Bd4 f5 34. Rgh3 f4 35. Rh6+ Kf5 36. Rxe6 Rxe6 37. Rh7 Rc6 38. Rf7+ Kg4 39. c3 b6 40. Re7 a5 41. Ke2 f3+ 42. Kf2 Rh6 43. Re4+ Kf5 44. Kxf3 Rh3+ 45. Ke2 g4 46. Re7 Rh2+ 47. Kf1 Rxa2 48. Rxc7 Rxa3 49. Rc6 b5 50. Bc5 Rxc3 51. d4 b4 52. Ra6 Ra3 53. Bb6 a4 54. Bc5 b3 55. Bxa3 Ke4 56. Kg2 Kxd4 57. Rxa4+ Kc3 58. Ra8 b2 59. Rc8+ Kb3 60. Bxb2 Kxb2 61. Kg3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bZein7Xo"]
+[White "viciousfishes"]
+[Black "sdregola"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:48"]
+[WhiteElo "1221"]
+[BlackElo "1093"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e3 e6 2. f3 d5 3. g3 Bd6 4. Bg2 c6 5. Ne2 b5 6. O-O Qb6 7. d4 Nd7 8. Nf4 e5 9. dxe5 Nxe5 10. Bd2 Bc5 11. Re1 g5 12. Nd3 Nxd3 13. cxd3 Bxe3+ 14. Bxe3 d4 15. Bxg5+ Kf8 16. Bh6+ Nxh6 17. Qd2 Nf5 18. g4 Ne3 19. Qb4+ Ke8 20. Nd2 a5 21. Qd6 Be6 22. Qe5 Rf8 23. Rac1 Rc8 24. Ne4 Nd5 25. g5 f5 26. Nd6+ Kd8 27. Qxe6 Rc7 28. f4 Re7 29. Qc8# 1-0
+

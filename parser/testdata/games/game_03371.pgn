@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/oFLI8Rl0"]
+[White "penquita"]
+[Black "papab"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:50"]
+[WhiteElo "1491"]
+[BlackElo "1436"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. d4 h5 2. e4 d5 3. e5 f6 4. f4 f5 5. h4 Nh6 6. Be2 Ng4 7. Bxg4 fxg4 8. g3 e6 9. Ne2 Na6 10. a3 c6 11. Nec3 b5 12. a4 b4 13. Ne2 c5 14. dxc5 Nxc5 15. b3 Ne4 16. Nd2 Qb6 17. Nxe4 dxe4 18. Nd4 Bc5 19. Be3 Qc7 20. Qe2 Bb6 21. Nb5 Qc6 22. a5 a6 23. axb6 axb5 24. Rxa8 Qxa8 25. Qxb5+ Bd7 26. Qxb4 Qa1+ 27. Kd2 Qxh1 28. b7 Qh2+ 29. Kc3 Kf7 30. Qd6 Qxg3 31. Qxd7+ Kg6 32. Qxe6+ Kh7 33. Qf5+ g6 34. Qf7+ Kh6 35. f5+ Qxe3+ 36. Kb2 Qd4+ 37. Kb1 Qd1+ 38. Kb2 Qd4+ 39. Kb1 Qd1+ 40. Kb2 Qd4+ 41. Kb1 Qg1+ 42. Kb2 Qd4+ 43. Ka2 Qa7+ 44. Kb2 Qd4+ 45. c3 Qd2+ 46. Ka3 Qc1+ 47. Kb4 Rg8 48. Qxg8 g5 49. Qg6# 1-0
+

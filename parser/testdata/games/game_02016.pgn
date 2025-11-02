@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/iFw1T7Um"]
+[White "gogiaale"]
+[Black "rast197"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:31"]
+[WhiteElo "1466"]
+[BlackElo "1473"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e3 { [%eval 0.16] } 1... e5 { [%eval 0.34] } 2. c4 { [%eval 0.08] } 2... Nc6 { [%eval 0.22] } 3. Nc3 { [%eval 0.19] } 3... Nf6 { [%eval 0.12] } 4. a3 { [%eval 0.0] } 4... d6?! { [%eval 0.53] } 5. h3 { [%eval 0.18] } 5... Be6 { [%eval 0.41] } 6. d3 { [%eval 0.0] } 6... Be7 { [%eval 0.16] } 7. e4 { [%eval -0.11] } 7... O-O { [%eval 0.0] } 8. Nd5 { [%eval -0.36] } 8... Nxd5? { [%eval 2.43] } 9. cxd5 { [%eval 2.42] } 9... Bxd5 { [%eval 2.8] } 10. exd5 { [%eval 2.66] } 10... Nd4 { [%eval 2.68] } 11. Nf3 { [%eval 2.72] } 11... Nxf3+ { [%eval 2.75] } 12. Qxf3 { [%eval 2.77] } 12... Bg5 { [%eval 3.1] } 13. Bxg5 { [%eval 3.14] } 13... Qxg5 { [%eval 3.07] } 14. Be2 { [%eval 3.12] } 14... Rac8 { [%eval 3.24] } 15. O-O { [%eval 3.04] } 15... c6 { [%eval 3.24] } 16. b4 { [%eval 2.83] } 16... cxd5?! { [%eval 3.51] } 17. Qxd5 { [%eval 3.58] } 17... Rc2 { [%eval 3.87] } 18. Bf3 { [%eval 3.82] } 18... b6?! { [%eval 4.5] } 19. Qb3? { [%eval 3.3] } 19... Qd2?! { [%eval 4.19] } 20. Rfd1? { [%eval 2.91] } 20... Qxf2+ { [%eval 2.63] } 21. Kh1 { [%eval 2.64] } 21... Rb2?! { [%eval 3.55] } 22. Qc4?! { [%eval 2.83] } 22... Rc2 { [%eval 2.86] } 23. Qb3 { [%eval 2.64] } 23... Rb2?! { [%eval 3.56] } 24. Qa4 { [%eval 3.32] } 24... Qd4 { [%eval 3.63] } 25. Be4?! { [%eval 2.75] } 25... Rc2?? { [%eval 9.85] } 26. Qxc2 { [%eval 9.55] } 26... Qe3 { [%eval 10.65] } 27. Re1 { [%eval 10.11] } 27... Qg5 { [%eval 10.78] } 28. Rf1 { [%eval 10.45] } 28... Re8 { [%eval 17.11] } 29. Rf3 { [%eval 13.01] } 29... f6 { [%eval 15.75] } 30. Raf1 { [%eval 12.39] } 30... Qh5 { [%eval 12.32] } 31. Qf2 { [%eval 11.75] } 31... Qf7 { [%eval 15.55] } 32. Rg3?! { [%eval 9.07] } 32... Qb3? { [%eval #4] } 33. Qe3?! { [%eval 16.1] } 33... Qxa3?! { [%eval #4] } 34. Rf2?! { [%eval 11.29] } 34... Qxb4?! { [%eval #7] } 0-1
+

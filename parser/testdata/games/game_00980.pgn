@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bcAbwKjq"]
+[White "jerrimada"]
+[Black "nodnarb125"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:42"]
+[WhiteElo "1196"]
+[BlackElo "1190"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C42"]
+[Opening "Russian Game: Urusov Gambit"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nxe4 4. Nxe5 Qf6 5. Nxf7 Qxf2# 0-1
+

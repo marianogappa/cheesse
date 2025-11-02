@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gpZC5SkY"]
+[White "miguelon25"]
+[Black "jpicdlr"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:23"]
+[WhiteElo "1500"]
+[BlackElo "1369"]
+[WhiteRatingDiff "+120"]
+[BlackRatingDiff "-6"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. d4 Nc6 5. c3 Qe7 6. d5 Na5 7. Bb5+ c6 8. dxc6 bxc6 9. Ba4 Nf6 10. b4 Nb7 11. Bxc6+ Nd7 12. Bxb7 Rb8 13. Bc6 g6 14. O-O Bg7 15. Bg5 Qxg5 16. Nxg5 Bxd1 17. Rxd1 O-O 18. Bxd7 Rbd8 19. Bc6 Bh6 20. Nf3 a6 21. Bd5 Rc8 22. c4 Rb8 23. a3 Bf4 24. Nc3 Kg7 25. Ne2 Bh6 26. Ng3 Rfc8 27. Rd2 Bxd2 28. Nxd2 a5 29. b5 a4 30. Nb1 f6 31. Nc3 Rb6 32. Nxa4 Rbb8 33. Nc3 Rf8 34. a4 f5 35. f3 f4 36. Nge2 g5 37. a5 Kf6 38. h3 h5 39. a6 Rh8 40. a7 Rbf8 41. a8=Q Rxa8 42. Rxa8 Rxa8 43. Bxa8 g4 44. hxg4 hxg4 45. fxg4 Kg5 46. b6 Kxg4 47. b7 f3 48. gxf3+ Kxf3 49. b8=Q Ke3 50. Qb6+ Kd3 51. Qxd6+ Kxc4 52. Qd5+ Kb4 53. Qb5+ Ka3 54. Qc5+ Kb2 55. Qb4+ Kc2 56. Qb1+ Kd2 57. Qd1+ Ke3 58. Nd5+ Kxe4 59. Ndc3+ Kf5 60. Qd3+ e4 61. Qxe4+ Kg5 62. Qf4+ Kg6 63. Be4+ Kg7 64. Qe5+ Kh6 65. Qf6+ Kh5 66. Qg6+ Kh4 67. Kf2 Kh3 68. Qg3# 1-0
+

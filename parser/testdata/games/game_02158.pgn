@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/w5QNoxdb"]
+[White "dkadin"]
+[Black "mirek50"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:08"]
+[WhiteElo "1572"]
+[BlackElo "1634"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-12"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted, Fischer Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 Nc6 5. O-O Nf6 6. Nc3 Be7 7. d3 O-O 8. Bxf4 Na5 9. Bb3 Nxb3 10. axb3 b6 11. Qe1 Bb7 12. Qg3 Nh5 13. Qg4 Nxf4 14. Qxf4 Bf6 15. Nd5 Bxd5 16. exd5 Bxb2 17. Rae1 Bc3 18. Re2 Re8 19. Ref2 Qe7 20. Ng5 f6 21. Ne6 a5 22. Rf3 a4 23. bxa4 Rxa4 24. Qxa4 Rb8 25. Qg4 Be5 26. Rh3 c5 27. Qh5 h6 28. Qg6 Kh8 29. Rf5 b5 30. Rfh5 Rb7 31. Rxh6+ gxh6 32. Rxh6+ 1-0
+

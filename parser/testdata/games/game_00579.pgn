@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Roasxnzu"]
+[White "GMIGURNYS"]
+[Black "HardWoodPusher"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:08"]
+[WhiteElo "1991"]
+[BlackElo "1922"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.23] } 1... e5 { [%eval 0.19] } 2. Nf3 { [%eval 0.19] } 2... Nc6 { [%eval 0.27] } 3. d4 { [%eval 0.18] } 3... f5? { [%eval 1.44] } 4. Nxe5 { [%eval 1.31] } 4... fxe4 { [%eval 1.45] } 5. Nxc6 { [%eval 1.31] } 5... dxc6 { [%eval 1.37] } 6. Bc4?! { [%eval 0.38] } 6... Nf6 { [%eval 0.3] } 7. Bg5 { [%eval -0.02] } 7... Bf5 { [%eval 0.0] } 8. c3 { [%eval 0.0] } 8... Bd6 { [%eval 0.28] } 9. Qb3 { [%eval 0.07] } 9... Qe7 { [%eval 0.0] } 10. O-O?! { [%eval -0.51] } 10... b6? { [%eval 0.53] } 11. Nd2?! { [%eval -0.45] } 11... O-O-O? { [%eval 0.82] } 12. Ba6+?! { [%eval 0.0] } 12... Kb8 { [%eval 0.0] } 13. Nc4? { [%eval -1.49] } 13... b5?? { [%eval 3.06] } 14. Na5?! { [%eval 2.08] } 14... Qd7?? { [%eval 5.56] } 15. Bxf6?! { [%eval 4.64] } 15... gxf6 { [%eval 4.61] } 16. c4 { [%eval 4.09] } 16... Be6? { [%eval 7.01] } 17. d5 { [%eval 6.53] } 17... cxd5?? { [%eval 12.21] } 18. cxd5?? { [%eval -0.17] } 18... Bf5?? { [%eval 12.54] } 19. Nc6+?! { [%eval 9.02] } 19... Ka8 { [%eval 8.78] } 20. Bxb5?! { [%eval 7.86] } 20... Rb8 { [%eval 7.69] } 21. Qa4? { [%eval 5.44] } 1-0
+

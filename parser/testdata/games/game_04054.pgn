@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/HBEqkcIX"]
+[White "Fomenkov"]
+[Black "LeonelAraujo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:29"]
+[WhiteElo "1947"]
+[BlackElo "1832"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "E71"]
+[Opening "King's Indian Defense: Makogonov Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Nf3 e5 7. dxe5 dxe5 8. Be3 Nc6 9. Be2 Be6 10. O-O h6 11. a3 a5 12. Qc1 g5 13. Qc2 Nd7 14. Rad1 Qe7 15. Nd5 Qe8 16. Nxc7 1-0
+

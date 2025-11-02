@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/GiKjS4Qy"]
+[White "moi34"]
+[Black "groovejamma"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:13"]
+[WhiteElo "1463"]
+[BlackElo "1616"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Qe2 Qxe2+ 5. Bxe2 Nc6 6. Bb5 Bd7 7. Bxc6 Bxc6 8. d3 Bxg2 9. f3 Bxh1 10. Kf2 O-O-O 11. Nh3 a6 12. Kg1 Bxf3 13. Ng5 Bh5 14. Nce4 h6 15. Nh3 g5 16. Ng3 Bg4 17. Nf2 Bd7 18. b3 Bg7 19. Rb1 e6 20. Nfe4 Bd4+ 21. Kg2 Bc6 22. c3 Bxe4+ 23. Nxe4 Be5 24. d4 Bg7 25. Bb2 f5 26. Nc5 Ne7 27. Nxe6 Rdg8 28. d5 Nxd5 29. c4 Bxb2 30. cxd5 Bf6 31. Rc1 Be5 32. a4 f4 33. b4 h5 34. b5 axb5 35. axb5 b6 36. Kf3 g4+ 37. Ke4 Bd6 38. Kf5 f3 39. Ng5 Rf8+ 40. Ke4 Bxh2 41. Ne6 Re8 42. Ke3 Kd7 43. Kf2 Re7 44. Kf1 Kd6 45. Rd1 Ra8 46. Nd4 Be5 47. Nf5+ Kd7 48. Nxe7 Kxe7 49. Kf2 Kd6 50. Ke3 h4 51. Ke4 f2 52. Rf1 g3 53. Kf3 Ra5 54. Kg4 Bf6 55. Kf5 Bd8 56. Kg4 Rxb5 57. Kh3 Rxd5 58. Rh1 c5 59. Rb1 c4 60. Rc1 Kc5 61. Kg2 Rd3 62. Kf1 c3 63. Ke2 Kd4 64. Kf1 h3 65. Ke2 h2 66. Rd1 Rxd1 67. Kxd1 f1=Q+ 68. Kc2 h1=Q 69. Kb3 Qb1+ 70. Ka3 Qhc1+ 71. Ka4 b5# 0-1
+

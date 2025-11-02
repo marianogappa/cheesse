@@ -182,56 +182,59 @@ func pieceTypeMatcher(v core.PieceType) func(interface{}) bool {
 	return func(w interface{}) bool { return v == core.PieceNone || v == w.(core.PieceType) }
 }
 
-type gameAlternative struct {
-	initialGame core.Game
-	gameSteps   []core.GameStep
+// GameAlternative represents a single branch in the parsing game tree.
+type GameAlternative struct {
+	InitialGame core.Game
+	GameSteps   []core.GameStep
 }
 
-func (a gameAlternative) clone() gameAlternative {
-	clonedGameSteps := make([]core.GameStep, len(a.gameSteps))
-	for i := range a.gameSteps {
-		clonedGameSteps[i] = a.gameSteps[i].Clone()
+// Clone creates a deep copy of the GameAlternative.
+func (a GameAlternative) Clone() GameAlternative {
+	clonedGameSteps := make([]core.GameStep, len(a.GameSteps))
+	for i := range a.GameSteps {
+		clonedGameSteps[i] = a.GameSteps[i].Clone()
 	}
-	return gameAlternative{
-		initialGame: a.initialGame.Clone(),
-		gameSteps:   clonedGameSteps,
+	return GameAlternative{
+		InitialGame: a.InitialGame.Clone(),
+		GameSteps:   clonedGameSteps,
 	}
 }
 
-func (a gameAlternative) currentGame() core.Game {
-	if len(a.gameSteps) > 0 {
-		return a.gameSteps[len(a.gameSteps)-1].StepGame
+// CurrentGame returns the current game state for this alternative.
+func (a GameAlternative) CurrentGame() core.Game {
+	if len(a.GameSteps) > 0 {
+		return a.GameSteps[len(a.GameSteps)-1].StepGame
 	}
-	return a.initialGame
+	return a.InitialGame
 }
 
 type gameStepParser struct {
-	alternatives        []gameAlternative
+	alternatives        []GameAlternative
 	isSuccess           bool
-	parsedGame          gameAlternative
+	parsedGame          GameAlternative
 	possibleNextActions []core.Action
 }
 
 func newGameStepParser(initialGame core.Game) *gameStepParser {
 	return &gameStepParser{
-		alternatives: []gameAlternative{{initialGame: initialGame}},
+		alternatives: []GameAlternative{{InitialGame: initialGame}},
 	}
 }
 
 func (p *gameStepParser) next(ap actionPattern, actionString string) bool {
-	newAlternatives := []gameAlternative{}
+	newAlternatives := []GameAlternative{}
 	for _, alternative := range p.alternatives {
-		for _, action := range alternative.currentGame().Actions {
+		for _, action := range alternative.CurrentGame().Actions {
 			if ap.isMatch(action) {
-				newGame := alternative.currentGame().DoAction(action)
+				newGame := alternative.CurrentGame().DoAction(action)
 				if ap.isCheck != nil && newGame.IsCheck != *ap.isCheck {
 					continue
 				}
 				if ap.isCheckmate != nil && newGame.IsCheckmate != *ap.isCheckmate {
 					continue
 				}
-				newAlternative := alternative.clone()
-				newAlternative.gameSteps = append(newAlternative.gameSteps, core.GameStep{StepString: actionString, StepAction: action, StepGame: newGame})
+				newAlternative := alternative.Clone()
+				newAlternative.GameSteps = append(newAlternative.GameSteps, core.GameStep{StepString: actionString, StepAction: action, StepGame: newGame})
 				newAlternatives = append(newAlternatives, newAlternative)
 			}
 		}
@@ -245,7 +248,7 @@ func (p *gameStepParser) next(ap actionPattern, actionString string) bool {
 	if len(newAlternatives) == 0 {
 		actionSet := map[core.Action]struct{}{}
 		for _, alternative := range p.alternatives {
-			for _, action := range alternative.currentGame().Actions {
+			for _, action := range alternative.CurrentGame().Actions {
 				if _, ok := actionSet[action]; ok {
 					continue
 				}
@@ -312,14 +315,14 @@ func (p *NotationParser) Parse(initialGame core.Game, s string) ([]core.GameStep
 			matches := rxs[rx].FindStringSubmatch(p.s[i:])
 			if matches != nil {
 				// fmt.Println("At", p.s[i:], "matched", rx, "with", matches[0], "for", stepOrder[stepI])
-				tokenMatches = append(tokenMatches, fs(matches, p.stepParser.parsedGame.currentGame())...)
+				tokenMatches = append(tokenMatches, fs(matches, p.stepParser.parsedGame.CurrentGame())...)
 			}
 		}
 
 		// Bail if no token matches
 		if len(tokenMatches) == 0 {
 			err := fmt.Errorf("at index %v [%v] didn't match any token", i, p.s[i:])
-			return p.stepParser.parsedGame.gameSteps, err
+			return p.stepParser.parsedGame.GameSteps, err
 		}
 
 		tokenMatch := tokenMatches[0]
@@ -335,7 +338,7 @@ func (p *NotationParser) Parse(initialGame core.Game, s string) ([]core.GameStep
 			}
 			if !ok {
 				err := fmt.Errorf("at %v matched token %v but no valid action found for it; options were: %v", i, tokenMatch.match, p.stepParser.possibleNextActions)
-				return p.stepParser.parsedGame.gameSteps, err
+				return p.stepParser.parsedGame.GameSteps, err
 			}
 		}
 
@@ -345,7 +348,7 @@ func (p *NotationParser) Parse(initialGame core.Game, s string) ([]core.GameStep
 		// 2. A custom parser can already set that castling has to be e.g. O-O, so that if we find 0-0 that's an error.
 		newCharacteristics, err := p.evolveCharacteristics(p.characteristics, tokenMatch.ch)
 		if err != nil {
-			return p.stepParser.parsedGame.gameSteps, err
+			return p.stepParser.parsedGame.GameSteps, err
 		}
 		p.characteristics = newCharacteristics
 
@@ -358,8 +361,8 @@ func (p *NotationParser) Parse(initialGame core.Game, s string) ([]core.GameStep
 			stepI = 0
 		}
 	}
-	if len(p.stepParser.parsedGame.gameSteps) == 0 {
-		return p.stepParser.parsedGame.gameSteps, fmt.Errorf("found 0 game steps")
+	if len(p.stepParser.parsedGame.GameSteps) == 0 {
+		return p.stepParser.parsedGame.GameSteps, fmt.Errorf("found 0 game steps")
 	}
-	return p.stepParser.parsedGame.gameSteps, nil
+	return p.stepParser.parsedGame.GameSteps, nil
 }

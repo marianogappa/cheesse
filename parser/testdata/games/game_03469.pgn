@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/C26X24qC"]
+[White "shahram_ab"]
+[Black "Inciapter"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:12"]
+[WhiteElo "2069"]
+[BlackElo "2074"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "A85"]
+[Opening "Dutch Defense: Queen's Knight Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 d6 4. Bg5 Nbd7 5. Nf3 c6 6. e3 h6 7. Bxf6 Nxf6 8. Bd3 g5 9. Qb3 Bg7 10. O-O a5 11. a4 O-O 12. Rad1 Qe8 13. e4 f4 14. e5 dxe5 15. Nxe5 Ng4 16. c5+ Kh8 17. Ng6+ Qxg6 18. Bxg6 e5 19. d5 Rf6 20. dxc6 bxc6 21. Rd8+ Bf8 22. Be4 Kg7 23. h3 Nxf2 24. Rxf2 Be6 25. Qb6 Rxd8 26. Qxd8 Bxc5 27. Bxc6 h5 28. Qxf6+ Kxf6 29. Ne4+ Ke7 30. Nxc5 Ba2 31. b4 Kd6 32. Rxa2 axb4 33. Nd3 Kxc6 34. Nxe5+ Kd5 35. Nd3 Kc4 36. Nxb4 Kxb4 37. a5 Kb3 38. a6 Kxa2 39. a7 Kb3 40. a8=Q Kc3 41. Qe4 Kd2 42. h4 gxh4 43. Qxf4+ Ke2 44. Qf3+ Ke1 45. Qc3+ Ke2 46. Qb3 Ke1 47. Qa2 Kd1 48. Kf2 Kc1 49. Ke3 h3 50. Kd3 hxg2 51. Qc2# 1-0
+

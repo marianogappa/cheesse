@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vGveLOqP"]
+[White "Boksy"]
+[Black "Chaos_95"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:49"]
+[WhiteElo "1152"]
+[BlackElo "1357"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.35] } 1... e5 { [%eval 0.35] } 2. Nf3 { [%eval 0.35] } 2... d6 { [%eval 0.37] } 3. d4 { [%eval 0.37] } 3... exd4 { [%eval 0.45] } 4. Nxd4 { [%eval 0.34] } 4... Nf6 { [%eval 0.35] } 5. e5? { [%eval -1.82] } 5... Nfd7? { [%eval 0.51] } 6. Qf3? { [%eval -0.93] } 6... Nc6? { [%eval 0.11] } 7. Bc4? { [%eval -1.52] } 7... Ncxe5 { [%eval -1.13] } 8. Nc6?? { [%eval -13.76] } 8... Nxf3+ { [%eval -13.73] } 9. Ke2 { [%eval -16.48] } 0-1
+

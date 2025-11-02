@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Z1FmBTbB"]
+[White "Redd1244"]
+[Black "alangenbucher"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:46"]
+[WhiteElo "1783"]
+[BlackElo "1605"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Nc6 3. Na3 Bf5 4. Nb5 Rc8 5. e3 a6 6. Nc3 e6 7. h4 h5 8. f3 Nf6 9. Be2 Bb4 10. a3 Bxc3+ 11. bxc3 O-O 12. g4 Bg6 13. Nh3 Nd7 14. Ng5 Re8 15. gxh5 Bxh5 16. e4 e5 17. dxe5 Ncxe5 18. Qxd5 Qe7 19. Qxb7 f6 20. Qd5+ Kh8 21. Nh3 Nxf3+ 22. Kf2 Nb6 23. Qxh5+ Kg8 24. Bxf3 Qc5+ 25. Qxc5 1-0
+

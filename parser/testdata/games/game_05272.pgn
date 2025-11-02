@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oxtpJgyZ"]
+[White "Ulrikkk"]
+[Black "Adelheidi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:15"]
+[WhiteElo "1177"]
+[BlackElo "1171"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "C20"]
+[Opening "King's Pawn Game"]
+[TimeControl "300+2"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. g3 Nf6 3. Bg2 d6 4. Nc3 Nc6 5. Nf3 Ng4 6. O-O Nd4 7. Nd5 c6 8. Nb4 Be7 9. c3 Ne6 10. Nc2 O-O 11. Nce1 d5 12. exd5 cxd5 13. Bh3 e4 14. Bxg4 exf3 15. Nxf3 Ng5 16. Nxg5 Bxg5 17. d4 f5 18. Bh5 f4 0-1
+

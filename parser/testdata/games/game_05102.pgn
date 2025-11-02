@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/cp1Q1NOG"]
+[White "AndresSantos16"]
+[Black "Fuchia00"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:37"]
+[WhiteElo "1534"]
+[BlackElo "1859"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-20"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. e5 d5 3. d4 c5 4. c3 Nc6 5. Be3 cxd4 6. cxd4 Nge7 7. Nf3 Nf5 8. Bd3 Qb6 9. Qa4 Qxb2 10. O-O Bd7 11. Bb5 Nxe5 12. Bxd7+ Nxd7 13. Ne5 Rd8 14. Nd2 Nxe3 15. fxe3 Qxd2 16. Nxf7 Qxe3+ 17. Rf2 Rc8 18. Nxh8 Ba3 19. Rf1 Ke7 20. Nf7 Nf6 21. Ne5 Ne4 22. Qd7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Ik1TXwgh"]
+[White "Viu"]
+[Black "witold22"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:15"]
+[WhiteElo "1807"]
+[BlackElo "1781"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 c6 4. d6 exd6 5. Nf3 Bg4 6. Be2 Be7 7. O-O O-O 8. Nc3 Nbd7 9. Bf4 Re8 10. Qd2 Nf8 11. Rad1 Ne6 12. Bg3 d5 13. h3 Bh5 14. Rde1 Bg6 15. Ne5 Ne4 16. Nxg6 Nxd2 0-1
+

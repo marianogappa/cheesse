@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/31MEu2bP"]
+[White "KindOfBlue"]
+[Black "TigritoForever"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:28"]
+[WhiteElo "1941"]
+[BlackElo "1768"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. Nf3 Nc6 2. d4 d5 3. c4 dxc4 4. e4 e6 5. Bxc4 Nf6 6. Nc3 Bb4 7. e5 Ne4 8. Bd2 Nxd2 9. Qxd2 O-O 10. O-O a6 11. a3 Be7 12. b4 h6 13. b5 Na5 14. Ba2 Bd7 15. a4 axb5 16. Nxb5 Bxb5 17. axb5 Qd7 18. Qb2 b6 19. Nd2 Bg5 20. Nc4 Qe7 21. Nxa5 Rxa5 22. Bc4 Rxa1 23. Rxa1 Kh7 24. Ra7 g6 25. Bd3 Qd7 26. Qc3 Rc8 27. h3 Be7 28. Qc4 Qd8 29. Be4 c5 30. bxc6 Rb8 31. c7 Qxd4 32. Qxd4 Rb7 33. c8=Q Rc7 34. Qxc7 Bd8 35. Qxf7+ Kh8 36. Qh7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/nSPU8znu"]
+[White "jortega"]
+[Black "Richard10"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:51"]
+[WhiteElo "1765"]
+[BlackElo "1741"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C66"]
+[Opening "Ruy Lopez: Berlin Defense, Improved Steinitz Defense"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. Re1 Be7 6. h3 O-O 7. c3 Bd7 8. d4 exd4 9. cxd4 a6 10. Bc4 Na5 11. Bf1 Bc6 12. b4 Bxe4 13. bxa5 Bxf3 14. Qxf3 Nd5 15. Qxd5 c6 16. Qf3 Bf6 17. Bb2 c5 18. Nd2 Qxa5 19. Nb3 Qb4 20. Re4 Rfe8 21. Rae1 Rxe4 22. Qxe4 g6 23. dxc5 Bxb2 24. Qxb4 1-0
+

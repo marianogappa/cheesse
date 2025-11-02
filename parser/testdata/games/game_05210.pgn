@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/x1hhanXt"]
+[White "jendrucha"]
+[Black "freekin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:01"]
+[WhiteElo "1698"]
+[BlackElo "1295"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-4"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Saduleto Variation"]
+[TimeControl "600+3"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. e4 c6 4. Bxc4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. Qc2 Na6 8. Bg5 Be7 9. Bxa6 bxa6 10. O-O Ng4 11. Bxe7 Qxe7 12. e5 O-O 13. h3 Nh6 14. Ne4 f6 15. Qxc6 fxe5 16. Qxa8 Qh4 17. Nxh4 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EY5dZoWT"]
+[White "glimmer_85"]
+[Black "WeisserKrieger"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:00"]
+[WhiteElo "1741"]
+[BlackElo "1657"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. e3 Be7 4. Nc3 c6 5. cxd5 exd5 6. Nf3 Bg4 7. Be2 Nd7 8. O-O Ndf6 9. Ne5 Bxe2 10. Qxe2 Nh6 11. b3 Nf5 12. Bb2 O-O 13. Rad1 Bd6 14. Ng4 Qe7 15. Nxf6+ Qxf6 16. e4 dxe4 17. Nxe4 Qg6 18. Nxd6 Nxd6 19. Qf3 Rae8 20. Rfe1 Rd8 21. d5 cxd5 22. Qxd5 Rd7 23. Qe5 Rfd8 24. Rxd6 f6 25. Qe6+ Kh8 26. Rxd7 1-0
+

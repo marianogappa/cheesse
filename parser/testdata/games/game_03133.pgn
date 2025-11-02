@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vBT02inC"]
+[White "gabridaponte"]
+[Black "ElCretino78"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:48"]
+[WhiteElo "1787"]
+[BlackElo "1822"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "B26"]
+[Opening "Sicilian Defense: Closed Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e6 7. Qd2 Nge7 8. Bh6 Bf6 9. h4 Bd7 10. h5 Qb6 11. O-O-O O-O-O 12. Nge2 Nb4 13. a3 Na2+ 14. Kb1 Nxc3+ 15. Nxc3 Nc6 16. hxg6 hxg6 17. Be3 Nd4 18. Na4 Bxa4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fvNarlCa"]
+[White "azur0609"]
+[Black "qwewrty"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:14"]
+[WhiteElo "1727"]
+[BlackElo "2042"]
+[WhiteRatingDiff "+25"]
+[BlackRatingDiff "-18"]
+[ECO "B25"]
+[Opening "Sicilian Defense: Closed Variation, Traditional"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 e6 5. Bg5 Be7 6. Bxf6 Bxf6 7. f4 a6 8. Nf3 d6 9. O-O Na5 10. Qd2 b5 11. Bb3 Nxb3 12. axb3 b4 13. Nd1 a5 14. e5 Be7 15. Ne3 d5 16. g4 h6 17. f5 Bg5 18. Qe2 exf5 19. gxf5 O-O 20. Nxg5 Qxg5+ 21. Kh1 d4 22. Nd5 Bb7 23. Qe4 Rfd8 24. Nf6+ gxf6 25. Qxb7 Kf8 26. e6 fxe6 27. fxe6 Qg7 28. Qe4 Ra7 29. Rg1 Qh7 30. Qf3 Ke7 31. Raf1 f5 32. Qxf5 Qxf5 33. Rxf5 Rc7 34. Rf7+ Kd6 35. Rxc7 Kxc7 36. Rg6 h5 37. Rh6 Re8 38. Rxh5 Kd6 39. Rh6 Re7 40. h4 Ke5 41. Kg2 Kf4 42. Kf2 Kg4 43. Rh8 Kf4 44. h5 Rxe6 45. Rf8+ Kg5 46. Ra8 Kxh5 47. Rxa5 Re5 48. Ra8 Kg4 49. Rf8 1-0
+

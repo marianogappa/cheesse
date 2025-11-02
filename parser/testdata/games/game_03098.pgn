@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/n2mJk5FP"]
+[White "davidtaylor"]
+[Black "sebastianandratpar"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:40"]
+[WhiteElo "1461"]
+[BlackElo "1390"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-11"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 Bc5 6. Qxc5 1-0
+

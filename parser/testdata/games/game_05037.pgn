@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/saJW6iTX"]
+[White "Tiqer35rus"]
+[Black "TheTheos"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:25"]
+[WhiteElo "1273"]
+[BlackElo "1218"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 f6 4. d4 a6 5. dxe5 b5 6. Bxg8 Rxg8 7. exf6 Qxf6 8. Bg5 Qf4 1-0
+

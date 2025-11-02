@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hlwAbPYP"]
+[White "heinrich16"]
+[Black "Dik777"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:59"]
+[WhiteElo "1537"]
+[BlackElo "1543"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 c6 3. c4 Ne7 4. Nc3 d5 5. cxd5 cxd5 6. e5 b6 7. f4 a5 8. a4 Ba6 9. Qf3 Bxf1 10. Qxf1 Qd7 11. Nf3 h5 12. h4 Nf5 13. Qf2 Be7 14. g3 Qd8 15. O-O Bb4 16. Bd2 Nc6 17. Kg2 g6 18. Nb5 Bxd2 19. Qxd2 O-O 20. Rac1 Rc8 21. Rc3 Nb4 22. Rxc8 Qxc8 23. Rc1 Qb7 24. Rc7 Qb8 25. Qc3 Na6 26. Rc6 Nb4 27. Rc7 Na6 28. Rc6 Ne7 29. Rd6 Rc8 30. Qd2 Nb4 31. Ne1 Nf5 32. Rd7 Rc4 33. b3 Rc6 34. Kh3 Qc8 35. Ra7 Nc2 36. Nd6 Qb8 37. Rb7 Qa8 38. Nxc2 Nxd6 39. exd6 Qxb7 40. Ne3 Rxd6 41. g4 Rc6 0-1
+

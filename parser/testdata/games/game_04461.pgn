@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OL3e5U2o"]
+[White "alihakan"]
+[Black "Outubro"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:05"]
+[WhiteElo "1781"]
+[BlackElo "1736"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Accelerated Move Order"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nc3 e6 4. Bf4 Bb4 5. Qb3 c5 6. a3 dxc4 7. Qxc4 Qa5 8. Bd2 b6 9. Qb5+ Qxb5 10. Nxb5 Bxd2+ 11. Kxd2 Na6 12. e3 cxd4 13. Nxd4 Bb7 14. Ngf3 Ne7 15. Rc1 O-O 16. Bb5 Nc5 17. Ke2 Rfd8 18. Rhd1 Bxf3+ 19. Nxf3 Rxd1 20. Rxd1 g6 21. Ne5 Nf5 22. b4 Ne4 23. Rc1 Rd8 24. Bd3 Nf6 25. Bxf5 exf5 26. Rc7 a5 27. Rxf7 Ne4 28. Rd7 Rc8 29. Rd3 Rc2+ 30. Ke1 Rxf2 31. Nd7 axb4 32. axb4 b5 33. Rd5 Rxg2 34. Rxb5 Rg1+ 35. Ke2 Nc3+ 36. Kf2 Rd1 37. Rb8+ Kf7 38. Ne5+ Ke6 39. Nf3 Rb1 40. Nd4+ Kd5 41. b5 Nxb5 42. Rxb5+ Kc4 43. Rxb1 Kd3 44. Rb7 Ke4 45. Rxh7 Ke5 46. Rh6 Kf6 47. Rh3 Kg5 48. Kg3 Kf6 49. Kf4 Kg7 50. Kg5 Kf7 51. Rh6 Ke7 52. Rxg6 Kf7 53. h4 Ke7 54. h5 Kd7 55. h6 Ke7 56. h7 Kd7 57. h8=Q Ke7 58. Qh7+ Kf8 59. Rg8# 1-0
+

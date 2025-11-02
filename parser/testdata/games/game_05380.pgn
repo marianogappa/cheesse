@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/18KmscG2"]
+[White "NewChessyPlaya"]
+[Black "moskow_ger"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:37"]
+[WhiteElo "1396"]
+[BlackElo "1629"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. b3 { [%eval -0.15] } 1... d6 { [%eval 0.28] } 2. Bb2 { [%eval 0.12] } 2... c5 { [%eval 0.18] } 3. Nc3 { [%eval 0.0] } 3... Nf6 { [%eval 0.19] } 4. e3 { [%eval 0.0] } 4... e6 { [%eval 0.0] } 5. Qe2 { [%eval -0.34] } 5... b6 { [%eval -0.12] } 6. O-O-O { [%eval -0.06] } 6... Be7 { [%eval -0.14] } 7. Kb1 { [%eval -0.2] } 7... Bb7 { [%eval -0.25] } 8. d3 { [%eval -0.66] } 8... a6 { [%eval -0.5] } 9. d4 { [%eval -0.86] } 9... b5?! { [%eval -0.05] } 10. dxc5 { [%eval 0.1] } 10... dxc5?? { [%eval 5.2] } 11. Nxb5?? { [%eval 0.7] } 11... axb5? { [%eval 3.52] } 12. Qxb5+? { [%eval 0.91] } 12... Bc6? { [%eval 3.5] } 13. Qe2?? { [%eval -3.0] } 13... Qa5 { [%eval -3.22] } 14. Qe1?? { [%eval -7.29] } 14... Qxa2+ { [%eval -6.95] } 15. Kc1 { [%eval -6.7] } 15... Ne4? { [%eval -5.52] } 16. Bd3?? { [%eval -9.44] } 16... c4? { [%eval -7.0] } 17. Bxe4 { [%eval -7.09] } 17... Bxe4 { [%eval -6.89] } 18. Qd2?? { [%eval -12.1] } 18... Ba3?? { [%eval #1] } 19. Qd7+?? { [%eval #-8] } 19... Nxd7 { [%eval #-7] } 20. Rxd7 { [%eval #-5] } 20... Qxb2+ { [%eval #-4] } 21. Kd2 { [%eval #-4] } 21... Kxd7 { [%eval #-3] } 22. Nf3 { [%eval #-3] } 22... Qxc2+ { [%eval #-2] } 23. Ke1 { [%eval #-2] } 23... Bxf3?! { [%eval #-2] } 24. gxf3 { [%eval #-2] } 24... Qc1+?! { [%eval #-5] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/v5Hwz5bu"]
+[White "Fikrimuhammad"]
+[Black "becmenskopseto"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:55"]
+[WhiteElo "1479"]
+[BlackElo "1489"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "D10"]
+[Opening "Slav Defense"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 c6 3. Bf4 e6 4. Nc3 Nd7 5. e3 h6 6. Nf3 Ngf6 7. h3 Bb4 8. a3 Be7 9. cxd5 cxd5 10. Qb3 a6 11. Bd3 O-O 12. O-O b5 13. e4 Bb7 14. e5 Ne4 15. Bxe4 dxe4 16. Nd2 Bd5 17. Qc2 Rc8 18. Ndxe4 Bxe4 19. Qxe4 Qb6 20. Be3 Qd8 21. Qg4 Bg5 22. Bxg5 Qxg5 23. Qxg5 hxg5 24. Rac1 Nb6 25. b3 Rfd8 26. Ne2 Rxc1 27. Rxc1 Rxd4 28. Nxd4 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mLOjHSMs"]
+[White "The_Last_Of_Moredain"]
+[Black "fmAlexey"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:51"]
+[WhiteElo "1500"]
+[BlackElo "1581"]
+[WhiteRatingDiff "+220"]
+[BlackRatingDiff "-9"]
+[ECO "A06"]
+[Opening "Nimzowitsch-Larsen Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 { [%eval 0.23] } 1... d5 { [%eval 0.27] } 2. b3 { [%eval 0.0] } 2... Nf6 { [%eval 0.06] } 3. Bb2 { [%eval 0.0] } 3... c5 { [%eval -0.01] } 4. e3 { [%eval 0.04] } 4... Nc6 { [%eval 0.08] } 5. Bb5 { [%eval -0.06] } 5... Bg4 { [%eval 0.13] } 6. O-O { [%eval 0.22] } 6... e6 { [%eval 0.2] } 7. d3 { [%eval 0.15] } 7... Bd6 { [%eval 0.25] } 8. Nbd2 { [%eval 0.02] } 8... O-O { [%eval 0.07] } 9. Bxc6 { [%eval -0.01] } 9... bxc6 { [%eval 0.06] } 10. h3 { [%eval -0.01] } 10... Bh5 { [%eval -0.07] } 11. c4 { [%eval -0.47] } 11... a5 { [%eval -0.45] } 12. Qc2 { [%eval -0.34] } 12... a4 { [%eval 0.0] } 13. Be5 { [%eval -0.07] } 13... axb3 { [%eval 0.13] } 14. axb3 { [%eval 0.04] } 14... Qc7 { [%eval 0.2] } 15. Bxd6 { [%eval 0.22] } 15... Qxd6 { [%eval 0.27] } 16. Rfb1 { [%eval 0.03] } 16... Rxa1 { [%eval 0.23] } 17. Rxa1 { [%eval 0.21] } 17... Rb8 { [%eval 0.36] } 18. Qc3 { [%eval 0.24] } 18... h6 { [%eval 0.28] } 19. Ra7 { [%eval 0.2] } 19... Qd8? { [%eval 1.57] } 20. Ne5 { [%eval 1.55] } 20... Ra8 { [%eval 1.85] } 21. Nxc6 { [%eval 1.68] } 21... Qc8?? { [%eval 11.94] } 22. Ne7+ { [%eval 11.37] } 22... Kf8 { [%eval 12.0] } 23. Nxc8 { [%eval 11.89] } 23... Rxc8 { [%eval 11.75] } 24. Qa5 { [%eval 11.62] } 24... Kg8 { [%eval 11.47] } 25. Qa6 { [%eval 11.04] } 25... Re8 { [%eval 12.26] } 26. Qd6 { [%eval 11.44] } 26... Bg6 { [%eval 12.73] } 27. Qxc5 { [%eval 12.09] } 27... Bxd3 { [%eval 12.56] } 28. b4 { [%eval 12.0] } 28... Ne4 { [%eval 17.04] } 29. Nxe4 { [%eval 16.2] } 29... Bxe4 { [%eval 16.14] } 30. b5 { [%eval 15.35] } 30... dxc4 { [%eval 25.93] } 31. Qxc4 { [%eval 22.22] } 31... Bd5 { [%eval 20.33] } 32. Qc7 { [%eval 17.87] } 32... e5?! { [%eval #11] } 33. b6?! { [%eval 18.34] } 33... Be6?! { [%eval #10] } 34. b7 { [%eval #10] } 34... Kh7 { [%eval #10] } 35. b8=Q { [%eval #9] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/3sK4d885"]
+[White "Looris"]
+[Black "bcaa"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:17"]
+[WhiteElo "1500"]
+[BlackElo "1339"]
+[WhiteRatingDiff "-274"]
+[BlackRatingDiff "+10"]
+[ECO "A00"]
+[Opening "Anderssen Opening"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. a3 { [%eval -0.04] } 1... e6 { [%eval 0.14] } 2. g3 { [%eval -0.18] } 2... Ne7 { [%eval 0.08] } 3. c3 { [%eval -0.13] } 3... Ng6 { [%eval 0.27] } 4. c4 { [%eval -0.1] } 4... d5 { [%eval -0.01] } 5. b3 { [%eval -0.46] } 5... d4 { [%eval -0.26] } 6. g4? { [%eval -1.52] } 6... Qf6?! { [%eval -0.87] } 7. Qc2?! { [%eval -1.5] } 7... d3 { [%eval -1.56] } 8. f3?? { [%eval -27.25] } 8... Qxa1?? { [%eval -5.5] } 9. Qxd3 { [%eval -5.47] } 9... Qf6 { [%eval -5.03] } 10. Qc2?! { [%eval -5.66] } 10... Nd7?! { [%eval -5.16] } 11. h3?? { [%eval -14.71] } 11... Qh4+ { [%eval -14.57] } 12. Kd1 { [%eval -14.44] } 12... Nge5?? { [%eval -5.22] } 13. Rh2 { [%eval -5.16] } 13... Bd6 { [%eval -5.11] } 14. c5?? { [%eval -10.35] } 14... Nxc5?? { [%eval -6.12] } 15. g5?? { [%eval -9.3] } 15... Ncd7? { [%eval -6.36] } 16. Qa2?? { [%eval -13.35] } 16... O-O? { [%eval -7.72] } 17. f4? { [%eval -10.3] } 17... Nc6?? { [%eval -6.53] } 18. Bg2?? { [%eval -13.54] } 18... Bxf4 { [%eval -10.02] } 19. e3 { [%eval -17.13] } 19... Bxh2 { [%eval -16.67] } 0-1
+

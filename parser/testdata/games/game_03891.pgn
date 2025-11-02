@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/b1br4loJ"]
+[White "BOBBY1975"]
+[Black "yourhumbleopponent"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:46"]
+[WhiteElo "1538"]
+[BlackElo "1368"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. d3 h6 4. h3 c6 5. g4 Be7 6. Bg2 Nd7 7. c4 b5 8. b3 bxc4 9. dxc4 Ngf6 10. Nc3 Qa5 11. Qd2 Nxe4 12. Nxe4 Qxd2+ 13. Nexd2 Bb7 14. Bb2 d5 15. cxd5 cxd5 16. O-O d4 17. Rfe1 O-O 18. Nxe5 Nxe5 19. Rxe5 Bd6 20. Ree1 Bxg2 21. Kxg2 Bf4 22. Nf3 d3 23. Rad1 Rad8 24. Re7 d2 25. Bc3 Rfe8 26. Rxe8+ Rxe8 27. Bxd2 Bxd2 28. Rxd2 Rf8 29. Rd7 f5 30. gxf5 Rxf5 31. Rxa7 g5 32. a4 h5 33. Nd4 Rd5 34. Nb5 Rd3 35. Ra8+ Kf7 36. Ra7+ Ke6 37. Ra6+ Kf5 38. a5 Rxb3 39. Nd6+ Ke5 40. Nc4+ Kd4 41. Nd2 Ra3 42. Nf3+ Kd3 43. Nxg5 Ke2 44. Nh7 Ra2 45. Nf6 Ke1 46. Ne4 Ra4 47. f3 Ra2+ 48. Kg3 Ke2 49. Nf6 Ra3 50. Kh4 Rxf3 51. Nxh5 Kf2 52. Rf6 Rf5 53. Rxf5+ Ke2 54. Rf4 Kd2 55. a6 Kc2 56. a7 Kc3 57. a8=Q Kb3 58. Qa4+ Kc3 59. Qc6+ Kd3 60. Qd6+ Ke3 61. Rf5 Ke4 62. Rf8 Ke3 63. Re8+ 1-0
+

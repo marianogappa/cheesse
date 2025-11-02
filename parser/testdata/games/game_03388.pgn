@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/jpvAgicJ"]
+[White "kondo"]
+[Black "Zeitnot"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:54"]
+[WhiteElo "1539"]
+[BlackElo "1573"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "0+4"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 e6 3. e3 Be7 4. Nf3 Nf6 5. c3 O-O 6. Bd3 c5 7. a3 Nc6 8. b4 cxd4 9. cxd4 b6 10. Nbd2 Bb7 11. O-O Rc8 12. Rc1 Qd7 13. h3 Rfd8 14. Nb3 Ne4 15. Bxe4 dxe4 16. Nfd2 f5 17. Nc4 Bf6 18. Ne5 Nxe5 19. Rxc8 Bxc8 20. Qc1 Nd3 21. Qc2 Nxf4 22. exf4 Bxd4 23. Nxd4 Qxd4 24. Rc1 Bb7 25. Qc7 Qd7 26. Qe5 Qd5 27. Qc3 e3 28. fxe3 Qxg2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OERVqlwo"]
+[White "dom45"]
+[Black "planinc"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:41"]
+[WhiteElo "1412"]
+[BlackElo "1411"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "C00"]
+[Opening "Queen's Pawn Game: Franco-Sicilian Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. d4 e6 3. dxc5 Bxc5 4. Nc3 d5 5. Nf3 Nc6 6. Na4 Qa5+ 7. Nc3 dxe4 8. Nd2 e3 9. fxe3 Bxe3 10. Qe2 Bxd2+ 11. Qxd2 Nge7 12. Be2 O-O 13. Qd3 Rd8 14. Qh3 e5 15. Bd3 Bxh3 16. gxh3 Rxd3 17. cxd3 e4 18. Bd2 exd3 19. Rg1 Qe5+ 20. Kd1 Qxh2 21. Re1 Nd4 22. Re3 Kf8 23. Rxd3 Qg1+ 24. Be1 Ndc6 25. Rc1 Rd8 26. Kc2 Qg2+ 27. Kb3 Na5+ 28. Kb4 Rxd3 29. Kxa5 Qc6 30. Kb4 Qb6+ 31. Nb5 Rd4+ 32. Kc3 Nd5+ 0-1
+

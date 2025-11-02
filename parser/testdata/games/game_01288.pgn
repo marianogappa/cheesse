@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/JBVY51Ma"]
+[White "douddiboule"]
+[Black "Chancherox"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:48"]
+[WhiteElo "2101"]
+[BlackElo "2072"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 b6 2. Nc3 Bb7 3. d3 e6 4. Be3 Bb4 5. g3 d5 6. exd5 exd5 7. d4 Nf6 8. Bg2 O-O 9. Ne2 Nbd7 10. O-O c6 11. a3 Bd6 12. Qd3 Bc8 13. Nf4 Re8 14. Nce2 Nf8 15. h3 Ng6 16. Nxg6 hxg6 17. Nf4 Bf5 18. Qd2 Qd7 19. c3 Bxf4 20. Bxf4 Bxh3 21. Be5 Ne4 22. Bxe4 Bxf1 23. Bxd5 Qxd5 24. Rxf1 Rxe5 25. Qf4 Rh5 26. Qc7 Qh1# 0-1
+

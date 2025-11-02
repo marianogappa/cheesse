@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/lvGufxFH"]
+[White "bfs"]
+[Black "dominic88"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:26"]
+[WhiteElo "1713"]
+[BlackElo "1868"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+6"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 e5 6. d5 Bb4 7. Bc4 Bxc3+ 8. bxc3 c6 9. Ba3 cxd5 10. Bb5+ Nc6 11. Bxc6+ bxc6 12. Nxe5 Bf5 13. O-O Qc7 14. Re1 O-O-O 15. Qd4 Rhe8 16. Rab1 Bxc2 17. Rb2 Bg6 18. Rc1 Qxe5 19. Qxa7 Qe1+ 0-1
+

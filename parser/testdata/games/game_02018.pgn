@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/jWsFoo6Y"]
+[White "tctiger"]
+[Black "pecsihir"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:31"]
+[WhiteElo "1804"]
+[BlackElo "2010"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "C61"]
+[Opening "Ruy Lopez: Bird Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.31] } 1... e5 { [%eval 0.33] } 2. Bb5?! { [%eval -0.55] } 2... Nc6?! { [%eval 0.16] } 3. Nf3 { [%eval 0.25] } 3... Nd4 { [%eval 0.51] } 4. Bc4 { [%eval 0.2] } 4... d6 { [%eval 0.62] } 5. c3 { [%eval 0.31] } 5... Nxf3+ { [%eval 0.4] } 6. Qxf3 { [%eval 0.33] } 6... Be6 { [%eval 0.3] } 7. b3 { [%eval -0.07] } 7... Bxc4 { [%eval 0.0] } 8. bxc4 { [%eval 0.06] } 8... Qf6 { [%eval 0.28] } 9. d4?! { [%eval -0.29] } 9... Qxf3 { [%eval -0.18] } 10. gxf3 { [%eval -0.1] } 10... g6 { [%eval -0.07] } 11. f4?! { [%eval -0.68] } 11... Bg7?! { [%eval -0.08] } 12. fxe5 { [%eval -0.14] } 12... dxe5 { [%eval -0.1] } 13. f4? { [%eval -2.6] } 13... exd4 { [%eval -2.68] } 14. Bb2 { [%eval -2.66] } 14... O-O-O { [%eval -2.61] } 15. cxd4 { [%eval -2.68] } 15... Bxd4 { [%eval -2.49] } 16. Bxd4?! { [%eval -3.07] } 16... Rxd4 { [%eval -3.14] } 17. O-O { [%eval -3.04] } 17... Rxe4 { [%eval -2.7] } 18. Nc3? { [%eval -3.97] } 18... Rxc4 { [%eval -3.97] } 19. Nd5 { [%eval -4.22] } 19... c6 { [%eval -3.99] } 20. Ne3 { [%eval -4.12] } 20... Rc3 { [%eval -3.98] } 21. Rfe1 { [%eval -4.21] } 21... Nf6 { [%eval -4.0] } 22. Nd1 { [%eval -4.1] } 22... Rc2 { [%eval -3.89] } 23. Re7?! { [%eval -4.62] } 23... Nd5?! { [%eval -3.87] } 24. Rxf7? { [%eval -5.69] } 24... h5? { [%eval -3.36] } 25. Rb1? { [%eval -5.87] } 25... Re8 { [%eval -5.66] } 0-1
+

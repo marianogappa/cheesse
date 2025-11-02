@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/mjNDTrLM"]
+[White "RRiicchhaarrdd"]
+[Black "elouad"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:53"]
+[WhiteElo "1632"]
+[BlackElo "1750"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense"]
+[TimeControl "0+3"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.27] } 1... Nc6 { [%eval 0.4] } 2. f4?! { [%eval -0.12] } 2... d5 { [%eval 0.0] } 3. e5 { [%eval -0.07] } 3... Bf5 { [%eval 0.0] } 4. b3?! { [%eval -0.58] } 4... Nb4 { [%eval -0.3] } 5. d3 { [%eval -0.33] } 5... Qd7 { [%eval 0.08] } 6. a3 { [%eval 0.23] } 6... Nc6 { [%eval 0.14] } 7. Nf3 { [%eval 0.09] } 7... h6 { [%eval 0.47] } 8. Be2 { [%eval 0.24] } 8... f6 { [%eval 0.7] } 9. O-O { [%eval 0.55] } 9... e6 { [%eval 0.64] } 10. Nc3 { [%eval 0.26] } 10... Bc5+ { [%eval 0.67] } 11. d4 { [%eval 0.6] } 11... Bb6 { [%eval 0.7] } 12. a4?! { [%eval -0.16] } 12... a6 { [%eval 0.14] } 13. a5 { [%eval 0.13] } 13... Bxa5 { [%eval 0.42] } 14. Na4 { [%eval 0.33] } 14... Bb6 { [%eval 0.67] } 15. Ba3 { [%eval 0.39] } 15... Ba7 { [%eval 0.45] } 16. Nc5 { [%eval 0.02] } 16... Bxc5 { [%eval 0.34] } 17. Bxc5 { [%eval 0.17] } 17... g5? { [%eval 1.59] } 18. fxg5? { [%eval 0.24] } 18... hxg5 { [%eval 0.45] } 19. c4? { [%eval -1.35] } 19... Qh7? { [%eval 0.13] } 20. cxd5 { [%eval 0.0] } 20... exd5?! { [%eval 0.59] } 21. b4? { [%eval -1.1] } 21... Be4? { [%eval 1.36] } 22. Bd3?? { [%eval -5.23] } 22... Bxf3?? { [%eval 0.22] } 23. Qxf3 { [%eval 0.21] } 23... Qxh2+ { [%eval 0.19] } 24. Kf2 { [%eval 0.14] } 24... O-O-O? { [%eval 2.26] } 25. Bf5+? { [%eval -0.73] } 25... Kb8 { [%eval -0.5] } 26. e6? { [%eval -3.07] } 26... Nge7? { [%eval -1.39] } 27. b5? { [%eval -3.01] } 27... axb5?? { [%eval 6.68] } 28. Qa3 { [%eval 6.06] } 28... Qh4+?? { [%eval #8] } 29. Ke2 { [%eval #7] } 29... Nxd4+ { [%eval #5] } 30. Bxd4?! { [%eval 12.79] } 30... c6?! { [%eval #8] } 31. Qa8+ { [%eval #9] } 31... Kc7 { [%eval #9] } 32. Qa5+ { [%eval #8] } 32... Kd6 { [%eval #7] } 33. Qb4+ { [%eval #6] } 33... Kc7 { [%eval #6] } 34. Qa5+ { [%eval #8] } 34... Kd6 { [%eval #7] } 35. Qa3+ { [%eval #6] } 35... Kc7 { [%eval #6] } 36. Qa5+?? { [%eval 0.0] } 1/2-1/2
+

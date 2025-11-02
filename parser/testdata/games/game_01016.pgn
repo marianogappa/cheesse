@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UwFBz4RA"]
+[White "hwhwhw57"]
+[Black "female_supremacy"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:46"]
+[WhiteElo "1694"]
+[BlackElo "1712"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B06"]
+[Opening "Pterodactyl Defense: Western, Pterodactyl"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nf3 Bg7 3. d4 c5 4. c3 Qa5 5. Bd2 Qb6 6. dxc5 Qxb2 7. Na3 Qxa3 8. Rb1 Qxc5 9. Bd3 Bxc3 10. Bxc3 Qxc3+ 11. Ke2 b6 12. Rc1 Qb2+ 13. Kf1 Nc6 14. Rc2 Qg7 15. Bb5 Bb7 16. Ne5 Qxe5 0-1
+

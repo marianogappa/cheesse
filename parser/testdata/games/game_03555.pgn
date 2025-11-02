@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jJu09Gza"]
+[White "Hattilla"]
+[Black "qyigod"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:34"]
+[WhiteElo "1492"]
+[BlackElo "1478"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[ECO "D70"]
+[Opening "Gruenfeld Defense: Lutikov Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. f3 Bg7 5. e4 dxe4 6. fxe4 O-O 7. Nf3 Bg4 8. Be2 Nc6 9. d5 Bxf3 10. Bxf3 Ne5 11. O-O c6 12. Be2 cxd5 13. exd5 b5 14. b3 b4 15. Na4 Ne4 16. Bb2 Nf3+ 17. Bxf3 Bxb2 18. Nxb2 Nc5 19. Nd3 Nxd3 20. Qxd3 Qb6+ 21. Kh1 Rad8 22. Rad1 e6 23. Qd4 Qxd4 24. Rxd4 e5 25. Rdd1 Rd6 26. Kg1 Rc8 27. Bg4 Rc5 28. h4 Kg7 29. h5 f6 30. hxg6 hxg6 31. Bf3 f5 32. Ra1 e4 33. Be2 Kf6 34. a3 a5 35. axb4 axb4 36. Ra4 Rb6 37. Rfa1 Ke5 38. Ra6 Rxa6 39. Rxa6 g5 40. Re6+ Kd4 41. Kf2 g4 42. d6 e3+ 43. Kg3 Rc8 44. d7 Rd8 45. Rd6+ Ke5 46. Rd5+ Ke6 47. Kf4 Rxd7 48. Rxd7 Kxd7 49. Kxf5 Kc6 50. Kxg4 Kc5 51. Kf3 Kd4 52. g4 Kc3 53. g5 Kxb3 54. g6 Kc3 55. g7 b3 56. g8=Q b2 57. Qd5 b1=Q 58. Qd1 Qxd1 59. Bxd1 Kxc4 60. Kxe3 1/2-1/2
+

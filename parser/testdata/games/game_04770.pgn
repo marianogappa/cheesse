@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/b5kZexMW"]
+[White "Latibes"]
+[Black "limar123"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:21"]
+[WhiteElo "1970"]
+[BlackElo "1908"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+13"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation #2"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Nxd5 Qxd5 5. Nf3 Bg4 6. c3 Nc6 7. Be2 O-O-O 8. d4 e5 9. dxe5 Bxf3 10. Bxf3 Qxe5+ 11. Qe2 Qf6 12. Be3 Bd6 13. O-O Rhe8 14. Rad1 Bg3 15. Rxd8+ Rxd8 16. hxg3 h5 17. Bxh5 Ne5 18. Bf3 Kb8 19. Bf4 Nxf3+ 20. Qxf3 Ka8 21. Re1 Rh8 22. Qe3 a6 23. Qe5 Qg6 24. Kf1 Qd3+ 25. Qe2 Qh7 26. Qe3 Qh1+ 27. Ke2 Qh7 28. Kf3 Qh5+ 29. g4 Qd5+ 30. Qe4 Qxe4+ 31. Rxe4 Rh3+ 32. g3 f5 33. gxf5 g6 34. Re8+ Ka7 35. Re7 b6 0-1
+

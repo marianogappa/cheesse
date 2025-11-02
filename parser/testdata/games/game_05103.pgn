@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Z3Jj1arU"]
+[White "urskared"]
+[Black "Saxafone"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:36"]
+[WhiteElo "1810"]
+[BlackElo "1805"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 Qa5+ 3. Nc3 g5 4. Bd2 Bg7 5. Ne4 Qb6 6. Bc3 g4 7. Qd3 d5 8. c5 Qc7 9. Ng3 h5 10. O-O-O Nf6 11. e4 dxe4 12. Nxe4 Qf4+ 13. Nd2 Bf5 14. Qe3 Qc7 15. Bd3 Bxd3 16. Qxd3 Nbd7 17. Ne2 O-O-O 18. Rhe1 Nxc5 19. Qf5+ Ncd7 20. d5 Nxd5 21. Bxg7 Rhg8 22. Bc3 f6 23. Kb1 Kb8 24. Nd4 Qxh2 25. Ne6 Qxg2 26. Nxd8 Rxd8 27. Ne4 e5 28. Rg1 Qh2 29. Rh1 Qf4 30. Qxf4 Nxf4 31. Nxf6 Kc7 32. Nxd7 Rxd7 33. Bxe5+ Kd8 34. Bxf4 1-0
+

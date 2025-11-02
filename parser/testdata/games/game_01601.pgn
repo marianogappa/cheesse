@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/I9Yig7dy"]
+[White "JewishFarmer"]
+[Black "JonathanM"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:00"]
+[WhiteElo "1491"]
+[BlackElo "1431"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+15"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "180+3"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 Nc6 3. Bf4 Nf6 4. Nc3 a6 5. e3 Bg4 6. Bd3 e6 7. O-O Be7 8. h3 Bxf3 9. Qxf3 h6 10. Rfe1 Nb4 11. Bf1 Nxc2 12. Rec1 Nxa1 0-1
+

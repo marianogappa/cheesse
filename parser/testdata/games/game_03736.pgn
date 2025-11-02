@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/oECsB0wG"]
+[White "Sy_Abelman"]
+[Black "Florinmagnus"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:17"]
+[WhiteElo "2161"]
+[BlackElo "2139"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 c6 2. g3 Nf6 3. Bg2 e6 4. Nf3 d5 5. O-O Be7 6. b3 O-O 7. Nbd2 b6 8. Bb2 Bb7 9. Re1 Nbd7 10. Ne5 Rc8 11. Nxd7 Qxd7 12. e4 Rfd8 13. e5 Ne8 14. Rf1 Nc7 15. f4 c5 16. c3 Ba6 17. Rf2 cxd4 18. cxd4 Nb5 19. Rc1 Ba3 20. Bxa3 Nxa3 21. g4 Nb5 22. f5 Nxd4 23. Kh1 Rxc1 24. Qxc1 Rc8 25. Qe1 Rc2 26. f6 Qc6 27. fxg7 Rc1 28. Qxc1 Qxc1+ 29. Nf1 Ne2 30. h3 Nf4 31. Kh2 Nxg2 32. Kxg2 Bd3 33. Ng3 Kxg7 34. Nh5+ Kf8 35. Nf6 Be4+ 36. Kg3 Qe3+ 37. Kh4 h6 38. Nxe4 dxe4 39. Rc2 Qg5+ 40. Kg3 Qxe5+ 41. Kf2 f5 42. Ke2 f4 43. Rc8+ Kf7 44. Ra8 Kf6 45. Rxa7 Qb2+ 46. Ke1 f3 0-1
+

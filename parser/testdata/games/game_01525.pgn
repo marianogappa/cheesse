@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NR2A2U47"]
+[White "Arminas"]
+[Black "sudorous"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:43"]
+[WhiteElo "1360"]
+[BlackElo "1346"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+16"]
+[ECO "B54"]
+[Opening "Sicilian Defense #2"]
+[TimeControl "60+10"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 e5 5. Nb3 Nf6 6. f3 d5 7. Bg5 Be6 8. Bxf6 gxf6 9. Nc5 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zPZVaCv2"]
+[White "Boksy"]
+[Black "maxrocko"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:23"]
+[WhiteElo "1146"]
+[BlackElo "1200"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-12"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. e5 d5 3. Nf3 Nc6 4. a4 Bg4 5. Nc3 d4 6. Ne4 Bxf3 7. gxf3 f5 8. Ng5 h6 9. Ne6 Qd5 10. Nc7+ 1-0
+

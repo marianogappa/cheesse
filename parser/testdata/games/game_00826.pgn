@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/FG9TC3ni"]
+[White "Parsifal12"]
+[Black "Ehawk2121"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:05"]
+[WhiteElo "1498"]
+[BlackElo "1389"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+15"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[TimeControl "900+10"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Qf6 3. d4 Nc6 4. c3 exd4 5. cxd4 Bb4+ 6. Nc3 Nh6 7. h3 b6 8. Bg5 Qg6 9. Bd3 d6 10. d5 Bxc3+ 11. bxc3 Ne5 12. Nxe5 Qxg5 13. Bb5+ Kf8 14. Nd7+ Bxd7 15. Bxd7 Qxg2 16. Rf1 Qxe4+ 17. Qe2 Qxd5 18. a4 Rd8 19. Bb5 c6 20. Rd1 Qb3 21. Ba6 Re8 22. Qxe8+ Kxe8 23. Rxd6 Qxc3+ 24. Ke2 Qe5+ 0-1
+

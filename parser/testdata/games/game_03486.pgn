@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/jagdU9c0"]
+[White "JohnnySka"]
+[Black "rato23"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:17"]
+[WhiteElo "1983"]
+[BlackElo "1940"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "C31"]
+[Opening "King's Gambit, Falkbeer Countergambit, Charousek Gambit"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 exd3 5. Bxd3 Nf6 6. Nc3 Bc5 7. Nf3 Ng4 8. Qe2+ Kd7 9. Ne5+ Nxe5 10. fxe5 Re8 11. Bf5+ Ke7 12. Bxc8 Qxc8 13. Bg5+ Kf8 14. O-O-O Qf5 15. Rhf1 Qxg5+ 16. Kb1 Rxe5 17. Qb5 b6 18. g3 a6 19. Qc4 Nd7 20. d6 cxd6 21. Qxf7# 1-0
+

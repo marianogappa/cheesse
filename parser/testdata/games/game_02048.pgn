@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qVOhkcjJ"]
+[White "edimer"]
+[Black "Simul4Cash"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:44"]
+[WhiteElo "1760"]
+[BlackElo "1783"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Bd6 5. Be3 Nf6 6. Bd3 O-O 7. O-O Re8 8. h3 Nc6 9. a3 h6 10. b4 Ne7 11. c3 Bf5 12. Qc2 Bxd3 13. Qxd3 Qd7 14. Qd2 Nf5 15. Bf4 Re7 16. a4 Rae8 17. Na3 Bxf4 18. Qxf4 Ne4 19. Rac1 Ned6 20. a5 a6 21. Ne5 Qa4 22. Ra1 Qb3 23. Qc1 f6 24. Rb1 Qa4 25. Ng6 Re2 26. Nf4 Ra2 27. Ra1 Rxa1 28. Qxa1 Ne4 29. Nxd5 Qb3 30. c4 c6 31. Nc7 Re7 32. Na8 Nd2 33. Rd1 Nxc4 34. Nxc4 Qxc4 35. Qb2 Re2 36. Qb1 Nxd4 37. Re1 Rxe1+ 38. Qxe1 Qf7 39. Nb6 Nc2 40. Qe4 g6 41. Qxc2 Kg7 42. Qc4 Qc7 43. Nd5 Qd6 44. Ne3 Qe5 45. Qc5 Qa1+ 46. Kh2 Qa2 47. Qe7+ Qf7 48. Qxf7+ Kxf7 49. Ng4 h5 50. Ne3 Ke6 51. Kg3 Ke5 52. Kf3 Kd4 53. Kf4 Kc3 54. Ke4 Kxb4 55. Kf3 Kxa5 56. g4 Kb4 57. gxh5 gxh5 58. Kf4 a5 59. Kf5 a4 60. Kxf6 a3 61. Nc2+ Kb3 62. Nxa3 Kxa3 63. Kg5 b5 64. f4 b4 65. f5 b3 66. f6 b2 67. f7 b1=Q 68. f8=Q+ Ka2 69. Qf2+ Qb2 70. Qa7+ Qa3 71. Qf2+ Qb2 72. Qxb2+ Kxb2 73. Kxh5 c5 74. Kg4 c4 75. h4 c3 76. h5 c2 77. h6 c1=Q 78. h7 Qh1 79. h8=Q+ Qxh8 80. Kf4 Qg8 81. Ke5 Qd8 82. Ke4 Kc3 83. Ke5 Kc2 84. Ke4 Kc3 85. Ke5 Qe8+ 86. Kd5 Qh5+ 87. Kd6 Kd4 88. Ke7 Qh6 89. Kf7 Ke5 90. Ke7 Qe6+ 91. Kd8 Qf7 92. Kc8 Kd6 93. Kb8 Kc6 94. Ka8 Qb7# 0-1
+

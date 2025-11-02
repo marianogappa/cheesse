@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FYayAxcP"]
+[White "Goldfarb"]
+[Black "shammies"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:18"]
+[WhiteElo "2416"]
+[BlackElo "2116"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "A96"]
+[Opening "Dutch Defense: Classical Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 { [%eval 0.2] } 1... e6 { [%eval 0.23] } 2. c4 { [%eval 0.2] } 2... f5 { [%eval 0.49] } 3. g3 { [%eval 0.49] } 3... Nf6 { [%eval 0.53] } 4. Bg2 { [%eval 0.42] } 4... Be7 { [%eval 0.42] } 5. O-O { [%eval 0.41] } 5... O-O { [%eval 0.41] } 6. d4 { [%eval 0.4] } 6... d6 { [%eval 0.62] } 7. b3 { [%eval 0.52] } 7... Ne4 { [%eval 0.65] } 8. Nfd2 { [%eval 0.41] } 8... Nxd2 { [%eval 0.59] } 9. Nxd2 { [%eval 0.37] } 9... a5 { [%eval 0.55] } 10. Bb2 { [%eval 0.52] } 10... Bf6 { [%eval 0.54] } 11. e4 { [%eval 0.64] } 11... Nc6 { [%eval 0.7] } 12. exf5 { [%eval 0.71] } 12... Nxd4 { [%eval 0.76] } 13. fxe6 { [%eval 0.59] } 13... Nxe6 { [%eval 0.66] } 14. Bxf6 { [%eval 0.44] } 14... Qxf6 { [%eval 0.75] } 15. Ne4 { [%eval 0.55] } 15... Qd4 { [%eval 0.7] } 16. Qc2 { [%eval 0.72] } 16... g6 { [%eval 1.19] } 17. Rad1 { [%eval 1.22] } 17... Qg7 { [%eval 1.38] } 18. Rfe1 { [%eval 1.0] } 18... a4 { [%eval 1.41] } 19. b4 { [%eval 1.37] } 19... Bd7 { [%eval 1.77] } 20. a3? { [%eval 0.72] } 20... b6? { [%eval 1.79] } 21. c5 { [%eval 1.63] } 21... bxc5 { [%eval 2.04] } 22. bxc5 { [%eval 2.05] } 22... Nd4? { [%eval 4.91] } 23. Qc4+ { [%eval 4.6] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/FN6XVRHe"]
+[White "prakashchess"]
+[Black "DoctorCheck"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:43"]
+[WhiteElo "1591"]
+[BlackElo "1580"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Panov Transfer"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. dxc6 Nxc6 5. h3 e5 6. Nf3 Bc5 7. a3 Ne4 8. Qe2 Nxf2 9. Rh2 O-O 10. b4 Nd4 11. Nxd4 Bxd4 12. Ra2 Bf5 13. Nc3 e4 14. Bb2 e3 15. dxe3 Bxe3 16. Nd5 Nd3+ 17. Kd1 Nf2+ 18. Ke1 Qh4 19. Nxe3 Ng4+ 20. Kd1 Rad8+ 21. Kc1 Nxe3 22. Qxe3 Rfe8 23. Qc3 Re1+ 24. Qxe1 Qxe1# 0-1
+

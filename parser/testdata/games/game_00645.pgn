@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/qyy5Agnn"]
+[White "leonardautress"]
+[Black "Wibbe"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:21"]
+[WhiteElo "1461"]
+[BlackElo "1473"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+42"]
+[ECO "C21"]
+[Opening "Danish Gambit Accepted"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 d6 6. Qb3 Nh6 7. Nf3 Bg4 8. h3 Bh5 9. g4 Bg6 10. Nbd2 Nc6 11. Bc3 Qd7 12. Nh4 O-O-O 13. O-O-O f6 14. Kc2 Re8 15. Rb1 b6 16. Qb5 Nb8 17. f3 Qxb5 18. Rxb5 Bf7 19. Bxf7 Nxf7 20. Nf5 a5 21. Rhb1 Ne5 22. Bxa5 bxa5 23. Rxb8+ Kd7 24. f4 Nc6 25. R8b7 g6 26. Ne3 Bh6 27. Nd5 Ne7 28. Nxf6+ Kc6 29. Nxe8 Rxe8 30. g5 Bg7 31. Ra7 Kd7 32. Rxa5 Nc6 33. Ra4 Nd4+ 34. Kd3 Ne6 35. Ke3 h6 36. Kf3 Rf8 37. h4 Rxf4+ 38. Kg3 hxg5 39. hxg5 Be5 40. Kg2 Nxg5 41. Nc4 Rg4+ 42. Kh1 Rh4+ 43. Kg2 Rh2+ 44. Kg1 Nf3+ 45. Kf1 Bd4 46. Rbb4 Rf2# 0-1
+

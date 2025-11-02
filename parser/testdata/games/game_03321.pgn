@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/cl93XrRH"]
+[White "gyoz"]
+[Black "sangaby303"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:39"]
+[WhiteElo "1498"]
+[BlackElo "1495"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "900+5"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 Bg4 5. f3 Bh5 6. d3 Nc6 7. f4 Qa5 8. Bxh5 Nf6 9. Bf3 e5 10. Qe2 Bb4 11. Bxc6+ bxc6 12. Bd2 O-O 13. Nf3 exf4 14. O-O Rfe8 15. Ne4 Nxe4 16. dxe4 Qc5+ 17. Rf2 Bxd2 18. Qxd2 Rxe4 19. Re1 Re2 20. Rxe2 1-0
+

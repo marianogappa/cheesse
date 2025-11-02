@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Gj7m8BiX"]
+[White "Flubbing"]
+[Black "Tromto"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:20"]
+[WhiteElo "1478"]
+[BlackElo "1429"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+12"]
+[ECO "E61"]
+[Opening "King's Indian Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Bg5 d6 5. Qd2 O-O 6. Bxf6 Bxf6 7. e3 Re8 8. Nf3 Be6 9. Bd3 c5 10. d5 Bd7 11. O-O Nc6 12. a3 a6 13. Rab1 Rb8 14. b4 b5 15. bxc5 dxc5 16. Rb2 Ne5 17. cxb5 axb5 18. Bxb5 Nxf3+ 19. gxf3 Bxc3 20. Qxc3 Bxb5 21. a4 Bxa4 22. Qxc5 Rxb2 23. Rc1 Qb8 24. d6 exd6 25. Qc4 Bc6 26. Qxc6 Re2 27. Qc7 Qxc7 28. Rxc7 Rb8 0-1
+

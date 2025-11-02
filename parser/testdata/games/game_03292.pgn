@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7Dp01hok"]
+[White "gitz6666"]
+[Black "WhyKnotZoidberg"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:29"]
+[WhiteElo "1725"]
+[BlackElo "1717"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C00"]
+[Opening "French Defense: Chigorin Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Qe2 Nf6 3. Nf3 Be7 4. g3 d5 5. d3 c5 6. Bg2 O-O 7. O-O Nc6 8. e5 Nd7 9. Bf4 f6 10. Re1 fxe5 11. Nxe5 Ndxe5 12. Bxe5 Bf6 13. Bxf6 Qxf6 14. Nc3 Bd7 15. Nb5 a6 16. Nd6 Nd4 17. Qd2 Bc6 18. c3 Nb5 19. Nxb5 axb5 20. a3 b6 21. Qe3 Rab8 22. f4 Rfe8 23. Re2 Re7 24. Rae1 Rbe8 25. Qd2 h6 26. Bh3 Bd7 27. d4 c4 28. Qe3 Qf7 29. Qf2 Qh5 30. f5 Qxh3 0-1
+

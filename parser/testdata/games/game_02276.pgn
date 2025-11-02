@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/s6xdMT5T"]
+[White "saulito"]
+[Black "bifferspice"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:38"]
+[WhiteElo "1477"]
+[BlackElo "1744"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Nimzowitsch System"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. e5 d5 3. d4 c5 4. Nf3 Nc6 5. c4 Bd7 6. cxd5 exd5 7. Bb5 Qa5+ 8. Nc3 cxd4 9. Nxd4 Nxe5 10. Bxd7+ Nxd7 11. O-O Bc5 12. Re1+ Ne7 13. Bg5 Nf6 14. a3 O-O 15. b4 Bxb4 16. axb4 Qxb4 17. Nxd5 Nexd5 18. Rb1 Qd6 19. Rxb7 Rfb8 20. Nb5 Qc5 21. Be3 Nxe3 22. Rxb8+ Rxb8 23. Rxe3 Qxb5 24. g3 h6 25. Rb3 Qxb3 0-1
+

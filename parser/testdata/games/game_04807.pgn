@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/mpXbTSBn"]
+[White "Tarzan_10"]
+[Black "vinclwd"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:32"]
+[WhiteElo "1512"]
+[BlackElo "1660"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. e4 c6 3. Nf3 b6 4. Bc4 Bd6 5. e5 Bc7 6. Bg5 Ne7 7. Qd2 Bb7 8. O-O d5 9. exd6 Qxd6 10. g3 h6 11. Bxe7 Qxe7 12. Ne5 Nd7 13. f4 Nf6 14. a3 Nd5 15. Nc3 O-O 16. f5 exf5 17. Rxf5 Rae8 18. Raf1 Bxe5 19. Rxe5 Qd6 20. Ne4 Qg6 21. Rxe8 Rxe8 22. Nc3 Ba8 23. a4 Qd6 24. Qf4 Nxf4 25. Rxf4 Rf8 26. Ne4 Qxd4+ 27. Kg2 Qxc4 28. Nf6+ gxf6 29. Rxc4 Re8 30. Kf2 Rd8 31. Rf4 Rd2+ 32. Kg1 Rxc2 33. b4 Rb2 34. Rxf6 c5 35. bxc5 bxc5 36. Rxh6 c4 37. Rh4 Rb4 38. a5 Bd5 39. Rd4 Rb5 40. Kf2 Rxa5 41. Ke3 Be6 42. Kd2 Rc5 43. Kc3 a5 44. h4 Rc8 45. g4 Rb8 46. g5 a4 47. Kc2 a3 48. Rd1 a2 49. Ra1 c3 50. Kxc3 Kg7 51. h5 Rb5 52. h6+ Kg6 0-1
+

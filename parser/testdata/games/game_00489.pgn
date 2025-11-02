@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8hOk55Xy"]
+[White "Questor"]
+[Black "Sawlon"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:48"]
+[WhiteElo "1621"]
+[BlackElo "1610"]
+[WhiteRatingDiff "-35"]
+[BlackRatingDiff "+10"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "180+2"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. a3 a5 4. Bc4 d6 5. d3 Bg4 6. c3 Ne5 7. Nbd2 Bxf3 8. Nxf3 Nxc4 9. dxc4 g6 10. e5 Bg7 11. exd6 Qxd6 12. Qxd6 exd6 13. O-O O-O-O 14. Be3 Nf6 15. Rfe1 Ne4 16. Rab1 Rhe8 17. Ng5 Nxg5 18. Bxg5 f6 19. Be3 Re5 20. Rbd1 Kc7 21. b4 axb4 22. cxb4 b6 23. bxc5 bxc5 24. Rb1 Re4 25. Rec1 Ra8 26. Rb3 Ra4 27. Rcb1 Ra7 28. g3 Rxc4 29. h4 Rca4 30. Bf4 Rxa3 31. Kg2 Rxb3 0-1
+

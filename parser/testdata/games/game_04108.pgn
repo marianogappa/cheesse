@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Yo2F6VFA"]
+[White "kingsharkjr"]
+[Black "AligiereTensa"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:34"]
+[WhiteElo "1206"]
+[BlackElo "1199"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+28"]
+[ECO "C40"]
+[Opening "King's Knight Opening"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.37] } 1... e5 { [%eval 0.45] } 2. Nf3 { [%eval 0.27] } 2... Qg5?? { [%eval 11.45] } 3. Bc4?? { [%eval 1.19] } 3... Qxd2+?? { [%eval 12.6] } 4. Qxd2 { [%eval 12.22] } 4... c5 { [%eval 18.48] } 5. Qg5 { [%eval 12.97] } 5... d5 { [%eval 15.96] } 6. Bxd5 { [%eval 12.61] } 6... Bf5 { [%eval 28.4] } 7. Qxf5 { [%eval 28.0] } 7... f6 { [%eval 32.7] } 8. Qe6+ { [%eval 27.56] } 8... Be7 { [%eval 27.7] } 9. Qf7+ { [%eval 27.48] } 9... Kd7 { [%eval 27.2] } 10. Be6+ { [%eval 26.69] } 10... Kd6 { [%eval 30.07] } 11. Nc3 { [%eval 28.88] } 11... Nd7?! { [%eval #8] } 12. Nd5?! { [%eval 24.2] } 12... Nh6?! { [%eval #2] } 13. Bxh6?! { [%eval #10] } 13... gxh6 { [%eval #2] } 14. Qg7?! { [%eval 29.91] } 14... Rhf8?! { [%eval #2] } 15. Qxh7?! { [%eval 30.47] } 15... Kxe6?! { [%eval #1] } 16. Qxh6?! { [%eval 25.23] } 16... Kd6 { [%eval 26.58] } 17. Nxe5 { [%eval 18.3] } 17... Nb6 { [%eval 27.03] } 18. Nf7+ { [%eval 18.24] } 18... Ke6?! { [%eval #3] } 19. Nxf6?! { [%eval 17.1] } 19... Nd5?! { [%eval #5] } 20. Nxd5+ { [%eval #4] } 20... Kxf7 { [%eval #2] } 21. e5?! { [%eval 25.97] } 21... Bf6?! { [%eval #4] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/E4QPzJlI"]
+[White "Gosette"]
+[Black "Vladislavwwvv"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:25"]
+[WhiteElo "1448"]
+[BlackElo "1464"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. d4 f6 2. c4 e5 3. e4 exd4 4. Qxd4 b6 5. e5 Bc5 6. Qg4 Qe7 7. Ne2 fxe5 8. Qh5+ g6 9. Qg4 d6 10. Qxc8+ Kf7 11. Qg4 Nh6 12. Qf3+ Qf6 13. Qxa8 Qxf2+ 14. Kd2 Be3+ 15. Kc3 Qe1+ 16. Bd2 Bxd2+ 17. Nxd2 Qxa1 18. Qd5+ Kg7 19. Ng3 Qc1+ 20. Kd3 Qxb2 21. Be2 Qa3+ 22. Nb3 Qxa2 23. Nd4 Qa3+ 24. Ke4 Na6 25. Ne6+ Kf6 26. Rf1+ Nf5 27. Nxf5 gxf5+ 28. Rxf5+ Kg6 29. Rg5+ Kf6 30. Rf5+ Kg6 31. Bh5+ Kh6 32. Qd2+ Qe3+ 33. Qxe3# 1-0
+

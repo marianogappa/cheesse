@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JQbnUsHV"]
+[White "khamil"]
+[Black "longboard"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:12"]
+[WhiteElo "1652"]
+[BlackElo "1609"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "B16"]
+[Opening "Caro-Kann Defense: Bronstein-Larsen Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Bf5 7. c3 Nd7 8. Bf4 Qb6 9. Bb3 O-O-O 10. g4 Bg6 11. h4 h6 12. h5 Bh7 13. Be3 Be4 14. Rh4 Qc7 15. g5 fxg5 16. Rxe4 f5 17. Re6 c5 18. Qe2 f4 19. Bd2 f3 20. Qc4 Qh2 21. O-O-O Qxf2 22. dxc5 Nxc5 23. Re5 Rxd2 24. Rxd2 Qxg1+ 25. Kc2 f2 26. Qxc5+ Kb8 27. Rd8# 1-0
+

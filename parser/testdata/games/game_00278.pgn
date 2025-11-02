@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Vz1xXHzU"]
+[White "bilemba"]
+[Black "jaasch"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:50"]
+[WhiteElo "1437"]
+[BlackElo "1519"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+20"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 Nc6 3. d5 Nb4 4. a3 Na6 5. Nc3 Nf6 6. Nf3 d6 7. Bd3 c5 8. O-O Bg4 9. h3 Bh5 10. Bb5+ Nd7 11. Qd3 Nc7 12. Ba4 Be7 13. Bd2 a6 14. Rfe1 O-O 15. Re3 Rb8 16. g4 Bg6 17. Kf1 b5 18. Ke2 bxa4 19. Rh1 Rxb2 20. h4 h5 21. gxh5 Bxh5 22. Ke1 Nb6 23. Ng5 c4 24. Qf1 Nb5 25. Nd1 Rb1 26. Rg3 Rxd1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/iNXEz614"]
+[White "Danny_D"]
+[Black "fenestr"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:51"]
+[WhiteElo "1277"]
+[BlackElo "1165"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+17"]
+[ECO "C00"]
+[Opening "French Defense: Chigorin Variation"]
+[TimeControl "45+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Qe2 c5 3. Qd1 Nc6 4. d3 Nf6 5. c4 Qc7 6. Bg5 a6 7. Bxf6 gxf6 8. Nc3 Bh6 9. Be2 f5 10. exf5 exf5 11. Bf3 f4 12. Bxc6 Qxc6 13. f3 d6 14. Qe2+ Be6 15. Nh3 O-O-O 16. g3 Bxh3 17. gxf4 Rde8 18. Kd2 Rxe2+ 19. Kxe2 d5 20. cxd5 Qb6 21. Na4 Qb5 22. Nc3 Qxb2+ 23. Ke3 Qxc3 24. Rad1 Qb3 25. Rhe1 Qxa2 26. Ke4 Re8# 0-1
+

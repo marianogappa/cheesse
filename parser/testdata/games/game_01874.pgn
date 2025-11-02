@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/7w7TnWSk"]
+[White "millground"]
+[Black "aikei"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:04"]
+[WhiteElo "1314"]
+[BlackElo "1365"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[TimeControl "600+5"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 d6 3. Nf3 Nc6 4. Nc3 e6 5. d3 Nf6 6. Be3 g6 7. f5 Ng4 8. Bg5 Be7 9. f6 Bxf6 10. h3 Ne3 11. Bxe3 O-O 12. g4 Bg7 13. g5 Qb6 14. b3 Bxc3+ 15. Bd2 Bxa1 16. Qxa1 Nd4 17. Nxd4 cxd4 18. c3 e5 19. cxd4 exd4 20. Bg2 Be6 21. O-O Kg7 22. b4 f6 23. a4 fxg5 24. Rc1 a6 25. a5 Qa7 26. Be1 Rac8 27. Bf2 Rxc1+ 28. Qxc1 d5 29. Qb2 dxe4 30. Bxd4+ Qxd4+ 31. Qxd4+ Kh6 1-0
+

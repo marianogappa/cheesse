@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/g3BvyxNF"]
+[White "Captivus"]
+[Black "santros2"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:45"]
+[WhiteElo "1498"]
+[BlackElo "1477"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C46"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Bc4 Be7 5. O-O h6 6. d3 Na5 7. Nd2 d6 8. a3 Nxc4 9. Nxc4 d5 10. exd5 Nxd5 11. Nxd5 Qxd5 12. Ne3 Qc6 13. Re1 O-O 14. b4 Bf6 15. Bb2 Be6 16. d4 exd4 17. Bxd4 Rad8 18. c3 Qxc3 19. Bxc3 Rxd1 20. Rexd1 Bxc3 21. Rac1 Bb2 22. Rxc7 Bxa3 23. Rxb7 Bb3 24. Ra1 Rc8 25. Rxa7 Bxb4 26. Ra8 Rxa8 27. Rxa8+ Kh7 28. Rb8 1-0
+

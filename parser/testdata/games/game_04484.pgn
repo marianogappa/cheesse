@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9m30y5ui"]
+[White "Buerak"]
+[Black "juan95"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:13"]
+[WhiteElo "1447"]
+[BlackElo "1443"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Bf5 3. Nf3 Nc6 4. e3 Nb4 5. Na3 a6 6. c3 Nc6 7. c4 Nb4 8. Qd2 Nc6 9. c5 g6 10. Be2 Bg7 11. b4 Nf6 12. b5 axb5 13. Nxb5 O-O 14. Bxc7 Qd7 15. Be5 Nxe5 16. Nxe5 Ne4 17. Nxd7 1-0
+

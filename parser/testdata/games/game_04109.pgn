@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/qPigm4UK"]
+[White "lucsart016"]
+[Black "MSC_Govahi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:38"]
+[WhiteElo "2050"]
+[BlackElo "1791"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. Bd3 Be7 6. O-O O-O 7. c3 c5 8. Re1 c4 9. Bc2 Bg4 10. Nbd2 Nc6 11. h3 Be6 12. Ng5 Qd7 13. Nxe6 fxe6 14. Qe2 Ne4 15. Nxe4 dxe4 16. Qxe4 Bf6 17. Qxh7+ Kf7 18. Qg6+ Ke7 19. Bg5 Rf7 20. Bf5 Nd8 21. d5 Kd6 22. dxe6 Bxg5 23. exd7+ Kc7 24. Qxg5 Nc6 25. Qg3+ Kb6 26. Qe3+ Kc7 27. Qf4+ Kb6 28. a4 a5 29. b4 axb4 30. a5+ Ka6 31. cxb4 Nxb4 32. Qxc4+ Ka7 33. Qxb4 Kb8 34. Qb6 Rf8 35. Re8+ Rxe8 36. dxe8=Q# 1-0
+

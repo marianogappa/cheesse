@@ -1,0 +1,18 @@
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/Al8QeNQ0"]
+[White "erucm"]
+[Black "Ortelano"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:13"]
+[WhiteElo "1500"]
+[BlackElo "1660"]
+[WhiteRatingDiff "-103"]
+[BlackRatingDiff "+43"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "-"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 e5 3. c3 Nf6 4. Qf3 a6 5. Ne2 b5 6. Bd3 Bb7 7. b3 d5 8. exd5 Bxd5 9. Qg3 Bd6 10. Bf5 g6 11. Bh3 Ne4 12. Qf3 O-O 13. d3 Nxc3 14. Qe3 Nxe2 15. Qxe2 e4 16. Nc3 exd3 17. Qxd3 Re8+ 18. Be3 Be5 19. O-O c4 20. Qc2 cxb3 21. axb3 b4 22. Ne4 Bxa1 23. Rxa1 Bxe4 24. Qb2 Nc6 25. Bh6 Qd4 26. Qc1 Rad8 27. Bg4 f5 28. Qd1 fxg4 29. Qxg4 Na5 30. Rf1 Nxb3 31. h3 Nd2 32. Be3 Qf6 33. f4 Nxf1 34. Kxf1 Bxg2+ 35. Qxg2 0-1
+

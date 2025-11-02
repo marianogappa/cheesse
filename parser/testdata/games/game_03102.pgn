@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NXPA1W0V"]
+[White "MikkoBatulin"]
+[Black "locus_au"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:40"]
+[WhiteElo "1045"]
+[BlackElo "1203"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-16"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Quiet System"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e3 Nf6 2. Nf3 g6 3. g3 b6 4. Bg2 Bb7 5. O-O Bg7 6. d4 Ne4 7. Ne5 Bxe5 8. dxe5 d5 9. b3 Ba6 10. Re1 c6 11. Bb2 h5 12. c4 O-O 13. cxd5 cxd5 14. Nc3 e6 15. Qc2 Nc5 16. Rad1 Bb7 17. e4 Qg5 18. f4 Qg4 19. exd5 exd5 20. Rd4 Nbd7 21. h3 Qf5 22. g4 Qxc2 23. Rb1 Rae8 24. Rxd5 Ne4 25. Nxe4 Qe2 26. Rxd7 Qxb2 27. Rxb2 Bxe4 28. Bxe4 Rc8 29. Rxa7 Rc1+ 30. Kf2 Rd8 31. Rc2 Rdd1 32. Rxc1 Rxc1 33. Bd5 Kg7 34. e6 Kh6 35. exf7 hxg4 36. f8=Q+ Kh5 37. Qh8# 1-0
+

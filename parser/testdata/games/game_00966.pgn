@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WYg18UBY"]
+[White "orxa"]
+[Black "burb72"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:35"]
+[WhiteElo "1322"]
+[BlackElo "1465"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "A00"]
+[Opening "Mieses Opening: Reversed Rat"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d3 e5 2. Nc3 Bb4 3. Bd2 d6 4. Nd5 Bxd2+ 5. Qxd2 Be6 6. Nb4 Nf6 7. O-O-O a5 8. d4 axb4 9. Qxb4 b6 10. a3 Ba2 11. Qa4+ c6 12. Qxa8 O-O 13. b3 Nd5 14. Kb2 Bxb3 15. cxb3 exd4 16. Rxd4 Re8 17. e3 Qf6 18. Nh3 c5 19. Qxd5 cxd4 20. Bb5 dxe3+ 21. Kc2 Rc8+ 22. Bc4 b5 23. Qb7 Qf5+ 24. Kc3 Qe5+ 25. Kb4 Qc5+ 26. Kc3 bxc4 27. Qb4 Qe5+ 28. Kc2 cxb3+ 29. Kxb3 Qd5+ 30. Kb2 Qe5+ 31. Kb3 Nc6 32. Qb7 Qd5+ 33. Kb2 Qd4+ 34. Kb3 Na5+ 35. Ka2 Nxb7 36. fxe3 Qd2+ 37. Kb3 Qxe3+ 38. Kb4 Qc3+ 39. Kb5 Rc5+ 40. Kb6 Nd8 41. Nf4 Qa5# 0-1
+

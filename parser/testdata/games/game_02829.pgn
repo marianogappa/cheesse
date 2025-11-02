@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/qOHxANym"]
+[White "Fi-scher"]
+[Black "ger456"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:35"]
+[WhiteElo "1731"]
+[BlackElo "1752"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C00"]
+[Opening "French Defense: La Bourdonnais Variation"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. f4 d5 3. e5 c5 4. c3 Bd7 5. Nf3 b5 6. a3 a5 7. Qb3 c4 8. Qc2 a4 9. Be2 Nc6 10. O-O Qc7 11. Kh1 O-O-O 12. d3 Na5 13. dxc4 bxc4 14. Be3 Nb3 15. Ra2 f5 16. Nbd2 Bc5 17. Nxb3 axb3 18. Qb1 bxa2 0-1
+

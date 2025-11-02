@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/OWFnOlvr"]
+[White "hobiii"]
+[Black "genique"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:14"]
+[WhiteElo "1729"]
+[BlackElo "1659"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-8"]
+[ECO "E61"]
+[Opening "King's Indian Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Bf4 O-O 5. e3 Nh5 6. Bg3 Nxg3 7. hxg3 c5 8. d5 d6 9. Nf3 Bg4 10. Be2 Nd7 11. Ng5 Bxe2 12. Qxe2 h6 13. Nce4 hxg5 14. Nxg5 e6 15. Nh7 Nf6 16. Nxf8 Qxf8 17. Qf3 exd5 18. cxd5 Qe8 19. O-O-O Qe4 20. Qe2 b6 21. f3 Qa4 22. Kb1 Nh5 23. Rxh5 gxh5 24. Rh1 Qd7 25. Rxh5 Re8 26. e4 Re5 27. g4 Rxh5 28. gxh5 Qe7 29. g4 Qe5 30. a3 a6 31. Qc2 b5 32. Kc1 Qg3 33. Qe2 Qg1+ 34. Kc2 Qd4 35. Kc1 Qc4+ 36. Qc2 Qxc2+ 37. Kxc2 Kf8 38. b3 Ke7 39. Kd3 Kf6 40. Ke3 Ke5 41. f4+ Kf6 42. g5+ Ke7 43. f5 Be5 44. g6 fxg6 45. fxg6 Kf8 46. Kf3 Kg7 47. Kg4 a5 48. Kg5 b4 49. a4 c4 50. h6+ Kg8 51. h7+ Kg7 52. bxc4 b3 53. c5 b2 54. c6 1-0
+

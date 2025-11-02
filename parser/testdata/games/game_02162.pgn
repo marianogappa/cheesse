@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/cZhbZmM8"]
+[White "roma1302"]
+[Black "frastornante"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:09"]
+[WhiteElo "1529"]
+[BlackElo "1514"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "C64"]
+[Opening "Ruy Lopez: Classical Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. Bxc6 dxc6 5. O-O Qf6 6. d3 h5 7. Bg5 Qg6 8. Nc3 f6 9. Bh4 Nh6 10. d4 exd4 11. Nxd4 Bh3 12. Qf3 Bg4 13. Qd3 Rd8 14. Nce2 Bxe2 15. Qxe2 Bxd4 16. Qf3 Ng4 17. Rfe1 Ne5 18. Qb3 Qf7 19. Bg3 Qxb3 20. Rad1 Qxc2 21. Rc1 Bxf2+ 22. Kf1 Bxe1 23. Kxe1 Qxc1+ 24. Ke2 Qxb2+ 25. Ke3 Qxa2 0-1
+

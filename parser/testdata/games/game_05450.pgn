@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/2eaBvPpi"]
+[White "tpe03"]
+[Black "Chanty30"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:58"]
+[WhiteElo "1236"]
+[BlackElo "1237"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+12"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Old Variation"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.14] } 1... d5 { [%eval 0.2] } 2. c4 { [%eval 0.3] } 2... dxc4 { [%eval 0.41] } 3. e3 { [%eval 0.38] } 3... Nf6 { [%eval 0.33] } 4. Bxc4 { [%eval 0.38] } 4... Bg4?! { [%eval 1.04] } 5. f3?! { [%eval 0.32] } 5... Bh5?! { [%eval 1.11] } 6. g4?! { [%eval 0.43] } 6... Bg6 { [%eval 0.91] } 7. g5?! { [%eval -0.08] } 7... Nd5 { [%eval -0.09] } 8. Nc3 { [%eval -0.39] } 8... e6 { [%eval -0.06] } 9. e4 { [%eval 0.01] } 9... c6? { [%eval 2.0] } 10. Bd2? { [%eval -0.75] } 10... Bh5? { [%eval 2.17] } 11. Qb3? { [%eval -0.06] } 11... f6?? { [%eval 4.01] } 12. gxf6? { [%eval 2.83] } 12... gxf6? { [%eval 5.23] } 13. exd5 { [%eval 5.19] } 13... exd5?! { [%eval 5.81] } 14. Bxd5?? { [%eval 2.03] } 14... Qe7+?? { [%eval 5.99] } 15. Ne4?? { [%eval 0.87] } 15... f5? { [%eval 2.26] } 16. Bg5 { [%eval 1.93] } 16... Qg7?? { [%eval 12.43] } 17. Nf6+ { [%eval 11.66] } 17... Kd8 { [%eval 12.01] } 18. Nxh7+?? { [%eval 4.45] } 18... Ke8?? { [%eval 11.04] } 19. Nf6+ { [%eval 10.83] } 19... Kd8 { [%eval 10.54] } 20. Nh7+?? { [%eval 4.46] } 20... Ke8?? { [%eval 9.63] } 21. Qe3+?? { [%eval 4.36] } 21... Be7 { [%eval 4.51] } 22. Nf6+?! { [%eval 3.87] } 22... Kd8 { [%eval 3.91] } 23. Nxh5 { [%eval 3.84] } 23... Bxg5? { [%eval 5.16] } 24. Nxg7 { [%eval 4.94] } 24... Bxe3 { [%eval 4.87] } 25. Nh3?? { [%eval 1.39] } 25... Bxd4?? { [%eval 4.73] } 26. Ne6+ { [%eval 4.51] } 26... Kd7 { [%eval 4.58] } 27. Bxc6+?? { [%eval 0.21] } 27... Nxc6 { [%eval 0.21] } 28. Nxd4 { [%eval 0.16] } 28... Nxd4 { [%eval 0.18] } 29. Rd1 { [%eval 0.0] } 29... Rxh3 { [%eval 0.33] } 30. Rxd4+ { [%eval 0.26] } 30... Kc6 { [%eval 0.7] } 31. Rc4+?! { [%eval 0.18] } 31... Kd7 { [%eval 0.56] } 32. O-O { [%eval 0.37] } 32... Kd6 { [%eval 0.49] } 33. Rfc1 { [%eval 0.0] } 33... Rh6?! { [%eval 0.97] } 34. Rd1+ { [%eval 0.85] } 34... Ke6 { [%eval 0.66] } 35. Re1+ { [%eval 0.48] } 35... Kf6 { [%eval 0.34] } 0-1
+

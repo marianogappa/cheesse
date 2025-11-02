@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NTbiLU2D"]
+[White "Csad"]
+[Black "Shomi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:43"]
+[WhiteElo "1571"]
+[BlackElo "1619"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C66"]
+[Opening "Ruy Lopez: Berlin Defense, Improved Steinitz Defense"]
+[TimeControl "180+2"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Nf6 5. Re1 Be7 6. c3 O-O 7. h3 Rb8 8. d4 exd4 9. cxd4 a6 10. Ba4 b5 11. Bb3 Bb7 12. Bd2 Re8 13. d5 Ne5 14. Nxe5 dxe5 15. Nc3 c6 16. Bg5 cxd5 17. Nxd5 Nxd5 18. Bxe7 Nxe7 19. Qf3 Rf8 20. Red1 Qb6 21. Rd7 Ng6 22. Bxf7+ Kh8 23. Qh5 Qf6 24. Bxg6 Qxg6 25. Qxg6 hxg6 26. f3 a5 27. Rc1 Rfc8 28. Rxc8+ Bxc8 29. Ra7 a4 30. Kh2 b4 31. Rxa4 Be6 32. b3 Kh7 33. Ra6 Bf7 34. h4 Rc8 35. Rb6 Rc2 36. Rxb4 Rxa2 37. Rb5 Rb2 38. Kh3 Rxb3 39. Rxe5 Rb2 40. g4 Rf2 41. Kg3 Rf1 42. Re7 Bc4 43. e5 Re1 44. g5 Bd5 45. Kg4 Re3 46. f4 Kg8 47. h5 Bf3+ 48. Kh4 gxh5 0-1
+

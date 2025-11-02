@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7dm87geE"]
+[White "Deadwood_Chess"]
+[Black "victor-ch"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:21"]
+[WhiteElo "1898"]
+[BlackElo "1726"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "A10"]
+[Opening "English Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. c4 b6 2. Nc3 Bb7 3. d4 g6 4. e4 Bg7 5. g3 d6 6. Bg2 e5 7. d5 c6 8. Nge2 cxd5 9. cxd5 Nd7 10. Be3 Nc5 11. Bxc5 bxc5 12. O-O Ne7 13. Qa4+ Qd7 14. Qxd7+ Kxd7 15. Bh3+ Kc7 16. Nb5+ Kb6 17. a4 f5 18. Nec3 fxe4 19. a5+ Ka6 20. Nc7# 1-0
+

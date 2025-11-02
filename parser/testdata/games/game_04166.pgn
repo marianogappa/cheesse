@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DHcuPOyb"]
+[White "nasserov"]
+[Black "m50000"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:52"]
+[WhiteElo "2142"]
+[BlackElo "2032"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Berlin Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Be7 4. c3 O-O 5. Nf3 c6 6. Nbd2 d5 7. Bb3 Nbd7 8. O-O Nc5 9. Bc2 dxe4 10. dxe4 Bd6 11. Qe2 Ne6 12. Nc4 Qc7 13. Rd1 Ne8 14. Nxd6 Nxd6 15. Nxe5 b6 16. Be3 Bb7 17. Rac1 Rad8 18. Bd4 Nxd4 19. cxd4 Nb5 20. Qe3 Nxd4 21. f4 Nxc2 22. Qc3 c5 23. Qxc2 Rxd1+ 24. Rxd1 Rd8 25. Re1 Rd4 26. Nf3 Qe7 27. Nxd4 cxd4 28. Qd3 Qf6 29. g3 g5 30. Rd1 gxf4 31. Qxd4 Qe6 32. gxf4 Qg4+ 33. Kf1 Qf3+ 34. Qf2 Qxd1+ 35. Kg2 Qg4+ 36. Qg3 Bxe4+ 37. Kf2 Qxg3+ 38. hxg3 Kg7 39. Ke3 f5 40. b3 Kf7 41. a4 Ke6 42. Kd4 Kd6 43. g4 fxg4 44. Kxe4 h5 45. f5 Ke7 46. Kf4 Kf6 47. b4 a6 48. Kg3 b5 49. Kf2 1-0
+

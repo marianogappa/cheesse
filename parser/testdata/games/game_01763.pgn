@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/93XYRJc0"]
+[White "Deathconsciousness"]
+[Black "redondos"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:41"]
+[WhiteElo "1649"]
+[BlackElo "1699"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[TimeControl "300+5"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Bc5 3. Nc3 c6 4. Nxe5 Qf6 5. Nf3 Nh6 6. h3 d6 7. d3 Nd7 8. Bg5 Qg6 9. Qd2 f6 10. Bxh6 gxh6 11. O-O-O Ne5 12. Nh4 Qg7 13. Re1 Be6 14. Nf5 Bxf5 15. exf5 Bb6 16. d4 O-O-O 17. dxe5 dxe5 18. Qe2 Qg5+ 19. Kb1 Qxf5 20. f3 Bd4 21. Qe4 Qg5 22. Qg4+ Kb8 23. Qxg5 hxg5 24. Ne4 Rhf8 25. Bd3 h5 26. g4 h4 27. c3 Bxc3 28. Nc5 Bxe1 29. Rxe1 Rfe8 30. Bf5 Rd2 31. Nd7+ Ka8 32. Nxf6 Rh2 33. Nxe8 Rxh3 34. Rxe5 Rxf3 35. Nd6 a6 36. Re8+ Ka7 37. Nc8+ Kb8 38. Ne7+ Ka7 39. a3 h3 40. Rh8 Rf1+ 41. Ka2 Rf3 42. Rh7 Kb6 43. Nc8+ Kc5 44. Rh5 b5 45. Rxg5 Kd4 46. Rh5 c5 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/rZrzBFyn"]
+[White "Huttetu"]
+[Black "baxmarker"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:33"]
+[WhiteElo "1639"]
+[BlackElo "1965"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 c5 3. c3 Nc6 4. d4 cxd4 5. cxd4 d5 6. exd5 exd5 7. Be2 Nf6 8. O-O Be7 9. Re1 O-O 10. Bg5 h6 11. Bh4 Qb6 12. b3 Bg4 13. Bxf6 Bxf6 14. Nc3 Nxd4 15. Nxd5 Nxe2+ 16. Rxe2 Qa6 17. Nxf6+ Qxf6 18. Re3 Rfe8 19. Qc1 Rxe3 20. fxe3 Bxf3 0-1
+

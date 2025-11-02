@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/X4YnXWWM"]
+[White "chessthepawn"]
+[Black "Goalchessrobot123"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:04"]
+[WhiteElo "1921"]
+[BlackElo "2142"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-21"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. d4 Bg7 3. c3 d6 4. f4 Nf6 5. Bc4 Nfd7 6. Qf3 O-O 7. Ne2 c6 8. O-O a5 9. a3 e5 10. Be3 exd4 11. Bxd4 c5 12. Bxg7 Kxg7 13. Nd2 b5 14. Bd5 Ba6 15. Bxa8 b4 16. axb4 cxb4 17. cxb4 axb4 18. Bd5 Nc5 19. Rfe1 Nbd7 20. f5 Nf6 21. Nf4 g5 22. Nh5+ Nxh5 23. Qxh5 Qf6 24. Nf3 h6 25. h4 g4 26. Qxg4+ Kh7 27. Qf4 Rg8 28. h5 Bd3 29. Ra7 Ne6 30. fxe6 Qxf4 31. Rxf7+ Qxf7 32. exf7 Rf8 33. Nh4 Rg8 34. Nf5 Rf8 35. Nxd6 Kg7 36. Nf5+ Kf6 37. Nxh6 1-0
+

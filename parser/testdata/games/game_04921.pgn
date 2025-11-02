@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/RSm1qtIN"]
+[White "PoolerPlaysChess"]
+[Black "alexchar"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:59"]
+[WhiteElo "1606"]
+[BlackElo "1451"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+15"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 Nf6 4. Bb5+ c6 5. Bc4 d5 6. exd5 cxd5 7. Bb5+ Bd7 8. Bxd7+ Qxd7 9. Nxe5 Qe6 10. d4 Nc6 11. f4 Bb4 12. O-O O-O 13. Re1 Rfe8 14. Qf3 Nxd4 15. Qd3 Bc5 16. f5 Nxf5+ 17. Kh1 Bd4 18. Nf3 Qxe1+ 19. Nxe1 Rxe1+ 0-1
+

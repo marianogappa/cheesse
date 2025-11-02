@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/USg8btB2"]
+[White "baryshnikovf"]
+[Black "gjiki98"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:42"]
+[WhiteElo "1062"]
+[BlackElo "1284"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+5"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. O-O a6 6. Nc3 b5 7. Bb3 b4 8. Nd5 Na5 9. c3 Nxb3 10. axb3 bxc3 11. Nxf6+ Qxf6 12. bxc3 d6 13. d4 exd4 14. cxd4 c6 15. Ba3 d5 16. Bxf8 Rxf8 17. e5 Qe6 18. Rc1 Bb7 19. b4 Rc8 20. Qa4 Ke7 21. b5 cxb5 22. Qa3+ Ke8 23. Rxc8+ Bxc8 24. Qe3 Bd7 25. Ng5 b4 26. Qf4 a5 27. Nxe6 Bxe6 0-1
+

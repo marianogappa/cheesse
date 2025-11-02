@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/E6zRz5RH"]
+[White "chessbona"]
+[Black "fatihkanlidere"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:40"]
+[WhiteElo "1860"]
+[BlackElo "1835"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+12"]
+[ECO "C00"]
+[Opening "Queen's Pawn Game: Franco-Sicilian Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. e4 c5 3. Nc3 cxd4 4. Qxd4 Nc6 5. Qd1 Nf6 6. Bd3 Bb4 7. Be3 Bxc3+ 8. bxc3 h6 9. Ne2 O-O 10. Qd2 d5 11. e5 Nxe5 12. Bxh6 gxh6 13. Qxh6 Nxd3+ 14. cxd3 Nh7 15. O-O Qg5 16. Qh3 e5 17. f4 Bxh3 18. fxg5 Bxg2 19. Kxg2 Nxg5 20. Ng3 Ne6 21. Rf5 f6 22. Raf1 Nf4+ 23. Kh1 Kf7 24. Nh5 Ke6 25. R5xf4 exf4 26. Nxf4+ Kd6 27. Ng6 Rf7 28. d4 Rg8 29. Nf4 a6 30. Nh5 f5 31. Ng3 f4 32. Nh5 f3 33. Ng3 b5 34. Rf2 Kc6 35. Kg1 a5 36. Kf1 b4 37. cxb4 axb4 38. Ke1 Kb5 39. Kd2 Re8 40. Kc2 Ka4 41. Kb2 Rc8 42. h4 Rc3 43. h5 Rd3 44. h6 Rxd4 45. Rh2 Rh7 46. Rf2 Rd3 47. Nf5 b3 48. axb3+ Rxb3+ 49. Kc2 Ka3 50. Nd6 Rb2+ 51. Kc3 Rxf2 52. Nb5+ Ka4 53. Nd4 0-1
+

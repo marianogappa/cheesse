@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/uZrsnuYn"]
+[White "posnofa"]
+[Black "addictedtoyou"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:37"]
+[WhiteElo "1702"]
+[BlackElo "1718"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e3 c6 2. c4 d5 3. Nc3 Bf5 4. d4 e6 5. c5 h6 6. Nf3 Nd7 7. Bd3 Bxd3 8. Qxd3 Ngf6 9. O-O Be7 10. e4 dxe4 11. Nxe4 Nd5 12. Nd6+ Bxd6 13. cxd6 Qb6 14. b3 Rd8 15. a4 Nb4 16. Qe4 Nf6 17. Qe5 Nd3 18. Qg3 g6 19. Ba3 Qxb3 20. Rfb1 Qd5 21. Rxb7 O-O 22. Ne5 Qxd4 23. Nxg6 Qxa1+ 24. Bc1 Qxc1# 0-1
+

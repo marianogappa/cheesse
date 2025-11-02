@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/82kmSgjL"]
+[White "Chandra-PW"]
+[Black "Good_Cheater"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:43"]
+[WhiteElo "2341"]
+[BlackElo "2266"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Slav Formation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. g3 c6 2. Bg2 d5 3. d4 Nf6 4. Nf3 Bg4 5. O-O Bxf3 6. Bxf3 e6 7. c4 Nbd7 8. Nc3 Bb4 9. Qb3 Qb6 10. c5 Bxc3 11. cxb6 Bxd4 12. bxa7 Bxa7 1-0
+

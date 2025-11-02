@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mqhjuB1g"]
+[White "justabum"]
+[Black "ncptnrvrd"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:57"]
+[WhiteElo "2054"]
+[BlackElo "1907"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+15"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. d4 cxd4 5. Qxd4 Bd7 6. Bxc6 bxc6 7. Nc3 e5 8. Qd3 Nf6 9. Bg5 Be7 10. O-O h6 11. Bxf6 gxf6 12. Nd2 Rg8 13. Nc4 Qc7 14. Rad1 Rd8 15. Rd2 Be6 16. Rfd1 d5 17. exd5 cxd5 18. Ne3 d4 19. Qb5+ Bd7 20. Ned5 Qd6 21. Qb7 Rb8 22. Qxa7 Qc6 23. Nxe7 Qxg2# 0-1
+

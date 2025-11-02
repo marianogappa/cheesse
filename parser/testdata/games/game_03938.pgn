@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ip1KhVNB"]
+[White "Arevalz"]
+[Black "robinsjp"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:59"]
+[WhiteElo "1696"]
+[BlackElo "1674"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. b3 g6 2. Bb2 Nf6 3. e3 Bg7 4. d4 O-O 5. Nc3 c6 6. Nf3 d5 7. Bd3 Bg4 8. h3 Bxf3 9. Qxf3 Nbd7 10. O-O-O e5 11. Kb1 e4 12. Nxe4 dxe4 13. Bxe4 Nxe4 14. Qxe4 Nf6 15. Qf3 a5 16. g4 Re8 17. h4 a4 18. g5 Ne4 19. h5 axb3 20. cxb3 Qa5 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/CUBrLNmC"]
+[White "mames"]
+[Black "balval"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:01"]
+[WhiteElo "1728"]
+[BlackElo "1739"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Marshall Gambit"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Nf6 6. Nxf6+ Qxf6 7. Nf3 h6 8. Bd3 Bd7 9. O-O Na6 10. Re1 Nc7 11. Bf4 Rc8 12. Be5 Qd8 13. Qc2 Be7 14. Bxg7 Rg8 15. Be5 c5 16. Bh7 Rf8 17. Bg7 cxd4 18. Bxf8 Bxf8 19. Nxd4 Qg5 20. Nf3 Qg7 21. Bf5 Nd5 22. Bh3 Nf4 23. Kh1 Bc6 24. Re3 Bc5 25. Rae1 Bxe3 26. Rxe3 Nxh3 27. gxh3 Qf6 28. Qe2 Rd8 29. Kg1 Qg6+ 30. Kf1 Qb1+ 31. Qe1 Rd1 32. Nd4 Rxe1+ 33. Rxe1 Qg6 34. Nxe6 fxe6 35. Ke2 Qh5+ 36. Kd2 Qxh3 37. Rxe6+ Kd7 38. Re2 Qxh2 39. Kc2 Qxf2 40. Rd2+ Qxd2+ 41. Kxd2 a6 42. Kc3 a5 43. a3 a4 44. Kd2 b6 45. Ke3 1-0
+

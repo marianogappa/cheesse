@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/u8PmbXlt"]
+[White "Falkor1"]
+[Black "Emm"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:57"]
+[WhiteElo "1805"]
+[BlackElo "1793"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "180+1"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. h3 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 O-O 8. Bd3 Nbd7 9. O-O c5 10. c3 c4 11. Bc2 Nb6 12. Re1 Nh5 13. Ne5 Nd7 14. Qe2 Nxe5 15. Qxh5 Ng6 16. Nd2 Qf6 17. Re2 Be6 18. Rae1 Rfe8 19. Bxg6 hxg6 20. Qf3 Qg5 21. Qe3 Qf5 22. Qe5 Qc2 23. Nf3 Qa4 24. Ng5 Qxa2 25. Qc7 Qa6 26. Rxe6 fxe6 27. Qf7+ Kh8 28. Nxe6 Rxe6 29. Rxe6 Qa1+ 30. Kh2 Qxb2 31. Rxg6 Rg8 32. Qxd5 Qe2 33. f3 Re8 34. Qxb7 Qe7 35. Qd5 Qc7+ 36. g3 Re2+ 37. Kg1 Re8 38. Qh5+ Kg8 39. Qg5 Rf8 40. Qd5+ Rf7 41. Kg2 Qd7 42. Qxd7 Rxd7 43. Ra6 Kf7 44. Ra4 Rc7 45. f4 Ke6 46. Kf3 Kf5 47. Ra5+ Ke6 48. g4 g6 49. Ra6+ Kf7 50. g5 Rb7 51. Ke4 Ke8 52. Rxg6 a5 53. Ra6 Rb5 54. f5 Kd8 55. g6 Ke8 56. g7 Kf7 57. f6 Kg8 58. Ra8+ Kf7 59. g8=Q+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KOjjY6j8"]
+[White "nikibelo"]
+[Black "vas717"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:32"]
+[WhiteElo "1568"]
+[BlackElo "1637"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo"]
+[TimeControl "300+3"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 h6 5. a3 Nf6 6. Nc3 d6 7. h3 Be6 8. Bxe6 fxe6 9. Na4 Bb6 10. Nxb6 axb6 11. c3 O-O 12. Qb3 Qe7 13. O-O Na5 14. Qb4 Nd7 15. a4 c5 16. Qa3 Rxf3 17. gxf3 Qh4 18. Kh2 Rf8 19. Rg1 Rxf3 20. Rg3 Rxf2+ 21. Rg2 Rf3 22. Bxh6 Qxh3+ 23. Kg1 Qxh6 24. Rf1 Rxd3 25. Qa1 Qe3+ 26. Rff2 Qxe4 27. Qf1 Nf6 28. Rxf6 Qxg2+ 29. Qxg2 Rd1+ 30. Kh2 Nc4 31. Rxe6 Rd2 32. Qxd2 Nxd2 33. Rxd6 Nc4 34. b3 Nxd6 0-1
+

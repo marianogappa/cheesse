@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/96X4ssst"]
+[White "xRyanNitro"]
+[Black "mostafa6461"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:33"]
+[WhiteElo "1762"]
+[BlackElo "1826"]
+[WhiteRatingDiff "+95"]
+[BlackRatingDiff "-11"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Queen's Gambit Invitation"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. Nf3 e6 2. d4 Nc6 3. e4 Qe7 4. Nc3 e5 5. Nd5 Qd6 6. dxe5 Nxe5 7. Bf4 f6 8. Nxe5 fxe5 9. Qh5+ g6 10. Qxe5+ Qxe5 11. Bxe5 Nf6 12. Bxf6 Rg8 13. Nxc7+ Kf7 14. Be5 d6 15. Bc4+ Be6 16. Bxe6+ 1-0
+

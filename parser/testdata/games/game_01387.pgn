@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kg7kgi8x"]
+[White "djulac"]
+[Black "Andi36"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:15"]
+[WhiteElo "1392"]
+[BlackElo "1384"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. f4 d5 2. Nf3 Bf5 3. e3 e6 4. Ne5 Bd6 5. g4 Be4 6. Rg1 Bxe5 7. fxe5 Qh4+ 8. Rg3 Qxh2 9. Rh3 Qg1 10. d3 Bg2 11. Qe2 Bxh3 12. Qf2 Qxf2+ 13. Kxf2 Bxg4 14. Nc3 0-1
+

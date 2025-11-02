@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/F16IXO89"]
+[White "abaraba"]
+[Black "V1962"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:48"]
+[WhiteElo "1676"]
+[BlackElo "1755"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-27"]
+[ECO "C00"]
+[Opening "French Defense: Steiner Variation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. c4 b6 3. d4 Bb7 4. Nc3 Bb4 5. Bd3 f5 6. f3 fxe4 7. fxe4 Nf6 8. Qe2 Nc6 9. Nf3 Qe7 10. a3 Bxc3+ 11. bxc3 Na5 12. O-O O-O-O 13. Be3 h5 14. d5 Ng4 15. h3 Nh6 16. Ng5 Nb3 17. Rab1 Nc5 18. Bxc5 Qxc5+ 19. Kh1 exd5 20. exd5 Rde8 21. Qc2 c6 22. Ne4 Qe7 23. d6 Qe5 24. c5 Nf5 25. Ng5 Ng3+ 26. Kg1 Qxg5 27. Qb3 Ne2+ 28. Kh1 Ng3+ 29. Kh2 Nxf1+ 30. Bxf1 h4 31. cxb6 a6 32. Bxa6 Qg3+ 33. Kh1 Bxa6 34. b7+ Kb8 35. Qb6 Re1+ 36. Rxe1 Qxe1+ 37. Kh2 Qe2 38. Qc7+ Ka7 39. b8=Q# 1-0
+

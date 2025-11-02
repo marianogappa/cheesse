@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kGvf3wtJ"]
+[White "Sando00"]
+[Black "Maur099"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:20"]
+[WhiteElo "1427"]
+[BlackElo "1431"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.22] } 1... c5 { [%eval 0.28] } 2. d4 { [%eval 0.13] } 2... cxd4 { [%eval 0.0] } 3. Qxd4 { [%eval 0.04] } 3... Nc6 { [%eval 0.17] } 4. Qa4 { [%eval 0.0] } 4... d6 { [%eval 0.02] } 5. Nf3 { [%eval 0.07] } 5... Bd7 { [%eval 0.12] } 6. Bb5 { [%eval -0.24] } 6... Qa5+?! { [%eval 0.51] } 7. Qxa5 { [%eval 0.51] } 7... Nxa5 { [%eval 0.46] } 8. Bxd7+ { [%eval 0.38] } 8... Kxd7 { [%eval 0.6] } 9. Ng5?! { [%eval 0.04] } 9... Ke8 { [%eval 0.25] } 10. O-O { [%eval 0.03] } 10... g6 { [%eval 0.49] } 11. h3?! { [%eval -0.31] } 11... Nf6 { [%eval -0.2] } 12. Re1 { [%eval -0.16] } 12... Bh6 { [%eval 0.08] } 13. Nc3 { [%eval -0.1] } 13... Nc4?! { [%eval 0.4] } 14. Nf3 { [%eval 0.0] } 14... Bxc1 { [%eval 0.11] } 15. Raxc1 { [%eval 0.0] } 15... Nxb2?! { [%eval 0.77] } 16. Nb5?! { [%eval 0.0] } 16... Kd7 { [%eval 0.13] } 17. e5 { [%eval 0.0] } 17... Ne8?! { [%eval 0.71] } 18. exd6 { [%eval 0.64] } 18... Nxd6? { [%eval 2.47] } 19. Ne5+ { [%eval 2.42] } 19... Kd8? { [%eval 5.3] } 20. Nxd6 { [%eval 5.31] } 20... exd6 { [%eval 5.23] } 21. Nxf7+ { [%eval 4.93] } 21... Kd7 { [%eval 5.39] } 22. Nxh8 { [%eval 5.3] } 22... Rxh8 { [%eval 5.17] } 23. Rb1 { [%eval 5.04] } 23... Nc4 { [%eval 5.13] } 24. Rxb7+ { [%eval 5.3] } 24... Kc6 { [%eval 5.15] } 25. Rxa7 { [%eval 4.99] } 25... Rb8?! { [%eval 5.7] } 26. Ree7? { [%eval 4.51] } 26... Rb1+?! { [%eval 5.06] } 27. Kh2 { [%eval 4.91] } 27... Nd2?! { [%eval 5.69] } 28. Rxh7?? { [%eval 0.0] } 28... Nf1+ { [%eval 0.0] } 29. Kh1 { [%eval 0.0] } 29... Ne3+ { [%eval 0.0] } 30. Kh2 { [%eval 0.0] } 30... Nf1+ { [%eval 0.0] } 31. Kh1 { [%eval 0.0] } 31... Ne3+ { [%eval 0.0] } 32. Kh2 { [%eval 0.0] } 32... Nf1+ { [%eval 0.0] } 33. Kg1 { [%eval 0.0] } 33... Ne3+ { [%eval 0.0] } 34. Kh2 { [%eval 0.0] } 1/2-1/2
+

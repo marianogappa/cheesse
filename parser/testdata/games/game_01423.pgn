@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/g0SgRVOX"]
+[White "beholder0"]
+[Black "andi123"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:16"]
+[WhiteElo "1210"]
+[BlackElo "1116"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-15"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nf3 d5 3. c3 Bd7 4. d4 Nc6 5. Ne5 Nxe5 6. dxe5 dxe4 7. c4 Bc5 8. Be3 Bxe3 9. fxe3 Nh6 10. h3 Nf5 11. g4 Nxe3 12. Qb3 Nxf1 13. Kxf1 Qe7 14. Qa3 Qxa3 15. bxa3 Ba4 16. Nc3 Rd8 17. Nxe4 Rd1+ 18. Ke2 Rxa1 19. Rxa1 Ke7 20. Rb1 Rd8 21. Rxb7 Rd1 22. Nc5 Bd7 23. Rxc7 Ke8 24. Nxd7 Ke7 25. Nf8+ Kxf8 26. Rc8+ 1-0
+

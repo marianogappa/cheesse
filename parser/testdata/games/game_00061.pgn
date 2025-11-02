@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/sHttqpQx"]
+[White "Belerfon"]
+[Black "Goalchessrobot123"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "2144"]
+[BlackElo "2130"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-13"]
+[ECO "B02"]
+[Opening "Alekhine Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. Bc4 Nfd7 6. O-O O-O 7. d3 c6 8. Qe1 b5 9. Qh4 a5 10. Bxf7+ Rxf7 11. Ng5 Nf8 12. Nxf7 Kxf7 13. f5 Kg8 14. fxg6 Nxg6 15. Qh5 Nd7 16. Bh6 Nf6 17. Qg5 Be6 18. Bxg7 Kxg7 19. Rf3 b4 20. Nd1 Qd7 21. Ne3 Rf8 22. Nf5+ Bxf5 23. exf5 h6 24. Qg3 Qe8 25. fxg6 Qxg6 26. Raf1 Qxg3 27. Rxg3+ Kf7 28. Rgf3 Ke6 29. h3 d5 30. Kh2 Kd6 31. g4 Kc5 32. Kg3 Rg8 33. Rxf6 exf6 34. Rxf6 Re8 35. Rxh6 Re2 36. g5 Rxc2 37. g6 Rc1 38. Kg2 Rc2+ 39. Kf3 Rxb2 40. g7 Rd2 41. Rg6 Rxd3+ 42. Kg4 Rd4+ 43. Kh5 Rd3 44. h4 Rh3 45. g8=Q Rd3 46. Qf8+ Kc4 47. Rg4+ Rd4 48. Rxd4+ Kxd4 49. Qb8 c5 50. Qb6 Kc4 51. Qxa5 d4 52. Qa4 d3 53. Qb3+ Kd4 54. a3 c4 55. Qxb4 Ke3 56. a4 d2 57. Qc3+ Ke2 58. Qxc4+ Ke1 59. Qd4 d1=Q+ 60. Qxd1+ Kxd1 61. a5 Kc2 62. a6 Kb3 63. a7 Kb2 64. a8=Q Kc2 65. Qd8 Kb2 66. Kg6 Kc1 67. h5 Kb1 68. h6 Ka2 69. h7 Kb1 70. h8=Q 1-0
+

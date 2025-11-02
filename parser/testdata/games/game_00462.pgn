@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/J6F07EAE"]
+[White "sevyan"]
+[Black "Arba"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:35"]
+[WhiteElo "1508"]
+[BlackElo "1809"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+5"]
+[ECO "C53"]
+[Opening "Italian Game: Classical Variation #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. a4 a6 6. h4 Bg4 7. Qb3 Na5 8. Bxf7+ Kf8 9. Qa2 Bxf3 10. gxf3 Bb6 11. b4 Nc6 12. d3 Qf6 13. Bh5 g6 14. Bg4 h5 15. Bg5 Qf7 16. Qxf7+ Kxf7 17. Bh3 Nge7 18. b5 axb5 19. Bxe7 Kxe7 20. Rg1 Kf6 21. Nd2 bxa4 22. f4 exf4 23. Nf3 a3 24. d4 Ba5 25. Rxa3 Bb4 26. Rxa8 Bxc3+ 27. Ke2 Rxa8 28. Kd3 Ra3 29. Kc4 Ba5 30. Bg2 Ra4+ 31. Kd5 Ne7# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/N6Xd832E"]
+[White "Victorio40"]
+[Black "agspin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:44"]
+[WhiteElo "1677"]
+[BlackElo "1403"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 h6 4. c3 Nf6 5. d3 Be7 6. O-O O-O 7. h3 Nc6 8. Bb3 Na5 9. Bc2 Be6 10. Nh2 d5 11. f4 exf4 12. Bxf4 dxe4 13. dxe4 Qd7 14. Nd2 Nh5 15. Be3 Nc4 16. Nxc4 Bxc4 17. Qxd7 Rad8 1-0
+

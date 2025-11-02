@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3o2ZJR6q"]
+[White "ledofin16"]
+[Black "Adil7182"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:51"]
+[WhiteElo "1327"]
+[BlackElo "1325"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "C67"]
+[Opening "Ruy Lopez: Berlin Defense, Rio Gambit Accepted"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 f5 6. c3 Bc5 7. Rxe4 fxe4 8. b4 exf3 9. bxc5 fxg2 10. Qh5+ g6 11. Qg4 O-O 12. Qxg2 d6 13. Bc4+ Kh8 14. d3 Rf4 15. Bxf4 dxc5 16. Nd2 exf4 17. Nf3 Bf5 18. Ng5 Ne5 19. Bb3 Qxd3 20. Bd5 Qxc3 21. Rb1 Bxb1 22. Bxb7 Rf8 23. Ne6 f3 24. Qg5 Rf5 25. Qd8+ Rf8 26. Qxf8# 1-0
+

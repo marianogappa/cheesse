@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6FZ8GgEv"]
+[White "Pailai"]
+[Black "gusta1975"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:20"]
+[WhiteElo "1534"]
+[BlackElo "1449"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 h6 4. c3 Nf6 5. Qb3 d5 6. exd5 Qe7 7. O-O Bg4 8. Be2 Qd7 9. c4 Bc5 10. Qd3 O-O 11. Nc3 Bf5 12. Nxe5 Bxd3 13. Nxd7 Bxe2 14. Nxf8 Bxf1 15. Kxf1 Kxf8 16. d3 Nbd7 17. Bf4 Bd6 18. Bxd6+ cxd6 19. Re1 Re8 20. Nb5 Rxe1+ 21. Kxe1 a6 22. Nxd6 Nc5 23. d4 Nd3+ 24. Ke2 Nxb2 25. c5 Nxd5 26. Nxb7 Nf4+ 27. Kf3 Ne6 28. c6 Nxd4+ 29. Ke4 Nxc6 30. Kd5 Ne7+ 31. Kc5 Nd3+ 32. Kd4 Nxf2 33. Nd6 Ng4 34. h3 Nf6 35. Kc5 Nd7+ 36. Kb4 Nd5+ 37. Ka5 Nc3 38. a3 Nc5 39. Kb4 Nb1 40. Kxc5 Nxa3 41. Kb6 Ke7 42. Ne4 f5 43. Nf2 g5 44. Kxa6 Ke6 45. Ka5 Ke5 46. Kb4 Nc2+ 47. Kc3 Ne3 48. g3 Nf1 49. g4 f4 50. Kd3 Ng3 51. Nd1 h5 52. gxh5 Nxh5 53. Ke2 Ke4 54. Nc3+ Kf5 55. Kf3 Nf6 56. Ne2 Ne4 57. Nd4+ Ke5 58. Ne2 Ng3 59. Ng1 Kf5 60. Ne2 Nf1 61. Nd4+ Kg6 62. Ne2 Nd2+ 63. Kg4 Ne4 64. Nd4 Nf6+ 65. Kf3 Nd5 66. Ne6 Kf5 67. Nd4+ Kg6 68. Ne6 Nf6 69. Nd4 Nh5 70. Kg4 Ng3 71. Ne6 Ne4 72. Nd4 Nf2+ 73. Kf3 Nxh3 74. Kg4 Nf2+ 75. Kf3 Nd3 76. Ke4 Kh5 77. Nf5 Kg4 78. Nh6+ Kh5 79. Kxd3 Kxh6 80. Ke4 Kh5 81. Kf3 Kh4 82. Ke4 Kg3 83. Kf5 g4 84. Kg5 f3 85. Kf5 f2 86. Ke4 f1=Q 87. Kd5 Qd1+ 88. Ke5 Qe1+ 89. Kd4 Qe4+ 90. Kc3 Qc4+ 91. Kd2 Qc2+ 92. Kxc2 1/2-1/2
+

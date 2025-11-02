@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/M5sVmZ4k"]
+[White "mertsondal"]
+[Black "aGrig"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:10"]
+[WhiteElo "1511"]
+[BlackElo "2056"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+1"]
+[ECO "C36"]
+[Opening "King's Gambit Accepted, Abbazia Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 d5 3. exd5 exf4 4. Nf3 Nf6 5. d4 Nxd5 6. Nc3 Bb4 7. Bd2 Bxc3 8. Bxc3 O-O 9. Qd3 Re8+ 10. Be2 Ne3 11. Rc1 Bf5 12. Bd2 Bxd3 13. Bxe3 Rxe3 0-1
+

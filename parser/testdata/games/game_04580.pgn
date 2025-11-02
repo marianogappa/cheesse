@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/uN7Q8364"]
+[White "tmmm"]
+[Black "yessidd"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:28"]
+[WhiteElo "1341"]
+[BlackElo "1709"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 e6 3. Nf3 h6 4. d5 exd5 5. exd5 Qa5+ 6. c3 cxd5 7. Bd2 Nf6 8. c4 Qb6 9. cxd5 Nxd5 10. Qc2 Bc5 11. Bc3 O-O 12. Bc4 Re8+ 13. Kd2 Bxf2 14. Bxd5 Qe3+ 15. Kd1 d6 16. Be1 Bg4 17. Bxf2 Bxf3+ 18. gxf3 Qf4 19. Bxb7 Na6 20. Bxa8 Rxa8 21. Qc6 Rb8 22. Qxa6 Qxf3+ 23. Kc2 Qxf2+ 24. Nd2 Qf5+ 25. Kc1 Rc8+ 26. Kd1 Qg4+ 27. Ke1 Re8+ 28. Kf1 Qf4+ 29. Kg2 Qxd2+ 30. Kh3 Re3+ 31. Kg4 Qd4+ 32. Kf5 Re5# 0-1
+

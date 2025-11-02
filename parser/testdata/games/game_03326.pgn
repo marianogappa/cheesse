@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/CPhDNeOt"]
+[White "JustTraining"]
+[Black "ihatechessboricua"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:34"]
+[WhiteElo "2065"]
+[BlackElo "1823"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. e4 b6 2. d3 Bb7 3. f4 g6 4. Nf3 Bg7 5. e5 f6 6. exf6 Nxf6 7. Nc3 O-O 8. Ne4 d5 9. Nxf6+ Bxf6 10. Be2 Bh8 11. O-O e5 12. fxe5 d4 13. c3 dxc3 14. bxc3 Bxf3 15. Bxf3 c6 16. d4 Nd7 17. Bxc6 Rc8 18. Bxd7 Qxd7 19. Qd3 Rxf1+ 20. Qxf1 b5 21. Qd3 Qc6 22. Be3 Rf8 23. Rf1 Rxf1+ 24. Kxf1 Qe6 25. Bf4 Qf7 26. Qf3 Qxa2 27. Qe2 Qa1+ 28. Kf2 Qxc3 29. Be3 Qc6 30. Qf3 Bg7 31. Qxc6 a5 32. Qxb5 a4 33. Qxa4 Bf8 34. Qa8 Kg7 35. Qd5 Be7 36. Qe4 Bg5 37. d5 Bxe3+ 38. Kxe3 g5 39. d6 g4 40. g3 h5 41. h3 h4 42. hxg4 hxg3 43. Qg2 Kf7 44. Qxg3 Ke6 45. Qf3 Kd7 46. Qf5+ Kc6 47. e6 Kxd6 48. e7 1-0
+

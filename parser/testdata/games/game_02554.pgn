@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/DFJYPt7I"]
+[White "BishopFingers"]
+[Black "sbarbier"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:42"]
+[WhiteElo "1583"]
+[BlackElo "1550"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense: Ragozin Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 e6 4. Nf3 Bb4 5. Bg5 Bxc3+ 6. bxc3 h6 7. Bh4 g5 8. Bg3 Ne4 9. Qc2 Nxg3 10. hxg3 Qf6 11. e4 dxe4 12. Qxe4 Nc6 13. d5 Ne7 14. Bd3 exd5 15. cxd5 Bf5 16. Qc4 Bxd3 17. Qxd3 O-O-O 18. Nd4 Rxd5 19. O-O Nc6 20. Qe3 Nxd4 21. cxd4 Qxd4 22. Qe7 Rd7 23. Qf6 Qxf6 24. Rac1 c6 25. Rb1 Rd2 26. Rb3 Rxa2 27. Rfb1 Qxf2+ 28. Kh1 Qxg2# 0-1
+

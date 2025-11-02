@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/q4UHDQMZ"]
+[White "jabady101"]
+[Black "axadon"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:03"]
+[WhiteElo "1873"]
+[BlackElo "1906"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "B11"]
+[Opening "Caro-Kann Defense: Two Knights Attack, Mindeno Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. d4 Nf6 5. Bd3 dxe4 6. Nxe4 Bxf3 7. Qxf3 Qxd4 8. Be3 Qe5 9. O-O Nxe4 10. Bxe4 Nd7 11. Bf4 Qf6 12. Rad1 e5 13. Qd3 O-O-O 14. Be3 Nc5 15. Bf5+ Kc7 16. Qxd8+ Qxd8 17. Rxd8 Kxd8 18. Rd1+ Kc7 19. Bxc5 Bxc5 20. Rd7+ Kb6 21. Rxf7 g6 22. Bd3 Rd8 23. g3 a6 24. Rxh7 Rf8 25. Kg2 Rxf2+ 26. Kh3 g5 27. Rg7 Be3 28. Re7 g4+ 29. Kxg4 Rxh2 30. Rxe5 Bd4 31. Re4 c5 32. c3 Bg7 33. Re6+ Ka7 34. Kg5 Rxb2 35. g4 Bxc3 36. Kg6 Rxa2 37. g5 Rg2 38. Re7 a5 39. Be4 Rd2 40. Rxb7+ 1-0
+

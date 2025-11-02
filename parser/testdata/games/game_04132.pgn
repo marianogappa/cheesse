@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/aQvdA3IJ"]
+[White "kylerd"]
+[Black "Napoleon22"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:46"]
+[WhiteElo "1058"]
+[BlackElo "1423"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+3"]
+[ECO "C42"]
+[Opening "Russian Game: Urusov Gambit"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nxe4 4. Nxe5 d5 5. Bd3 Qe7 6. f4 f6 7. Nf3 Nc3+ 8. Kf2 Nxd1+ 9. Rxd1 Bg4 10. Re1 Bxf3 11. Rxe7+ Bxe7 12. gxf3 Nc6 13. Nc3 Nb4 14. Nxd5 Bd6 15. Nc3 Nxd3+ 16. Ke3 Nxf4 17. Kf2 Nh3+ 18. Kg2 Nf4+ 19. Kf1 c6 20. d3 Nd5 21. Be3 Nxe3+ 22. Ke2 Nxc2 23. Rg1 Bxh2 24. Rxg7 Nd4+ 25. Ke3 Nf5+ 26. Ke4 Nxg7 27. Ne2 Be5 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fgQFQIKb"]
+[White "godlikebeing"]
+[Black "dmondius"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:37"]
+[WhiteElo "1617"]
+[BlackElo "1635"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+13"]
+[ECO "A40"]
+[Opening "Modern Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 Nc6 4. Nf3 d6 5. d5 Ne5 6. Nxe5 dxe5 7. e4 f5 8. Bd3 fxe4 9. Bxe4 Bf5 10. Qe2 Qd7 11. Bd2 Nf6 12. O-O-O Nxe4 13. Nxe4 O-O 14. Nc5 Qe8 15. Bc3 b6 16. Ne6 Bxe6 17. dxe6 Qa4 18. Kb1 Rad8 19. b3 Qc6 20. Bxe5 Bxe5 21. Qxe5 Qxg2 22. Rdg1 Qxf2 23. Qxc7 Rd2 24. Qe5 Rf5 25. Qc3 Rf3 26. Qe5 Re3 27. Qb8+ Kg7 28. Rf1 0-1
+

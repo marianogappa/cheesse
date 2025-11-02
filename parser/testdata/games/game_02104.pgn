@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Bur1sm9h"]
+[White "falcon118"]
+[Black "Checkers-is-better"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:51"]
+[WhiteElo "1454"]
+[BlackElo "1470"]
+[WhiteRatingDiff "+25"]
+[BlackRatingDiff "-12"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation #3"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.13] } 1... e6 { [%eval 0.23] } 2. e4 { [%eval 0.14] } 2... d5 { [%eval 0.12] } 3. e5 { [%eval -0.07] } 3... f6?! { [%eval 0.66] } 4. exf6?! { [%eval -0.25] } 4... Nxf6 { [%eval -0.04] } 5. Bg5 { [%eval -0.45] } 5... Be7 { [%eval -0.36] } 6. Bd3 { [%eval -0.59] } 6... O-O { [%eval -0.33] } 7. Bxf6?! { [%eval -1.11] } 7... Bxf6 { [%eval -1.09] } 8. Qh5? { [%eval -2.41] } 8... g6 { [%eval -2.2] } 9. Qd1? { [%eval -3.93] } 9... Nc6? { [%eval -1.93] } 10. c3 { [%eval -2.1] } 10... e5 { [%eval -1.85] } 11. Nf3? { [%eval -3.46] } 11... e4 { [%eval -3.62] } 12. Ne5? { [%eval -5.18] } 12... Nxe5? { [%eval -4.13] } 13. dxe5 { [%eval -4.32] } 13... Bxe5 { [%eval -4.26] } 14. Bc2?! { [%eval -4.77] } 14... Qf6? { [%eval -2.9] } 15. Qe2?! { [%eval -3.47] } 15... Be6 { [%eval -3.25] } 16. Na3? { [%eval -6.14] } 16... Rf7? { [%eval -3.73] } 17. Nb5?! { [%eval -4.65] } 17... c6 { [%eval -4.19] } 18. Nd4 { [%eval -4.26] } 18... Bxd4 { [%eval -4.1] } 19. cxd4 { [%eval -4.18] } 19... Qxd4 { [%eval -3.95] } 20. O-O { [%eval -4.02] } 1-0
+

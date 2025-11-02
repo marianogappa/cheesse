@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OPbq8JOC"]
+[White "Barkilphedro"]
+[Black "Br0b"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:23"]
+[WhiteElo "1205"]
+[BlackElo "1045"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[ECO "C64"]
+[Opening "Ruy Lopez: Classical Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. Bxc6 bxc6 5. Nxe5 d5 6. Nxc6 dxe4 7. Nxd8 Kxd8 8. Qg4 Nf6 9. Qxg7 Ng4 10. Qxh8+ Ke7 11. O-O c6 12. Qxh7 Bb7 13. Qxe4+ Kd6 14. Qxg4 Bxf2+ 15. Kxf2 Kc5 16. Qf5+ Kb6 17. Qxf7 Ba6 18. Nc3 Bxf1 19. Kxf1 Kc5 20. Ne4+ Kd4 21. d3 Rb8 22. Qxa7+ Ke5 23. Qxb8+ Kd4 24. Qd6# 1-0
+

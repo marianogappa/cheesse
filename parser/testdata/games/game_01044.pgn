@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/oxQPo85s"]
+[White "gr_vlasov"]
+[Black "chizness"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:51"]
+[WhiteElo "1231"]
+[BlackElo "1167"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-8"]
+[ECO "A40"]
+[Opening "Englund Gambit"]
+[TimeControl "900+10"]
+[Termination "Normal"]
+
+1. d4 e5 2. dxe5 d5 3. Nf3 Bg4 4. h3 Bxf3 5. exf3 Qe7 6. f4 Qb4+ 7. Bd2 Qxb2 8. Bc3 Qb6 9. Bd4 Qh6 10. g3 Qc6 11. Nc3 Bc5 12. Bb5 Qxb5 13. Nxb5 Bxd4 14. Qxd4 c6 15. Nd6+ Kd7 16. Nxf7 1-0
+

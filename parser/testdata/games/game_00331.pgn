@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nxDJicwE"]
+[White "AntonAnshukov"]
+[Black "sharkingg44"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:05"]
+[WhiteElo "1328"]
+[BlackElo "1277"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "B00"]
+[Opening "Goldsmith Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 h5 2. Nf3 e6 3. Bc4 h4 4. c3 h3 5. gxh3 Rxh3 6. d4 d6 7. Ng5 Rh4 8. Qf3 Nh6 9. Bf4 Nc6 10. Bg3 Rg4 11. h3 Rxg5 12. h4 Rg4 13. Bf4 Rxh4 14. Rxh4 Qxh4 15. Nd2 e5 16. dxe5 Bg4 17. Qg3 Qh1+ 18. Nf1 Bf3 19. Bxh6 gxh6 20. Be2 Qh5 21. Bxf3 Qxe5 22. O-O-O Qa5 23. Kb1 Ne5 24. Rd5 Qa6 25. Nd2 Nd3 26. Bh5 O-O-O 27. Rxd3 Re8 28. Bg4+ Kb8 29. c4 c5 30. Ra3 b6 31. Rxa6 Bg7 32. Qxd6+ Kb7 33. Bf5 Kxa6 34. Qd7 Re5 35. Qb5+ Kb7 36. Nb3 Rxf5 37. exf5 Bd4 38. Na5+ Kc7 39. Qe8 f6 40. Qf7+ Kd6 41. Qxa7 Ke5 42. Qxb6 Kxf5 43. Nc6 h5 44. Nxd4+ cxd4 45. Qc5+ Kf4 46. Qxd4+ Kf3 47. Qxf6+ Kg2 48. Qg5+ Kxf2 49. Qxh5 Ke3 50. c5 Kd4 51. c6 Kc4 52. c7 Kd3 53. c8=Q Ke3 54. Qce8+ Kd2 55. Qd5# 1-0
+

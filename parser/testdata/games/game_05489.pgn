@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gLaMOUSc"]
+[White "byGarooh"]
+[Black "pberty"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:07"]
+[WhiteElo "1098"]
+[BlackElo "1006"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+3"]
+[ECO "C58"]
+[Opening "Italian Game: Two Knights Defense, Polerio Defense, Bishop Check Line"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.29] } 1... e5 { [%eval 0.39] } 2. Nf3 { [%eval 0.37] } 2... Nc6 { [%eval 0.34] } 3. Bc4 { [%eval 0.2] } 3... Nf6 { [%eval 0.31] } 4. Ng5 { [%eval 0.28] } 4... d5 { [%eval 0.28] } 5. exd5 { [%eval 0.26] } 5... Na5 { [%eval 0.29] } 6. Bb5+ { [%eval 0.06] } 6... c6 { [%eval 0.27] } 7. dxc6 { [%eval 0.02] } 7... bxc6 { [%eval 0.1] } 8. Ba4?! { [%eval -0.88] } 8... Nd5? { [%eval 0.9] } 9. c3?? { [%eval -2.69] } 9... Qxg5 { [%eval -2.58] } 10. b4?? { [%eval -11.58] } 10... Nb7?? { [%eval 2.89] } 11. Bxc6+ { [%eval 2.78] } 11... Kd8?! { [%eval 3.49] } 12. Qa4?? { [%eval -5.72] } 12... Qxg2 { [%eval -5.6] } 13. Rf1 { [%eval -5.7] } 13... Qe4+ { [%eval -5.59] } 14. Kd1 { [%eval -5.71] } 14... Qg4+? { [%eval -3.54] } 15. Ke1?? { [%eval -6.63] } 15... Qe4+? { [%eval -5.58] } 16. Kd1 { [%eval -5.75] } 16... Qg4+? { [%eval -3.55] } 17. Ke1? { [%eval -6.1] } 17... Qe4+?? { [%eval 0.0] } 18. Kd1 { [%eval -5.74] } 1/2-1/2
+

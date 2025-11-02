@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vt9NDStW"]
+[White "sgray10"]
+[Black "maslov1991"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:26"]
+[WhiteElo "1261"]
+[BlackElo "1132"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Gubinsky-Melts Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 e5 5. d4 exd4 6. Nb5 Qe7+ 7. Be2 Na6 8. Bg5 f6 9. Bf4 c6 10. Nbxd4 g5 11. Bg3 h5 12. h4 g4 13. Nd2 f5 14. Nxf5 Bxf5 15. O-O Nh6 16. Re1 Nb4 17. Bd3 Bxd3 18. Rxe7+ Bxe7 19. cxd3 Nxd3 20. Qe2 O-O-O 21. Qxe7 Nf5 22. Qe4 Nxg3 23. fxg3 Rhe8 24. Qf5+ Rd7 25. Qxh5 Re1+ 26. Nf1 Rxa1 27. Qe8+ Rd8 28. Qe6+ Rd7 29. h5 Nc5 30. Qg8+ Rd8 31. Qxg4+ Nd7 32. h6 Rxa2 33. Qg7 Ra5 34. h7 Rh5 35. g4 Rh4 36. Ne3 a5 37. Nf5 Rxh7 38. Qxh7 b5 39. g5 a4 40. g6 Nf6 41. Qf7 Nd5 42. Ne7+ Nxe7 43. Qxe7 Rd7 44. Qe6 Kc7 45. Qe5+ Rd6 46. g7 Kc8 47. g8=Q+ 1-0
+

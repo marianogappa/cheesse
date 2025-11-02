@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eo2Or4F5"]
+[White "DavidBrodin"]
+[Black "leslie1966"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:28"]
+[WhiteElo "1868"]
+[BlackElo "1867"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Max Lange Attack, Spielmann Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d4 exd4 6. e5 Ng4 7. Bf4 Qe7 8. c3 dxc3 9. Nxc3 O-O 10. h3 Nxf2 11. Rxf2 Bxf2+ 12. Kxf2 Qc5+ 0-1
+

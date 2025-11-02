@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/7GYYAsE2"]
+[White "ataei"]
+[Black "nicotom"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:56"]
+[WhiteElo "1566"]
+[BlackElo "1859"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+5"]
+[ECO "C79"]
+[Opening "Ruy Lopez: Morphy Defense, Steinitz Deferred"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.15] } 1... e5 { [%eval 0.25] } 2. Nf3 { [%eval 0.27] } 2... Nc6 { [%eval 0.21] } 3. Bb5 { [%eval 0.31] } 3... a6 { [%eval 0.33] } 4. Ba4 { [%eval 0.23] } 4... d6 { [%eval 0.43] } 5. O-O { [%eval 0.37] } 5... Nf6 { [%eval 0.4] } 6. Re1 { [%eval 0.25] } 6... g6?! { [%eval 0.8] } 7. c3 { [%eval 0.38] } 7... b5 { [%eval 0.4] } 8. Bb3 { [%eval 0.23] } 8... Na5 { [%eval 0.61] } 9. Bc2 { [%eval 0.72] } 9... Bg4 { [%eval 0.67] } 10. d4 { [%eval 0.74] } 10... Bg7 { [%eval 0.79] } 11. Bg5?! { [%eval 0.26] } 11... O-O?! { [%eval 0.87] } 12. Nbd2 { [%eval 0.41] } 12... Qe8 { [%eval 0.87] } 13. h3 { [%eval 0.75] } 13... Bxf3 { [%eval 0.89] } 14. Nxf3 { [%eval 0.75] } 14... exd4 { [%eval 1.14] } 15. cxd4 { [%eval 1.12] } 15... c5 { [%eval 1.21] } 16. Qd2?! { [%eval 0.37] } 16... Nc4 { [%eval 0.37] } 17. Qc3?! { [%eval -0.39] } 17... cxd4 { [%eval -0.42] } 18. Qxd4 { [%eval -0.68] } 18... Nh5 { [%eval -0.38] } 19. Qd5 { [%eval -0.47] } 19... Nxb2? { [%eval 0.79] } 20. g4?! { [%eval -0.2] } 20... Nf6 { [%eval -0.11] } 21. Qb3? { [%eval -1.21] } 21... Nc4 { [%eval -1.09] } 22. a4?! { [%eval -1.62] } 22... Ne5? { [%eval -0.54] } 23. Nxe5 { [%eval -0.55] } 23... Qxe5 { [%eval -0.64] } 24. axb5? { [%eval -3.51] } 24... Qxg5 { [%eval -3.02] } 25. bxa6?! { [%eval -3.56] } 25... Rfb8 { [%eval -3.24] } 26. Qd3?! { [%eval -3.87] } 26... Nd7 { [%eval -3.77] } 27. Ra4? { [%eval -5.5] } 27... Nc5 { [%eval -4.95] } 28. Ra5?? { [%eval -14.47] } 28... Nxd3 { [%eval -13.94] } 29. Rxg5 { [%eval -13.72] } 29... Nxe1 { [%eval -12.87] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bB3F6bW5"]
+[White "evigel"]
+[Black "John_McClane"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:19"]
+[WhiteElo "2489"]
+[BlackElo "2374"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+15"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c3 g6 3. Bf4 Bg7 4. e3 O-O 5. h3 d6 6. Nf3 Nc6 7. Be2 Re8 8. O-O Bf5 9. Bh2 e5 10. Re1 Bxb1 11. Rxb1 exd4 12. cxd4 a6 13. Rc1 Ne4 14. Qc2 Rc8 15. a3 Ng5 16. Nxg5 Qxg5 17. Bg4 f5 18. Bf3 Nd8 19. Bxd6 c6 20. Bg3 Nf7 21. b4 h5 22. d5 cxd5 23. Qxc8 Rxc8 24. Rxc8+ Kh7 25. Bxd5 f4 26. Bxf7 fxg3 27. f4 Qf6 28. Bg8+ Kh6 29. Rc2 Qb6 30. Bd5 Bf8 31. Kf1 Bd6 32. Ke2 Qb5+ 33. Bc4 Qc6 34. Kd1 b5 35. Bf1 Qd5+ 36. Kc1 Be7 37. Rd1 Qe4 38. Rd3 Bf6 39. Kd2 Qe7 40. Rc5 Bg7 41. Rcd5 Qf6 42. Rc5 Qb2+ 43. Rc2 Qa1 44. Be2 Bb2 45. Bf3 Bxa3 46. Rd6 Bxb4+ 47. Kd3 Bxd6 48. Rc6 Qa3+ 49. Ke4 Be7 50. f5 Qb4+ 51. Kd5 Qb3+ 52. Ke4 Qb1+ 53. Kd4 Qxf5 54. Be4 Bf6+ 55. Kd3 Qe5 56. Rxf6 Qxf6 57. Bxg6 Qxg6+ 0-1
+

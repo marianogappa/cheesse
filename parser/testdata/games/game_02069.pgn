@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dfnoJNYd"]
+[White "Thevenyn"]
+[Black "betyarkorte"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:47"]
+[WhiteElo "1625"]
+[BlackElo "1516"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Herrstrom Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 g5 2. Nxg5 e6 3. Nf3 d5 4. b3 Nc6 5. Bb2 f6 6. e3 Bg7 7. Nc3 Bd7 8. d4 Qe7 9. Bd3 O-O-O 10. Qd2 Nb4 11. Na4 Nxd3+ 12. Qxd3 h5 13. Nc5 Bc6 14. c4 b6 15. Na4 Bxa4 16. bxa4 Qb4+ 17. Bc3 Qxa4 18. O-O Qxc4 19. Qc2 Ne7 20. Rab1 h4 21. Rb4 Qc6 22. Rfb1 h3 23. g3 Nf5 24. a4 a5 25. Rb5 Rdg8 26. Qb2 Bf8 27. Rc1 Qd7 28. Bd2 Nd6 29. Rxb6 Nc4 30. Rb8# 1-0
+

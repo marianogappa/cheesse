@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/QzOlEdcX"]
+[White "Good_Cheater"]
+[Black "Chandra-PW"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:13"]
+[WhiteElo "2258"]
+[BlackElo "2350"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "A80"]
+[Opening "Dutch Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 f5 2. c3 g6 3. Nf3 Bg7 4. Bg5 Nf6 5. Nbd2 O-O 6. Bxf6 exf6 7. e4 d5 8. exf5 Bxf5 9. Be2 Re8 10. O-O Nd7 11. Re1 Nb6 12. Nb3 c6 13. Bd3 Bg4 14. h3 Rxe1+ 15. Qxe1 Bxf3 16. gxf3 Qd6 17. Kg2 Nd7 18. Qe2 a5 19. Re1 a4 20. Nc1 Kf7 21. a3 Bf8 22. Bc2 Kg7 23. Nd3 Kf7 24. Qe3 Qe7 25. h4 Qxe3 26. fxe3 Nb6 27. e4 Nc4 28. Bb1 dxe4 29. fxe4 Kg7 30. Ba2 Nd6 31. e5 fxe5 32. Nxe5 Nf5 33. Kh3 Be7 34. Rf1 Bf6 35. Ng4 Re8 36. Rf3 Re2 37. Rf2 Rxf2 38. Nxf2 Bxh4 39. Ne4 Be7 40. Kg4 Nd6 41. Kg3 Nxe4+ 0-1
+

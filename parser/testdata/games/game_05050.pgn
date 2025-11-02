@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/QZCQgMAq"]
+[White "rinardo"]
+[Black "nakulma13"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:27"]
+[WhiteElo "1910"]
+[BlackElo "1959"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "A40"]
+[Opening "Modern Defense"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. d4 g6 2. e3 Bg7 3. Be2 Nf6 4. Nf3 O-O 5. O-O d5 6. c3 c5 7. b3 cxd4 8. cxd4 Nc6 9. Ba3 Re8 10. Bc5 b6 11. Ba3 e5 12. Bb2 e4 13. Ne5 Nxe5 14. dxe5 Nd7 15. f4 f6 16. exf6 Bxf6 17. Qc1 Nc5 18. Nc3 Nd3 19. Bxd3 exd3 20. Qd2 Bf5 21. Nd1 Bxb2 22. Nxb2 Be4 23. Nxd3 Qh4 24. Ne5 Rxe5 25. fxe5 Qg5 26. Rf4 Qxe5 27. Raf1 Re8 28. Rf6 d4 29. exd4 Qd5 30. Rf8+ 1-0
+

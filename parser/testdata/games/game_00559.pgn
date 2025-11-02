@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/PONYjHfo"]
+[White "DerHandschuh"]
+[Black "yesindeed"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:01"]
+[WhiteElo "1774"]
+[BlackElo "1748"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "D55"]
+[Opening "Queen's Gambit Declined: Anti-Tartakower Variation"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.25] } 1... d5 { [%eval 0.21] } 2. c4 { [%eval 0.2] } 2... e6 { [%eval 0.24] } 3. Nc3 { [%eval 0.22] } 3... Nf6 { [%eval 0.41] } 4. Bg5 { [%eval 0.1] } 4... Be7 { [%eval 0.24] } 5. e3 { [%eval 0.05] } 5... O-O { [%eval 0.25] } 6. Nf3 { [%eval 0.11] } 6... h6 { [%eval 0.19] } 7. Bxf6 { [%eval 0.02] } 7... Bxf6 { [%eval 0.06] } 8. cxd5 { [%eval -0.03] } 8... exd5 { [%eval 0.0] } 9. Qb3 { [%eval -0.16] } 9... c6 { [%eval -0.11] } 10. Bd3 { [%eval -0.18] } 10... b5 { [%eval 0.13] } 11. O-O { [%eval 0.13] } 11... Bg4?! { [%eval 0.68] } 12. Nd2 { [%eval 0.23] } 12... Qd6 { [%eval 0.22] } 13. Rfc1 { [%eval 0.34] } 13... Bd8 { [%eval 0.74] } 14. Bf1?! { [%eval -0.25] } 14... Bc7 { [%eval 0.0] } 15. g3 { [%eval 0.03] } 15... Qg6? { [%eval 2.37] } 16. Nxb5? { [%eval 0.87] } 16... cxb5? { [%eval 2.4] } 17. Rxc7 { [%eval 2.42] } 17... a6? { [%eval 3.89] } 18. Qxd5 { [%eval 3.67] } 18... Nd7?! { [%eval 4.25] } 19. Rxd7 { [%eval 4.13] } 19... Bxd7 { [%eval 4.08] } 20. Qxd7 { [%eval 4.04] } 20... Qc2 { [%eval 4.06] } 21. Nb3 { [%eval 3.9] } 21... Qxb2 { [%eval 3.95] } 22. Qf5 { [%eval 3.67] } 22... Rfb8? { [%eval 4.99] } 23. Rc1? { [%eval 3.56] } 23... Qxa2 { [%eval 3.73] } 24. Rc7?? { [%eval -1.12] } 24... Qxb3 { [%eval -0.5] } 25. Bd3?! { [%eval -1.25] } 25... g6 { [%eval -1.25] } 26. Qf6 { [%eval -1.68] } 26... Qe6 { [%eval -1.29] } 27. Qf3 { [%eval -1.04] } 27... b4?? { [%eval 13.53] } 28. Bc4?? { [%eval 1.76] } 28... Qf5 { [%eval 1.94] } 29. Qd5?? { [%eval -2.64] } 0-1
+

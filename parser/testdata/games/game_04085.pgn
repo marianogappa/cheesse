@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/arvmhWVl"]
+[White "Marek89"]
+[Black "marcus_01"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:37"]
+[WhiteElo "1697"]
+[BlackElo "1578"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nf3 Na5 5. Bb3 Nxb3 6. axb3 d6 7. Nc3 Be6 8. Be3 Be7 9. Bxa7 c6 10. Be3 Ng4 11. O-O Nxe3 12. fxe3 O-O 13. d4 exd4 14. exd4 Qc8 15. Ra3 f5 16. Qa1 fxe4 17. Nxe4 d5 18. Rxa8 Qb8 19. Rxb8 1-0
+

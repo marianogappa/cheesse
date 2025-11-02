@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wg0sJXB5"]
+[White "OhNoItsJoe"]
+[Black "kingshu"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:33"]
+[WhiteElo "1348"]
+[BlackElo "1328"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. d3 Be6 4. g3 c5 5. Nbd2 Nc6 6. Bg2 Qd7 7. O-O O-O-O 8. b3 f6 9. Bb2 Nge7 10. c3 g5 11. d4 cxd4 12. cxd4 exd4 13. Nxd4 Nxd4 14. Bxd4 Bg7 15. Rc1+ Kb8 16. b4 Nc6 17. e5 Nxd4 18. Nc4 fxe5 19. Na5 Bxa2 20. Nxb7 Nb3 21. Rc4 Na5 22. Nxd8 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bNBrcZlR"]
+[White "Sallahallam1970"]
+[Black "Febapol"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:22"]
+[WhiteElo "1977"]
+[BlackElo "1943"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation, Open"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 d5 5. Bb5+ Bd7 6. exd5 Bxb5 7. Nxb5 exd5 8. Qxd5 Na6 9. Qxb7 Qc8 10. Qxa6 Qxc2 11. O-O Bc5 12. Qc6+ Kf8 13. Qxa8+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/o4554yM6"]
+[White "bcaa"]
+[Black "davidelohim"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:32"]
+[WhiteElo "1349"]
+[BlackElo "1296"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-13"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d3 c6 5. Bd2 e6 6. Nge2 Qd8 7. Ng3 b5 8. Qe2 Bb7 9. O-O-O a5 10. Nce4 a4 11. d4 a3 12. b3 Na6 13. Nc5 Nc7 14. Nxb7 Qe7 15. Nc5 Nd5 16. Nge4 f5 17. Bg5 Qa7 18. Bh4 fxe4 19. Qxe4 Ndf6 20. Qxe6+ Be7 21. Bd3 h6 22. Rhe1 g5 23. Bg6+ Kd8 24. Qxc6 gxh4 25. Ne6# 1-0
+

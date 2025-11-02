@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/zqxGzhjp"]
+[White "cnnfoxmsn1"]
+[Black "stungar"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:35"]
+[WhiteElo "1459"]
+[BlackElo "1491"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 Nf6 3. Qf3 e6 4. Nh3 d5 5. exd5 exd5 6. Bb5+ Bd7 7. Bxd7+ Qxd7 8. O-O Nc6 9. Re1+ Be7 10. Nc3 d4 11. Nb5 a6 12. Na3 b6 13. Nc4 Rb8 14. Ne5 Nxe5 15. Rxe5 O-O 16. d3 Bd6 17. Re2 Rbe8 18. Rxe8 Rxe8 19. Bg5 Re6 20. Qa8+ Bf8 21. Nf4 Re8 22. Qxa6 Re5 23. h4 Qe7 24. Qxb6 Re1+ 25. Rxe1 Qxe1+ 26. Kh2 Qxf2 27. a4 Ng4+ 28. Kh3 Ne3 29. a5 h6 30. Bd8 Qxf4 31. Qc7 Qg4+ 32. Kh2 Qxg2# 0-1
+

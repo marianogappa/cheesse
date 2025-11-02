@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/X7Le2uf2"]
+[White "Ubbo"]
+[Black "abracadrabra"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:25"]
+[WhiteElo "1539"]
+[BlackElo "1793"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 e6 4. c3 h6 5. d4 cxd4 6. cxd4 d6 7. d5 Ne5 8. Bb5+ Bd7 9. Nxe5 dxe5 10. Bxd7+ Qxd7 11. O-O exd5 12. Qxd5 Qd6 13. Nc3 Nf6 14. Qb5+ Qd7 15. Rd1 Qxb5 16. Nxb5 Rc8 17. f3 a6 18. Nd6+ Bxd6 19. Rxd6 O-O 20. Bd2 Rfd8 21. Rxd8+ Rxd8 22. Bc3 Re8 23. Rd1 Kf8 24. g3 Ng8 25. Rd7 Re7 26. Rxe7 Kxe7 27. Bxe5 f6 28. Bf4 Kd7 29. e5 f5 30. Kg2 Ke6 31. g4 g5 32. gxf5+ Kxf5 33. Bg3 h5 34. h4 gxh4 35. Bxh4 Kxe5 36. Kg3 Nh6 37. f4+ Kf5 38. Bg5 Nf7 39. Kh4 Kg6 40. f5+ Kxf5 41. Kxh5 Nxg5 42. Kh6 Ne4 43. Kg7 Ke6 44. Kf8 Nd6 45. b3 b5 46. a3 Kd5 47. Ke7 Kc6 48. Kd8 Nb7+ 49. Kc8 Na5 50. b4 Nc4 51. Kb8 Kb6 52. Kc8 Nxa3 53. Kd7 Nc2 54. Kd6 Nxb4 55. Ke5 Kc5 56. Ke4 Kc4 57. Ke3 Kc3 58. Ke2 a5 59. Ke3 a4 60. Ke4 a3 0-1
+

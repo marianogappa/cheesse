@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cAYrkbPX"]
+[White "greenmate"]
+[Black "MaddestMind"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:40"]
+[WhiteElo "1590"]
+[BlackElo "1659"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 h6 3. Nf3 d6 4. h3 Qf6 5. O-O Be7 6. Re1 Qg6 7. Kh1 Nf6 8. d3 Nh5 9. a3 Nf4 10. Bxf4 exf4 11. Nc3 Nd7 12. Nd5 Bd8 13. Nxf4 Qf6 14. Qc1 c6 15. Nh5 Qg6 16. Ng3 Ne5 17. Nxe5 dxe5 18. Qe3 Bg5 19. Qf3 Bf4 20. Nh5 O-O 21. Nxf4 exf4 22. Qxf4 Be6 23. Ba2 Bxa2 24. Rxa2 f5 25. e5 Qe6 26. Raa1 g5 27. Qc4 Qxc4 28. dxc4 Rfe8 29. Rad1 Re6 30. Rd6 Rxd6 31. exd6 Rd8 32. Rd1 Kf7 33. Kg1 Ke6 34. c5 b6 35. b4 a5 36. c3 axb4 37. cxb4 bxc5 38. bxc5 Ra8 39. Rd3 Kd7 40. Kf1 Ra5 41. Rc3 Rb5 42. Ke2 Rb2+ 43. Ke3 Rb5 44. Kd3 Rb2 45. Rc2 Rb3+ 46. Rc3 Rb5 47. Kc2 Rb8 48. Rb3 Ra8 49. Kc3 Re8 50. Rb2 g4 51. hxg4 fxg4 52. a4 h5 53. a5 h4 54. a6 g3 55. fxg3 hxg3 56. a7 Ra8 57. Rb6 Rxa7 58. Rb7+ Rxb7 0-1
+

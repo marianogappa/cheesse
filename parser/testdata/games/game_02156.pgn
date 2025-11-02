@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ATpsYGQp"]
+[White "Streetsmate"]
+[Black "Ch4mp"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:09"]
+[WhiteElo "1762"]
+[BlackElo "1662"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+13"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Blackburne Gambit"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 c6 3. dxc6 Nxc6 4. Nc3 Nf6 5. Nf3 Bg4 6. Be2 Bxf3 7. Bxf3 e6 8. Bxc6+ bxc6 9. Qf3 Qc7 10. O-O Bd6 11. Nb5 Qd7 12. Nxd6+ Qxd6 13. d3 O-O 14. Bf4 Qd5 15. Qg3 Nh5 16. Qg5 Nxf4 17. Qxf4 Rab8 18. b3 a5 19. Rfe1 c5 20. Re5 Qd4 21. Qxd4 cxd4 22. Rxa5 Rfc8 23. Rc1 f6 24. Ra4 e5 25. Rc4 Rd8 26. a4 Kf7 27. g3 h6 28. Kg2 Ke6 29. a5 Kd5 30. b4 Rdc8 31. Rxc8 Rxc8 32. Rb1 Ra8 33. f4 Kc6 34. fxe5 fxe5 35. Kf3 Kb5 36. Ke4 Re8 37. Kd5 g6 38. Rb3 Rd8+ 39. Kxe5 Re8+ 40. Kxd4 Rd8+ 41. Ke3 Re8+ 42. Kd2 Rf8 43. Rb2 Rf2+ 0-1
+

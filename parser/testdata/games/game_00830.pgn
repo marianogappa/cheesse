@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jRb6RVDe"]
+[White "Washburn"]
+[Black "Acron"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:06"]
+[WhiteElo "2400"]
+[BlackElo "2241"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+22"]
+[ECO "D92"]
+[Opening "Gruenfeld Defense: Three Knights Variation, Hungarian Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. Rc1 c6 7. e3 Bg4 8. h3 Bxf3 9. Qxf3 e6 10. Bd3 Nbd7 11. O-O Re8 12. Rfd1 Qb6 13. Rc2 dxc4 14. Bxc4 e5 15. dxe5 Nxe5 16. Bxe5 Rxe5 17. Rd6 Rf5 18. Qe2 Bf8 19. Rd1 Rd8 20. Rcd2 Rxd2 21. Qxd2 Kg7 22. Bb3 Bb4 23. Qd3 Bxc3 24. Qxc3 Qc5 25. Qxc5 Rxc5 26. Rd8 Rc1+ 27. Kh2 Rb1 28. Rb8 Rxb2 29. f3 b5 30. Rc8 Nd5 31. Re8 a5 32. Kg3 a4 33. Bxd5 cxd5 34. Rb8 b4 35. Rb5 Kf6 36. Kf4 Ke6 37. Rb6+ Kd7 38. Ke5 Kc7 39. Rb5 Kc6 40. Rb8 a3 41. g4 Kc5 42. Rc8+ Kb5 43. Rb8+ Kc4 44. Rc8+ Kd3 45. Kxd5 Rxa2 46. Rb8 Rb2 47. e4 a2 48. Ra8 b3 49. e5 Ke3 50. f4 Kxf4 51. Kd6 Rb1 52. Ra4+ Kg5 53. Ke7 a1=Q 54. Re4 Re1 55. Rc4 Qxe5+ 56. Kf8 Qe7+ 57. Kg7 f5+ 58. Kg8 Qe8+ 59. Kg7 Re7# 0-1
+

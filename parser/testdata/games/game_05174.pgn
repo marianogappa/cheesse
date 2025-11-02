@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/53HBgnbM"]
+[White "geetanshkumar"]
+[Black "Tanatosik"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:55"]
+[WhiteElo "1591"]
+[BlackElo "1763"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. h3 h6 4. Bc4 Nf6 5. d3 a6 6. a3 Nc6 7. Nc3 b5 8. Ba2 Be6 9. Be3 Be7 10. Qd2 Bxa2 11. Rxa2 d5 12. exd5 Nxd5 13. Nxd5 Qxd5 14. Ra1 O-O-O 15. O-O f5 16. Qe1 f4 17. Bd2 Bf6 18. Rc1 Nd4 19. c4 bxc4 20. dxc4 Nxf3+ 21. gxf3 Qxd2 22. Qe4 Kb8 23. Qc6 Qa5 0-1
+

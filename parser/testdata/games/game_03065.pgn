@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/2TJRLzxt"]
+[White "r1nghio"]
+[Black "janderclandr"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:27"]
+[WhiteElo "1273"]
+[BlackElo "1286"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e3 e5 2. Nc3 d5 3. e4 c6 4. d4 f6 5. dxe5 fxe5 6. exd5 Bb4 7. Qh5+ Kf8 8. Qxe5 Ne7 9. Bg5 h6 10. Bxe7+ Bxe7 11. Nf3 Nd7 12. Qf5+ Kg8 13. Bc4 Nf6 14. Qg6 Bd7 15. d6+ Nd5 16. dxe7 Qxe7+ 17. Ne2 Re8 18. O-O Be6 19. Bxd5 cxd5 20. Rae1 Bf7 21. Qf5 g6 22. Qd3 g5 23. Nc3 Qd7 24. Rxe8+ Qxe8 25. Nxd5 g4 26. Nh4 Kg7 27. Nf5+ Kg8 28. Nde7+ Kf8 29. Re1 Bg6 30. Nxg6+ Kf7 31. Rxe8 Rxe8 32. Nd6+ 1-0
+

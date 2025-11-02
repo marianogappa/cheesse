@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/kEn24k5l"]
+[White "subiquetellevo"]
+[Black "tolia"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:08"]
+[WhiteElo "1618"]
+[BlackElo "1805"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "A43"]
+[Opening "Old Benoni Defense"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. d4 c5 2. Nf3 cxd4 3. Nxd4 Nc6 4. g3 e5 5. Nxc6 bxc6 6. Bg2 d5 7. O-O f5 8. c4 e4 9. cxd5 cxd5 10. Nc3 Nf6 11. Bg5 Be6 12. Rc1 Be7 13. Nb5 O-O 14. Nc7 Qd7 15. Nxa8 Rxa8 16. Qd4 h6 17. Bf4 g5 18. Be5 Kf7 19. Rc7 Qd8 20. Rfc1 Kg6 21. e3 Ng4 22. h3 Nxe5 23. Qxe5 Qd6 24. Qxd6 Bxd6 25. Rb7 f4 26. exf4 gxf4 27. Rb3 f3 28. Bf1 Be5 29. Rb7 d4 30. b3 e3 31. fxe3 dxe3 32. Bd3+ Bf5 33. Bxf5+ Kxf5 34. g4+ Kf4 35. Rf7+ Kg3 36. Rc2 e2 37. Rc1 Bd4+ 38. Kh1 f2 39. Rxf2 Kxf2 40. h4 e1=Q+ 41. Rxe1 Kxe1 42. g5 hxg5 43. hxg5 Rg8 44. Kg2 Rxg5+ 45. Kf3 Bg7 46. Ke4 Ra5 47. b4 Rxa2 48. b5 Rb2 49. b6 Rxb6 50. Kd3 Kf2 51. Kc4 Kf3 52. Kc5 Ke4 53. Kc4 Rc6+ 54. Kb5 Kd5 55. Kb4 Rb6+ 56. Ka3 Kc4 57. Ka2 Kc3 58. Ka1 Kc2+ 59. Ka2 Ra6# 0-1
+

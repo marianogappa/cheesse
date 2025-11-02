@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/trJWJC8G"]
+[White "Lvictor"]
+[Black "klunkerkoenig"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:59"]
+[WhiteElo "1935"]
+[BlackElo "1951"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "B09"]
+[Opening "Pirc Defense: Austrian Attack, Dragon Formation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. dxc5 Qa5 7. Bd2 Qxc5 8. h3 Nh5 9. g4 Ng3 10. Rh2 Nxf1 11. Kxf1 O-O 12. Qe2 Nc6 13. Be3 Qb4 14. Rb1 Bxc3 15. a3 Qa5 16. bxc3 Qxc3 17. Qd3 Qxd3+ 18. cxd3 b6 19. Nd4 Nxd4 20. Bxd4 Bd7 21. Be3 Rac8 22. Ke2 Rc2+ 23. Bd2 Rfc8 24. h4 a5 25. Ke3 b5 26. h5 b4 27. hxg6 hxg6 28. axb4 axb4 29. Rxb4 Rxd2 30. Kxd2 Bxg4 31. Rb7 Kf8 32. Rxe7 Kxe7 33. Rh7 Rh8 34. Rh3 Rxh3 35. Kc3 Rh2 0-1
+

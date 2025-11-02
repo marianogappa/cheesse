@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/B3Br3B8z"]
+[White "cieza1012"]
+[Black "diqunia"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:01"]
+[WhiteElo "1889"]
+[BlackElo "2038"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[ECO "B34"]
+[Opening "Sicilian Defense: Accelerated Dragon, Modern Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 d6 7. Qd2 Nf6 8. f3 Nxd4 9. Bxd4 O-O 10. O-O-O Be6 11. g4 a6 12. h4 h5 13. gxh5 Nxh5 14. Bxg7 Nxg7 15. Bh3 Qd7 16. Bxe6 Qxe6 17. Rdg1 Nh5 18. Qg5 Qe5 19. Qh6 Qf4+ 20. Qxf4 Nxf4 21. h5 Kg7 22. hxg6 fxg6 23. Kd2 Rh8 24. Ke3 e5 25. Ne2 Ne6 26. c4 Rxh1 27. Rxh1 Rc8 28. b3 b5 29. cxb5 axb5 30. Rc1 Ra8 31. Rc2 Nc5 32. Nc3 Kh6 33. Nxb5 Nb7 34. Nc7 Ra6 35. Nd5 Nc5 36. b4 Ne6 37. Rb2 Ra3+ 38. Kf2 Nd4 39. b5 Rxf3+ 40. Kg2 Rf8 41. b6 Rb8 42. b7 Ne6 43. a4 Nc5 44. a5 g5 45. Rb6 Kh5 46. a6 Nxa6 47. Rxa6 Rxb7 48. Rxd6 Rb2+ 49. Kf3 Rb3+ 50. Ke2 Kg4 51. Re6 Rb2+ 52. Kd3 Rb3+ 53. Kc4 Rb1 54. Rxe5 Rc1+ 55. Kb5 Rb1+ 56. Kc6 Rc1+ 57. Kd6 Rd1 58. Rf5 Kh4 59. e5 g4 60. e6 Re1 61. e7 g3 62. Re5 Rxe5 63. e8=Q g2 64. Qxe5 g1=Q 65. Qe1+ Qxe1 0-1
+

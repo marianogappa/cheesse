@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/pVw0hg9F"]
+[White "Perramus"]
+[Black "marco_ifmt_tga"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:48"]
+[WhiteElo "1817"]
+[BlackElo "1742"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+14"]
+[ECO "C50"]
+[Opening "Italian Game: Hungarian Defense"]
+[TimeControl "1200+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nf3 Be7 4. O-O Nf6 5. d3 O-O 6. c3 d5 7. exd5 Nxd5 8. b4 Bg4 9. h3 Bh5 10. Bb2 f5 11. Re1 Kh8 12. Nbd2 Nf6 13. Qc1 e4 14. Ng5 Qd6 15. dxe4 Nxe4 16. Ngxe4 fxe4 17. Nxe4 Qe5 18. Ng3 Bg5 19. Rxe5 Bxc1 20. Rxh5 Bxb2 21. Rb1 Bxc3 22. Bd3 g6 23. Bxg6 Bd4 24. Rxh7+ Kg8 25. Ne4 Ne5 26. Rc1 Nxg6 27. Rcxc7 Rae8 28. Ng3 Re1+ 29. Kh2 Rxf2 30. Rcd7 Bb2 31. Rh6 Nf4 32. h4 Rxg2# 0-1
+

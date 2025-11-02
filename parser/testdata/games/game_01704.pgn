@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oCLFAdhj"]
+[White "Dollar-USD"]
+[Black "mehrsam_esm1395"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:29"]
+[WhiteElo "1644"]
+[BlackElo "1704"]
+[WhiteRatingDiff "-24"]
+[BlackRatingDiff "+8"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 d6 4. O-O Be6 5. d3 Bxc4 6. dxc4 Nf6 7. Nc3 Be7 8. Re1 O-O 9. Nd5 Nd7 10. Be3 f5 11. exf5 Rxf5 12. Qd3 Rh5 13. Nxe7+ Qxe7 14. Qd5+ Kh8 15. h4 Nf6 16. Qd3 e4 17. Qd2 exf3 18. g3 Qe6 19. Bg5 Qh3 0-1
+

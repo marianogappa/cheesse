@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/056hbKw4"]
+[White "putman"]
+[Black "ivanoporpora"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:52"]
+[WhiteElo "1555"]
+[BlackElo "1573"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-11"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 d6 2. e4 g6 3. Nc3 Bg7 4. Bf4 Nf6 5. Nf3 O-O 6. Bd3 Nc6 7. d5 Ne5 8. Bxe5 dxe5 9. Nxe5 Nxd5 10. Nxd5 Bxe5 11. O-O Bxb2 12. Rb1 Bg7 13. f4 c6 14. Ne3 Qd4 15. Qe2 Qc5 16. Kh1 Bd4 17. Nc4 Be6 18. f5 Bxc4 19. Bxc4 Qe5 20. Rbd1 c5 21. Bd3 g5 22. Qg4 h6 23. h4 f6 24. hxg5 fxg5 25. Bc4+ Kh7 26. Qh5 Qf6 27. Rc1 Be5 28. Rcd1 a6 29. Be6 b5 30. Bd5 Rad8 31. g4 e6 32. fxe6 Qxf1+ 33. Rxf1 Rxf1+ 34. Kg2 Rc1 35. Qf7+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IUZxeiw6"]
+[White "Bloch32"]
+[Black "xandinho"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:20"]
+[WhiteElo "1441"]
+[BlackElo "1427"]
+[WhiteRatingDiff "-97"]
+[BlackRatingDiff "+9"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. Bc4 a6 4. c3 Qc7 5. Bb3 Nc6 6. d4 cxd4 7. cxd4 Bb4+ 8. Bd2 Bxd2+ 9. Nbxd2 Nge7 10. O-O O-O 11. Re1 b5 12. Nf1 Bb7 13. Ng3 h6 14. Qd2 Rac8 15. Rac1 Rfe8 16. d5 exd5 17. exd5 Nxd5 18. Qxd5 Rxe1+ 19. Rxe1 Nb4 20. Qxf7+ Kh7 21. a3 Nd3 22. Re8 Rxe8 23. Qxe8 Qc1+ 24. Ne1 Nxe1 25. Nf1 Bxg2 26. Qg8+ Kg6 27. Qf7+ Kh7 28. Qg8+ Kg6 29. Qf7+ Kg5 30. Qd5+ Bxd5 31. Bxd5 Kf4 32. Bg2 Nxg2 33. Kxg2 Qxb2 34. Ne3 Qxa3 35. Nf1 b4 36. Nd2 b3 37. Nxb3 Qxb3 0-1
+

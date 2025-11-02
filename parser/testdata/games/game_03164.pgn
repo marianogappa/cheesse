@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/yqTzvs6E"]
+[White "REISSEVDALISI666"]
+[Black "kevinlukajj"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:57"]
+[WhiteElo "1259"]
+[BlackElo "1491"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+4"]
+[ECO "C45"]
+[Opening "Scotch Game: Alekhine Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. e5 Nxe5 6. Bg5 Be7 7. Nf5 d6 8. Nxg7+ Kf8 9. Ne6+ Bxe6 10. Bh6+ Kg8 11. f4 Neg4 12. f5 Bxf5 13. Qd2 Nxh6 14. Qxh6 Ng4 15. Qg5+ Bxg5 0-1
+

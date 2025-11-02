@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zZqI3imh"]
+[White "Henrique_Brz"]
+[Black "basgitlan"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:00"]
+[WhiteElo "1479"]
+[BlackElo "1537"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "B00"]
+[Opening "Caro-Kann Defense: Hillbilly Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. Bc4 d5 3. exd5 cxd5 4. Bb5+ Bd7 5. Bxd7+ Nxd7 6. Nc3 Nb6 7. Nf3 Nf6 8. O-O e6 9. d4 Be7 10. Be3 Nc4 11. Bc1 Qc7 12. b3 Nd6 13. Bb2 Nde4 14. Nxe4 Nxe4 15. c4 dxc4 16. bxc4 Qxc4 17. Rc1 Qb5 18. Ne5 Qxb2 19. Rc2 Qb5 20. Qf3 Qd5 21. Rc7 Nf6 22. Qc3 Bd6 23. Rc8+ Rxc8 24. Qxc8+ Ke7 25. Qxh8 Bxe5 26. dxe5 Qxe5 27. Qc8 Ng4 28. g3 h5 29. Qxb7+ Kf6 30. Qxa7 h4 31. Qa4 Nh6 32. f4 Qe3+ 33. Kh1 hxg3 34. hxg3 Qxg3 35. Qd4+ Kf5 36. Qe5+ Kg4 37. Rg1 Qxg1+ 38. Kxg1 Nf5 39. a4 g5 40. fxg5 Kxg5 41. Qc7 f6 42. a5 Nd4 43. Qc5+ e5 44. a6 f5 45. Qxe5 Nc6 46. Qc7 1-0
+

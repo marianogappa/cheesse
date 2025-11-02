@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/YpWiZyCE"]
+[White "Batdog"]
+[Black "JUVEPERSEMPRE"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:44"]
+[WhiteElo "1603"]
+[BlackElo "1572"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Queen's Gambit Invitation"]
+[TimeControl "480+8"]
+[Termination "Normal"]
+
+1. Nf3 e6 2. Nc3 a6 3. d4 Nf6 4. e4 d6 5. e5 dxe5 6. Nxe5 Bd6 7. Bf4 O-O 8. Bd3 Nbd7 9. Qf3 h6 10. h4 Nh7 11. Qg3 Nxe5 12. dxe5 Be7 13. Bxh6 g6 14. O-O-O Kh8 15. Bxg6 fxg6 16. Rxd8 Rxd8 17. Qxg6 Bf8 18. Ne4 Bxh6+ 19. Qxh6 Rd7 20. Qh5 b6 21. Nf6 Rg7 22. Nxh7 Rxh7 23. Qe8+ Kg7 24. h5 Rh8 25. Qe7+ Kh6 26. Qf6+ Kh7 27. Qg6# 1-0
+

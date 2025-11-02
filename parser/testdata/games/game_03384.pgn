@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/CkqcayNl"]
+[White "su2015"]
+[Black "dawnstar"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:52"]
+[WhiteElo "1838"]
+[BlackElo "1246"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-3"]
+[ECO "A50"]
+[Opening "Queen's Indian Accelerated"]
+[TimeControl "900+10"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 b6 3. Nc3 c5 4. d5 e6 5. e4 Bb7 6. e5 Ng8 7. d6 Nc6 8. Nf3 f6 9. Nb5 fxe5 10. Nc7+ Kf7 11. Ng5+ Kg6 12. Bd3+ Kh6 13. Nf7# 1-0
+

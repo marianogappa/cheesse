@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/FH9NlJe4"]
+[White "Dolmance"]
+[Black "klezerov"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:53"]
+[WhiteElo "1974"]
+[BlackElo "1845"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. Nf3 c5 2. e4 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 a6 7. N5a3 Be6 8. Nc3 Be7 9. Be2 Nf6 10. f3 Nd4 11. Be3 Nc6 12. O-O O-O 13. Qd2 Rc8 14. Rfd1 Qc7 15. Rac1 Qb8 16. Bf1 Nh5 17. g3 Nf6 18. Qf2 Nd4 19. Bxd4 exd4 20. Qxd4 Nd7 21. Nd5 Bxd5 22. cxd5 Nc5 23. b4 Nd7 24. Qd2 Bf6 25. Rxc8 Rxc8 26. Rc1 Ne5 27. Kg2 h6 28. Rxc8+ Qxc8 29. Qc2 Qb8 30. b5 a5 31. b6 Ng6 32. Bb5 Bd8 33. Nc4 Ne5 34. Qa4 Nxc4 35. Qxc4 Bxb6 36. f4 Qc7 37. Qxc7 Bxc7 38. a4 Kf8 39. Kf3 Ke7 40. Ke3 f6 41. h3 Bb6+ 42. Kf3 Bc5 43. g4 b6 44. Kg3 Kf7 45. f5 Bd4 46. Kh4 Be3 47. Kh5 Bg5 48. Bd7 Be3 49. Be6+ Kf8 50. Kg6 Bg5 51. Bd7 Be3 52. h4 Bf4 53. g5 hxg5 54. hxg5 Bxg5 55. e5 dxe5 56. Bb5 Be3 57. d6 Bc5 58. d7 Ke7 59. Kxg7 e4 60. Kg6 Bd4 61. Kh5 e3 62. Kg4 Bc5 63. Kf4 Bd4 64. Ke4 Bc5 65. Kd5 Bb4 66. Kc6 Bc5 67. Kc7 Bd6+ 68. Kc8 1-0
+

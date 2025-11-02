@@ -1,0 +1,19 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/k6qnldLI"]
+[White "labuverr"]
+[Black "BeepBeepImAJeep"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:10"]
+[WhiteElo "1565"]
+[BlackElo "2675"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[BlackTitle "IM"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d3 d5 3. Nf3 dxe4 4. dxe4 Qxd1+ 5. Kxd1 Nc6 6. Be2 Bg4 7. h3 Bh5 8. g4 Bg6 9. h4 Bxe4 10. Nc3 O-O-O+ 11. Ke1 Bxf3 12. Bxf3 Nd4 13. Bg2 Nxc2+ 14. Ke2 Nxa1 15. Bg5 f6 16. Be3 Nc2 17. Bxa7 Nd4+ 18. Ke3 b6 19. Rd1 Bc5 20. Ke4 Ne7 21. Nb5 Nxb5 22. Rxd8+ Rxd8 23. f3 Rd2 24. Bf1 Nd6# 0-1
+

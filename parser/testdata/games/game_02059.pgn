@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/fUdCwU21"]
+[White "Thealbatros"]
+[Black "Goveta"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:44"]
+[WhiteElo "1610"]
+[BlackElo "1785"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-15"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Accelerated Move Order"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. Nf3 f6 5. Bf4 Nd7 6. e3 Bb4 7. Bd3 Ne7 8. O-O O-O 9. a3 Ba5 10. b4 Bc7 11. Bxc7 Qxc7 12. cxd5 exd5 13. Rc1 Qd6 14. e4 b6 15. exd5 Nxd5 16. Nxd5 Qxd5 17. Bc4 Bb7 18. Bxd5+ cxd5 19. Nd2 Rac8 20. Nf3 Rxc1 21. Qxc1 Rc8 22. Qb2 Kf7 23. Rc1 Rxc1+ 24. Qxc1 Ke6 25. Qc7 Ba6 26. Nd2 Bb5 27. Nb3 h6 28. Nd2 g5 29. Qxa7 Bc6 30. Qc7 Bb5 31. Nf3 h5 32. Qd8 h4 33. Qe8+ Kd6 34. Qf7 Kc7 35. Nxg5 fxg5 36. Qg7 Bd3 37. Qxg5 Bc4 38. Qxh4 Kc6 39. Qf4 Kb5 40. h4 Ka4 41. h5 Kxa3 42. h6 Kxb4 43. h7 1-0
+

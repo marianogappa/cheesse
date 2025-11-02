@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ktRCOVaM"]
+[White "bigiggye"]
+[Black "iltagliano"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:28"]
+[WhiteElo "1820"]
+[BlackElo "1841"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "A15"]
+[Opening "English Opening: Anglo-Indian Defense"]
+[TimeControl "600+10"]
+[Termination "Time forfeit"]
+
+1. c4 { [%eval 0.08] } 1... Nf6 { [%eval 0.21] } 2. g3 { [%eval 0.09] } 2... e5 { [%eval 0.08] } 3. Bg2 { [%eval 0.13] } 3... c6 { [%eval 0.14] } 4. Nc3 { [%eval -0.16] } 4... Na6?! { [%eval 0.42] } 5. a3 { [%eval 0.17] } 5... Nc7 { [%eval 0.41] } 6. e4 { [%eval 0.41] } 6... d6 { [%eval 0.37] } 7. Nge2 { [%eval 0.38] } 7... Be7 { [%eval 0.51] } 8. d3 { [%eval 0.23] } 8... O-O { [%eval 0.2] } 9. O-O { [%eval 0.12] } 9... a5 { [%eval 0.17] } 10. f4 { [%eval 0.09] } 10... exf4 { [%eval 0.42] } 11. Bxf4 { [%eval 0.41] } 11... d5 { [%eval 0.71] } 12. exd5 { [%eval 0.48] } 12... Bg4?! { [%eval 1.3] } 13. dxc6 { [%eval 1.29] } 13... Bc5+?? { [%eval 4.68] } 14. Kh1?? { [%eval 1.54] } 14... bxc6 { [%eval 1.62] } 15. Bxc6?! { [%eval 0.93] } 15... Ra6 { [%eval 1.36] } 16. Bg2 { [%eval 1.53] } 16... Re8? { [%eval 2.55] } 17. h3? { [%eval 1.05] } 17... Bf5?? { [%eval 4.52] } 18. Bxc7 { [%eval 4.4] } 18... Qxd3 { [%eval 4.56] } 19. Qxd3?! { [%eval 3.7] } 19... Bxd3 { [%eval 3.6] } 20. Rae1?! { [%eval 3.02] } 20... Rae6?! { [%eval 3.75] } 21. Rxf6? { [%eval 1.32] } 21... gxf6 { [%eval 1.51] } 22. Bf3 { [%eval 1.03] } 22... Bf2? { [%eval 2.18] } 23. Rd1 { [%eval 1.98] } 23... Bxc4?! { [%eval 2.85] } 24. Kg2? { [%eval 0.84] } 24... Bc5? { [%eval 3.08] } 25. Nf4 { [%eval 2.93] } 25... Re3? { [%eval 4.29] } 26. Bxa5 { [%eval 4.09] } 26... Bb3 { [%eval 4.52] } 27. Rd3? { [%eval 3.33] } 27... Re1?? { [%eval 6.49] } 28. Nfe2?? { [%eval 3.27] } 28... Bc4 { [%eval 3.42] } 29. Rd2 { [%eval 3.28] } 29... Kg7 { [%eval 3.43] } 30. b4 { [%eval 3.69] } 30... Be3 { [%eval 3.5] } 31. Rd1 { [%eval 3.15] } 1-0
+

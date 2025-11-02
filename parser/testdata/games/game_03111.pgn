@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/66DP8u1G"]
+[White "gf80"]
+[Black "issammaroc"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:38"]
+[WhiteElo "1511"]
+[BlackElo "1526"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-13"]
+[ECO "C62"]
+[Opening "Ruy Lopez: Steinitz Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. Bxc6+ Bd7 5. Bxd7+ 1-0
+

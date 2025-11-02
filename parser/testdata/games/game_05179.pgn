@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/vsZVEWlz"]
+[White "Paul_McCartney"]
+[Black "carlossen43"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:55"]
+[WhiteElo "1650"]
+[BlackElo "1490"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 b6 2. Nf3 Bb7 3. e5 e6 4. Be2 a6 5. O-O d6 6. d4 dxe5 7. Nxe5 Qf6 8. Bf3 c6 9. Nc3 Bd6 10. Ne4 Bxe5 11. Nxf6+ Bxf6 12. Bf4 Ne7 13. Be5 Bxe5 14. dxe5 O-O 15. Qd6 Nf5 16. Qb4 Nd7 17. Rad1 a5 18. Qc3 Nc5 19. g4 Nh4 20. Bh1 Rac8 21. Rd6 Ne4 22. Bxe4 Ba6 23. Rc1 f5 24. gxf5 exf5 25. Bxc6 Be2 26. Re1 Bf3 27. Qb3+ Kh8 28. Bxf3 Rfd8 29. Red1 Re8 30. Bc6 Rxe5 31. Rd8+ Rxd8 32. Rxd8+ Re8 33. Rxe8# 1-0
+

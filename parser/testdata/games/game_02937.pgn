@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Lfju2i7C"]
+[White "MrPumpkin"]
+[Black "Arbian"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:56"]
+[WhiteElo "1349"]
+[BlackElo "1287"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-9"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.29] } 1... e5 { [%eval 0.35] } 2. Nf3 { [%eval 0.29] } 2... d6 { [%eval 0.28] } 3. d4 { [%eval 0.29] } 3... Bg4 { [%eval 0.74] } 4. dxe5 { [%eval 0.61] } 4... Bxf3 { [%eval 1.04] } 5. Qxf3 { [%eval 0.92] } 5... dxe5 { [%eval 1.22] } 6. Bc4 { [%eval 1.24] } 6... f6?? { [%eval 4.58] } 7. Bd5?? { [%eval 1.17] } 7... c6?! { [%eval 1.72] } 8. Bc4 { [%eval 1.6] } 8... Qa5+?! { [%eval 2.25] } 9. Nc3 { [%eval 2.29] } 9... Qc5?! { [%eval 3.1] } 10. Bd3? { [%eval 1.58] } 10... b5? { [%eval 2.68] } 11. a3?! { [%eval 2.14] } 11... a5?! { [%eval 2.9] } 12. Be3 { [%eval 2.43] } 12... Qd6 { [%eval 2.61] } 13. O-O { [%eval 2.31] } 13... g5?? { [%eval 7.52] } 14. Qh5+ { [%eval 7.08] } 14... Kd7 { [%eval 7.55] } 15. Rad1? { [%eval 6.54] } 15... Qe6?? { [%eval 25.58] } 16. Bc4+ { [%eval 24.27] } 16... Qd6?! { [%eval #9] } 17. Rxd6+?! { [%eval 17.63] } 17... Kxd6?! { [%eval #6] } 18. Qf7 { [%eval #5] } 18... Nd7 { [%eval #3] } 19. Bb3?! { [%eval 16.52] } 19... Nh6?! { [%eval #3] } 20. Qe6+?! { [%eval #9] } 20... Kc7 { [%eval #9] } 21. Rd1 { [%eval #8] } 21... Rd8 { [%eval #8] } 22. g3?! { [%eval 15.16] } 22... Bc5 { [%eval 18.44] } 23. Bxc5 { [%eval 18.25] } 23... Nxc5 { [%eval 18.06] } 24. Qe7+ { [%eval 17.64] } 24... Kc8 { [%eval 17.67] } 25. Be6+ { [%eval 14.42] } 25... Nxe6 { [%eval 14.18] } 26. Qxe6+ { [%eval 13.95] } 26... Kc7 { [%eval 13.76] } 27. Qxf6 { [%eval 11.56] } 27... b4 { [%eval 14.46] } 28. axb4 { [%eval 13.97] } 28... axb4?! { [%eval #8] } 29. Nd5+?! { [%eval 20.38] } 29... cxd5 { [%eval 17.72] } 30. Rxd5 { [%eval 11.44] } 30... Ng4?! { [%eval #5] } 31. Qe7+ { [%eval #4] } 31... Kb6 { [%eval #4] } 32. Qxb4+ { [%eval #3] } 32... Kc6 { [%eval #3] } 33. Qc4+ { [%eval #2] } 33... Kb6 { [%eval #2] } 34. Rb5+ { [%eval #1] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/9sC4jeDe"]
+[White "tuggygs"]
+[Black "elvis_alltech"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:56"]
+[WhiteElo "1648"]
+[BlackElo "1492"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nf3 Bg7 3. Bc4 Nc6 4. Ng5 e6 5. d3 Ne5 6. Bb3 a5 7. a3 b5 8. O-O a4 9. Ba2 f5 10. Nc3 b4 11. Nb5 Ba6 12. Nd4 bxa3 13. bxa3 d5 14. Ngxe6 Qd7 15. exf5 Ne7 16. Nxg7+ Kf7 17. Nge6 Nxf5 18. Ng5+ Ke8 19. Nde6 c6 20. Bb2 Qd6 21. Qe2 d4 22. Qe4 Bb7 23. Bxd4 Nxd4 24. Nxd4 Kd7 25. Rfe1 Rhe8 26. Nde6 Rab8 27. Qxe5 Qxe5 28. Rxe5 Bc8 29. Nc5+ Kc7 30. Rxe8 Kb6 31. Nce4 Kb7 32. Nd6+ Kc7 33. Nxc8 Rxc8 34. Rxc8+ Kxc8 35. Re1 Kc7 36. Nxh7 Kb6 37. g4 Kb5 38. h4 Kc5 39. h5 gxh5 40. gxh5 Kd4 41. h6 Kc3 42. Nf8 Kb2 43. h7 Kxa2 44. h8=Q Kxa3 45. Qc3+ Ka2 46. Ra1# 1-0
+

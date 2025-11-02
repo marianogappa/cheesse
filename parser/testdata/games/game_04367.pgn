@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3995Q1f6"]
+[White "Oderfla"]
+[Black "MinoUB2015"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:49"]
+[WhiteElo "1689"]
+[BlackElo "1699"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C42"]
+[Opening "Petrov's Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. d3 h6 4. Nxe5 Bb4+ 5. c3 Ba5 6. Nc4 Nc6 7. b4 Bb6 8. Nxb6 axb6 9. Be2 O-O 10. O-O Re8 11. Bf3 Ne5 12. Be3 d6 13. Be2 Bg4 14. Bxg4 Nfxg4 15. f3 Nxe3 16. Qe2 Nxf1 17. Qxf1 Qg5 18. Na3 Qe3+ 19. Kh1 Nxd3 20. Nc2 Qd2 21. Nd4 Qxc3 22. Nf5 Nxb4 23. Rc1 Qd3 24. Qe1 Nxa2 25. Rxc7 Rec8 26. Rxc8+ Rxc8 27. Ne7+ Kf8 28. Nxc8 Qc3 29. Qxc3 Nxc3 30. Nxb6 g5 31. Kg1 h5 32. Kf2 h4 33. h3 Ke7 34. Nc4 b5 35. Nb2 b4 36. Ke3 b3 37. Kd3 Na4 38. Nxa4 Ke6 39. Kc4 Ke5 40. Kd3 Kf4 41. Ke2 Kg3 42. Kf1 Kf4 43. Nc3 f5 44. exf5 Kxf5 45. Ke2 Kf4 46. Ne4 d5 47. Nd2 b2 48. Nb1 Kg3 49. Kf1 d4 50. Nd2 Kf4 51. Ke2 Kg3 52. Kf1 d3 53. Nb1 Kf4 54. Kf2 Ke5 55. Ke3 d2 56. Nxd2 Kf6 57. f4 gxf4+ 58. Kxf4 Ke6 59. Kg4 Kd5 60. Kxh4 Kd4 61. g4 Kc3 62. Nb1+ Kc2 63. Na3+ Kb3 64. Nb1 Kc2 65. Na3+ Kb3 66. Nb1 Ka2 67. Nd2 Ka3 68. Nc4+ Kb3 69. Nxb2 Kxb2 70. g5 Kc3 71. g6 Kd4 72. g7 Ke3 73. g8=Q Kd4 74. Qe8 Kc3 75. Kg4 Kd4 76. Kf4 Kc3 77. Qd8 Kb4 78. Ke4 Kc4 79. Qc8+ Kb3 80. Kd3 Kb4 81. h4 Kb3 82. Qb8+ Ka3 83. Kc4 Ka2 84. Kc3 Ka1 85. Kc2 Ka2 86. Qa7# 1-0
+

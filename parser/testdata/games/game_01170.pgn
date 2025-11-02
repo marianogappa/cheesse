@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ovKcLfvd"]
+[White "Milosch"]
+[Black "micru"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:22"]
+[WhiteElo "1755"]
+[BlackElo "1681"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "C20"]
+[Opening "Bishop's Opening: Boi Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Bc5 3. d3 h6 4. h3 Nf6 5. c3 d5 6. exd5 Nxd5 7. Ne2 Nf4 8. Nxf4 exf4 9. Bxf4 O-O 10. O-O Be6 11. Bb3 Bxb3 12. axb3 a5 13. d4 Bd6 14. Be3 Nc6 15. Qg4 Ne7 16. Bxh6 Ng6 17. Bg5 f6 18. Be3 Qe8 19. Nd2 a4 20. bxa4 f5 21. Qf3 Ra5 22. Nc4 Ra6 23. b3 f4 24. Bd2 Nh4 25. Qxb7 Qg6 26. Nxd6 Rxd6 27. Rae1 c6 28. g4 Nf3+ 29. Kg2 Nxd2 30. Rg1 f3+ 31. Kh2 Qg5 32. Qc7 Rh6 33. Qd6 Rxd6 34. Re5 Qf4+ 35. Rg3 Nf1+ 0-1
+

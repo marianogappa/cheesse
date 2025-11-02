@@ -1,0 +1,19 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/in4Na0Ff"]
+[White "AA8128"]
+[Black "karas11"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:40"]
+[WhiteElo "2141"]
+[BlackElo "2132"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[WhiteTitle "NM"]
+[ECO "E85"]
+[Opening "King's Indian Defense: Saemisch Variation, Orthodox Variation"]
+[TimeControl "600+2"]
+[Termination "Normal"]
+
+1. c4 { [%eval -0.02] } 1... Nf6 { [%eval 0.27] } 2. Nc3 { [%eval 0.0] } 2... g6 { [%eval 0.43] } 3. e4 { [%eval 0.35] } 3... Bg7 { [%eval 0.67] } 4. d4 { [%eval 0.65] } 4... O-O { [%eval 0.66] } 5. f3 { [%eval 0.3] } 5... d6 { [%eval 0.48] } 6. Be3 { [%eval 0.31] } 6... e5 { [%eval 0.43] } 7. Nge2 { [%eval 0.47] } 7... exd4 { [%eval 0.35] } 8. Nxd4 { [%eval 0.49] } 8... Nc6 { [%eval 0.47] } 9. Be2 { [%eval 0.41] } 9... Bd7 { [%eval 0.53] } 10. O-O { [%eval 0.3] } 10... a6 { [%eval 0.3] } 11. a4 { [%eval 0.1] } 11... Re8 { [%eval 0.06] } 12. a5 { [%eval 0.16] } 12... Nxd4 { [%eval 0.57] } 13. Bxd4 { [%eval 0.46] } 13... Qe7 { [%eval 0.54] } 14. b4 { [%eval 0.44] } 14... c5 { [%eval 0.55] } 15. Be3? { [%eval -2.1] } 15... cxb4 { [%eval -1.96] } 16. Nd5 { [%eval -2.19] } 16... Nxd5 { [%eval -2.01] } 17. cxd5?! { [%eval -2.68] } 17... Bxa1 { [%eval -2.38] } 18. Qxa1 { [%eval -2.31] } 18... Rac8 { [%eval -2.32] } 19. Bd4?! { [%eval -3.19] } 19... Qf8? { [%eval -1.82] } 20. Rb1? { [%eval -3.37] } 20... Rc2? { [%eval -1.77] } 21. Bf1? { [%eval -3.52] } 21... Rec8 { [%eval -4.13] } 22. Rxb4? { [%eval -5.33] } 22... Rc1 { [%eval -4.81] } 23. Rb1?? { [%eval -8.25] } 23... Qh6 { [%eval -7.1] } 24. Bb2? { [%eval -8.24] } 24... Qe3+ { [%eval -8.02] } 25. Kh1 { [%eval -7.67] } 25... R1c2?? { [%eval -3.31] } 26. Bh8 { [%eval -3.19] } 26... Qh6 { [%eval -3.41] } 27. Rxb7?? { [%eval -18.7] } 27... Rc1 { [%eval -15.43] } 28. Rb1 { [%eval -59.09] } 28... Rxb1 { [%eval -22.84] } 29. Qxb1 { [%eval -18.26] } 29... Kxh8? { [%eval -8.99] } 30. Bxa6? { [%eval #-5] } 30... Rc1+ { [%eval #-4] } 0-1
+

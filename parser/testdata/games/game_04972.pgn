@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lBrHowt5"]
+[White "Blackway"]
+[Black "jdmariategui"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:11"]
+[WhiteElo "1937"]
+[BlackElo "1895"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 Bf5 3. Bf4 e6 4. e3 c5 5. c3 c4 6. b3 b5 7. a4 bxa4 8. bxc4 dxc4 9. Bxc4 Nd7 10. Bb5 Nf6 11. Qxa4 Be7 12. Ne5 a6 13. Bxd7+ Nxd7 14. Nc6 Qb6 15. Nxe7 Kxe7 16. O-O Rhc8 17. Qa3+ Ke8 18. Nd2 Nf6 19. f3 Bd3 20. Rfe1 Qc6 21. Rac1 Nd5 22. Bg3 Nxc3 23. Bh4 f6 24. Kf2 Kf7 25. Nb3 Nb5 26. Qb2 Qd5 27. e4 Qh5 28. Bg3 Bc4 29. Na5 Bd3 30. Nc6 Nc7 31. Red1 Bb5 32. Rc5 Qg6 33. Rdc1 Kf8 34. Qa3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eG8If9tc"]
+[White "TheHideous"]
+[Black "marinaigor"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:20"]
+[WhiteElo "1279"]
+[BlackElo "1382"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-14"]
+[ECO "B06"]
+[Opening "Modern Defense: Mongredien Defense #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 b6 4. e5 Bb7 5. Nc3 d6 6. Bf4 dxe5 7. dxe5 Qxd1+ 8. Nxd1 Bxf3 9. gxf3 Nd7 10. Bb5 O-O-O 11. Bxd7+ Rxd7 12. Ne3 Kb7 13. O-O f6 14. exf6 Bxf6 15. Rfd1 Rxd1+ 16. Rxd1 Bxb2 17. Rd7 Nf6 18. Rxc7+ Ka6 19. Rxe7 Rf8 20. Bd6 Rd8 21. Nc4 Bd4 22. Be5 Bxe5 23. Nxe5 Rd2 24. Rc7 Kb5 25. c4+ Kb4 26. Nc6+ Kxc4 27. Nxa7+ Kb4 28. Rc6 Rxa2 29. Rxf6 Rxa7 30. Rxb6+ Kc4 31. f4 Kd4 32. Rb4+ Kd3 33. Kf1 Ra1+ 34. Kg2 Ra3 35. Kg3 Ke2+ 36. Kg2 Kd3 37. Kg3 Kc3 38. Re4 Kd3 39. Re3+ Kc4 40. Rxa3 Kd4 41. Ra4+ Kd5 42. Ra7 h6 43. Rh7 h5 44. Rh6 Ke6 45. Rxg6+ Kf5 46. Rg5+ Kf6 47. Rxh5 Kg6 48. f5+ Kxh5 49. f6 Kg6 50. Kf4 Kxf6 51. h4 Kg6 52. Kg4 Kh6 53. f4 Kg6 54. h5+ Kh6 55. f5 Kg7 56. Kg5 Kf7 57. h6 Ke7 58. f6+ Kd6 59. Kg6 Ke6 60. f7 Ke5 61. f8=Q Ke4 62. h7 Ke3 63. h8=Q Ke4 64. Qe8+ Kf4 65. Qf6+ Kg4 66. Qe4+ Kg3 67. Qg5+ Kf2 68. Qgf5+ Kg3 69. Qeg4+ Kh2 70. Qfh5# 1-0
+

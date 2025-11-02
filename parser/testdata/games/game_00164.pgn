@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Syd7c3uk"]
+[White "nunkin"]
+[Black "Cowlinn"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:26"]
+[WhiteElo "1206"]
+[BlackElo "1234"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. d4 Nf6 4. Nf3 Bg4 5. Be2 e6 6. Nc3 Qd8 7. O-O Bb4 8. Na4 O-O 9. h3 Bxf3 10. Bxf3 c6 11. c3 Ba5 12. b4 Bc7 13. Bg5 h6 14. Bh4 Qd7 15. Bxf6 gxf6 16. Bh5 Qd6 17. g3 Rd8 18. Nc5 b6 19. Ne4 Qe7 20. Qg4+ Kf8 21. Qf4 Bxf4 0-1
+

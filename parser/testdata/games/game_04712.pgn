@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/G8UMUet3"]
+[White "tripero2000"]
+[Black "Boksy"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:08"]
+[WhiteElo "1268"]
+[BlackElo "1160"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted, MacLeod Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 exf4 4. d4 Nf6 5. Nc3 Ng4 6. Bc4 Ne3 7. Qe2 Nxc4 8. Qxc4 Bb4 9. O-O d5 10. exd5 Bxc3 11. bxc3 Na5 12. Qa4+ c6 13. dxc6 b6 14. Re1+ Be6 15. c7+ Qd7 16. Qxd7+ Kxd7 17. d5 Bxd5 18. Bxf4 Nc4 19. Ne5+ Nxe5 20. Bxe5 Rae8 21. h3 f6 22. c8=Q+ Kxc8 23. Bg3 Rxe1+ 24. Rxe1 Bxa2 25. Re3 a5 26. c4 Bxc4 27. Rc3 b5 28. Ra3 a4 29. Be1 Re8 30. Kf2 Re2+ 31. Kf1 Rxc2+ 32. Kg1 Bd5 33. Bf2 h5 34. Rd3 Rc1+ 35. Kh2 Bc4 36. Rd6 Rf1 37. Rc6+ Kd7 38. Ra6 Rxf2 39. Ra7+ Ke6 40. Ra6+ Kf7 41. Ra7+ Kf8 42. Ra8+ Kf7 43. Ra7+ Kf8 44. Ra8+ Kf7 45. Rh8 Bd5 46. Rxh5 Rxg2+ 47. Kh1 Rg5+ 48. Kh2 Rxh5 49. Kg3 f5 50. h4 g6 51. Kf4 g5+ 52. hxg5 Rh4+ 53. Kxf5 Be6+ 54. Ke5 Rg4 0-1
+

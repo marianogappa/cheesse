@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/I7JD6udc"]
+[White "DSNiPER"]
+[Black "Philand"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:58"]
+[WhiteElo "1226"]
+[BlackElo "1249"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+9"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Accelerated Mannheim Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. Qa4+ Bd7 4. Qxc4 Nf6 5. e3 a6 6. Qb3 b5 7. Nc3 Bf5 8. h3 Ne4 9. Nxe4 Bxe4 10. Bd3 Bc6 11. e4 Qxd4 12. Nf3 Qa4 13. Qxa4 bxa4 14. Ne5 Bb5 15. Bxb5+ axb5 16. Bf4 f6 17. Nd3 c6 18. Nc5 e5 19. Be3 Bxc5 20. Bxc5 Nd7 21. Bd6 c5 22. O-O-O Ra6 23. Rd2 Kf7 24. Rhd1 Ke6 25. g4 Rc8 26. Rd3 Rcc6 27. Bf8 Nxf8 28. h4 Rd6 29. Rxd6+ Rxd6 30. Rxd6+ Kxd6 31. Kd2 g5 32. h5 h6 33. Ke3 Ne6 34. Kd3 c4+ 35. Kc3 Nd4 36. Kb4 Kc6 37. b3 cxb3 38. axb3 axb3 39. Kc3 Kc5 40. f3 b4+ 41. Kb2 Kc4 42. f4 exf4 43. e5 fxe5 44. Kb1 Kc3 45. Kc1 f3 46. Kb1 f2 47. Kc1 f1=Q# 0-1
+

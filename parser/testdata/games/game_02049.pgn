@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/mZMBYSlV"]
+[White "Sniffiee"]
+[Black "jbchess66"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:36"]
+[WhiteElo "1253"]
+[BlackElo "1056"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-7"]
+[ECO "C21"]
+[Opening "Danish Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. c3 Nc6 4. Bc4 f5 5. cxd4 Bb4+ 6. Bd2 Qe7 7. a3 Qxe4+ 8. Ne2 Qxg2 9. Rg1 Qxh2 10. axb4 Nf6 11. b5 d5 12. Bb3 Ne7 13. Bf4 Qh3 14. Bxc7 Ne4 15. Nd2 b6 16. Nxe4 fxe4 17. Nf4 Bg4 18. Qxg4 Qxb3 19. Qxg7 Qb4+ 20. Kf1 Qxb5+ 21. Ke1 Rf8 22. Rg4 Rc8 23. Bd6 Qd7 24. Ba3 Nf5 25. Qxf8# 1-0
+

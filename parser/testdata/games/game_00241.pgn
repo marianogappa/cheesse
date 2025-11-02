@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Zp6oBxQb"]
+[White "bahadir05"]
+[Black "AlperIssizAdam"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:43"]
+[WhiteElo "1070"]
+[BlackElo "996"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+15"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. Qh5 dxe4 3. Bc4 g6 4. Qg5 f6 5. Qf4 f5 6. d3 Qd4 7. Ne2 Qc5 8. b3 e5 9. Qe3 Qb4+ 10. c3 f4 11. Qxe4 Qc5 12. b4 Bf5 13. Qxb7 Qd6 14. Qxa8 Qxd3 15. Qxb8+ Ke7 16. O-O Qxe2 17. Re1 Qg4 18. Rxe5+ Kf6 19. Qxc7 Qd1+ 20. Re1 Qxe1+ 21. Bf1 Ne7 22. Bb2 Nd5 23. c4+ Kg5 24. Bxh8 Nxc7 0-1
+

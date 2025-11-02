@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/7AjE6iyn"]
+[White "Willyboy"]
+[Black "cabayoloko"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:22"]
+[WhiteElo "1943"]
+[BlackElo "1957"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. b3 f6 2. g3 c6 3. Bg2 d5 4. d3 e5 5. e3 g6 6. Ne2 Bg7 7. Bb2 Ne7 8. Nd2 Be6 9. e4 d4 10. Nf3 c5 11. Nd2 Nbc6 12. a3 O-O 13. O-O Rc8 14. f4 Bd7 15. Nc4 Qc7 16. Kh1 b6 17. Bc1 Kh8 18. Qe1 b5 19. Nd2 a6 20. Nf3 Be8 21. Bh3 Bd7 22. Bg2 Be6 23. Bd2 Ng8 24. Nh4 Nh6 25. a4 c4 26. axb5 axb5 27. bxc4 bxc4 28. Ra6 c3 29. Nxc3 dxc3 30. Bxc3 Bd7 31. Qa1 Ng4 32. Re1 exf4 33. gxf4 Qxf4 34. Nf3 Nce5 35. Bxe5 Nxe5 36. Nxe5 Qxe5 37. Qxe5 fxe5 38. c4 Bg4 39. h3 Bf3 40. Rb1 Bxg2+ 41. Kxg2 Rc7 42. Rb5 Rd8 43. Rb3 Rcd7 44. Rab6 Kg8 45. c5 Rc7 46. c6 Kf8 47. Rc3 Ke7 48. Rb7 Rc8 49. Rc5 Ke6 50. Rb6 Bf8 51. Rcb5 Rxc6 52. Rb7 R8c7 53. Rb8 Bh6 54. Rd5 Be3 55. Kf3 Bf4 56. Re8+ Kf7 57. Rh8 Kg7 58. Ra8 Rf7 59. Ke2 Rc2+ 60. Kd1 Rh2 61. Rad8 Ra7 62. R8d7+ Kh6 63. Rxa7 Rxh3 64. Ra2 Rg3 65. Re2 Rg1+ 66. Kc2 Kg5 67. d4 h5 68. dxe5 h4 69. e6+ Kf6 70. e7 Kxe7 71. e5 g5 72. e6 h3 73. Rd7+ Ke8 74. e7 Rg2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oiIbCjih"]
+[White "fracton"]
+[Black "pedropv"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:51"]
+[WhiteElo "1627"]
+[BlackElo "1628"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[TimeControl "180+1"]
+[Termination "Normal"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 f6 4. Bc3 Bxc3 5. Nxc3 Ne7 6. e3 O-O 7. Bc4+ d5 8. Bb3 Kh8 9. Nf3 Nbc6 10. O-O d4 11. Ne4 Bg4 12. h3 Bf5 13. d3 dxe3 14. fxe3 Bxe4 15. dxe4 Ng6 16. Nd4 Nce5 17. Ne6 Qxd1 18. Raxd1 Rfe8 19. Nxc7 Rec8 20. Nxa8 Rxa8 21. Rd2 Nh4 22. Rfd1 h6 23. Rd8+ Rxd8 24. Rxd8+ Kh7 25. Kf2 g5 26. g3 Nhg6 27. Bg8+ Kg7 28. Be6 h5 29. Bf5 Ne7 30. Rb8 b6 31. Rb7 Nc6 32. Bd7 Kg6 33. Bxc6 Nxc6 34. Rc7 Ne5 35. Rxa7 h4 36. Rb7 hxg3+ 37. Kxg3 Nc4 38. Rc7 Nxe3 39. Rc6 Nf1+ 40. Kf2 Nd2 41. Rxb6 Nxe4+ 42. Ke3 Nc3 43. Rc6 Nxa2 44. c4 Nc3 45. c5 Nd5+ 46. Kd4 Nb4 47. Rb6 Nc2+ 48. Kd5 Ne3+ 49. Ke4 Nc4 50. Rb8 f5+ 51. Kd4 Nd2 52. c6 Nf3+ 53. Ke3 Ne5 54. c7 Nc6 55. Rg8+ Kf6 56. c8=Q f4+ 57. Kf3 Ne5+ 58. Kf2 Nd3+ 59. Kf1 f3 60. Qc4 Ne5 61. Rf8+ Kg7 62. Qg8+ Kh6 63. Rf6+ Kh5 64. Qh7# 1-0
+

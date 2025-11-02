@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dgbcZXL5"]
+[White "Kings_and_Wings"]
+[Black "carlos_pinheiro"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:41"]
+[WhiteElo "1684"]
+[BlackElo "1797"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Nc3 Nc6 3. Bf4 Bf5 4. Nf3 e6 5. e4 dxe4 6. Ne5 Nxe5 7. Bxe5 f6 8. Bg3 Bb4 9. Be2 Ne7 10. O-O O-O 11. f3 Nc6 12. fxe4 Bg6 13. Bc4 Bxc3 14. bxc3 Re8 15. d5 exd5 16. Bxd5+ Kh8 17. c4 Bxe4 18. Re1 Bxd5 19. Rxe8+ Qxe8 20. Qxd5 Rc8 21. Re1 Qf8 22. Qb5 Qb4 23. Qf5 Qf8 24. Qb5 Qb4 25. Qf5 Qf8 26. c3 b6 27. Qb5 Na5 28. Bxc7 h6 29. Bg3 Qc5+ 30. Qxc5 Rxc5 31. h3 Rxc4 32. Re7 Nc6 33. Rc7 Rxc3 34. Kh2 Rc2 35. Rc8+ Kh7 36. Bf4 a6 37. Bd6 a5 38. a3 b5 39. h4 b4 40. axb4 axb4 41. Rc7 b3 42. Ba3 Nd4 43. Rd7 Nf5 44. Rb7 Nd4 45. Rb4 Rc3 46. Rxd4 1-0
+

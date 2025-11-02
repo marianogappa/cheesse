@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/C2e3NsKG"]
+[White "Bluekiller"]
+[Black "Tinm"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:15"]
+[WhiteElo "2009"]
+[BlackElo "1848"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 e5 4. dxe5 cxd5 5. Nf3 Be6 6. Bb5+ Nc6 7. O-O Ne7 8. Nc3 g6 9. Bg5 Qb6 10. Bxc6+ Nxc6 11. Bf6 Rg8 12. b3 Be7 13. Bxe7 Nxe7 14. Na4 Qc7 15. Nd4 Qxe5 16. Re1 Qf6 17. Nxe6 fxe6 18. Qd3 O-O-O 19. Nc5 e5 20. Qb5 Qc6 21. Qxc6+ Nxc6 22. c3 Rge8 23. b4 b6 24. Nb3 e4 25. b5 Na5 26. Nd4 Kb7 27. g3 Rc8 28. Re3 Re7 29. f3 Nc4 30. Re2 e3 31. Nc6 Ree8 32. Rd1 Nd2 33. Kg2 Rf8 34. Rxe3 d4 35. cxd4 Nc4 36. Re7+ Rc7 37. d5 Rxe7 38. Nxe7 Re8 39. Nc6 Re2+ 40. Kh3 Rxa2 41. d6 Rd2 42. Rxd2 Nxd2 43. d7 Kc7 44. d8=Q+ Kb7 45. Qxd2 a6 46. Qd7+ Ka8 47. Qa7# 1-0
+

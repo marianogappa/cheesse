@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/K4jquj0P"]
+[White "KredincruiZe"]
+[Black "fghcc"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:14"]
+[WhiteElo "1465"]
+[BlackElo "1467"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C42"]
+[Opening "Russian Game: Urusov Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 d6 4. d3 Bg4 5. h3 Bxf3 6. Qxf3 Be7 7. O-O O-O 8. Nc3 a6 9. Qg3 b5 10. Bb3 Nc6 11. Bh6 Nh5 12. Qg4 g6 13. Nd5 Re8 14. c3 Na5 15. Bd1 c6 16. Ne3 Ng7 17. Qg3 c5 18. Nd5 Bf6 19. Qf3 Bg5 20. Bxg5 Qxg5 21. Nf6+ Kh8 22. Nxe8 Rxe8 23. a3 c4 24. b4 Nc6 25. Be2 a5 26. Rfd1 axb4 27. axb4 cxd3 28. Bxd3 Nh5 29. Bxb5 Rc8 30. Rxd6 Nf4 31. Rxc6 Rxc6 32. Bxc6 Kg7 33. Ra7 h5 34. Bd5 Nxd5 35. exd5 Qc1+ 36. Kh2 Qh6 37. Qxf7+ Kh8 38. Ra8+ Qf8 39. Rxf8# 1-0
+

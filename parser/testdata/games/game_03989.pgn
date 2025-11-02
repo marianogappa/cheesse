@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/kQD9RR0G"]
+[White "alvaroedmr"]
+[Black "YACOXX"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:12"]
+[WhiteElo "1246"]
+[BlackElo "1105"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-7"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 h6 4. O-O Nc6 5. d3 Bg4 6. Nc3 Nd4 7. h3 Bxf3 8. gxf3 c6 9. Be3 Be7 10. Bxd4 exd4 11. Ne2 c5 12. b4 Nf6 13. Ng3 O-O 14. Nf5 Qd7 15. Kh1 Nh5 16. Rg1 Bf6 17. Nxh6+ Kh7 18. Nf5 Nf4 19. Qd2 Be5 20. Rg4 g6 21. Rxf4 Bxf4 22. Qxf4 gxf5 23. exf5 1-0
+

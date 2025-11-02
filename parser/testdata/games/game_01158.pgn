@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/edm3f04L"]
+[White "Maleic"]
+[Black "FrenchGeek"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:19"]
+[WhiteElo "2143"]
+[BlackElo "1779"]
+[WhiteRatingDiff "-24"]
+[BlackRatingDiff "+21"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d3 g6 2. Nf3 Bg7 3. Nbd2 d6 4. e4 Nf6 5. h3 O-O 6. c3 Nbd7 7. Qc2 c5 8. Be2 Qc7 9. Nf1 b5 10. g4 a6 11. Ng3 Ne8 12. g5 f6 13. gxf6 exf6 14. h4 Ne5 15. h5 Nxf3+ 16. Bxf3 f5 17. hxg6 hxg6 18. exf5 Bxf5 19. Nxf5 Rxf5 20. Bg4 Re5+ 21. Be3 Qf7 22. O-O-O Nf6 23. Bf3 Rae8 24. Kb1 d5 25. d4 cxd4 26. Bxd4 R5e6 27. Rh3 Qd7 28. Rdh1 Re1+ 29. Bd1 Ne4 30. Rxe1 Bxd4 31. Reh1 Rc8 32. Qd3 Bxc3 33. bxc3 Nxc3+ 34. Ka1 Qg7 35. Rg1 Na4+ 36. Kb1 Qb2# 0-1
+

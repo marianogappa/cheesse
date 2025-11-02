@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XB1peOyv"]
+[White "psouza1501"]
+[Black "redsnake77"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:57"]
+[WhiteElo "1812"]
+[BlackElo "1860"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "B80"]
+[Opening "Sicilian Defense: Scheveningen Variation"]
+[TimeControl "300+3"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.25] } 1... c5 { [%eval 0.27] } 2. Nf3 { [%eval 0.2] } 2... d6 { [%eval 0.2] } 3. d4 { [%eval 0.2] } 3... cxd4 { [%eval 0.2] } 4. Nxd4 { [%eval 0.2] } 4... Nf6 { [%eval 0.24] } 5. Nc3 { [%eval 0.35] } 5... e6 { [%eval 0.37] } 6. Bg5 { [%eval 0.14] } 6... Be7 { [%eval 0.19] } 7. Bb5+ { [%eval 0.05] } 7... Bd7 { [%eval 0.12] } 8. Bxd7+ { [%eval -0.19] } 8... Nbxd7 { [%eval -0.13] } 9. O-O { [%eval -0.11] } 9... a6 { [%eval -0.23] } 10. Nf3 { [%eval -0.3] } 10... O-O { [%eval -0.27] } 11. Re1 { [%eval -0.35] } 11... Qc7 { [%eval -0.4] } 12. h3 { [%eval -0.43] } 12... Rac8 { [%eval -0.37] } 13. Rc1 { [%eval -0.44] } 13... Rfd8 { [%eval -0.42] } 14. a3 { [%eval -0.56] } 14... Nb6 { [%eval -0.59] } 0-1
+

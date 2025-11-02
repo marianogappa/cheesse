@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/J30PfbIC"]
+[White "funkmaster954"]
+[Black "guagua"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:37"]
+[WhiteElo "1398"]
+[BlackElo "1314"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "C48"]
+[Opening "Four Knights Game: Spanish Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 d6 5. d3 Be7 6. Bxc6+ bxc6 7. Bg5 O-O 8. h3 Rb8 9. g4 Rxb2 10. Na4 Rb8 11. Rb1 Bd7 12. Rxb8 Qxb8 13. O-O Qb4 14. c3 Qa3 15. Qc2 c5 16. Bxf6 Bxf6 17. Rb1 Bxa4 18. Qb2 Bc6 19. Qxa3 1-0
+

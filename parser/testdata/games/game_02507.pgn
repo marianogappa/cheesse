@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qm8wBiBd"]
+[White "Alfredo76"]
+[Black "gekovac"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:32"]
+[WhiteElo "1469"]
+[BlackElo "1610"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[ECO "A40"]
+[Opening "English Defense #2"]
+[TimeControl "240+4"]
+[Termination "Normal"]
+
+1. d4 b6 2. c4 Bb7 3. Nf3 e6 4. Nc3 Bb4 5. a3 Bxc3+ 6. bxc3 Ne7 7. e3 Ng6 8. Bd3 O-O 9. O-O Nh4 10. Be2 Nxf3+ 11. Bxf3 Bxf3 12. Qxf3 Nc6 13. d5 exd5 14. cxd5 Ne5 15. Qe4 d6 16. Bb2 Re8 17. c4 Ng6 18. Qf3 Qg5 19. e4 Nh4 20. Qh3 Rxe4 21. g3 Nf3+ 22. Kg2 Nh4+ 23. Kh1 Nf3 24. Qd7 Rxc4 25. h4 Rxh4+ 26. gxh4 Qxh4+ 27. Kg2 Nd2 28. Rh1 Qg5+ 29. Kh3 Qh5+ 30. Kg3 Ne4+ 31. Kg2 Qg5+ 32. Kh3 Nxf2+ 33. Kh2 Nxh1 34. Rxh1 Qd2+ 35. Kh3 Qxb2 36. Rf1 Qxa3+ 37. Kh2 Qb2+ 38. Kh1 Rf8 39. Qxc7 Qb5 40. Re1 Qxd5+ 41. Kg1 Qd4+ 42. Kh1 Qh4+ 43. Kg1 Qxe1+ 44. Kg2 Re8 45. Qxd6 Re2+ 46. Kf3 Qf2+ 47. Kg4 Re4+ 48. Kg5 h6+ 49. Kh5 Qh4# 0-1
+

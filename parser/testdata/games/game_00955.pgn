@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/o7E6KREg"]
+[White "glkzz"]
+[Black "blues55"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:35"]
+[WhiteElo "1656"]
+[BlackElo "1676"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+12"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Queen's Knight Variation"]
+[TimeControl "300+10"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. c4 d5 3. Nc3 dxc4 4. Nf3 Bb4 5. Bf4 Bxc3+ 6. bxc3 Nf6 7. e3 b5 8. a4 Bd7 9. axb5 Bxb5 10. Ne5 O-O 11. Bxc4 Bxc4 12. Nxc4 Ne4 13. Qc2 Nf6 14. O-O Nbd7 15. h3 Nh5 16. Be5 Nxe5 17. Nxe5 f6 18. Nc6 Qd7 19. Qe4 f5 20. Qf3 Nf6 21. Ne5 Qd5 22. Qg3 Ne4 23. Qf4 Nxc3 24. Rfe1 Qb5 25. Kh2 Ne4 26. Rab1 Qe8 27. g4 fxg4 28. Qxe4 Rxf2+ 29. Kg3 Qf8 30. hxg4 Rf6 31. Nd7 Qd6+ 32. Ne5 Raf8 33. Kh3 Rh6+ 34. Kg2 Qa3 35. Rf1 Qa2+ 0-1
+

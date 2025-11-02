@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WmupWWNA"]
+[White "Trawmio"]
+[Black "malelf"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:44"]
+[WhiteElo "1345"]
+[BlackElo "1289"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-12"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. b4 e6 2. a3 d5 3. d4 Nf6 4. Bg5 Be7 5. e3 O-O 6. c4 c6 7. c5 Ne4 8. Bxe7 Qxe7 9. Bd3 Qf6 10. Bxe4 dxe4 11. Ne2 e5 12. Nbc3 exd4 13. Nxe4 Qe5 14. Qxd4 Qxd4 15. exd4 Bf5 16. Nd6 Bc8 17. O-O Nd7 18. Rfe1 Nf6 19. Nc3 b6 20. b5 bxc5 21. dxc5 cxb5 22. Ncxb5 Bd7 23. Nc7 Rad8 24. Rab1 Ne8 25. Ncxe8 Bxe8 26. Rb7 Bc6 27. Rxa7 g6 28. a4 f6 29. a5 f5 30. Rc7 Be4 31. a6 Rf6 32. a7 Re6 33. Rc8 Rxc8 34. Nxc8 Kf7 35. Ra1 Ba8 36. Nb6 Re8 37. Nxa8 Rxa8 38. c6 Ke7 39. c7 Kd7 40. c8=Q+ Kxc8 41. f4 Kb7 42. Kf2 Rxa7 43. Rxa7+ Kxa7 44. Kf3 Kb7 45. g4 fxg4+ 46. Kxg4 Kc7 47. Kg5 Kd6 48. Kf6 Kd5 49. f5 gxf5 50. Kxf5 Kd4 51. h4 Ke3 52. Kf6 Kf3 53. h5 Kg4 54. h6 Kh5 55. Kg7 Kg5 56. Kxh7 Kh5 57. Kg7 Kg5 58. h7 Kf5 59. h8=Q Kf4 60. Qh4+ Ke5 61. Qg5+ Kd4 62. Kf6 Ke4 63. Qe5+ Kd3 64. Kf5 Kc4 65. Ke4 Kb4 66. Kd4 Kb3 67. Qc5 Kb2 68. Qc3+ Ka2 69. Qc8 Kb3 70. Qc7 Kb4 71. Qb7+ Ka4 72. Kc5 Ka3 73. Kc4 Ka4 74. Qa7# 1-0
+

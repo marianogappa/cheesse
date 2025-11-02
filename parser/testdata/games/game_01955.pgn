@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rGaC8n3G"]
+[White "ybrian"]
+[Black "zsoltcseszlai"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:19"]
+[WhiteElo "1875"]
+[BlackElo "1688"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+16"]
+[ECO "B07"]
+[Opening "Pirc Defense #4"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nf3 g6 3. d4 Nf6 4. e5 dxe5 5. dxe5 Qxd1+ 6. Kxd1 Ng4 7. h3 Nxf2+ 8. Ke1 Nxh1 9. Nc3 Ng3 10. Nd5 Kd8 11. Bg5 Nxf1 12. Kxf1 c6 13. Nf4 Bd7 14. Rd1 Kc7 15. c4 Na6 16. a3 Nc5 17. b4 Ne4 18. Bh4 Rd8 19. b5 Bg7 20. bxc6 Bxc6 21. Re1 h6 22. Bxe7 Rde8 23. Bb4 Bxe5 24. Nxe5 Rxe5 25. Nd5+ Bxd5 26. cxd5 Ng3+ 27. Kf2 Rxe1 28. Kxe1 0-1
+

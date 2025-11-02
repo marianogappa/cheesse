@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/onpjMoIa"]
+[White "mandraque578"]
+[Black "alexey111"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:13"]
+[WhiteElo "1777"]
+[BlackElo "1757"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Bd3 Be7 6. O-O O-O 7. h3 c5 8. Nf5 Bxf5 9. exf5 Nc6 10. Bf4 Ne5 11. Re1 Qc7 12. Qe2 Nfd7 13. Nc3 c4 14. Nd5 Qd8 15. Bxc4 Nxc4 16. Nxe7+ Kh8 17. Qxc4 Ne5 18. Bxe5 dxe5 19. Rxe5 Qd6 20. Rae1 Rad8 21. Rd5 Qf6 22. Qc7 Rxd5 23. Nxd5 Qxf5 24. Qe7 Qc8 25. c3 h6 26. Re4 Kh7 27. Rg4 Rd8 28. Qe4+ g6 29. Nf6+ Kg7 30. Qe5 Kf8 31. Nh5 Re8 32. Qg7+ Ke7 33. Re4+ Kd6 34. Qd4+ Kc7 35. Nf6 Rxe4 36. Qxe4 b6 37. Qe5+ Kb7 38. Ne8 Qd8 39. Nd6+ Ka6 40. Qb5# 1-0
+

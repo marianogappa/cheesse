@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zGbAEZvY"]
+[White "stfn"]
+[Black "alanwillson"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:50"]
+[WhiteElo "1734"]
+[BlackElo "1513"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+19"]
+[ECO "A44"]
+[Opening "Old Benoni Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 c5 2. d5 e5 3. dxe6 fxe6 4. Nc3 d6 5. e4 a6 6. Nf3 b6 7. Bg5 Be7 8. Bxe7 Qxe7 9. Bd3 Ra7 10. O-O Qf6 11. Ne2 Rf7 12. Ng3 h6 13. Bc4 Ne7 14. Qxd6 Nbc6 15. Qc7 O-O 16. Qxb6 h5 17. Qxc5 h4 18. Ne2 h3 19. g3 Qxf3 20. Nf4 Rxf4 21. Bxe6+ Bxe6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8mJQYecA"]
+[White "xSmoki"]
+[Black "Dmitso90"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "1558"]
+[BlackElo "1635"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C35"]
+[Opening "King's Gambit Accepted, Cunningham Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. h4 d5 5. e5 g5 6. hxg5 Bxg5 7. d4 Bg4 8. Nc3 h5 9. Bb5+ c6 10. Ba4 h4 11. Qe2 h3 12. gxh3 Bh4+ 13. Kd2 Bg3 14. b4 Nd7 15. Bb2 Nb6 16. hxg4 Nc4+ 17. Kc1 Rxh1+ 0-1
+

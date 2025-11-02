@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/icXB7Y2O"]
+[White "paneof"]
+[Black "Enuma_Elish"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:09"]
+[WhiteElo "1729"]
+[BlackElo "1830"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. e3 e5 2. d3 d6 3. Nf3 Nc6 4. Nfd2 Bg4 5. Be2 Bxe2 6. Qxe2 Qd7 7. Qf3 O-O-O 8. e4 f5 9. Nc3 fxe4 10. Ndxe4 Be7 11. Bg5 Bxg5 12. Nxg5 Nf6 13. Nce4 Rdf8 14. Nxf6 Rxf6 15. Qe3 h6 16. Ne4 Rf5 17. Ng3 Rf6 18. O-O-O Rhf8 19. f3 Nd4 20. Ne4 Rf4 21. c3 Nc6 22. Qd2 R4f7 23. Rhf1 Qf5 24. Ng3 Qf4 25. Ne4 Qxd2+ 26. Rxd2 d5 27. Nc5 e4 28. dxe4 dxe4 29. Nxe4 Ne5 30. Rfd1 Nc4 31. Rd4 Nb6 32. Rb4 Nd7 33. Rbd4 Rd8 34. Nc5 b6 35. Nxd7 Rfxd7 36. Rxd7 Rxd7 37. Rxd7 Kxd7 0-1
+

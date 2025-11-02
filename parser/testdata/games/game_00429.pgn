@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/1mDVjdxe"]
+[White "Viu"]
+[Black "damjanedam"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:27"]
+[WhiteElo "1794"]
+[BlackElo "1844"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation, Monte Carlo Variation"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Nf6 5. Nc3 c6 6. Nf3 Be7 7. cxd5 Nxd5 8. Bc4 Be6 9. Qb3 Qd7 10. O-O Nxc3 11. bxc3 Bxc4 12. Qxc4 O-O 13. Qb3 Qc7 14. Bf4 Qb6 15. Rfe1 Qxb3 16. axb3 Bf6 17. g4 h6 18. h4 Nd7 19. g5 hxg5 20. hxg5 Bd8 21. Bd6 f6 22. g6 Nb6 23. Nh4 Nd5 24. Nf5 Nxc3 25. Re7 Bxe7 26. Nxe7+ Kh8 27. Kg2 Rfd8 28. Rh1# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GaBp5iHh"]
+[White "demtayy"]
+[Black "Karl1"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:18"]
+[WhiteElo "952"]
+[BlackElo "1185"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+6"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. c3 Qb6 6. Be3 Qxb2 7. Nbd2 Qxc3 8. Qa4 Qxa1+ 0-1
+

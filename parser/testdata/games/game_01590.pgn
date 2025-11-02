@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/uecs1MUO"]
+[White "andrewsus"]
+[Black "zenonrock"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:56"]
+[WhiteElo "1752"]
+[BlackElo "2155"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+[ECO "A58"]
+[Opening "Benko Gambit Accepted, Fully Accepted Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 g6 7. e4 Bxf1 8. Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Qb6 12. Qe2 Nbd7 13. a4 Rfb8 14. Bd2 h5 15. Rab1 Ng4 16. b3 Rc8 17. Nb5 Ngf6 18. Bg5 Re8 19. Nd2 Nh7 20. Nc4 Qb8 21. Bd2 Ne5 22. f4 Ng4 23. h3 Ngf6 24. Qd3 Rd8 25. Bc3 Qb7 26. Rh2 Rab8 27. Rbh1 Qa8 28. g4 Rxb5 29. axb5 e6 30. gxh5 exd5 31. hxg6 fxg6 32. Nb6 Qb7 33. Nxd5 Nxd5 34. exd5 Bxc3 35. Qxc3 Qxd5+ 36. Qf3 Qf5 37. Kg3 Nf6 38. Re1 Nh5+ 39. Kf2 Nxf4 40. Re4 g5 41. h4 Rf8 42. Rxf4 Qxf4 43. Qxf4 Rxf4+ 44. Ke3 Rb4 45. hxg5 Rxb3+ 46. Ke4 Rxb5 47. Kd5 c4+ 48. Kxc4 Rxg5 49. Rd2 Rg6 50. Kd5 Kf7 51. Kc6 Ke7 52. Re2+ Re6 53. Ra2 Re5 54. Ra7+ Ke6 55. Rd7 Rc5+ 56. Kb6 Kxd7 57. Kb7 Rb5+ 58. Ka6 Kc6 59. Ka7 Kc7 60. Ka6 Rc5 61. Ka7 Ra5# 0-1
+

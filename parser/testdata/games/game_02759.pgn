@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/muP41YJz"]
+[White "birinhajr"]
+[Black "GMILOPES"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:23"]
+[WhiteElo "1988"]
+[BlackElo "2101"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C61"]
+[Opening "Ruy Lopez: Bird Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O Qg5 6. Be2 Bd6 7. d3 Qh4 8. Bf3 Nf6 9. h3 h5 10. Nd2 Ng4 11. Nc4 Be7 12. Bf4 b5 13. Bg3 Qg5 14. h4 Qc5 15. Nd2 d6 16. Nb3 Qb6 17. e5 Rb8 18. exd6 Bxd6 19. Re1+ Kf8 20. Nd2 Bxg3 21. fxg3 Qd6 22. Bxg4 Bxg4 23. Nf3 Qxg3 24. Qe2 g6 25. Qe7+ Kg8 26. Qe5 Qxe5 27. Nxe5 Be6 28. Nc6 Rb6 29. Nxd4 Bg4 30. Re8+ Kg7 31. Rxh8 Kxh8 32. Re1 c5 33. Nf3 Bxf3 34. gxf3 c4 35. d4 b4 36. c3 bxc3 37. bxc3 Rb2 38. Rd1 Rxa2 39. d5 Kg7 40. d6 Ra6 41. d7 Rf6 42. d8=Q Rxf3 43. Qd4+ Kh7 44. Qxc4 a5 45. Rd7 Kg7 46. Qa6 Rf5 47. c4 Kg8 48. Rd5 Rf4 49. Qb5 Rxh4 50. Rd8+ Kh7 51. Qe8 Rg4+ 52. Kh2 Kh6 53. Qh8+ Kg5 54. Rd5+ f5 55. Qd4 Rxd4 56. Rxd4 a4 57. Rd5 a3 58. Ra5 h4 59. Rxa3 Kh5 60. Ra5 Kg4 61. c5 f4 62. c6 g5 63. c7 Kh5 64. c8=Q f3 65. Qh8+ Kg4 66. Ra4+ Kf5 0-1
+

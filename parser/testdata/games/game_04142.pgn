@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/srQVxPVT"]
+[White "abmarac"]
+[Black "cakamadafaka"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:47"]
+[WhiteElo "1406"]
+[BlackElo "1337"]
+[WhiteRatingDiff "-56"]
+[BlackRatingDiff "+12"]
+[ECO "A40"]
+[Opening "English Defense #2"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. d4 b6 2. e3 Bb7 3. Bb5 Bxg2 4. Nc3 Bxh1 5. Bd2 c6 6. Bd3 e6 7. Nh3 Bg2 8. Qg4 Bxh3 9. Qxh3 g5 10. Ne4 f5 11. Ng3 g4 12. Qh5+ Ke7 13. Qg5+ Nf6 14. Nh5 Kf7 15. O-O-O Rg8 16. Qh4 Be7 17. Rg1 Nd5 18. Qg3 Bh4 19. Qg2 c5 0-1
+

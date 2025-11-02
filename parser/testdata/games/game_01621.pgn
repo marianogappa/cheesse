@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZRiM6g5N"]
+[White "globo73"]
+[Black "admiral_foo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:06"]
+[WhiteElo "1435"]
+[BlackElo "1399"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Queen's Knight Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. Bf4 Nf6 5. Qc2 c5 6. Nf3 Nc6 7. dxc5 Bxc5 8. e3 O-O 9. Rd1 Nb4 10. Qb3 Qa5 11. a3 Nc6 12. cxd5 Nxd5 13. Rc1 Nxf4 14. exf4 Nd4 15. Nxd4 Bxd4 16. Bd3 Rd8 17. O-O Bxf2+ 18. Rxf2 Rxd3 19. Rfc2 b6 20. Qb5 Qxb5 21. Nxb5 Ba6 22. Nc7 Rc8 23. Nxa6 Rxc2 24. Rxc2 Kf8 25. Nc7 Ke7 26. Nb5 Rd1+ 27. Kf2 Rd5 28. Nc3 Rd6 29. b3 Kf6 30. Ne4+ 1-0
+

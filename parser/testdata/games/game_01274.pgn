@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9nv15vb4"]
+[White "High5ive"]
+[Black "Stratadamus"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:44"]
+[WhiteElo "1869"]
+[BlackElo "1816"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "A08"]
+[Opening "King's Indian Attack: Sicilian Variation #2"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. g3 Nf6 5. Bg2 Nc6 6. Ngf3 Be7 7. O-O O-O 8. Re1 Bd7 9. c3 h6 10. Qc2 Rc8 11. Nf1 d4 12. c4 e5 13. h3 a6 14. a4 Nb4 15. Qe2 b5 16. axb5 axb5 17. b3 bxc4 18. bxc4 Ra8 19. Ba3 Ra4 20. Bxb4 Rxb4 21. Nxe5 Bd6 22. Nf3 Bc7 23. Qd2 Qb8 24. N1h2 Rb2 25. Qc1 Qb3 26. Nd2 Qc3 27. Qxc3 dxc3 28. Ndf1 Rfb8 29. Ne3 Be5 30. Nf3 Bd4 31. Nxd4 cxd4 32. Nd1 Rd2 33. Bf1 Rbb2 34. Nxb2 Rxb2 35. Rab1 Rd2 36. Red1 Rc2 37. Re1 Ba4 38. Re2 Rd2 39. Rxd2 cxd2 40. Be2 Nd7 41. Bd1 Nc5 42. Bxa4 Nxa4 43. Rd1 Nc3 44. Rxd2 Kf8 45. Kg2 Ke7 46. f4 Kd6 47. Kf3 Kc6 48. g4 Kc5 49. h4 Kb4 50. e5 Nb1 51. Rb2+ Kc3 52. Rxb1 Kxd3 53. f5 Kxc4 54. Ke4 d3 55. Rd1 Kb3 56. Rxd3+ Kc2 57. Kd4 Kb2 58. Rc3 Ka2 59. Kc4 Ka1 60. Rb3 Ka2 61. Kc3 Ka1 62. Rb7 Ka2 63. Rb6 Ka1 64. Kc2 Ka2 65. Ra6# 1-0
+

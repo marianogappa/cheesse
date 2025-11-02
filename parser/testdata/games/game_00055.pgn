@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/vZwfMNLV"]
+[White "MightyRobot"]
+[Black "peter1985"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "1858"]
+[BlackElo "1888"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-11"]
+[ECO "C05"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 Be7 6. c3 c5 7. Ne2 Nc6 8. f4 Qb6 9. Nf3 cxd4 10. cxd4 O-O 11. O-O f6 12. Kh1 fxe5 13. fxe5 Nb4 14. Bb1 h6 15. a3 Nc6 16. Qd3 Rf5 17. g4 Rxf3 18. Qh7+ Kf7 19. Rxf3+ Ke8 20. Qg8+ Nf8 21. Bg6+ Kd7 22. Rxf8 Nxd4 23. Be3 Qxb2 24. Bxd4 Qxe2 25. Be8+ Kc7 26. Qxg7 Qe4+ 27. Kg1 Qxd4+ 28. Kg2 Qxa1 29. Qxe7+ Kb6 30. Qd6+ Ka5 31. Qb4+ Ka6 32. Qb5# 1-0
+

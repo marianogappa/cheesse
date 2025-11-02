@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/weERBTWE"]
+[White "irenka77"]
+[Black "brankov"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:56"]
+[WhiteElo "1843"]
+[BlackElo "1881"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-16"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nf6 5. Nf3 Bb4 6. Bg5 Bg4 7. Qd2 Nc6 8. O-O-O O-O 9. h3 Bh5 10. g4 Bg6 11. Ne5 Bd6 12. Nxg6 fxg6 13. f4 Qe8 14. Bxf6 Rxf6 15. Nxd5 Rf8 16. h4 Qe4 17. Bc4 Kh8 18. h5 Bxf4 19. Nxf4 Qxf4 20. hxg6 h6 21. Bf7 Qxd2+ 22. Rxd2 Rad8 23. c3 a6 24. Re1 Rd7 25. Rg1 Ne7 26. g5 Nf5 27. Rf2 Nh4 28. Rh1 Nxg6 29. Bxg6 Rxf2 30. gxh6 gxh6 31. Rxh6+ Kg8 32. Be8 Re7 33. Bh5 Re1+ 34. Bd1 Rff1 35. Rg6+ Kf7 36. Rh6 Rxd1+ 37. Kc2 Rc1+ 38. Kb3 Rce1 39. Rh7+ Ke6 40. Rxc7 b5 41. Ra7 Rf5 42. Rxa6+ Kd5 43. Ra5 Kc6 44. a4 Rf2 45. Rxb5 Ree2 46. Rc5+ Kb6 47. Rb5+ Ka6 48. Kc4 Rxb2 49. Rd5 Ra2 50. Rd6+ Ka5 51. Rd8 Rxa4+ 52. Kc5 Rf5+ 53. d5 1-0
+

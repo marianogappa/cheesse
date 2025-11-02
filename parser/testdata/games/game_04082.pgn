@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WPHN0xHN"]
+[White "slayerjawor"]
+[Black "georgereeves"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:33"]
+[WhiteElo "1544"]
+[BlackElo "1511"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. g3 Nf6 4. d3 Be7 5. Bg5 Nc6 6. Nc3 O-O 7. Bg2 Nd7 8. Bxe7 Nxe7 9. O-O c6 10. d4 Ng6 11. dxe5 Ngxe5 12. Qxd6 Nxf3+ 13. Bxf3 Nb6 14. Qxd8 Rxd8 15. e5 Be6 16. Ne4 h6 17. Nd6 Rab8 18. Rae1 Bd5 19. Be4 Bxe4 20. Nxe4 Nd5 21. c4 Ne7 22. b4 Nf5 23. Kg2 a6 24. f4 Kh7 25. c5 Nd4 26. Rd1 Nf5 27. Rxd8 Rxd8 28. a4 Ne3+ 29. Kf2 Nxf1 30. Kxf1 Rd1+ 31. Kf2 Rd4 32. Nd6 Rxb4 33. Nxf7 Rxa4 34. Nd8 Rc4 35. Nxb7 Rc2+ 36. Kg1 Rc1+ 37. Kg2 Rc2+ 38. Kh3 Ra2 39. Kg4 a5 40. f5 a4 41. e6 a3 42. e7 Re2 43. Nd6 a2 44. e8=Q Rxe8 45. Nxe8 a1=Q 46. Nd6 Qd1+ 47. Kh3 Qd5 48. Nb7 Qd7 49. Nd6 g6 50. Nb7 gxf5 0-1
+

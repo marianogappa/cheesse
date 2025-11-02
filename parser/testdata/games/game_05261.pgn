@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VnLk4IxL"]
+[White "RussianMachine"]
+[Black "Ca11um"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:14"]
+[WhiteElo "991"]
+[BlackElo "941"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-16"]
+[ECO "D06"]
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 d5 3. b3 Nc6 4. cxd5 Nxd5 5. e3 e5 6. e4 exd4 7. exd5 Qxd5 8. Nf3 Bg4 9. h3 Bh5 10. g4 Bg6 11. Nh4 Be4 12. f3 Bxb1 13. Rxb1 Bb4+ 14. Bd2 O-O 15. Bc4 Qg5 16. Ng2 Rfe8+ 17. Kf2 Bxd2 18. Rb2 Be3+ 19. Nxe3 Qxe3+ 20. Kg2 Qc3 21. Rc2 Qe3 22. Re1 Qg5 23. f4 Qxf4 24. Rce2 Rxe2+ 25. Rxe2 Ne5 26. Qe1 Qf3+ 27. Kg1 Nxc4 28. bxc4 Qxh3 29. Re8+ Rxe8 30. Qxe8# 1-0
+

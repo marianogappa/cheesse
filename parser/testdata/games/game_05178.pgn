@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/SF56cIZB"]
+[White "SpartanoColorado"]
+[Black "PeaoMatt"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:55"]
+[WhiteElo "1255"]
+[BlackElo "1317"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-37"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Bc4 Bd6 3. Qf3 Nf6 4. Qg3 O-O 5. d3 Bc5 6. Nh3 g6 7. Ng5 d6 8. Nf3 Nbd7 9. Bg5 c6 10. Nh4 Qa5+ 11. Nc3 Nb6 12. O-O Qb4 13. Rab1 Nxc4 14. dxc4 Qxc4 15. b3 Qd4 16. Be3 Qb4 17. Nxg6 fxg6 18. Ne2 Nxe4 19. f3 Nxg3 20. Nxg3 Bxe3+ 21. Rf2 Bxf2+ 22. Kxf2 Qd2+ 23. Ne2 Qd4+ 24. Nxd4 exd4 25. Re1 Bf5 26. c4 d3 27. g4 d2 28. Rd1 Rae8 29. Rxd2 Bb1 30. Rxd6 Re7 31. a4 Rfe8 32. Rd2 a6 33. Rd1 Bc2 34. Re1 b5 35. cxb5 axb5 36. a5 b4 37. a6 c5 38. Re3 Rxe3 39. a7 c4 40. bxc4 b3 41. h4 b2 42. c5 b1=Q 43. c6 Qe1+ 44. Kg2 Qe2+ 45. Kg3 Qe1+ 46. Kf4 R3e4+ 47. Kg5 R4e5+ 48. Kf4 Qe4+ 49. Kg3 Rf8 50. a8=Q Rxa8 51. fxe4 Rxe4 52. g5 Ra3+ 53. Kf2 Ba4 54. c7 Ra2+ 55. Kf3 Rb4 56. c8=Q+ Kg7 57. Qc3+ Kf7 58. Qxb4 Bd1+ 59. Ke4 h5 60. Qc4+ Ke7 61. Qxa2 Kd6 62. Qd5+ Ke7 63. Qxd1 Ke6 64. Qd5+ 1-0
+

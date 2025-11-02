@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/liOhBGoE"]
+[White "saiclo"]
+[Black "pahtzer"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:50"]
+[WhiteElo "1524"]
+[BlackElo "1514"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 e5 3. Nf3 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Bd3 O-O 7. O-O c5 8. Nf3 Nc6 9. Re1 Re8 10. b3 Bg4 11. h3 Bh5 12. Be2 Bxf3 13. Bxf3 Nd4 14. Bb2 Ne6 15. Rb1 a6 16. Qe2 Nd4 17. Qd2 Nxf3+ 18. gxf3 h6 19. Rbd1 Nh7 20. Kh2 Bg5 21. Qe2 Bf4+ 22. Kg2 Qg5+ 23. Kf1 Qh4 24. Kg2 Re6 25. Rh1 Rg6+ 26. Kf1 Ng5 27. Ke1 Nxh3 28. Nd5 Rg1+ 29. Rxg1 Nxg1 30. Qf1 Nxf3+ 31. Ke2 Qh5 32. Nxf4 Qg4 33. Ke3 Re8 34. Qg2 Qxg2 35. Nxg2 Ng5 36. f3 Re6 37. Nh4 b5 38. Rg1 Kh7 39. Nf5 d5 40. Nxg7 d4+ 41. Kd3 Kxg7 42. f4 f6 43. fxg5 fxg5 44. c4 b4 45. a3 a5 46. axb4 axb4 47. Bc1 Rg6 48. Bd2 Kf6 49. Be1 g4 50. Bg3 h5 51. Rf1+ Ke6 52. Rf5 h4 53. Bxh4 g3 54. Rf1 g2 55. Rg1 Ke5 56. Be7 Rg3+ 57. Ke2 Kxe4 58. Bxc5 Rxb3 59. Rxg2 Rb2+ 60. Kf1 Rxg2 61. Kxg2 d3 62. Bxb4 Ke3 63. c5 1-0
+

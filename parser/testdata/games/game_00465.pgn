@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VlNqH48Q"]
+[White "s_o_u_s"]
+[Black "preetam91"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:40"]
+[WhiteElo "1650"]
+[BlackElo "1524"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "A00"]
+[Opening "Polish Opening: Czech Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. b4 e5 2. Bb2 d6 3. e3 Nf6 4. c4 Bf5 5. Nf3 g6 6. Qa4+ Nbd7 7. Be2 Bg7 8. O-O O-O 9. Nc3 a6 10. Rac1 c6 11. Ng5 b5 12. Qb3 bxc4 13. Bxc4 d5 14. Be2 h6 15. Nf3 e4 16. Nd4 Ne8 17. Nxc6 Qf6 18. Nd4 Qb6 19. Nxd5 Qb7 20. Nxf5 Bxb2 21. Qxb2 Qxd5 22. Ne7+ 1-0
+

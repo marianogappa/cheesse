@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Rxs1hVDa"]
+[White "adamjuggler"]
+[Black "chpatro"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:01"]
+[WhiteElo "1659"]
+[BlackElo "1654"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation"]
+[TimeControl "720+7"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. e5 Nc6 7. Nf3 Be7 8. Be2 O-O 9. O-O f6 10. exf6 Bxf6 11. Be3 e5 12. Qb3+ Kh8 13. dxe5 Nxe5 14. Rad1 Qe8 15. Rfe1 Be6 16. Qc2 Bc4 17. Bxc4 Nbxc4 18. Nxe5 Nxe5 19. Bd4 Qh5 20. Ne4 Qg6 21. Qb3 Rae8 22. Re3 Nf3+ 23. Rxf3 Rxe4 24. Bxf6 Rxf6 25. Qxb7 Rxf3 26. Qxe4 Qxe4 27. Rd8+ Rf8 28. Rxf8# 1-0
+

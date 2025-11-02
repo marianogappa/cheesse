@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/T16G57Rb"]
+[White "sergei-chss"]
+[Black "nabawy"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:43"]
+[WhiteElo "2064"]
+[BlackElo "2056"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "A65"]
+[Opening "Benoni Defense: King's Pawn Line"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 c5 2. d5 e6 3. c4 exd5 4. cxd5 d6 5. Nc3 Nf6 6. e4 Be7 7. Nf3 O-O 8. h3 a6 9. a4 Nbd7 10. Bf4 Re8 11. Be2 Nf8 12. O-O Ng6 13. Bh2 Nd7 14. Re1 Qc7 15. Rc1 Bf6 16. b4 cxb4 17. Nb5 Qb6 18. Nc7 Rxe4 19. Nxa8 Qd8 20. Nc7 Nc5 21. Rxc5 dxc5 22. d6 c4 23. Bf1 Rxe1 24. Qxe1 c3 25. Bc4 b5 26. axb5 axb5 27. Bxb5 b3 28. Qb1 c2 29. Qc1 Bf5 30. Ba4 b2 31. Qxc2 Bxc2 32. Bxc2 Bc3 33. g4 Bb4 34. h4 Bxd6 35. Bxd6 Qxd6 36. Nb5 Qb6 37. Na3 b1=Q+ 38. Bxb1 Nf4 39. Kh2 Ne2 40. Kg2 Nf4+ 41. Kg3 Nd3 42. Kh2 Qxf2+ 0-1
+

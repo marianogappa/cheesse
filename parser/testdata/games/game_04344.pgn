@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/TfXeVfEt"]
+[White "Nosorozec"]
+[Black "PchelkinVK"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:39"]
+[WhiteElo "2038"]
+[BlackElo "2539"]
+[WhiteRatingDiff "+26"]
+[BlackRatingDiff "-37"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Hartlaub-Charlick Gambit"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 e5 2. dxe5 d6 3. exd6 Bxd6 4. Nf3 Nc6 5. Nc3 Bg4 6. Bd2 Qe7 7. e4 O-O-O 8. Bd3 Nf6 9. a3 Rhe8 10. Bg5 h6 11. Bxf6 g5 12. Bxe7 Rxe7 13. O-O Ne5 14. Be2 Bc5 15. h3 Rxd1 16. Raxd1 Bxf3 17. Bxf3 Nc4 18. b3 Nxa3 19. Nd5 Re8 20. Ra1 Nxc2 21. Ra2 Nd4 22. b4 Bd6 23. Rxa7 Kd7 24. Rc1 Nc6 25. Nf6+ Ke7 26. Nxe8 Kxe8 27. Rxb7 Nd4 28. Rd1 Ne6 29. Bg4 Nf4 30. g3 Ng6 31. Kg2 Ke7 32. Bh5 Ne5 33. f4 Nc4 34. e5 Ne3+ 35. Kf2 Nxd1+ 36. Bxd1 Ke6 37. exd6 Kxd6 38. Bb3 Kc6 39. Ra7 gxf4 40. Ra5 f6 41. Kg2 fxg3 42. Kxg3 Kd6 43. Rf5 Ke7 44. Rh5 c6 45. Rxh6 Kd6 46. Rh5 Kc7 47. Rc5 Kb6 48. Bc2 Kc7 49. Be4 Kd6 50. Rxc6+ Ke5 51. Rc5+ Kxe4 52. b5 Kd4 53. b6 Kxc5 54. b7 Kd6 55. b8=Q+ Ke6 56. Qf4 f5 57. h4 Kf6 58. h5 Kf7 59. Qg5 Ke6 60. h6 Ke5 61. h7 Ke4 62. h8=Q f4+ 63. Qxf4+ Kd3 64. Qe8 Kc3 65. Qd6 Kc4 66. Qc8+ Kb5 67. Qdc7 Ka4 68. Q7b7 Ka5 69. Qca8# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OICxg2k8"]
+[White "Mouni"]
+[Black "demtayy"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:56"]
+[WhiteElo "1186"]
+[BlackElo "944"]
+[WhiteRatingDiff "+21"]
+[BlackRatingDiff "-7"]
+[ECO "C44"]
+[Opening "Ponziani Opening: Jaenisch Counterattack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 Nxe4 5. d5 Ne7 6. Nxe5 Nf5 7. Bd3 Ned6 8. O-O f6 9. Qh5+ g6 10. Nxg6 Bg7 11. Nxh8+ 1-0
+

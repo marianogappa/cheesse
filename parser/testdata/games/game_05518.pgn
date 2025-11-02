@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/oTAhPGbB"]
+[White "mostafa1888"]
+[Black "astrof"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:18"]
+[WhiteElo "1669"]
+[BlackElo "1734"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "A45"]
+[Opening "Indian Game: Tartakower Attack"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. g3 c5 3. Nf3 cxd4 4. Nxd4 d5 5. Bg2 e5 6. Nf3 Nc6 7. O-O Bc5 8. c3 h6 9. Nbd2 O-O 10. Re1 Bg4 11. Qb3 e4 12. Nd4 Nxd4 13. cxd4 Bxd4 14. Nf1 Qb6 15. Qxb6 Bxb6 16. Ne3 Be6 17. b3 Rac8 18. Bb2 d4 19. Nf1 Rc2 20. Ba3 Rfc8 21. h4 Ng4 22. Nh2 d3 23. Bxe4 Bxf2+ 24. Kg2 Bxe1 25. Rxe1 Rxe2+ 26. Rxe2 dxe2 27. Bb4 Nxh2 28. Kxh2 Re8 29. Kg2 Bg4 30. Bf3 Bxf3+ 31. Kxf3 e1=Q 32. Bxe1 Rxe1 0-1
+

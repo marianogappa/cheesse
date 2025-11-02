@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/8Oo2OqYs"]
+[White "betomedin"]
+[Black "lmmontes"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:27"]
+[WhiteElo "1285"]
+[BlackElo "1239"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bc4 Nh6 4. Nf3 g6 5. Qg5 f6 6. Qg3 d6 7. d4 exd4 8. Nh4 g5 9. Nf3 f5 10. exf5 Nxf5 11. Qg4 h6 12. Qh5+ Ke7 13. Qf7# 1-0
+

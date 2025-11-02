@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/2pJaj2pQ"]
+[White "Kipyatok"]
+[Black "lorentis"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:56"]
+[WhiteElo "1388"]
+[BlackElo "1432"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Kingside Fianchetto"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. Nf3 g6 2. g3 Bg7 3. d4 Nf6 4. Ne5 d6 5. Nc4 O-O 6. Bg2 c5 7. Bg5 Ng4 8. dxc5 dxc5 9. Qxd8 Rxd8 10. Bxe7 Rd7 11. Bxc5 Bd4 12. Bd6 Bxf2+ 13. Kf1 Nc6 14. Bh3 Rd8 15. Bc7 Rd1+ 16. Kg2 Rxh1 17. Kxh1 Nd4 18. Nba3 b6 19. Kg2 Bb7+ 20. Kf1 Rc8 21. Bxg4 Rxc7 22. Kxf2 f5 23. Bh3 b5 24. Nd6 Ba6 25. c3 Kg7 26. Ne8+ Kf7 27. Nxc7 b4 28. cxd4 bxa3 29. b3 Bb7 30. Rc1 Kf6 31. e3 g5 32. Rc5 g4 33. Bf1 Kg5 34. Ne6+ Kf6 35. Nd8 Be4 36. Ra5 h5 37. d5 Kg5 38. Rxa7 h4 39. Rg7+ Kh6 40. Re7 Bxd5 41. Re5 Bxb3 42. axb3 a2 43. Ra5 hxg3+ 44. Kxg3 Kg5 45. Ne6+ Kf6 46. Bc4 a1=Q 47. Rxa1 Ke5 48. Ng5 Kf6 49. Nh7+ Ke5 50. Nf8 Ke4 51. Re1 Ke5 52. Rf1 Ke4 53. Kf2 Ke5 54. Bd3 f4 55. Ng6+ 1-0
+

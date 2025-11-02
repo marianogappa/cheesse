@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4iy4nW8v"]
+[White "TheSahip"]
+[Black "knightom"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:18"]
+[WhiteElo "1059"]
+[BlackElo "1215"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+6"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. Qh5 dxe4 3. d3 Nf6 4. Qd1 Bg4 5. f3 exf3 6. gxf3 Bh5 7. d4 Nd5 8. Bb5+ c6 9. Ba4 Nd7 10. Nc3 e6 11. Nge2 Bxf3 12. Rf1 Bh5 13. Nf4 Bxd1 14. Kxd1 Nxf4 15. Rxf4 a6 16. d5 b5 17. Bb3 cxd5 18. Be3 Bd6 19. Rf1 Bxh2 20. Rh1 Qh4 21. Bc1 Qg4+ 22. Kd2 Bf4+ 23. Kd3 Nc5+ 24. Kd4 Bxc1+ 25. Kxc5 Bxb2 26. Rhg1 Qf4 27. Ne2 Rc8+ 28. Kb6 Qc7+ 29. Kxa6 Ra8+ 30. Kxb5 Rb8+ 31. Ka6 Qc6+ 32. Ka7 Qb7# 0-1
+

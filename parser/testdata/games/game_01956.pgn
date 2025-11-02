@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/G5k6NZLb"]
+[White "jake365"]
+[Black "FranZan77"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:16"]
+[WhiteElo "1535"]
+[BlackElo "1459"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 4. d5 Nf6 5. Nc3 Bxf3 6. Qxf3 Qd7 7. h3 Be7 8. Be2 c6 9. Bg5 cxd5 10. Bb5 Nc6 11. Bxf6 Bxf6 12. exd5 O-O 13. dxc6 bxc6 14. Bxc6 Qd8 15. Bxa8 Qxa8 16. Qxa8 Rxa8 17. Nd5 Rb8 18. b4 e4 19. Rb1 Rc8 20. Nxf6+ gxf6 21. Kd2 d5 22. f3 f5 23. fxe4 fxe4 24. c3 f5 25. Rhf1 Rf8 26. Ke3 Kg7 27. Rbd1 Kg6 28. Rxd5 Rc8 29. Kd4 Kg5 30. Rfxf5+ Kg6 31. Rfe5 Rxc3 32. Kxc3 e3 33. Rxe3 h5 34. Re6+ Kf7 35. Ree5 a5 36. bxa5 Kf6 37. a6 h4 38. a7 Kg6 39. a8=Q Kh6 40. Re6+ Kg7 41. Qa7+ Kf8 42. Rd8# 1-0
+

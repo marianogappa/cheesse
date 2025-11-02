@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yvJKZipp"]
+[White "sharky2017"]
+[Black "Jalalattar"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:26"]
+[WhiteElo "1659"]
+[BlackElo "1678"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "C10"]
+[Opening "French Defense: Rubinstein Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. e4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ Qxf6 6. Be3 Nc6 7. Nf3 Bb4+ 8. c3 Ba5 9. Bb5 Bd7 10. Qa4 Bb6 11. Ne5 Nxe5 12. dxe5 Bxb5 13. Qxb5+ c6 14. Qe2 Qxe5 15. O-O-O Bxe3+ 16. Qxe3 Qxe3+ 17. fxe3 O-O 18. Rd7 Rab8 19. Rhd1 h5 20. h4 a5 21. a4 f6 22. Rc7 Rf7 23. Rdd7 Rxd7 24. Rxd7 e5 25. Kd2 c5 26. Kd3 b6 27. Ke4 Kh7 28. Kf5 Kh6 29. b3 Rg8 30. Rd6 Rb8 31. Ke6 b5 32. Rd5 bxa4 33. bxa4 Rb2 34. Rxc5 Rxg2 35. Rxa5 Rg3 36. c4 Rxe3 37. c5 Rc3 38. Kd6 e4 39. c6 e3 40. Rc5 Rd3+ 41. Kc7 e2 42. Kb7 Rd7+ 43. Kc8 e1=Q 44. Kxd7 Qd1+ 45. Kc7 Qg4 46. Kb7 Qxa4 47. c7 Qb4+ 48. Kc6 Qa4+ 49. Kd6 Qa6+ 50. Rc6 Qc8 51. Rb6 Qf8+ 52. Kc6 Qe8+ 53. Kb7 Qe4+ 54. Kb8 Qe8+ 55. c8=Q Qxc8+ 56. Kxc8 g5 57. Rxf6+ Kg7 58. hxg5 h4 59. Rh6 h3 60. Rxh3 Kg6 61. Rg3 Kg7 62. Kd7 Kg6 63. Ke7 Kg7 64. g6 Kh8 65. Kf6 Kg8 66. Rh3 Kf8 67. g7+ Kg8 68. Rh8# 1-0
+

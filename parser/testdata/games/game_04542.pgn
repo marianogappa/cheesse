@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Gy56euAg"]
+[White "pedropv"]
+[Black "RAMerriam"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:24"]
+[WhiteElo "1607"]
+[BlackElo "1553"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+13"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "240+5"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 e6 4. h4 Be7 5. Bd3 Nh5 6. Bh2 Bxh4 7. g4 Nf6 8. Bf4 Nxg4 9. Qxg4 Bf6 10. Rxh7 Rxh7 11. Bxh7 g6 12. Nh3 e5 13. Bg5 Bxg4 0-1
+

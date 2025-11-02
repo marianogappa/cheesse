@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/yua345DH"]
+[White "Erfgbrez"]
+[Black "Vadim52"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:29"]
+[WhiteElo "1608"]
+[BlackElo "1825"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Scandinavian Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.28] } 1... Nf6 { [%eval 0.58] } 2. Nc3 { [%eval 0.13] } 2... d5 { [%eval 0.52] } 3. exd5 { [%eval 0.38] } 3... Nxd5 { [%eval 0.38] } 4. Nxd5 { [%eval 0.13] } 4... Qxd5 { [%eval 0.16] } 5. d4 { [%eval 0.11] } 5... e5 { [%eval 0.13] } 6. Be3 { [%eval -0.26] } 6... e4?! { [%eval 0.47] } 7. f3?! { [%eval -0.16] } 7... f5? { [%eval 1.01] } 8. Qd2 { [%eval 0.59] } 8... Be6 { [%eval 0.93] } 9. b3 { [%eval 0.52] } 9... a5?! { [%eval 1.22] } 10. Bc4 { [%eval 0.91] } 10... Qd7 { [%eval 1.28] } 11. Bxe6 { [%eval 0.92] } 11... Qxe6 { [%eval 0.96] } 12. fxe4 { [%eval 0.93] } 12... fxe4 { [%eval 0.82] } 13. O-O-O?! { [%eval -0.11] } 13... a4 { [%eval -0.12] } 14. d5 { [%eval -0.26] } 14... Qf5?! { [%eval 0.46] } 15. Ne2 { [%eval 0.2] } 15... axb3 { [%eval 0.25] } 16. cxb3 { [%eval 0.33] } 16... Ba3+ { [%eval 0.12] } 17. Kb1 { [%eval 0.1] } 17... O-O { [%eval 0.14] } 18. Rhf1?? { [%eval -3.47] } 18... Qg6?? { [%eval 0.6] } 19. Rxf8+ { [%eval 0.3] } 19... Kxf8?! { [%eval 1.27] } 20. Nd4?! { [%eval 0.61] } 20... Kg8 { [%eval 0.8] } 21. Rf1?! { [%eval 0.07] } 21... Nd7 { [%eval 0.22] } 22. h4?! { [%eval -0.29] } 22... Ne5 { [%eval -0.42] } 23. h5 { [%eval -0.41] } 23... Qg3?? { [%eval 4.21] } 24. Nf5 { [%eval 3.51] } 24... Qh2? { [%eval 4.66] } 25. Qc3?? { [%eval -0.22] } 25... Qxg2?? { [%eval 3.36] } 26. Qxe5?? { [%eval #-2] } 26... Qxf1+ { [%eval #-1] } 27. Kc2 { [%eval #-1] } 27... Bf8?? { [%eval -5.23] } 28. Bc5?? { [%eval #-7] } 28... Rxa2+ { [%eval #-6] } 29. Kc3 { [%eval #-5] } 29... Qe1+?! { [%eval #-5] } 30. Kc4 { [%eval #-4] } 30... b5+?! { [%eval #-11] } 31. Kxb5 { [%eval #-11] } 31... Qa5+ { [%eval #-10] } 32. Kc6 { [%eval #-10] } 32... Qxc5+ { [%eval #-9] } 33. Kd7 { [%eval #-9] } 33... Qb5+ { [%eval #-8] } 34. Kc8 { [%eval #-4] } 34... Ra8+ { [%eval #-3] } 35. Kxc7 { [%eval #-3] } 0-1
+

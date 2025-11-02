@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/9btSY6rj"]
+[White "davorin"]
+[Black "Nikola89"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:13"]
+[WhiteElo "1611"]
+[BlackElo "1737"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "D03"]
+[Opening "Queen's Pawn Game: Torre Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. d4 Nf6 3. Bg5 c5 4. Bxf6 gxf6 5. e3 e5 6. dxe5 fxe5 7. Nxe5 Bg7 8. Bb5+ Kf8 9. f4 Qh4+ 10. g3 Qe7 11. Qxd5 Nd7 12. Nxd7+ Bxd7 13. Nc3 Qxe3+ 14. Be2 Bg4 15. Qd2 Qe6 16. O-O-O Bf5 17. Bb5 Kg8 18. Rhe1 Qh6 19. h4 a6 20. Bc4 b5 21. Bd5 Qf6 22. Bxa8 b4 23. Re8+ Bf8 24. Ne4 Bxe4 25. Bxe4 a5 26. Qd8 Kg7 27. Qxf6+ Kxf6 28. g4 h6 29. Rdd8 Kg7 30. g5 hxg5 31. hxg5 c4 32. f5 c3 33. f6+ Kg8 34. Rxf8# 1-0
+

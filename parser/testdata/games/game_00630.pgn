@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zvR8tyCB"]
+[White "Julius55"]
+[Black "mishkopishko"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:19"]
+[WhiteElo "1902"]
+[BlackElo "1793"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-8"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Old Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.35] } 1... d5 { [%eval 0.23] } 2. c4 { [%eval 0.28] } 2... dxc4 { [%eval 0.59] } 3. e3 { [%eval 0.39] } 3... e5 { [%eval 0.53] } 4. Qa4+?! { [%eval -0.42] } 4... c6 { [%eval -0.39] } 5. dxe5 { [%eval -0.43] } 5... b5 { [%eval -0.41] } 6. Qc2 { [%eval -0.4] } 6... Qd5?! { [%eval 0.18] } 7. Nf3 { [%eval 0.25] } 7... Bg4? { [%eval 1.31] } 8. Be2?! { [%eval 0.4] } 8... Nd7?! { [%eval 0.93] } 9. Nc3 { [%eval 0.97] } 9... Qe6? { [%eval 3.28] } 10. Qe4?? { [%eval -0.05] } 10... Bf5?! { [%eval 0.7] } 11. Qf4 { [%eval 1.12] } 11... Nc5?? { [%eval 4.44] } 12. Nd4 { [%eval 4.25] } 1-0
+

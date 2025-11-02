@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1HwqAkwH"]
+[White "achimari"]
+[Black "adkinley"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:25"]
+[WhiteElo "1535"]
+[BlackElo "1546"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "C20"]
+[Opening "King's Pawn Game: King's Head Opening #2"]
+[TimeControl "0+10"]
+[Termination "Normal"]
+
+1. e4 e5 2. f3 Nc6 3. c3 Nf6 4. g3 Bc5 5. Ne2 d6 6. Bg2 O-O 7. d4 exd4 8. cxd4 Bb6 9. Be3 a6 10. O-O Bd7 11. Nbc3 Re8 12. Bf2 Ba5 13. f4 Bg4 14. e5 dxe5 15. fxe5 Bxc3 16. bxc3 Nd5 17. Bxd5 Qxd5 18. Qd2 Bh3 19. Nf4 Qc4 20. Nxh3 Rad8 21. Be3 Nxe5 22. Nf4 c5 23. Nh5 Ng4 24. Bf4 Re2 25. Qc1 Rxh2 26. Nf6+ gxf6 27. Bh6 Qe2 28. Rf2 Qxf2# 0-1
+

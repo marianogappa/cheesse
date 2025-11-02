@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RExRlmyv"]
+[White "fatihkanlidere"]
+[Black "chessbona"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:02"]
+[WhiteElo "1847"]
+[BlackElo "1850"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-9"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. e5 f6 4. d4 c5 5. exf6 Nxf6 6. Bb5+ Nc6 7. Bxc6+ bxc6 8. Nc3 cxd4 9. Qxd4 Be7 10. Ne5 O-O 11. Nxc6 Qd7 12. Nxe7+ Qxe7 13. Bg5 e5 14. Bxf6 Rxf6 15. Qxd5+ Kh8 16. O-O Bb7 17. Qb3 Rg6 18. f3 Qg5 19. Rf2 Bc8 20. Ne4 Qf4 21. g3 Qh6 22. Qd5 Be6 23. Qxa8+ Bg8 24. Qxa7 Qh5 25. Rd1 h6 26. Rd8 Kh7 27. Rxg8 Kxg8 28. Qb8+ Kh7 29. g4 Rxg4+ 30. fxg4 Qxg4+ 31. Ng3 Qd1+ 32. Rf1 Qd4+ 33. Kg2 Qe4+ 34. Nxe4 1-0
+

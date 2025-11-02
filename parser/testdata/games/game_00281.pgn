@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/0gQCUO0q"]
+[White "Styve_Lam"]
+[Black "CaballeroTemplario"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:53"]
+[WhiteElo "1284"]
+[BlackElo "1538"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+24"]
+[ECO "C55"]
+[Opening "Italian Game: Scotch Gambit Declined"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 d6 4. d4 Nf6 5. d5 Nd4 6. Nxd4 exd4 7. Qxd4 h6 8. e5 Qe7 9. Bf4 dxe5 10. Bxe5 Qb4+ 11. c3 Qxb2 12. d6 cxd6 13. Bxd6 Qxa1 14. Bb5+ Bd7 15. Bxd7+ Nxd7 16. Bxf8 Rxf8 17. O-O Qxa2 18. Qxg7 O-O-O 0-1
+

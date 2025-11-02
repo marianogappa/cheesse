@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/f4qioRO0"]
+[White "kama"]
+[Black "nickster831"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:31"]
+[WhiteElo "1148"]
+[BlackElo "1151"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. d4 dxe4 3. Nc3 c5 4. Nxe4 cxd4 5. Bc4 Nc6 6. Ng5 Nh6 7. Nxf7 Nxf7 8. Bxf7+ Kxf7 9. Nf3 Kg8 10. Nxd4 Nxd4 11. Qd3 Bf5 12. Qc4+ e6 13. Be3 Rc8 14. Qb5 Nxc2+ 15. Ke2 Nxa1 16. Rxa1 Rc2+ 17. Kf3 g6 18. Qxb7 Rc4 19. Qxa7 Bg4+ 20. Kg3 Bd6+ 21. Bf4 Bxf4+ 22. Kxg4 Bb8+ 23. f4 Bxa7 0-1
+

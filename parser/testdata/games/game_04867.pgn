@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/OP5lAn2q"]
+[White "heathers"]
+[Black "nekollaps"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:48"]
+[WhiteElo "1746"]
+[BlackElo "1727"]
+[WhiteRatingDiff "-22"]
+[BlackRatingDiff "+10"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Drazic Variation"]
+[TimeControl "600+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. d4 a6 4. c4 d5 5. exd5 exd5 6. dxc5 Bxc5 7. Qxd5 Nd7 8. Qd1 Ne7 9. Bg5 O-O 10. Be2 h6 11. Bh4 g5 12. Bg3 Nf5 13. Be5 Nxe5 14. Nxe5 Qa5+ 15. Kf1 Bxf2 16. Nd2 Bd4 17. Nef3 Ne3+ 0-1
+

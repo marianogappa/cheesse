@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/d6B0fxlj"]
+[White "linto"]
+[Black "aslejo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:35"]
+[WhiteElo "1844"]
+[BlackElo "1787"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Ne7 4. d4 Ng6 5. dxe5 Bg4 6. exd6 Bxf3 7. d7+ Nxd7 8. Qxf3 Nde5 9. Qb3 Nxc4 10. Qxc4 Bd6 11. Nc3 Ne5 12. Qb5+ c6 13. Qxb7 O-O 14. O-O Qh4 15. g3 Nf3+ 16. Kg2 Qxh2+ 17. Kxf3 f5 18. Bf4 fxe4+ 19. Nxe4 Bxf4 20. Ke2 Bxg3 21. Nxg3 Qxg3 22. fxg3 Rfe8+ 23. Kf2 Rab8 24. Qxb8 1-0
+

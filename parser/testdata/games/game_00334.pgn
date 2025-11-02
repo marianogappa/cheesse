@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9LaK75VV"]
+[White "das_schach"]
+[Black "Scrapmetal"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:05"]
+[WhiteElo "2109"]
+[BlackElo "2212"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "E38"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Berlin Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.24] } 1... Nf6 { [%eval 0.24] } 2. c4 { [%eval 0.24] } 2... e6 { [%eval 0.25] } 3. Nc3 { [%eval 0.15] } 3... Bb4 { [%eval 0.18] } 4. Qc2 { [%eval 0.03] } 4... c5 { [%eval 0.11] } 5. dxc5 { [%eval -0.11] } 5... Bxc5 { [%eval 0.26] } 6. Nf3 { [%eval 0.35] } 6... O-O { [%eval 0.33] } 7. Bf4 { [%eval 0.26] } 7... d5 { [%eval 0.43] } 8. Rd1 { [%eval 0.2] } 8... Qa5 { [%eval 0.29] } 9. e3 { [%eval 0.25] } 9... Nc6 { [%eval 0.27] } 10. a3 { [%eval 0.25] } 10... Re8 { [%eval 0.47] } 11. b4? { [%eval -1.34] } 11... Nxb4 { [%eval -1.06] } 12. axb4 { [%eval -1.37] } 12... Bxb4 { [%eval -1.38] } 13. Be5 { [%eval -1.44] } 13... Ne4 { [%eval -1.27] } 14. Rc1 { [%eval -1.26] } 14... f6 { [%eval -1.15] } 0-1
+

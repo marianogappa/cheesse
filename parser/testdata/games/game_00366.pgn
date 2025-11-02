@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/9uL5njhw"]
+[White "tr8r"]
+[Black "Thealbatros"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:12"]
+[WhiteElo "1680"]
+[BlackElo "1616"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+12"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Three Knights Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. e3 c5 6. cxd5 exd5 7. dxc5 Bxc5 8. Bb5+ Bd7 9. Bxd7+ Nbxd7 10. Nxd5 Nxd5 11. Qxd5 O-O 12. O-O Rc8 13. Rd1 Nb6 14. Qxb7 Qf6 15. Bd2 Nc4 16. Qb3 Nxd2 17. Nxd2 Rfe8 18. Qc3 Qxc3 19. bxc3 Bb6 20. Nf3 Rxc3 21. Rd7 Rc2 22. h3 g6 23. Rb7 Rd8 24. Ne5 f5 25. Nf7 Rdd2 26. Nh6+ Kf8 27. Rb8+ Ke7 28. Rb7+ Kf6 29. Ng8+ Ke5 30. Ne7 Rxf2 31. Kh2 Rxg2+ 32. Kh1 Rh2+ 33. Kg1 Rcg2+ 34. Kf1 Rc2 35. Nc6+ Kd6 36. Nd4 Ke5 0-1
+

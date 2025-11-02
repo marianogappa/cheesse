@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ydBUQRiI"]
+[White "Demosthenes_Locke"]
+[Black "shinderu"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:38"]
+[WhiteElo "1297"]
+[BlackElo "1613"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 Nc6 3. Nc3 d6 4. Nf3 Qe7 5. Bg5 f6 6. Bh4 g5 7. Bg3 h5 8. h3 h4 9. Bh2 Bd7 10. e3 O-O-O 11. Qb3 e5 12. dxe5 dxe5 13. Nb5 Kb8 14. Bd3 Na5 15. Qc3 Nc6 16. O-O-O Qe6 17. Bc2 Bb4 18. Qb3 a6 19. a3 axb5 20. axb4 bxc4 21. Qc3 Nge7 22. b3 b5 23. bxc4 bxc4 24. b5 Na7 25. Qa5 Nxb5 26. Be4 Bc6 27. Rxd8+ Rxd8 28. Bxc6 Qxc6 29. Qb4 Nd5 30. Qe1 Ndc3 31. Nd2 Na2+ 32. Kb1 Nbc3+ 33. Kb2 Qxg2 34. Nb1 Qb7+ 35. Kc2 Rd1 36. Qxd1 Nxd1 37. Kxd1 Qxb1+ 38. Ke2 Qxh1 0-1
+

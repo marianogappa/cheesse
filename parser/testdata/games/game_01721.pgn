@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/s3WwrsX6"]
+[White "gimer1"]
+[Black "Jon2020"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:33"]
+[WhiteElo "1659"]
+[BlackElo "1520"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+15"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Bc4 d6 3. d3 Nf6 4. h3 Be7 5. Nf3 Nc6 6. Nc3 O-O 7. a3 Be6 8. Bb5 Nb8 9. Ne2 c6 10. Ba4 b5 11. Bb3 Bxb3 12. cxb3 Nbd7 13. O-O a5 14. Ng3 Nc5 15. Be3 Ne6 16. a4 b4 17. Rc1 c5 18. Nh2 d5 19. Nf5 dxe4 20. Nxe7+ Qxe7 21. dxe4 Nxe4 22. Qd5 f5 23. Qxe5 Qf7 24. Rfd1 Rae8 25. Qd6 Nd4 0-1
+

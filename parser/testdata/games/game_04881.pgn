@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EPT9Eqrr"]
+[White "retti121312"]
+[Black "Federico111Red"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:49"]
+[WhiteElo "1611"]
+[BlackElo "1577"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. Bc4 Bg7 3. d3 d6 4. Nc3 Nf6 5. Bg5 O-O 6. h4 h6 7. Be3 Ng4 8. Qd2 Nxe3 9. Qxe3 h5 10. O-O-O Kh7 11. Kb1 Bh6 12. Qg3 Bg4 13. f3 Bd7 14. f4 Bg4 15. Nf3 Nd7 16. f5 gxf5 17. exf5 Nf6 18. Ne4 Rg8 19. Nxf6+ exf6 20. Bxf7 Rg7 21. Bg6+ Kh8 22. Rde1 Bxf5 23. Qf2 Bxg6 24. Nd4 Re7 25. Qxf6+ Kh7 26. g4 Rxe1+ 27. Rxe1 Qxf6 0-1
+

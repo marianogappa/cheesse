@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RTDSpzq5"]
+[White "donatello9"]
+[Black "Dont_Play_Anonymous"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:49"]
+[WhiteElo "1541"]
+[BlackElo "1635"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "E61"]
+[Opening "King's Indian Defense: Semi-Classical Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. c4 g6 2. Nc3 Bg7 3. d4 Nf6 4. e3 d6 5. Nf3 O-O 6. Be2 Nbd7 7. O-O e5 8. dxe5 Nxe5 9. Nxe5 dxe5 10. Qxd8 Rxd8 11. e4 Be6 12. b3 Rd7 13. Rd1 Rad8 14. h3 Ne8 15. Bb2 f5 16. Rxd7 Rxd7 17. Rd1 Rxd1+ 18. Bxd1 Nd6 19. f3 b6 20. Nd5 Bxd5 21. exd5 e4 22. Bxg7 Kxg7 23. Kf2 Kf6 24. fxe4 Nxe4+ 25. Ke3 Ke5 26. g4 f4+ 27. Kf3 g5 28. Bc2 Nd2+ 29. Ke2 Ne4 30. Kf3 Nf6 31. Bf5 h6 32. a4 Kd4 33. a5 bxa5 34. Bc2 Kc3 35. Bd1 Kd4 36. h4 Kc5 37. hxg5 hxg5 38. Ke2 Kd4 39. Kd2 Ne4+ 40. Kc2 Nc5 41. Bf3 Nd3 42. Kb1 Nf2 43. Kb2 Ke3 44. c5 Kxf3 45. d6 cxd6 46. cxd6 Ne4 47. d7 Nf6 48. d8=Q Nxg4 49. Qxg5 Ne3 50. Qh5+ Ke4 51. Qg6+ Kf3 52. Qh5+ Ke4 53. Qe2 f3 54. Qf2 Kf4 55. Kc3 Nd5+ 56. Kd4 Nf6 57. Qe3+ Kg3 58. Qe5+ Kf2 59. Qxf6 Ke2 60. Qh6 f2 61. Qe6+ Kf1 62. Qf5 a4 63. bxa4 a6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3DTI8VFg"]
+[White "RoyZT"]
+[Black "terminatordead"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:45"]
+[WhiteElo "1249"]
+[BlackElo "1128"]
+[WhiteRatingDiff "-122"]
+[BlackRatingDiff "+30"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.32] } 1... e5 { [%eval 0.45] } 2. Qh5?! { [%eval -0.1] } 2... g6?? { [%eval 7.36] } 3. Qxe5+ { [%eval 7.14] } 3... Be7?! { [%eval 7.98] } 4. Qxh8 { [%eval 8.14] } 4... Kf8 { [%eval 8.52] } 5. Qxh7?! { [%eval 7.81] } 5... Nf6? { [%eval 8.93] } 6. Qh8+ { [%eval 8.61] } 6... Ng8 { [%eval 8.91] } 7. Qh3? { [%eval 6.91] } 7... Bh4?! { [%eval 7.88] } 8. g3?! { [%eval 7.05] } 8... Bf6 { [%eval 7.08] } 9. f4? { [%eval 6.04] } 9... c6? { [%eval 7.52] } 10. Nf3 { [%eval 7.22] } 10... d5 { [%eval 7.25] } 11. Qg2?! { [%eval 6.35] } 11... dxe4 { [%eval 6.34] } 12. Nh4? { [%eval 4.79] } 12... Qe7 { [%eval 5.2] } 13. d4?? { [%eval 0.77] } 13... Bxd4?? { [%eval 4.88] } 14. Bd2? { [%eval 3.12] } 14... Bxb2 { [%eval 3.08] } 15. Bc3 { [%eval 2.98] } 15... Bxa1 { [%eval 2.99] } 16. Bxa1 { [%eval 2.85] } 16... Qb4+ { [%eval 3.04] } 17. c3?? { [%eval -5.42] } 17... Qxb1+ { [%eval -5.1] } 18. Kd2? { [%eval -6.71] } 18... Qxa2+ { [%eval -6.37] } 19. Ke3 { [%eval -6.43] } 19... Qxa1 { [%eval -6.48] } 20. Bc4?? { [%eval -13.55] } 20... Qxc3+ { [%eval -12.3] } 21. Ke2 { [%eval -15.18] } 21... Qxc4+ { [%eval -14.86] } 0-1
+

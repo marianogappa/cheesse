@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XGpDYmxQ"]
+[White "moorich"]
+[Black "puma123456"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:45"]
+[WhiteElo "1397"]
+[BlackElo "1695"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted, MacLeod Defense"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nc6 4. Bc4 h6 5. O-O Nf6 6. Nc3 Bc5+ 7. d4 Bb6 8. Bxf4 O-O 9. Kh1 Ba5 10. e5 Nh7 11. h3 d6 12. Nh2 dxe5 13. Be3 exd4 14. Nd5 dxe3 0-1
+

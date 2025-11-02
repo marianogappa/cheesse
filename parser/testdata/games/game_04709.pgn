@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AduxHWHp"]
+[White "AdamastorGeiviclei"]
+[Black "jc_cabezas96"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:08"]
+[WhiteElo "1387"]
+[BlackElo "1469"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. d4 e5 3. d5 Nce7 4. c4 d6 5. b4 Nf6 6. Nc3 g6 7. b5 b6 8. a4 Bg7 9. g4 Bxg4 10. f3 Bd7 11. Bg2 O-O 12. h4 Nh5 13. Nh3 f5 14. Ng5 fxe4 15. fxe4 Bh6 16. Qd3 Kg7 17. Bh3 Rf4 18. Bxd7 Qxd7 19. Bxf4 exf4 20. Ne6+ Kf7 21. O-O-O f3+ 22. Kc2 f2 23. Rdf1 Ng3 24. Rh2 Nxf1 25. Qxf1 Be3 26. Ng5+ Kg7 27. Nh3 Rf8 28. Nxf2 Bxf2 29. Rxf2 Rxf2+ 30. Qxf2 Qg4 31. Kb3 g5 32. Qd4+ Kg6 33. hxg5 Qxg5 34. Kb4 h5 35. Ne2 h4 36. Ng1 a6 37. bxa6 c6 38. dxc6 Nxc6+ 39. Kc3 Nxd4 40. Kxd4 Qxg1+ 41. Kd5 h3 42. a7 Qd1+ 43. Kc6 Qxa4+ 44. Kxb6 h2 45. Kb7 h1=Q 46. a8=Q Qxe4+ 0-1
+

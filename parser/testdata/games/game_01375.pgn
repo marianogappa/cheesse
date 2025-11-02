@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/X3ysBHqr"]
+[White "panxoangel"]
+[Black "Jeevabalan"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:10"]
+[WhiteElo "1634"]
+[BlackElo "1518"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+14"]
+[ECO "C00"]
+[Opening "French Defense: Steinitz Attack"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. e5 Nc6 3. Nf3 Bc5 4. d4 Bb6 5. Nc3 d6 6. exd6 Qxd6 7. Be3 Nf6 8. Bb5 O-O 9. Bxc6 bxc6 10. Qd3 a5 11. O-O-O Ba6 12. Qd2 Rad8 13. h3 Qb4 14. a3 Qc4 15. g4 Bb7 16. g5 Nd5 17. Ne5 c5 18. Nxc4 Nxe3 19. Nxb6 cxb6 20. Qxe3 Bxh1 21. Rxh1 cxd4 22. Qg3 dxc3 23. Qxc3 Rd5 24. f4 Rfd8 25. h4 Rc5 26. Qg3 Rdc8 27. c3 Rd5 28. h5 Rcd8 29. h6 g6 30. Qe3 Rd3 31. Qxb6 R3d6 32. Qb5 Rd5 33. Qb6 R5d6 0-1
+

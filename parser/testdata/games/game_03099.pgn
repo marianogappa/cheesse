@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cBAcQ984"]
+[White "harrytina"]
+[Black "francivene"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:40"]
+[WhiteElo "1635"]
+[BlackElo "1462"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "300+3"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Bc4 a6 3. d3 e6 4. a3 b5 5. Ba2 Bb7 6. Nf3 Ne7 7. O-O Nd5 8. exd5 1-0
+

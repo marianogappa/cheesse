@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tAOPKpDC"]
+[White "ellocodrasco"]
+[Black "HaploEzio"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:39"]
+[WhiteElo "1220"]
+[BlackElo "1389"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[ECO "C61"]
+[Opening "Ruy Lopez: Bird Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Bd3 Nxf3+ 5. Qxf3 Nf6 6. h3 Bc5 7. O-O d6 8. Nc3 Be6 9. b3 a6 10. a4 Qd7 11. Ba3 Bxa3 12. Rxa3 h5 13. Ne2 g5 14. Nc3 g4 15. hxg4 Nxg4 16. Qg3 O-O-O 17. f3 Nf6 18. Kf2 Rdg8 19. Qh2 h4 20. Qg1 h3 21. g4 h2 22. Qg2 Rh4 23. Raa1 Rgh8 24. Rh1 Ne8 25. Ne2 Qe7 26. Ng3 Qg5 27. Rad1 c5 28. Nh5 b5 29. Rxh2 Rxh2 30. Qxh2 bxa4 31. bxa4 a5 32. Qg2 Bd7 33. Bc4 Rh7 34. d3 Bxa4 35. Bb3 Bxb3 36. cxb3 Qh4+ 37. Ke2 Nf6 38. Ng3 Qh2 39. Rg1 Qxg2+ 40. Rxg2 Kc7 41. Kd2 Kb6 42. Kc2 Kb5 43. Kb2 Kb4 44. Rc2 a4 45. Rc4+ Kb5 46. Rxa4 Nd7 47. Rc4 Rh2+ 48. Ka3 Rh3 49. Nf5 Rxf3 50. Nxd6+ Kc6 51. Ne8 Rxd3 0-1
+

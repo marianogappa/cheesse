@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/vUG3FuVa"]
+[White "Dummer"]
+[Black "lollipop61"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:19"]
+[WhiteElo "1563"]
+[BlackElo "1513"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C37"]
+[Opening "King's Gambit Accepted, Blachly Gambit"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 g5 4. Nf3 Nc6 5. O-O f6 6. Nxg5 fxg5 7. Qh5+ Ke7 8. Qf7+ Kd6 9. Qd5+ Ke7 10. Qf7+ Kd6 11. e5+ Kc5 12. Qd5+ Kb6 13. Qb5# 1-0
+

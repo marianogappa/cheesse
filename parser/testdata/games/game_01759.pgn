@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fbSDkBgU"]
+[White "Kingcusicrunch"]
+[Black "mosslegend"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:40"]
+[WhiteElo "2031"]
+[BlackElo "2018"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c3 Nf6 3. Nd2 Bf5 4. g3 e6 5. Bg2 Nc6 6. Ngf3 Bd6 7. O-O Qd7 8. c4 dxc4 9. Nxc4 O-O-O 10. Nce5 Bxe5 11. Nxe5 Nxe5 12. Bxb7+ Kxb7 13. Qb3+ Ka8 14. dxe5 Ne4 15. Be3 c5 16. Rfd1 Qc7 17. Rdc1 Rc8 18. f3 c4 19. Qa3 Rhd8 20. fxe4 Bxe4 21. Rxc4 Qb7 22. Rac1 Rxc4 23. Rxc4 Bd5 24. Ra4 Kb8 25. Rxa7 Qb5 26. Qc5 Qxc5 27. Bxc5 Bc4 28. b4 Bxe2 29. Rxf7 Bd3 30. a4 Bg6 31. Rxg7 Rd1+ 32. Kf2 Ra1 33. a5 Ra2+ 34. Kf3 Ra3+ 35. Kf4 Ra2 36. Kg5 Rxh2 37. Kf6 Rh5 38. Kxe6 Bf5+ 39. Kd6 Be4 40. e6 Rh6 41. Kd7 Bf5 42. Rg8+ Kb7 43. Re8 Ka6 44. Kd6 Kb5 45. Rb8+ Kc4 46. Rb6 Be4 47. Kc7 Rxe6 48. Kb8 Rxb6+ 49. axb6 Bc6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/vvPt2Hbu"]
+[White "Heiervang"]
+[Black "Asinya"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:17"]
+[WhiteElo "1561"]
+[BlackElo "1705"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C36"]
+[Opening "King's Gambit Accepted: Modern Defense #2"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 d5 3. exd5 exf4 4. Nf3 Qxd5 5. Nc3 Qh5 6. Be2 Bg4 7. O-O Nc6 8. d4 O-O-O 9. Bxf4 Bxf3 10. Bxf3 Rxd4 11. Qxd4 Nxd4 12. Bxh5 g6 13. Bd1 f5 14. Ne2 Bc5 15. Kh1 Nf6 16. Nxd4 Bxd4 17. c3 Bb6 18. Bb3 Ng4 19. Bg3 Re8 20. h3 Ne3 21. Rfe1 g5 22. Bf2 f4 23. g3 fxg3 24. Bxe3 Re4 25. Bc2 Rxe3 26. Rxe3 Bxe3 27. Re1 Bb6 28. Re7 Kd8 29. Rxh7 Bc5 30. Rg7 Be7 31. Rg6 Kd7 32. Bb3 Bd6 33. Rxg5 Kc6 34. Rg4 b6 35. Kg2 Kb7 36. Rxg3 c5 37. Rg4 Bg3 38. Rc4 Bd6 39. Rg4 Be5 40. h4 Bf6 41. h5 Bg7 42. Rxg7+ Kc6 43. h6 Kb5 44. h7 Kc6 45. h8=Q Kb5 46. Qe8+ Ka6 0-1
+

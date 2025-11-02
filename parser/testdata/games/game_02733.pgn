@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/cpSAJahk"]
+[White "timkomate"]
+[Black "edermate"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:12"]
+[WhiteElo "1342"]
+[BlackElo "1522"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Anti-Torre"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 Bg4 3. g3 Bxf3 4. exf3 Nc6 5. Bg2 e5 6. O-O exd4 7. c3 dxc3 8. bxc3 Bc5 9. Be3 Bxe3 10. fxe3 Nge7 11. e4 O-O 12. exd5 Qxd5 13. Qxd5 Nxd5 14. Rd1 Ne3 15. Rd3 Nxg2 16. Kxg2 Rae8 17. c4 a6 18. Rd7 Re7 19. Rxe7 Nxe7 20. c5 Ng6 21. Nc3 Ne5 22. Nd5 c6 23. Nc7 Nd3 24. Rd1 Nxc5 25. Rd6 Rc8 26. Ne6 fxe6 27. Rd7 Nxd7 0-1
+

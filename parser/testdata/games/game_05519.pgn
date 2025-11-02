@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/okr2fSmA"]
+[White "scorpion1988"]
+[Black "FuturechessGM27"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:18"]
+[WhiteElo "2092"]
+[BlackElo "2006"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-8"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. c4 Nf6 4. Nc3 Nc6 5. d4 cxd4 6. Nxd4 g6 7. f3 Bg7 8. Be3 O-O 9. Be2 a6 10. Qd2 Bd7 11. O-O Rb8 12. Rac1 Nxd4 13. Bxd4 b5 14. cxb5 axb5 15. Nd5 Nxd5 16. Bxg7 Kxg7 17. exd5 Qb6+ 18. Kh1 e5 19. dxe6 fxe6 20. Qc3+ Kg8 21. Qc7 Qxc7 22. Rxc7 Rfd8 23. Rd1 d5 24. Rdc1 Kf7 25. R1c5 Kf6 26. Kg1 Ke5 27. Kf2 Kd6 28. Rc2 e5 29. Bd3 Rf8 30. Ke3 d4+ 31. Ke2 Ra8 32. a3 Rab8 33. R7c5 Bf5 34. Rc6+ Ke7 35. Rc7+ Bd7 36. R2c5 Kd6 37. Be4 Rb6 38. Rc1 Rfb8 39. R7c5 b4 40. Rd5+ Ke6 41. Rcc5 bxa3 42. Rxe5+ Kf6 43. bxa3 Rb3 44. Red5 Be6 45. Rxd4 Rxa3 46. Rd6 Ra2+ 47. Ke3 Rb3+ 48. Kf4 g5+ 49. Kg3 Rbb2 50. f4 Rxg2+ 51. Bxg2 gxf4+ 52. Kxf4 Rxg2 53. Rcc6 Re2 54. Kf3 Re5 55. Kf4 Rf5+ 56. Kg3 Re5 57. h3 Kf5 58. h4 Re3+ 59. Kf2 Re5 60. Rd4 Kf6 61. Rc7 Rf5+ 62. Kg3 Kg6 63. Ra7 Rf6 64. Rf4 Rxf4 65. Kxf4 Bf7 66. Kg3 Kg7 67. Rc7 Kf6 68. Kf4 Kg7 69. Kg5 Kg8 70. h5 Kg7 71. h6+ Kf8 72. Kf6 Ke8 73. Rxf7 1-0
+

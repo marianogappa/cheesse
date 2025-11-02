@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/utgYQrEx"]
+[White "scorpion1988"]
+[Black "Divos"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:21"]
+[WhiteElo "2148"]
+[BlackElo "2080"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C10"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 Be7 8. b3 b6 9. Bb2 O-O 10. Qe2 Bb7 11. O-O-O a5 12. a4 Qc8 13. h4 c6 14. Rh3 b5 15. axb5 cxb5 16. Bxb5 Bc6 17. Bc4 a4 18. Ng5 axb3 19. Bxb3 Ba3 20. Nxe6 Bxb2+ 21. Kxb2 Re8 22. Re3 fxe6 23. Rxe6 Kh8 24. Re1 Rxe6 25. Qxe6 Qxe6 26. Rxe6 Bxg2 27. c4 Rb8 28. Kc3 Ne4+ 29. Kb2 Nd2 30. Kc3 Nxb3 31. c5 h6 32. c6 Bd5 33. Rd6 Bg8 34. d5 Na5 35. Rd7 Rc8 36. c7 Nb7 37. Kd4 Kh7 38. h5 Na5 39. Kc5 Nb3+ 40. Kb6 Nd4 41. Kb7 Rxc7+ 42. Kxc7 Nf5 43. Rd8 Ne7 44. d6 Nd5+ 45. Kd7 Nf6+ 46. Ke7 Nd5+ 47. Kf8 Nf6 48. Ra8 Be6 49. Ra7 Bh3 50. Rxg7+ Kh8 51. Rg6 Nd7+ 52. Ke7 Nc5 53. Rxh6+ Kg7 54. Rg6+ Kh7 55. Rf6 Bg4 56. Rf4 Bh3 57. Rc4 Nd7 58. Rh4 Bf5 59. Rf4 Bh3 60. Rf3 Bg4 61. Rg3 Bf5 62. Rg5 Bh3 63. f4 Kh6 64. Re5 Kg7 65. Ra5 Kh6 66. Ra7 Nc5 67. Ra5 Nd7 68. f5 Nb8 69. Rb5 Nc6+ 70. Kf6 Nd8 71. Rb8 Nc6 72. Rh8# 1-0
+

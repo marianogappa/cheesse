@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/lp9svQIL"]
+[White "kingdeo"]
+[Black "bartu66x"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:26"]
+[WhiteElo "1856"]
+[BlackElo "1529"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Central Variation, McDonnell Defense"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.35] } 1... d5 { [%eval 0.35] } 2. c4 { [%eval 0.34] } 2... dxc4 { [%eval 0.57] } 3. e4 { [%eval 0.3] } 3... e5 { [%eval 0.26] } 4. d5?! { [%eval -0.48] } 4... Nf6 { [%eval -0.48] } 5. Nc3 { [%eval -0.58] } 5... b5 { [%eval -0.56] } 6. Bg5 { [%eval -0.62] } 6... Bc5 { [%eval -0.25] } 7. Nxb5?! { [%eval -0.95] } 7... Bxf2+ { [%eval -0.82] } 8. Kxf2 { [%eval -1.29] } 8... Nxe4+ { [%eval -1.08] } 9. Ke3?? { [%eval -5.06] } 9... Nxg5? { [%eval -2.92] } 10. Bxc4? { [%eval -4.18] } 10... c6 { [%eval -3.93] } 11. dxc6 { [%eval -4.32] } 11... Nxc6?? { [%eval -0.29] } 12. Qxd8+ { [%eval -0.35] } 12... Nxd8? { [%eval 2.51] } 13. Nc7+ { [%eval 2.42] } 13... Ke7 { [%eval 2.35] } 14. Nxa8 { [%eval 2.16] } 14... Bb7 { [%eval 2.43] } 15. h4? { [%eval 1.3] } 15... Bxa8?? { [%eval 5.68] } 16. hxg5 { [%eval 5.75] } 16... Ne6 { [%eval 5.68] } 17. Bxe6 { [%eval 5.66] } 17... fxe6? { [%eval 6.74] } 18. Nf3 { [%eval 6.58] } 18... Kd6 { [%eval 6.54] } 19. Rad1+ { [%eval 6.45] } 19... Bd5 { [%eval 6.63] } 20. g6 { [%eval 6.62] } 20... h6 { [%eval 6.44] } 21. b3 { [%eval 6.16] } 21... Rb8 { [%eval 5.96] } 22. Rh5 { [%eval 5.88] } 22... Rb4 { [%eval 5.79] } 23. Rxe5 { [%eval 5.79] } 23... Rg4 { [%eval 5.58] } 24. Re4?? { [%eval -0.9] } 24... Rxe4+ { [%eval -0.87] } 25. Kf2 { [%eval -0.93] } 25... a5 { [%eval -0.85] } 26. Ne1 { [%eval -1.21] } 26... a4 { [%eval -1.18] } 27. bxa4?! { [%eval -2.08] } 27... Rxa4 { [%eval -2.04] } 28. Rd2?! { [%eval -2.55] } 28... Rxa2 { [%eval -2.47] } 29. Rxa2 { [%eval -2.45] } 1-0
+

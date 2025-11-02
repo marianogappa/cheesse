@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GMnY1VxW"]
+[White "lukapetar"]
+[Black "Patchboy123us"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:54"]
+[WhiteElo "1788"]
+[BlackElo "1758"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. e3 e5 2. c3 c5 3. d4 cxd4 4. cxd4 exd4 5. Qxd4 Nc6 6. Qe4+ Qe7 7. Qxe7+ Bxe7 8. Nc3 Nb4 9. Bd2 Nc2+ 10. Ke2 Nxa1 11. Kd3 d6 12. Be2 Nf6 13. Nf3 Bf5+ 14. e4 Nxe4 15. Nxe4 Bxe4+ 16. Kxe4 Nc2 17. Bd3 f5+ 18. Kd5 Rc8 19. Bc3 Rc5+ 20. Ke6 Rxc3 21. bxc3 Na3 22. Bxf5 Nb5 23. c4 Nc7# 0-1
+

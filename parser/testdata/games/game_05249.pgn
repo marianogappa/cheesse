@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/xWf9XQKe"]
+[White "GrimHeart"]
+[Black "skinnybob"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:11"]
+[WhiteElo "1050"]
+[BlackElo "1022"]
+[WhiteRatingDiff "-25"]
+[BlackRatingDiff "+11"]
+[ECO "D08"]
+[Opening "Queen's Gambit Refused: Albin Countergambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e5 3. Nf3 c6 4. Be3 f6 5. Nbd2 Bf5 6. cxd5 cxd5 7. dxe5 fxe5 8. Nxe5 Nd7 9. Bd4 Bb4 10. e4 Bxe4 11. Rc1 Rc8 12. Bd3 Bxd3 13. Nxd3 Ngf6 14. Nxb4 O-O 15. O-O Qe7 16. Re1 Qxb4 17. Bc3 Qd6 18. b4 Rce8 19. Nf3 Re6 20. Re2 Ne4 21. Nd4 Ref6 22. b5 Ne5 23. f3 Nxc3 24. Rxc3 Ng4 25. Ne6 Qxh2+ 26. Kf1 Qh1# 0-1
+

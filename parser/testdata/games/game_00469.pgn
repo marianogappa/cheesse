@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZJor7pRD"]
+[White "I186cm84kg26cmI"]
+[Black "Cenzer2"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:40"]
+[WhiteElo "1337"]
+[BlackElo "1152"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "C21"]
+[Opening "Center Game #2"]
+[TimeControl "420+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d4 f6 3. dxe5 fxe5 4. Nc3 d6 5. Nf3 Qd7 6. b3 Be7 7. Bb2 g5 8. h3 Nh6 9. Nd5 Rf8 10. a4 c6 11. Nb4 a5 12. Nd3 Na6 13. c4 Rf7 14. Ndxe5 dxe5 15. Qxd7+ Bxd7 16. Rd1 g4 17. Nxe5 Rf4 18. Be2 Rxe4 19. O-O gxh3 20. gxh3 Bxh3 21. Rfe1 Ng4 22. Bxg4 Bxg4 23. Rxe4 Bxd1 24. Re1 Bh5 25. Bd4 Nb4 26. c5 Nc2 27. Re4 Rd8 28. Be3 Rd1+ 29. Kg2 Nxe3+ 30. Rxe3 Bh4 31. Rh3 Rd4 32. Nf3 Rg4+ 33. Kh2 Bxf2 34. Rxh5 Bg3+ 35. Kh3 1-0
+

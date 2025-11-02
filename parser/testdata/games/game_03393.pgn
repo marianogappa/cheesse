@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/bskSDVsP"]
+[White "bartu66x"]
+[Black "Pervach"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:52"]
+[WhiteElo "1525"]
+[BlackElo "1975"]
+[WhiteRatingDiff "+24"]
+[BlackRatingDiff "-24"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.24] } 1... e6 { [%eval 0.11] } 2. e4 { [%eval 0.14] } 2... g6?! { [%eval 0.73] } 3. Nf3 { [%eval 0.68] } 3... Bg7 { [%eval 0.81] } 4. h4 { [%eval 0.6] } 4... c5?! { [%eval 1.14] } 5. dxc5 { [%eval 1.23] } 5... Qa5+ { [%eval 1.47] } 6. c3 { [%eval 1.4] } 6... Qxc5 { [%eval 1.6] } 7. Be3 { [%eval 1.45] } 7... Qh5? { [%eval 3.36] } 8. Na3 { [%eval 3.45] } 8... Qa5? { [%eval 4.49] } 9. Nb5 { [%eval 4.17] } 9... Na6? { [%eval 5.61] } 10. h5 { [%eval 5.0] } 10... Bf8?? { [%eval 13.82] } 11. hxg6 { [%eval 12.97] } 11... h5 { [%eval 23.23] } 12. gxf7+ { [%eval 22.85] } 12... Kxf7 { [%eval 22.67] } 13. Ne5+ { [%eval 21.19] } 13... Kf6?! { [%eval #3] } 14. Qf3+ { [%eval #2] } 14... Kxe5 { [%eval #1] } 15. Qxf8?! { [%eval #2] } 15... Nc7 { [%eval #1] } 16. Nxc7?! { [%eval #4] } 16... Qxc7 { [%eval #1] } 17. Qg7+?! { [%eval 21.78] } 17... Kxe4?! { [%eval #2] } 18. Qxh8?! { [%eval #6] } 18... Nf6 { [%eval #4] } 19. Qxf6 { [%eval #3] } 19... Qe5 { [%eval #1] } 20. Rh4+?! { [%eval #5] } 20... Kd5 { [%eval #5] } 21. O-O-O+ { [%eval #4] } 1-0
+

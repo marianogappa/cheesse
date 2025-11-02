@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/paWawX9R"]
+[White "mrjulio"]
+[Black "faramarzmoezzi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:49"]
+[WhiteElo "1820"]
+[BlackElo "1673"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+14"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Nxe5 Be6 7. Bc4 Ke7 8. O-O Nd7 9. Nxd7 Bxd7 10. Nc3 Nf6 11. e5 Ng4 12. Nd5+ Kd8 13. f4 Be6 14. h3 Bc5+ 15. Kh1 Nf2+ 16. Kh2 Ne4 17. f5 Bd7 18. b4 Bd4 19. Rb1 Bxe5+ 20. Kh1 Ng3+ 21. Kg1 Nxf1 22. Kxf1 Bxf5 23. Ne3 Bg6 24. Ba3 Bd4 25. Rd1 c6 26. Rxd4+ Kc7 27. Bd3 Rad8 28. Rxd8 Rxd8 29. Bxg6 hxg6 30. Ke2 Re8 31. Bb2 f6 32. Kf3 Kd6 33. c4 b5 34. c5+ Ke6 35. g4 Rd8 36. Bc1 Rd3 37. Ke4 Rd7 38. Bb2 Rd2 39. Bc3 Rxa2 40. h4 Rh2 41. h5 gxh5 42. gxh5 Rxh5 43. Kf4 Rh4+ 44. Kf3 Rh3+ 45. Ke4 g6 46. Nd1 f5+ 47. Kf4 Rh4+ 48. Kg3 Rg4+ 49. Kf3 Rg1 50. Ne3 Rh1 51. Kf4 Rh4+ 52. Kf3 Rh3+ 53. Ke2 g5 54. Be1 f4 55. Ng4 Rh4 56. Kf3 Rh3+ 57. Ke4 Rh1 58. Bc3 Rg1 59. Kf3 Rf1+ 60. Kg2 Rc1 61. Bf6 Kf5 62. Kf3 Rf1+ 0-1
+

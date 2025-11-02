@@ -1,0 +1,18 @@
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/RalFqnld"]
+[White "ReactorofR"]
+[Black "TettRamm"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:03"]
+[WhiteElo "1249"]
+[BlackElo "1616"]
+[WhiteRatingDiff "-41"]
+[BlackRatingDiff "+49"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "-"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 d6 3. Nf3 Nc6 4. b4 Nf6 5. Nbd2 Nxb4 6. a3 Nc6 7. g4 Nxg4 8. dxe5 Ngxe5 9. Bc4 Nxc4 10. Nxc4 Bg4 11. Bg5 f6 12. Bh4 g5 13. Nxg5 fxg5 14. Bg3 Bxd1 15. Kxd1 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/l00lvBfI"]
+[White "jpmc"]
+[Black "Fashma"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:30"]
+[WhiteElo "1406"]
+[BlackElo "1481"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[ECO "B00"]
+[Opening "Caro-Kann Defense: Hillbilly Attack"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Bc4 b6 3. Nf3 Bb7 4. O-O e6 5. d3 b5 6. Bb3 Qf6 7. a4 Bd6 8. axb5 cxb5 9. Bg5 Qg6 10. Re1 h6 11. Bh4 Nf6 12. e5 Bxe5 13. Rxe5 O-O 14. Rxb5 Bc6 15. Rb4 a5 16. Rc4 d5 17. Rxc6 Nxc6 18. Bxf6 gxf6 19. c3 Kh8 20. d4 Rg8 21. Nh4 Qg4 22. Qxg4 Rxg4 23. g3 Rag8 24. Nd2 e5 25. dxe5 fxe5 26. Ndf3 e4 27. Nd4 Nxd4 28. cxd4 f5 29. Bxd5 f4 0-1
+

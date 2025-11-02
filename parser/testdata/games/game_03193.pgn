@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/X0DXIkXK"]
+[White "medoshvili"]
+[Black "MrKit"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:06"]
+[WhiteElo "1732"]
+[BlackElo "2170"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+[ECO "A41"]
+[Opening "Rat Defense: English Rat"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 d6 2. c4 e5 3. Nc3 exd4 4. Qxd4 Nc6 5. Qd1 Be6 6. Nf3 Bxc4 7. Bg5 Be7 8. Bxe7 Ngxe7 9. b3 Be6 10. e3 Qd7 11. Bb5 O-O-O 12. Nd4 a6 13. Nxc6 Nxc6 14. Bd3 Ne5 15. O-O Qc6 16. Na4 Bh3 17. g3 Qg2# 0-1
+

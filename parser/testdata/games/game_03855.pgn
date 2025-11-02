@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/RjN5DB3U"]
+[White "boarderliner"]
+[Black "Alazar"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:45"]
+[WhiteElo "1430"]
+[BlackElo "1213"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+17"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. c3 d5 3. Bb5 a6 4. Bxc6+ bxc6 5. d3 d4 6. Nf3 c5 7. c4 f5 8. O-O e6 9. exf5 exf5 10. Re1+ Ne7 11. Bd2 g6 12. b4 cxb4 13. Qa4+ Bd7 14. Qxb4 c5 15. Qxc5 Rc8 16. Qxd4 Rg8 17. Qa7 Bg7 18. Ba5 Qxa5 19. Re2 Bxa1 20. d4 Bxd4 21. Nxd4 Rxc4 22. Qa8+ Rc8 23. h3 0-1
+

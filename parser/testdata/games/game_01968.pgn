@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FbgbIjLO"]
+[White "HUAYTR"]
+[Black "nazarokoko"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:25"]
+[WhiteElo "1471"]
+[BlackElo "1428"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C79"]
+[Opening "Ruy Lopez: Morphy Defense, Steinitz Deferred"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. d3 Bg4 7. c3 b5 8. Bb3 Na5 9. Bd5 c6 10. Bb3 Nxb3 11. Qxb3 Bxf3 12. gxf3 Be7 13. Nd2 Nh5 14. Kh1 Nf4 15. d4 f6 16. dxe5 fxe5 17. Rg1 Bf6 18. Nf1 Nh3 19. Qe6+ Qe7 20. Qxh3 1-0
+

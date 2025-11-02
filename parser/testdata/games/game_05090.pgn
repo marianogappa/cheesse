@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZNAFuJgf"]
+[White "hasan_safir"]
+[Black "new_world"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:34"]
+[WhiteElo "2010"]
+[BlackElo "2210"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-16"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "180+3"]
+[Termination "Normal"]
+
+1. d4 g6 2. e4 Bg7 3. c3 d6 4. Be3 e5 5. dxe5 Bxe5 6. f4 Bg7 7. Nf3 Nf6 8. Bd3 O-O 9. O-O Nc6 10. Na3 Ng4 11. Bd2 a6 12. h3 Nh6 13. Qc1 f5 14. Bc4+ Kh8 15. e5 d5 16. Bb3 d4 17. cxd4 Nxd4 18. Nxd4 Qxd4+ 19. Be3 Qe4 20. Bc2 Qc6 21. Bb3 Qe4 22. Bc2 Qb4 23. Bd2 Qb6+ 24. Be3 c5 25. Nc4 Qb4 26. Bd3 Be6 27. a3 Qb3 28. Be2 b5 29. Na5 Qa4 30. Nb7 Rfc8 31. Nd6 Rc7 32. b4 c4 33. Bd1 c3 34. Bxa4 bxa4 35. Bc5 a5 36. Qxc3 axb4 37. axb4 a3 38. Rxa3 Rb8 39. Rfa1 Bf8 40. Ra8 Rxa8 41. Rxa8 Kg8 42. Nb5 Rc6 43. Rxf8+ Kg7 44. Rb8 Nf7 45. Qd4 Ra6 46. Nd6 Nh6 47. Ne8+ Kf7 48. Qd8 Ra1+ 49. Kh2 Ng8 50. Nd6+ Kg7 51. Qf8+ Kh8 52. Nf7+ Bxf7 53. Qxf7 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Yf0R7shP"]
+[White "GilAGlez"]
+[Black "yakgul"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:22"]
+[WhiteElo "1827"]
+[BlackElo "1827"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "D88"]
+[Opening "Gruenfeld Defense: Exchange Variation, Spassky Variation"]
+[TimeControl "60+2"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8. Ne2 c5 9. O-O Nc6 10. Be3 cxd4 11. cxd4 a6 12. Rc1 Bg4 13. f3 Bd7 14. d5 Ne5 15. f4 Nxc4 16. Rxc4 Bb5 17. Rc1 Qa5 18. Qd2 Qxd2 0-1
+

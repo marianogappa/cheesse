@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/tAAmQEa0"]
+[White "obadboystanley"]
+[Black "AMarcos"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:52"]
+[WhiteElo "1453"]
+[BlackElo "1384"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Macleod Attack"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. e4 e5 2. c3 Nf6 3. Nf3 Bc5 4. Nxe5 Nxe4 5. Qf3 Nf6 6. Bc4 d5 7. Bb5+ Bd7 8. Bxd7+ Nbxd7 9. Qg3 O-O 10. d4 Ne4 11. Qg4 Ndf6 12. Bg5 Nxg4 13. Bxd8 Ngxf2 14. Bxc7 Nxh1 15. dxc5 Nxc5 16. Nd2 f6 17. Nef3 Ne4 18. Nxe4 dxe4 19. Nd4 Rae8 20. Kf1 e3 21. Re1 Nf2 22. Bf4 Nd3 23. Bd6 Nxe1 24. Kxe1 Rf7 25. Nf5 Kh8 26. b4 Rd8 27. Ke2 Re8 28. Bf4 g6 29. Nxe3 g5 30. Bg3 Rfe7 31. Kf3 Rxe3+ 32. Kg4 Rxc3 33. Kh5 Rc2 34. a4 Rxg2 35. a5 Rb2 36. Bd6 Rd8 37. Bc5 Kg7 38. h4 gxh4 39. Kxh4 Kg6 40. Kg4 f5+ 41. Kf4 h5 42. Be7 Re8 43. Bd6 Rf2+ 44. Kg3 Rd2 45. Bc5 Kg5 46. Bxa7 f4+ 47. Kh3 Rd3+ 48. Kh2 Re2+ 49. Kh1 Rd1+ 50. Bg1 Rxg1+ 51. Kxg1 f3 52. Kf1 Ra2 53. b5 h4 54. a6 h3 55. axb7 Ra1+ 56. Kf2 Ra2+ 57. Kxf3 Ra3+ 58. Kf2 h2 59. b8=Q h1=Q 60. Qe5+ Kg6 61. Qd6+ Kf5 62. Qxa3 Qh2+ 63. Ke1 Qe5+ 64. Kf1 Qxb5+ 65. Kf2 Qb6+ 66. Qe3 1/2-1/2
+

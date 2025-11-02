@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/drraGEHG"]
+[White "JonasBohlig"]
+[Black "klajahunbago"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:21"]
+[WhiteElo "1427"]
+[BlackElo "1374"]
+[WhiteRatingDiff "+66"]
+[BlackRatingDiff "-12"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.17] } 1... d5 { [%eval 0.17] } 2. Nf3 { [%eval 0.17] } 2... f6?! { [%eval 1.07] } 3. c4 { [%eval 0.92] } 3... e6 { [%eval 1.04] } 4. a3 { [%eval 0.93] } 4... c6 { [%eval 0.81] } 5. Nbd2 { [%eval 0.7] } 5... a5 { [%eval 1.03] } 6. e4 { [%eval 1.22] } 6... Qe7?! { [%eval 1.96] } 7. Bd3 { [%eval 2.08] } 7... g5 { [%eval 2.29] } 8. h3 { [%eval 1.92] } 8... h5 { [%eval 2.37] } 9. cxd5 { [%eval 2.49] } 9... exd5 { [%eval 2.66] } 10. O-O { [%eval 2.58] } 10... dxe4? { [%eval 4.36] } 11. Bxe4? { [%eval 3.22] } 11... Be6? { [%eval 4.28] } 12. Bg6+? { [%eval 3.25] } 12... Bf7?! { [%eval 3.94] } 13. Re1 { [%eval 4.1] } 13... Qxe1+?? { [%eval 9.56] } 14. Qxe1+ { [%eval 9.33] } 14... Kd7?! { [%eval 18.99] } 15. Bxf7 { [%eval 18.2] } 15... Nh6 { [%eval 24.99] } 16. Qe8+ { [%eval 24.53] } 16... Kc7 { [%eval 24.06] } 17. Be6 { [%eval 23.16] } 17... Kb6 { [%eval 25.0] } 18. Nc4+ { [%eval 24.76] } 18... Ka7 { [%eval 24.48] } 19. Qd8 { [%eval 23.6] } 19... Na6?! { [%eval #3] } 20. Qb6+ { [%eval #2] } 20... Kb8 { [%eval #2] } 21. Nxa5 { [%eval #1] } 21... Bd6 { [%eval #1] } 22. Qxb7# 1-0
+

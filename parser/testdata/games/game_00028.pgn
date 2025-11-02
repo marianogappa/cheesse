@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/O1IgOGfE"]
+[White "Samy129291"]
+[Black "GodlikeMoves"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "1717"]
+[BlackElo "1854"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-16"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 e6 4. d4 cxd4 5. Nxd4 Nxd4 6. Qxd4 Be7 7. Qxg7 Qa5+ 8. Nc3 Bf8 9. Qxh8 Ne7 10. Qxh7 d5 11. exd5 exd5 12. Bb5+ Bd7 13. Bxd7+ 1-0
+

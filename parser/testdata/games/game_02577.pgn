@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UDZahqT2"]
+[White "Roma610"]
+[Black "Bishopkiller"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:48"]
+[WhiteElo "1876"]
+[BlackElo "1793"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 a6 2. f4 b5 3. Nf3 Bb7 4. e3 e6 5. c4 c6 6. cxb5 cxb5 7. Nc3 d6 8. a3 Nf6 9. Bd3 Be7 10. O-O O-O 11. Bd2 Nbd7 12. Qe2 Rc8 13. Rac1 Nb6 14. e4 Nc4 15. e5 dxe5 16. fxe5 Bxf3 17. Rxf3 Nxd2 18. Qxd2 Qxd4+ 19. Kh1 Qxe5 20. Re1 Qb8 21. Qe3 Rcd8 22. Bb1 Nd5 23. Qe4 g6 24. Nxd5 Rxd5 25. Qg4 Rg5 26. Qe4 Bd6 27. h3 Re5 28. Qh4 Rxe1+ 29. Qxe1 Bg3 30. Qxg3 Qxg3 31. Rxg3 Rd8 32. Be4 Rd7 33. Rc3 Rd2 34. Rc2 Rd1+ 35. Kh2 Kg7 36. Bf3 Rd6 37. Rc6 Rd2 38. Rxa6 Rxb2 39. Rb6 Rb3 40. a4 Ra3 41. axb5 Rb3 42. Rb8 Kf6 43. b6 Rb5 44. b7 Rb6 45. Rd8 1-0
+

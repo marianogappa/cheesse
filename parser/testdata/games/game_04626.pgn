@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/pU9Esvue"]
+[White "derek187"]
+[Black "tanoff"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:44"]
+[WhiteElo "924"]
+[BlackElo "1020"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 c5 3. dxc5 Nf6 4. Bb5+ Nbd7 5. a4 e5 6. f4 Bxc5 7. fxe5 Ne4 8. Nc3 O-O 9. Nxd5 Nxe5 10. Nf3 Nc6 11. b4 Nxb4 12. Ba3 Bf5 13. Bxb4 Bxb4+ 14. Nxb4 Qe7 15. Nd4 Rad8 16. Nxf5 Qxb4+ 17. Ke2 Rxd1 18. Kxd1 Qxb5 0-1
+

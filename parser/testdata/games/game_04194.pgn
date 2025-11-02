@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/9YapMTBX"]
+[White "RussianMachine"]
+[Black "gheel2000"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:52"]
+[WhiteElo "995"]
+[BlackElo "1238"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+16"]
+[ECO "A43"]
+[Opening "Benoni Defense: Benoni Gambit Accepted"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.25] } 1... c5 { [%eval 0.6] } 2. dxc5 { [%eval 0.12] } 2... Qa5+ { [%eval 0.58] } 3. b4? { [%eval -0.68] } 3... Qb5? { [%eval 1.78] } 4. c4? { [%eval -0.55] } 4... Qxb4+ { [%eval -0.63] } 5. Bd2 { [%eval -0.62] } 5... Qxc4 { [%eval -0.47] } 6. Nc3 { [%eval -0.68] } 6... Qxc5 { [%eval -0.47] } 7. Be3?? { [%eval -5.21] } 7... Qe5?? { [%eval -1.17] } 8. f4?? { [%eval -5.85] } 8... Qxc3+?! { [%eval -5.29] } 9. Bd2 { [%eval -5.24] } 9... Qf6 { [%eval -4.92] } 10. Nf3 { [%eval -4.85] } 10... d6?! { [%eval -3.92] } 11. g3?! { [%eval -4.68] } 11... Bg4? { [%eval -3.43] } 12. Nh4? { [%eval -4.72] } 12... Nc6 { [%eval -4.48] } 13. e3?? { [%eval -12.8] } 13... Bxd1 { [%eval -12.64] } 14. Kxd1 { [%eval -21.37] } 14... O-O-O { [%eval -12.97] } 15. e4 { [%eval -23.97] } 15... Qxa1+ { [%eval -23.56] } 16. Ke2 { [%eval -23.22] } 16... Qb2 { [%eval -22.86] } 17. Bg2 { [%eval -24.29] } 17... Nd4+ { [%eval -23.93] } 18. Ke3 { [%eval -23.41] } 18... e5 { [%eval -22.32] } 19. fxe5 { [%eval -33.26] } 19... dxe5 { [%eval -29.77] } 20. Nf3?! { [%eval #-9] } 20... Nxf3 { [%eval #-8] } 21. Bxf3 { [%eval #-1] } 21... Qxa2?! { [%eval #-12] } 22. Rd1 { [%eval #-6] } 22... Qa4?! { [%eval -27.49] } 23. Bc3?! { [%eval #-9] } 23... Qxd1?! { [%eval -21.95] } 24. Bxd1 { [%eval -21.55] } 24... Rxd1 { [%eval -20.64] } 25. Be1?! { [%eval #-9] } 25... b5?! { [%eval -22.42] } 26. Bb4?! { [%eval #-7] } 26... Rb1?! { [%eval -22.14] } 27. Bxf8 { [%eval -17.17] } 27... Rb3+ { [%eval -16.19] } 28. Kf2?! { [%eval #-10] } 28... Nf6 { [%eval #-10] } 29. Bxg7 { [%eval #-9] } 29... Nxe4+ { [%eval -47.72] } 30. Kg1?! { [%eval #-5] } 30... Rf3?! { [%eval -62.75] } 31. Bxh8 { [%eval -60.55] } 31... Rf1+?? { [%eval -6.52] } 0-1
+

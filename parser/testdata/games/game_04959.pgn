@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/TVaCEK0K"]
+[White "OMB1"]
+[Black "peppefabi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:09"]
+[WhiteElo "1591"]
+[BlackElo "1594"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-17"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 g6 4. Bd3 Bg7 5. c3 O-O 6. Nd2 Nbd7 7. Ngf3 c5 8. Qe2 c4 9. Bc2 a6 10. Ne5 e6 11. O-O Nxe5 12. Bxe5 b5 13. Bxf6 Bxf6 14. e4 dxe4 15. Bxe4 Rb8 16. Bf3 Bb7 17. Bxb7 Rxb7 18. Qf3 Rd7 19. Ne4 Bg7 20. Nc5 Re7 21. Rad1 Qb6 22. Ne4 e5 23. dxe5 Rxe5 24. Ng3 Qa5 25. a3 Rfe8 26. Rd5 Qb6 27. Rxe5 Rxe5 28. Qa8+ Bf8 29. Rd1 Qe6 30. h3 Kg7 31. Rd8 Bc5 32. Rg8+ Kh6 33. Qf3 Re1+ 34. Kh2 f5 35. Qf4+ g5 36. Qxg5# 1-0
+

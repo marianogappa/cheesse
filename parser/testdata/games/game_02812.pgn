@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MCbqxTqx"]
+[White "Begemot777"]
+[Black "shemsiu"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:33"]
+[WhiteElo "2185"]
+[BlackElo "1888"]
+[WhiteRatingDiff "-21"]
+[BlackRatingDiff "+20"]
+[ECO "A40"]
+[Opening "Englund Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 e5 2. c3 e4 3. e3 d5 4. c4 c6 5. cxd5 cxd5 6. Nc3 Nf6 7. Nge2 Bb4 8. Qb3 Nc6 9. Nf4 O-O 10. Bd2 Bxc3 11. Bxc3 g5 12. Ne2 a5 13. Rc1 a4 14. Qd1 b5 15. a3 Rb8 16. Qd2 Bd7 17. Bb4 Re8 18. Nc3 Nxb4 19. axb4 Qe7 20. Nb1 Rec8 21. Be2 Rxc1+ 22. Qxc1 Qxb4+ 23. Qc3 Qd6 24. O-O Bg4 25. Bxg4 Nxg4 26. g3 h5 27. Rc1 h4 28. Qc5 Qd7 29. Nc3 Rc8 30. Qb6 hxg3 31. hxg3 Kg7 32. Kg2 Nf6 33. Rh1 b4 34. Nxa4 Rc2 35. Nc5 Qf5 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/OcGzEshH"]
+[White "RNC"]
+[Black "SHARK70"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:39"]
+[WhiteElo "1688"]
+[BlackElo "1685"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "60+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. d3 e6 3. Nc3 Ne7 4. Bf4 a6 5. f3 Ng6 6. Bg3 Nc6 7. Nge2 b5 8. Nf4 Bb7 9. Nxg6 fxg6 10. Be2 Be7 11. h3 O-O 12. O-O Bh4 13. Qe1 Bg5 14. Bd6 Be7 15. Bxe7 Qxe7 16. Rd1 Ne5 17. d4 cxd4 18. Rxd4 Rac8 19. Qd2 Qc5 20. Kh1 b4 21. Na4 Qxc2 22. Qxc2 Rxc2 23. Bd1 Rc7 24. Bb3 Rfc8 25. Kh2 Nc6 26. Rd6 Na5 27. Rfd1 Nxb3 28. axb3 Rc2 29. Rxd7 Bc6 30. R7d2 Bxa4 31. bxa4 b3 32. f4 R8c4 33. Rd7 Rxb2 34. R1d6 Rxe4 35. Rxa6 Ree2 36. Ra8# 1-0
+

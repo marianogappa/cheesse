@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DsZGnOsi"]
+[White "miljun"]
+[Black "FrankyPerry"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:21"]
+[WhiteElo "1211"]
+[BlackElo "1426"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+5"]
+[ECO "A22"]
+[Opening "English Opening: Carls-Bremen System"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Nc6 4. Bg2 Bc5 5. Nf3 O-O 6. O-O Re8 7. d3 d5 8. cxd5 Nxd5 9. Bg5 Nf6 10. Bxf6 Qxf6 11. a3 Bf5 12. b4 Bb6 13. Nd5 Qe6 14. e4 Bg6 15. b5 Nd4 16. Rc1 c6 17. bxc6 bxc6 18. Nc3 Nxf3+ 19. Bxf3 Rad8 20. Be2 c5 21. Na4 c4 22. Rxc4 Qf6 23. Nxb6 axb6 24. Qc1 h6 25. Rc6 Qe7 26. Rxb6 Rc8 27. Rc6 Ra8 28. Rc3 Qd7 29. Qb1 Reb8 30. Qc2 Rc8 31. Rxc8+ Rxc8 32. Qb2 Ra8 33. Qxe5 Rxa3 34. Ra1 Rb3 35. Rd1 Qa4 36. Kg2 Qa2 37. Bg4 Rb2 38. Qe8+ Kh7 39. Rf1 Rd2 40. d4 Rxd4 41. Bf5 Bxf5 42. exf5 Rc4 43. Qxf7 Qc2 44. Qg6+ Kh8 45. Qg4 Rxg4 0-1
+

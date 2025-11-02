@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UYup2NDn"]
+[White "Roccojog"]
+[Black "shhhh"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:13"]
+[WhiteElo "1744"]
+[BlackElo "1737"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "A40"]
+[Opening "Mikenas Defense"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. d4 Nc6 2. a3 e5 3. c3 exd4 4. cxd4 Nf6 5. Nf3 d5 6. e3 Bf5 7. Nc3 a6 8. Be2 Bd6 9. O-O Qd7 10. b4 O-O 11. Bd3 Bg4 12. Be2 Ne7 13. Na4 b6 14. Nc3 Rac8 15. Bd2 c5 16. dxc5 bxc5 17. bxc5 Bxc5 18. Nd4 Bxe2 19. Ncxe2 Qd6 20. Ng3 h5 21. Ngf5 Nxf5 22. Nxf5 Qe5 23. Ng3 h4 24. Ne2 Ng4 25. Nf4 g5 26. Qxg4 Be7 27. Nh3 Rc4 28. Qh5 f6 29. Qg6+ Kh8 30. Rab1 Bd6 31. f4 gxf4 32. Nxf4 Rg8 33. Qh6# 1-0
+

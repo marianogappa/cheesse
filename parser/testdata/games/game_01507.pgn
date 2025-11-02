@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/j71M3MJV"]
+[White "MrKex"]
+[Black "fewfiet"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:38"]
+[WhiteElo "1615"]
+[BlackElo "1652"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[TimeControl "600+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Ng5 Qxg5 5. O-O Nf6 6. Qe2 Nd4 7. Qd3 O-O 8. h3 Nh5 9. c3 Nf4 10. Qf3 Nxf3+ 0-1
+

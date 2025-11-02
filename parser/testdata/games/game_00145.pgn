@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/QZw9evQU"]
+[White "JulioParra"]
+[Black "gv68"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:21"]
+[WhiteElo "1500"]
+[BlackElo "1428"]
+[WhiteRatingDiff "+143"]
+[BlackRatingDiff "-6"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 Bf5 3. e3 Nc6 4. Nc3 Qd6 5. Nb5 Qb4+ 6. Bd2 Qxb2 7. Nxc7+ Kd8 8. Nxa8 e6 9. Nh4 Bb4 10. Nxf5 exf5 11. Bxb4 Nxb4 12. Rb1 Nxc2+ 13. Kd2 Qxa2 14. Qxc2 Qa5+ 15. Qc3 Qa2+ 16. Qb2 Qa5+ 17. Ke2 Qa6+ 18. Qb5 Qa2+ 19. Rb2 Qa1 20. Qxd5+ Ke7 21. Rxb7+ Kf6 22. Qxf7+ Kg5 1-0
+

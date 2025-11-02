@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cUSJeOcT"]
+[White "AlperIssizAdam"]
+[Black "bahadir05"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:48"]
+[WhiteElo "1011"]
+[BlackElo "1056"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bd3 c6 4. Nc3 a6 5. b3 Be6 6. Bb2 d5 7. Ne2 dxe4 8. Bxe4 f5 9. Ng5 Qf6 10. h4 fxe4 11. Nxe4 Qf5 12. d3 h6 13. Qd2 Nd7 14. f4 O-O-O 15. Nd6+ Bxd6 16. Qa5 Bc7 17. Qc3 Ne7 18. O-O Nd5 19. fxe5 Qg4 20. d4 Nxc3 21. Bxc3 Qxe2 22. d5 Bxd5 23. b4 Qxc2 24. Rac1 Qxa2 25. Bb2 Qxb2 26. e6 Qxc1 27. Rxc1 Bxe6 28. b5 Rhf8 29. bxc6 bxc6 30. Rxc6 Bd5 31. Rxa6 Rde8 32. Ra5 Re1# 0-1
+

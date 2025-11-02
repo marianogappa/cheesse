@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/H6PMIJIu"]
+[White "Basejump"]
+[Black "martinroldan23"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:14"]
+[WhiteElo "1693"]
+[BlackElo "1592"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+14"]
+[ECO "C48"]
+[Opening "Four Knights Game: Spanish Variation, Classical Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Bb5 Bc5 5. Bxc6 dxc6 6. d3 Qe7 7. Be3 Bxe3 8. fxe3 O-O 9. d4 Bg4 10. dxe5 Rad8 11. exf6 Rxd1+ 12. Rxd1 Qxf6 13. O-O Qh6 14. Rd4 Qxe3+ 0-1
+

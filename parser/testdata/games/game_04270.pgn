@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/tiTuNvLx"]
+[White "adriel_Br"]
+[Black "David010295"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:21"]
+[WhiteElo "1906"]
+[BlackElo "1707"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[ECO "A04"]
+[Opening "Reti Opening #2"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. Nf3 Nf6 2. g3 c6 3. Bg2 e5 4. O-O e4 5. Nd4 Bd6 6. d3 Qc7 7. dxe4 h5 8. f4 h4 9. e5 hxg3 10. hxg3 Bxe5 11. fxe5 Ng4 12. Bf4 Qb6 13. c3 c5 14. Qb3 Qg6 15. Nf3 Qh7 16. Nbd2 Nc6 17. c4 f6 18. exf6 gxf6 19. Qd3 Nce5 20. Qxh7 Rxh7 21. Bxe5 fxe5 22. Ne4 d6 23. Nxd6+ Kd7 24. Nxc8 Rxc8 25. Rad1+ Kc7 26. Rd5 Rch8 27. Rfd1 Ne3 28. R5d3 Nxg2 29. Kxg2 Rh2+ 30. Nxh2 e4 31. Rd7+ Kb6 32. R7d6+ Ka5 33. Rd7 b6 34. Rb7 Rd8 35. Rdd7 Rxd7 36. Rxd7 Ka6 37. Rxa7+ Kxa7 38. Kf2 Kb7 39. Ke3 Kc6 40. Kxe4 b5 41. cxb5+ Kxb5 42. Kd3 Kb4 43. Kc2 c4 44. Nf3 c3 45. bxc3+ Kc4 46. Kd2 Kc5 47. g4 Kc4 48. g5 Kd5 49. g6 Ke6 50. g7 Kf7 51. g8=Q+ Kxg8 52. a4 Kf7 53. a5 Ke7 54. a6 Kd7 55. a7 Kc6 56. a8=Q+ Kb6 57. e4 Kc7 58. e5 Kb6 59. e6 Kc7 60. e7 Kd7 61. e8=Q+ Kd6 62. Qad8+ Kc5 63. Qed7 Kc4 64. Q7c7+ Kb3 65. Qdb8+ Ka2 66. Qca7# 1-0
+

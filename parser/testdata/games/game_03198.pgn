@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bYQdSosk"]
+[White "alexlondero"]
+[Black "reikier_tab"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:04"]
+[WhiteElo "1182"]
+[BlackElo "1062"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-15"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Bd3 b6 3. Nf3 Bb7 4. c3 e5 5. Na3 d6 6. Nb5 Qd7 7. Qb3 O-O-O 8. Ng5 h6 9. Nxf7 Qxf7 10. Qxf7 Nge7 11. Qf3 Ng6 12. g3 Ba6 13. Nxa7+ Nxa7 14. Bxa6+ Kb8 15. Qf7 Nc6 16. Qxg6 Ne7 17. Qg4 Ka7 18. Qe2 c5 19. O-O g5 20. Bb5 h5 21. Qc4 h4 22. Qa4+ Kb7 23. Bc6+ Kc7 24. Ba8 hxg3 25. fxg3 g4 26. Qa7+ Kc8 27. Qb7# 1-0
+

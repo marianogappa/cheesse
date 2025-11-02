@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/RFw4TQIt"]
+[White "Jaque_Mate"]
+[Black "gcn"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:46"]
+[WhiteElo "1675"]
+[BlackElo "1658"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. Be2 Nc6 5. O-O Bg4 6. d4 Bd6 7. h3 Bh5 8. g4 Bg6 9. Bd3 Nge7 10. Bxg6 hxg6 11. Kg2 Qd7 12. Ng5 f6 13. Nf3 O-O-O 14. a4 f5 15. Nh2 fxg4 16. Nxg4 Nf5 17. Bg5 Rdf8 18. c3 Qf7 19. b4 Nh4+ 20. Bxh4 Rxh4 21. Nd2 Qf4 22. Nf3 Rxg4+ 23. hxg4 Qxg4+ 24. Kh1 Rh8+ 0-1
+

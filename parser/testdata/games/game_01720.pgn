@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AFNdah3d"]
+[White "njayd"]
+[Black "JMG85"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:33"]
+[WhiteElo "1365"]
+[BlackElo "1414"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. c4 e6 2. d4 h6 3. e4 Nf6 4. Nc3 Bb4 5. a3 Bxc3+ 6. bxc3 Nxe4 7. Bb2 Qf6 8. Nf3 d5 9. cxd5 exd5 10. Bd3 Bf5 11. Qe2 Nc6 12. O-O O-O 13. Nh4 Qxh4 14. Bxe4 dxe4 15. g3 Qh3 16. f3 Rae8 17. fxe4 Bxe4 18. Rf2 Bh1 19. Qd2 Bd5 20. Bc1 Re7 21. Qb2 Re1+ 22. Rf1 Qxf1# 0-1
+

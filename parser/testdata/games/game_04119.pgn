@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/KRwFTN5b"]
+[White "groovejamma"]
+[Black "web_studio"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:42"]
+[WhiteElo "1377"]
+[BlackElo "1513"]
+[WhiteRatingDiff "+30"]
+[BlackRatingDiff "-16"]
+[ECO "C22"]
+[Opening "Center Game: Paulsen Attack Variation"]
+[TimeControl "45+3"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 d6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. e5 Qe7 8. f3 Qxe5 9. Qxe5+ dxe5 10. Nc3 O-O-O 11. Be3 Bb4 12. Bxa7 b6 13. Ne2 Kb7 14. Bxb6 Kxb6 15. O-O Bxc3 16. Nxc3 Bb5 17. Rfd1 f6 18. Rxd8 Ne7 19. Rb8+ Kc6 20. Rxh8 Be2 21. Nxe2 Ng8 22. Rxg8 1-0
+

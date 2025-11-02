@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/8KITT318"]
+[White "Andrexov"]
+[Black "gronemann"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:48"]
+[WhiteElo "1807"]
+[BlackElo "2017"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[ECO "D15"]
+[Opening "Slav Defense: Three Knights Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 Bg4 5. e3 Bxf3 6. Qxf3 e6 7. Be2 Be7 8. O-O O-O 9. h3 Nbd7 10. Qg3 g6 11. cxd5 Nxd5 12. Ne4 Qb8 13. f4 f5 14. Ng5 Bxg5 15. Qxg5 Qd8 16. Qxd8 Raxd8 17. Bc4 N7f6 18. Bb3 a6 19. a3 Rc8 20. Bd2 c5 21. dxc5 Rxc5 22. Rac1 Rfc8 23. Rxc5 Rxc5 24. Rc1 Rxc1+ 25. Bxc1 Ne4 26. g4 Kf7 27. Kg2 Ke7 28. Kf3 Kd6 29. gxf5 gxf5 30. Bxd5 exd5 31. b4 Kc6 32. Bb2 Kb5 33. Bg7 Kc4 34. h4 Kd3 35. h5 Nd2+ 36. Kf2 Nc4 37. a4 Nxe3 38. Be5 Nc4 39. h6 b5 0-1
+

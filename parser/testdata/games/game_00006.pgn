@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/9naDLsbm"]
+[Site "https://lichess.org/bZ2yegnN"]
+[White "felipeaq1999"]
+[Black "Enoc19"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "1801"]
+[BlackElo "1816"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A43"]
+[Opening "Old Benoni Defense #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 c5 2. d5 e6 3. c4 exd5 4. cxd5 d6 5. e4 g6 6. Nc3 Bg7 7. Bd3 Qa5 8. Ne2 Ne7 9. Bd2 O-O 10. h3 Qb6 11. Rb1 a6 12. O-O Nd7 13. a3 Qd8 14. Bg5 Ne5 15. f4 Nxd3 16. Qxd3 b5 17. b4 c4 18. Qc2 Bd7 19. f5 f6 20. Bf4 gxf5 21. exf5 Bxf5 22. Ne4 Nxd5 23. N2g3 Bg6 24. Qd2 Nxf4 25. Qxf4 Re8 26. Nxd6 Bxb1 27. Nxe8 Bd3 28. Re1 f5 29. Nxg7 Kxg7 30. Nxf5+ Bxf5 31. Qxf5 Qd4+ 32. Kh1 Rf8 33. Re7+ Kh6 34. Rxh7# 1-0
+

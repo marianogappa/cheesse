@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/uAtsvLAf"]
+[White "zazen112"]
+[Black "ZiggyBlues"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:12"]
+[WhiteElo "1941"]
+[BlackElo "1652"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "B56"]
+[Opening "Sicilian Defense: Classical Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bb5 Bd7 7. O-O a6 8. Bc4 e6 9. Bg5 Be7 10. Nf3 Rc8 11. Bxf6 Bxf6 12. Qxd6 Be7 13. Qg3 O-O 14. Rad1 Nb4 15. a3 Nxc2 16. Rd2 Rxc4 17. Rxc2 Bc6 18. Rd2 Qc8 19. Ne5 Bxa3 20. Nxc4 Bb4 21. Rfd1 Bxc3 22. bxc3 Bxe4 23. Nd6 Qc6 24. Nxe4 Qxe4 25. Rd8 Qe2 26. Rxf8+ Kxf8 27. Qb8+ Ke7 28. Qd8# 1-0
+

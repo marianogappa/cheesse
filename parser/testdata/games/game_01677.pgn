@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pYMOuHTT"]
+[White "Paul-G"]
+[Black "FrancescXPM"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:18"]
+[WhiteElo "1465"]
+[BlackElo "1549"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-14"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. Nf3 Nd7 6. Nc3 Qb6 7. c5 Qc7 8. Bd3 Ne7 9. Bg5 Bxd3 10. Qxd3 h6 11. Bd2 g5 12. h4 Bg7 13. hxg5 hxg5 14. Rxh8+ Bxh8 15. Bxg5 Ng6 16. g3 b6 17. b4 bxc5 18. bxc5 Rb8 19. Rb1 Rxb1+ 20. Qxb1 Ndf8 21. Nh4 Nxh4 22. gxh4 Nh7 23. Bf4 Nf8 24. h5 Bg7 25. h6 Bh8 26. Bg5 Ng6 27. Bf6 Kf8 28. Bxh8 Nxh8 29. Qh7 Ke7 30. Qxh8 Qa5 31. Qf6+ Kf8 32. Qf3 Qb4 33. h7 Qb1+ 34. Ke2 Qxh7 35. Qf6 Qh5+ 36. Kd3 Qh3+ 37. Kc2 Qg2 38. Kb3 Qf3 39. Qxf3 1-0
+

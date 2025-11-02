@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/KuFQx0v5"]
+[White "pakitochi"]
+[Black "wkdwlstjr09"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:09"]
+[WhiteElo "1440"]
+[BlackElo "1680"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "C42"]
+[Opening "Petrov's Defense #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Qe7 4. d4 d6 5. Bb5+ c6 6. Nxc6 bxc6 7. Ba4 Bd7 8. d5 Qxe4+ 9. Qe2 Be7 10. c4 O-O 11. dxc6 Bxc6 12. Bxc6 Nxc6 13. O-O Qxe2 14. Nc3 Qxc4 15. Be3 d5 16. Rac1 d4 17. Ne4 dxe3 18. Rxc4 exf2+ 19. Nxf2 Ne5 20. Ra4 Bc5 21. Ra5 Bxf2+ 22. Rxf2 Nd3 23. Rd2 Rfd8 24. h3 Ne4 25. Re2 Ng3 26. Re3 Nxb2 27. Rxg3 Rd1+ 28. Kh2 Nc4 29. Rc5 Nb6 30. a3 h5 31. h4 g6 32. Rcg5 Re8 33. Rb3 Ree1 34. Rc5 Re4 35. g3 Rd2+ 36. Kh3 Re1 37. g4 Rh1+ 38. Kg3 Rg1+ 39. Kf4 Rxg4+ 40. Ke3 Rh2 41. Rb4 Rhxh4 42. Kd3 Rh3+ 43. Ke2 Rg2+ 44. Kf1 Ra2 45. Kg1 Raxa3 46. Rc2 f5 47. Kg2 g5 48. Rb5 Rhf3 49. Re5 g4 50. Re8+ Kf7 51. Rce2 h4 52. R2e7+ Kf6 53. Re6+ Kg5 54. Rg8+ Kf4 55. Rc6 h3+ 56. Kg1 Rg3+ 57. Kf2 Ra2+ 58. Kf1 h2 59. Rh8 Rg1# 0-1
+

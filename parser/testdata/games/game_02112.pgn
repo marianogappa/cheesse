@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3VDAAfgJ"]
+[White "niccololupi"]
+[Black "pawn5000"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:57"]
+[WhiteElo "1370"]
+[BlackElo "1408"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "420+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 Be6 4. d4 exd4 5. Nxd4 Bd7 6. Bc4 c6 7. O-O b5 8. Bb3 a5 9. a3 a4 10. Ba2 Nf6 11. b3 axb3 12. Bxb3 Be7 13. Re1 O-O 14. e5 dxe5 15. Rxe5 Bd6 16. Rg5 h6 17. Rxg7+ Kxg7 18. Qd3 Re8 19. Be3 Ng8 20. Nf5+ Bxf5 21. Qxf5 Qf6 22. Qg4+ Kf8 23. Ne4 Qxa1+ 0-1
+

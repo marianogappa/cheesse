@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/8n1cm2uf"]
+[White "simbali"]
+[Black "Rndrps"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:37"]
+[WhiteElo "1954"]
+[BlackElo "1645"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+19"]
+[ECO "A00"]
+[Opening "Grob Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. g4 e5 2. Bg2 d5 3. d4 Nc6 4. c3 Bxg4 5. dxe5 Nxe5 6. Qxd5 Qxd5 7. Bxd5 O-O-O 8. Bg2 Nf6 9. Bf4 Ng6 10. Bg5 h6 11. Bxf6 gxf6 12. Nd2 Nf4 13. Bf3 f5 14. h3 Bxf3 15. Ngxf3 Ng2+ 16. Kf1 Nf4 17. e3 Nd3 18. b3 Bg7 19. Nd4 c5 20. Nxf5 Bxc3 21. Rd1 Nb2 22. Ke2 Nxd1 23. Rf1 Rxd2+ 24. Kf3 Rxf2+ 25. Rxf2 Nxf2 26. Kxf2 Kd7 27. e4 Ke6 28. Ke3 Bd4+ 29. Kf4 h5 30. Kg5 Rg8+ 31. Kxh5 b5 32. a4 bxa4 33. bxa4 Bf6 34. Ne3 Rg5+ 35. Kh6 Rg3 36. Nc4 Rxh3# 0-1
+

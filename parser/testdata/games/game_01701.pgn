@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8zmeYlMX"]
+[White "sexonac"]
+[Black "pombeira"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:23"]
+[WhiteElo "1659"]
+[BlackElo "1599"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nf3 Bg7 3. e5 d6 4. d4 dxe5 5. d5 c6 6. Nc3 Qa5 7. d6 Bg4 8. Be2 Bxf3 9. Bxf3 e4 10. Bxe4 Bxc3+ 11. bxc3 Qxc3+ 12. Bd2 Qd4 13. Bf3 Qxd6 14. O-O Nf6 15. Bc3 Qxd1 16. Raxd1 O-O 17. Rfe1 Nd5 18. Bb2 e6 19. c4 Nb4 20. a3 N4a6 21. Bd4 h5 22. Re5 Nd7 23. Rg5 c5 24. Bc3 Nb6 25. Be2 Na4 26. Bf6 Nc7 27. Bxh5 Kh7 28. Bf3 Rab8 29. Rd7 b5 30. Rxc7 bxc4 31. Bc6 Rb1# 0-1
+

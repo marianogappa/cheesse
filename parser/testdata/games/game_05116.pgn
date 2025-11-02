@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/dSdt3IoX"]
+[White "CaLa198"]
+[Black "mtalbi"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:40"]
+[WhiteElo "1501"]
+[BlackElo "1659"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "C44"]
+[Opening "King's Knight Opening: Normal Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d3 Nf6 4. Bg5 h6 5. Bxf6 Qxf6 6. Nc3 d6 7. Nd5 Qd8 8. d4 exd4 9. Nxd4 Nxd4 10. Qxd4 Be6 11. O-O-O Qg5+ 12. Kb1 Bxd5 13. exd5 O-O-O 14. f4 Qg4 15. h3 Qd7 16. Be2 Be7 17. Qe4 f5 18. Qd3 Bf6 19. Bg4 fxg4 20. hxg4 Qxg4 21. g3 h5 22. Rhg1 Rhe8 23. a3 Qe2 24. Qf5+ Kb8 25. g4 hxg4 26. Qxg4 Qxg4 27. Rxg4 a6 28. f5 Re5 29. Rf4 Rde8 30. c4 Ka7 31. Kc2 Kb6 32. Kb3 Re3+ 33. Kb4 Re2 34. b3 a5+ 35. Ka4 Ka6 36. Rc1 Rb8 37. b4 axb4 38. Kxb4 c5+ 39. Ka4 b5+ 40. cxb5+ Rxb5 41. Rxc5 Rxc5 42. Rb4 Ra5+ 43. Kb3 Rb2+ 44. Kc4 Rxb4+ 45. axb4 Rb5 46. Kb3 Kb7 47. Ka4 Rxd5 48. b5 Rxf5 49. Ka5 Rxb5+ 50. Kxb5 Kc7 51. Kc4 Kc6 52. Kd3 Kc5 53. Ke4 d5+ 54. Kd3 d4 55. Ke2 Kc4 56. Kd2 Kb3 57. Kd3 g5 58. Ke2 g4 59. Kf2 d3 60. Kg3 d2 61. Kxg4 d1=Q+ 62. Kf5 Qf1+ 63. Ke6 Kc4 64. Kf7 Ba1+ 65. Ke6 Qe2+ 66. Kd6 Qd3+ 67. Ke6 Qd5+ 68. Ke7 Qc5+ 69. Kf7 Qc7+ 70. Ke6 Kc5 71. Kf5 Qe5+ 72. Kg4 Qe4+ 73. Kg5 Kd6 74. Kh6 Qf5 1/2-1/2
+

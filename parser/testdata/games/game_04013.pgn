@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/hNpQasqx"]
+[White "HarpSeal"]
+[Black "King_Amapa"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:19"]
+[WhiteElo "1971"]
+[BlackElo "1908"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "A40"]
+[Opening "Englund Gambit"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 d6 4. e4 Bg4 5. Bb5 dxe5 6. O-O Qxd1 7. Rxd1 Bxf3 8. gxf3 Ne7 9. Nc3 a6 10. Be2 Nd4 11. f4 Nxc2 12. Rb1 Nd4 13. fxe5 O-O-O 14. Be3 Nxe2+ 15. Nxe2 Nc6 16. f4 Bb4 17. a3 Be7 18. Kf2 g6 19. Kf3 f5 20. exf5 gxf5 21. Ng3 Rhf8 22. Rxd8+ Nxd8 23. Rd1 Ne6 24. Bd2 Nc5 25. Bb4 a5 26. Bxa5 Nb3 27. Bb4 Bxb4 28. axb4 c5 29. bxc5 Kc7 30. Rc1 Kc6 31. Rc3 Nd4+ 32. Ke3 Ne6 33. Ne2 Rg8 34. Nd4+ Nxd4 35. Kxd4 Rg4 36. Rf3 b6 37. b4 bxc5+ 38. bxc5 Rg2 39. h3 Rd2+ 40. Rd3 Rxd3+ 41. Kxd3 Kxc5 42. h4 Kd5 43. h5 1-0
+

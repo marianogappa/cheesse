@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/CNjL43Iv"]
+[White "Sy_Abelman"]
+[Black "Florinmagnus"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:14"]
+[WhiteElo "2163"]
+[BlackElo "2137"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "A45"]
+[Opening "Indian Game: Tartakower Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. g3 e6 3. Bg2 d5 4. Nf3 b6 5. O-O Bb7 6. b3 Nbd7 7. Nbd2 Be7 8. Bb2 O-O 9. c4 c6 10. Rc1 Rc8 11. Ne5 Nxe5 12. dxe5 Nd7 13. f4 Re8 14. Qc2 Bc5+ 15. Kh1 Be3 16. Rfd1 d4 17. Rb1 Qc7 18. Ne4 c5 19. Nd6 Bxg2+ 20. Kxg2 Qc6+ 21. Qe4 Qxe4+ 22. Nxe4 Rc7 23. Bc1 Bxc1 24. Rbxc1 Nf8 25. e3 Rd8 26. Nd6 dxe3 27. Kf3 Rcd7 28. Kxe3 f5 29. Rd3 Ng6 30. Rcd1 Ne7 31. Nb5 Rxd3+ 32. Rxd3 Rxd3+ 33. Kxd3 Nc6 34. a3 a6 35. Nc7 Nd4 36. b4 a5 37. bxc5 bxc5 38. Na6 Nb3 39. Kc3 Nc1 40. Nxc5 Ne2+ 41. Kb3 Kf7 42. Ka4 Ng1 43. Kxa5 Nf3 44. Kb6 Nxh2 45. a4 Nf1 46. a5 Nxg3 47. a6 Ne2 48. a7 Nxf4 49. a8=Q g5 50. Qb7+ Kg6 51. Qe7 h5 52. Nxe6 Nxe6 53. Qxe6+ Kg7 54. Qf6+ Kh7 55. e6 g4 56. e7 h4 57. e8=Q h3 58. Qeh8# 1-0
+

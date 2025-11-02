@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VdQEAx4G"]
+[White "Davidchorniy"]
+[Black "derkachr"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:11"]
+[WhiteElo "1063"]
+[BlackElo "1309"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+9"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. Nf3 Bd6 5. g3 Nf6 6. d3 c5 7. Bg2 Be6 8. O-O c4 9. Nexd4 exd4 10. Nxd4 cxd3 11. Qxd3 O-O 12. Re1 Qc8 13. e5 Bc4 14. Qd2 Bc5 15. exf6 g6 16. b3 Be6 17. b4 Bb6 18. Nxe6 fxe6 19. Rxe6 Qxe6 20. Bxb7 Nd7 21. Bxa8 Rxa8 22. Qd3 Nxf6 23. Bh6 Rd8 24. Qa6 Ng4 25. Qxa7 Bxa7 26. Rf1 Qf5 27. a4 Nxh6 28. b5 Qxc2 29. a5 Rd1 30. Rxd1 Qxd1+ 31. Kg2 Nf5 32. b6 Bb8 33. a6 Qd5+ 34. Kh3 Nd4 35. a7 Bxa7 36. bxa7 Qd7+ 37. Kg2 Qxa7 38. Kh3 Qf7 39. Kh4 Qf6+ 40. Kg4 h5+ 41. Kh3 Qxf2 42. Kh4 Qf6+ 43. Kh3 Ne2 44. Kg2 Nd4 45. Kg1 Qe5 46. Kg2 Qe2+ 47. Kh3 Nf3 48. g4 Qxh2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/IS0Y1LUA"]
+[White "coucicasas"]
+[Black "Ovent"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:41"]
+[WhiteElo "1763"]
+[BlackElo "1741"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. c4 e6 2. g3 Nf6 3. Bg2 Nc6 4. Nc3 d5 5. cxd5 exd5 6. d4 Be7 7. Nf3 O-O 8. O-O Bg4 9. h3 Bxf3 10. Bxf3 Qd7 11. Bg2 Nd8 12. Re1 c6 13. e4 dxe4 14. Nxe4 Nxe4 15. Bxe4 Ne6 16. d5 cxd5 17. Qxd5 Qxd5 18. Bxd5 Nc5 19. Be3 Nd3 20. Re2 Bf6 21. Bxb7 Rab8 22. Ba6 Rxb2 23. Bxd3 Rxe2 24. Rd1 Rxa2 25. Bc5 Rc8 26. Rc1 Ra1 27. Rxa1 Bxa1 28. Bxa7 Be5 29. Kg2 Rc3 30. Be4 g6 31. g4 Ra3 32. Bc5 Ra4 33. Bb7 Bd4 34. Bxd4 Rxd4 35. f3 Kg7 36. Kg3 Kf6 37. h4 h5 38. gxh5 gxh5 39. Be4 Ke5 40. Bh7 f5 41. Bg6 f4+ 42. Kf2 Rd2+ 43. Kg1 Rd3 44. Bxh5 Kd4 45. Bg4 Ke3 46. h5 Ke2 47. h6 Rd1+ 48. Kg2 Rd2 49. h7 Rd8 50. Be6 Rh8 51. Bg8 Kd3 52. Kh3 Kd4 53. Kh4 Ke3 54. Kg4 Kd4 55. Kxf4 Kc5 56. Ke5 Kc6 57. f4 Kd7 58. Kf6 Ke8 59. Kg7 1-0
+

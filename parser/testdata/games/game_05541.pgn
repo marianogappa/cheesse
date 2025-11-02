@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/k0NMESyo"]
+[White "slayerjawor"]
+[Black "DOC57"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:26"]
+[WhiteElo "1533"]
+[BlackElo "1525"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Tennison Gambit"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 f5 4. d3 g6 5. Nc3 exd3 6. Bxd3 Bg7 7. Bc4 Qxd1+ 8. Nxd1 Nh6 9. Be6 Bxe6 10. Nxe6 Kf7 11. Nxc7 Nc6 12. Nxa8 Rxa8 13. Bxh6 Bxh6 14. O-O Nd4 15. c3 Ne6 16. Ne3 Bxe3 17. fxe3 Nc5 18. b4 Ne4 19. Rad1 Nxc3 20. Rd7 b6 21. a3 a5 22. Rd3 Ne2+ 23. Kf2 axb4 24. axb4 Ra2 25. e4 e5 26. Rd7+ Kg8 27. Re1 Nf4+ 28. Kf3 Nxg2 29. Re2 Nh4+ 30. Ke3 Ra3+ 31. Kd2 Nf3+ 32. Kd1 Ra1+ 33. Kc2 1-0
+

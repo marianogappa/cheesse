@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/iCTQamPx"]
+[White "begli"]
+[Black "Gupip"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:05"]
+[WhiteElo "1160"]
+[BlackElo "1060"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-9"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. Bf4 Nf6 3. e3 Bb4+ 4. c3 Ba5 5. Bd3 O-O 6. Nd2 Nc6 7. h4 b6 8. h5 g6 9. hxg6 fxg6 10. Qf3 d5 11. Nh3 Qe7 12. Ng5 Nh5 13. O-O-O Bd7 14. g4 Ng7 15. Nxh7 Rab8 16. Nxf8 Qxf8 17. Bxg6 Qf6 18. Bh7+ Kf7 19. Bd3 e5 20. dxe5 Nxe5 21. Qxd5+ Be6 22. Qe4 Bxg4 23. Bxe5 Qxf2 24. Nc4 Bxd1 25. Qd5+ Ne6 26. Qd7+ Kf8 27. Rh8# 1-0
+

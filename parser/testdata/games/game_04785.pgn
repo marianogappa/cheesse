@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XRdxzwMA"]
+[White "glimmer_85"]
+[Black "kessiyena"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:28"]
+[WhiteElo "1759"]
+[BlackElo "1765"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Bd7 5. Nc3 Nc6 6. Bc4 Nf6 7. O-O Be7 8. Bb5 Nxd4 9. Bxd7+ Qxd7 10. Qxd4 O-O 11. Nd5 Nxd5 12. Qxd5 c6 13. Qd3 Bf6 14. c3 Rad8 15. Bf4 Rfe8 16. Rfe1 d5 17. e5 Be7 18. Qg3 f6 19. e6 Qc7 20. Bxc7 1-0
+

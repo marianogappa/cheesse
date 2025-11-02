@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wbsyO2WH"]
+[White "s3r6i0"]
+[Black "Benzo2015"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:02"]
+[WhiteElo "1466"]
+[BlackElo "1446"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 Nc6 3. Nf3 e6 4. Nc3 b6 5. d3 Bb7 6. O-O Qc7 7. Be3 Bd6 8. g3 h5 9. h4 f6 10. a3 g5 11. hxg5 h4 12. gxh4 O-O-O 13. gxf6 Nxf6 14. Bg5 Rdg8 15. Qd2 Nh5 16. Nb5 Qb8 17. Nxd6+ Qxd6 18. c3 Nf4 19. Kh2 Rxg5 20. Nxg5 Rxh4+ 21. Kg3 Ng6+ 22. Kf3 Qf8+ 23. Ke2 Nf4+ 24. Kd1 a6 25. b4 b5 26. Bb3 c4 27. dxc4 bxc4 28. Bxc4 Ne5 29. Be2 Nxe2 30. Qxe2 Qd6+ 31. Kc2 Qc6 32. f4 Qa4+ 33. Kb2 Nc6 34. e5 a5 35. Qc4 axb4 36. axb4 Rh2+ 37. Kb1 Qc2# 0-1
+

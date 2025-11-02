@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jD53YDDH"]
+[White "MichelangeIo"]
+[Black "ironside1234"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:53"]
+[WhiteElo "2752"]
+[BlackElo "2613"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[WhiteTitle "GM"]
+[ECO "B06"]
+[Opening "Pterodactyl Defense: Eastern, Benoni"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.16] } 1... c5 { [%eval 0.59] } 2. d5 { [%eval 0.56] } 2... g6 { [%eval 0.77] } 3. Nc3 { [%eval 0.58] } 3... Bg7 { [%eval 0.59] } 4. e4 { [%eval 0.56] } 4... d6 { [%eval 0.67] } 5. Bb5+ { [%eval 0.29] } 5... Nd7 { [%eval 0.43] } 6. a4 { [%eval 0.34] } 6... Nf6 { [%eval 0.71] } 7. Nf3 { [%eval 0.58] } 7... O-O { [%eval 0.7] } 8. O-O { [%eval 0.63] } 8... Ng4 { [%eval 0.77] } 9. Nd2 { [%eval 0.73] } 9... Nge5? { [%eval 2.5] } 10. f4 { [%eval 2.5] } 10... a6 { [%eval 2.57] } 11. Be2 { [%eval 2.57] } 1-0
+

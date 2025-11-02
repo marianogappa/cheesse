@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/q4Wjgm6u"]
+[White "Alex-r"]
+[Black "Jaque_Mate"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:54"]
+[WhiteElo "1589"]
+[BlackElo "1653"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h3 e6 5. Nc3 c5 6. Be3 Qb6 7. Na4 Qb4+ 8. c3 Qa5 9. Nxc5 Bxc5 10. dxc5 Nd7 11. b4 Qc7 12. a4 Nxe5 13. Bd4 Nf6 14. g4 Bg6 15. f4 Ned7 16. Bg2 Qxf4 17. Ne2 Qc7 18. g5 Nh5 19. Bf3 O-O 20. Rg1 Nf4 21. Rg4 Nd3+ 22. Kf1 Nb2 23. Qc1 Nc4 24. Rh4 e5 25. Bf2 e4 26. Bg4 Nde5 27. Bd4 Nxg4 28. hxg4 f5 29. Kg2 fxg4 30. Rxg4 Bh5 31. Rg3 Bxe2 32. Qe3 Nxe3+ 33. Rxe3 Bf3+ 34. Kg1 Qg3+ 0-1
+

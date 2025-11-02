@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1dwZ9OyV"]
+[White "imagrouchyguy"]
+[Black "karvajal"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:01"]
+[WhiteElo "1576"]
+[BlackElo "1584"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A85"]
+[Opening "Dutch Defense: Queen's Knight Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 e6 4. e3 Be7 5. Nf3 b6 6. Bd3 Bb7 7. O-O Bd6 8. Ne5 O-O 9. f3 Be7 10. b3 d6 11. Ba3 dxe5 12. Bxe7 Qxe7 13. dxe5 Nh5 14. Be2 f4 15. e4 Qc5+ 16. Kh1 Qe7 17. Qe1 Nc6 18. Rd1 Qf7 19. Nb5 Qg6 20. Qh4 Qh6 21. Nxc7 Ng3+ 22. hxg3 Qxh4+ 23. gxh4 Rac8 24. Nxe6 Rfe8 25. Nxf4 Rxe5 26. g4 Nb4 27. Rd7 Nc2 28. Rxb7 Ne3 29. Rf2 Rd8 30. Nd5 Rf8 31. Rxa7 Nxg4 32. Rg2 Ne3 33. Rgxg7+ Kh8 34. Rxh7+ Kg8 35. Rag7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/RrzUWPse"]
+[White "timour"]
+[Black "DakotaStrange"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:26"]
+[WhiteElo "1649"]
+[BlackElo "1772"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-15"]
+[ECO "A56"]
+[Opening "Benoni Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 c5 3. e3 g6 4. Bd3 Bg7 5. Ne2 O-O 6. O-O d6 7. Nbc3 a6 8. Bd2 Nc6 9. b3 cxd4 10. exd4 Nb4 11. Bc2 Nxc2 12. Qxc2 Bf5 13. Qd1 Ne4 14. Nxe4 Bxe4 15. Bc3 Rc8 16. Rc1 Bh6 17. Bd2 Bg7 18. Bc3 e5 19. d5 Bf5 20. a4 Bd7 21. Ng3 f5 22. Qf3 b5 23. axb5 axb5 24. Bd2 bxc4 25. bxc4 Qb6 26. Rb1 Qa6 27. Rfc1 f4 28. Ne4 Bf5 29. Qe2 Qa7 30. Bb4 Qf7 31. Nxd6 Qf6 32. Nxc8 Bxb1 33. Bxf8 Qxf8 34. Rxb1 Qxc8 35. Qd3 Qf5 36. Qxf5 gxf5 37. d6 Kf7 38. c5 Ke8 39. Rb7 Bf6 40. c6 e4 41. Rxh7 e3 42. fxe3 fxe3 43. Kf1 Bd4 44. Ke2 f4 45. c7 Bb6 46. c8=Q+ Bd8 47. Rh8+ 1-0
+

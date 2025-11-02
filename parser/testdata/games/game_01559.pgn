@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/7ESrlu82"]
+[White "joebat"]
+[Black "Mouni"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:46"]
+[WhiteElo "1500"]
+[BlackElo "1611"]
+[WhiteRatingDiff "-128"]
+[BlackRatingDiff "+9"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Gunderam Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 c6 3. d4 exd4 4. Nxd4 Bc5 5. c3 Nf6 6. Bd3 d5 7. Bg5 dxe4 8. Bxe4 O-O 9. O-O Qd6 10. g3 Nxe4 11. Be3 Bh3 12. Re1 Nd7 13. Nd2 Nef6 14. Qe2 Rae8 15. f3 Nh5 16. g4 Nf4 17. Qc4 b5 18. Qf1 Bxf1 19. Rxf1 Rxe3 20. Ne4 Rxe4 21. fxe4 Bxd4+ 22. cxd4 Qxd4+ 23. Rf2 Nd3 24. Rd1 Qxf2+ 25. Kh1 Qf3+ 26. Kg1 Qxd1+ 27. Kg2 N7e5 28. Kg3 Qxg4# 0-1
+

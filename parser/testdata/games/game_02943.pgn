@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9oCR7Quj"]
+[White "planinc"]
+[Black "dom45"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:02"]
+[WhiteElo "1423"]
+[BlackElo "1402"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+10"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Vos Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d6 2. Nf3 e5 3. c4 Nc6 4. Nc3 h6 5. dxe5 g5 6. exd6 Bxd6 7. e3 a6 8. Bd3 Bd7 9. O-O Qe7 10. Re1 O-O-O 11. a4 Ne5 12. Be4 Bc6 13. Bxc6 Nxc6 14. Qc2 Nb4 15. Qf5+ Kb8 16. Bd2 Nc2 17. b4 Nxe1 18. Nxe1 Nf6 19. b5 a5 20. Nd5 Nxd5 21. Qxd5 Bxh2+ 22. Kxh2 Rxd5 23. cxd5 Qe5+ 24. g3 Qxd5 25. Bxa5 Rd8 26. Rc1 c5 27. bxc6 bxc6 28. Bxd8 Qxd8 29. Nf3 Qd5 30. Ng1 g4 31. Rb1+ Kc7 32. Ra1 f5 33. a5 h5 34. a6 Qe5 35. a7 Qxa1 36. Ne2 Qxa7 37. Nf4 Qb6 38. Nxh5 Qb5 39. Ng7 Qd3 40. Nh5 Qe2 41. Kg2 Qf3+ 42. Kf1 c5 43. Nf4 c4 44. Ne2 Qe4 45. Nc3 Qd3+ 46. Ne2 c3 47. Ke1 c2 48. Nc1 Qd1# 0-1
+

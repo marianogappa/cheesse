@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/X5QRnK3x"]
+[White "plenitude"]
+[Black "Krieg_ohne_Hass"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "1617"]
+[BlackElo "1617"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+10"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. e3 g6 3. b3 Bg7 4. Bb2 O-O 5. Nf3 d6 6. g3 Nc6 7. Bg2 Bd7 8. O-O Ne8 9. Na3 e5 10. dxe5 dxe5 11. Nc4 e4 12. Nfe5 Nxe5 13. Nxe5 f5 14. Rb1 Nd6 15. Nxg6 hxg6 16. Bxg7 Kxg7 17. Qd4+ Rf6 18. c4 Qe7 19. c5 Nb5 20. Qb4 Bc6 21. a4 a5 22. Qd2 Na7 23. Qc3 Nc8 24. Rbc1 Qf7 25. f3 exf3 26. Bxf3 Ne7 27. Bxc6 Nxc6 28. Rc2 Rh8 29. Rd2 g5 30. Rfd1 Kg6 31. Qc4 Qh7 32. Qc2 Ne5 33. Rf2 g4 34. e4 Nf3+ 35. Rxf3 gxf3 36. Rf1 Qh5 37. h4 Qg4 38. exf5+ Rxf5 39. Kf2 Qd4+ 40. Ke1 Re8+ 41. Qe4 Rxe4# 0-1
+

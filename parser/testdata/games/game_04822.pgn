@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/GfnFgt0Q"]
+[White "Canadageek"]
+[Black "balval"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:35"]
+[WhiteElo "1781"]
+[BlackElo "1728"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+12"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. d3 Nc6 3. Nf3 d6 4. Be2 e6 5. Nc3 Be7 6. Be3 a6 7. Qd2 b5 8. h4 b4 9. Nd1 a5 10. a3 Nf6 11. O-O Ng4 12. axb4 cxb4 13. c3 Nxe3 14. Nxe3 bxc3 15. bxc3 Bxh4 16. Nxh4 Qxh4 17. Bf3 Ne5 18. Be2 O-O 19. d4 Ng6 20. Qd3 Nf4 21. Qb1 Nxe2# 0-1
+

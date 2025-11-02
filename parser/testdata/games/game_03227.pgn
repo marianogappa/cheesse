@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nU1tcMT2"]
+[White "Termopolis"]
+[Black "DetectiveChess"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:10"]
+[WhiteElo "1234"]
+[BlackElo "1336"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+45"]
+[ECO "A40"]
+[Opening "Mikenas Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.13] } 1... Nc6 { [%eval 0.51] } 2. e3 { [%eval 0.33] } 2... e6 { [%eval 0.37] } 3. f3?! { [%eval -0.21] } 3... Nce7?! { [%eval 0.45] } 4. a3 { [%eval 0.0] } 4... b6 { [%eval 0.14] } 5. Bd3 { [%eval 0.26] } 5... Bb7 { [%eval 0.39] } 6. Bd2?! { [%eval -0.15] } 6... Nc8?! { [%eval 0.48] } 7. Nh3 { [%eval 0.17] } 7... f5?! { [%eval 0.96] } 8. Qe2 { [%eval 0.58] } 8... Bd6?! { [%eval 1.35] } 9. Nc3 { [%eval 0.96] } 9... g5? { [%eval 2.99] } 10. e4 { [%eval 2.74] } 10... f4 { [%eval 2.97] } 11. g3 { [%eval 2.69] } 11... fxg3?! { [%eval 3.29] } 12. hxg3?! { [%eval 2.62] } 12... Bxg3+ { [%eval 2.72] } 13. Kd1 { [%eval 2.56] } 13... Nd6? { [%eval 4.25] } 14. Rg1? { [%eval 1.99] } 14... Bf4?! { [%eval 2.5] } 15. Bxf4? { [%eval 0.93] } 15... gxf4 { [%eval 1.35] } 16. Qh2?! { [%eval 0.51] } 16... Qh4 { [%eval 0.67] } 17. Rg4 { [%eval 0.55] } 17... Qh6 { [%eval 0.35] } 18. e5?? { [%eval -3.7] } 18... Nf7?? { [%eval -0.45] } 19. Kd2? { [%eval -2.13] } 19... Bxf3 { [%eval -2.16] } 20. Rf1?? { [%eval -8.37] } 20... Bxg4 { [%eval -8.05] } 21. Nxf4? { [%eval -19.2] } 21... Qxh2+ { [%eval -18.69] } 0-1
+

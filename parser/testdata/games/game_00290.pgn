@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/S1moBeXG"]
+[White "fastmove6"]
+[Black "ckjdj"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:55"]
+[WhiteElo "1549"]
+[BlackElo "1636"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 a6 2. e3 b5 3. Nf3 Bb7 4. Be2 e6 5. O-O c5 6. dxc5 Bxc5 7. Nfd2 Qc7 8. Bf3 Nc6 9. Nb3 Be7 10. c3 Bd6 11. N1d2 Bxh2+ 12. Kh1 Bd6 13. Nd4 Nf6 14. Nxc6 Bxc6 15. Bxc6 Qxc6 16. Qf3 Qxf3 17. Nxf3 Rc8 18. Kg1 Bc5 19. Nd4 d5 20. a3 h6 21. b4 Bb6 22. Bb2 Rc7 23. Rac1 Ke7 24. Nf3 Rhc8 25. Rb1 Rc6 26. Ne5 R6c7 27. Nd3 Ne4 28. Rfc1 Nd2 29. Ra1 Nb3 30. Rab1 Nxc1 31. Rxc1 f6 32. Kf1 Rc6 33. Ke2 e5 34. Ne1 e4 35. g3 Bc7 36. Ng2 Be5 37. Nf4 Bxc3 38. Bxc3 Rxc3 39. Rd1 Rxa3 40. Nxd5+ Kf7 41. Nf4 Rc2+ 42. Ke1 Raa2 43. Nh3 Re2+ 44. Kf1 Red2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/dMfz4SGN"]
+[White "DeZzTrucT"]
+[Black "alltogether"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:18"]
+[WhiteElo "1469"]
+[BlackElo "1683"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Open #3"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 e5 6. Nxc6 bxc6 7. Bc4 Nf6 8. O-O d6 9. Bg5 Be7 10. Re1 O-O 11. Qe2 Qa5 12. Bb3 Bb7 13. Rad1 c5 14. Bxf6 Bxf6 15. Nd5 Bxd5 16. Bxd5 Rab8 17. c3 Qb6 18. b3 a5 19. c4 Qb4 20. Kh1 Rfd8 21. f4 exf4 22. Qh5 g6 23. Qg4 Be5 24. Rf1 h5 25. Qh3 Qc3 26. Rd3 Qc2 27. Rdf3 Qxa2 28. g3 Rxb3 29. gxf4 Bg7 30. f5 Rxf3 31. Qxf3 Qb2 32. Bxf7+ Kxf7 33. fxg6+ Kg8 34. Qf7+ Kh8 35. Qf5 Qe2 0-1
+

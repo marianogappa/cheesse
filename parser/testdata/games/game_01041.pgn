@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/w3lRGU9i"]
+[White "Skenderbei"]
+[Black "Alientres"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:54"]
+[WhiteElo "1376"]
+[BlackElo "1505"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-14"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e3 e5 2. c3 d5 3. a3 c5 4. h3 Nc6 5. g4 Nf6 6. d3 Bd6 7. g5 Nd7 8. h4 O-O 9. Ne2 e4 10. d4 cxd4 11. Nxd4 Nxd4 12. Qxd4 Be5 13. Qd2 b6 14. Be2 Bb7 15. f4 Bd6 16. b4 d4 17. cxd4 a5 18. b5 Bxa3 19. Bxa3 Qe7 20. Bxe7 1-0
+

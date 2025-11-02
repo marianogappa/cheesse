@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/WOOScKyx"]
+[White "mostafaabdelmalik"]
+[Black "Costas1"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:22"]
+[WhiteElo "1564"]
+[BlackElo "1544"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-10"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 h6 3. d4 g6 4. Bc4 Bg7 5. Bxe6 dxe6 6. O-O Qe7 7. Bf4 g5 8. c4 gxf4 9. Qa4+ Bd7 10. Qc2 b6 11. b4 Na6 12. a3 Rc8 13. Nc3 Qf8 14. e5 Ne7 15. Qd2 h5 16. Qxf4 Ng6 17. Qg3 Rg8 18. Ng5 Bh6 19. f4 Kd8 20. Qe3 c6 21. Nce4 Ne7 22. Nd6 Nf5 23. Qe4 Nxd6 24. exd6 Rb8 25. Nf3 Qe8 26. Ne5 Rg7 27. Nxc6+ Bxc6 28. Qe5 Bd7 29. c5 Rg6 30. cxb6 Rxb6 31. Rac1 Nb8 32. Qc5 Rc6 33. Qa5+ Rc7 34. Qxc7# 1-0
+

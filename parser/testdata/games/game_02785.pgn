@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/r1tA4I84"]
+[White "rubarciya3"]
+[Black "ProxyPanda"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:25"]
+[WhiteElo "1768"]
+[BlackElo "1777"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A43"]
+[Opening "Franco-Benoni Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 c5 3. d5 exd5 4. Qxd5 d6 5. h3 Nf6 6. Qg5 Be7 7. Qxg7 Rg8 8. Qh6 Nxe4 9. Qxh7 Nf6 10. Qd3 Nc6 11. Nc3 Nb4 12. Qb5+ Bd7 13. Qxb7 Nxc2+ 14. Kd2 Nxa1 15. Nf3 Rb8 16. Qxa7 Bf5 17. Qa6 Nc2 18. Bb5+ Kf8 19. g4 Nb4 20. Qa4 Bd7 21. Bxd7 Nxd7 22. a3 Ra8 23. Qb5 Na6 24. Nd5 Nf6 25. Nxe7 Qxe7 26. Re1 Qc7 27. Kc2 Kg7 28. Qd3 Rge8 29. Rxe8 Nxe8 30. Ng5 Nf6 31. f4 d5 32. h4 c4 33. Qd4 Re8 34. Bd2 Nc5 35. h5 Ne4 36. h6+ Kxh6 37. Nxe4 Rxe4 38. Qxf6+ Kh7 39. g5 Qe7 40. Qh6+ Kg8 41. f5 Re2 42. f6 Qe4+ 43. Kd1 Rxd2+ 44. Kxd2 Qd3+ 45. Ke1 Qe4+ 46. Kf2 Qf4+ 47. Kg2 Qg4+ 48. Kh2 Qf4+ 49. Kg1 Qf3 50. Kh2 Qf4+ 51. Kg2 Qe4+ 52. Kg3 Qe3+ 53. Kg4 Qe4+ 54. Kg3 Qg6 55. Qxg6+ fxg6 56. Kf4 Kf7 57. Ke5 c3 58. bxc3 d4 59. cxd4 Ke8 60. d5 Kf8 61. d6 Kf7 62. d7 Kf8 63. d8=Q+ 1-0
+

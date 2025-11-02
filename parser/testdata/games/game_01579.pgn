@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IAMuvw3n"]
+[White "luislwis"]
+[Black "totta004"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:56"]
+[WhiteElo "1688"]
+[BlackElo "1725"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "A49"]
+[Opening "East Indian Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 g6 3. b3 d5 4. Bb2 Bg7 5. Nbd2 O-O 6. e3 Re8 7. Be2 Nbd7 8. O-O c6 9. c4 Qc7 10. c5 b6 11. b4 bxc5 12. dxc5 e5 13. Rb1 Rb8 14. a3 Ng4 15. h3 Nh6 16. Qc1 Nf6 17. Nb3 Bf5 18. Ra1 Ne4 19. Nfd2 Nxd2 20. Qxd2 Qd7 21. Rfd1 Rbd8 22. Na5 Qe6 23. Bf1 d4 24. exd4 exd4 25. Bd3 Bxh3 26. g3 Qd5 27. Bf1 Qd7 28. f4 Qg4 29. Bxh3 Qxh3 30. Qg2 Qxg2+ 31. Kxg2 Re2+ 32. Kf3 Rxb2 33. Nxc6 Rd7 34. Rd3 f5 35. Rad1 Ng4 36. Ne5 Nh2# 0-1
+

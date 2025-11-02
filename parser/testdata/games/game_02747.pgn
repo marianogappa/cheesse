@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/IaBDiLNj"]
+[White "obedience"]
+[Black "Krasi73"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:19"]
+[WhiteElo "1928"]
+[BlackElo "1984"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. c3 a6 4. d4 cxd4 5. cxd4 d6 6. Bd3 b5 7. O-O Bb7 8. Nbd2 Nf6 9. b3 Be7 10. Bb2 Nbd7 11. e5 Nd5 12. Ne4 Qb6 13. exd6 Bxd6 14. Nxd6+ Qxd6 15. Rc1 O-O 16. Bxh7+ Kxh7 17. Ng5+ Kg6 18. Ne4 Qf4 19. Re1 Rh8 20. h3 N7f6 21. Qd3 Nb4 22. Qg3+ Qxg3 23. Nxg3 Nd3 24. Rb1 Nxe1 25. Rxe1 Rac8 26. Ne2 Rc2 27. Nf4+ Kh7 28. Ba3 Rxa2 29. Bc5 Rd8 30. g4 Ne4 31. Nh5 Nxc5 32. dxc5 Rdd2 33. Rf1 Be4 34. Ng3 Bd3 35. Rc1 Rxf2 36. Nf1 Rg2+ 37. Kh1 Be4 38. c6 Rxg4# 0-1
+

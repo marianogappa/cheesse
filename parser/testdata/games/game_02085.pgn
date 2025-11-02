@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7RF4128k"]
+[White "KarsenDeSekynt"]
+[Black "LordViper"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:49"]
+[WhiteElo "1050"]
+[BlackElo "1193"]
+[WhiteRatingDiff "-43"]
+[BlackRatingDiff "+7"]
+[ECO "A84"]
+[Opening "Dutch Defense"]
+[TimeControl "180+2"]
+[Termination "Time forfeit"]
+
+1. d4 f5 2. c4 d6 3. e3 b6 4. Nf3 c5 5. Be2 cxd4 6. Nxd4 Bb7 7. Nc2 Bxg2 8. Rg1 Bc6 9. Nd4 Bb7 10. Ne6 Qd7 11. Nxf8 Kxf8 12. Nc3 Nf6 13. Bf3 f4 14. e4 Qh3 15. Bxf4 e5 16. Bg3 Nbd7 17. Qxd6+ Ke8 18. Qc7 Ba6 19. Nd5 Nxd5 20. cxd5 Ke7 21. O-O-O Rhc8 22. d6+ Ke6 23. Kb1 Rxc7 24. dxc7 Rc8 25. Bf4 exf4 26. Bg4+ Qxg4 27. Rxg4 Nf6 28. Rxg7 Nxe4 29. Rd8 Rxd8 30. cxd8=Q Bd3+ 31. Kc1 Nxf2 32. Qd7+ Ke5 33. Rg5+ Ke4 34. Qd5+ Ke3 35. Qe5+ Ne4 36. Rg4 Kf3 37. Qxf4+ Ke2 38. Rg2+ Nf2 39. Qd2+ Kf3 40. Qxf2+ Ke4 41. Rg4+ Ke5 42. Qd4+ Kf5 43. Rf4+ Kg5 44. Qe5+ Bf5 45. Qxf5+ Kh6 46. Qf8+ Kg5 47. h4+ Kh5 48. Qf5+ Kh6 49. h5 Kg7 50. Rg4+ Kh8 0-1
+

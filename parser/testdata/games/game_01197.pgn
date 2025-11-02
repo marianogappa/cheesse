@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/twae7Mpm"]
+[White "theresidentsheep"]
+[Black "BohemeRoyal"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:27"]
+[WhiteElo "1739"]
+[BlackElo "1737"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C45"]
+[Opening "Scotch Game: Haxo Gambit"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d4 exd4 5. O-O d6 6. Ng5 Nh6 7. Qh5 O-O 8. Nf3 Bg4 9. Qd5 Bxf3 10. Bxh6 gxh6 11. gxf3 Ne5 12. Be2 Qg5+ 13. Kh1 Kh8 14. Rg1 Qf4 15. Nd2 c6 16. Qb3 b6 17. Rad1 d3 18. cxd3 Bxf2 19. Rg2 Be3 20. Qc2 Rg8 21. Rdg1 Bxg1 22. Rxg8+ Rxg8 23. Nf1 Bf2 24. Ng3 Bxg3 25. hxg3 Qxg3 26. Qd1 Qh3# 0-1
+

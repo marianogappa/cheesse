@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/fZqIQL6x"]
+[White "gvd"]
+[Black "encarnella"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:34"]
+[WhiteElo "2049"]
+[BlackElo "2032"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "A80"]
+[Opening "Dutch Defense: Hopton Attack"]
+[TimeControl "600+3"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.18] } 1... f5 { [%eval 0.66] } 2. Bg5 { [%eval 0.43] } 2... g6 { [%eval 0.64] } 3. e4?! { [%eval 0.0] } 3... d6?! { [%eval 0.99] } 4. exf5 { [%eval 0.68] } 4... Bxf5 { [%eval 0.77] } 5. Bd3 { [%eval 0.74] } 5... Qd7 { [%eval 0.86] } 6. h4?! { [%eval 0.0] } 6... Nc6 { [%eval 0.17] } 7. c3 { [%eval -0.22] } 7... O-O-O { [%eval 0.17] } 8. Bb5 { [%eval 0.09] } 8... a6 { [%eval 0.12] } 9. Ba4 { [%eval 0.07] } 9... b5 { [%eval 0.0] } 10. Bb3 { [%eval 0.0] } 10... Re8?! { [%eval 0.83] } 11. Nd2?! { [%eval 0.06] } 11... e5 { [%eval 0.18] } 12. d5 { [%eval 0.21] } 12... Na5 { [%eval 0.15] } 13. Ngf3 { [%eval -0.07] } 13... Bg7 { [%eval 0.23] } 14. a4 { [%eval 0.0] } 14... Nf6 { [%eval 0.49] } 15. Bxf6? { [%eval -0.54] } 15... Bxf6 { [%eval -0.44] } 16. axb5 { [%eval -0.58] } 16... Qxb5? { [%eval 0.89] } 17. c4?? { [%eval -2.3] } 17... Qc5? { [%eval -0.74] } 18. Ba4 { [%eval -1.17] } 18... e4 { [%eval -0.43] } 19. Ng5?? { [%eval -5.34] } 19... e3 { [%eval -5.27] } 20. Bxe8?? { [%eval -12.06] } 20... exf2+ { [%eval -11.46] } 21. Kf1?! { [%eval #-10] } 21... Bd3+ { [%eval #-10] } 0-1
+

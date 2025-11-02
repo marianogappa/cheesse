@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/YL0Oc8UG"]
+[White "Joepeger"]
+[Black "Witpaard"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:49"]
+[WhiteElo "1297"]
+[BlackElo "1167"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+16"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation #3"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. e5 b6 4. Nd2 Ne7 5. Bb5+ Bd7 6. a4 c6 7. Ba6 Nf5 8. Ngf3 Nxa6 9. a5 c5 10. axb6 axb6 11. dxc5 Nxc5 12. Rxa8 Qxa8 13. O-O Bb5 14. Re1 Qb8 15. b4 Nd7 16. c3 f6 17. Qc2 g6 18. exf6 Nxf6 19. Rxe6+ Be7 20. Bb2 Rf8 21. c4 Bc6 22. b5 Bd7 23. Re5 Kd8 24. cxd5 Bd6 25. Re1 Ng4 26. g3 Bxg3 27. hxg3 Nxg3 28. fxg3 Rxf3 29. Nxf3 Qxg3+ 30. Qg2 Qxe1+ 31. Nxe1 Kc7 32. Qg3+ Kb7 0-1
+

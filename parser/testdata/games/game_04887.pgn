@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XtE8dcrj"]
+[White "AvonB"]
+[Black "lehelboy"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:35"]
+[WhiteElo "1367"]
+[BlackElo "1416"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-13"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation #4"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 e4 4. Bb5 d5 5. Bxc6+ bxc6 6. f3 exf3 7. Nxf3 Be7 8. Bxg7 Bf6 9. Bxh8 Bxa1 10. Bxa1 Bg4 11. O-O Nh6 12. d3 c5 13. c4 d4 14. exd4 Qd6 15. Qe1+ Kf8 16. Qh4 Re8 17. Ne5 cxd4 18. Nxg4 Nf5 19. Rxf5 Qe6 20. Qxh7 Qe1+ 21. Rf1 Qe6 22. Ne5 f6 23. Ng6# 1-0
+

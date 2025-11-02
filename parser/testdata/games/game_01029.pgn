@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/IG6Y9HbR"]
+[White "horsenutters"]
+[Black "neck-braker"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:45"]
+[WhiteElo "1884"]
+[BlackElo "1227"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-7"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 f6 3. d4 e6 4. Bd3 Bb4+ 5. c3 Bf8 6. Qh5+ Ke7 7. b3 Qd6 8. Ba3 c5 9. exd6+ Kxd6 10. Bxc5+ Kc7 11. Qf7+ Kd8 12. Qxf8+ Kd7 13. Qxg7+ Ke8 14. Qxh8 h5 15. Qxg8+ Kd7 16. Bb5+ Kc7 17. Be7 Kb6 18. Ba4 Ka5 19. Qxc8 Nc6 20. Bxf6 Nxd4 21. Qc5+ Ka6 22. Bxd4 Rg8 23. Qxa7# 1-0
+

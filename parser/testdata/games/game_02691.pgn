@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/1JyKB2gO"]
+[White "hukdonfoniks"]
+[Black "mames"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:07"]
+[WhiteElo "1607"]
+[BlackElo "1750"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. Bb5+ c6 5. Ba4 Nf6 6. Qe2+ Be7 7. d4 O-O 8. Bg5 Re8 9. O-O h6 10. Bxf6 Bxf6 11. Qd3 g6 12. c3 Bf5 13. Qd2 Nd7 14. h3 Nb6 15. Bc2 Nc4 16. Qc1 Be4 17. Bxe4 Rxe4 18. Nbd2 Nxd2 19. Qxd2 Qd6 20. Rfe1 Bg7 21. Nh2 Rae8 22. f3 R4e6 23. a3 c5 24. Rxe6 Rxe6 25. dxc5 Qxc5+ 26. Kf1 d4 27. cxd4 Qxd4 28. Qxd4 Bxd4 29. Rb1 h5 30. g4 Be5 31. Kg2 Bxh2 32. Kxh2 h4 33. Kg1 Re2 34. b3 Re3 35. Kf2 Rc3 36. a4 Rc2+ 37. Ke3 Kg7 38. b4 Rh2 39. b5 Rxh3 40. a5 Rg3 41. b6 a6 42. Rh1 h3 43. Kf2 Rg2+ 44. Kf1 Ra2 45. Rxh3 Rxa5 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/PzzKGWKD"]
+[White "AndreikoA"]
+[Black "richard7226"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:36"]
+[WhiteElo "1415"]
+[BlackElo "1417"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+10"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 d6 3. f5 Nc6 4. Bb5 Nf6 5. d3 a6 6. Bxc6+ bxc6 7. Bg5 h6 8. Bxf6 exf6 9. Nc3 Be7 10. Nf3 O-O 11. O-O d5 12. e5 d4 13. Na4 Bxf5 14. exf6 Bxf6 15. Nxc5 Qc7 16. a4 Qb6 17. Ne4 Bxe4 18. dxe4 c5 19. e5 Be7 20. Qe2 Rfe8 21. Rab1 c4 22. Qxc4 Rac8 23. Qxd4 Qxd4+ 24. Nxd4 Bc5 25. Rbd1 Rxe5 26. c4 Rd8 27. Rf4 g5 28. Rg4 f5 29. b4 fxg4 30. bxc5 Rxc5 31. Ne6 Rxd1+ 32. Kf2 Rxc4 0-1
+

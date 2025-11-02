@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/G9Pzfk4f"]
+[White "Cozee"]
+[Black "HerjavecSinan"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:42"]
+[WhiteElo "1500"]
+[BlackElo "1279"]
+[WhiteRatingDiff "-320"]
+[BlackRatingDiff "+12"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "300+8"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. Nf3 d5 3. h4 Nf6 4. Bg5 Be7 5. Ne5 Nbd7 6. e3 Ne4 7. Bb5 c6 8. Bxc6 bxc6 9. Nxc6 Qc7 10. Nxe7 Nxg5 11. hxg5 Kxe7 12. b3 Qa5+ 13. c3 f6 14. g6 h6 15. b4 Qb5 16. Na3 Qc6 17. b5 Qxc3+ 18. Ke2 Qxa3 19. Qc2 Rb8 20. Rab1 Nb6 21. Qc7+ Nd7 22. g4 Qxa2+ 23. Kf3 Ba6 0-1
+

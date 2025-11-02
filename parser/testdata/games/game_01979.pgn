@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SEO8AHri"]
+[White "Semaisr"]
+[Black "mianvaz"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:26"]
+[WhiteElo "1304"]
+[BlackElo "1313"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A56"]
+[Opening "Benoni Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 c5 3. e3 e6 4. Bd2 d5 5. cxd5 Qxd5 6. dxc5 Bxc5 7. Qb3 Qxb3 8. axb3 O-O 9. b4 Bb6 10. b3 a5 11. bxa5 Bc5 12. b4 Bd6 13. Bb5 Bd7 14. Bxd7 Nbxd7 15. Na3 Be7 16. Nf3 Nd5 17. Nc2 b6 18. a6 Nb8 19. a7 Nc6 20. b5 Ncb4 21. Nxb4 Nxb4 22. Ra4 Nd3+ 23. Ke2 Nb2 24. Ra2 Nc4 25. Rc1 Nxd2 26. Nxd2 Rfd8 27. Rc7 Kf8 28. Nc4 Bc5 29. Rb7 Rdc8 30. Nxb6 Bxb6 31. Rxb6 Rc7 32. Rb8+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/W8CrQb4d"]
+[White "IamNegator"]
+[Black "Dummer"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:09"]
+[WhiteElo "1652"]
+[BlackElo "1603"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "D45"]
+[Opening "Semi-Slav Defense: Normal Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 Nf6 3. Nf3 e6 4. e3 Nbd7 5. Nc3 c6 6. Qb3 Qa5 7. Be2 Ne4 8. Bd2 Bb4 9. Nxe4 dxe4 10. Bxb4 Qc7 11. Ne5 Nxe5 12. dxe5 Qxe5 13. O-O b6 14. Rad1 c5 15. Bc3 Qg5 16. g3 e5 17. Rd5 f6 18. Rfd1 Bh3 19. Be1 O-O 20. Qc3 Qf5 21. Qd2 Kf7 22. Rd7+ Qxd7 23. Qxd7+ Bxd7 24. Rxd7+ Kg8 25. Bg4 Rfd8 26. Be6+ Kf8 27. Rxd8+ Rxd8 28. f4 exf4 29. exf4 g6 30. Kf2 f5 31. Bc3 Ke7 32. Bd5 Rxd5 33. cxd5 Kd6 34. Ke3 Kxd5 35. Bb4 cxb4 36. a3 a5 37. a4 Kc5 38. b3 Kd5 39. Kf2 h6 40. Ke2 Kd4 41. Ke1 Kc3 42. Ke2 Kxb3 43. Kf2 Kxa4 44. Kg2 Kb5 45. Kf2 b3 46. Kf1 a4 47. Kg2 b2 48. Kh3 a3 49. Kh4 Kb4 50. Kh3 a2 51. Kh4 Kb3 52. Kh3 Kc2 53. Kh4 b5 54. Kh3 1-0
+

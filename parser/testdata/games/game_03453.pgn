@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/EX81NtQJ"]
+[White "Alientres"]
+[Black "MartinLFC412"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:10"]
+[WhiteElo "1481"]
+[BlackElo "1304"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-12"]
+[ECO "B94"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 h6 7. Bh4 g5 8. Bg3 d5 9. e5 Ne4 10. Nxe4 dxe4 11. Bc4 e6 12. c3 Nc6 13. O-O Nxd4 14. cxd4 b5 15. Bb3 a5 16. a4 b4 17. Bc4 Ba6 18. Qb3 Bxc4 19. Qxc4 Rc8 20. Qb5+ Ke7 21. Rac1 Rxc1 22. Rxc1 Bg7 23. Rc5 Re8 24. Qxa5 Qa8 25. Qc7+ 1-0
+

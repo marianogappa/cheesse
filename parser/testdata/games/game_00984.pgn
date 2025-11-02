@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/deVcbOje"]
+[White "net_knight"]
+[Black "hesham_elmasry1"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:39"]
+[WhiteElo "1721"]
+[BlackElo "1799"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-14"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[TimeControl "600+30"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Qf6 3. Nc3 c6 4. d4 exd4 5. Qxd4 Qxd4 6. Nxd4 Bc5 7. Nf3 d6 8. Bc4 Be6 9. Bxe6 fxe6 10. Ng5 e5 11. Ne6 Kd7 12. Nxg7 Nf6 13. Nf5 Rg8 14. O-O Na6 15. Be3 Rg4 16. Bxc5 Nxc5 17. f3 Rg5 18. Rad1 d5 19. exd5 Rxf5 20. dxc6+ Kxc6 21. b4 Ne6 22. b5+ Kc7 23. g4 Rg8 24. Kh1 Rf4 25. Nd5+ Nxd5 26. Rxd5 Nd4 27. Rxe5 Rxf3 28. Rg1 Nxc2 29. Rc5+ Kb8 30. Rxc2 Rf4 31. h3 Rgf8 32. Rgg2 Rf3 33. Kh2 Ra3 34. Rgf2 Re8 35. Kg2 a6 36. b6 Rd3 37. Rf7 h5 38. gxh5 Rg8+ 39. Kh2 Rd6 40. Rcf2 Rxb6 41. Rf8+ Rxf8 42. Rxf8+ Ka7 43. Kg3 Rh6 44. Kg4 b5 45. Rg8 b4 46. Rg6 Rh7 47. Kg5 a5 48. h6 Rh8 49. Rg7+ Kb6 50. Kg6 a4 51. h7 b3 52. axb3 axb3 53. Rg8 Rxh7 54. Kxh7 Kc7 55. Rg2 Kd6 56. Rb2 Ke5 57. Rxb3 Kf5 58. Rg3 Kf6 59. h4 Kf7 60. h5 Kf8 61. h6 Kf7 62. Rg7+ Kf8 63. Kg6 Ke8 64. h7 Kf8 65. h8=Q# 1-0
+

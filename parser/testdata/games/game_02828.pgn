@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pgXScq0Z"]
+[White "Temarpa"]
+[Black "muri123"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:34"]
+[WhiteElo "1588"]
+[BlackElo "1761"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-16"]
+[ECO "D15"]
+[Opening "Slav Defense: Schlechter Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. d4 g6 3. c4 Nf6 4. Nc3 c6 5. Bf4 dxc4 6. e3 b5 7. Ne5 Bg7 8. Qf3 Bb7 9. Nxb5 Qa5+ 10. Nc3 Qb4 11. Nxc4 c5 12. a3 Qb3 13. Qd1 Qxd1+ 14. Rxd1 cxd4 15. exd4 e6 16. Nd6+ 1-0
+

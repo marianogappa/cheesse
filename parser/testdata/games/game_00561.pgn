@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/T0YfM7UE"]
+[White "Jaque_Mate"]
+[Black "Alex-r"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:06"]
+[WhiteElo "1643"]
+[BlackElo "1598"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "C68"]
+[Opening "Ruy Lopez: Exchange Variation, Lutikov Variation"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. O-O d6 6. d4 Qf6 7. dxe5 dxe5 8. Bg5 Qe6 9. Qd8# 1-0
+

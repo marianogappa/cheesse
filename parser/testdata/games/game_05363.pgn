@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/kTcPdnd1"]
+[White "Luispo7"]
+[Black "audunb"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:40"]
+[WhiteElo "1366"]
+[BlackElo "1372"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+10"]
+[ECO "C57"]
+[Opening "Italian Game: Two Knights Defense, Knight Attack"]
+[TimeControl "480+4"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Qe7 5. Qh5 g6 6. Qf3 Nd4 7. Qb3 Nxb3 8. axb3 Bh6 9. Bxf7+ Qxf7 10. Nxf7 Kxf7 11. O-O d6 12. Nc3 Re8 13. Nd5 Nxd5 14. exd5 Bf5 15. d3 Bxc1 16. Raxc1 c6 17. dxc6 bxc6 18. b4 Rab8 19. f3 Rxb4 20. g4 Be6 21. c3 Rxb2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hJV6PTPJ"]
+[White "chopchop1"]
+[Black "hamiltoncr"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:03"]
+[WhiteElo "1982"]
+[BlackElo "2286"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+[ECO "C11"]
+[Opening "French Defense: Classical Variation, Steinitz Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Nf6 4. e5 Nfd7 5. f4 a6 6. Nf3 c5 7. Be2 Nc6 8. f5 b5 9. fxe6 fxe6 10. Bg5 Be7 11. h4 O-O 12. O-O cxd4 13. Bxe7 Qxe7 14. Nxd4 Qc5 15. Bxb5 axb5 16. Rxf8+ Nxf8 17. Nxb5 Ba6 18. b4 Nxb4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/kDyDSvax"]
+[White "gjiki98"]
+[Black "fbilsen"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:34"]
+[WhiteElo "1293"]
+[BlackElo "1140"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. d3 Nge7 5. h3 d5 6. Be3 d4 7. Bxd4 exd4 8. Nb5 Bb4+ 9. c3 dxc3 10. bxc3 a6 11. cxb4 axb5 12. a4 Be6 13. axb5 Rxa1 14. bxc6 Rxd1+ 15. Kxd1 Nxc6 16. b5 Nb4 17. Ne5 f6 18. Ng4 Nxd3 19. Ke2 Bxg4+ 20. Ke3 Nc1 21. f3 Be6 22. Kf2 Nd3+ 23. Bxd3 Qxd3 24. Re1 Qxb5 25. g4 Qd5 26. Rg1 Qc5+ 27. Kg2 Qc2+ 28. Kh1 Qe2 29. Rg2 Qxf3 30. Kg1 Bc4 31. Kh2 Bd3 32. Rg3 Bxe4 33. Rxf3 Bxf3 34. Kg3 b5 35. Kxf3 b4 36. Ke3 1-0
+

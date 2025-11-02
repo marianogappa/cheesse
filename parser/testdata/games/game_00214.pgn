@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/QtzYsG12"]
+[White "HerbieTheLoveBug"]
+[Black "clucl3"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:36"]
+[WhiteElo "1487"]
+[BlackElo "1539"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "600+5"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.23] } 1... c5 { [%eval 0.37] } 2. e5?! { [%eval -0.32] } 2... d6 { [%eval 0.08] } 3. Bb5+ { [%eval -0.19] } 3... Nc6 { [%eval 0.14] } 4. Bxc6+ { [%eval 0.17] } 4... bxc6 { [%eval 0.15] } 5. exd6?! { [%eval -0.56] } 5... exd6 { [%eval -0.29] } 6. Qe2+ { [%eval -0.56] } 6... Be7 { [%eval -0.57] } 7. Nf3 { [%eval -0.67] } 7... Nh6 { [%eval -0.32] } 8. d4 { [%eval -0.41] } 8... O-O { [%eval -0.11] } 9. Bxh6 { [%eval -0.02] } 9... gxh6 { [%eval -0.14] } 10. dxc5? { [%eval -1.5] } 10... Re8 { [%eval -1.32] } 11. O-O { [%eval -1.31] } 11... d5? { [%eval 0.09] } 12. b4?? { [%eval -4.43] } 12... a5?? { [%eval -0.94] } 13. c3? { [%eval -2.79] } 13... Ba6 { [%eval -2.71] } 14. Qd2 { [%eval -3.0] } 14... Bxf1 { [%eval -2.84] } 15. Kxf1 { [%eval -2.85] } 15... Bf8? { [%eval -1.58] } 16. Qd4? { [%eval -3.68] } 16... Re4? { [%eval -2.65] } 17. Qd3 { [%eval -2.7] } 17... axb4 { [%eval -2.52] } 18. Nbd2 { [%eval -2.54] } 18... Qe8?! { [%eval -1.66] } 19. Nxe4? { [%eval -3.62] } 19... dxe4 { [%eval -3.57] } 20. Qe3 { [%eval -3.47] } 20... exf3 { [%eval -3.36] } 21. Qxf3? { [%eval -5.06] } 21... Bxc5? { [%eval -2.71] } 22. cxb4 { [%eval -2.91] } 22... Bxb4? { [%eval 0.0] } 23. Qf4?? { [%eval -4.53] } 23... c5 { [%eval -4.44] } 24. Qxh6 { [%eval -4.45] } 24... Rxa2?? { [%eval 0.0] } 25. Qg5+ { [%eval 0.0] } 25... Kh8 { [%eval 0.0] } 26. Qf6+ { [%eval 0.0] } 26... Kg8 { [%eval 0.0] } 27. g3?? { [%eval -8.92] } 27... Rxa1+ { [%eval -7.95] } 28. Qxa1 { [%eval -7.29] } 28... c4 { [%eval -6.58] } 29. Qb2?? { [%eval -26.66] } 29... Qe1+ { [%eval -17.39] } 30. Kg2 { [%eval -15.29] } 30... Qc3?? { [%eval -5.42] } 31. Qe2 { [%eval -5.48] } 31... Qd3 { [%eval -5.11] } 32. Qe8+? { [%eval -7.17] } 32... Kg7 { [%eval -6.63] } 33. Qe5+ { [%eval -6.7] } 33... f6 { [%eval -5.7] } 34. Qe7+?? { [%eval #-7] } 34... Bxe7 { [%eval #-7] } 35. h4 { [%eval #-6] } 35... c3 { [%eval #-6] } 36. Kh3 { [%eval #-5] } 36... c2 { [%eval #-4] } 37. Kg4 { [%eval #-3] } 37... c1=Q { [%eval #-2] } 38. h5 { [%eval #-2] } 38... Qcc4+?! { [%eval #-3] } 39. Kh3 { [%eval #-3] } 39... Qdd4?! { [%eval #-4] } 40. f4 { [%eval #-3] } 40... Qcd3?! { [%eval #-4] } 41. Kg4 { [%eval #-3] } 41... Qd7+?! { [%eval #-3] } 42. f5 { [%eval #-2] } 42... Q3xf5+ { [%eval #-1] } 0-1
+

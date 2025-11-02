@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/oGJRLwFM"]
+[White "reginho"]
+[Black "Alichess68"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:20"]
+[WhiteElo "1453"]
+[BlackElo "1542"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "180+12"]
+[Termination "Time forfeit"]
+
+1. e3 g6 2. b3 Bg7 3. c3 Nf6 4. d4 O-O 5. Na3 d6 6. b4 Bg4 7. Be2 Bf5 8. Bf3 c6 9. b5 cxb5 10. Bxb7 Bg4 11. Ne2 Qa5 12. Bxa8 Bxe2 13. Qxe2 Qxc3+ 14. Qd2 Qxa1 15. O-O Rc8 16. Bb2 Qxa2 17. Bb7 Rc7 18. Ra1 Qb3 19. Bf3 a5 20. Bd1 Qd5 21. Qxa5 Rb7 22. Rc1 Nbd7 23. Rc8+ Nf8 24. Bf3 Ne4 25. g3 e5 26. Bxe4 Qxe4 27. Nxb5 exd4 28. Nxd6 Qb1+ 29. Kg2 Rxb2 30. Qc7 Qa2 31. Qxf7+ Qxf7 32. Nxf7 Kxf7 33. Rc7+ Kg8 34. exd4 Bxd4 35. Kh3 Rxf2 36. Rc4 Bf6 37. Rc6 Nd7 38. Rc8+ Nf8 39. Re8 Bd4 40. Re4 Rd2 41. g4 Bg1 42. Rf4 Rxh2+ 43. Kg3 Rc2 44. Kh4 Bf2+ 45. Kg5 Be3 0-1
+

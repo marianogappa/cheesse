@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/r7be9y24"]
+[White "fanfare"]
+[Black "ucha"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:41"]
+[WhiteElo "1809"]
+[BlackElo "1834"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "A41"]
+[Opening "Queen's Pawn"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d6 2. Nf3 g6 3. Bg5 Bg7 4. e3 Nd7 5. h3 h6 6. Bh4 g5 7. Bg3 f5 8. Bd3 e6 9. c3 Ngf6 10. Qc2 Nb6 11. Nbd2 O-O 12. e4 f4 13. Bh2 Nfd7 14. h4 g4 15. Ng1 e5 16. d5 Nf6 17. Ne2 h5 18. f3 Kh7 19. Bg1 Bh6 20. Bxb6 axb6 21. Rf1 Qe7 22. O-O-O Ng8 23. a3 Bd7 24. c4 Nf6 25. g3 gxf3 26. Nxf3 Ng4 27. Rg1 Ne3 28. Qc3 Nxd1 29. Kxd1 Rg8 30. gxf4 Rxg1+ 31. Nexg1 Bxf4 32. Qe1 Rg8 33. Kc2 Qg7 34. Ne2 Qg4 35. Qf2 Rf8 36. Nxf4 Rxf4 37. Ng5+ Qxg5 38. hxg5 Rxf2+ 39. Kc3 Kg6 0-1
+

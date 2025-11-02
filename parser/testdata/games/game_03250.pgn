@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NQF1zVVK"]
+[White "ashrafhakim"]
+[Black "TheKnightShade"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:21"]
+[WhiteElo "1914"]
+[BlackElo "1807"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+14"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. g3 d5 2. Bg2 e5 3. c4 Be6 4. Qb3 Bc8 5. cxd5 Bd6 6. Nf3 Ne7 7. O-O O-O 8. d4 e4 9. Ng5 f5 10. Ne6 Bxe6 11. dxe6 b6 12. Nc3 c5 13. Nb5 cxd4 14. Nxd6 Qxd6 15. Bf4 Qc5 16. Rac1 Qd5 17. Qa3 Qxe6 18. Rc7 Nd5 19. Rxa7 Rxa7 20. Qxa7 Nxf4 21. gxf4 Nd7 22. Rc1 Nc5 23. b4 Nd7 24. Rc7 Nf6 25. Rxg7+ Kh8 26. Re7 Qc4 27. Bh3 Qc1+ 28. Kg2 Rg8+ 29. Rg7 Rxg7+ 30. Qxg7+ Kxg7 31. Kg3 h5 32. Bxf5 Qg1+ 33. Kh4 Kh6 34. h3 Qxf2# 0-1
+

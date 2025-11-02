@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/JXrh5InU"]
+[White "khaliltbain"]
+[Black "hugo80"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:42"]
+[WhiteElo "1614"]
+[BlackElo "1618"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+10"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "45+3"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. Be2 dxe4 4. Ng5 Nf6 5. d4 h6 6. Nh3 Bxh3 7. gxh3 Qd7 8. Be3 Qxh3 0-1
+

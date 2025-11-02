@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Ei1zGQby"]
+[White "minaevm"]
+[Black "MisterY"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:05"]
+[WhiteElo "1568"]
+[BlackElo "1904"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation"]
+[TimeControl "300+5"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 e6 3. Bc4 a6 4. O-O b5 5. Be2 Bb7 6. e5 d6 7. d4 cxd4 8. Qxd4 Nc6 9. Qd1 Nxe5 10. Nxe5 dxe5 11. Qxd8+ Rxd8 12. Be3 Bb4 13. a3 Ba5 14. b4 Bc7 15. c4 bxc4 16. Bxc4 Ne7 17. Bc5 Bd6 18. Nc3 Bxc5 19. bxc5 O-O 20. Na4 Rd4 21. Nb6 Nd5 22. Bxd5 exd5 23. Rac1 Bc6 24. Rfd1 Rxd1+ 25. Rxd1 d4 26. Nc4 f6 27. Na5 Ba4 28. Rc1 Rc8 29. c6 Kf7 30. c7 Ke7 31. Nb7 Kd7 32. Nc5+ Kd6 33. Nxa4 e4 34. Rc4 Rxc7 35. Rxc7 Kxc7 36. Kf1 Kc6 37. Ke2 f5 38. f3 g5 39. Nb2 Kb5 40. fxe4 fxe4 41. a4+ Kb4 42. Kd2 h5 43. Kc2 a5 44. h3 h4 45. g4 hxg3 0-1
+

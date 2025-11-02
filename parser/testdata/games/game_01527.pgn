@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/6jSpOAGM"]
+[White "Skenderbei"]
+[Black "linomennone"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:42"]
+[WhiteElo "1391"]
+[BlackElo "1423"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e3 e5 2. c3 d5 3. h3 Nc6 4. a3 Nf6 5. g4 Bd6 6. d3 h6 7. b4 O-O 8. a4 a6 9. a5 b6 10. Bb2 b5 11. Na3 d4 12. cxd4 exd4 13. Bxd4 Bb7 14. Bb2 Nd4 15. Bxd4 Bxh1 16. g5 Ne4 17. gxh6 Nxf2 18. hxg7 Nxd1 19. Rxd1 Re8 20. Nf3 Bxf3 21. Rd2 c5 22. Bc3 c4 23. d4 Qh4+ 24. Rf2 Be4 25. Bd2 Bg3 26. Nc2 Bxf2+ 27. Kd1 Bxe3 28. Bxe3 Bxc2+ 29. Kxc2 Rxe3 30. Bg2 Qf2+ 31. Kb1 Qxg2 32. Kc1 Re1# 0-1
+

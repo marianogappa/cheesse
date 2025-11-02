@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/uizZqty6"]
+[White "robill"]
+[Black "Zapfke"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:46"]
+[WhiteElo "1726"]
+[BlackElo "1822"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+11"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. g3 Nf6 5. Bg2 Nc6 6. O-O Bg4 7. d4 e6 8. c3 Be7 9. Qb3 Qc7 10. Bf4 Qb6 11. Nbd2 O-O 12. Qxb6 axb6 13. b4 Ra3 14. Rfc1 b5 15. Nb1 Ra7 16. a3 Rfa8 17. Rc2 Ne4 18. Ne5 Bf5 19. f3 Nxg3 20. Rca2 Nh5 21. Bg3 Bxb1 22. Rxb1 Rxa3 23. Rxa3 Rxa3 24. Rc1 Nxg3 25. hxg3 Nxe5 26. dxe5 f6 27. f4 fxe5 28. fxe5 Bg5 29. Rc2 Be3+ 30. Kh2 Ra1 31. Bh3 Kf7 32. Kg2 Ke7 33. Kf3 Bg5 34. Kf2 h6 35. Bf1 Rc1 36. Rxc1 Bxc1 37. Bxb5 Bd2 38. c4 dxc4 39. Bxc4 Bxb4 40. Ke3 b6 41. Kd4 Bc5+ 42. Kc3 g5 43. Bb5 h5 44. Kd3 Bf2 45. g4 h4 46. Ke2 Bc5 47. Kf3 Bd4 48. Ke4 Bf2 49. Kf3 Bg1 50. Kg2 Bd4 51. Kf3 Bxe5 52. Ke4 Kd6 53. Kd3 h3 0-1
+

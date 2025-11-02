@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/g6FkS4jh"]
+[White "Unicejo"]
+[Black "orcus"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:48"]
+[WhiteElo "1891"]
+[BlackElo "1768"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+14"]
+[ECO "A41"]
+[Opening "English Rat: Pounds Gambit"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 e5 2. c4 d6 3. dxe5 Be6 4. exd6 Bxd6 5. e3 Ne7 6. Nf3 O-O 7. Nc3 Ng6 8. Be2 Qd7 9. O-O Bg4 10. Ne4 Nc6 11. Nxd6 cxd6 12. b4 Rad8 13. b5 Nce7 14. Bb2 Qf5 15. Qd4 Ne5 16. Kh1 Bxf3 17. Bxf3 N7g6 18. Bd5 Qg4 19. f4 Nh4 20. Rf2 Nd7 21. g3 Nf5 22. Qd1 Nxg3+ 23. hxg3 Qxg3 24. Rg2 Qh3+ 25. Kg1 Qxe3+ 26. Rf2 Kh8 27. Qf3 Qxf3 28. Rxf3 f6 29. Kf2 Nc5 30. Rh1 Nd3+ 31. Rxd3 Rde8 32. Rdh3 h6 33. f5 Re5 34. Bxe5 fxe5 35. Be6 Rf6 36. Ke3 Kh7 37. Ke4 b6 38. Kd5 g6 39. fxg6+ Rxg6 40. Kxd6 Kg7 41. Kxe5 Rg5+ 42. Ke4 Kf6 43. Rf3+ Kxe6 44. Kf4 Rg6 45. Rxh6 Rxh6 46. Ke4 Rh4+ 47. Rf4 Rh3 0-1
+

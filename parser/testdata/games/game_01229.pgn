@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/vKDhkfNN"]
+[White "roma1302"]
+[Black "frastornante"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:35"]
+[WhiteElo "1553"]
+[BlackElo "1489"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+13"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d3 Nc6 3. g3 Bc5 4. Bg2 Qf6 5. Nf3 Nd4 6. Nxd4 Bxd4 7. Be3 Bxb2 8. Nd2 Bxa1 9. Qxa1 d6 10. O-O h5 11. Qb2 h4 12. f4 hxg3 13. fxe5 Qh4 14. Nf3 gxh2+ 15. Kh1 Qg3 16. Qb5+ Kf8 17. Bg5 Bh3 18. Be3 Qxg2# 0-1
+

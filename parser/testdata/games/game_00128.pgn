@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RfPGwCOl"]
+[White "esternrodriguez"]
+[Black "ronperu"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:16"]
+[WhiteElo "1996"]
+[BlackElo "1890"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "B52"]
+[Opening "Sicilian Defense: Canal Attack, Main Line"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Qe2 e6 7. c3 Be7 8. d4 cxd4 9. cxd4 O-O 10. Nc3 a6 11. e5 dxe5 12. dxe5 Nd5 13. Nxd5 exd5 14. Rd1 Nb6 15. Be3 Rc8 16. Bxb6 Qxb6 17. Rxd5 Rc6 18. Rad1 Rfc8 19. R5d2 h6 20. Nd4 Rg6 21. Nf5 Bb4 22. a3 Bf8 23. Nd6 Bxd6 24. exd6 Qc6 25. f3 b5 26. Qe4 Qc5+ 27. Qd4 Qg5 28. d7 Rd8 29. Qe4 Re6 30. Qg4 Qc5+ 31. Qd4 Qg5 32. Rc1 Rg6 33. Rc8 h5 34. Rxd8+ Qxd8 35. Qc5 Kh7 36. Qxh5+ Kg8 37. Qc5 Re6 38. Qc8 1-0
+

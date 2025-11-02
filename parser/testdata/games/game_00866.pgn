@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/DKpCp2dk"]
+[White "Arlequinescacs"]
+[Black "HP1234"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:13"]
+[WhiteElo "1777"]
+[BlackElo "1643"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[ECO "A21"]
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. c4 e5 2. Nc3 c6 3. e4 Bc5 4. a3 Nf6 5. b4 Bb6 6. c5 Bc7 7. d4 O-O 8. Bg5 exd4 9. Qxd4 Re8 10. Be2 Be5 11. Bxf6 Bxd4 12. Bxd8 Bxc3+ 13. Kf1 Bxa1 14. Bg5 Rxe4 15. Bf3 Re8 16. Ne2 b6 17. g3 bxc5 18. bxc5 Ba6 19. Be3 Bxe2+ 20. Bxe2 a5 21. Kg2 Bb2 22. a4 Bc3 23. Bf3 Bb4 24. Rd1 Rd8 25. h4 Na6 26. Rc1 Rdb8 27. Bf4 Rb7 28. Bd6 Ba3 29. Rc2 Nb4 30. Rc3 Bb2 31. Rb3 Bf6 32. h5 h6 33. g4 Bg5 34. Be4 Re8 35. Bf5 Be7 36. Re3 Nd5 37. Re4 Rb4 38. f3 Rxe4 39. fxe4 Bxd6 40. cxd6 Nc3 41. Bxd7 Rxe4 42. Bxc6 Rxg4+ 43. Kf3 Rg5 44. d7 Rf5+ 45. Kg4 Rg5+ 46. Kh4 Rxh5+ 47. Kxh5 g6+ 48. Kxh6 Nxa4 49. d8=Q# 1-0
+

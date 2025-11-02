@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/gqXh0t9g"]
+[White "labuverr"]
+[Black "hiphappy"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:58"]
+[WhiteElo "1590"]
+[BlackElo "1996"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nc6 3. Qf3 Qf6 4. Qxf6 Nxf6 5. Bb5 Bc5 6. Bxc6 dxc6 7. Nc3 O-O 8. d3 Bg4 9. Bg5 Nd7 10. h3 Bh5 11. g4 Bg6 12. h4 f6 13. Bd2 Nb6 14. h5 Bf7 15. O-O-O Rfd8 16. Nge2 Bxf2 17. Rdf1 Bc5 18. a3 Be7 19. b4 a5 20. Kb2 axb4 21. axb4 Na4+ 22. Nxa4 Rxa4 23. c3 Rxd3 24. Rfg1 Rxd2+ 25. Kc1 Rxe2 26. Rd1 Ra1# 0-1
+

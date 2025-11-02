@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uVeSOIgS"]
+[White "albania1x1"]
+[Black "slowhand5"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:18"]
+[WhiteElo "1871"]
+[BlackElo "1648"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation"]
+[TimeControl "120+5"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 c5 3. Nc3 Nc6 4. Bb5 a6 5. Bxc6 dxc6 6. O-O Nf6 7. d3 Be7 8. Bg5 O-O 9. h3 b5 10. Ne5 Nxe4 11. Nxc6 Nxc3 12. Nxe7+ Kh8 13. bxc3 Qb6 14. Nxc8 Raxc8 15. Be3 f6 16. Rb1 Rfd8 17. d4 c4 18. Qf3 Rd5 19. a4 Qc6 20. axb5 axb5 21. Rb4 Ra8 22. Rfb1 h6 23. Rxb5 Ra1 24. Rb8+ Kh7 25. Rxa1 Qc7 26. Raa8 Rf5 27. Rh8+ Kg6 28. Qg4+ Kf7 29. Bxh6 g6 30. Rh7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/B0whFbwm"]
+[White "scrauler"]
+[Black "nedmac101"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:00"]
+[WhiteElo "1514"]
+[BlackElo "1542"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C00"]
+[Opening "French Defense: La Bourdonnais Variation"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. f4 Nc6 3. f5 Bb4 4. c3 Be7 5. d4 exf5 6. exf5 Nf6 7. Qe2 O-O 8. Bg5 Re8 9. Nf3 h6 10. Bxf6 Bxf6 11. Qxe8+ Qxe8+ 12. Be2 Nxd4 13. O-O Nxe2+ 14. Kh1 Nxc3 15. Nxc3 Bxc3 16. Rae1 d6 17. Rxe8+ Kh7 18. f6 Bxf6 19. Ne1 g6 20. Rxf6 Kg7 21. Rd8 Kxf6 22. Rf8 Ke7 23. Nf3 Kxf8 24. Nd4 Bf5 25. Nxf5 gxf5 26. g3 Re8 27. Kg2 d5 28. Kh3 d4 29. Kg2 d3 30. Kf3 d2 31. Kf4 d1=Q 32. Kxf5 Qe2 33. Kf4 Re5 34. h4 Qe3+ 35. Kg4 Qe4+ 36. Kh3 h5 37. Kh2 Qg4 38. Kg2 Re3 39. Kf2 Qxg3+ 40. Kf1 Qf3+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GyTnMfsS"]
+[White "viciousfishes"]
+[Black "asdfqwertyuiop4"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:06"]
+[WhiteElo "1229"]
+[BlackElo "1231"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-15"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e3 e5 2. f3 d5 3. g3 Nf6 4. Bg2 Bf5 5. Ne2 e4 6. fxe4 Bxe4 7. Bxe4 Nxe4 8. d3 Nd6 9. O-O Nc6 10. Nbc3 Nf5 11. Rxf5 Bc5 12. Rxd5 Qe7 13. d4 Bd6 14. e4 O-O-O 15. Nb5 Kb8 16. e5 Bb4 17. Rxd8+ Qxd8 18. c3 Be7 19. Bf4 a6 20. d5 g5 21. dxc6 gxf4 22. Qxd8+ Bxd8 23. Nxf4 bxc6 24. Nd4 c5 25. Nf3 f6 26. Rd1 Kc8 27. Rxd8+ Rxd8 28. Ne6 Rd5 29. exf6 Rd1+ 30. Kg2 Rd2+ 31. Nxd2 1-0
+

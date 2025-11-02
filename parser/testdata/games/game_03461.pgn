@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/gNTdGN4e"]
+[Site "https://lichess.org/GQPyBYqr"]
+[White "zahrodrigo"]
+[Black "maxchessbr"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:10"]
+[WhiteElo "1586"]
+[BlackElo "2035"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+2"]
+[ECO "C41"]
+[Opening "Philidor Defense: Hanham Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 exd4 5. Ng5 Nh6 6. Qxd4 Ne5 7. Bb3 Be7 8. Nf3 Nhg4 9. h3 Nxf3+ 10. gxf3 Ne5 11. f4 Nf3+ 12. Ke2 Nxd4+ 13. Kf1 Nxb3 14. axb3 Bh4 15. Nc3 c6 16. Be3 O-O 17. f5 d5 18. Rg1 dxe4 19. Bh6 Bf6 20. Nxe4 Re8 21. Nxf6+ Qxf6 22. Bxg7 Qxg7 23. Rxg7+ Kxg7 24. Kg2 Bxf5 25. Rg1 Bxc2 26. Kf3+ Kf6 0-1
+

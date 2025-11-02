@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5mQRb4Su"]
+[White "Skat1205732"]
+[Black "attackingweak_pawn"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:20"]
+[WhiteElo "2057"]
+[BlackElo "1966"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+[ECO "A16"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Knight Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 Bg7 4. e5 Ng8 5. f4 d6 6. exd6 exd6 7. Nf3 Nf6 8. d4 O-O 9. Bd3 Re8+ 10. Be2 Ne4 11. Nxe4 Rxe4 12. O-O Qe7 13. Bd3 Bxd4+ 14. Kh1 Re3 15. Nxd4 Rxd3 16. Qxd3 Nc6 17. Nxc6 bxc6 18. Bd2 Bf5 19. Qf3 Be4 20. Qe3 d5 21. cxd5 cxd5 22. Rae1 Qd6 23. f5 Re8 24. Qg3 Qa6 25. a3 Re5 26. Qxe5 Qd3 27. Bc3 d4 28. Bxd4 f6 29. Qe6+ Kg7 30. Qxf6+ Kh6 31. Be3+ Kh5 32. Qg5# 1-0
+

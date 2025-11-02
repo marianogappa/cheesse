@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bcaJo1R0"]
+[White "Aminini77"]
+[Black "cgds"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:00"]
+[WhiteElo "1469"]
+[BlackElo "1708"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-19"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Euwe Attack"]
+[TimeControl "120+2"]
+[Termination "Normal"]
+
+1. e4 c6 2. b3 d5 3. e5 Bf5 4. Bb2 e6 5. Nf3 Nd7 6. d3 c5 7. Be2 Ne7 8. h3 Nc6 9. a3 Qc7 10. d4 cxd4 11. Nxd4 Nxd4 12. Bxd4 Nxe5 13. O-O Ng6 14. Bd3 Bxd3 15. Qxd3 O-O-O 16. Rc1 Kb8 17. c4 Ka8 18. Nd2 Bd6 19. cxd5 Qxc1+ 20. Rxc1 Rc8 21. Rxc8+ Rxc8 22. g3 e5 23. Be3 Rc1+ 24. Kg2 Ne7 25. Nc4 e4 26. Qd4 Rc2 1-0
+

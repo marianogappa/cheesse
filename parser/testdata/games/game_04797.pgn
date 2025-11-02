@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MhuoR1ny"]
+[White "handyandy"]
+[Black "carlos1973"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:29"]
+[WhiteElo "1422"]
+[BlackElo "1352"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "C46"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nc3 Nf6 4. Nf3 h6 5. d4 exd4 6. Nxd4 Bb4 7. Bd2 Nxd4 8. e5 Bxc3 9. Bxc3 Nxc2+ 10. Qxc2 Ng4 11. O-O d6 12. Qe4 dxe5 13. h3 f5 14. Qd5 Qxd5 15. Bxd5 Nf6 16. Bb3 Bd7 17. Bxe5 O-O-O 18. Bd4 Kb8 19. Bc5 Ne4 20. Bd4 Rhg8 21. Bxg8 g5 22. Bd5 Nd2 23. Rfd1 f4 24. Rxd2 Bxh3 25. Bf3 Bf5 26. Bxa7+ Kxa7 27. Rxd8 g4 28. Be2 Be4 29. f3 gxf3 30. gxf3 Bf5 31. Rf8 Be6 32. Rxf4 h5 33. Rh4 Bf7 34. f4 c5 35. Rc1 b6 36. Rxh5 Bxh5 37. Bxh5 Ka6 38. f5 Kb5 39. f6 c4 40. f7 Kb4 41. f8=Q+ Ka4 42. Qb8 b5 43. Qa7+ Kb4 44. b3 c3 45. Qd4+ Ka3 46. Rxc3 Kxa2 47. Rc2+ Kxb3 48. Qc3+ Ka4 49. Ra2# 1-0
+

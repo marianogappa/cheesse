@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/s2sGeWlL"]
+[White "allep"]
+[Black "jorquerino"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:47"]
+[WhiteElo "2229"]
+[BlackElo "2391"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+8"]
+[BlackTitle "FM"]
+[ECO "E63"]
+[Opening "King's Indian Defense: Fianchetto Variation, Panno Variation"]
+[TimeControl "180+1"]
+[Termination "Time forfeit"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 Nc6 7. Nc3 a6 8. h3 Rb8 9. d5 Na5 10. Nd2 c5 11. e4 b5 12. Kh2 Bd7 13. f4 Ne8 14. Qe2 Nxc4 15. Nxc4 bxc4 16. e5 Nc7 17. g4 Nb5 18. Nxb5 Bxb5 19. Qe3 c3 20. Rf2 dxe5 21. fxe5 Qc7 22. bxc3 Qxe5+ 23. Kh1 Qxc3 24. Rb1 Bd3 25. Rxb8 Rxb8 26. Bd2 Rb1+ 27. Kh2 Qe5+ 28. Qg3 c4 29. Bf4 Qa1 30. d6 exd6 31. Bxd6 Bd4 32. Rxf7 Bg1+ 33. Kh1 Bf2+ 0-1
+

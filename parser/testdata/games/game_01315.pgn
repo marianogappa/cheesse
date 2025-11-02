@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/v3ULQZ1K"]
+[White "JakubSzymanski"]
+[Black "jon75"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:58"]
+[WhiteElo "1395"]
+[BlackElo "1337"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "D53"]
+[Opening "Queen's Gambit Declined: 4.Bg5 Be7"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 Bb4 6. Qc2 Bxc3+ 7. Qxc3 Nbd7 8. e3 c6 9. Bd3 Qc7 10. O-O O-O 11. cxd5 Nxd5 12. Qc2 g6 13. Rac1 Nb4 14. Qb3 a5 15. a3 Nd5 16. Bh6 Rd8 17. Rc2 e5 18. dxe5 Nxe5 19. Nxe5 Qxe5 20. Bc4 Be6 21. Qxb7 Rab8 22. Qxc6 Qf5 23. Qa4 Rd7 24. Bxd5 Bxd5 25. Qd4 Rbd8 26. Qg7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/GqJPEmax"]
+[White "alvaroedmr"]
+[Black "timkomate"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:01"]
+[WhiteElo "1259"]
+[BlackElo "1336"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+9"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Panov Transfer"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. dxc6 bxc6 5. d4 g6 6. Nc3 Bg7 7. Bg5 O-O 8. Be2 Bg4 9. Bxg4 Nxg4 10. Qxg4 f6 11. Be3 f5 12. Qg3 Bxd4 13. Bxd4 Qxd4 14. Nge2 Qe5 15. Qxe5 Nd7 16. Qe6+ Rf7 17. Qxd7 e6 18. Qd3 Rff8 19. Rd1 Rad8 20. Qxd8 Rxd8 21. Rxd8+ Kf7 22. Nd4 Ke7 23. Ra8 c5 24. O-O cxd4 25. Ne2 d3 26. Nc3 d2 27. Rd1 a5 28. Rxd2 Kf6 29. Nb5 Ke5 30. Rf8 f4 31. g3 Ke4 32. f3+ Kxf3 33. gxf4 Ke3 34. Rd3+ Kxd3 35. Rd8+ Kxc4 36. Na7 Kc5 37. b3 Kb4 38. Kf2 Ka3 39. Ke2 Kxa2 40. Kd2 Kxb3 41. Rc8 a4 0-1
+

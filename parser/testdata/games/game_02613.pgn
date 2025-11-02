@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/6r4jStVK"]
+[White "wipawa"]
+[Black "moveloser"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:52"]
+[WhiteElo "1524"]
+[BlackElo "1619"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-13"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Icelandic-Palme Gambit"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 e6 4. dxe6 Bxe6 5. d4 Qe7 6. Qe2 Nc6 7. Nf3 Bg4 8. Qxe7+ Bxe7 9. Be3 O-O-O 10. Nbd2 Bb4 11. d5 Bxf3 12. gxf3 Ne5 13. O-O-O Bxd2+ 14. Bxd2 Nxf3 15. Bc3 Rd6 16. Bg2 Nh4 17. Bh3+ Kb8 18. Rhe1 g6 19. Re7 Nh5 20. Bxh8 Nf5 21. Re8+ 1-0
+

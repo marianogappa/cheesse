@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/kMKeyTwG"]
+[White "Enuma_Elish"]
+[Black "paneof"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:34"]
+[WhiteElo "1826"]
+[BlackElo "1732"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. e3 d6 3. Nf3 Be7 4. Be2 Nf6 5. O-O Nfd7 6. b3 Bf6 7. Ba3 Be7 8. Bb2 Bf6 9. c4 e5 10. Qc2 exd4 11. Bxd4 Nc6 12. Bxf6 Qxf6 13. Nbd2 Nce5 14. Nxe5 Nxe5 15. Nf3 O-O 16. Nxe5 Qxe5 17. Bf3 c6 18. Rfd1 Qf6 19. Rab1 Be6 20. Qb2 Qxb2 21. Rxb2 d5 22. cxd5 cxd5 23. Bxd5 Bxd5 24. Rxd5 b6 25. Rbd2 a6 26. Rd6 b5 27. Rb6 a5 28. Rxb5 a4 29. bxa4 Rxa4 30. Rbb2 Raa8 31. h3 Rac8 32. g3 Rcd8 33. Kg2 Rde8 34. a3 h6 35. Ra2 g6 36. a4 Kg7 37. a5 Ra8 38. a6 Rfb8 39. a7 Rb7 40. Rd1 Rbxa7 41. Rxa7 Rxa7 0-1
+

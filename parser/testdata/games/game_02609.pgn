@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/F8BYwbH2"]
+[White "Kernow1"]
+[Black "faibel_eclipse"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:51"]
+[WhiteElo "1938"]
+[BlackElo "1842"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. Bg5 Qxg5 3. Nf3 Qd8 4. Nc3 d5 5. e4 c5 6. exd5 exd5 7. Bb5+ Nc6 8. O-O Be6 9. Re1 Bd6 10. dxc5 Bxc5 11. Nd4 Bxd4 12. Qxd4 Ne7 13. Qxg7 Rg8 14. Qxh7 Qb6 15. Qh4 O-O-O 16. a4 a6 17. a5 Nxa5 18. Qxe7 axb5 19. b4 Nc4 20. Ra8# 1-0
+

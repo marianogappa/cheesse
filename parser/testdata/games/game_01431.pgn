@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/9naDLsbm"]
+[Site "https://lichess.org/2KZIGMRw"]
+[White "fatsmith"]
+[Black "gideoni"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:23"]
+[WhiteElo "1729"]
+[BlackElo "1910"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[ECO "C21"]
+[Opening "Danish Gambit"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 Qf6 5. Nxc3 Bb4 6. e5 Bxc3+ 7. bxc3 Qxe5+ 8. Ne2 d6 9. Qb3 Be6 10. Bxe6 Qxe6 11. Qxb7 Nf6 12. Qxa8 O-O 13. Be3 Nbd7 14. Qxa7 c5 15. O-O Qc4 16. Rfe1 Ne5 17. a4 Qg4 18. h3 Qg6 19. Nf4 Qg5 20. Ne6 Nf3+ 21. Kh1 Qe5 22. gxf3 Qxe6 23. Kh2 Qf5 24. Rg1 Qxf3 25. Rg3 Qf5 26. Rag1 Qe5 27. f4 Qxc3 28. Rxg7+ Kh8 29. Qe7 Rb8 30. Qxf7 Ng4+ 31. R7xg4 Rb2+ 32. Kh1 Rh2+ 0-1
+

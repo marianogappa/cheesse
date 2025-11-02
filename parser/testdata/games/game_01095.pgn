@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/QR91aFZM"]
+[White "Axplicyt"]
+[Black "CedricGod"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:04"]
+[WhiteElo "1385"]
+[BlackElo "1402"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. h3 Nc6 3. Bf4 e6 4. e3 Bd6 5. Bxd6 Qxd6 6. c4 e5 7. c5 Qe6 8. Nf3 e4 9. Ng5 Qf6 10. h4 h6 11. Nh3 Qxh4 12. g3 Qg4 13. Qb3 b6 14. Qxd5 Bd7 15. Nf4 Nf6 16. Qc4 O-O-O 17. Qa6+ Kb8 18. cxb6 cxb6 19. Bh3 Qf3 20. Nd2 Qxh1+ 21. Ke2 Qxa1 22. Bxd7 Nxd7 23. Qa3 f5 24. Qd6+ Kb7 25. Ne6 Ka6 26. Qxc6 Rc8 27. Nc7+ Rxc7 28. Qxc7 Nf6 29. Nc4 Qc1 30. b4 Kb5 31. Na3+ Qxa3 32. Qc1 Qxa2+ 33. Kd1 Qb3+ 34. Ke2 Qxb4 0-1
+

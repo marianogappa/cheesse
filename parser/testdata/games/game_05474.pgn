@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ueKDrOJt"]
+[White "polishbeans"]
+[Black "oguztpkc"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:02"]
+[WhiteElo "1259"]
+[BlackElo "1288"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+24"]
+[ECO "C68"]
+[Opening "Ruy Lopez: Exchange Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nxe5 Nf6 6. Nc3 Bd6 7. f4 O-O 8. d4 Bb4 9. Bd2 Bxc3 10. Bxc3 Nxe4 11. Qf3 Nf6 12. O-O-O Re8 13. g4 Nd5 14. h4 f6 15. f5 fxe5 16. g5 e4 17. Qg3 Bxf5 18. Rdf1 Bg6 19. h5 Bxh5 20. Rxh5 g6 21. Rh6 e3 22. Rfh1 e2 23. Be1 Re3 24. Qf2 Qxg5 25. Rxh7 Rf3+ 26. Bd2 Rxf2 27. Bxg5 Rf1+ 28. Kd2 e1=Q+ 29. Kd3 Rf3+ 30. Kc4 Qb4# 0-1
+

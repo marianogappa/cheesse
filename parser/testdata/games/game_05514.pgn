@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/fp5EvfTD"]
+[White "MCosta21"]
+[Black "Hamiltoniano"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:18"]
+[WhiteElo "1507"]
+[BlackElo "1526"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 e6 3. d4 cxd4 4. cxd4 g6 5. e5 Bg7 6. Nf3 Nc6 7. Be2 d5 8. exd6 Qxd6 9. Be3 Nge7 10. Nc3 Nf5 11. Nb5 Qd7 12. Bf4 Ncxd4 13. Nc7+ Ke7 14. Nxa8 Nxf3+ 15. Bxf3 Qxd1+ 16. Rxd1 Bd7 17. Nc7 Rc8 1-0
+

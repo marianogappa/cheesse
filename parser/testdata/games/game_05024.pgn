@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iK6gLK9t"]
+[White "egnal"]
+[Black "YaduNivo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:21"]
+[WhiteElo "1051"]
+[BlackElo "1213"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+6"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Old Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. e3 c5 4. dxc5 Qxd1+ 5. Kxd1 e6 6. Bxc4 Bxc5 7. Ne2 Nf6 8. Bd2 Ne4 9. Ba5 Nxf2+ 10. Kd2 Nxh1 11. Bb5+ Bd7 12. Nd4 Bxb5 13. Nxb5 Nc6 14. Bc7 O-O 15. Bd6 Bxd6 16. Nxd6 Rfd8 17. Nc3 Rxd6+ 18. Kc2 Nf2 19. Nd1 Nb4+ 20. Kc1 Rxd1# 0-1
+

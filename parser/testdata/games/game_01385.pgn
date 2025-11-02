@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/8Swn5vTi"]
+[White "ertgl"]
+[Black "Bad_Owl"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:08"]
+[WhiteElo "1479"]
+[BlackElo "1540"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-12"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "720+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. d3 Bc5 3. f4 Bxg1 4. Rxg1 exf4 5. Bxf4 Ne7 6. Qg4 Ng6 7. Nc3 Qh4+ 8. Qxh4 Nxh4 9. Nd5 Na6 10. Bxc7 O-O 11. Ne7+ Kh8 12. Nxc8 Raxc8 13. Bd6 Rfe8 14. Bg3 Ng6 15. O-O-O Nb4 16. Rd2 Nxa2+ 17. Kd1 Nb4 18. Bd6 Nc6 19. Be2 Nd4 20. Bg4 Rc6 21. Bxd7 Rxd6 22. Bxe8 f5 23. exf5 Nxf5 24. Rf1 Ne3+ 25. Ke2 Nxf1 26. Kxf1 Rf6+ 27. Kg1 Nh4 28. Rd1 Re6 29. Bd7 Re2 30. g3 Nf3+ 31. Kf1 Rxh2 32. d4 Rh1+ 33. Ke2 Ng1+ 34. Ke3 h5 35. d5 h4 36. gxh4 Kh7 37. d6 Kh6 38. Bc8 Kh5 39. Rd5+ Kxh4 40. Rd4+ Kg3 41. Rg4+ Kh3 42. Rxg1+ Kh2 43. Rxh1+ Kxh1 44. d7 1-0
+

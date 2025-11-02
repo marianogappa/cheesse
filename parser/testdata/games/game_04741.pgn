@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AOGfrVP3"]
+[White "basgitlan"]
+[Black "Jagranaska"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:18"]
+[WhiteElo "1525"]
+[BlackElo "1621"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Tennison Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 Bg4 3. Ng5 0-1
+

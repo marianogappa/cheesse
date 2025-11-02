@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Hf2NKZUc"]
+[White "StoneyDreadfull"]
+[Black "TheLAZYmd"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:08"]
+[WhiteElo "1942"]
+[BlackElo "1881"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-15"]
+[ECO "A09"]
+[Opening "Reti Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. c4 c5 3. cxd5 Nf6 4. Nc3 Bg4 5. g3 Bxf3 6. exf3 Nbd7 7. Bg2 Nb6 8. f4 e6 9. dxe6 fxe6 10. O-O Bd6 11. Ne4 O-O 12. Nxd6 Qxd6 13. d3 Rad8 14. Bxb7 Qc7 15. Bg2 c4 16. d4 Nfd5 17. Be3 Nb4 18. a3 Nc6 19. Rc1 e5 20. fxe5 Nxe5 21. Bf4 Nd3 22. Bxc7 Nxc1 23. Bxd8 Rxd8 24. Qxc1 Rxd4 25. Re1 Rd8 26. Qg5 Rf8 27. Re7 c3 28. Qxg7# 1-0
+

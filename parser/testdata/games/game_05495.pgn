@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/SzqBwNfm"]
+[White "dominic88"]
+[Black "yak777"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:10"]
+[WhiteElo "1881"]
+[BlackElo "1635"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e3 e6 2. d4 d5 3. c4 Nf6 4. cxd5 exd5 5. Nc3 Bb4 6. Nf3 Bxc3+ 7. bxc3 O-O 8. Bd3 c6 9. O-O Nbd7 10. c4 Ne4 11. cxd5 cxd5 12. Bb2 f5 13. Rc1 Nb6 14. Ne5 Be6 15. f4 Nd7 16. Ba1 Nxe5 17. fxe5 Rc8 18. Rxc8 Qxc8 19. Qb3 Qe8 20. Bb2 Qg6 21. Bxe4 dxe4 22. Qxb7 f4 23. exf4 e3 24. d5 Bf5 25. e6 Be4 26. g3 Qg4 27. Re1 Qh3 28. Qxg7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VUDyrst7"]
+[White "julio1491"]
+[Black "Masbruto"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:46"]
+[WhiteElo "1585"]
+[BlackElo "1778"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-21"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Milner-Barry Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. Bc2 cxd4 8. cxd4 Bb4+ 9. Nbd2 Nxd4 10. Nxd4 Qxd4 11. O-O Qxe5 12. Re1 Qd6 13. Nb3 Bxe1 14. Qxe1 Nf6 15. Qc3 O-O 16. Bg5 Rfc8 17. Qd3 Rxc2 18. Qxc2 Ne4 19. Qc1 Rc8 20. Qf4 Nxg5 21. Qxd6 1-0
+

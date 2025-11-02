@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/8M2H6bCr"]
+[White "Ajedrecista_azul"]
+[Black "FatBoySlim"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:29"]
+[WhiteElo "1339"]
+[BlackElo "2109"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-12"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Englund Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Bf4 Qb4+ 5. Bd2 Qxb2 6. Nc3 a6 7. Rb1 Qa3 8. Rb3 Qe7 9. Bf4 h6 10. e4 g5 11. Nd5 Qd8 1/2-1/2
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/extR90fT"]
+[White "ezranov"]
+[Black "StingingBee"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:21"]
+[WhiteElo "2092"]
+[BlackElo "2029"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "B03"]
+[Opening "Alekhine Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. exd6 cxd6 6. Nc3 g6 7. Be3 Bg7 8. Bd3 O-O 9. h3 Nc6 10. Nf3 d5 11. c5 Nc4 12. Bxc4 dxc4 13. d5 Nb4 14. O-O Bf5 15. a3 Nc2 16. Rc1 Nxe3 17. fxe3 Bd3 18. Re1 a6 19. e4 b5 20. Re3 Bh6 21. Rxd3 cxd3 22. Rb1 Be3+ 23. Kh2 Qc7+ 24. Kh1 d2 25. b4 a5 26. Nxd2 axb4 27. axb4 Ra3 28. Qc2 Qg3 29. Nf3 Bf4 30. Qb2 Rfa8 31. Ne2 Ra2 32. Qxa2 Rxa2 33. Nxg3 Bxg3 34. c6 Rc2 35. Nd4 Rc4 36. Nxb5 Rxe4 37. c7 Rc4 38. Kg1 Bxc7 39. Nxc7 Rxc7 40. Kf2 Kf8 41. Ke3 Ke8 42. Kd4 Kd7 43. b5 Kd6 44. Ra1 e5+ 45. Ke4 f5+ 46. Kd3 Kxd5 47. Rb1 Rb7 48. g4 e4+ 49. Ke3 Ke5 50. Rb4 f4+ 51. Ke2 f3+ 52. Ke3 Rd7 53. Rxe4+ Kd5 54. Rb4 Kc5 55. Rb2 Rf7 56. Kf2 Kb6 57. g5 Rf5 58. h4 Rf4 59. Kg3 Rf5 60. Kf2 Kb7 61. Rb3 Kb6 62. Rxf3 Rxb5 63. Rf7 Rb2+ 64. Kf3 Kc6 65. Ke4 Rb4+ 66. Ke5 Rxh4 67. Rf6+ Kd7 0-1
+

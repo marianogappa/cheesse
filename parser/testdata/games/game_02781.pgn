@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1iOQFU6C"]
+[White "yogaguchi"]
+[Black "MaksutMert"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:23"]
+[WhiteElo "2024"]
+[BlackElo "1892"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Bc5 5. Nc3 O-O 6. d3 h6 7. Be3 Bb6 8. Nd5 d6 9. Nxb6 axb6 10. h3 Be6 11. Bxe6 fxe6 12. c3 d5 13. Qc2 Qd6 14. a3 d4 15. Bc1 Rad8 16. c4 Ne7 17. b4 c5 18. Bd2 Ng6 19. Kh2 Nf4 20. g3 Ng6 21. Kg2 Ne7 22. Qb3 Rb8 23. Rfb1 Nc8 24. a4 Kh7 25. a5 bxa5 26. Rxa5 b6 27. bxc5 Qc6 28. Rb5 Na7 29. Rxb6 Rxb6 30. cxb6 Nxe4 31. dxe4 Qxe4 32. Re1 Qb7 33. Rxe5 Nc6 34. Rxe6 d3 35. Qxd3+ Kh8 36. Qe4 Qxb6 37. Qxc6 Qa7 38. Bxh6 Rc8 39. Qxc8+ Kh7 40. Be3 Qf7 41. Ng5# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BjhZyB8F"]
+[White "deitaking"]
+[Black "Kambalass"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:20"]
+[WhiteElo "1767"]
+[BlackElo "1798"]
+[WhiteRatingDiff "+43"]
+[BlackRatingDiff "-11"]
+[ECO "A40"]
+[Opening "Englund Gambit Declined, Reversed French"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e3 e5 2. d4 exd4 3. exd4 Nf6 4. Bf4 Bb4+ 5. c3 Ba5 6. Na3 O-O 7. b4 Bb6 8. c4 a6 9. c5 Ba7 10. b5 axb5 11. Nxb5 Re8+ 12. Be2 Nd5 13. Qb3 Nxf4 14. Qf3 Nxe2 15. Nxe2 Qe7 16. Nxc7 Bxc5 17. Nxe8 Bxd4 18. Rd1 Nc6 19. Nc7 Rxa2 20. Nd5 Qe5 21. Rd2 Ra1+ 22. Rd1 Rxd1+ 23. Kxd1 Bc5 24. Re1 Nd4 25. Nxd4 Qxd4+ 26. Ke2 b6 27. Kf1 Ba6+ 28. Kg1 Bb7 29. Re8+ Bf8 30. Ne7+ Kh8 31. Rxf8# 1-0
+

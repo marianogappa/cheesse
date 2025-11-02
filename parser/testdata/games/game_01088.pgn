@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6Xf5l2Rr"]
+[White "ecrelinf"]
+[Black "Deadwood_Chess"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:03"]
+[WhiteElo "1992"]
+[BlackElo "1899"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "A31"]
+[Opening "English Opening: Symmetrical Variation, Anti-Benoni Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e5 5. Nc2 d5 6. cxd5 Qxd5 7. Qxd5 Nxd5 8. g3 Bd7 9. Bg2 Bc6 10. O-O Be7 11. a3 Bf6 12. Bxd5 Bxd5 13. Nc3 Bb3 14. Ne3 O-O 15. Ned5 Bd8 16. e4 a6 17. Be3 b5 18. Rac1 Nd7 19. f4 Rc8 20. Rfe1 f6 21. Bf2 Ba5 22. Re2 Bc4 23. Rd2 Bxd5 24. Rxd5 Nb6 25. Bxb6 Bxb6+ 26. Kf1 exf4 27. gxf4 Rfd8 28. Rxd8+ Rxd8 29. Rd1 Rxd1+ 30. Nxd1 Bd4 31. Ke2 Kf7 32. Kd3 Bg1 33. h3 Ke6 34. Ne3 g6 35. Nd5 f5 36. Nc7+ Kd7 37. Nxa6 fxe4+ 38. Kxe4 Bb6 39. Nb4 Ke6 40. Nd5 Bd8 41. Nc3 b4 42. axb4 h6 43. b5 Bb6 44. Nd5 Bc5 45. b6 Kd7 46. b4 Bg1 47. Nf6+ Kc8 48. Kd5 Kb7 49. Nd7 Bxb6 50. Nxb6 Kxb6 51. Ke6 Kb5 52. Kf6 Kxb4 53. Kxg6 Kc5 54. Kxh6 Kd6 55. Kg6 Ke7 56. Kg7 Ke6 57. h4 Kf5 58. h5 Kxf4 59. h6 Kg5 60. h7 Kf4 61. h8=Q Kf5 62. Qh6 Ke4 63. Qf6 Kd5 64. Kg6 Kc4 65. Qd6 Kb5 66. Qc7 Kb4 67. Qc6 Kb3 68. Qc5 Kb2 69. Qc4 Kb1 70. Qc3 1-0
+

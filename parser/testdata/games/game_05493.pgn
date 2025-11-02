@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/n1TPSKoj"]
+[White "Tarek_Fathy"]
+[Black "mam0061"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:10"]
+[WhiteElo "2117"]
+[BlackElo "1972"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[ECO "A21"]
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+[TimeControl "900+3"]
+[Termination "Time forfeit"]
+
+1. c4 e5 2. Nc3 Bc5 3. e3 c6 4. g3 d5 5. cxd5 cxd5 6. d4 exd4 7. exd4 Bb6 8. Bg2 Ne7 9. Nge2 O-O 10. O-O Nbc6 11. Be3 Bg4 12. Qd2 Qd7 13. Nf4 Be6 14. Na4 Ba5 15. Nc5 Qc8 16. Qe2 Bc7 17. Rad1 b6 18. Ncxe6 fxe6 19. Bh3 Nf5 20. Bxf5 Rxf5 21. Rc1 Bxf4 22. Bxf4 Qd7 23. Qd2 Raf8 24. Rc2 Ne7 25. Rc7 Qe8 26. Bd6 R5f7 27. Rxa7 Nf5 28. Rxf7 Rxf7 29. Be5 Qa4 30. b3 Qe8 31. Rc1 Rf8 32. Rc7 Qh5 33. Qc2 Qf3 34. Rc3 Qg4 35. f3 Qg6 36. Rc7 Qh6 37. g4 Qe3+ 38. Qf2 Qg5 39. Kh1 Ne7 40. h4 Qh6 41. Rxe7 Qc1+ 42. Kg2 Qc3 43. Rxg7+ 1-0
+

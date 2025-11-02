@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XSK2dwU7"]
+[White "Cabballero"]
+[Black "sebcbien"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:28"]
+[WhiteElo "1468"]
+[BlackElo "1473"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Bc5 3. a3 Bxf2+ 4. Kxf2 c6 5. Bc4 Qb6+ 6. Kf1 d6 7. Bxf7+ Kxf7 8. Ng5+ Ke8 9. h4 Nf6 10. Rh3 Bxh3 11. gxh3 Rf8 12. Ne6 Rf7 13. Kg2 Nxe4 14. d4 exd4 15. Bf4 Rxf4 16. Nxf4 Qxb2 17. Qe2 d5 18. Qh5+ g6 19. Qe5+ Kf7 20. Qe6+ Kg7 21. Qe7+ Kh6 22. Qg5+ Kg7 23. Ne6+ Kf7 24. Nd8+ Ke8 25. Qe5+ Kxd8 26. Qh8+ Kc7 27. Qg7+ Kb6 28. Nd2 Qxa1 29. Nb3 Qxa3 30. Qxd4+ c5 31. Qxd5 Nc3 32. Qe6+ Kb5 33. Qe8+ Nc6 34. Qxa8 Qb2 35. Qxb7+ Kc4 0-1
+

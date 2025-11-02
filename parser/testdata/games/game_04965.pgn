@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/6JlDcPx3"]
+[White "aavza50"]
+[Black "niniveii"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:10"]
+[WhiteElo "1764"]
+[BlackElo "1690"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. d3 e6 2. Bd2 c5 3. Qc1 Nc6 4. b3 a6 5. a4 b5 6. c3 bxa4 7. b4 cxb4 8. Bg5 f5 9. Bd2 b3 10. Na3 Bxa3 11. Rxa3 Ne5 12. Rxa4 a5 13. Qb2 Rb8 14. c4 Nc6 15. Bxa5 Nxa5 16. Qa3 b2 17. f3 b1=Q+ 18. Kf2 Qb3 19. Qxb3 Nxb3 20. Rb4 Nc1 21. Rxb8 Nxd3+ 22. Ke3 Qc7 23. Rb3 Qc6 24. Rxd3 Qc5+ 25. Kd2 Nf6 26. e3 Qxc4 27. Ke2 Qb4 28. Kf2 Qb7 29. Kg3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KLbp9R87"]
+[White "secretive"]
+[Black "jfalco"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:49"]
+[WhiteElo "1402"]
+[BlackElo "1299"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+15"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 Nc6 3. Nf3 e6 4. d3 d5 5. exd5 exd5 6. Bb3 Bg4 7. O-O Nd4 8. Nbd2 Nxb3 9. Nxb3 c4 10. Nbd4 Bc5 11. Re1+ Ne7 12. Qe2 Bxd4 13. h3 Bxf3 14. Qxf3 O-O 15. Qg4 Bb6 16. dxc4 dxc4 17. Qxc4 Re8 18. Bg5 Rc8 19. Qb4 Qd4 20. Qb3 Qxf2+ 21. Kh2 Bc7+ 22. Kh1 Nf5 23. Rf1 Ng3+ 24. Kh2 Nxf1+ 25. Kh1 0-1
+

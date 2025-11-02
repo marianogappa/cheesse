@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZTm4AX7c"]
+[White "Ahells"]
+[Black "jfam"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:10"]
+[WhiteElo "1787"]
+[BlackElo "1791"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed Variation"]
+[TimeControl "180+3"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. d3 Nf6 6. Be2 Nbd7 7. O-O O-O 8. Be3 a6 9. Bf2 Ng4 10. h3 Nxf2 11. Rxf2 Bd4 12. Nd5 e6 13. Nc3 b5 14. Qd2 b4 15. Nd1 Bxf2+ 16. Nxf2 Qf6 17. e5 dxe5 18. fxe5 Nxe5 19. Qh6 Bb7 20. Rf1 Nxf3+ 21. Bxf3 Bxf3 22. gxf3 Qxf3 23. Ne4 Qh5 24. Nf6+ 1-0
+

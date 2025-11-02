@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/A5gmxsC2"]
+[White "HottySoup"]
+[Black "KnightStand"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:10"]
+[WhiteElo "1269"]
+[BlackElo "1206"]
+[WhiteRatingDiff "-142"]
+[BlackRatingDiff "+11"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "180+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nc6 4. c3 Nf6 5. Bd3 Ng4 6. d5 Na5 7. O-O Be7 8. g3 f5 9. exf5 O-O 10. b4 c6 11. dxc6 Nxc6 12. b5 Nb8 13. c4 Bxf5 14. Ba3 Bxd3 15. Qxd3 Nd7 16. Qf5 Rxf5 17. Nbd2 Qf8 18. h3 Nh6 19. g4 Rf4 20. Ne4 Nf6 21. Nxd6 Bxd6 22. Bxd6 Qxd6 23. Ng5 Nhxg4 24. hxg4 Rxg4+ 25. Kh2 e4+ 26. Kh3 Qf4 27. Ne6 Rh4+ 28. Kg2 Qh2# 0-1
+

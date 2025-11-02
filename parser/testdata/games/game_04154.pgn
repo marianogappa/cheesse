@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UleyM4cH"]
+[White "NaViD27"]
+[Black "Alejandrovish"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:49"]
+[WhiteElo "1888"]
+[BlackElo "1903"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bg4 6. Qb3 Qc7 7. Qxd5 cxd4 8. Nxd4 Rd8 9. Qb5 a6 10. Qa4 b5 11. Nxb5 Qxe5+ 12. Be3 axb5 13. Qxg4 Nf6 14. Qf3 e6 15. Qxc6+ 1-0
+

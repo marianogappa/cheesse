@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rbQmNSXN"]
+[White "becmenskopseto"]
+[Black "kandor"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:47"]
+[WhiteElo "1480"]
+[BlackElo "1174"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 e6 3. Bc4 Nc6 4. d3 d6 5. a3 a6 6. Be3 b5 7. Bb3 Bb7 8. O-O Nf6 9. Nc3 Be7 10. a4 b4 11. Ne2 a5 12. c3 O-O 13. cxb4 axb4 14. Nf4 h6 15. Qc2 Ng4 16. Rfe1 e5 17. Nd5 Bh4 18. h3 Nxe3 19. Rxe3 Bg5 20. Ree1 Nd4 21. Nxd4 exd4 22. Qd1 Bxd5 23. Bxd5 Ra7 24. b3 Kh8 25. Rf1 f5 26. f4 Bh4 27. Qh5 fxe4 28. dxe4 Bg3 29. f5 Rf6 30. Qf3 Be5 31. Qg4 d3 32. Rfd1 Bxa1 33. Rxa1 d2 34. Rd1 c4 35. bxc4 Rxa4 36. Rxd2 b3 37. Rb2 Qb6+ 38. Kh2 Ra2 39. Rxa2 bxa2 40. Qd1 Qe3 41. c5 1-0
+

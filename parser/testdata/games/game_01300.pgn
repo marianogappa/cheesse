@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/fGYOuXXZ"]
+[White "Goveta"]
+[Black "rbatty"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:48"]
+[WhiteElo "1774"]
+[BlackElo "1813"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C00"]
+[Opening "French Defense #2"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Ne2 d5 3. Ng3 dxe4 4. Nxe4 Nf6 5. Ng3 Be7 6. d4 Nc6 7. c3 O-O 8. Bc4 Re8 9. O-O Bd6 10. Nd2 e5 11. d5 Ne7 12. Nde4 Nxe4 13. Nxe4 Ng6 14. Nxd6 cxd6 15. Be3 a6 16. Bb3 b5 17. Bc2 Bb7 18. Qd3 Rc8 19. f3 Qh4 20. Bf2 Qh5 21. Rae1 Rc4 22. b3 Rcc8 23. Bg3 Rc5 24. c4 bxc4 25. bxc4 Rec8 26. Bb3 a5 27. f4 exf4 28. Bxf4 Nxf4 29. Rxf4 Qg5 30. Rfe4 h6 31. Re8+ Rxe8 32. Rxe8# 1-0
+

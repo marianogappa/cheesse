@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/vzAuoetQ"]
+[White "NateRiver93"]
+[Black "dalaf26"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:09"]
+[WhiteElo "1803"]
+[BlackElo "1766"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bc5 5. d3 O-O 6. Bg5 Be7 7. h4 d5 8. exd5 Nd4 9. Nxe5 b5 10. Nxb5 Nxb5 11. Nc6 Qd6 12. Nxe7+ Qxe7+ 13. Kd2 Nd6 14. Bb3 Bb7 15. Re1 Qd8 16. Qf3 Nde8 17. Qg3 h6 18. Bxh6 Bxd5 19. Qxg7+ Nxg7 0-1
+

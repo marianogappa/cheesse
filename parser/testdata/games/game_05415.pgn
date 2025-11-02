@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/4gig2aHg"]
+[White "thirstygnat"]
+[Black "edeniz176"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:55"]
+[WhiteElo "1954"]
+[BlackElo "2004"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-17"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Marshall Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Nd7 6. Nf3 Ngf6 7. Bd3 Qc7 8. O-O Bd6 9. Nxd6+ Qxd6 10. Qd2 O-O 11. Qf4 Qxf4 12. Bxf4 Re8 13. a4 Nh5 14. Bd6 Ndf6 15. Rfe1 g6 16. a5 Bd7 17. Ne5 Ng7 18. g4 Bc8 19. a6 b6 20. Nxc6 Nxg4 21. Be4 Nf6 22. Ne7+ Kh8 23. Bxa8 Bd7 24. Bb7 Rd8 25. c5 bxc5 26. dxc5 Bb5 27. Rad1 Rd7 28. c6 Bxc6 29. Bxc6 Rd8 30. Be5 Rxd1 31. Rxd1 h6 32. Bxf6 Kh7 33. Rd8 Nf5 34. Rh8# 1-0
+

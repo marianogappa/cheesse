@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SVnZNCT8"]
+[White "GetDoe"]
+[Black "sergey9424"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:08"]
+[WhiteElo "1230"]
+[BlackElo "1523"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "A00"]
+[Opening "Grob Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. g4 d5 2. e3 g6 3. Bb5+ Nc6 4. Bxc6+ bxc6 5. f3 h5 6. gxh5 Rxh5 7. h3 Nf6 8. f4 e5 9. fxe5 Rxe5 10. Qf3 Ne4 11. d3 Qh4+ 12. Ke2 Ng3+ 13. Kd2 Nxh1 14. Qxh1 Qf2+ 15. Kc3 d4+ 16. Kc4 Ba6+ 17. Kxd4 Rd5+ 18. Kc3 Bg7+ 19. d4 c5 20. Qxd5 Qxg1 21. Qxa8+ Ke7 22. Qxa7 cxd4+ 23. Qxd4 Bxd4+ 24. exd4 Qxc1 25. b3 Qf1 26. Kb2 Qd1 27. Nd2 Qxd2 28. Rc1 Qxd4+ 29. Kb1 Qb6 30. Re1+ Kf8 31. h4 Qd4 32. Rc1 Qxh4 33. Rd1 g5 34. Rd7 Kg7 35. Rxc7 g4 36. Re7 Qxe7 37. Kb2 g3 38. c3 g2 39. a4 g1=Q 40. c4 Qg2+ 41. Kc3 Qe3+ 42. Kb4 Qgd2+ 43. Ka3 Qc5+ 44. b4 Qce3# 0-1
+

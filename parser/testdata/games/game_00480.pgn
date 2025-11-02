@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Ygy4tyMj"]
+[White "PedroRXY"]
+[Black "bartalini"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:47"]
+[WhiteElo "1657"]
+[BlackElo "1505"]
+[WhiteRatingDiff "-28"]
+[BlackRatingDiff "+16"]
+[ECO "A20"]
+[Opening "English Opening: King's English Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. c4 e5 2. d3 Nf6 3. Nc3 Bb4 4. Bd2 Nc6 5. g3 d5 6. cxd5 Bxc3 7. Bxc3 Nxd5 8. Rc1 O-O 9. Nf3 Bg4 10. Bg2 Re8 11. O-O e4 12. dxe4 Bxf3 13. Bxf3 Nxc3 14. Rxc3 Qxd1 15. Rxd1 Rad8 16. Rcc1 h6 17. a3 a5 18. Kf1 b5 19. Ke1 Nd4 20. e3 Nxf3+ 21. Ke2 Rxd1 22. Rxd1 Nxh2 23. Rd7 Rxe4 24. Rxc7 f5 25. Rc5 b4 26. axb4 axb4 27. Rxf5 Rc4 28. Kd2 Ng4 29. Kd3 Rc1 30. Rf4 h5 31. Kd2 Rb1 32. Rxb4 Nxf2 33. Ke2 Ng4 34. Rb5 g6 35. Rb6 Kf7 36. b4 Rb2+ 37. Kf3 Rf2+ 38. Ke4 Nf6+ 39. Kd3 Rf3 40. Rb7+ Kg8 41. b5 Rxg3 42. b6 Nd5 43. Kc4 Nxb6+ 44. Rxb6 Rxe3 45. Rxg6+ Kh7 46. Rg5 h4 47. Rh5+ Kg6 48. Rxh4 Re8 49. Kc3 Kg5 50. Ra4 Rd8 51. Ra5+ Kf4 52. Ra7 Ke3 53. Re7+ Kf4 54. Kc4 Kf5 55. Kc5 Kf6 56. Re1 Kf5 57. Kc6 Rd2 58. Kc5 Rc2+ 59. Kb4 Kf4 60. Kb3 Rc8 61. Rf1+ Ke3 62. Rf4 Kxf4 0-1
+

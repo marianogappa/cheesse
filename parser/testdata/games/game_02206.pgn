@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/g0ZXFAvO"]
+[White "albervanio"]
+[Black "romybacks"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:19"]
+[WhiteElo "1701"]
+[BlackElo "1764"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "B43"]
+[Opening "Sicilian Defense: Kan Variation, Knight Variation"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 d6 6. Be3 Qc7 7. Qd2 Nd7 8. f3 b6 9. O-O-O Bb7 10. Kb1 Ngf6 11. g4 Nc5 12. Bg2 Be7 13. g5 Nh5 14. h4 O-O-O 15. Rhg1 g6 16. Qf2 Kb8 17. Nb3 Ng7 18. Rge1 f6 19. Bd4 e5 20. Be3 Nge6 21. Nd5 Bxd5 22. exd5 Ng7 23. Nxc5 dxc5 24. c4 fxg5 25. hxg5 h6 26. gxh6 Nf5 27. Rh1 Nxe3 28. Qxe3 g5 29. Qf2 Ka7 30. Bh3 Bf6 31. Be6 Rh7 32. Rdg1 Rdh8 33. Qg3 Rxh6 34. Rxh6 Rxh6 35. Qe1 Rh2 36. Rh1 Rxh1 37. Qxh1 e4 38. Qh7 exf3 39. Qxc7+ Ka8 40. Bc8 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/tyUsMQ7t"]
+[White "slonechka"]
+[Black "JewishFarmer"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:42"]
+[WhiteElo "1643"]
+[BlackElo "1485"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 d6 3. d3 Nc6 4. Nf3 Bg4 5. Bd2 Nf6 6. O-O g6 7. h3 Bxf3 8. Qxf3 Nd4 9. Qd1 Bg7 10. c3 Nc6 11. Qf3 O-O 12. Bg5 h6 13. Bxf6 Bxf6 14. Re1 Ne5 15. Qf4 Nxc4 16. dxc4 Bg7 17. Re3 e5 18. Qg4 Qb6 19. b3 Rae8 20. Na3 Rd8 21. h4 Qc7 22. h5 Qd7 23. Qh4 Qe6 24. hxg6 fxg6 25. Rg3 Qf6 26. Qxf6 Rxf6 27. Nb5 Rdf8 28. f3 a6 29. Nc7 Rf4 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/XIbAB92t"]
+[White "Fiszer"]
+[Black "HI4801836958"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:49"]
+[WhiteElo "1693"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-101"]
+[ECO "C30"]
+[Opening "King's Gambit Declined, Classical Variation"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4 Nc6 5. fxe5 dxe5 6. d3 f5 7. Ng5 Nh6 8. exf5 Bxf5 9. Rf1 Bg6 10. Ne6 Qd7 11. Bxh6 gxh6 12. Nd2 Bf7 13. Ng7+ Kd8 14. Rxf7 Qd4 15. Ne6+ Ke8 16. Nxd4 Nxd4 1-0
+

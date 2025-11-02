@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ahR2bwZi"]
+[White "Itwasme"]
+[Black "Linh45"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:58"]
+[WhiteElo "1482"]
+[BlackElo "1429"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C20"]
+[Opening "English Opening: The Whale"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. c4 Bc5 3. Nc3 Qg5 4. Nf3 Qf6 5. d3 d6 6. Nd5 Qe6 7. Nxc7+ 1-0
+

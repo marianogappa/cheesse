@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MTUxXUB2"]
+[White "SESE3211"]
+[Black "genadm"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:30"]
+[WhiteElo "1762"]
+[BlackElo "1727"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "A40"]
+[Opening "Englund Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 e5 2. c3 exd4 3. cxd4 d5 4. Nf3 h6 5. h3 Nf6 6. a3 a6 7. Bf4 Nc6 8. e3 Bf5 9. Nc3 Ne4 10. Be2 Bd6 11. Bxd6 Qxd6 12. O-O Qg6 13. Nh4 Qg5 14. Nxf5 Qxf5 15. Bg4 Qg6 16. Bf3 f5 17. Nxd5 O-O-O 18. Bxe4 fxe4 19. Nf4 Qg5 20. Qg4+ Qxg4 21. hxg4 g5 22. Ne6 Rd6 23. Nc5 h5 24. gxh5 Rxh5 25. g3 Rdh6 26. f4 Rh1+ 27. Kf2 R6h2+ 28. Ke1 Rxf1+ 29. Kxf1 Rh1+ 30. Kg2 Rxa1 31. fxg5 Ne7 32. Kh3 Re1 33. Nxe4 Rxe3 34. Nf6 Ng6 35. d5 Rb3 36. Kg4 Rxb2 37. Kh5 Nh8 38. g6 Rh2+ 39. Kg5 Nxg6 40. Kxg6 Rg2 41. g4 b5 42. g5 a5 43. Kf7 b4 44. axb4 axb4 45. g6 b3 46. Ne4 b2 47. Nc3 Rg3 48. Nb1 Kd7 49. g7 Kd6 50. g8=Q Rxg8 51. Kxg8 Kxd5 52. Kf7 Kd4 53. Kf6 c5 54. Kf5 c4 55. Kf4 c3 56. Kf3 c2 0-1
+

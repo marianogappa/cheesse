@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/9aQmLQSI"]
+[White "Gabriel291987"]
+[Black "pasqualeraul"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:21"]
+[WhiteElo "1673"]
+[BlackElo "1339"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer Gambit: von Popiel Gambit"]
+[TimeControl "900+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. d4 dxe4 3. Nc3 Nf6 4. Bg5 Bg4 5. Be2 e3 6. Bxf6 exf2+ 7. Kxf2 exf6 8. Bxg4 f5 9. Bxf5 Qf6 10. Qe2+ Be7 11. Qb5+ c6 12. Qxb7 Qxf5+ 13. Nf3 Qc8 14. Qxa8 1-0
+

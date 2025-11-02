@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/whYUSUj7"]
+[White "edgaretto"]
+[Black "dogg1993"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:51"]
+[WhiteElo "1678"]
+[BlackElo "1413"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Qe7 4. d5 Na5 5. a3 b6 6. b4 Nc4 7. Bxc4 d6 8. O-O Bg4 9. h3 Bxf3 10. Qxf3 O-O-O 11. Ba6+ Kb8 12. Qc3 g6 13. Qc6 Nf6 14. Qb7# 1-0
+

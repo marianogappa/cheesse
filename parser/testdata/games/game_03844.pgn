@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cXobBkiJ"]
+[White "Pawn-Destroyer"]
+[Black "buddy_bugs2"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:40"]
+[WhiteElo "1261"]
+[BlackElo "1366"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-14"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[TimeControl "300+3"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. h3 d6 6. Re1 O-O 7. c3 Be6 8. Bb3 Qd7 9. d3 h6 10. Be3 Bb6 11. Nbd2 Ne7 12. Nf1 Ng6 13. Ng3 c5 14. c4 Ne7 15. Ba4 Nc6 16. a3 Qe7 17. Qd2 Nd4 18. Nxd4 cxd4 19. Bxh6 Nh7 20. Nh5 gxh6 21. Qxh6 Qg5 22. Nf6+ Qxf6 23. Qxf6 Nxf6 24. Bd1 Kh7 25. b4 Rg8 26. a4 Bxh3 27. g3 Rg5 28. Kh2 Bg4 29. Bb3 Rag8 30. Rh1 Rh5+ 31. Kg2 Rxh1 32. Rxh1+ Kg7 33. c5 dxc5 34. bxc5 Bxc5 35. a5 Kf8 36. Rc1 Bb4 37. Rc7 Bxa5 38. Rxb7 Bb6 39. Rb8+ Kg7 40. Rb7 Nh5 41. Rxf7+ Kh6 42. f3 Bc8 43. g4 Nf4+ 44. Kg3 Kg6 45. Re7 Kf6 46. Rh7 Be6 47. Ba4 Rc8 48. Rh6+ Ke7 49. g5 Rc1 50. g6 Rg1+ 51. Kf2 Rxg6 52. Rh7+ Kd6 53. Rh8 Nxd3+ 54. Ke2 Nf4+ 55. Kf2 d3+ 56. Ke1 Ba5+ 57. Kf2 d2 58. Ke3 Bd7 59. Bb3 Bc6 60. Rd8+ Kc5 61. Bd1 Kb4 62. Rxd2 1-0
+

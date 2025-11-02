@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/deWI7xoC"]
+[White "Linh45"]
+[Black "rubenvega"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:06"]
+[WhiteElo "1411"]
+[BlackElo "1524"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C42"]
+[Opening "Russian Game: Cochrane Gambit"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nxf7 Kxf7 5. Bc4+ Ke8 6. d3 Be7 7. Bg5 h6 8. Bxf6 Bxf6 9. Qh5+ Kd7 10. Qf7+ Qe7 11. Be6+ Kd8 12. Qxe7+ Kxe7 13. Bxc8 Rxc8 14. O-O Nc6 15. Re1 Bxb2 16. e5 dxe5 17. d4 Bxa1 18. c3 Kd6 19. Nd2 Bxc3 20. dxe5+ Bxe5 21. Ne4+ Ke6 22. Nc5+ Kd5 23. Nd3 Re8 24. Rd1 Ke6 25. Nc5+ Kf7 26. Rd7+ Kg8 27. Ne4 Bd6 28. f3 Rad8 0-1
+

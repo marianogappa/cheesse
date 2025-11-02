@@ -1,0 +1,18 @@
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/xrW9JkMo"]
+[White "c_ro"]
+[Black "raemisch"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:12"]
+[WhiteElo "1476"]
+[BlackElo "1624"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Icelandic-Palme Gambit"]
+[TimeControl "-"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 e6 4. Nc3 exd5 5. Qe2+ Be7 6. Nxd5 Nxd5 7. cxd5 Qxd5 8. Nf3 Bg4 9. d4 Nc6 10. Be3 Kd7 11. Qb5 Bb4+ 12. Bd2 Rhe8+ 13. Kd1 Bxf3+ 14. gxf3 Qxf3+ 15. Kc2 a6 16. Bh3+ Qxh3 17. Qxb7 Nxd4+ 18. Kd1 Qh5+ 19. f3 Bxd2 20. Rf1 Qxh2 21. Qd5+ Qd6 22. Qxd6+ Kxd6 23. Kxd2 c5 24. Rad1 Kd5 25. Kc3 Re3+ 26. Rd3 Rxd3+ 27. Kxd3 c4+ 28. Kd2 Re8 29. Rd1 Nxf3+ 30. Kc3+ Kc5 31. b3 Re3+ 32. Kb2 Re2+ 33. Ka3 c3 34. Rc1 c2 35. b4+ Kc4 36. Rf1 Nd4 37. Ka4 g5 38. Ka5 Nc6+ 39. Kxa6 Nxb4+ 40. Kb6 Re6+ 41. Kc7 Na6+ 42. Kd7 Nc5+ 43. Kc7 g4 44. Rxf7 c1=Q 45. a4 Qh1 46. a5 Qc6+ 47. Kd8 Nb7+ 48. Rxb7 Qxb7 49. a6 Qe7+ 50. Kc8 Rc6+ 51. Kb8 Qd8+ 52. Kb7 Qc7+ 53. Ka8 Rxa6# 0-1
+

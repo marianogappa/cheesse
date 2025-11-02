@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/9S0raMxS"]
+[White "enzin"]
+[Black "theresidentsheep"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:48"]
+[WhiteElo "1713"]
+[BlackElo "1749"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "B29"]
+[Opening "Sicilian Defense: Nimzowitsch Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.12] } 1... c5 { [%eval 0.34] } 2. Nf3 { [%eval 0.22] } 2... Nf6 { [%eval 0.5] } 3. d4?! { [%eval -0.02] } 3... cxd4 { [%eval 0.47] } 4. e5 { [%eval 0.38] } 4... Nd5 { [%eval 0.38] } 5. Nxd4 { [%eval 0.03] } 5... Nc6 { [%eval 0.07] } 6. Nc3?! { [%eval -0.63] } 6... Nxd4? { [%eval 0.62] } 7. Qxd4 { [%eval 0.63] } 7... Nxc3 { [%eval 0.67] } 8. Qxc3 { [%eval 0.51] } 8... d6 { [%eval 0.75] } 9. exd6 { [%eval 0.53] } 9... Qxd6 { [%eval 0.67] } 10. Bd2 { [%eval 0.62] } 10... Bf5 { [%eval 0.9] } 11. O-O-O { [%eval 0.93] } 11... Rc8? { [%eval 3.2] } 12. Bb5+ { [%eval 2.92] } 12... Kd8 { [%eval 2.95] } 13. Qa5+? { [%eval 0.32] } 13... Qb6?? { [%eval #4] } 14. Be3+?! { [%eval #11] } 14... Bd7 { [%eval #4] } 15. Rxd7+?! { [%eval #6] } 15... Ke8 { [%eval #6] } 16. Bd4?? { [%eval 2.3] } 16... Qxa5 { [%eval 2.29] } 17. Rxb7+ { [%eval 2.18] } 17... Qxb5 { [%eval 2.18] } 18. Rxb5 { [%eval 2.07] } 18... e6?! { [%eval 3.05] } 19. Bxa7 { [%eval 3.0] } 19... Bd6 { [%eval 3.33] } 20. Rd1 { [%eval 3.2] } 20... Ke7 { [%eval 3.52] } 21. Rb7+ { [%eval 3.18] } 21... Kf6?? { [%eval 8.4] } 22. Rxd6 { [%eval 8.1] } 22... Rc5? { [%eval 15.89] } 23. Bxc5 { [%eval 15.67] } 23... Rc8 { [%eval 15.54] } 24. Bd4+ { [%eval 14.98] } 24... Kf5?! { [%eval #10] } 25. Rxf7+ { [%eval #9] } 25... Ke4 { [%eval #1] } 26. c3?! { [%eval #6] } 26... e5 { [%eval #3] } 27. Re6?! { [%eval 56.41] } 1-0
+

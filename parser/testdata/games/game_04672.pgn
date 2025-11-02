@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ZnyY9tkQ"]
+[White "Joncalich"]
+[Black "chesslife_h"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:57"]
+[WhiteElo "1507"]
+[BlackElo "1912"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+2"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Black Mustang Defense"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. Nf3 Nc6 2. g3 e5 3. Bg2 d5 4. Nc3 Nf6 5. d4 e4 6. Ne5 Nxe5 7. dxe5 Ng4 8. Nxd5 Nxe5 9. Bxe4 c6 10. Nc3 Qxd1+ 11. Nxd1 Bh3 12. Bf4 Nc4 13. Ne3 Nxb2 14. Bf5 Bb4+ 15. c3 Bxc3# 0-1
+

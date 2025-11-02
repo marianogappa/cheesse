@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/qbMzmX9V"]
+[White "BogdanC"]
+[Black "CarlosRim"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:21"]
+[WhiteElo "1585"]
+[BlackElo "1571"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "C44"]
+[Opening "Scotch Game: Goering Gambit"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 Bc5 5. cxd4 Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 Nf6 8. d5 Ne5 9. Nxe5 Qe7 10. f4 O-O 11. Be2 d6 12. Nec4 Nxe4 13. O-O Nxd2 14. Qxd2 a6 15. Rfe1 Bf5 16. Ne3 Qf6 17. Bg4 Bxg4 18. Nxg4 Qg6 19. h3 h5 20. Nf2 Rfe8 21. Rac1 Rxe1+ 22. Qxe1 f6 23. Qe7 Re8 24. Qxc7 Qf5 25. g3 Qxd5 26. Rd1 Qf3 27. Qxd6 Re1+ 28. Kh2 Qxg3+ 0-1
+

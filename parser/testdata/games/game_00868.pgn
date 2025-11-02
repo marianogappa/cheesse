@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OxIS6Zrc"]
+[White "jansmil"]
+[Black "Saxafone"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:14"]
+[WhiteElo "1753"]
+[BlackElo "1806"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "180+2"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d6 3. d4 Qa5+ 4. Bd2 Qb6 5. Nc3 Qxb2 6. Rb1 Qa3 7. Bc4 Bg4 8. h3 Be6 9. d5 cxd5 10. Nb5 Qc5 11. Bxd5 Bxd5 12. exd5 Nf6 13. Be3 Qc8 14. O-O a6 15. Na7 Qd7 16. Qd4 g6 17. Qb4 b5 18. a4 Bg7 19. axb5 Nxd5 20. Qd2 Nxe3 21. b6 Nxf1 22. Kxf1 Rxa7 23. bxa7 Qxa7 24. Qb4 O-O 25. Qb7 Qc5 26. Qxe7 Qxc2 0-1
+

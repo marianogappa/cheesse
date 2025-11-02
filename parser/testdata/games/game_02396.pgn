@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/oJFC3pe9"]
+[White "tignubz"]
+[Black "benperkins19999"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:09"]
+[WhiteElo "1027"]
+[BlackElo "990"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C40"]
+[Opening "King's Knight Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Bb4 3. a3 Ba5 4. b4 Bb6 5. d4 a5 6. c3 axb4 7. axb4 Nf6 8. Rxa8 Nc6 9. Bb5 exd4 10. cxd4 Nxe4 11. O-O d5 12. Bd3 Nd6 13. Ne5 O-O 14. Nc3 f6 15. Nc4 Nxc4 16. Bxc4 dxc4 17. Bf4 Re8 18. Nb5 Qe7 19. Nxc7 Qe2 20. Nxe8 Qxd1 21. Rxd1 Nxd4 22. Rxd4 Bxd4 23. Rxc8 c3 24. Nd6# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pmj0LIbK"]
+[White "kfenix"]
+[Black "dobbo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:01"]
+[WhiteElo "1899"]
+[BlackElo "1915"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "E61"]
+[Opening "King's Indian Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Bg5 O-O 5. Qd2 d6 6. O-O-O c6 7. Bh6 Nbd7 8. Bxg7 Kxg7 9. h4 h5 10. f3 Nb6 11. e4 e5 12. Nh3 exd4 13. Qxd4 Bxh3 14. Rxh3 Qe7 15. Qxd6 Qxd6 16. Rxd6 Rad8 17. c5 Rxd6 18. cxd6 Rd8 19. e5 Nfd7 20. f4 Nc4 21. Bxc4 1-0
+

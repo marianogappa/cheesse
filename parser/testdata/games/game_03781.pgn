@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lqqnuV5F"]
+[White "mianvaz"]
+[Black "Semaisr"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:31"]
+[WhiteElo "1302"]
+[BlackElo "1315"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 Qg6 5. Nf3 Qxg2 6. Rg1 Qh3 7. Rg3 Qh6 8. d4 Qd6 9. Ne4 Qd8 10. Bf4 c6 11. Qd2 e6 12. O-O-O Nf6 13. Nxf6+ Qxf6 14. Bg5 Qg6 15. Ne5 Qf5 16. Bd3 Qxd3 17. Nxd3 f6 18. Be3 Bd7 19. Rdg1 g5 20. Nc5 Na6 21. Nxd7 Kxd7 22. Rd1 h5 23. Rgg1 h4 24. h3 Bb4 25. c3 Bd6 26. Qd3 b5 27. Qg6 Rhf8 28. Qg7+ Be7 29. Qg6 Rg8 30. Qe4 Nc7 31. Rg2 Nd5 32. Rdg1 Nxe3 33. Qxe3 a5 34. Rg4 Rae8 35. Re4 Bd6 36. Re1 e5 37. dxe5 fxe5 38. Qd3 Rg6 39. Rxe5 Rxe5 40. Rxe5 Re6 41. Rxe6 Kxe6 42. Qg6+ Kd5 43. Qxg5+ Kc4 44. Qxh4+ Kc5 45. Qd4# 1-0
+

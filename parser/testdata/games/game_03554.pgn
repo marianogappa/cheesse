@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9vqaIwyF"]
+[White "Andi36"]
+[Black "Hewkston"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:39"]
+[WhiteElo "1401"]
+[BlackElo "1241"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Bb5+ c6 4. Bc4 b5 5. Bb3 c5 6. c4 b4 7. Ba4+ Bd7 8. Bxd7+ Nxd7 9. d3 a5 10. Bg5 f6 11. Be3 g5 12. g4 Nh6 13. h3 Nb6 14. a3 b3 15. Qxb3 a4 16. Qb5+ Nd7 17. Nc3 Rb8 18. Qxa4 Rxb2 19. O-O Qb8 20. Nb5 Nb6 21. Nxd6+ Kd8 22. Qa5 Qxd6 23. Qa8+ Nxa8 24. a4 Nb6 25. a5 Qxd3 26. axb6 Rxb6 27. Ra8+ Ke7 28. Bxc5+ Kd7 29. Bxb6 Qxf3 30. Rd1+ Kc6 31. Be3 Qxh3 32. Rc8+ Kb7 33. Rc5 Nxg4 34. Rb5+ Kc6 35. Rd8 Nxf2 36. Kxf2 Qh4+ 37. Ke2 Qh2+ 38. Kf3 Qh3+ 39. Kf2 Bc5 40. Rxc5+ Kb6 41. Rb5+ Ka6 42. Ra8+ 1-0
+

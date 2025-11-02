@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NvBpkOdL"]
+[White "alwld67"]
+[Black "red_ind"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:11"]
+[WhiteElo "1572"]
+[BlackElo "1625"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C00"]
+[Opening "French Defense: Reti-Spielmann Attack"]
+[TimeControl "180+2"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. g3 d6 3. Bg2 Nf6 4. c3 Be7 5. d4 Nbd7 6. Be3 O-O 7. Nd2 e5 8. f4 exf4 9. Bxf4 Nb6 10. Qc2 Ng4 11. O-O-O Bg5 12. h3 Bxf4 13. hxg4 Bxd2+ 14. Qxd2 Bxg4 15. Bf3 Bxf3 16. Nxf3 Qf6 17. Qe2 Rfe8 18. Rh4 Qe6 19. e5 Qxa2 20. Nd2 Na4 21. Nc4 b5 22. Ne3 Qa1+ 23. Kd2 Qxb2+ 24. Ke1 Qxc3+ 25. Qd2 Qc6 26. Nf5 dxe5 27. Nxg7 exd4+ 28. Kf2 Qf6+ 29. Kg2 Qxg7 30. Rdh1 d3 31. Qxd3 Qb2+ 0-1
+

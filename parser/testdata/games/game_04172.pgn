@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/YBkHoAW2"]
+[White "BeepBeepImaJeep2"]
+[Black "cmnt"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:53"]
+[WhiteElo "1442"]
+[BlackElo "1206"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation #2"]
+[TimeControl "60+1"]
+[Termination "Time forfeit"]
+
+1. b3 e5 2. Bb2 d6 3. g3 f5 4. Bg2 c6 5. e3 Qf6 6. f4 Nh6 7. fxe5 dxe5 8. Nf3 Nf7 9. Bh3 Nd7 10. Nc3 Bb4 11. Ne2 O-O 12. Nf4 Rd8 13. a3 Ba5 14. b4 Bb6 15. a4 g6 16. O-O Qe7 17. Ng2 e4 18. Nfe1 Qd6 19. a5 Bc7 20. c3 g5 21. g4 f4 22. exf4 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/psVd4eJQ"]
+[White "chessname1234"]
+[Black "scrauler"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:01"]
+[WhiteElo "1819"]
+[BlackElo "1528"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "C00"]
+[Opening "French Defense #2"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Bc4 d5 3. exd5 exd5 4. Bb3 c6 5. h3 Bd6 6. c3 Bd7 7. Ne2 Ne7 8. d4 O-O 9. O-O Ng6 10. Bf4 Bxf4 11. Nxf4 Nxf4 12. Qf3 Qf6 13. Nd2 Ng6 14. Qxf6 gxf6 15. c4 Kh8 16. cxd5 cxd5 17. Bxd5 Bc6 18. Bb3 Rg8 19. d5 Bb5 20. Rfe1 Ne5 21. Ne4 Rg6 22. d6 Nbd7 23. a4 Ba6 24. Rac1 Rag8 25. Rc7 Rxg2+ 26. Kh1 Nb6 27. Bxf7 Nd5 28. Bxg8 Nxc7 29. dxc7 Rxg8 30. Nxf6 Rc8 31. Rc1 b6 32. Nd5 Bb7 33. f3 Bxd5 34. Kg1 Bxf3 35. Kf2 Bb7 36. b4 1-0
+

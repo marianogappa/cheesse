@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/k4kesDIj"]
+[White "m1ndfactory"]
+[Black "Doudouseb"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:36"]
+[WhiteElo "1656"]
+[BlackElo "1655"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C78"]
+[Opening "Ruy Lopez: Morphy Defense, Neo-Arkhangelsk Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. a3 O-O 7. b4 Ba7 8. c4 d6 9. Nc3 Bd7 10. d3 Nd4 11. Bg5 Bxa4 12. Qxa4 Nxf3+ 13. gxf3 h6 14. Bh4 Bd4 15. Rac1 c6 16. Kh1 b5 17. Qd1 bxc4 18. dxc4 d5 19. Rg1 Bxf2 20. Bxf2 dxe4 21. Nxe4 Nxe4 22. fxe4 Qf6 23. Be3 Qf3+ 24. Qxf3 1-0
+

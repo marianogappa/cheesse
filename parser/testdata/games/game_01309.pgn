@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JhkBcHOe"]
+[White "Chronus"]
+[Black "lancelotukr"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:54"]
+[WhiteElo "1778"]
+[BlackElo "1749"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "D10"]
+[Opening "Slav Defense: Exchange Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. e4 e6 5. exd5 exd5 6. Bb5+ Bd7 7. Qe2+ Be7 8. Bxd7+ Nxd7 9. Nc3 Ngf6 10. Bg5 O-O 11. Nf3 Nb6 12. O-O Re8 13. Qb5 Ne4 14. Bxe7 Rxe7 15. Ne5 Nxc3 16. bxc3 a6 17. Qb3 f6 18. Nd3 Qe8 19. Nc5 Nc4 20. Nd3 b5 21. a4 Nd2 22. Qxd5+ Kh8 23. Rfe1 Rd8 24. Rxe7 Qxe7 25. Qc6 Nb3 26. Re1 Qf7 27. axb5 axb5 28. Qxb5 Nd2 29. h3 h6 30. Nf4 Nc4 31. d5 Nd6 32. Qd3 f5 33. c4 Ne4 34. Ne6 Rc8 35. Rxe4 fxe4 36. Qxe4 Re8 37. c5 Qa7 38. c6 Qa1+ 39. Kh2 Qf6 40. c7 Qe7 41. f4 Qd7 42. f5 Qd6+ 43. Kh1 Ra8 44. Qd4 Qe7 45. Qc3 Qf6 46. c8=Q+ Rxc8 47. Qxc8+ Kh7 48. Nf8+ Kg8 49. Nd7+ 1-0
+

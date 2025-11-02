@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/4GnCHGPu"]
+[White "CuriousKnight"]
+[Black "chipotlefan"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:19"]
+[WhiteElo "2002"]
+[BlackElo "2036"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "A00"]
+[Opening "Van Geet Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. Nc3 { [%eval -0.04] } 1... b6 { [%eval 0.39] } 2. d4 { [%eval 0.44] } 2... Bb7 { [%eval 0.46] } 3. e4 { [%eval 0.41] } 3... Nf6 { [%eval 0.56] } 4. Bd3 { [%eval 0.43] } 4... e6 { [%eval 0.48] } 5. Qe2 { [%eval 0.31] } 5... Bb4 { [%eval 0.24] } 6. Nf3 { [%eval 0.13] } 6... O-O? { [%eval 1.21] } 7. Bd2? { [%eval 0.11] } 7... d6?! { [%eval 0.68] } 8. e5 { [%eval 0.57] } 8... dxe5 { [%eval 0.74] } 9. dxe5 { [%eval 0.97] } 9... Nfd7? { [%eval 3.77] } 10. O-O-O?? { [%eval 0.36] } 10... h6 { [%eval 0.41] } 11. h4 { [%eval 0.24] } 11... Qe7 { [%eval 0.44] } 12. Ng5?! { [%eval -0.51] } 12... Nc6 { [%eval -0.44] } 13. Bh7+ { [%eval -0.66] } 13... Kh8 { [%eval -0.64] } 14. Nce4?! { [%eval -1.33] } 14... Ncxe5?! { [%eval -0.83] } 15. Bxb4 { [%eval -1.18] } 15... Qxb4 { [%eval -1.12] } 16. f4 { [%eval -1.28] } 16... Bxe4?? { [%eval 2.5] } 17. Nxe4?? { [%eval -0.8] } 17... Kxh7 { [%eval -0.79] } 18. fxe5 { [%eval -0.95] } 18... Nxe5?! { [%eval 0.0] } 19. h5? { [%eval -2.08] } 19... Rfd8 { [%eval -1.95] } 20. Nc3?? { [%eval -8.08] } 20... f6?? { [%eval -2.17] } 21. Rhg1?? { [%eval -7.55] } 21... Qf4+?? { [%eval -2.19] } 22. Kb1 { [%eval -2.18] } 22... Rd6? { [%eval -0.96] } 23. g3? { [%eval -2.32] } 23... Qg5?? { [%eval 4.56] } 24. Ne4?? { [%eval -2.05] } 24... Qf5?? { [%eval 1.76] } 25. g4?? { [%eval -3.61] } 25... Qf4?? { [%eval 5.47] } 26. g5?? { [%eval -2.75] } 26... hxg5?? { [%eval 2.5] } 27. h6?? { [%eval -4.64] } 27... gxh6?? { [%eval 4.5] } 28. Rh1?? { [%eval -5.29] } 28... Rad8?? { [%eval -0.06] } 29. Rdf1 { [%eval -0.07] } 29... Qxe4?? { [%eval 3.68] } 30. a3?? { [%eval #-11] } 30... Qxe2 { [%eval #-8] } 31. Re1 { [%eval #-6] } 31... Rd1+ { [%eval #-5] } 0-1
+

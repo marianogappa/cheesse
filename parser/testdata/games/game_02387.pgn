@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/YfqE2a5h"]
+[White "enzin"]
+[Black "theresidentsheep"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:05"]
+[WhiteElo "1722"]
+[BlackElo "1740"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Marshall Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Bc4 Nb6 5. Bb3 e6 6. Qf3 c5 7. dxc5 Bxc5 8. Nc3 O-O 9. Be3 Bxe3 10. Qxe3 Nc6 11. Nge2 Qf6 12. O-O-O a5 13. Ne4 Qf5 14. c3 Nd5 15. Qf3 Qxf3 16. gxf3 a4 17. Bc2 b5 18. Ng5 h6 19. h4 b4 20. c4 Nb6 21. c5 Nc4 22. Ne4 N4e5 23. Nd6 Nxf3 24. Nf4 Ncd4 25. Bb1 b3 26. a3 Ba6 27. Rd3 Bxd3 28. Nxd3 Rad8 29. Ne5 Ne2+ 30. Kd1 Ned4 31. Nxf3 Nxf3 32. Ke2 Ne5 33. f4 Nc6 34. Rd1 Ne7 0-1
+

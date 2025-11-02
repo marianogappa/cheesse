@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/OdEolTUb"]
+[White "Danny_D"]
+[Black "Vladislavwwvv"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:37"]
+[WhiteElo "1280"]
+[BlackElo "1296"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-123"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "45+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.26] } 1... e5 { [%eval 0.44] } 2. Qh5?! { [%eval -0.25] } 2... Qf6?! { [%eval 0.41] } 3. Qf3?! { [%eval -0.35] } 3... b6 { [%eval 0.12] } 4. Qxf6 { [%eval -0.37] } 4... Nxf6 { [%eval -0.47] } 5. d3 { [%eval -0.47] } 5... c6?! { [%eval 0.2] } 6. c4?! { [%eval -0.58] } 6... d5 { [%eval -0.57] } 7. Bg5?! { [%eval -1.08] } 7... h6? { [%eval 0.03] } 8. Bxf6 { [%eval -0.09] } 8... gxf6 { [%eval -0.01] } 9. cxd5 { [%eval 0.01] } 9... cxd5 { [%eval 0.06] } 10. exd5 { [%eval -0.13] } 10... Bb7 { [%eval -0.14] } 11. Nc3 { [%eval -0.17] } 11... a6?! { [%eval 0.53] } 12. Be2 { [%eval 0.52] } 12... b5 { [%eval 0.55] } 13. Bf3 { [%eval 0.47] } 13... Bc5?! { [%eval 1.22] } 14. d6?! { [%eval 0.42] } 14... Bb4?? { [%eval 4.63] } 15. Bxb7 { [%eval 4.57] } 15... Ra7 { [%eval 4.67] } 16. Bc6+?? { [%eval 0.16] } 16... Nd7?? { [%eval 4.94] } 17. a3?! { [%eval 4.44] } 17... Bxc3+?! { [%eval 5.31] } 18. Ke2?? { [%eval 0.81] } 18... Rg8?? { [%eval 6.46] } 19. bxc3 { [%eval 6.27] } 19... Rxg2?? { [%eval 11.35] } 20. Bxd7+?? { [%eval 3.28] } 20... Kxd7 { [%eval 3.74] } 21. Kf1?! { [%eval 2.83] } 21... Rg8 { [%eval 3.05] } 22. Nf3 { [%eval 2.95] } 22... a5 { [%eval 3.37] } 23. d4?! { [%eval 2.79] } 23... e4? { [%eval 4.2] } 24. Nd2 { [%eval 3.92] } 24... b4? { [%eval 5.88] } 25. Nxe4 { [%eval 5.45] } 25... bxc3?? { [%eval 10.15] } 26. Nxc3?? { [%eval 4.83] } 26... Ra6? { [%eval 7.42] } 27. Nb5? { [%eval 5.29] } 27... Rxd6? { [%eval 7.4] } 28. Nxd6 { [%eval 7.28] } 28... Kxd6 { [%eval 7.24] } 29. Rc1 { [%eval 6.96] } 29... Rd8?! { [%eval 7.69] } 30. Rb1?! { [%eval 6.97] } 30... Ke7 { [%eval 6.91] } 31. Rb6 { [%eval 6.64] } 31... Rc8? { [%eval 8.11] } 32. Rb7+?! { [%eval 7.47] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tbyJnOUt"]
+[White "SaIado"]
+[Black "BigRonBuckeye"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:54"]
+[WhiteElo "1275"]
+[BlackElo "1326"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-14"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 d6 3. d3 a6 4. c3 Nf6 5. Bg5 e6 6. h3 g6 7. Qf3 Bg7 8. Ne2 O-O 9. Nd2 b5 10. e5 Nh5 11. Bxd8 bxc4 12. Qxa8 Rxd8 13. Qxb8 Bxe5 14. Nxc4 1-0
+

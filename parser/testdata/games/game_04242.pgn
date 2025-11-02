@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3BxFHM5z"]
+[White "Benkouser"]
+[Black "SpideR---MaN"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:14"]
+[WhiteElo "1839"]
+[BlackElo "1991"]
+[WhiteRatingDiff "-23"]
+[BlackRatingDiff "+6"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined: Traditional Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. c4 c5 5. cxd5 exd5 6. Nc3 Be6 7. e3 Nc6 8. Bb5 cxd4 9. Nxd4 Qc7 10. Qa4 Nd7 11. Nxc6 bxc6 12. Bxc6 Bd6 13. Bxa8 O-O 14. Bc6 Nc5 15. Qh4 Qxc6 16. O-O Be5 17. Rac1 Qb6 18. b3 Nd3 19. Rc2 f6 20. Bf4 Bxf4 21. exf4 Bf5 22. Nxd5 Qd6 23. Ne3 Be4 24. Rd2 Qb4 25. Nc4 Bd5 26. Rfd1 Bxc4 27. bxc4 Nb2 28. Qg4 Nxd1 29. Qe6+ Kh8 30. Rxd1 h6 31. Qa6 Re8 32. a3 Re1+ 33. Rxe1 Qxe1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/GAuXSK6V"]
+[White "Grasmat"]
+[Black "MS_2017"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:34"]
+[WhiteElo "2098"]
+[BlackElo "1814"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-8"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d5 4. exd5 Qxd5 5. d4 cxd4 6. cxd4 e5 7. Nc3 Bb4 8. Be3 exd4 9. Nxd4 Bxc3+ 10. bxc3 Bd7 11. Be2 Nge7 12. O-O O-O 13. Bf3 Qa5 14. Qb3 Rab8 15. Rfd1 Nxd4 16. Bxd4 Bc6 17. c4 Bxf3 18. Qxf3 Nc6 19. Bc3 Qc7 20. Rd5 f6 21. Rad1 Rbd8 22. g3 Rxd5 23. cxd5 Ne5 24. Bxe5 Qxe5 25. Qb3 b6 26. d6+ Kh8 27. d7 Rd8 28. Qf7 Qc5 29. Re1 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mxBDX8p9"]
+[White "ditkin"]
+[Black "Mesa-Boogie"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:31"]
+[WhiteElo "2267"]
+[BlackElo "2464"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Accelerated Panov Attack, Modern Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Nc3 g6 6. Nf3 Bg7 7. Bc4 O-O 8. O-O Nbd7 9. h3 Nb6 10. Bb3 Nfxd5 11. d4 Be6 12. Be3 Rc8 13. Ng5 Nxe3 14. fxe3 Bxb3 15. Qxb3 Nc4 16. Rac1 Nd2 17. Qxb7 Rc7 18. Qd5 Nxf1 19. Rxf1 Qxd5 20. Nxd5 Rd7 21. Nc3 Bh6 22. h4 f6 23. Ne6 Bxe3+ 24. Kh2 Rb8 25. Re1 Bd2 26. Re2 Bxc3 27. bxc3 Rc8 28. Nc5 Rdc7 29. Re6 Kf7 30. Ra6 Rb8 31. Kg3 Rb2 32. Kf3 Rc2 33. Ne4 f5 34. Ng5+ Kg7 35. Ne6+ Kf7 36. Nxc7 Rxc3+ 37. Kf4 Rxc7 38. g4 fxg4 39. Kxg4 h6 40. h5 gxh5+ 41. Kxh5 Kg7 42. Rg6+ Kf7 43. Ra6 Rd7 44. Kxh6 Rxd4 45. Rxa7 Rd6+ 46. Kg5 Rd5+ 47. Kf4 Kf6 48. Ke4 Rb5 49. a4 Rc5 50. Kd4 Rh5 51. a5 e5+ 52. Kd5 Kf5 53. Rf7+ Kg4 54. Ke4 Rh6 55. Kxe5 Ra6 56. Rg7+ Kf3 57. Rf7+ Ke3 58. Kd5 Rxa5+ 59. Kc4 Ra4+ 60. Kb5 Re4 61. Rd7 Kf3 62. Kc6 Re6+ 63. Rd6 Re4 64. Rd5 Kf2 65. Kd6 Rb4 66. Re5 Rb6+ 67. Kd5 Rb7 68. Ke4 Rg7 69. Kf5 Rg3 70. Ke6 Kg1 71. Rf5 Re3+ 72. Kf6 Rc3 73. Rg5+ Kf2 74. Kg6 Ke2 75. Rf5 Ke3 76. Kg5 Rc4 77. Rf6 Rc7 78. Kg6 Rc4 79. Rf5 Rh4 80. Rf6 Rh1 81. Kf7 Rg1 82. Rg6 Ra1 83. Kg7 Kd4 84. Kh6 Ke5 85. Rg5+ Ke6 86. Rg6+ Ke7 87. Rg7+ Kf8 88. Rg6 Ra6 89. Kg5 Rxg6+ 90. Kxg6 1/2-1/2
+

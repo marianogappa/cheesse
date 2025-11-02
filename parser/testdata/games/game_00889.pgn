@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/cZlJgGt9"]
+[White "mamadu"]
+[Black "CarlosRim"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:15"]
+[WhiteElo "1650"]
+[BlackElo "1545"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "C42"]
+[Opening "Russian Game: Urusov Gambit"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nxe4 4. O-O d5 5. Bb3 Nc6 6. d3 Nf6 7. Re1 Bc5 8. Nxe5 O-O 9. Nxc6 bxc6 10. Qf3 Ba6 11. Qg3 Kh8 12. Nc3 Rb8 13. Na4 Bb6 14. Bg5 Qd6 15. Qh3 Ng8 16. Rad1 h6 17. c3 f6 18. Bd2 g5 19. Bc2 f5 20. d4 f4 21. Re6 Qd8 22. Rxh6+ Nxh6 23. Qxh6+ Kg8 24. Qh7# 1-0
+

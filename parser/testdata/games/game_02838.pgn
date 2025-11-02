@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/RSjvlTSv"]
+[White "user1029"]
+[Black "antisa"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:37"]
+[WhiteElo "1536"]
+[BlackElo "1555"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bd7 4. d3 Nf6 5. Be3 b5 6. Bb3 a5 7. a3 a4 8. Ba2 Nc6 9. Nc3 Be6 10. Nxb5 Bxa2 11. Rxa2 Na5 12. O-O Be7 13. Qd2 c6 14. Nc3 O-O 15. Raa1 d5 16. exd5 Nxd5 17. Rfe1 f6 18. Ne4 Rb8 19. Rab1 Qc7 20. Ng3 Nxe3 21. Qxe3 c5 22. Nf5 c4 23. N3h4 Bc5 24. Qg3 Qa7 25. Nh6+ Kh8 26. N6f5 Bxf2+ 27. Qxf2 Qxf2+ 28. Kxf2 cxd3 29. cxd3 Nb3 30. Re2 Rfd8 31. Rc2 Rxd3 32. Rc7 Rd2+ 33. Ke3 g5 34. Ng6+ hxg6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Pu98CBHS"]
+[White "koutsi_maria"]
+[Black "Javan1998"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:51"]
+[WhiteElo "1957"]
+[BlackElo "1919"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "C10"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bd3 Ngf6 6. Bg5 Be7 7. Bxf6 Nxf6 8. Nf3 O-O 9. O-O b6 10. c3 Bb7 11. Nxf6+ Bxf6 12. Qe2 g6 13. Rad1 Bg7 14. Ne5 Qg5 15. f4 Qh4 16. g3 Qe7 17. Be4 Bc8 18. Bxa8 Bxe5 19. fxe5 Bd7 20. Be4 f5 21. exf6 Rxf6 22. Rxf6 Qxf6 23. Rf1 Qg5 24. Qf3 Kg7 25. Qf8# 1-0
+

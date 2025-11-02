@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/AEj73pyK"]
+[White "Lvictor"]
+[Black "klunkerkoenig"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:10"]
+[WhiteElo "1923"]
+[BlackElo "1962"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "B09"]
+[Opening "Pirc Defense: Austrian Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. e5 c5 6. exf6 Bxf6 7. dxc5 Qa5 8. Bb5+ Bd7 9. Bxd7+ Nxd7 10. cxd6 Bxc3+ 11. bxc3 Qxc3+ 12. Bd2 Qd4 13. dxe7 g5 14. Ne2 Qe4 15. O-O Qxe7 16. Re1 O-O 17. Ng3 Qc5+ 18. Be3 Qc3 19. Bd4 Qc6 20. Nf5 f6 21. Ne7+ Kg7 22. Nxc6 bxc6 23. Re7+ Rf7 24. Rxf7+ Kxf7 25. Qd3 c5 26. Qxh7+ Ke6 27. Re1+ Kd5 28. Qxd7+ Kc4 29. Bxf6 Rd8 30. Qe6+ Kb5 31. Bxd8 a5 32. Qb3+ Kc6 33. Re6+ Kd7 34. Bxg5 c4 35. Qb6 a4 36. Qd6+ Kc8 37. Re7 a3 38. Qc7# 1-0
+

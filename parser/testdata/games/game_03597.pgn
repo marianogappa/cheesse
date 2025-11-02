@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/GMqiZfEv"]
+[White "Meroxa"]
+[Black "abdullah1982"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:42"]
+[WhiteElo "1716"]
+[BlackElo "1199"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-5"]
+[ECO "B07"]
+[Opening "King's Pawn Game: Maroczy Defense"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 e5 3. dxe5 dxe5 4. Qxd8+ Kxd8 5. Nf3 f6 6. Nc3 g5 7. Bc4 Ne7 8. Nd5 Nxd5 9. Bxd5 c6 10. Bb3 Bb4+ 11. c3 Bc5 12. Bd2 Re8 13. O-O-O Be6 14. Bxe6 Rxe6 15. b4 Bxf2 16. Be3+ Nd7 17. Bxf2 b6 18. Nd2 c5 19. bxc5 bxc5 20. Nc4 Ra6 21. a3 Ra4 22. Ne3 Rxe4 23. Nd5 Ra4 24. Nxf6 Rxa3 25. Nxd7 Ra1+ 26. Kb2 Ra4 27. Nb6+ Rd4 28. Nxa8 Kc8 29. cxd4 cxd4 30. Rhe1 Kb8 31. Rxe5 Kxa8 32. Re7 g4 33. Rxd4 h5 34. Rd8# 1-0
+

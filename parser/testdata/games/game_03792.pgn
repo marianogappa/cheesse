@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bKJDf1oP"]
+[White "AlainDeBenoist"]
+[Black "Gunslinger24"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:29"]
+[WhiteElo "1124"]
+[BlackElo "1259"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-15"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.37] } 1... e5 { [%eval 0.45] } 2. Qh5?! { [%eval -0.15] } 2... d6 { [%eval -0.02] } 3. Bc4 { [%eval -0.03] } 3... Qe7 { [%eval 0.2] } 4. d3 { [%eval 0.04] } 4... Nf6 { [%eval 0.31] } 5. Qf3 { [%eval 0.06] } 5... Bg4 { [%eval 0.09] } 6. Qe3 { [%eval 0.03] } 6... Nc6 { [%eval 0.11] } 7. f3 { [%eval -0.14] } 7... Be6 { [%eval -0.1] } 8. Bxe6 { [%eval -0.47] } 8... Qxe6 { [%eval -0.39] } 9. d4? { [%eval -2.22] } 9... exd4 { [%eval -2.25] } 10. Qd3?! { [%eval -3.02] } 10... Nb4?? { [%eval 1.95] } 11. Qb5+ { [%eval 1.65] } 11... Nc6 { [%eval 1.93] } 12. Qxb7 { [%eval 1.39] } 12... Nxe4?? { [%eval 8.26] } 13. Qxa8+?? { [%eval 5.15] } 13... Ke7? { [%eval 7.85] } 14. Qxc6? { [%eval 6.7] } 14... Nf2+?? { [%eval 14.73] } 15. Kxf2 { [%eval 14.25] } 15... g6 { [%eval 21.03] } 16. Qxc7+ { [%eval 17.04] } 16... Kf6 { [%eval 16.74] } 17. g4 { [%eval 14.12] } 17... Bh6 { [%eval 23.05] } 18. Bxh6 { [%eval 22.85] } 18... g5 { [%eval 22.58] } 19. Nd2 { [%eval 21.5] } 19... Qe3+ { [%eval 27.02] } 20. Kg3 { [%eval 24.33] } 20... Qf4+ { [%eval 26.5] } 21. Kf2 { [%eval 25.97] } 21... Qe3+ { [%eval 26.1] } 22. Kg2 { [%eval 25.3] } 22... Qxd2+ { [%eval 24.45] } 23. Kg3 { [%eval 21.72] } 23... Qf4+ { [%eval 20.17] } 24. Kg2 { [%eval 19.93] } 24... Qd2+ { [%eval 19.69] } 25. Kh3 { [%eval 18.91] } 25... Re8 { [%eval 40.26] } 26. Qxd6+ { [%eval 35.14] } 26... Re6 { [%eval 33.98] } 27. Qd8+ { [%eval 31.91] } 27... Re7 { [%eval 31.29] } 28. f4?? { [%eval 0.0] } 28... Qe3+ { [%eval 0.0] } 29. Kg2 { [%eval 0.0] } 29... Qe4+?? { [%eval 35.61] } 30. Nf3 { [%eval 29.44] } 30... Qe2+?! { [%eval #10] } 31. Kg3 { [%eval #9] } 31... gxf4+ { [%eval #9] } 32. Kxf4 { [%eval 69.29] } 32... Qg2?! { [%eval #3] } 33. Rhg1?! { [%eval #5] } 33... Qd2+ { [%eval #4] } 34. Nxd2 { [%eval #3] } 1-0
+

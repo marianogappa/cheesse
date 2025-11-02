@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/yippUX05"]
+[White "megaserg86"]
+[Black "Enrof"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:39"]
+[WhiteElo "2062"]
+[BlackElo "2021"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-25"]
+[ECO "C44"]
+[Opening "Scotch Game: Goering Gambit, Double Pawn Sacrifice"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 Nc6 4. c3 dxc3 5. Bc4 1-0
+

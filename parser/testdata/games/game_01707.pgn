@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rHvlofaD"]
+[White "fkcrage"]
+[Black "serega70-70"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:30"]
+[WhiteElo "1230"]
+[BlackElo "1305"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Anti-Torre"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 Bg4 3. Nc3 e6 4. Bg5 Be7 5. Bxe7 Qxe7 6. e3 e5 7. h3 e4 8. Ne5 Bxd1 9. Nxd1 f6 10. Ng4 h5 11. Nh2 Nc6 12. Nc3 Qb4 13. a3 Qxb2 14. Rb1 Qxc3+ 0-1
+

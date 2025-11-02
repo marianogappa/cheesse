@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OryVIgea"]
+[White "Shomi"]
+[Black "Mad_Manta"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:41"]
+[WhiteElo "1609"]
+[BlackElo "1615"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 Nc6 3. d4 b6 4. Nf3 e6 5. Be2 d5 6. exd5 exd5 7. O-O Nf6 8. Re1 Be6 9. Bb5 Qc7 10. Ne5 O-O-O 11. Nxc6 Rd6 12. Qa4 a5 13. dxc5 bxc5 14. Bf4 Qb6 15. Bxd6 Bxd6 16. Qxa5 Bxh2+ 17. Kxh2 Ng4+ 18. Kg1 Qxa5 19. Nxa5 Re8 20. Nd2 Re7 21. Nf3 Ra7 22. Nb3 Rb7 23. Be2 Nf6 24. Nxc5 Rb6 25. Nxe6 Rxe6 26. Bd3 Rb6 27. b4 h6 28. a4 g5 29. a5 Rb8 30. a6 g4 31. Ne5 h5 32. Nxf7 h4 33. a7 Ra8 34. b5 h3 35. gxh3 gxh3 36. b6 Ng4 37. Bf5+ Kb7 38. Bxg4 h2+ 39. Kxh2 Rh8+ 40. Kg3 Rg8 41. a8=Q+ Kxb6 42. Qxg8 d4 43. Qg5 dxc3 44. Re6+ Kc7 45. Qe7+ 1-0
+

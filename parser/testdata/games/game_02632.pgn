@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/El6gV3MV"]
+[White "Sspartak"]
+[Black "Papousys"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:55"]
+[WhiteElo "1579"]
+[BlackElo "1633"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-12"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[TimeControl "900+1"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Qf6 4. d3 Nd4 5. Bg5 Qb6 6. Nc3 f6 7. Be3 a6 8. Ba4 Nxf3+ 9. gxf3 Qxb2 10. Bd2 Qa3 11. f4 b5 12. Bb3 Qd6 13. fxe5 Qxe5 14. Nd5 Ne7 15. Bf4 Qd4 16. Nxc7+ Kd8 17. Nxa8 Bb7 18. Nc7 g5 19. Be3 Qc3+ 20. Bd2 Qxc7 21. a4 Bc6 22. axb5 Bxb5 23. Ba5 Nc6 24. Bxc7+ Kxc7 25. c4 Bb4+ 26. Kf1 Bc3 27. Ra2 Nb4 28. Re2 Bc6 29. Ba4 Bb7 30. Qb3 Nxd3 31. Qxc3 Nf4 32. Qa5+ Kc8 33. Rd2 Rd8 34. Qf5 Ne6 35. Qxh7 Nc5 36. Bc2 d6 37. Qf5+ Nd7 38. Rxd6 Bc6 39. Rxc6+ Kb7 40. Rd6 1-0
+

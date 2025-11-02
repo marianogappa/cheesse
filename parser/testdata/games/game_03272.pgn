@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/k9MIWsDt"]
+[White "issammaroc"]
+[Black "tf7"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:27"]
+[WhiteElo "1513"]
+[BlackElo "1307"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nf3 d5 3. e5 Nc6 4. d4 Nge7 5. Bb5 b6 6. O-O Bb7 7. Qd3 g6 8. Bg5 a6 9. Ba4 Bg7 10. Qc3 b5 11. Bb3 h6 12. Bh4 Nf5 13. Bxd8 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wXEEnKY4"]
+[White "vmb2071"]
+[Black "dwarf66"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:28"]
+[WhiteElo "1872"]
+[BlackElo "1906"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "B03"]
+[Opening "Alekhine Defense: Exchange Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nc3 g6 7. Nf3 Bg4 8. Be3 Nc6 9. h3 Bxf3 10. Qxf3 Bg7 11. d5 Ne5 12. Qd1 O-O 13. Qb3 Rc8 14. Bxb6 Qxb6 15. Qxb6 axb6 16. Na4 Nxc4 17. Rc1 b5 18. b3 Na3 19. Rxc8 Rxc8 20. Nb6 Rc1+ 21. Kd2 Ra1 22. Nc8 Kf8 23. f3 Rxa2+ 24. Kd3 Ra1 25. g4 Rc1 26. Nb6 Be5 27. Nd7+ Ke8 28. Nxe5 dxe5 29. Bg2 Rc2 30. Ra1 Rxg2 31. Rxa3 Rg3 32. Ke4 Kd7 33. h4 Kd6 34. Ra7 f5+ 35. gxf5 gxf5+ 36. Ke3 e4 37. Rxb7 Rxf3+ 38. Ke2 Rxb3 39. h5 Kxd5 40. Rxe7 f4 41. Rxh7 Rb2+ 42. Kd1 e3 43. h6 f3 44. Rf7 e2+ 45. Ke1 Rb1+ 46. Kf2 e1=Q+ 0-1
+

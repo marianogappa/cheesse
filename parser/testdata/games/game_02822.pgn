@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/R3cbqrQ7"]
+[White "Audronis"]
+[Black "matayo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:34"]
+[WhiteElo "1844"]
+[BlackElo "1709"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+15"]
+[ECO "C50"]
+[Opening "Italian Game: Hungarian Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. O-O Nf6 5. d3 Na5 6. Nxe5 Nxc4 7. Nxc4 d5 8. exd5 Qxd5 9. Nc3 Qd8 10. Bg5 O-O 11. Re1 Be6 12. Nd2 Re8 13. Nce4 Nxe4 14. Bxe7 Qxe7 15. Nxe4 Rad8 16. Qe2 Qh4 17. Nc5 Bd7 18. Qd2 Bc6 19. Rxe8+ Rxe8 20. Re1 Rxe1+ 21. Qxe1 Qg5 22. Ne4 Qg6 23. f3 h6 24. Qg3 Bxe4 25. fxe4 Qxg3 26. hxg3 Kf8 27. Kf2 Ke7 28. Ke3 Ke6 29. Kd4 Kd6 30. c4 f6 31. c5+ Ke6 32. b4 c6 33. a4 g5 34. b5 cxb5 35. axb5 h5 0-1
+

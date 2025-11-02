@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2yPbrD66"]
+[White "Developr"]
+[Black "pberty"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:12"]
+[WhiteElo "1124"]
+[BlackElo "1015"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-9"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bc5 5. d3 d6 6. Qe2 h6 7. Be3 O-O 8. Bxc5 dxc5 9. O-O-O b6 10. Nd5 Nd4 11. Qf1 Nxf3 12. gxf3 Nxd5 13. Bxd5 Rb8 14. Qg2 Be6 15. c4 Bxd5 16. cxd5 f6 17. Rhg1 Rf7 18. Qg3 g5 19. f4 exf4 20. Qg4 Qd7 21. Qxd7 Rxd7 22. d4 cxd4 23. Rxd4 c5 24. Ra4 a5 25. Re1 Rbb7 26. Ra3 Kg7 27. Rd3 Kg6 28. e5 fxe5 29. Rxe5 Re7 30. Rxe7 Rxe7 31. d6 Rd7 32. f3 c4 33. Rd4 b5 34. Kd2 a4 35. Kc3 Rb7 36. d7 1-0
+

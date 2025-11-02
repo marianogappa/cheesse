@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/i3BDzrY6"]
+[White "osipov"]
+[Black "Robertsun"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:00"]
+[WhiteElo "1991"]
+[BlackElo "2199"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-18"]
+[ECO "D13"]
+[Opening "Slav Defense: Exchange Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 c6 2. Nf3 d5 3. c4 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bg5 Bf5 7. e3 Ne4 8. Bh4 Qa5 9. Qb3 e6 10. Bb5 Bb4 11. Bxc6+ bxc6 12. Rc1 c5 13. dxc5 Nxc5 14. Qd1 Nd3+ 15. Kf1 Nxc1 16. Qxc1 Bd3+ 17. Kg1 Rc8 18. h3 Bxc3 19. bxc3 Qxc3 20. Qxc3 Rxc3 21. Kh2 O-O 22. a3 Rxa3 23. Be7 Rb3 24. Bxf8 Kxf8 25. Ra1 a6 26. Ne5 Bb5 27. Ra5 f6 28. Nf3 Ke7 29. Nd4 Kd6 30. Nxb3 Kc6 31. Nd4+ Kb6 32. Ra1 e5 33. Ne6 g6 34. Nf8 a5 35. Nxh7 f5 36. Nf6 Kc5 37. h4 Bc4 38. Rxa5+ Kb6 39. Rxd5 Bxd5 40. Nxd5+ Kc5 41. Ne7 g5 42. Ng6 Kd6 43. hxg5 Ke6 44. f4 e4 45. Nh4 Kf7 46. Nxf5 Kg6 47. Ng3 Kf7 48. Nxe4 Ke6 49. Ng3 Kd5 50. f5 Ke5 51. f6 Ke6 52. Kh3 Kf7 53. Kg4 Kg6 54. Kf4 Kf7 55. Kf5 Kg8 56. g6 Kh8 57. Nh5 Kg8 58. Kg5 Kh8 59. Kh6 Kg8 60. g7 Kf7 61. Kh7 Ke6 62. g8=Q+ Kf5 63. Qg3 Ke4 64. Qf4+ Kd3 65. Qd4+ Ke2 66. e4 Kf1 67. e5 Ke2 68. e6 Ke1 69. f7 Kf1 70. f8=Q+ 1-0
+

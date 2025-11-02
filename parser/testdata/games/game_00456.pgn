@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/1Pj8o8MA"]
+[White "wochirw"]
+[Black "putman"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:40"]
+[WhiteElo "1300"]
+[BlackElo "1558"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d3 d5 3. Nf3 dxe4 4. Be2 exf3 5. Bxf3 Nf6 6. O-O Nc6 7. Qe1 Bd7 8. Bd2 Be7 9. h3 O-O 10. Nc3 Be6 11. Rd1 Bd6 12. Bg5 Be7 13. Bxf6 Bxf6 14. Ne4 Be7 15. Nc5 Bc8 16. Rd2 Bxc5 17. b3 Bd6 18. a4 a6 19. Re2 f6 20. g4 Be6 21. Bxc6 bxc6 22. c4 f5 23. Re4 fxe4 24. Qxe4 Rf4 25. Qe3 Qf6 26. Qb6 cxb6 27. b4 Bxb4 28. c5 Bxc5 29. d4 Bxd4 30. Kg2 Bd5+ 31. Kg3 Rxf2 32. Rxf2 Bxf2+ 33. Kh2 Qf4# 0-1
+

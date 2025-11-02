@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/71dGH1bp"]
+[White "nimzovic"]
+[Black "Awilen"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:57"]
+[WhiteElo "1511"]
+[BlackElo "1366"]
+[WhiteRatingDiff "+60"]
+[BlackRatingDiff "-6"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, de Riviere Gambit"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. c3 Nxe4 5. d4 Nd6 6. Bd5 Qe7 7. O-O exd4 8. Re1 dxc3 9. Rxe7+ Nxe7 10. Nxc3 c6 11. Bb3 g6 12. Qxd6 1-0
+

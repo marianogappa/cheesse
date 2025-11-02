@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/YnIQjg2V"]
+[White "beskobau"]
+[Black "mostro79"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:07"]
+[WhiteElo "1658"]
+[BlackElo "1620"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "A40"]
+[Opening "English Defense #2"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 b6 2. c4 Bb7 3. Nc3 g6 4. e4 Bg7 5. Bd3 f5 6. e5 Bxg2 7. f4 Bxh1 8. Nf3 Bxf3 9. Qxf3 c6 10. Be3 d6 11. O-O-O dxe5 12. fxe5 Nd7 13. e6 Nf8 14. d5 cxd5 15. cxd5 Qc7 16. Bb5+ Kd8 17. d6 exd6 18. Qxa8+ Ke7 19. Qe8+ Kf6 20. Bd4+ Kg5 21. Bxg7 Nxe6 22. Bxh8 Nf6 23. Bxf6+ Kxf6 24. Kb1 Nc5 25. Nd5+ Kg5 26. Nxc7 Ne4 27. Qe7+ Kh5 28. Be2+ Kh6 29. Rg1 Nf2 30. Qf8# 1-0
+

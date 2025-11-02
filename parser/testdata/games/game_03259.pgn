@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/B0OeE9LB"]
+[White "adel31"]
+[Black "COLONEL007"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:25"]
+[WhiteElo "949"]
+[BlackElo "1186"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+5"]
+[ECO "A00"]
+[Opening "Kadas Opening"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. h4 Nf6 2. Nf3 c6 3. Ng5 Qb6 4. Rh3 Ng4 5. Rb3 Qc7 6. e4 e6 7. Qxg4 f6 8. Nh3 b5 9. g3 g6 10. e5 Qxe5+ 11. Re3 Qc7 12. h5 f5 13. Qh4 e5 14. hxg6 Be7 15. Qh6 Bf6 16. g7 Rg8 17. Qxf6 f4 18. gxf4 d6 19. d4 Rxg7 20. Qxe5+ dxe5 0-1
+

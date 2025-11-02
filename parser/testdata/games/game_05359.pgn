@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/IyB97DiV"]
+[White "Dd0mino2"]
+[Black "Sihujur"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:39"]
+[WhiteElo "1834"]
+[BlackElo "1980"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[ECO "C41"]
+[Opening "Philidor Defense: Morphy Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Bc4 Be7 5. Qxd4 Nf6 6. Ng5 O-O 7. h4 a6 8. Qd1 b5 9. Bd3 c5 10. b3 Nc6 11. c3 Bb7 12. Be3 Ne5 13. Be2 Nxe4 14. Kf1 Nf6 15. Nd2 h6 16. Qc2 c4 17. bxc4 bxc4 18. Rb1 Qd7 19. Bd4 Nd3 20. Bxd3 cxd3 21. Qxd3 Qg4 22. Ndf3 Bc6 23. Bxf6 hxg5 24. hxg5 Be4 25. Qe3 gxf6 26. gxf6 Bxf6 27. Rh3 Bg7 28. Rb4 d5 29. Rg3 Qf5 30. Nh4 Qh7 31. Qg5 Rfe8 32. Rh3 Re5 33. Qg3 Rh5 34. Rb8+ Rxb8 35. Qxb8+ Bf8 36. Rg3+ Bg6 37. Nxg6 Rh1+ 38. Ke2 Qh5+ 39. f3 fxg6 40. Qe8 Kh7 41. Qxf8 Qe5+ 42. Kf2 Qe1# 0-1
+

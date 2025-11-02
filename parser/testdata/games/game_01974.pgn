@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9zggylmv"]
+[White "rODrig01986"]
+[Black "RickHitchcock"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:23"]
+[WhiteElo "1561"]
+[BlackElo "1670"]
+[WhiteRatingDiff "+24"]
+[BlackRatingDiff "-13"]
+[ECO "A40"]
+[Opening "Englund Gambit Declined, Reversed French"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. e3 e5 2. d4 e4 3. d5 f5 4. Bc4 Bd6 5. Ne2 Nf6 6. Nd4 Ng4 7. Nxf5 Qg5 8. Nxd6+ cxd6 9. O-O Qh4 10. h3 Ne5 11. Be2 g5 12. Nd2 h5 13. Nxe4 g4 14. Nxd6+ Kf8 15. Nf5 Qg5 16. e4 gxh3 17. Bxg5 hxg2 18. Bh6+ Kg8 19. Bxh5 d6 20. Qd2 Bd7 21. Qg5+ Kh7 22. Qg7# 1-0
+

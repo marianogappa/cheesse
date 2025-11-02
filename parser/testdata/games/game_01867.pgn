@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6ibOY7k9"]
+[White "MazDaY"]
+[Black "tarikkurt"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:02"]
+[WhiteElo "1758"]
+[BlackElo "1541"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "300+1"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 d5 3. Nf3 Nc6 4. e3 Bb4+ 5. Bd2 Bxd2+ 6. Nbxd2 Nf6 7. Bd3 O-O 8. O-O h6 9. h3 Qe7 10. a3 a6 11. b4 Nd7 12. Qb3 Nb6 13. Rfe1 Bd7 14. e4 dxc4 15. Nxc4 Nxc4 16. Qxc4 b5 17. Qc3 Nd8 18. Qxc7 Nc6 19. Rac1 Rfc8 20. Qf4 a5 21. bxa5 Nxa5 22. Rxc8+ Rxc8 23. Ne5 Nb3 24. d5 f6 25. Nxd7 Qxd7 26. Rd1 e5 27. Qe3 Rc3 28. Qe1 Rc8 29. Qb4 Nd4 30. f4 Qa7 31. Kh2 Ra8 32. fxe5 fxe5 33. Bxb5 Nxb5 34. Qxb5 Qxa3 35. d6 Rd8 36. Qxe5 Qa4 37. Qe6+ Kh7 38. Qf5+ Kg8 39. e5 Qxd1 40. e6 Qxd6+ 41. Kh1 Qd1+ 42. Kh2 Qd6+ 43. Kh1 Rf8 44. e7 Qxe7 45. Qd5+ Kh7 46. Qd3+ g6 47. Qg3 Qe1+ 48. Qxe1 Rf7 49. Qe5 Kg8 50. Kh2 Rf8 51. Qe6+ Rf7 52. g3 Kg7 53. g4 g5 54. Kg3 Rf6 55. Qe5 Kg6 56. h4 gxh4+ 57. Kxh4 Rf7 58. Qe4+ Kg7 59. Qe5+ Rf6 60. Qh5 Rg6 61. Qf5 Kh7 62. Qf7+ Rg7 63. Qh5 Rg6 64. Qf5 Kg7 65. Kh5 Rf6 66. Qd7+ Rf7 67. Qd4+ Rf6 68. Qd7+ Rf7 69. Qf5 Rxf5+ 70. gxf5 Kf6 71. Kxh6 Kxf5 1/2-1/2
+

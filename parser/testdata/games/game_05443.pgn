@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/gvSDDbxC"]
+[White "Molata"]
+[Black "wibe"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:58"]
+[WhiteElo "1864"]
+[BlackElo "1668"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 e6 4. e3 c5 5. Nf3 cxd4 6. Nxd4 Bd7 7. Bxc4 Nc6 8. O-O Nf6 9. Qc2 Nxd4 10. exd4 g6 11. Bg5 Bg7 12. Ne4 O-O 13. Qd2 h6 14. Bxh6 Bxh6 15. Nxf6+ Qxf6 16. Qxh6 Qg7 17. Qe3 Bc6 18. Be2 Rfd8 19. Rad1 Rd5 20. b3 Rad8 21. Bf3 Rxd4 22. Rxd4 1-0
+

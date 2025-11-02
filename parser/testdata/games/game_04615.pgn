@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/dFzdBlCX"]
+[White "Alientres"]
+[Black "rast197"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:41"]
+[WhiteElo "1495"]
+[BlackElo "1476"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 d6 4. d5 Nce7 5. c4 Nf6 6. Nc3 Ng6 7. Bg5 Be7 8. h3 h6 9. Bh4 Nxh4 10. Nxh4 g5 11. Nf5 Bxf5 12. exf5 Qd7 13. Bd3 O-O-O 14. O-O Nh7 15. Qf3 f6 16. Ne4 Qa4 17. b3 Qa6 18. Ng3 c6 19. dxc6 bxc6 20. Be4 c5 21. a4 Rd7 22. Bd5 Qb6 23. Be6 Qb4 24. Bxd7+ Kxd7 25. Ne4 Nf8 26. Nxf6+ Bxf6 27. Rad1 Qb7 28. Qxb7+ Ke8 29. Qxa7 Nd7 30. Rxd6 Kf7 31. Rxd7+ Kg8 0-1
+

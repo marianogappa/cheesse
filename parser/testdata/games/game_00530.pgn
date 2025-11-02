@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/s3yoXeW7"]
+[White "mrki_osvetnik"]
+[Black "cranky-dude"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:55"]
+[WhiteElo "1893"]
+[BlackElo "1769"]
+[WhiteRatingDiff "+23"]
+[BlackRatingDiff "-7"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 e6 4. Be2 Ne7 5. O-O f5 6. e5 d6 7. Bg5 h6 8. Bf6 O-O 9. Bxg7 Kxg7 10. exd6 cxd6 11. Nc3 d5 12. Ne5 Nbc6 13. Nf3 Ng8 14. Qd2 a6 15. a3 b5 16. Rfe1 Qf6 17. Bf1 g5 18. Ne5 Nxe5 19. Rxe5 Ne7 20. Rae1 Ng6 21. R5e3 f4 22. Rh3 Re8 23. f3 Bb7 24. Bd3 Re7 25. Ne2 e5 26. c3 exd4 27. Nxd4 Rae8 28. Rf1 Bc8 29. Rxh6 Kxh6 30. h3 Nh4 31. Qc2 Re3 32. b3 R8e5 33. a4 Bf5 34. Nxf5+ Nxf5 35. axb5 axb5 36. Bxb5 d4 37. c4 d3 38. Qc3 Ng3 39. Rd1 Ne2+ 40. Kh2 Nxc3 41. Ra1 Re2 42. Ra6 d2 43. Rxf6+ Kg7 44. Rd6 Rxg2+ 45. Kxg2 Re2+ 46. Kf1 d1=Q+ 47. Rxd1 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/u35XWWgE"]
+[White "zz12345"]
+[Black "josecobo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:17"]
+[WhiteElo "1250"]
+[BlackElo "1483"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+7"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. Nc3 d5 3. f3 Qh4+ 4. g3 Qd8 5. h4 g6 6. Bg5 Qd6 7. f4 f6 8. Bxf6 Nxf6 9. Nb5 Qb6 10. a4 Bg7 11. e3 Ng4 12. Qxg4 O-O 13. O-O-O Nc6 14. Nf3 Nb4 15. Kb1 Qc6 16. c3 e5 17. Qg5 Bf5+ 18. Ka1 Nc2+ 19. Kb1 Nxe3+ 20. Rd3 Nxf1 21. Nxe5 Qa6 22. Nxc7 Qxa4 23. Nxa8 Qd1+ 24. Ka2 Qa4+ 25. Kb1 Nd2+ 26. Kc1 Ne4 27. Nb6 Qa1+ 28. Kc2 Qxh1 29. Qe7 Qg2+ 30. Kb3 Qe2 31. Nbd7 Nd2+ 32. Kb4 Bxd3 33. Nxf8 Bxf8 34. Kc5 Bxe7+ 35. Kxd5 Bc4+ 36. Nxc4 Qxc4+ 37. Ke5 Qc7+ 38. Ke6 Qd6# 0-1
+

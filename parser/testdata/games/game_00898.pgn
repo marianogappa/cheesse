@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FAUfaGTw"]
+[White "ggeorgios"]
+[Black "eddiegrassi19"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:23"]
+[WhiteElo "2010"]
+[BlackElo "1911"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e3 d5 2. f4 f5 3. Nf3 Nf6 4. b3 e6 5. Bb2 c5 6. Bb5+ Bd7 7. Qe2 a6 8. Bxd7+ Nbxd7 9. O-O Bd6 10. d3 O-O 11. Nbd2 Qc7 12. c4 b5 13. Rac1 Qb6 14. Kh1 bxc4 15. dxc4 a5 16. Ne5 Bxe5 17. fxe5 Ne8 18. cxd5 exd5 19. e6 Qxe6 20. Nf3 Nef6 21. Ng5 Qe7 22. Qb5 Rfb8 23. Qd3 g6 24. Rf3 Ne5 25. Qf1 Nxf3 26. Qxf3 Ne4 27. Nxe4 fxe4 28. Qg4 Rf8 29. h4 Rf5 30. Qe2 Raf8 31. Qb5 Qxh4+ 32. Kg1 Qf2+ 33. Kh1 Qxb2 0-1
+

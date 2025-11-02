@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/RoPXtB6p"]
+[White "SmallCaliber"]
+[Black "bozigom"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:20"]
+[WhiteElo "1561"]
+[BlackElo "1541"]
+[WhiteRatingDiff "-62"]
+[BlackRatingDiff "+11"]
+[ECO "C50"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Bc5 4. Nc3 Nc6 5. O-O O-O 6. d3 h6 7. a3 d6 8. b4 Bb6 9. b5 Na5 10. Nd5 Bg4 11. Nxf6+ Qxf6 12. d4 exd4 13. Nxd4 Bxd1 14. Rxd1 Bxd4 15. Be2 Qxf2+ 0-1
+

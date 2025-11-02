@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/f0LNuCND"]
+[White "Danny_D"]
+[Black "fenestr"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:37"]
+[WhiteElo "1264"]
+[BlackElo "1179"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+15"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "45+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bc4 g6 4. Qf3 Nf6 5. d3 h6 6. Bg5 hxg5 7. Nc3 Nd4 8. Qd1 d6 9. Nd5 Nxd5 10. Bxd5 c6 11. Bxf7+ Kxf7 12. c3 Ke8 13. cxd4 exd4 14. b3 Be6 15. Rc1 c5 16. Nf3 Bg4 17. h3 Bxf3 18. gxf3 g4 19. fxg4 Qe7 20. Rf1 Kd7 21. f3 Bg7 22. Kd2 Rag8 23. Rc4 Rh7 24. Rxd4 Rgh8 25. Rc4 d5 26. Rc2 Kc7 27. exd5 Qd7 28. Re1 Bd4 29. Re7 Rxh3 30. Rxd7+ Kxd7 31. Rc1 Rh2+ 32. Ke1 Rh1+ 33. Ke2 R8h2# 0-1
+

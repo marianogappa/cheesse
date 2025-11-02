@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bXe7R0Dv"]
+[White "Sserg3006"]
+[Black "leymoral"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:40"]
+[WhiteElo "1305"]
+[BlackElo "1554"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Black Mustang Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. Nf3 Nc6 2. d3 e5 3. c3 d5 4. Bg5 Be7 5. Bxe7 Ngxe7 6. Qb3 Be6 7. Qxb7 Rb8 8. Qa6 Rxb2 9. Nbd2 O-O 10. Rb1 Qb8 11. Rxb2 Qxb2 12. g3 Qc1# 0-1
+

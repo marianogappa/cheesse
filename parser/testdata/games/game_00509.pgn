@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/K5MDQlLF"]
+[White "mojit00"]
+[Black "CoolKnight"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:51"]
+[WhiteElo "1727"]
+[BlackElo "1739"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-99"]
+[ECO "A00"]
+[Opening "Grob Opening: Grob Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. g4 d5 2. Bg2 e6 3. c4 c6 4. cxd5 cxd5 5. Qb3 Nf6 6. g5 Nh5 7. d3 Be7 8. h4 O-O 9. Nc3 Bd6 10. Nb5 Bf4 11. e3 Bd6 12. Nxd6 Qxd6 13. Bd2 f6 14. Bb4 Qd8 15. Bxf8 Qxf8 16. Nf3 b6 17. Rc1 Na6 18. Nd4 Nc5 19. Qb5 Ba6 20. Qc6 Nxd3+ 21. Kd2 Nxc1 22. Rxc1 Rc8 23. Qxe6+ Kh8 24. Bxd5 Qb4+ 25. Kd1 Rxc1+ 26. Kxc1 Qc5+ 27. Nc2 Qc8 28. Qf7 Bd3 29. Bb3 Bg6 30. Qd5 fxg5 31. hxg5 h6 32. gxh6 gxh6 33. Qe5+ Ng7 34. Qf6 Kh7 35. f4 Qc5 36. Qd8 Qc6 37. Qg8# 1-0
+

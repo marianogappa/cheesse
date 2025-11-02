@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ESjqdCrI"]
+[White "Names99"]
+[Black "Rollpawn666"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:11"]
+[WhiteElo "1955"]
+[BlackElo "1896"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. f4 d5 3. e5 Bf5 4. Nf3 e6 5. d4 Nd7 6. Bd3 Ne7 7. O-O c5 8. Bb5 a6 9. Bxd7+ Qxd7 10. dxc5 Rc8 11. Be3 Ng6 12. b4 b6 13. Nd4 Ne7 14. c3 bxc5 15. bxc5 Bxb1 16. Rxb1 Nc6 17. Rb6 Nxd4 18. cxd4 Be7 19. Rxa6 O-O 20. Qb3 Rb8 21. Rb6 Qc7 22. a4 Rxb6 23. cxb6 Qb7 24. Rc1 Rb8 25. a5 Ra8 26. Rc7 Qa6 27. Rxe7 Qe2 28. Kh1 Qf1+ 29. Bg1 g6 30. b7 Rxa5 31. b8=Q+ Kg7 32. Rxf7+ Kxf7 33. Qc7+ Kg8 34. Qbb8# 1-0
+

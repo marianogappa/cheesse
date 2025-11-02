@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/0b3oHgBa"]
+[White "Midya"]
+[Black "Zenguin"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:46"]
+[WhiteElo "1617"]
+[BlackElo "1594"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.04] } 1... e6 { [%eval 0.1] } 2. d4 { [%eval 0.11] } 2... d5 { [%eval 0.19] } 3. exd5 { [%eval 0.07] } 3... exd5 { [%eval 0.07] } 4. Nc3 { [%eval 0.0] } 4... Nc6 { [%eval 0.0] } 5. Bb5 { [%eval 0.2] } 5... Be7 { [%eval 0.5] } 6. Nf3 { [%eval 0.47] } 6... Nf6 { [%eval 0.47] } 7. O-O { [%eval 0.26] } 7... O-O { [%eval 0.37] } 8. Re1 { [%eval 0.39] } 8... Bd6 { [%eval 0.46] } 9. Bg5 { [%eval 0.29] } 9... Bg4 { [%eval 0.36] } 10. Bxf6?! { [%eval -0.51] } 10... Qxf6 { [%eval -0.18] } 11. Nxd5 { [%eval -0.48] } 11... Qf5? { [%eval 1.48] } 12. Bxc6 { [%eval 1.37] } 12... bxc6 { [%eval 1.45] } 13. Ne3 { [%eval 1.39] } 13... Qg6 { [%eval 1.47] } 14. Nxg4 { [%eval 1.43] } 14... Qxg4 { [%eval 1.55] } 15. h3 { [%eval 1.35] } 15... Qf4 { [%eval 1.51] } 16. g3 { [%eval 1.26] } 16... Qf6 { [%eval 1.32] } 17. Qd3 { [%eval 1.33] } 17... Rab8 { [%eval 1.48] } 18. b3 { [%eval 1.44] } 18... Rb5?! { [%eval 2.02] } 19. h4 { [%eval 1.73] } 19... h6 { [%eval 2.08] } 20. c4 { [%eval 1.99] } 20... Rf5 { [%eval 1.92] } 21. Re3?! { [%eval 1.14] } 21... g5? { [%eval 3.13] } 22. g4? { [%eval 0.18] } 22... Rf4 { [%eval 0.22] } 23. h5? { [%eval -2.7] } 23... Rxg4+?! { [%eval -1.82] } 24. Kf1 { [%eval -2.31] } 24... Rf4 { [%eval -2.1] } 25. c5?! { [%eval -2.67] } 25... g4? { [%eval -0.2] } 26. cxd6 { [%eval -0.27] } 26... gxf3 { [%eval -0.28] } 27. Rae1? { [%eval -1.93] } 27... Qh4? { [%eval 0.0] } 28. Rxf3 { [%eval 0.0] } 28... Qh1+ { [%eval 0.28] } 29. Ke2 { [%eval 0.37] } 29... Re8+ { [%eval 0.43] } 30. Re3 { [%eval 0.41] } 30... Qxh5+ { [%eval 0.38] } 31. Kd2 { [%eval 0.19] } 31... Rxf2+ { [%eval 0.31] } 32. Kc3? { [%eval -1.63] } 32... Qa5+ { [%eval -1.58] } 33. b4?? { [%eval -9.81] } 33... Qa3+ { [%eval -9.01] } 0-1
+

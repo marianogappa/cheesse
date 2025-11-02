@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/CozC7JSZ"]
+[White "tatoman"]
+[Black "Blokster"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:07"]
+[WhiteElo "995"]
+[BlackElo "1158"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+26"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #3"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 Nf6 3. Bb5+ c6 4. Ba4 e6 5. Qd3 Bd6 6. c4 O-O 7. cxd5 exd5 8. Nf3 b6 9. Ng5 g6 10. e4 Re8 11. e5 Bf5 12. Qf3 Be4 13. Qxf6 Qxf6 14. exf6 Bxg2+ 15. Be3 Bxh1 16. Nc3 c5 17. dxc5 Bxc5 18. Bxe8 Kf8 19. Bxf7 d4 20. Nxh7+ Kxf7 21. Bg5 dxc3 22. bxc3 Nc6 23. Rd1 Re8+ 24. Kf1 Kg8 25. Kg1 Bf3 26. Rd6 Re1# 0-1
+

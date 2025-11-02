@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YE02tFjQ"]
+[White "youngmoney2299"]
+[Black "andreataranto"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:49"]
+[WhiteElo "1656"]
+[BlackElo "1623"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "B27"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.26] } 1... c5 { [%eval 0.29] } 2. Nf3 { [%eval 0.29] } 2... g6 { [%eval 0.59] } 3. g4? { [%eval -0.68] } 3... d5 { [%eval -0.6] } 4. Ng5? { [%eval -2.0] } 4... e5? { [%eval -0.72] } 5. d4? { [%eval -1.85] } 5... dxe4? { [%eval -0.25] } 6. Nxe4?! { [%eval -1.05] } 6... Qxd4? { [%eval 0.0] } 7. Qe2?! { [%eval -0.59] } 7... Nc6 { [%eval -0.29] } 8. Bg2 { [%eval -0.71] } 8... Nge7?? { [%eval 3.73] } 9. Nf6+? { [%eval 2.05] } 9... Kd8 { [%eval 2.02] } 10. O-O?! { [%eval 1.16] } 10... Bg7? { [%eval 2.8] } 11. Rd1 { [%eval 2.65] } 11... Qxd1+?? { [%eval 6.59] } 12. Qxd1+ { [%eval 6.26] } 12... Nd4? { [%eval 7.93] } 13. c3 { [%eval 7.78] } 13... Bxf6 { [%eval 7.84] } 14. cxd4 { [%eval 7.62] } 14... exd4 { [%eval 7.55] } 15. g5? { [%eval 5.89] } 15... Bg7? { [%eval 7.04] } 16. Nc3 { [%eval 6.63] } 16... Kc7?? { [%eval 11.59] } 17. Nb5+ { [%eval 11.38] } 17... Kd8 { [%eval 11.23] } 18. Bf4 { [%eval 10.62] } 18... Nd5 { [%eval 16.95] } 19. Bxd5 { [%eval 15.9] } 1-0
+

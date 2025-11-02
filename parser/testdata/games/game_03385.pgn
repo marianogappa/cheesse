@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hXjrSTBZ"]
+[White "uropost"]
+[Black "solna"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:52"]
+[WhiteElo "1659"]
+[BlackElo "1826"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-15"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Bd6 5. Bd3 Nf6 6. O-O O-O 7. h3 h6 8. c4 c6 9. c5 Bc7 10. b4 a6 11. Nc3 Re8 12. a4 Nbd7 13. Be3 Nf8 14. Re1 Be6 15. Ne5 Bxe5 16. dxe5 N6d7 17. Bd4 Nh7 18. f4 f5 19. Qh5 Rf8 20. Rf1 Qe8 21. Qe2 Rf7 22. b5 axb5 23. axb5 Rf8 24. bxc6 bxc6 25. Qb2 Qb8 26. Qc2 Rc8 27. Rxa8 Qxa8 28. Na4 Qa5 29. Ra1 Qc7 30. Nb6 Nxb6 31. cxb6 Qd8 32. Bc5 Rb8 33. Bxf5 Bxf5 34. Qxf5 Nf8 35. Ra7 Qc8 36. Qf7+ Kh8 37. Qxg7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cnHhUtNR"]
+[White "dametusojos"]
+[Black "sigmaphi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:17"]
+[WhiteElo "1718"]
+[BlackElo "1657"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. Bf4 d5 3. Nf3 Bd6 4. Bxd6 Qxd6 5. e3 Nf6 6. Be2 O-O 7. Nc3 b6 8. O-O a5 9. a3 Ba6 10. h3 Bxe2 11. Qxe2 c6 12. Rab1 b5 13. Ne5 a4 14. f3 Nbd7 15. Nxd7 Nxd7 16. Qf2 e5 17. Qg3 Rfe8 18. Ne2 Rad8 19. c3 Nf6 20. f4 exd4 21. exd4 Rxe2 22. Rf3 Ne4 23. Qg4 Nd2 24. Rff1 Nxb1 25. Qxe2 Nxa3 26. bxa3 Qxa3 27. Re1 Qd6 28. Kh1 Kf8 29. Qe5 Qa3 30. Re3 Qc1+ 31. Kh2 a3 32. Qe7+ Kg8 33. Qxd8# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/9JWRPBYI"]
+[White "MaurusAP"]
+[Black "marcusgardner"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:06"]
+[WhiteElo "1526"]
+[BlackElo "1649"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-14"]
+[ECO "C60"]
+[Opening "Ruy Lopez: Alapin Defense"]
+[TimeControl "60+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bb4 4. c3 Ba5 5. d4 exd4 6. Bxc6 dxc3 7. Bxd7+ Bxd7 8. Nxc3 Nf6 9. Bg5 h6 10. Bxf6 Qxf6 11. e5 Qc6 12. Rc1 O-O-O 13. Qc2 Rhe8 14. O-O Bg4 15. Qe4 Bxc3 16. Qxc6 bxc6 17. Rxc3 Bxf3 18. Rxf3 Rxe5 19. Rxf7 Rg5 20. h4 Rg4 21. g3 Rd2 22. Re1 Rxb2 23. Re6 Rc2 24. Ree7 Ra4 25. Rxc7+ Kd8 26. Rfd7+ Ke8 27. Re7+ Kf8 28. Rf7+ Ke8 29. Rce7+ Kd8 30. Rd7+ Kc8 31. Rc7+ Kd8 32. Rce7 Rc1+ 33. Kg2 Rd1 34. Rxg7 Rxa2 35. Rxa7 Rxa7 36. Rxa7 Rc1 37. Rh7 c5 38. Rxh6 c4 39. Kf3 c3 40. Ke2 Ke7 41. Rc6 Kd7 42. Rc4 Kd6 43. Kd3 Rf1 44. Rxc3 Rxf2 45. Ke3 Rg2 46. Kf4 Ke6 47. Kg5 Kf7 48. g4 Rh2 49. Rf3+ Kg7 50. h5 Rb2 51. Rf5 Rb4 52. Re5 Kf7 53. Kf5 Kg8 54. Kg6 Rb6+ 55. Kg5 Rb4 56. Rf5 Kg7 57. h6+ Kg8 58. Kg6 Rb6+ 59. Rf6 Rxf6+ 60. Kxf6 Kh7 61. g5 Kg8 62. g6 Kh8 63. g7+ Kg8 64. Ke7 Kh7 65. Kf8 Kxh6 66. g8=Q 1-0
+

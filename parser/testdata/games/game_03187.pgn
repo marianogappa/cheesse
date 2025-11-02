@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/2lI4SnR6"]
+[White "peter1985"]
+[Black "sergior2017jan"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:03"]
+[WhiteElo "1893"]
+[BlackElo "1824"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "C79"]
+[Opening "Ruy Lopez: Morphy Defense, Steinitz Deferred"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Nf6 6. d3 Be7 7. c3 O-O 8. Re1 Bg4 9. Nbd2 Nb8 10. h3 Bd7 11. Bc2 Be6 12. Nf1 h6 13. d4 exd4 14. cxd4 Nh7 15. d5 Bc8 16. Be3 Nd7 17. Bd4 Bf6 18. Ng3 Bxd4 19. Qxd4 Qf6 20. Rad1 Qxd4 21. Nxd4 Ne5 22. Ngf5 Nf6 23. Ne7+ Kh8 24. b3 Bd7 25. f4 Ng6 26. Nxg6+ fxg6 27. Nf3 Rae8 28. Nh4 Kh7 29. e5 dxe5 30. Nxg6 Nh5 31. Nxf8+ Kg8 32. Nxd7 Ng3 33. Rxe5 Rd8 34. Nc5 b6 35. Ne6 Rd6 36. Nxc7 Kf7 37. Rde1 Rd7 38. d6 Rxd6 39. Re7+ Kf6 40. Ne8# 1-0
+

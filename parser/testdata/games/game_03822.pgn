@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hVadtIel"]
+[White "GALDIERY"]
+[Black "Merblacky123"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:38"]
+[WhiteElo "1836"]
+[BlackElo "1798"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 d6 3. Nf3 e6 4. d4 cxd4 5. Qxd4 Nc6 6. Bb5 Ne7 7. O-O a6 8. Bxc6+ Nxc6 9. Qd1 b5 10. Nc3 Bb7 11. Ne2 h6 12. Ned4 Na5 13. Qe1 Rc8 14. f5 e5 15. Nb3 Nc4 16. a4 Qb6+ 17. Kh1 b4 18. a5 Nxa5 19. Be3 Qb5 20. Rxa5 Qc4 21. Nxe5 dxe5 22. Rxe5+ Be7 23. Bc5 Rxc5 24. Nxc5 Bc6 25. f6 gxf6 26. Rxf6 Bb5 27. Nd3 Kf8 28. Rff5 Rg8 29. Qf2 Rg7 30. Rxe7 Kxe7 31. Qh4+ Kf8 32. Qd8+ Be8 33. Re5 Qc6 34. Qe7+ Kg8 35. Qxe8+ Qxe8 36. Rxe8+ Kh7 37. e5 Rg5 38. Ra8 b3 39. cxb3 Rf5 40. Rxa6 Rf1# 0-1
+

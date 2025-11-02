@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8LrB2uYP"]
+[White "murateren"]
+[Black "DennisMadrigal"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:15"]
+[WhiteElo "2124"]
+[BlackElo "2095"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Symmetrical Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. g3 g6 2. Bg2 Bg7 3. e4 d6 4. d4 Nd7 5. Be3 c5 6. c3 Rb8 7. Ne2 b5 8. O-O a5 9. Nd2 b4 10. f4 Ba6 11. f5 Ngf6 12. h3 O-O 13. g4 bxc3 14. bxc3 Rb2 15. Rf2 Bd3 16. Nf4 Ba6 17. g5 Ne8 18. fxg6 hxg6 19. h4 cxd4 20. cxd4 Qb6 21. Nf3 Rxf2 22. Bxf2 e5 23. dxe5 Qb4 24. exd6 Bxa1 25. Qxa1 Qxe4 26. Bg3 Qe3+ 27. Kh2 Bb7 28. Nd4 Bxg2 29. Nxg2 Qd2 30. Nc6 Nxd6 31. Ne7+ Kh7 32. h5 Nf5 33. hxg6+ fxg6 34. Nxf5 Rxf5 35. Qb1 Qxg5 36. Qb7 Rf7 0-1
+

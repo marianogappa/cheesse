@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/FPsKRGlO"]
+[White "lyndondjackson"]
+[Black "sydeman"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:20"]
+[WhiteElo "1349"]
+[BlackElo "1366"]
+[WhiteRatingDiff "+28"]
+[BlackRatingDiff "-11"]
+[ECO "A00"]
+[Opening "Grob Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. g4 e5 2. Bg2 Nf6 3. c4 g6 4. Nc3 Bg7 5. Qa4 e4 6. Nxe4 b5 7. Qxb5 Nxe4 8. Bxe4 a6 9. Qb3 c6 10. Qe3 Bb7 11. Bxc6+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/qmw6263z"]
+[White "R0bin_H00d"]
+[Black "Siagas"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:28"]
+[WhiteElo "1641"]
+[BlackElo "1596"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Sicilian Invitation"]
+[TimeControl "60+2"]
+[Termination "Time forfeit"]
+
+1. Nf3 c5 2. d3 g6 3. Nbd2 Bg7 4. g3 Nf6 5. Bg2 d5 6. O-O Nc6 7. Re1 Bf5 8. c3 O-O 9. e4 dxe4 10. dxe4 Be6 11. Ng5 Qd6 12. Nxe6 Qxe6 13. f4 Rad8 14. Qe2 Qd6 15. Nc4 Qd7 16. e5 Ne8 17. Be3 b5 18. Na3 c4 19. Rad1 Qb7 20. Rxd8 Qc7 21. Red1 f6 22. Nxb5 Qb7 23. Qxc4+ Kh8 24. Bxc6 Qa6 25. Na3 Qa5 26. Rxe8 Rxe8 27. Bxe8 h6 0-1
+

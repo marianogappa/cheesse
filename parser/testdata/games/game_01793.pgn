@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/9naDLsbm"]
+[Site "https://lichess.org/wVFdo5EN"]
+[White "Ldavis33"]
+[Black "krobbi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:45"]
+[WhiteElo "1399"]
+[BlackElo "1677"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-18"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Nimzowitsch System"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.1] } 1... e6 { [%eval 0.16] } 2. Nf3 { [%eval 0.18] } 2... d5 { [%eval 0.1] } 3. e5 { [%eval 0.0] } 3... c5 { [%eval 0.0] } 4. d4 { [%eval -0.28] } 4... Nc6 { [%eval 0.0] } 5. Bb5?! { [%eval -0.51] } 5... Bd7 { [%eval -0.2] } 6. O-O?! { [%eval -0.85] } 6... Nxe5 { [%eval -0.76] } 7. Bxd7+ { [%eval -0.75] } 7... Nxd7 { [%eval -0.65] } 8. Nc3?! { [%eval -1.4] } 8... Ne7?! { [%eval -0.44] } 9. dxc5 { [%eval -0.71] } 9... Nxc5 { [%eval -0.28] } 10. Bg5?! { [%eval -1.02] } 10... h6 { [%eval -1.04] } 11. Bh4 { [%eval -1.1] } 11... Qc7?! { [%eval -0.29] } 12. Nb5? { [%eval -1.33] } 12... Qb8?? { [%eval 6.95] } 13. Qd4?? { [%eval -1.6] } 13... b6?? { [%eval 2.03] } 14. Bg3 { [%eval 1.58] } 14... Nf5 { [%eval 1.66] } 15. Bxb8 { [%eval 1.54] } 15... Nxd4 { [%eval 1.71] } 16. Nfxd4? { [%eval -0.32] } 16... Rxb8 { [%eval -0.3] } 17. Nc6 { [%eval -0.17] } 17... Rc8 { [%eval 0.31] } 18. Ncxa7 { [%eval 0.14] } 18... Ra8?? { [%eval 4.29] } 19. Nc7+ { [%eval 4.08] } 19... Kd7 { [%eval 4.19] } 20. Nxa8 { [%eval 4.06] } 20... Bd6?? { [%eval 7.5] } 21. Nxb6+ { [%eval 7.37] } 21... Kc7 { [%eval 7.61] } 22. Na4?? { [%eval 3.13] } 22... Ra8?? { [%eval 7.41] } 23. Nb5+ { [%eval 7.33] } 23... Kc6 { [%eval 7.35] } 24. Nd4+ { [%eval 7.23] } 24... Kd7? { [%eval 10.38] } 25. Nb6+ { [%eval 10.2] } 1-0
+

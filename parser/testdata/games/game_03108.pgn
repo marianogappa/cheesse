@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZPvhz49S"]
+[White "chatkf"]
+[Black "hjalmar"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:43"]
+[WhiteElo "1856"]
+[BlackElo "1973"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-14"]
+[ECO "C53"]
+[Opening "Italian Game: Classical Variation #2"]
+[TimeControl "120+8"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. a4 Be6 6. Bxe6 fxe6 7. b4 Nxb4 8. cxb4 Bxb4 9. a5 Nf6 10. Qa4+ Qd7 11. Qxb4 O-O 12. Nc3 c5 13. Qc4 Rae8 14. O-O d5 15. exd5 exd5 16. Qxc5 e4 17. Nd4 Re5 18. Ba3 Rc8 19. Qb5 Qg4 20. f3 Qf4 21. Qxb7 Rce8 22. Bc1 Rh5 23. g3 Rg5 24. Nce2 Qh4 25. f4 Rg6 26. Rf2 Qh3 27. f5 Rg4 28. Nf4 Rxg3+ 29. hxg3 Qxg3+ 30. Rg2 Qe1+ 31. Kh2 Qh4+ 32. Nh3 Ng4+ 33. Rxg4 Qxg4 34. Qxd5+ Kh8 35. Bb2 h5 36. Rg1 1-0
+

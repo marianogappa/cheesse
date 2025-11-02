@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/I6ADIROG"]
+[White "pokermoon"]
+[Black "Spyke24"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:31"]
+[WhiteElo "1721"]
+[BlackElo "1736"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B28"]
+[Opening "Sicilian Defense: O'Kelly Variation, Yerevan System"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 a6 3. Nf3 e6 4. a4 Nc6 5. d4 cxd4 6. Nxd4 Qc7 7. Bd3 Nxd4 8. Bxa6 Nxc2+ 9. Qxc2 bxa6 10. O-O Bb7 11. g3 Nf6 12. Bf4 e5 13. Bg5 Be7 14. Bxf6 Bxf6 15. f4 d6 16. fxe5 Bxe5 17. Qf2 O-O 18. Rac1 Qa5 19. Nd5 Rac8 20. Ne7+ Kh8 21. Rxc8 Bxc8 22. Nxc8 Rxc8 23. Qxf7 h6 24. b3 Qb4 25. Qf5 Rg8 26. h4 Qxb3 27. g4 Qg3+ 28. Kh1 Qxh4+ 29. Kg2 Qg3+ 30. Kh1 Rb8 31. g5 Qh2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2GlRmfnN"]
+[White "Reymex"]
+[Black "TheConjuring"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:22"]
+[WhiteElo "2129"]
+[BlackElo "2095"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "A56"]
+[Opening "Benoni Defense: Czech Benoni Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. Nge2 Nbd7 7. Ng3 Nf8 8. h4 h5 9. Bg5 Ng6 10. Be2 a6 11. a4 Bd7 12. Nf1 Bg4 13. f3 Bd7 14. Ne3 O-O 15. g4 hxg4 16. fxg4 Nf4 17. Bxf6 Bxf6 18. g5 Be7 19. Nf5 Bxf5 20. exf5 f6 21. g6 Re8 22. Ne4 Qd7 23. Bg4 Bd8 24. Qf3 Ba5+ 25. Kf2 Kf8 26. h5 Ke7 27. h6 gxh6 28. Rxh6 Kd8 29. Nxf6 Qg7 30. Nxe8 Qxh6 31. Rh1 Qf8 32. Nxd6 Qxd6 33. Rh8+ Ke7 34. Rxa8 Bd8 35. Qb3 b6 36. Ra7+ Bc7 37. Qg3 Kd8 38. Qh4+ Kc8 39. Qh8+ Kd7 40. Qg7+ Kc8 41. f6+ Kb8 42. Rxc7 Qxc7 43. Qxc7+ Kxc7 44. g7 e4 45. g8=Q Nd3+ 46. Ke3 Ne5 47. Be6 Nxc4+ 48. Kxe4 Nd6+ 49. Kf4 b5 50. Qg7+ Kb6 51. Qd7 Nc4 52. f7 bxa4 53. f8=Q Ka5 54. Qxc5# 1-0
+

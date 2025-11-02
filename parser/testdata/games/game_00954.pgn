@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Uw1XWWbH"]
+[White "Unicejo"]
+[Black "mekpepik"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:35"]
+[WhiteElo "1877"]
+[BlackElo "1700"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "A40"]
+[Opening "Englund Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 e5 2. c4 exd4 3. Nf3 c5 4. b4 b6 5. e3 Nc6 6. b5 d6 7. bxc6 1-0
+

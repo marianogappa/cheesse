@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/CKBHQL6M"]
+[White "Cripaa"]
+[Black "rjh24"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:58"]
+[WhiteElo "1035"]
+[BlackElo "1150"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-14"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bc4 Nf6 4. Qxf7# 1-0
+

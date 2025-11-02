@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/E91t3V0B"]
+[White "rogntudjuu"]
+[Black "check_is_in_the_fail"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:20"]
+[WhiteElo "1850"]
+[BlackElo "1550"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 h6 4. Bc4 Nf6 5. d4 exd4 6. Nxd4 Nxd4 7. Qxd4 Be7 8. Bf4 O-O 9. O-O-O d6 10. Rd2 Bg4 11. f3 Be6 12. Rhd1 Bxc4 13. Qxc4 Nd7 14. e5 Nb6 15. Qb3 d5 16. Nxd5 Nxd5 17. Rxd5 Qc8 18. Rd7 Bc5 19. Qd5 Bb6 20. e6 fxe6 21. Qxe6+ Kh8 22. Qe7 Rg8 23. Be5 Bc5 24. Bxg7+ Rxg7 25. Qxg7# 1-0
+

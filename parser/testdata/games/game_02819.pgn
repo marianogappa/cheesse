@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nDNOuDBp"]
+[White "barzheyev"]
+[Black "Felpo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:34"]
+[WhiteElo "1796"]
+[BlackElo "1743"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 Nf6 4. Bc4 Be7 5. d4 exd4 6. Nxd4 Bd7 7. Nf3 O-O 8. Bd3 Nc6 9. Bf4 Bg4 10. h3 Bxf3 11. Qxf3 Nd4 12. Qd1 Nd7 13. Bc4 Bf6 14. Bg3 Ne5 15. Bxe5 Bxe5 16. Nd5 c6 17. Ne3 Qf6 18. c3 Ne6 19. O-O Qf4 20. g3 Qxe4 21. Bd3 Qxe3 22. fxe3 Bxg3 23. Kg2 Be5 24. Bf5 Nc5 25. b4 Na6 26. Qc2 h6 27. Rab1 Nc7 28. Rf3 Nd5 29. c4 Ne7 30. Bh7+ Kh8 31. Bd3 Rac8 32. a4 d5 33. Rbf1 f6 34. c5 d4 35. exd4 Bxd4 36. Qe2 Nd5 37. Qe4 f5 38. Qxd4 Rcd8 39. Rxf5 Rxf5 40. Rxf5 Nf6 1-0
+

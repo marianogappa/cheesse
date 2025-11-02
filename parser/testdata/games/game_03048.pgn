@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rY1Gsohs"]
+[White "SquirrelMustard"]
+[Black "thpower2"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:26"]
+[WhiteElo "1618"]
+[BlackElo "1650"]
+[WhiteRatingDiff "-89"]
+[BlackRatingDiff "+8"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nf3 Na5 5. Bb3 Nxb3 6. axb3 d6 7. O-O c6 8. Nc3 Be7 9. Ne2 O-O 10. Nd2 Nd7 11. c4 f5 12. f4 exf4 13. Nxf4 fxe4 14. dxe4 Ne5 15. Nf3 Bg4 16. Qd4 Bxf3 17. gxf3 Bf6 18. Qe3 Bg5 19. Qe2 Bxf4 20. Bxf4 Rxf4 21. Rad1 Qg5+ 22. Qg2 Qxg2+ 23. Kxg2 Raf8 24. Rxd6 R4f6 25. Rdd1 Rg6+ 26. Kf2 Nxf3 27. Rd7 Ne5+ 28. Ke2 Nxd7 29. Rxf8+ Kxf8 0-1
+

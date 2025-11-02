@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/VbCvPGbn"]
+[White "bootes"]
+[Black "Kantore"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:00"]
+[WhiteElo "1430"]
+[BlackElo "1532"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 d6 3. d3 e6 4. h3 Nf6 5. Ne2 Nc6 6. Ng3 a6 7. Be2 Be7 8. O-O Bd7 9. Nd2 Qc7 10. Nf3 O-O-O 11. Qc2 h5 12. Bg5 Nh7 13. Bxe7 Nxe7 14. Nh4 g5 15. Nf3 g4 16. Nh4 gxh3 17. Bxh5 hxg2 18. Kxg2 Nf6 19. Kh2 Nxh5 20. Rh1 Nf4 21. Kg1 Rdg8 22. Qd2 e5 23. Nf5 Bxf5 24. exf5 Rxh1+ 25. Kxh1 Qc6+ 26. Ne4 Nxf5 27. Rg1 Rh8# 0-1
+

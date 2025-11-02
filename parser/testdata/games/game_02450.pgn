@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7z90pQ11"]
+[White "JayP3G"]
+[Black "pavlouie"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:19"]
+[WhiteElo "1450"]
+[BlackElo "1273"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e3 e5 2. Nf3 Nc6 3. d3 d5 4. Nc3 d4 5. exd4 exd4 6. Ne2 Bg4 7. Bg5 f6 8. Bd2 Bxf3 9. gxf3 Bc5 10. a3 Nge7 11. Bb4 Qd5 12. Bxc5 Qxc5 13. Nc1 Ne5 14. Be2 O-O-O 15. f4 N5g6 16. Nb3 Qf5 17. Bg4 Qxg4 18. Qxg4+ Kb8 19. O-O-O Nd5 20. Qg2 Ndxf4 21. Qf3 Rhe8 22. Nc5 c6 23. Rhe1 Rxe1 24. Rxe1 Nd5 25. Qh5 Ne5 26. Qxh7 Nf3 27. Rg1 Nxg1 28. Qxg7 Ne2+ 29. Kd2 Nc7 30. Nd7+ Kc8 31. Nxf6 Re8 32. Qf7 Nf4 33. Nxe8 1-0
+

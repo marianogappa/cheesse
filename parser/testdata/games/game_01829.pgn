@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/RC4Wj9pg"]
+[White "gernise"]
+[Black "mikeyp"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:53"]
+[WhiteElo "1366"]
+[BlackElo "1404"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-70"]
+[ECO "C20"]
+[Opening "King's Pawn Game: King's Head Opening #2"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. e4 e5 2. f3 Bc5 3. Ne2 Nf6 4. g3 O-O 5. Bg2 c6 6. a3 a5 7. c3 Na6 8. d4 exd4 9. cxd4 Be7 10. e5 Nd5 11. f4 b5 12. h4 Rb8 13. Nbc3 b4 14. Nxd5 cxd5 15. Bxd5 d6 16. a4 Nc7 17. Be4 d5 18. Bd3 Bg4 19. Qd2 Ne6 20. f5 Nc7 21. Qf4 Bh5 22. g4 b3 23. gxh5 f6 24. h6 fxe5 25. dxe5 Rb4 26. Qg3 Bxh4 27. Rxh4 Qxh4 28. Qxh4 Rxh4 29. hxg7 Kxg7 30. f6+ Kf7 31. Bg5 Rh1+ 32. Kd2 Rxa1 33. Kc3 Rg8 34. Bf4 Ke6 35. Nd4+ Kf7 36. Kxb3 Rh8 37. Nc6 Rf1 38. Bxf1 h6 39. Nxa5 h5 40. Kc3 h4 41. Bh3 Ne6 42. Be3 Kg6 43. Bxe6 h3 44. Bxd5 h2 45. Be4+ Kf7 46. Bh1 Ke6 47. Bd4 Rc8+ 48. Nc4 Rh8 49. b4 Rh3+ 50. Kd2 Rg3 51. Ne3 Rg1 52. Bd5+ Kd7 53. e6+ Ke8 54. f7+ Ke7 55. Nf5+ Kd8 56. e7+ Kd7 57. e8=Q+ Kc7 58. Be5+ Kb6 59. Bxh2 1-0
+

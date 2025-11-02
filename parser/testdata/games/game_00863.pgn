@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/KarAT3FX"]
+[White "shooky"]
+[Black "AligiereTensa"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:13"]
+[WhiteElo "1161"]
+[BlackElo "1259"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-55"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Bc5 3. Bc4 d5 4. Qxe5+ Qe7 5. Qxg7 Nf6 6. Qxh8+ Kd7 7. Bxd5 Qxe4+ 8. Bxe4 Nxe4 9. Nf3 Be7 10. O-O c5 11. Ng5 Nc6 12. Nxe4 Ne5 13. Qxe5 Bd6 14. Qf6 Be5 15. Qxe5 f6 16. Qxf6 Kc7 17. Qd6# 1-0
+

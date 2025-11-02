@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2k3XIEir"]
+[White "franzzi"]
+[Black "MonteiroERM"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:21"]
+[WhiteElo "1820"]
+[BlackElo "1688"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+15"]
+[ECO "C66"]
+[Opening "Ruy Lopez: Berlin Defense, Improved Steinitz Defense"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. Re1 Be7 6. c3 Bg4 7. h3 Bh5 8. d4 exd4 9. cxd4 O-O 10. Be3 Nxe4 11. Bxc6 bxc6 12. Qc2 Bxf3 13. gxf3 Ng5 14. Kg2 Qd7 0-1
+

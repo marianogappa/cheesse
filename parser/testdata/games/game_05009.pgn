@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/uG0Vxs2d"]
+[White "xadrez_maicom"]
+[Black "malachai57"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:14"]
+[WhiteElo "1568"]
+[BlackElo "1649"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: English Variation"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. b3 c5 2. Bb2 Nc6 3. e3 e5 4. Bb5 d6 5. Nc3 Nf6 6. Nf3 Bg4 7. h3 Bh5 8. g4 Bg6 9. Nh4 Ne4 10. Nxg6 Nxc3 11. Bxc6+ bxc6 12. Bxc3 hxg6 13. Qf3 Qd7 14. O-O-O a5 15. a4 Be7 16. d4 exd4 17. exd4 c4 18. bxc4 Bg5+ 19. Bd2 Bxd2+ 20. Rxd2 O-O 21. c3 Rab8 22. Rb2 Rxb2 23. Kxb2 Qb7+ 24. Kc2 Rb8 25. Kd3 Qb3 26. Qxc6 Qb7 27. Qxd6 Qxh1 28. Qxb8+ Kh7 29. Qg3 Qf1+ 30. Kd2 Qxc4 31. Qf3 Qa2+ 32. Kd3 Qxa4 33. Qxf7 Qb5+ 34. Qc4 Qb1+ 35. Ke3 Qc1+ 36. Kf3 Qh1+ 37. Kg3 Qg1+ 38. Kf3 Qh2 39. d5 Qxh3+ 40. Kf4 Qh6+ 41. Kg3 Qd2 42. Qd4 Qc2 43. d6 Qb3 44. d7 Qb8+ 45. Kg2 Qd8 46. c4 a4 47. c5 a3 48. c6 a2 49. c7 Qa8+ 50. Kg3 a1=Q 51. Qxa1 Qxa1 52. d8=Q Qc3+ 53. f3 Qe1+ 54. Kf4 Qb4+ 55. Kg3 Qe1+ 56. Kg2 Qe2+ 57. Kg3 Qe1+ 1/2-1/2
+

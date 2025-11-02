@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/TftRR73d"]
+[White "Lvictor"]
+[Black "klunkerkoenig"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:27"]
+[WhiteElo "1934"]
+[BlackElo "1951"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "B09"]
+[Opening "Pirc Defense: Austrian Attack, Dragon Formation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. dxc5 Qa5 7. Bd2 Qxc5 8. Bd3 O-O 9. Qe2 Nc6 10. h3 Nh5 11. Qf2 Nd4 12. g4 Nxf3+ 13. Qxf3 Nf6 14. O-O-O Be6 15. Be3 Qb4 16. Kb1 Rac8 17. a3 Qa5 18. Bd2 Nd7 19. Nd5 Qd8 20. Bc3 f6 21. f5 Bxd5 22. exd5 Qb6 23. Bf1 Ne5 24. Qg3 g5 25. h4 h6 26. hxg5 hxg5 27. Qh3 Rxc3 28. Qxc3 Nd7 29. Qh3 Nc5 30. Qh7+ Kf7 31. Qh5+ Kg8 32. Qh3 1-0
+

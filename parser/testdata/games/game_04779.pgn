@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2hJIIbZm"]
+[White "marsea"]
+[Black "njeraldmcruz"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:24"]
+[WhiteElo "1942"]
+[BlackElo "1946"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-17"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "300+1"]
+[Termination "Normal"]
+
+1. d4 e6 2. f4 d5 3. Nf3 Ne7 4. e3 c5 5. c3 Nbc6 6. Bd3 Nf5 7. O-O Be7 8. Bd2 c4 9. Bc2 O-O 10. Qe2 a6 11. Be1 b5 12. a3 h6 13. Nbd2 Re8 14. g4 Nd6 15. Ne5 Bb7 16. Nxc6 Bxc6 17. Nf3 Ne4 18. Ne5 Bb7 19. Qg2 Nf6 20. h4 Qc8 21. g5 hxg5 22. fxg5 Ne4 23. Rxf7 Qd8 24. Qg4 Bc8 25. Qh5 Rf8 26. Bxe4 dxe4 27. Bg3 Rxf7 28. Qxf7+ Kh8 29. Qh5+ Kg8 30. g6 Bf6 31. Nf7 1-0
+

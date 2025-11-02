@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yc89wbiR"]
+[White "Fireball19"]
+[Black "BrunoST"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:06"]
+[WhiteElo "1359"]
+[BlackElo "1700"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "120+5"]
+[Termination "Normal"]
+
+1. d4 d5 2. c3 Nc6 3. h3 b6 4. Nf3 Bb7 5. Bg5 f6 6. Bh4 g5 7. Bg3 Bg7 8. e3 Nh6 9. Bd3 Qd7 10. Bb5 O-O-O 11. Bxc6 Bxc6 12. Nbd2 Bb5 13. Qc2 Nf5 14. Bh2 h5 15. O-O-O g4 16. hxg4 hxg4 17. Ne1 Be2 18. g3 Bxd1 19. Qxd1 Nd6 20. Nd3 f5 21. f4 Ne4 22. Nxe4 dxe4 23. Ne5 Bxe5 24. fxe5 Qb5 25. Qc2 Rd5 26. Rd1 Qa5 27. a3 Rb5 28. Bg1 Rh1 29. Bf2 Rxd1+ 30. Kxd1 Qa6 31. Be1 Rd5 32. c4 Rd8 33. c5 Kb7 34. c6+ Kb8 35. Qb3 Qd3+ 36. Qxd3 exd3 37. Kd2 Rd5 38. Kxd3 Rb5 39. Bb4 e6 40. Kc4 Rd5 41. Bc3 a5 42. b4 b5+ 43. Kb3 a4+ 44. Kb2 Ka7 45. Bd2 Kb6 46. Bc3 Kxc6 47. Bd2 Kb7 48. Bc3 Rd8 49. Bd2 Rh8 50. Bc3 Rh2+ 51. Kc1 Rg2 52. Be1 c6 53. Kd1 Ra2 54. e4 fxe4 55. Bc3 Rxa3 56. Ke2 Rxc3 0-1
+

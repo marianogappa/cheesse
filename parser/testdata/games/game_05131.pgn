@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/9naDLsbm"]
+[Site "https://lichess.org/Iw59DEIP"]
+[White "Ldavis33"]
+[Black "DeilsonLopes"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:38"]
+[WhiteElo "1418"]
+[BlackElo "2001"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[ECO "B43"]
+[Opening "Sicilian Defense: Kan Variation, Knight Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 Nc6 7. Bf4 e5 8. Nd5 Qb8 9. Nxc6 bxc6 10. Bxe5 Qxe5 11. Bg2 cxd5 12. O-O Nf6 13. Re1 d4 14. c3 Bc5 15. cxd4 Qxd4 16. Qxd4 Bxd4 17. e5 Ng4 18. Bxa8 Bxf2+ 19. Kf1 Bxe1 20. Rxe1 O-O 21. Re4 d6 22. exd6 Rd8 23. d7 Bxd7 24. Rd4 Bb5+ 25. Kg2 Rxd4 26. Kh3 Bd7 27. b3 Rd2 28. Kh4 f6 29. h3 g5+ 30. Kh5 Ne5 31. Be4 Kg7 32. g4 Be8+ 33. Bg6 Bxg6# 0-1
+

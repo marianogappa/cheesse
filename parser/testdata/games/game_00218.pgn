@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7XMOfnuH"]
+[White "bllbdr"]
+[Black "Philand"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:37"]
+[WhiteElo "1120"]
+[BlackElo "1242"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C22"]
+[Opening "Center Game: Hall Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qc4 Nf6 5. Be2 a6 6. Bg5 b5 7. Qb3 Nd4 8. Bxf6 Qxf6 9. Qe3 Nxc2+ 10. Kd2 Nxe3 11. Kxe3 Qxb2 12. Nc3 Qxa1 13. Nd5 Bc5+ 14. Kf3 Qe5 15. Nf4 Bb7 16. Bd3 Bd6 17. Nge2 g5 18. g3 gxf4 19. gxf4 Qh5+ 20. Ke3 Bc5+ 21. Nd4 Qh3+ 22. Kd2 Bxd4 23. Rg1 Qxh2 24. Rg3 Qxf2+ 25. Be2 Qxg3 26. e5 Qc3+ 27. Kd1 Bf3 28. Bxf3 Qxf3+ 29. Kd2 Rg8 30. Kc2 Rg2+ 0-1
+

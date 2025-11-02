@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QUYwoHA3"]
+[White "MoonLight_i_i_i"]
+[Black "cittavecchia"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:47"]
+[WhiteElo "1733"]
+[BlackElo "1727"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 e6 3. Nf3 f6 4. e3 c5 5. c3 c4 6. Qd2 b5 7. a3 a5 8. Be2 Nc6 9. Bd1 Bd7 10. Bc2 b4 11. axb4 axb4 12. Rxa8 Qxa8 13. O-O b3 14. Bd1 g5 15. Bg3 h5 16. h4 Be7 17. Be2 g4 18. Nh2 f5 19. f3 Nh6 20. f4 Nf7 21. Rd1 Nd6 22. Be1 Ne4 23. Qc1 Qd8 24. Nd2 Bxh4 25. Bxh4 Qxh4 26. g3 Qxg3+ 27. Kh1 Nf2# 0-1
+

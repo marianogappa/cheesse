@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jHc56FRv"]
+[White "Friedrich"]
+[Black "SandiNurAgung"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:51"]
+[WhiteElo "1657"]
+[BlackElo "1615"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d3 Nc6 3. c3 Bc5 4. Qf3 Nf6 5. Be2 O-O 6. Qg3 d6 7. Bh6 Nh5 8. Bxh5 Kh8 9. Bxg7+ Kg8 10. Bxf8+ Kxf8 11. a4 Qf6 12. b4 Nxb4 13. cxb4 Bxb4+ 14. Nd2 Qh6 15. Nf3 Qxh5 16. O-O Qh6 17. Nc4 Bd7 18. Rab1 Bc5 19. Rxb7 Bc6 20. Rxc7 Bxa4 21. Ra1 Bc2 22. Qg4 Ba4 23. Rc8+ Rxc8 24. Qxc8+ Kg7 25. Rf1 Bc2 26. Ne1 Bd1 27. Nb2 Be2 28. h3 Bxf1 29. Kxf1 Qd2 30. Qg4+ Kh8 31. Qe2 Qf4 32. g3 Qh6 33. h4 Qe6 34. Kg2 Qb3 35. Nc4 Qb1 36. Ne3 Qb8 37. Qf3 Kg8 38. Nf5 Qb6 39. Nh6+ Kg7 40. Nf5+ Kf8 41. Qg4 Bxf2 42. Qg7+ Ke8 43. Qg8+ Kd7 44. Qxf7+ Kd8 45. Qe7+ Kc8 46. Nxd6+ Kb8 47. Qe8+ Kc7 48. Qe7+ Kb8 49. Nc4 Qe3 50. Qxe5+ Ka8 51. Nf3 Qe2 52. Qe8+ 1-0
+

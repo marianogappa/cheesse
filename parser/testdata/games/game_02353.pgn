@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Yphyzbnx"]
+[White "zeebra"]
+[Black "theneverboy"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:56"]
+[WhiteElo "1237"]
+[BlackElo "1360"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+8"]
+[ECO "B00"]
+[Opening "Caro-Kann Defense: Hillbilly Attack"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Bc4 d5 3. exd5 cxd5 4. Bb5+ Bd7 5. Qe2 Bxb5 6. Qxb5+ Qd7 7. Qxd7+ Nxd7 8. Nc3 Ngf6 9. Nb5 Rc8 10. Nxa7 Rc7 11. c3 Rc5 12. d4 Ra5 13. Nc8 Ra6 14. Bf4 e6 15. Nf3 g6 16. Ne5 Nxe5 17. Bxe5 Be7 18. Nxe7 Kxe7 19. f4 Rc8 20. h3 Ne4 21. h4 f6 22. Bxf6+ Kxf6 23. h5 g5 24. fxg5+ Kxg5 25. h6 Ng3 26. Rh3 Nf5 27. a3 Rf8 28. O-O-O Nh4 29. Rd2 Rf1+ 30. Kc2 Ra8 31. Re2 Re8 32. g3 Nf5 33. Re5 Kg4 34. a4 Kxh3 35. b3 Kxg3 36. b4 Kg4 37. a5 Rc8 38. b5 Rc7 39. a6 bxa6 40. bxa6 Ra7 41. Rxe6 Rf2+ 42. Kb3 Rf1 43. Kb4 Rb1+ 44. Kc5 Ra1 0-1
+

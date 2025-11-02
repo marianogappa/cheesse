@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/yFVEU1FZ"]
+[White "FuturechessGM27"]
+[Black "sergei-chss"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:23"]
+[WhiteElo "2016"]
+[BlackElo "2053"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Queenside Fianchetto Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. Nf3 b6 2. g3 Bb7 3. Bg2 g5 4. O-O g4 5. Nh4 Bxg2 6. Nxg2 Nc6 7. d4 h5 8. c4 Bg7 9. d5 Ne5 10. Nc3 Nh6 11. Qd4 Nf3+ 12. exf3 Bxd4 13. fxg4 Nxg4 14. Be3 Nxe3 15. fxe3 Bxc3 16. bxc3 e6 0-1
+

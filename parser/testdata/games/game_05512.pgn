@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3Ao0H57c"]
+[White "Superintelligent"]
+[Black "daarian"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:16"]
+[WhiteElo "1981"]
+[BlackElo "2042"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 d5 4. Bb5+ Nc6 5. Bxc6+ bxc6 6. d3 d4 7. Ne2 Nf6 8. O-O h5 9. h3 g6 10. Bg5 Bg7 11. e5 Qc7 12. exf6 Bf8 13. Qd2 Bd6 14. Bh4 e5 15. Ng3 Bf5 16. Rfe1 O-O-O 17. Qg5 Be6 18. Nxe5 Bxe5 19. Qxe5 Qb6 20. Ne4 Rd5 21. Qf4 Rhd8 22. b3 Rf5 23. Nd6+ Kd7 24. Nxf5 gxf5 25. Bg3 Rg8 26. Rxe6 fxe6 27. Qd6+ Kc8 28. Qxe6+ Kb7 29. Qxg8 1/2-1/2
+

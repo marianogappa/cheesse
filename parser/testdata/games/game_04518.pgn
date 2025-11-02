@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tfBafIHK"]
+[White "Macewindo"]
+[Black "Abounds"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:18"]
+[WhiteElo "1867"]
+[BlackElo "1607"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-4"]
+[ECO "C50"]
+[Opening "Italian Game: Rousseau Gambit"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.33] } 1... e5 { [%eval 0.33] } 2. Nf3 { [%eval 0.2] } 2... Nc6 { [%eval 0.33] } 3. Bc4 { [%eval 0.11] } 3... f5?! { [%eval 1.01] } 4. d4 { [%eval 0.76] } 4... exd4 { [%eval 0.64] } 5. Nxd4 { [%eval 0.79] } 5... fxe4? { [%eval 3.08] } 6. Nxc6 { [%eval 2.9] } 6... bxc6? { [%eval 5.64] } 7. Qh5+ { [%eval 5.61] } 7... g6 { [%eval 5.69] } 8. Qe5+ { [%eval 5.6] } 8... Qe7 { [%eval 5.46] } 9. Qxh8 { [%eval 5.41] } 9... Bg7?? { [%eval 11.11] } 10. Qxg8+ { [%eval 10.76] } 1-0
+

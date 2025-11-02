@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/fzYRHQdl"]
+[White "sedylon"]
+[Black "chatogar1"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:51"]
+[WhiteElo "1536"]
+[BlackElo "1409"]
+[WhiteRatingDiff "+61"]
+[BlackRatingDiff "-7"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 c6 4. Bc4 Qf6 5. d4 h6 6. d5 Be7 7. O-O Qg6 8. Qd3 Bh3 9. Nh4 Bxh4 10. Qxh3 Be7 11. Qc8+ Bd8 12. dxc6 a5 13. c7 Ra7 1-0
+

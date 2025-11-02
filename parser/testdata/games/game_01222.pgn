@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/uStJMmtM"]
+[White "Santana88"]
+[Black "tay666"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:31"]
+[WhiteElo "1420"]
+[BlackElo "1457"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-13"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 h6 4. O-O a6 5. h3 c6 6. d4 Be7 7. dxe5 dxe5 8. Qxd8+ Bxd8 9. Nxe5 Nf6 10. Nxf7 Rg8 11. Nxd8 Kxd8 12. Bxg8 Nxg8 13. Rd1+ Bd7 14. Bf4 a5 15. Nc3 Na6 16. a3 Nf6 17. e5 Nh5 18. e6 Nxf4 19. Rxd7+ Kc8 20. Rxg7 Nxe6 21. Rg8+ Kc7 22. Re1 Rxg8 23. Rxe6 Rg5 24. Rxh6 Kb6 25. f4 Rg3 26. Kh2 Re3 27. f5 Nc5 28. f6 Re8 29. f7 Rf8 30. b4 axb4 31. axb4 Na6 32. g4 Rxf7 33. g5 Rf2+ 34. Kg3 Rxc2 35. Ne4 Nxb4 36. g6 Re2 37. Nd6 Re6 38. Nf5 Rf6 39. Kg4 Nd5 40. g7 Ne3+ 41. Nxe3 Rxh6 42. g8=Q Kb5 43. h4 c5 44. h5 Rf6 45. Kg5 Rc6 46. h6 c4 47. Qd5+ Kb6 48. Nxc4+ Kc7 49. Qxc6+ bxc6 50. h7 c5 51. h8=Q Kc6 52. Qf6+ Kb5 53. Nd6+ Kb4 54. Kf5 c4 55. Nxc4 Kxc4 56. Qe6+ Kd4 57. Kf4 Kc5 58. Ke4 Kb4 59. Qd6+ Kc4 60. Qc6+ Kb4 61. Kd4 Ka5 62. Qc8 Kb5 63. Kd5 Kb6 64. Qc7+ Kb5 65. Qb7+ Ka5 66. Kc5 Ka4 67. Qb4# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/v8esZmHI"]
+[White "palmlucas"]
+[Black "vladazp"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:08"]
+[WhiteElo "1726"]
+[BlackElo "1672"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-9"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 Be7 3. c4 d6 4. Nc3 Bd7 5. Nf3 a6 6. Bd3 g5 7. O-O g4 8. Ne1 h5 9. Nc2 Bh4 10. f4 Bf6 11. Be3 Nh6 12. f5 Bg5 13. Qd2 Bxe3+ 14. Qxe3 h4 15. fxe6 Bxe6 16. e5 Qd7 17. d5 Bf5 18. e6 fxe6 19. Bxf5 Nxf5 20. Rxf5 Kd8 21. dxe6 Qe7 22. Rf7 Qe8 23. Nd5 h3 24. Qg5+ Kc8 25. Rxc7# 1-0
+

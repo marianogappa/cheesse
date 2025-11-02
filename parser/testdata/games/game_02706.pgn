@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/EnjsObts"]
+[White "hgilgamesh"]
+[Black "ammaralsheik"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:10"]
+[WhiteElo "1707"]
+[BlackElo "1783"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "C22"]
+[Opening "Center Game: Paulsen Attack Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 b6 5. Nc3 Bc5 6. Qg3 Kf8 7. Bd2 Bb7 8. O-O-O d6 9. f4 Nf6 10. Nf3 Bb4 11. e5 Bxc3 12. Bxc3 Ne4 13. Qe1 Nxc3 14. Qxc3 Qe7 15. Bb5 Na5 16. exd6 cxd6 17. Rhe1 Qf6 18. Qa3 Rc8 19. Rxd6 Qxf4+ 20. Kb1 Nc4 21. Rd8# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/igyCGSja"]
+[White "quepix007"]
+[Black "Jones0602"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:02"]
+[WhiteElo "1378"]
+[BlackElo "1334"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d3 f6 3. a3 Nc6 4. h3 Bc5 5. Qe2 Nge7 6. Be3 Bxe3 7. Qxe3 d6 8. Nd2 Be6 9. Ngf3 d5 10. exd5 Nxd5 11. Qe2 Nf4 12. Qe3 Nd5 13. Qe2 Qd7 14. c4 Nf4 15. Qe3 g5 16. g3 Ng6 17. Nb3 Nd4 18. Nfxd4 exd4 19. Nxd4 Nf8 20. Bg2 O-O-O 21. O-O Qxd4 22. Qf3 h5 23. Qxb7+ Kd7 24. Rac1 g4 25. h4 f5 26. c5 Ke8 27. Bc6+ Bd7 28. Rfe1+ Kf7 29. Qxc7 Rc8 30. Qf4 Qxf4 31. gxf4 Bxc6 32. Re5 Kf6 33. Rce1 Ng6 34. Re6+ Kg7 35. d4 Bd5 36. Ra6 Rce8 37. Rxa7+ Bf7 38. Rc1 Nxf4 39. c6 Ne6 40. c7 Rc8 41. d5 Rxc7 42. Raxc7 Nxc7 43. Rxc7 Rd8 44. b4 Rxd5 45. a4 Rd1+ 46. Kg2 Kf6 47. b5 Bd5+ 48. Kg3 Rd3+ 49. Kh2 Rh3+ 50. Kg1 Rh1# 0-1
+

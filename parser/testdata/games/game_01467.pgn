@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/tss5wMfU"]
+[White "serhaTimur"]
+[Black "DenisRazumov"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:23"]
+[WhiteElo "2100"]
+[BlackElo "1520"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "+0"]
+[ECO "D06"]
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.21] } 1... d5 { [%eval 0.28] } 2. c4 { [%eval 0.21] } 2... Nf6 { [%eval 0.17] } 3. cxd5 { [%eval 0.32] } 3... Nxd5?! { [%eval 0.89] } 4. e4 { [%eval 0.49] } 4... Nf6 { [%eval 0.59] } 5. Bd3 { [%eval 0.43] } 5... e6 { [%eval 0.83] } 6. Nf3 { [%eval 0.46] } 6... Bb4+ { [%eval 0.77] } 7. Bd2 { [%eval 0.7] } 7... Bxd2+ { [%eval 0.74] } 8. Qxd2 { [%eval 0.81] } 8... Nc6 { [%eval 0.91] } 9. Qc3 { [%eval 0.87] } 9... O-O { [%eval 0.87] } 10. O-O { [%eval 0.77] } 10... Re8?! { [%eval 1.29] } 11. Rc1 { [%eval 1.0] } 11... e5 { [%eval 1.47] } 12. d5 { [%eval 1.45] } 12... Nd4 { [%eval 1.53] } 13. Nxd4 { [%eval 1.41] } 13... exd4 { [%eval 1.33] } 14. Qxd4 { [%eval 1.22] } 14... c6 { [%eval 1.32] } 15. d6 { [%eval 1.4] } 15... b5? { [%eval 2.98] } 16. Rxc6? { [%eval 0.99] } 16... Bb7 { [%eval 0.94] } 17. Rc1 { [%eval 0.72] } 17... Bxe4? { [%eval 2.25] } 18. Bxb5 { [%eval 2.17] } 18... Re6 { [%eval 2.25] } 19. d7 { [%eval 1.71] } 19... Rb8? { [%eval 4.66] } 20. Qxa7 { [%eval 3.33] } 20... Re7?? { [%eval 22.98] } 21. Qxb8 { [%eval 22.44] } 21... Qxb8 { [%eval 22.03] } 22. Rc8+ { [%eval 20.79] } 1-0
+

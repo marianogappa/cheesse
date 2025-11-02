@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/XTeDJxVA"]
+[White "Feda10Feda"]
+[Black "boedakgelo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:27"]
+[WhiteElo "1603"]
+[BlackElo "1700"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+22"]
+[ECO "C00"]
+[Opening "French Defense: Steinitz Attack"]
+[TimeControl "840+14"]
+[Termination "Normal"]
+
+1. e4 e6 2. e5 c5 3. f4 a6 4. c4 Nc6 5. a3 d6 6. d3 dxe5 7. Nc3 exf4 8. Bxf4 Be7 9. Qh5 Nf6 10. Qg5 O-O 11. Ne4 Nxe4 12. dxe4 Bxg5 0-1
+

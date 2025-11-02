@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/EP6Q03VX"]
+[White "niniveii"]
+[Black "aavza50"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:33"]
+[WhiteElo "1682"]
+[BlackElo "1771"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. b3 d6 2. Bb2 Bd7 3. d3 f6 4. Nd2 e5 5. g3 d5 6. Bg2 c6 7. c4 Be6 8. cxd5 cxd5 9. Ngf3 Bd6 10. O-O Ne7 11. e4 d4 12. Ne1 Bb4 13. Nc2 Ba5 14. a3 Bc7 15. b4 Nbc6 16. b5 Na5 17. Nb4 b6 18. Nc6 Nexc6 19. bxc6 O-O 20. Nc4 Qe7 21. Nxa5 bxa5 22. Rc1 Bb6 23. a4 Rac8 24. Qc2 Rc7 25. Qb1 Qd6 26. Qa1 Rxc6 27. Ba3 Rxc1 28. Rxc1 Bc5 29. Bxc5 Qc6 30. Bxf8 Qxc1+ 31. Qxc1 Kxf8 32. Qc8+ Kf7 33. Qc7+ Kg6 34. Qxa7 Bf7 35. Qxa5 Be6 36. Qb5 Bc4 37. a5 Bxb5 38. Bf1 Ba6 39. f4 Bxd3 40. f5+ Kg5 41. Bxd3 Kg4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/yvuB9PZu"]
+[White "Hecktor2000"]
+[Black "rodrigued"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:35"]
+[WhiteElo "1810"]
+[BlackElo "1561"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 b6 2. Nf3 Ba6 3. Bxa6 Nxa6 4. Qe2 Qc8 5. O-O d6 6. e5 Nb4 7. Qb5+ c6 8. Qxb4 c5 9. Qb5+ Kd8 10. exd6 exd6 11. d3 Nf6 12. Bg5 Be7 13. Qc4 d5 14. Qb3 Qf5 15. Bxf6 Bxf6 16. Nbd2 Kc7 17. c4 d4 18. Qc2 Rhe8 19. Rfe1 Re6 20. Rxe6 fxe6 21. Re1 Re8 22. Ne4 e5 23. Nxf6 gxf6 24. Qa4 Ra8 25. Rd1 e4 26. dxe4 Qxe4 27. Re1 Qd3 28. Re7+ Kd6 29. Qd7# 1-0
+

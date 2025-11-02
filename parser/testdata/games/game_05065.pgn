@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/zA8UQNOV"]
+[White "TheSouldriver"]
+[Black "lion321321"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:31"]
+[WhiteElo "1513"]
+[BlackElo "1705"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 g6 3. Nc3 Bg7 4. Bc4 d6 5. d4 b5 6. Bb3 a6 7. a3 Nd7 8. O-O Nb6 9. Bg5 Bb7 10. e5 dxe5 11. Nxe5 Bxe5 12. dxe5 Qxd1 13. Raxd1 f6 14. exf6 exf6 15. Bh4 g5 16. Rfe1+ Kf8 17. Bg3 c5 18. Bd6+ Kg7 19. h4 c4 20. Ba2 Nh6 21. hxg5 fxg5 22. Re7+ Kg6 23. Rde1 Bc6 24. R1e6+ Kh5 25. f3 g4 26. fxg4+ Nxg4 27. Ne4 Bxe4 28. Rxe4 Nd5 29. R7e5+ Nxe5 30. Rxe5+ Kg4 31. Rxd5 Rad8 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6flQbGAW"]
+[White "Pescer"]
+[Black "AZA711"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:29"]
+[WhiteElo "1861"]
+[BlackElo "1994"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C01"]
+[Opening "French Defense: Perseus Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. d4 Nf6 4. e5 Nfd7 5. c4 c6 6. c5 b6 7. b4 a5 8. cxb6 Bxb4+ 9. Bd2 Qxb6 10. Qa4 Bxd2+ 11. Nbxd2 Qc7 12. Rc1 Bb7 13. Be2 O-O 14. O-O c5 15. Bb5 c4 16. Rc3 Bc6 17. Bxc6 Nxc6 18. h3 Nb6 19. Qa3 Nb4 20. Rb1 Rfb8 21. Nb3 Nd7 22. Nxa5 Qxa5 23. Qxa5 Rxa5 24. a3 Nc6 25. Rxb8+ Ncxb8 26. Nd2 Nc6 27. f4 Nxd4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/mjhUo1M1"]
+[White "sloobmorn"]
+[Black "VoIty"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:13"]
+[WhiteElo "1749"]
+[BlackElo "1787"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "480+0"]
+[Termination "Time forfeit"]
+
+1. d4 g6 2. e4 Bg7 3. Be3 d6 4. Nc3 Nc6 5. h3 e5 6. d5 Nce7 7. Nf3 Bd7 8. a4 Nf6 9. Bd3 Nh5 10. Be2 Nf4 11. Bxf4 exf4 12. Qd2 g5 13. Nxg5 Ng6 14. Nf3 O-O 15. h4 f5 16. h5 fxe4 17. Nxe4 Bf5 18. Neg5 Bxb2 19. Rb1 Qf6 20. Rxb2 Qxb2 21. hxg6 Qa1+ 22. Bd1 Rae8+ 23. Kf1 Bxg6 24. Ne6 Rf7 25. Nfg5 Rxe6 26. dxe6 Rf5 27. Nf3 Qxa4 28. e7 Qc4+ 29. Be2 Qe6 30. Bc4 d5 31. Bb3 Qxe7 32. Nd4 Re5 33. Nf3 Rf5 34. Bxd5+ Bf7 35. Bxb7 Qc5 36. Be4 Bc4+ 37. Kg1 Rf7 38. Nd4 Qe5 39. Bf3 Qb5 40. Bd1 Qb6 41. c3 Rd7 42. Qxf4 c5 43. Qg4+ Kf8 44. Qxd7 cxd4 45. Rxh7 Qg6 46. Qe7+ Kg8 47. Qd8+ Kxh7 48. Qc7+ Qf7 49. Bc2+ Kg7 50. Qg3+ Kf8 51. Qb8+ Qe8 52. Qxa7 dxc3 53. Qc5+ Qe7 54. Qxc4 Qe1+ 0-1
+

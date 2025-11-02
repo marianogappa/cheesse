@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mmL1G7Lv"]
+[White "richandi"]
+[Black "Raider377"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:10"]
+[WhiteElo "1481"]
+[BlackElo "1396"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+[ECO "C42"]
+[Opening "Petrov's Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. d3 Nc6 4. Bg5 d6 5. Be2 Be7 6. Bxf6 Bxf6 7. Nc3 Be6 8. O-O Rg8 9. h3 h6 10. a3 Bg5 11. Nxg5 Qxg5 12. b4 Bxh3 13. Bf3 Nd4 14. Kh2 Nxf3+ 15. Qxf3 Be6 16. Nb5 O-O-O 17. Nxa7+ Kb8 18. Nb5 c6 19. Nc3 Qh4+ 20. Kg1 g5 21. Qg3 Rdf8 22. Qxh4 gxh4 23. Kh2 f6 24. a4 d5 25. exd5 cxd5 26. a5 d4 27. Ne4 Bd5 28. Nc5 Rxg2+ 29. Kh3 Rg5 30. Nd7+ Kc7 31. Nxf8 Bg2+ 32. Kxh4 Bxf1 33. Ne6+ Kd6 34. Nxg5 hxg5+ 35. Kg3 Be2 36. a6 bxa6 37. Rxa6+ Kd5 38. Rxf6 Bh5 39. Rh6 Be8 40. Rh8 Ba4 41. Rb8 Bxc2 42. b5 Bxd3 43. b6 Ba6 44. b7 Bxb7 45. Rxb7 Ke4 46. Kg4 d3 47. Kxg5 d2 48. Rb1 Kd3 49. f3 Kc2 50. Rh1 d1=Q 51. Rxd1 Kxd1 52. Kf5 Ke2 53. f4 exf4 54. Kxf4 1/2-1/2
+

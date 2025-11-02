@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PuklHYdk"]
+[White "Rodrigo_cuezy"]
+[Black "zzzAZAzzz"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:54"]
+[WhiteElo "1786"]
+[BlackElo "1661"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+15"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "420+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Nf3 Nf6 5. d4 a6 6. Be2 Nc6 7. d5 Nb4 0-1
+

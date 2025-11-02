@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/12YODXq1"]
+[White "klajahunbago"]
+[Black "JonasBohlig"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:59"]
+[WhiteElo "1389"]
+[BlackElo "1309"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+118"]
+[ECO "C00"]
+[Opening "French Defense #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.24] } 1... e6 { [%eval 0.29] } 2. h4?! { [%eval -0.39] } 2... d5 { [%eval -0.45] } 3. d3 { [%eval -0.71] } 3... dxe4 { [%eval -0.36] } 4. dxe4 { [%eval -0.51] } 4... Qxd1+ { [%eval -0.48] } 5. Kxd1 { [%eval -0.56] } 5... Bc5 { [%eval -0.57] } 6. f3 { [%eval -0.52] } 6... Ne7 { [%eval -0.49] } 7. Bd2 { [%eval -0.6] } 7... Nbc6 { [%eval -0.54] } 8. c3 { [%eval -0.65] } 8... Bd7 { [%eval -0.56] } 9. b4 { [%eval -0.41] } 9... Bf2 { [%eval -0.48] } 10. Nh3 { [%eval -0.51] } 10... Bxh4 { [%eval -0.45] } 11. Ng5?! { [%eval -1.31] } 11... Ng6 { [%eval -1.31] } 12. Bb5? { [%eval -2.34] } 12... a5 { [%eval -2.29] } 13. Bxc6?! { [%eval -3.12] } 13... Bxc6 { [%eval -3.13] } 14. bxa5 { [%eval -3.62] } 14... O-O { [%eval -3.25] } 15. c4 { [%eval -3.4] } 15... Rad8?! { [%eval -2.88] } 16. Nc3?? { [%eval -8.49] } 16... Bxg5 { [%eval -8.08] } 17. Nb5? { [%eval -16.25] } 17... Rxd2+ { [%eval -15.65] } 18. Ke1 { [%eval -15.61] } 18... Rfd8 { [%eval -15.31] } 19. Nxc7 { [%eval -16.64] } 19... Nf4 { [%eval -15.47] } 20. Rh5?! { [%eval #-8] } 20... Nxh5 { [%eval #-7] } 21. f4 { [%eval #-6] } 21... Bh4+ { [%eval #-5] } 22. g3 { [%eval #-5] } 22... Bxg3+ { [%eval #-4] } 23. Kf1 { [%eval #-4] } 23... Nxf4 { [%eval #-3] } 24. Rb1 { [%eval #-2] } 24... Rd1+ { [%eval #-1] } 25. Rxd1 { [%eval #-1] } 25... Rxd1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2w1EvO9j"]
+[White "humilhant"]
+[Black "mrSreten"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:50"]
+[WhiteElo "2098"]
+[BlackElo "1867"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bf4 g6 3. e3 Bg7 4. Nf3 O-O 5. Nbd2 Nh5 6. Bg5 h6 7. Bh4 f5 8. c3 d6 9. Bc4+ Kh7 10. Qc2 e5 11. O-O-O Nc6 12. Bxd8 Nxd8 13. dxe5 1-0
+

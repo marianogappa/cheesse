@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/R39y227B"]
+[White "blendaval"]
+[Black "xdaay"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:05"]
+[WhiteElo "1907"]
+[BlackElo "1832"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+[ECO "A57"]
+[Opening "Benko Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 c5 2. d5 Nf6 3. c4 b5 4. b3 Bb7 5. Nf3 d6 6. Bb2 e5 7. Nbd2 a6 8. e4 Nbd7 9. Bd3 b4 10. O-O Ng4 11. a3 a5 12. axb4 axb4 13. Rxa8 Qb8 14. Rxb8+ 1-0
+

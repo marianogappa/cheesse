@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hma5M8aE"]
+[White "Tashok"]
+[Black "funkybusiness"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:04"]
+[WhiteElo "1408"]
+[BlackElo "1154"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-6"]
+[ECO "C30"]
+[Opening "King's Gambit Declined, Queen's Knight Defense"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 Nc6 3. fxe5 Nxe5 4. Nf3 d6 5. d4 Ng6 6. Bd3 a6 7. O-O Bd7 8. e5 f6 9. exf6 Qxf6 10. Re1+ Be6 11. Bg5 Qf7 12. d5 h6 13. dxe6 Qxf3 14. Qxf3 Ne5 15. Rxe5 dxe5 16. Qf7# 1-0
+

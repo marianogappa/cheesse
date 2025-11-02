@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qt5eyMku"]
+[White "griffedours"]
+[Black "RonjaS"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:11"]
+[WhiteElo "2034"]
+[BlackElo "2055"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "+0"]
+[ECO "E32"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d6 5. Bg5 Nbd7 6. e3 O-O 7. Bd3 h6 8. Bh4 Qe8 9. Ne2 e5 10. O-O c6 11. a3 Bxc3 12. Nxc3 a5 13. b4 c5 14. bxc5 dxc5 15. d5 g5 16. Bg3 Nh5 17. Nb5 Qe7 18. d6 Qf6 19. Rad1 a4 20. f4 Nxg3 21. hxg3 exf4 22. gxf4 g4 23. e4 Qg7 24. e5 Nb6 25. Be4 Be6 26. Bxb7 Bxc4 27. Bxa8 Bxb5 28. Be4 Bxf1 29. Kxf1 c4 30. Qf2 Nd7 31. Bf5 Rd8 32. Qa7 Nxe5 33. fxe5 Qxe5 34. Qf2 Rxd6 35. Rxd6 Qxd6 36. Bc2 Qxa3 37. Qf5 Qc1+ 38. Ke2 Qg5 39. Qh7+ Kf8 40. Qh8+ Ke7 41. Qd4 h5 42. Qxc4 Qe5+ 43. Kd1 a3 44. Qb4+ Qd6+ 45. Qxd6+ Kxd6 46. Bb3 f5 47. Ke2 h4 48. Kf2 Ke5 49. Ba2 f4 50. Bb3 h3 51. g3 fxg3+ 52. Kxg3 Kf5 53. Ba2 Kg5 54. Bb3 Kf5 55. Ba2 Kg5 56. Bb3 Kf5 57. Ba2 Kg5 1/2-1/2
+

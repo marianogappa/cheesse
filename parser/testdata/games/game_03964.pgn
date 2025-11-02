@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NhWKrpgP"]
+[White "Yerkebulan"]
+[Black "CONTRADIQUE"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:06"]
+[WhiteElo "1521"]
+[BlackElo "1590"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "60+3"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 Nc6 5. Nf3 Bd7 6. O-O O-O-O 7. Re1 Qf6 8. d4 e6 9. Bg5 Qg6 10. Bxd8 Kxd8 11. Ne5 Nxe5 12. dxe5 Kc8 13. a4 Bc6 14. Qd2 Qxg2# 0-1
+

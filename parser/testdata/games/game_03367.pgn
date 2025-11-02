@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3yYL0AI4"]
+[White "jacals"]
+[Black "xdaay"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:48"]
+[WhiteElo "1918"]
+[BlackElo "1824"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[ECO "E91"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 c5 7. O-O Nc6 8. Re1 Nh5 9. Be3 cxd4 10. Nxd4 Bxd4 11. Bxd4 Nxd4 12. Qxd4 e5 13. Qd2 Nf6 14. Rad1 Ne8 15. Nb5 f5 16. exf5 Bxf5 17. Qd5+ Kh8 18. Qxb7 Rb8 19. Qxa7 Rb6 20. c5 Qg5 21. cxb6 Bh3 22. Bf1 Nf6 23. Qe7 1-0
+

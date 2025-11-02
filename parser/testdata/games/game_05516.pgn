@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ChDazRgi"]
+[White "ivan83"]
+[Black "carki06"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:17"]
+[WhiteElo "1466"]
+[BlackElo "1446"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 c6 3. d3 Qb6 4. Nbd2 Bc5 5. d4 Bxd4 6. Nxd4 Qxd4 7. c3 Qe5 8. Nc4 Qc7 9. Qg4 g6 10. Bf4 Qd8 11. Nd6+ Kf8 12. Bg5 f6 13. Qf3 Ke7 14. Bh4 Kxd6 15. Bc4 Ke7 16. e5 Kf7 17. O-O b5 18. Bb3 h6 19. Rad1 g5 20. Bg3 Ne7 21. Qxf6+ Kg8 22. Rd3 Na6 23. Rfd1 Nc5 24. Rf3 Ne4 25. Qf7# 1-0
+

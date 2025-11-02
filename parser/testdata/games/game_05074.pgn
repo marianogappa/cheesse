@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/shhRpRci"]
+[White "more_hawk"]
+[Black "anonymus75"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:31"]
+[WhiteElo "1552"]
+[BlackElo "1514"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Mokele Mbembe"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Ne4 3. f3 Ng5 4. d4 c6 5. Bxg5 f6 6. exf6 exf6 7. Bf4 Bb4+ 8. c3 Qe7+ 9. Ne2 Bd6 10. Bg3 Bxg3+ 11. hxg3 b6 12. f4 Bb7 13. g4 c5 14. dxc5 bxc5 15. Rh2 Nc6 16. g3 Na5 17. b4 cxb4 18. Qa4 Nc6 19. Bg2 bxc3 20. Nxc3 O-O 21. O-O-O g5 22. Bxc6 Bxc6 23. Qc4+ Kg7 24. Nd5 Qa3+ 25. Kd2 Qb2+ 26. Ke1 Rfe8 27. fxg5 fxg5 28. Nc3 Qc2 29. Qd4+ Kg6 30. Rd2 Qc1+ 31. Nd1 Bb5 32. Qd6+ Kg7 33. Qh6+ Kf7 34. Qxh7+ Ke6 35. Qf5+ Ke7 36. Rh7+ Kd8 37. Qxb5 Qc6 38. Rhxd7+ Qxd7 39. Rxd7+ Kc8 40. Qc6+ Kb8 41. Qb7# 1-0
+

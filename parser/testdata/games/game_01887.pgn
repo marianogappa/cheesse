@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/zYM9nBWP"]
+[White "biiiibob"]
+[Black "mecitaydin"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:04"]
+[WhiteElo "1449"]
+[BlackElo "1653"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Ponziani Gambit"]
+[TimeControl "60+1"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 Nxe4 4. dxe5 Bc5 5. Bxf7+ Kxf7 6. Qd5+ Kf8 7. Qxe4 d5 8. Qf4+ Kg8 9. Nf3 h6 10. O-O Nc6 11. Nc3 Be6 12. Na4 Be7 13. Be3 b6 14. Rad1 Qf8 15. Qxf8+ Rxf8 16. Nd4 Nxd4 17. Bxd4 c5 18. Be3 d4 19. Bc1 Rf5 20. Rfe1 g5 21. g3 Bxa2 22. b3 b5 23. Nb2 Kh7 24. f4 Rhf8 25. Bd2 c4 26. bxc4 bxc4 27. Ra1 c3 28. Rxa2 cxd2 29. Rd1 gxf4 30. Rxa7 R8f7 31. gxf4 Rxf4 32. e6 Rg7+ 0-1
+

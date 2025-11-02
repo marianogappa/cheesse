@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jw7zvESR"]
+[White "damau6"]
+[Black "Chopin76"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:03"]
+[WhiteElo "1082"]
+[BlackElo "1107"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "B07"]
+[Opening "Pirc Defense #4"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. Bc4 c6 3. Qf3 e6 4. Qh5 b5 5. Be2 g6 6. Qf3 Bg7 7. Nc3 Qa5 8. d3 b4 9. Nd1 b3+ 10. c3 Nd7 11. Ne3 d5 12. exd5 cxd5 13. d4 Ngf6 14. Qh3 Ne4 15. f3 Ng5 16. Qg4 f6 17. Nh3 h5 18. Qh4 Nxh3 19. gxh3 g5 20. Qf2 Nf8 21. Bd2 Qxa2 22. Rxa2 bxa2 23. Nc2 Ba6 24. Bxa6 Rb8 25. Ke2 Rxb2 26. Na3 Kf7 27. c4 Nd7 28. cxd5 Rhb8 29. dxe6+ Kg6 30. exd7 Rb1 31. Rxb1 Rxb1 32. Nxb1 axb1=Q 33. Bd3+ Qxd3+ 34. Kxd3 a5 35. Bxa5 Bf8 36. d8=Q Bb4 37. Bxb4 h4 38. Qe3 f5 39. Qg8+ Kh5 40. Be7 g4 41. fxg4+ fxg4 42. hxg4# 1-0
+

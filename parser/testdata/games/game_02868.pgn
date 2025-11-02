@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/rhrIFWlj"]
+[White "ROD1969"]
+[Black "menfhischess"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:43"]
+[WhiteElo "1791"]
+[BlackElo "1984"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+7"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. f4 c5 2. Nf3 Nc6 3. e3 Nf6 4. Be2 e6 5. O-O d5 6. c3 Bd6 7. d4 O-O 8. Nbd2 b6 9. a3 a5 10. Ne5 Bb7 11. Nxc6 Bxc6 12. Nf3 Ne4 13. Ne5 Bb7 14. Bd3 f6 15. Bxe4 dxe4 16. Nc4 Ba6 17. b3 Bxc4 18. bxc4 Be7 19. a4 Qc7 20. Ba3 Rfd8 21. Qe2 Rac8 22. Rab1 cxd4 23. Bxe7 d3 24. Qg4 Qxe7 25. Rxb6 Rd6 26. Rb5 Rdc6 27. Rfb1 f5 28. Qd1 Rxc4 29. Rxa5 Rxc3 30. Rab5 Rc2 31. Rb8 Rc7 32. a5 h6 33. a6 Rxb8 34. Rxb8+ Kh7 35. h3 Qd7 36. Qd2 Rc2 37. Qa5 d2 38. Rd8 d1=Q+ 39. Kh2 Qxd8 40. Qe5 Qe2 41. a7 Qxg2# 0-1
+

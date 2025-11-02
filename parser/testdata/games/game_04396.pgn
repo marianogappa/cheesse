@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YbKJ9uoE"]
+[White "fasttony"]
+[Black "simotori"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:55"]
+[WhiteElo "1547"]
+[BlackElo "1495"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 e6 3. Nf3 Nc6 4. Nc3 Bd6 5. e5 Bc7 6. Bc4 Nge7 7. d3 O-O 8. O-O d5 9. Bb5 a6 10. Bxc6 Nxc6 11. Ne2 b5 12. c3 Bb7 13. Ng3 f6 14. Nh5 fxe5 15. fxe5 Bxe5 16. Bg5 Qd6 17. Nxe5 Nxe5 18. Bf4 g6 19. Bxe5 Qxe5 20. Rxf8+ Rxf8 21. Ng3 d4 22. Qg4 dxc3 23. bxc3 Qxc3 24. Rf1 Qc4 25. dxc4 1-0
+

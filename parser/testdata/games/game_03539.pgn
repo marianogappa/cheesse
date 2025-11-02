@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/AT69NdIW"]
+[White "Garogarou"]
+[Black "SmeleyBrat"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:34"]
+[WhiteElo "1897"]
+[BlackElo "1702"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Bc4 Nf6 6. Nf3 d6 7. O-O Bg4 8. h3 Bxf3 9. Qxf3 e6 10. Rd1 Be7 11. Be3 O-O 12. Rac1 Ne5 13. Qe2 Rc8 14. Bb3 d5 15. exd5 Nxd5 16. Nxd5 Rxc1 17. Bxc1 exd5 18. Qxe5 Bc5 19. Bxd5 Bxf2+ 20. Kxf2 Re8 1-0
+

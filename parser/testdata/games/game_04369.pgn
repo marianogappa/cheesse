@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/LfK8MeIS"]
+[White "AlexHipster"]
+[Black "Paracosm"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:43"]
+[WhiteElo "1537"]
+[BlackElo "1552"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+[TimeControl "600+10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 e6 4. d4 c5 5. exd5 exd5 6. dxc5 Bxc5 7. Nxd5 Nc6 8. Bb5 Be6 9. c4 Nf6 10. Bg5 Bxd5 11. Bxf6 Qxf6 12. cxd5 Qxb2 13. dxc6 Qxb5 14. Qd7+ Kf8 15. Rc1 Re8+ 16. Kd1 Qe2# 0-1
+

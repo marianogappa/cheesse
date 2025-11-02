@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kceptxg3"]
+[White "Nilahs"]
+[Black "chessforce"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:20"]
+[WhiteElo "2180"]
+[BlackElo "2200"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "E76"]
+[Opening "King's Indian Defense: Steiner Attack"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 c5 7. d5 e6 8. Nge2 h6 9. Be3 exd5 10. cxd5 a6 11. a4 Nbd7 12. Ng3 Rb8 13. Be2 Qc7 14. O-O Re8 15. Rb1 h5 16. Qd2 h4 17. Nh1 h3 18. g3 c4 19. Rfc1 b5 20. axb5 axb5 21. b4 Ne5 22. Nf2 Bd7 23. Bd4 Ra8 24. Ra1 Qb7 25. f4 Neg4 26. Nxg4 Nxe4 27. Nxe4 Rxe4 28. Bxg7 Kxg7 29. Nf2 Rxa1 30. Rxa1 Qb6 31. Kf1 Re3 32. Rc1 Bf5 33. Rc3 Rxc3 34. Qd3 Bxd3 0-1
+

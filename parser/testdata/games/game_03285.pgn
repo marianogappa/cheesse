@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/9nesf2i1"]
+[White "arjangj"]
+[Black "LRGR"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:29"]
+[WhiteElo "1651"]
+[BlackElo "1662"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-147"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Indian Defense"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. g3 Nf6 2. Bg2 g6 3. Nf3 Bg7 4. d3 d6 5. h3 c5 6. Bg5 b6 7. Bxf6 Bxf6 8. Ng5 Bxg5 9. Bxa8 d5 10. c4 Bd7 11. Bxd5 Nc6 12. O-O O-O 13. Bg2 Re8 14. Nd2 Ne5 15. Ne4 Bf6 16. Qd2 Bf5 17. Nxf6+ exf6 18. Qh6 g5 19. h4 Ng4 20. Qh5 Qd7 21. hxg5 Bg6 22. Qh4 Re5 23. gxf6 Rh5 24. Qxh5 Bxh5 25. Bh3 Qf5 26. f3 Qg6 27. fxg4 Bxg4 28. Bxg4 Qxg4 29. Kg2 h5 30. Rf2 h4 31. Rf4 h3+ 32. Kh2 Qxe2+ 33. Kxh3 Qxd3 34. Raf1 Qh7+ 35. Kg2 Qc2+ 36. R1f2 Qh7 37. g4 a6 38. b3 b5 39. Kg3 bxc4 40. bxc4 Qd3+ 41. R2f3 Qd2 42. a3 Qd6 43. Kh4 a5 44. Rf5 Kf8 45. g5 Qd4+ 46. R5f4 Qg1 47. Rg3 Qh1+ 48. Kg4 Qh7 49. Rh3 Qg6 50. Rh6 Qd3 51. Rh3 Qg6 52. Rf5 a4 53. Rd3 Qg8 54. Rh3 Ke8 55. Re3+ Kd7 56. Rxc5 Qg6 57. Ra5 Qc2 58. Re7+ Kd6 59. Ra6+ 1-0
+

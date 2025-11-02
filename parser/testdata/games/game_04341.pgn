@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/o2CDGXCp"]
+[White "blevy"]
+[Black "R10HD"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:34"]
+[WhiteElo "1750"]
+[BlackElo "1697"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "B11"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Be2 Nf6 7. Nh5 Nxh5 8. Bxh5 Bxh5 9. Qxh5 e6 10. Nf3 Qd5 11. O-O Qxh5 0-1
+

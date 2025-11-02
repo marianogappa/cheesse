@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/efCOHULb"]
+[White "victorhernandezabreu"]
+[Black "mdd427"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:52"]
+[WhiteElo "1353"]
+[BlackElo "1292"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 Qa5+ 3. Bd2 Qf5 4. Nc3 Qg4 5. h3 Qxd4 6. e3 Qd6 7. Nf3 Nf6 8. Qc2 g6 9. O-O-O Qc5 10. e4 e5 11. Be3 Qa5 12. Bd2 Qb6 13. Na4 Qxf2 14. Bg5 Qg3 15. Bxf6 Rg8 16. Ng5 Qf4+ 17. Qd2 Qxf6 18. Nxh7 Qg7 19. Ng5 f6 20. Ne6 dxe6 21. Qd8+ Kf7 22. Qxc8 Be7 23. Qxb7 Na6 24. Qxa6 Bb4 25. a3 Bc5 26. Nxc5 Qh6+ 27. Kb1 Qe3 28. Qb7+ Kf8 29. Qxa8+ Kg7 30. Qb7+ Kh6 31. Qb4 Qg5 32. Qd2 Kg7 33. Qxg5 fxg5 34. Nxe6+ Kf7 35. Nxg5+ Kf6 36. h4 Rb8 37. Rd6+ Ke7 38. Rxg6 Kd7 39. Rg7+ Kd6 40. Nf7+ Ke6 41. Ng5+ Kf6 42. Rf7+ Kg6 43. c5 Rb3 44. Bc4 Re3 45. Rxa7 Rg3 46. Bf7+ Kh6 47. Be8 Rxg2 48. Rh7# 1-0
+

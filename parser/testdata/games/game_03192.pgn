@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xLG1zfHV"]
+[White "athonian"]
+[Black "Doudi73"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:04"]
+[WhiteElo "1895"]
+[BlackElo "2122"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Staunton-Cochrane Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. c4 Nc6 3. Nc3 e5 4. g3 Nf6 5. Bg2 Be7 6. Nge2 O-O 7. d3 d6 8. Be3 Be6 9. Qd2 Ng4 10. h3 Nxe3 11. fxe3 a6 12. O-O f5 13. exf5 Bxf5 14. e4 Be6 15. Kh2 Qd7 16. Nd5 Bxd5 17. exd5 Nd4 18. Nc3 h5 19. Rf2 h4 20. Raf1 hxg3+ 21. Kxg3 Nf5+ 22. Kh2 Bh4 23. Rf3 Nd4 24. Rxf8+ Rxf8 25. Ne4 b5 26. b3 Rxf1 27. Bxf1 Qf5 28. Qg2 Nf3+ 29. Kh1 Ne1 30. Qg1 Qf3+ 31. Bg2 Qxd3 32. Nf2 Qg3 33. Qh2 Qxf2 34. Qg1 Nxg2 35. Qxf2 Bxf2 36. Kxg2 Bd4 37. Kf3 Kf7 38. Ke4 Kf6 39. cxb5 axb5 40. a4 bxa4 41. bxa4 c4 42. a5 c3 43. Kd3 Kg5 44. a6 Kh4 45. a7 Bxa7 46. Kxc3 Kxh3 47. Kc4 g5 48. Kb5 g4 49. Kc6 Bc5 50. Kd7 g3 51. Ke6 g2 52. Kf5 g1=Q 53. Ke6 Qg4+ 54. Ke7 e4 55. Kd8 Qg5+ 56. Kc7 Qxd5 57. Kd7 e3 58. Ke8 e2 59. Kd7 e1=Q 60. Kc7 Qa5+ 61. Kd7 Qf5+ 62. Ke7 Qc7+ 63. Ke8 Qff7# 0-1
+

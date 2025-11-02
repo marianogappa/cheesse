@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tHgDSqyn"]
+[White "Giuspiz"]
+[Black "jorgemlfranco"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:16"]
+[WhiteElo "1509"]
+[BlackElo "1561"]
+[WhiteRatingDiff "+36"]
+[BlackRatingDiff "-11"]
+[ECO "A52"]
+[Opening "Budapest Defense: Adler Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.26] } 1... Nf6 { [%eval 0.27] } 2. c4 { [%eval 0.27] } 2... e5 { [%eval 0.4] } 3. dxe5 { [%eval 0.43] } 3... Ng4 { [%eval 0.44] } 4. Nf3 { [%eval 0.38] } 4... Bc5 { [%eval 0.43] } 5. e3 { [%eval 0.55] } 5... Nxf2? { [%eval 3.12] } 6. Kxf2 { [%eval 3.0] } 6... O-O { [%eval 3.06] } 7. Bd3 { [%eval 2.9] } 7... d6 { [%eval 2.83] } 8. Rf1 { [%eval 2.83] } 8... dxe5 { [%eval 2.79] } 9. Kg1 { [%eval 2.56] } 9... f5?! { [%eval 3.19] } 10. Nxe5 { [%eval 3.22] } 10... Qh4? { [%eval 4.4] } 11. Kh1?! { [%eval 3.54] } 11... Nc6 { [%eval 3.87] } 12. Nf3 { [%eval 3.61] } 12... Qf6?! { [%eval 4.11] } 13. a3?! { [%eval 3.35] } 13... Ne5 { [%eval 3.41] } 14. Nc3 { [%eval 3.54] } 14... Nxf3?! { [%eval 4.28] } 15. Rxf3 { [%eval 4.22] } 15... Be6 { [%eval 4.54] } 16. Qc2 { [%eval 4.4] } 16... g6? { [%eval 5.6] } 17. b4? { [%eval 3.88] } 17... Bd6 { [%eval 3.93] } 18. Bb2 { [%eval 3.89] } 18... Qh4?? { [%eval 7.44] } 19. Rh3 { [%eval 7.12] } 19... Qf2? { [%eval 18.21] } 20. Qxf2 { [%eval 17.58] } 1-0
+

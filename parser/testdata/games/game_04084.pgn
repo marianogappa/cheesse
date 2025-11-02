@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/hNk3eZIa"]
+[White "di360"]
+[Black "danielillochess"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:33"]
+[WhiteElo "1391"]
+[BlackElo "1280"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+15"]
+[ECO "B07"]
+[Opening "Pirc Defense #4"]
+[TimeControl "90+2"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nf3 g6 3. Nc3 Bg7 4. Bc4 Nf6 5. O-O O-O 6. d4 Nbd7 7. Bg5 b6 8. d5 Bb7 9. Bd3 c6 10. e5 dxe5 11. dxc6 Bxc6 12. Ne4 Nxe4 13. Bxe4 Bxe4 14. Nh4 h6 15. Be3 e6 16. Nf3 Rc8 17. c3 Qf6 18. Nd2 Bd5 19. f4 exf4 20. b3 Qg5 21. Bd4 Qxg2# 0-1
+

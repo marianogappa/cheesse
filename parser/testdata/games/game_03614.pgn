@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/URZi0hB2"]
+[White "cirurgiao"]
+[Black "NajemiX"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:45"]
+[WhiteElo "1498"]
+[BlackElo "1394"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-7"]
+[ECO "C54"]
+[Opening "Italian Game: Giuoco Piano, Greco's Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.28] } 1... e5 { [%eval 0.33] } 2. Nf3 { [%eval 0.31] } 2... Nc6 { [%eval 0.24] } 3. Bc4 { [%eval 0.25] } 3... Bc5 { [%eval 0.34] } 4. c3 { [%eval 0.27] } 4... Nf6 { [%eval 0.21] } 5. d4 { [%eval 0.07] } 5... exd4 { [%eval 0.26] } 6. cxd4 { [%eval 0.07] } 6... Bb4+ { [%eval 0.13] } 7. Nc3 { [%eval -0.06] } 7... O-O?! { [%eval 0.44] } 8. e5 { [%eval 0.55] } 8... Re8?! { [%eval 1.31] } 9. O-O { [%eval 1.32] } 9... Ng4? { [%eval 3.84] } 10. Qb3?! { [%eval 2.87] } 10... Rf8 { [%eval 3.11] } 11. h3?! { [%eval 2.57] } 11... Nh6? { [%eval 4.31] } 12. Bxh6 { [%eval 4.14] } 12... gxh6 { [%eval 4.45] } 13. Ne4? { [%eval 2.05] } 13... d6?? { [%eval 5.94] } 14. d5? { [%eval 3.85] } 14... Nxe5 { [%eval 3.85] } 15. Nxe5 { [%eval 3.66] } 15... dxe5? { [%eval 5.19] } 16. Qxb4 { [%eval 5.08] } 16... Bf5 { [%eval 5.02] } 17. Ng3 { [%eval 4.61] } 17... Bc8? { [%eval 5.7] } 18. Rad1 { [%eval 5.59] } 18... Qg5?! { [%eval 6.21] } 19. d6 { [%eval 5.75] } 19... h5?? { [%eval 10.51] } 20. d7 { [%eval 10.23] } 20... h4 { [%eval 16.25] } 21. Qxf8+ { [%eval 9.66] } 21... Kxf8 { [%eval 9.57] } 22. d8=Q+ { [%eval 9.37] } 22... Kg7? { [%eval #2] } 23. Qxg5+ { [%eval #1] } 1-0
+

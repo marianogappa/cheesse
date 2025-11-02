@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jtXzYt7V"]
+[White "francisfrancis"]
+[Black "gabrieleud"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:45"]
+[WhiteElo "1393"]
+[BlackElo "1613"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. g3 e5 2. Bg2 Nc6 3. Bxc6 dxc6 4. b3 Nf6 5. Bb2 Bd6 6. Nf3 Qe7 7. O-O Bh3 8. Re1 Ng4 9. Nc3 O-O 10. Ne4 h5 11. Nxd6 Qxd6 12. d4 h4 13. dxe5 Qxd1 14. Rexd1 hxg3 15. fxg3 Rfe8 16. Rd7 f6 17. exf6 Rxe2 18. f7+ Kf8 19. Rxc7 Rg2+ 20. Kf1 Rxc2+ 21. Ke1 Rxb2 22. Ne5 Nxe5 23. Rd1 Rxh2 24. Rxb7 Rh1+ 25. Kd2 Rd8+ 26. Ke3 Rhxd1 27. Kf4 Nxf7 28. Kf3 R1d3+ 29. Kf4 R8d4# 0-1
+

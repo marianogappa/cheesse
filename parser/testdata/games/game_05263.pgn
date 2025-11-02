@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/e8FVDOdc"]
+[White "KwebbelkopVsJelly"]
+[Black "GMIGURNYS"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:14"]
+[WhiteElo "2081"]
+[BlackElo "1983"]
+[WhiteRatingDiff "-134"]
+[BlackRatingDiff "+10"]
+[ECO "C50"]
+[Opening "Italian Game: Hungarian Defense"]
+[TimeControl "0+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. O-O Nf6 5. d3 O-O 6. a4 d5 7. exd5 Nxd5 8. Re1 Bf6 9. Nc3 Nxc3 10. bxc3 Bg4 11. Ba3 Re8 12. h3 Bh5 13. g4 Bg6 14. Qb1 Rb8 15. Qb3 Na5 16. Qa2 Nxc4 17. Qxc4 c6 18. Re2 Qc7 19. Rae1 Re7 20. g5 Re6 21. gxf6 gxf6 22. d4 e4 23. Nh4 Rbe8 24. f3 e3 25. Nxg6 fxg6 26. Qd3 Qg3+ 27. Rg2 Qxe1+ 28. Kh2 Qh4 29. Bc1 Qf4+ 30. Kh1 Kf7 31. Bd2 Qf5 32. Qxf5 gxf5 33. Be1 e2 34. f4 Rg8 35. Kh2 Rxg2+ 36. Kxg2 Re4 37. Kf3 Ke6 38. h4 Kd5 39. h5 Kc4 40. h6 c5 41. dxc5 Kxc5 42. a5 Kb5 43. Kf2 Kxa5 44. Bd2 Kb5 45. Ke1 Kc4 46. Kf2 b5 47. Be1 a5 48. Bd2 a4 49. Bc1 Kxc3 50. Be3 Kxc2 51. Bd2 Kxd2 52. Kf3 e1=Q 53. Kg2 Qe3 54. Kh2 Ke2 55. Kh1 Rd4 56. Kg2 Rd2 57. Kh2 Kd3+ 58. Kh1 Qe1# 0-1
+

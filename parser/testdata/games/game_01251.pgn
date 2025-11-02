@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GZWV2bkL"]
+[White "Horrible_at_Chess"]
+[Black "DickTurpin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:38"]
+[WhiteElo "1185"]
+[BlackElo "1021"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #3"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e3 Nf6 2. d4 d5 3. Nc3 c6 4. Bd3 g6 5. e4 Qd6 6. exd5 Nxd5 7. Nxd5 Qxd5 8. c3 Qxg2 9. Qf3 Qxf3 10. Nxf3 Be6 11. Ng5 Bd5 12. Be4 Bxe4 13. Nxe4 Nd7 14. Bf4 e6 15. O-O-O Rc8 16. h4 h5 17. f3 f5 18. Nd6+ Kd8 19. Nxc8 Kxc8 20. Rhe1 Rg8 21. Rxe6 Bg7 22. Rde1 Nf8 23. Re8+ Kd7 24. R1e7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lL3fc8LX"]
+[White "Lepta"]
+[Black "mara1984"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:02"]
+[WhiteElo "1835"]
+[BlackElo "1624"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Nd2 e6 3. Ngf3 c5 4. c3 c4 5. g3 b5 6. a4 b4 7. Bg2 b3 8. e4 a5 9. O-O Ba6 10. Re1 Nf6 11. exd5 Nxd5 12. Ne5 Ra7 13. Nexc4 Rc7 14. Nxa5 Rxc3 15. bxc3 Nxc3 16. Qxb3 Qxa5 17. Qxb8+ Ke7 18. Ba3+ Kf6 19. Bxf8 Ne2+ 20. Kh1 Qxd2 21. Qe5+ Kg6 22. Qxg7+ Kf5 23. Bh3+ Ke4 24. Qe5+ Kf3 25. Bg2+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/XPoo3UL9"]
+[White "bad_strategy"]
+[Black "Coodlaty"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:37"]
+[WhiteElo "1259"]
+[BlackElo "1229"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "B02"]
+[Opening "Alekhine Defense: John Tracy Gambit"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. Nf3 d5 3. e5 Ng4 4. h3 Nh6 5. Nc3 g6 6. d4 e6 7. Ng5 c5 8. dxc5 Bxc5 9. Nxf7 Nxf7 10. b3 Bb4 11. Bd2 Qa5 0-1
+

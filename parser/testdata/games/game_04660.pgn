@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/rQAJWLx8"]
+[White "entoni77"]
+[Black "szinkod"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:53"]
+[WhiteElo "1887"]
+[BlackElo "2024"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d3 d5 2. g3 e5 3. Bg2 c6 4. f4 exf4 5. Bxf4 Nd7 6. Nc3 Ngf6 7. Nf3 Be7 8. O-O O-O 9. Qe1 Nb6 10. Rb1 h6 11. e4 dxe4 12. Nxe4 Nxe4 13. dxe4 Bc5+ 14. Kh1 Bg4 15. h3 Be6 16. c3 Bxa2 17. Ra1 Bc4 18. Kh2 Bxf1 19. Qxf1 Re8 20. Qc1 Qe7 21. Bxh6 gxh6 22. Qxh6 Qe6 23. Qh5 Be3 24. Rf1 Qg6 25. Qa5 Nc4 26. Qa2 Nd2 27. Nh4 Nxf1+ 28. Bxf1 Qg7 29. Nf5 Qf6 30. Nxe3 Rxe4 31. Bg2 Rxe3 32. Qb3 Qg5 33. g4 Qf4+ 34. Kg1 Re1+ 35. Bf1 Qxf1+ 36. Kh2 Qg1# 0-1
+

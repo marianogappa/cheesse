@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/bh3cQ1RS"]
+[White "Valsimot"]
+[Black "neurilene"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:46"]
+[WhiteElo "1874"]
+[BlackElo "1380"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 e6 3. Nf3 Bd6 4. Bg3 f6 5. e3 Nh6 6. c3 Ng4 7. Nbd2 a6 8. Bd3 O-O 9. Qc2 f5 10. Ne5 Qe7 11. Ndf3 c6 12. O-O-O Qc7 13. Nxg4 fxg4 14. Bxd6 Qxd6 15. Bxh7+ Kf7 16. Qg6+ Ke7 17. Qxg4 Nd7 18. Qxg7+ Kd8 19. Ne5 Rxf2 20. Rhf1 Re2 21. Nxd7 Bxd7 22. Rf8+ Be8 23. Bg6 Qd7 24. Rxe8+ Kc7 25. Re7 Rd8 26. Rxd7+ Rxd7 27. Qe5+ Kb6 28. Qxe6 Rg7 29. Bd3 Rgxg2 30. Bxe2 Rxe2 31. h4 a5 32. h5 a4 33. h6 Rh2 34. a3 Kb5 35. Qg6 b6 36. h7 Kc4 37. Qd3+ Kb3 38. Qg6 b5 39. Qg7 c5 40. h8=Q Rxh8 41. Qxh8 cxd4 42. exd4 Kc4 43. Qg8 b4 44. axb4 Kb3 45. Qxd5# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/w3SyOoCc"]
+[White "Zippin"]
+[Black "YudYudYud"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:14"]
+[WhiteElo "1458"]
+[BlackElo "1369"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "B07"]
+[Opening "Czech Defense"]
+[TimeControl "600+2"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. Nf3 g6 5. Bg5 Bg7 6. Qd2 h6 7. Bxf6 exf6 8. Bc4 Be6 9. b3 O-O 10. d5 cxd5 11. Nxd5 Bxd5 12. Bxd5 Na6 13. Bxb7 Nc5 14. Bxa8 Qxa8 15. Qxd6 Nxe4 16. Qd3 f5 17. Rd1 Nc3 18. Rd2 Re8+ 19. Kf1 Ne4 20. Re2 Rd8 21. Qc4 Rd1+ 22. Ne1 Nd2+ 23. Kg1 Nxc4 24. h3 Bc3 25. Kh2 Rxe1 26. Rhxe1 Bxe1 27. Rxe1 Qb8+ 28. g3 Ne5 29. c4 Nf3+ 0-1
+

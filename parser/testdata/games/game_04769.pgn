@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/xBUHgWt2"]
+[White "tacionr"]
+[Black "rs2017"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:23"]
+[WhiteElo "1959"]
+[BlackElo "1926"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Three Knights Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 e6 4. Nf3 Be7 5. e3 O-O 6. Bd3 c5 7. O-O cxd4 8. exd4 dxc4 9. Bxc4 Nc6 10. Re1 Na5 11. Bf1 Nc6 12. Bg5 Nd5 13. Nxd5 Bxg5 14. Nxg5 Qxd5 15. Qh5 h6 16. Bd3 Qxg5 17. Qxg5 hxg5 18. d5 exd5 19. Re3 0-1
+

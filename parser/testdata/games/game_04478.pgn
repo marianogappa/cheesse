@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PE0IdidH"]
+[White "romberg"]
+[Black "flash59"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:12"]
+[WhiteElo "987"]
+[BlackElo "936"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C42"]
+[Opening "Russian Game: Urusov Gambit"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nxe4 4. Qe2 Ng5 5. d3 Nxf3+ 6. Qxf3 Qg5 7. Bxf7+ Kd8 8. Bxg5+ Be7 9. Bxe7+ Kxe7 10. Bd5 Rf8 11. Qe3 Rf4 12. O-O g5 13. g4 Rxg4+ 14. Kh1 c6 15. Bf3 h5 16. Qxe5+ Kd8 17. Nd2 b5 18. b4 Na6 19. Rae1 Nxb4 20. Qh8+ Kc7 21. Qxh5 Rd4 22. c4 Nxd3 23. Re4 Rxc4 24. Nxc4 bxc4 25. Rxc4 d5 26. Rd4 Rb8 27. Rxd3 Bf5 28. Qxg5 Be4 29. Bxe4 dxe4 30. Re3 Rb5 31. Qg7+ Kb6 32. Rxe4 a5 33. h4 Rb4 34. Qe5 c5 35. h5 c4 36. h6 c3 37. Qxc3 Rxe4 38. Rb1+ Ka6 39. Qd3+ 1-0
+

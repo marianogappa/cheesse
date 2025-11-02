@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bpJe3JvD"]
+[White "SitLetto"]
+[Black "cyganm"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:01"]
+[WhiteElo "1254"]
+[BlackElo "1506"]
+[WhiteRatingDiff "-41"]
+[BlackRatingDiff "+4"]
+[ECO "C45"]
+[Opening "Scotch Game: Schmidt Variation"]
+[TimeControl "600+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Qf3 Nxd4 6. Qb3 Bb4+ 7. c3 Nxb3 8. cxb4 Nxa1 9. Bg5 h6 10. Bxf6 Qxf6 11. Bc4 0-1
+

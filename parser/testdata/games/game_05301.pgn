@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/RlDMx5y5"]
+[White "edermate"]
+[Black "hgilgamesh"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:23"]
+[WhiteElo "1520"]
+[BlackElo "1730"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "A41"]
+[Opening "Queen's Pawn"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 d6 2. Nd2 e5 3. Nb3 Nc6 4. dxe5 Bd7 5. exd6 Bxd6 6. Nf3 Qe7 7. Bg5 f6 8. Be3 O-O-O 9. Bd2 Nh6 10. e3 Ng4 11. Be2 h5 12. O-O h4 13. h3 Nge5 14. Nxe5 Qxe5 15. f4 Qe6 16. Bg4 f5 17. Bf3 g5 18. fxg5 Qe5 19. Rf2 Qh2+ 20. Kf1 Qh1+ 21. Ke2 Qh2 22. g4 Qe5 23. gxf5 Rhe8 24. Bg4 Nd4+ 25. Kf1 Nxb3 26. axb3 Kb8 27. Qf3 Bb5+ 28. Kg2 Qh2# 0-1
+

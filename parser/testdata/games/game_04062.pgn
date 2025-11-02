@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/I31bw05T"]
+[White "mateito35"]
+[Black "Masoudazarshab"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:30"]
+[WhiteElo "1627"]
+[BlackElo "1796"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Nimzowitsch System"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. a3 cxd4 6. Nxd4 Nxe5 7. Bf4 Bd6 8. Bxe5 Bxe5 9. Bb5+ Bd7 10. Bxd7+ Qxd7 11. O-O Rc8 12. c3 Ne7 13. Qd3 O-O 14. Nb5 a6 15. Nd4 Nc6 16. Nf3 Qd6 17. Nbd2 Bf4 18. b4 e5 19. Ne4 Qe6 20. Nc5 Qh6 21. Qxd5 Rcd8 22. Qe4 f5 23. Qc4+ Kh8 24. Ne6 e4 25. g3 exf3 26. Nxf8 Qh3 27. gxf4 Qg2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/KfRyr2vT"]
+[White "skyocean"]
+[Black "PaShka_61"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:11"]
+[WhiteElo "1829"]
+[BlackElo "1393"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-2"]
+[ECO "A53"]
+[Opening "Old Indian Defense"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Bg4 4. Bf4 Nbd7 5. h3 Be6 6. e3 c6 7. Qc2 h6 8. Nf3 g5 9. Bh2 Bg7 10. e4 Nh5 11. d5 cxd5 12. cxd5 Bxd5 13. exd5 Bxc3+ 14. bxc3 Rc8 15. Be2 Qc7 16. O-O Qxc3 17. Qa4 a6 18. Nxg5 hxg5 19. Bg4 O-O 20. Qxd7 Qc7 21. Qxc7 Rxc7 22. Bxh5 Rfc8 23. Bg3 f6 24. Bg4 Rd8 25. Rfc1 Rxc1+ 26. Rxc1 b5 27. Rc7 b4 28. Ra7 Rc8 29. Rxa6 Rc1+ 30. Kh2 Ra1 31. Rb6 Rxa2 32. Rxb4 Re2 33. Rb7 Kf8 34. Be6 Re5 35. Bxe5 1-0
+

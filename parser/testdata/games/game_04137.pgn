@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/D36Nuv0U"]
+[White "normansistm"]
+[Black "tryout123"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:44"]
+[WhiteElo "1673"]
+[BlackElo "1785"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 e6 3. Nf3 d5 4. exd5 exd5 5. Be2 Be6 6. O-O Bd6 7. d3 Ne7 8. Nc3 Nbc6 9. Bd2 O-O 10. Ne5 Nxe5 11. fxe5 Bxe5 12. Bg5 a6 13. Bh5 f6 14. Bh4 Qc7 15. g3 Bh3 16. Bg4 Bxf1 17. Qxf1 Ng6 18. Qh3 Nxh4 19. Qxh4 Bxc3 20. bxc3 Rae8 21. Rf1 Qe5 22. Kg2 Qxc3 23. Rf5 Qxc2+ 24. Kh3 Qxd3 25. Rh5 Re5 26. Be6+ Rxe6 0-1
+

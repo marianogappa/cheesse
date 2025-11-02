@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/rM4GlR2A"]
+[White "CptRust"]
+[Black "hahahehehih"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:58"]
+[WhiteElo "1109"]
+[BlackElo "1196"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+8"]
+[ECO "A40"]
+[Opening "Englund Gambit Declined, Reversed Alekhine"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 e5 2. Nf3 Nh6 3. h3 Nf5 4. Nxe5 f6 5. Nf3 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 d5 8. Nc3 c6 9. g4 Nh6 10. e4 dxe4 11. Nxe4 Nd7 12. Bc4 Nb6 13. Qd3 Nd5 14. O-O-O Nb4 15. Qc3 Nxa2+ 16. Kd2 Nxc3 17. Kxc3 Rf8 18. b4 f5 19. Neg5 fxg4 20. Nxh7 Rxf3+ 21. Rd3 Rxf2 22. Re1+ Kd7 23. Be6+ Kd6 24. d5 Bxe6 25. dxe6+ Ke7 26. Ng5 Qh8 27. Ne4 g5+ 28. Rd4 Rd8 29. Nxf2 Qxd4+ 30. Kb3 Qd2 31. Nd3 Nf5 32. Ka4 b5+ 33. Ka5 gxh3 34. Ka6 Qxc2 35. Ne5 0-1
+

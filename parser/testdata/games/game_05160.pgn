@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/52fpOnZJ"]
+[White "juanky"]
+[Black "brexit_is_racist"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:54"]
+[WhiteElo "1712"]
+[BlackElo "1852"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "D07"]
+[Opening "Queen's Gambit Refused: Chigorin Defense, Main Line"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. h3 Bxf3 5. gxf3 dxc4 6. Rg1 Qxd4 7. Bd2 Qxb2 8. Nc3 e5 9. Rb1 Qa3 10. Rxb7 O-O-O 11. Rb1 Bb4 12. Qc2 Rxd2 13. Qf5+ Rd7 14. e3 Qxc3+ 0-1
+

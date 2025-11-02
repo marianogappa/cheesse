@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/b3QEco9q"]
+[White "meteora041"]
+[Black "xerop"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:25"]
+[WhiteElo "1443"]
+[BlackElo "1515"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. Nc3 Bb4 3. Qd3 Bxc3+ 4. Qxc3 Nf6 5. Bg5 d5 6. Bxf6 gxf6 7. Qg3 f5 8. Qg7 Rf8 9. Qxh7 Nc6 10. O-O-O Qg5+ 11. e3 Bd7 12. Nf3 Qf6 13. Qh5 O-O-O 14. Ne1 Rh8 15. Qe2 Qg5 16. Qd3 e5 17. Qb3 Be6 18. dxe5 d4 19. Qb5 dxe3 20. fxe3 Qxe3+ 21. Kb1 Rxd1# 0-1
+

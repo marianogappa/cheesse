@@ -1,0 +1,19 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/JfygBmwN"]
+[White "HooCee"]
+[Black "GMIGURNYS"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:46"]
+[WhiteElo "2295"]
+[BlackElo "2008"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[WhiteTitle "FM"]
+[ECO "C25"]
+[Opening "Vienna Game: Vienna Gambit"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 Bc5 4. Nf3 d6 5. Bc4 a6 6. d3 Bg4 7. h3 Bxf3 8. Qxf3 Nd4 9. Qh5 g6 10. Qg4 Nxc2+ 11. Kd1 Nxa1 12. fxe5 dxe5 13. Rf1 Qe7 14. Rxf7 Qd6 15. Nd5 1-0
+

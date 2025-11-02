@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sjNS9X02"]
+[White "Masbruto"]
+[Black "crippleking"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:54"]
+[WhiteElo "1744"]
+[BlackElo "1690"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-9"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 d6 5. Nc3 Be7 6. Be3 Bd7 7. Qd2 Nf6 8. O-O-O O-O 9. f3 a6 10. g4 Be6 11. Nxe6 fxe6 12. h4 Ne5 13. Be2 Nfd7 14. Rdg1 Nxf3 15. Bxf3 Rxf3 16. g5 Ne5 17. Bf4 Qf8 18. Bxe5 dxe5 19. Qd7 Bd6 20. Qxe6+ Kh8 21. Nd5 Re8 22. Qg4 Rf2 23. b3 c6 24. Nb6 Ba3+ 25. Kb1 Rd8 26. Nc4 Bb4 27. Nxe5 Bc3 28. Nc4 Rf4 29. Qe2 Qe8 30. e5 Rxc4 31. bxc4 Rd2 32. Qe3 Qe7 33. Qxc3 Rf2 34. Rd1 1-0
+

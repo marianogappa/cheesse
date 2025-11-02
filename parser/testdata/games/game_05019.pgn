@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/2BippnLm"]
+[White "zkralla"]
+[Black "zorand77"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:19"]
+[WhiteElo "1640"]
+[BlackElo "1758"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. e3 c6 2. c3 d6 3. d4 f6 4. f3 g6 5. Bd3 Bg7 6. Ne2 Qc7 7. O-O Nd7 8. Nd2 b6 9. c4 Bb7 10. d5 c5 11. b4 Nf8 12. bxc5 dxc5 13. Rb1 e6 14. Nb3 exd5 15. cxd5 Bxd5 16. e4 Bb7 17. Bb5+ Bc6 18. Ba4 Bxa4 19. Qe1 Nd7 20. Nc3 O-O-O 21. Nd5 Qb7 22. Ne7+ Nxe7 23. e5 Nxe5 24. Bf4 Rhe8 25. Bxe5 fxe5 26. Qf2 Nf5 27. g4 Nd4 28. Qg3 Nxb3 29. Qh3 Nd2 30. g5+ Kb8 31. Rfe1 Bd7 32. Rbd1 Bxh3 33. Rxd2 Rxd2 34. Rf1 Rd1 35. Rxd1 Qxf3 36. Re1 Qg2# 0-1
+

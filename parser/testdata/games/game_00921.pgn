@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4jBcJxSn"]
+[White "MURRA37"]
+[Black "StingingBee"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:23"]
+[WhiteElo "2043"]
+[BlackElo "2036"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+12"]
+[ECO "B03"]
+[Opening "Alekhine Defense: Balogh Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Bc4 Nb6 5. Bb3 g6 6. Nf3 Bg7 7. e6 O-O 8. exf7+ Kh8 9. c3 Bg4 10. h3 Bxf3 11. Qxf3 Nc6 12. Bg5 Qd7 13. O-O e6 14. Re1 d5 15. Qg4 Rxf7 16. Qxe6 Qxe6 17. Rxe6 Raf8 18. f3 Nxd4 19. cxd4 Bxd4+ 20. Kh2 Bxb2 21. Na3 Bxa1 22. Nb5 c6 23. Nd6 Rd7 24. Bc2 Bg7 25. h4 d4 26. h5 gxh5 27. f4 Nd5 28. f5 Nf6 29. Bb3 c5 30. Bxf6 Bxf6 31. Ne4 Bg7 32. f6 Bh6 33. Nxc5 Rdf7 34. Ne4 Bf4+ 35. g3 Bc7 36. Ng5 Rxf6 37. Re7 Rf2+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/dDJpW3rD"]
+[White "MilanLukic"]
+[Black "rachidraguig"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:54"]
+[WhiteElo "1832"]
+[BlackElo "1829"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nc3 c6 3. e4 d5 4. e5 Ng8 5. Bd3 g6 6. f4 Nh6 7. Nf3 Bg4 8. O-O Nd7 9. Qe1 Bf5 10. Ng5 Bxd3 11. cxd3 e6 12. h3 Nf5 13. Qf2 Qb6 14. Ne2 c5 15. g4 Nxd4 16. Nxd4 c4 17. dxc4 h6 18. Ngf3 Nc5 19. cxd5 exd5 20. Qc2 Be7 21. f5 gxf5 22. gxf5 O-O 23. f6 Bxf6 24. exf6 Rac8 25. Bxh6 Ne4 26. Qg2+ 1-0
+

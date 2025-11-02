@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/zy0etc9F"]
+[White "jenji"]
+[Black "zokki6"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:20"]
+[WhiteElo "2043"]
+[BlackElo "2148"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "C21"]
+[Opening "Danish Gambit Declined, Sorensen Defense"]
+[TimeControl "420+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. c3 d5 4. Qxd4 Nf6 5. e5 Ne4 6. Nd2 Bc5 7. Qa4+ Bd7 8. Nxe4 Bxa4 9. Nxc5 Bc6 10. Nf3 O-O 11. Bd3 Nd7 12. Nb3 Nxe5 13. Nxe5 Re8 14. O-O Rxe5 15. Bf4 Re8 16. Nd4 Qf6 17. Bxc7 Rac8 18. Bg3 h5 19. Bf5 Rcd8 20. Bc7 Ra8 21. Rae1 Bd7 22. Bd3 Rxe1 23. Rxe1 Re8 24. Rf1 Bg4 25. f3 Bd7 26. f4 a6 27. Rf3 b5 28. Rg3 Qe7 29. Ne2 b4 30. Be5 f6 31. Bd4 bxc3 32. bxc3 h4 33. Re3 Qf7 34. h3 Rxe3 35. Bxe3 Qe6 36. Kf2 Bb5 37. Nd4 Qd7 38. Bf5 Qc7 39. Bd2 g5 40. g3 hxg3+ 41. Kxg3 gxf4+ 42. Kg4 Qg7+ 43. Kf3 Qg3# 0-1
+

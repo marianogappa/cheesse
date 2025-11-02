@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OlvmWLQ6"]
+[White "josemi88"]
+[Black "dwarf66"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:10"]
+[WhiteElo "1841"]
+[BlackElo "1915"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "D03"]
+[Opening "Queen's Pawn Game: Torre Attack, Gossip Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bg5 Ne4 4. Bf4 g6 5. e3 Bg7 6. c3 O-O 7. Bd3 Nd6 8. Nbd2 b6 9. Bxd6 Qxd6 10. O-O Bb7 11. Re1 c5 12. dxc5 bxc5 13. e4 d4 14. cxd4 cxd4 15. Nc4 Qd7 16. b3 Nc6 17. Rc1 e5 18. Ncd2 Rac8 19. Qe2 Nb4 20. Nc4 Nxd3 21. Qxd3 f6 22. Nb2 Bh6 23. Rxc8 Rxc8 24. h3 Rc3 25. Qe2 Qc6 26. Nc4 Ba6 27. Nfd2 Bxd2 28. Nxd2 Bxe2 0-1
+

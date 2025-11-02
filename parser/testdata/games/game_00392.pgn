@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/CS3YyI2u"]
+[White "jortega"]
+[Black "Richard10"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:22"]
+[WhiteElo "1771"]
+[BlackElo "1734"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 h6 5. Bd3 Nf6 6. O-O Be7 7. c4 c6 8. Nc3 Be6 9. cxd5 Nxd5 10. Ne4 O-O 11. a3 Nd7 12. Qc2 N5f6 13. Re1 Bd5 14. b3 Nxe4 15. Bxe4 Nf6 16. Bxd5 Nxd5 17. Bb2 Bd6 18. Ne5 Qh4 19. Re4 Qf6 20. Nd7 Qf5 21. Nxf8 Nf6 22. Re5 Bxe5 23. Qxf5 1-0
+

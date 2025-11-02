@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/DKCqlP1R"]
+[White "ZelimChess"]
+[Black "sarloro2121"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:31"]
+[WhiteElo "1284"]
+[BlackElo "1351"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+13"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.18] } 1... d5 { [%eval 0.21] } 2. e3 { [%eval 0.12] } 2... Nc6 { [%eval 0.39] } 3. Bb5 { [%eval 0.29] } 3... Bd7 { [%eval 0.37] } 4. Nc3 { [%eval -0.03] } 4... a6 { [%eval 0.04] } 5. Bxc6 { [%eval 0.0] } 5... Bxc6 { [%eval 0.12] } 6. Nf3 { [%eval -0.13] } 6... Nf6 { [%eval 0.15] } 7. Ne5 { [%eval 0.16] } 7... h5 { [%eval 0.6] } 8. Qf3 { [%eval 0.44] } 8... Rh6 { [%eval 0.88] } 9. Nxc6 { [%eval 0.74] } 9... bxc6 { [%eval 0.72] } 10. e4 { [%eval 0.48] } 10... dxe4 { [%eval 0.46] } 11. Nxe4 { [%eval 0.3] } 11... Rg6 { [%eval 0.62] } 12. Nxf6+ { [%eval 0.19] } 12... Rxf6 { [%eval 0.36] } 13. Qxh5 { [%eval 0.14] } 13... g6? { [%eval 1.18] } 14. Qe2?! { [%eval 0.32] } 14... Re6 { [%eval 0.52] } 15. Be3 { [%eval 0.43] } 15... Bh6?! { [%eval 1.08] } 16. O-O-O?! { [%eval 0.31] } 16... Bxe3+?! { [%eval 1.19] } 17. fxe3 { [%eval 1.09] } 17... Qxd4?? { [%eval 14.16] } 18. exd4?? { [%eval 0.19] } 18... Rxe2 { [%eval 0.29] } 19. Rhg1?! { [%eval -0.33] } 19... Rd8 { [%eval -0.24] } 20. c3?! { [%eval -1.16] } 20... c5?! { [%eval -0.38] } 21. Rge1? { [%eval -1.54] } 21... Rxe1 { [%eval -1.08] } 22. Rxe1 { [%eval -1.01] } 22... cxd4 { [%eval -0.96] } 23. cxd4 { [%eval -1.22] } 23... Rxd4 { [%eval -1.1] } 24. b3 { [%eval -1.25] } 24... f6 { [%eval -1.25] } 25. Kb1? { [%eval -2.29] } 25... e5 { [%eval -1.94] } 26. Rc1 { [%eval -2.08] } 26... Rd7?! { [%eval -1.26] } 27. g4? { [%eval -2.56] } 27... e4 { [%eval -2.41] } 28. h3? { [%eval -3.52] } 28... f5 { [%eval -3.22] } 29. gxf5? { [%eval -4.29] } 29... gxf5 { [%eval -3.93] } 30. h4? { [%eval -5.49] } 30... Rh7?? { [%eval -2.39] } 31. Rh1? { [%eval -4.14] } 31... f4 { [%eval -3.17] } 32. a4?? { [%eval -15.9] } 32... e3 { [%eval -13.81] } 33. b4 { [%eval -29.87] } 33... f3 { [%eval -23.31] } 34. b5?! { [%eval #-15] } 34... e2?! { [%eval -17.04] } 35. bxa6?! { [%eval #-11] } 35... f2 { [%eval #-10] } 36. a7 { [%eval #-9] } 36... e1=Q+ { [%eval #-8] } 37. Rxe1+ { [%eval #-8] } 37... fxe1=Q+ { [%eval #-7] } 38. Kb2 { [%eval #-7] } 38... Qe2+ { [%eval #-7] } 39. Kb1 { [%eval #-6] } 39... Qa6 { [%eval #-6] } 40. a8=Q+ { [%eval #-5] } 40... Qxa8 { [%eval #-4] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/sEUZlHbO"]
+[White "GaryTopalov"]
+[Black "fredondo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:12"]
+[WhiteElo "2117"]
+[BlackElo "1683"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+[ECO "D02"]
+[Opening "Queen's Gambit Refused: Baltic Defense, Pseudo-Slav"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.12] } 1... c6 { [%eval 0.43] } 2. c4 { [%eval 0.25] } 2... d5 { [%eval 0.33] } 3. Nc3 { [%eval 0.33] } 3... Bf5 { [%eval 0.75] } 4. Nf3 { [%eval 0.29] } 4... e6 { [%eval 0.31] } 5. cxd5 { [%eval 0.14] } 5... cxd5 { [%eval 0.37] } 6. Qb3 { [%eval 0.38] } 6... Qb6 { [%eval 0.4] } 7. Qxb6 { [%eval 0.44] } 7... axb6 { [%eval 0.44] } 8. Bf4 { [%eval 0.45] } 8... Nc6 { [%eval 0.37] } 9. e3 { [%eval 0.31] } 9... Nf6 { [%eval 0.34] } 10. Bb5 { [%eval 0.31] } 10... Be7?! { [%eval 1.28] } 11. Ne5 { [%eval 1.14] } 11... Rc8 { [%eval 1.33] } 12. Rc1?! { [%eval 0.67] } 12... O-O { [%eval 0.78] } 13. a3?! { [%eval -0.11] } 13... Nxe5 { [%eval 0.0] } 14. Bxe5 { [%eval -0.05] } 14... Rfd8?! { [%eval 0.75] } 15. f3 { [%eval 0.69] } 15... Bd6?! { [%eval 1.68] } 16. Bxd6 { [%eval 1.57] } 16... Rxd6 { [%eval 1.58] } 17. Kd2 { [%eval 1.5] } 17... Nd7? { [%eval 2.68] } 18. Bxd7 { [%eval 2.48] } 18... Rxd7 { [%eval 2.54] } 19. Ne2? { [%eval 0.67] } 19... Bg6?? { [%eval #2] } 20. Rxc8+ { [%eval #1] } 1-0
+

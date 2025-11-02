@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bjYZb4mS"]
+[White "facuacu"]
+[Black "Zeitgeist12345"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:24"]
+[WhiteElo "1409"]
+[BlackElo "1411"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nc6 3. Qh5 Qf6 4. d3 g6 5. Qf3 Bb4+ 6. c3 Be7 7. h4 d6 8. Bg5 Qxf3 9. Nxf3 Bg4 10. Bxe7 Ngxe7 11. Ng5 O-O 12. f3 h6 13. fxg4 hxg5 14. hxg5 Kg7 15. Nd2 Rh8 16. O-O-O a6 17. a4 Na5 18. Rxh8 Rxh8 19. d4 Rh4 20. Be2 c6 21. g3 Rh3 22. Rg1 exd4 23. cxd4 Rh2 24. Bf3 d5 25. b4 Nc4 26. Nxc4 dxc4 27. Rg2 Rh8 28. Kc2 b5 29. a5 Rf8 30. Kc3 f6 31. gxf6+ Rxf6 32. Rf2 Nc8 33. e5 Rf8 34. e6 Kf6 35. Bxc6+ Ke7 36. Rxf8 Kxf8 37. d5 Nd6 38. Kd4 Ke7 39. Ke5 Ne8 40. Bxe8 Kxe8 41. d6 Kd8 42. Kf6 c3 43. d7 c2 44. Kf7 c1=Q 45. e7+ Kxd7 46. e8=Q+ Kd6 47. Qd8+ Ke5 48. Qc7+ Kd5 0-1
+

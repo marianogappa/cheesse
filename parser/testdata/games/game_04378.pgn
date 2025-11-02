@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/GMjJkIlw"]
+[White "mecitaydin"]
+[Black "ugulmezoglu"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:52"]
+[WhiteElo "1648"]
+[BlackElo "1772"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-15"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 e6 4. Bd3 Nf6 5. Nc3 d6 6. h4 O-O 7. h5 Nfd7 8. hxg6 fxg6 9. Be3 d5 10. Qd2 dxe4 11. Nxe4 Nc6 12. Bh6 e5 13. Bxg7 Kxg7 14. Qh6+ Kg8 15. Qxh7# 1-0
+

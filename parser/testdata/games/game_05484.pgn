@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jqbsRJnZ"]
+[White "Cowlinn"]
+[Black "tirek1982"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:10"]
+[WhiteElo "1253"]
+[BlackElo "1394"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C68"]
+[Opening "Ruy Lopez: Exchange Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nxe5 Bd6 6. Qf3 Bxe5 7. d3 Be6 8. Bf4 f6 9. Bxe5 fxe5 10. Qh5+ g6 11. Qxe5 Qd6 12. Qxh8 O-O-O 13. Qxh7 Nf6 14. Qxg6 Ng4 15. O-O Qxh2# 0-1
+

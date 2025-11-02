@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tt20zNkA"]
+[White "serch7319"]
+[Black "adampekar"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:50"]
+[WhiteElo "1678"]
+[BlackElo "1702"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 4. dxe5 Bxf3 5. Qxf3 dxe5 6. Qb3 b6 7. Bc4 Qe7 8. Nc3 g6 9. Nd5 Qd7 10. Be3 Ne7 11. Nf6+ Kd8 12. Nxd7 Nxd7 13. O-O-O f6 14. Be6 1-0
+

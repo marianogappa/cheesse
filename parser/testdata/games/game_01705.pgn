@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/MZcfCtfZ"]
+[White "wyyysotski"]
+[Black "polaniec"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:30"]
+[WhiteElo "1832"]
+[BlackElo "1731"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. Nf3 c5 3. c4 cxd4 4. Nxd4 Bc5 5. e4 Qf6 6. Be3 e5 7. Nb5 Bxe3 8. Nc7+ Kd8 9. Nxa8 Qxf2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/95gCMIWH"]
+[White "Mueremalnacido"]
+[Black "gruendel3"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:56"]
+[WhiteElo "1888"]
+[BlackElo "1329"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nc6 4. dxe5 dxe5 5. Qxd8+ Nxd8 6. Nxe5 Bd6 7. Nc4 Nc6 8. Nxd6+ cxd6 9. Bb5 Nf6 10. O-O O-O 11. Nc3 a6 12. Ba4 b5 13. Bb3 Nd4 14. Bg5 Nxb3 15. axb3 b4 16. Bxf6 gxf6 17. Nd5 Kg7 18. Nxb4 Rb8 19. Nxa6 Rb4 20. Nxb4 Bb7 21. Nd5 f5 22. f3 fxe4 23. fxe4 Bc8 24. Rf6 Be6 25. Raf1 Bxd5 26. exd5 Re8 27. Rxf7+ Kh6 28. R1f6+ Kg5 29. g3 Re1+ 30. Kg2 Re2+ 31. Rf2 Re5 32. h4+ Kg4 33. R2f4+ Kh5 34. R7f5+ Kg6 35. Rxe5 dxe5 36. Rf1 e4 37. d6 e3 38. d7 e2 39. Re1 h5 40. Rxe2 Kf5 41. d8=Q Kg4 42. Qg8+ Kf5 43. Qf7+ Kg4 44. Re4# 1-0
+

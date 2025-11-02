@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/LrL6oNXB"]
+[White "torodan"]
+[Black "Urugup68"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:06"]
+[WhiteElo "1279"]
+[BlackElo "1030"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+18"]
+[ECO "C00"]
+[Opening "Rat Defense: Small Center Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.14] } 1... d6 { [%eval 0.51] } 2. d4 { [%eval 0.43] } 2... e6 { [%eval 0.54] } 3. Nf3 { [%eval 0.65] } 3... Qe7?! { [%eval 1.16] } 4. Bd3 { [%eval 0.83] } 4... e5 { [%eval 0.88] } 5. d5 { [%eval 0.79] } 5... g6 { [%eval 0.84] } 6. Nc3 { [%eval 0.57] } 6... Bg7 { [%eval 0.59] } 7. Bg5 { [%eval 0.56] } 7... Bf6 { [%eval 0.8] } 8. Bxf6 { [%eval 0.38] } 8... Qxf6 { [%eval 0.8] } 9. Qd2 { [%eval 0.75] } 9... Ne7 { [%eval 0.87] } 10. Qg5? { [%eval -0.17] } 10... Qxg5 { [%eval -0.14] } 11. Nxg5 { [%eval -0.16] } 11... h6 { [%eval -0.07] } 12. Nf3 { [%eval -0.06] } 12... h5?! { [%eval 0.58] } 13. h3 { [%eval 0.16] } 13... Na6 { [%eval 0.5] } 14. Nb5?! { [%eval -0.14] } 14... O-O { [%eval 0.31] } 15. Nc3 { [%eval -0.04] } 15... Nc5 { [%eval 0.09] } 16. Be2 { [%eval -0.21] } 16... f5 { [%eval -0.22] } 17. exf5 { [%eval -0.32] } 17... Nxf5 { [%eval -0.09] } 18. Ng5 { [%eval -0.4] } 18... Nh4?! { [%eval 0.53] } 19. b4? { [%eval -0.99] } 19... Nd7? { [%eval 0.9] } 20. g3 { [%eval 1.0] } 20... Ng2+? { [%eval 2.32] } 21. Kd2 { [%eval 2.18] } 21... Rxf2?! { [%eval 3.16] } 0-1
+

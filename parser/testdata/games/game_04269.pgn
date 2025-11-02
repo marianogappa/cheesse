@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QXyPSWHv"]
+[White "alefar"]
+[Black "francjanez"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:19"]
+[WhiteElo "1655"]
+[BlackElo "1597"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. Nf3 Ne7 3. Bg5 Ng6 4. Bxd8 Kxd8 5. Ne5 Nxe5 6. dxe5 d6 7. f4 d5 8. e3 Nc6 9. c4 Bb4+ 10. Nc3 d4 11. exd4 Bd7 12. a3 Bxc3+ 13. bxc3 Ne7 14. d5 exd5 15. cxd5 Nf5 16. a4 Re8 17. e6 fxe6 18. dxe6 Rxe6+ 19. Be2 Ne3 20. Qb3 Nxg2+ 21. Kf2 Nxf4 22. Bg4 Rf6 23. Rad1 Nd3+ 24. Ke3 Nc5 25. Qg8+ Ke7 26. Qxg7+ Rf7 27. Qg5+ Kf8 28. Qxc5+ Kg8 29. Qg5+ Kh8 30. Bxd7 Raf8 31. Qe5+ Rf6 32. Rhg1 h6 33. Rdf1 Rg8 34. Rxf6 Rxg1 35. Rxh6+ Kg8 36. Be6+ Kf8 37. Rh8+ Ke7 38. Rh7+ Kf8 39. Qh8+ Rg8 40. Qxg8# 1-0
+

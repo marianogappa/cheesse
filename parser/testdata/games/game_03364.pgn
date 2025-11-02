@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/k8SjTWy5"]
+[White "gitro"]
+[Black "dcgcs"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:46"]
+[WhiteElo "1590"]
+[BlackElo "1632"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 d6 4. d5 Nce7 5. Bb5+ Bd7 6. Bc4 Bg4 7. Qd3 Nf6 8. h3 Bxf3 9. Qxf3 Ng6 10. Bb5+ Nd7 11. O-O a6 12. Bxd7+ Qxd7 13. Nc3 O-O-O 14. Be3 Be7 15. a4 Rhf8 16. b4 f5 17. b5 fxe4 18. Qxe4 a5 19. b6 Nf4 20. Nb5 Ne2+ 21. Kh1 Bg5 22. Na7+ Kb8 23. Bxg5 Rxf2 24. bxc7+ Kxc7 25. Nb5+ Kb8 26. Bxd8 Ng3+ 27. Kh2 Nxe4 28. Bxa5 Rxf1 29. Rxf1 b6 30. Rf8+ Kb7 31. Bb4 Ng5 32. Nxd6+ Kc7 33. Nb5+ Kb7 34. Bd6 e4 35. Rb8+ Ka6 36. Bf4 Ka5 37. Bxg5 Kxa4 38. Nc3+ Kb4 39. Nxe4 Qc7+ 40. g3 Qxb8 41. Bf4 Qe8 42. Bd6+ Kb5 43. c3 Qxe4 0-1
+

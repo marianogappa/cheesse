@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iNWL0lfG"]
+[White "Peter_I"]
+[Black "gap109"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:35"]
+[WhiteElo "1258"]
+[BlackElo "1436"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer Gambit: Zeller Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Bf5 4. f3 exf3 5. Qxf3 e6 6. Bf4 Bd6 7. O-O-O Nf6 8. d5 Bxf4+ 9. Qxf4 Bg4 10. Rd2 O-O 11. h3 Bh5 12. g4 Bg6 13. h4 h6 14. h5 Bh7 15. g5 Nxd5 16. Nxd5 exd5 17. g6 fxg6 18. Qb4 Rxf1+ 19. Rd1 Rxd1+ 20. Kxd1 g5 21. c4 dxc4+ 22. Kc1 Qd3 23. Nh3 Qc2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/FdBEy4Cc"]
+[White "gala22"]
+[Black "OsmirBrasil"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:56"]
+[WhiteElo "1922"]
+[BlackElo "1926"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Positional Variation #2"]
+[TimeControl "900+5"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Nbd7 6. Nf3 c6 7. Ne5 Bd6 8. Nxd7 Bxd7 9. e4 dxe4 10. Nxe4 Be7 11. Qb3 Bc8 12. Nxf6+ Bxf6 13. Bxf6 Qxf6 14. Qe3+ Be6 15. Bd3 O-O-O 16. O-O Qxd4 17. Qxd4 Rxd4 18. Rfd1 g6 19. b3 Rhd8 20. Bc2 Rd2 21. Rac1 Re2 22. Rxd8+ Kxd8 23. Rd1+ Kc7 24. Bb1 Rb2 25. f3 a5 26. Kf1 a4 27. bxa4 Rb4 28. Bc2 Bxa2 29. Re1 Be6 30. Ke2 Rb2 31. Kd2 Bf5 32. Rc1 Rxc2+ 33. Rxc2 Bxc2 34. Kxc2 Kb6 35. Kc3 Ka5 36. Kb3 f5 37. g3 g5 38. h3 f4 39. gxf4 gxf4 40. h4 h5 41. Ka3 c5 42. Kb3 b6 43. Kc4 Kxa4 44. Kd5 Kb4 45. Ke4 c4 46. Kxf4 c3 47. Ke3 Kb3 48. f4 c2 49. f5 c1=Q+ 50. Ke4 Kc3 51. f6 Qe1+ 52. Kf5 Qb1+ 53. Kg5 Qh7 54. Kf4 Kd4 55. Kg5 b5 56. f7 Qxf7 57. Kh6 Ke5 58. Kg5 Qf4+ 59. Kxh5 Ke6 60. Kg6 Qg4+ 61. Kh6 Kf7 62. h5 Qg7# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/LIZP0wUF"]
+[White "Cauchy_schwarz"]
+[Black "chessgermz"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:55"]
+[WhiteElo "1198"]
+[BlackElo "1232"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+25"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. d5 c5 3. b3 exd5 4. Qxd5 Nf6 5. Qe5+ Qe7 6. Qe3 Nc6 7. c3 Qxe3 8. Bxe3 Bd6 9. g3 b6 10. Bg2 Bb7 11. Nf3 O-O 12. O-O b5 13. Nbd2 b4 14. c4 Ng4 15. Rad1 Nxe3 16. fxe3 Rfe8 17. Kf2 Re7 18. Ng5 Rae8 19. Nge4 Ne5 20. Nxd6 Ng4+ 21. Ke1 Bxg2 22. Rf4 Nxe3 23. Nxe8 Nxd1 24. Kxd1 Rxe8 25. Rf5 d6 26. e4 g6 27. Rf6 Kg7 28. Rxd6 Bxe4 29. Nxe4 Rxe4 30. Rc6 Re5 31. h4 Kh6 32. Rc7 f5 33. Rxa7 Kh5 34. a3 bxa3 35. Rxa3 Kg4 36. Ra4 Kxg3 37. b4 cxb4 38. Rxb4 f4 39. Rb8 f3 40. Rc8 Kg2 41. c5 f2 42. c6 f1=Q+ 43. Kd2 Qf3 44. c7 Re2+ 45. Kd1 Qf1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/iybYFDBM"]
+[White "faridov"]
+[Black "rtf92"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:55"]
+[WhiteElo "1272"]
+[BlackElo "1264"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[TimeControl "600+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Bc5 3. Bc4 Nf6 4. Ng5 O-O 5. d3 Ng4 6. O-O Qxg5 7. Bxg5 Nc6 8. Nc3 Nd4 9. Qxg4 Nxc2 10. Rab1 d5 11. Bxd5 Bxg4 12. Bxb7 Rad8 13. Nd5 f6 14. a3 fxg5 15. h3 Be2 16. Rfc1 Bxf2+ 17. Kh2 Bxd3 18. Nb4 Nxb4 19. axb4 Bxb1 20. Rxb1 Rd4 21. Bd5+ Kh8 22. Rf1 Be3 23. Rxf8# 1-0
+

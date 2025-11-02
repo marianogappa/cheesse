@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ElszGcN5"]
+[White "Donaldnecesito"]
+[Black "Pescer"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:41"]
+[WhiteElo "1969"]
+[BlackElo "1854"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "C64"]
+[Opening "Ruy Lopez: Classical Variation, Central Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 d6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 Bd7 8. O-O a6 9. Bd3 h6 10. a3 Bxc3 11. bxc3 Nge7 12. Re1 O-O 13. Rb1 d5 14. e5 Rb8 15. Bc2 Bf5 16. Bf4 Na5 17. h3 Nc4 18. Rb3 Bxc2 19. Qxc2 b5 20. g4 c6 21. g5 h5 22. e6 Rc8 23. Qe2 Kh8 24. exf7 Rxf7 25. Ne5 Rf5 26. Qxh5+ Kg8 27. Bg3 Nd2 28. Rb2 Ne4 29. Rbe2 Rxg5 30. Qf7+ Kh7 31. Rxe4 dxe4 32. Rxe4 Nf5 33. h4 Rc7 34. hxg5 Rxf7 35. g6+ Kg8 36. gxf7+ Kf8 37. Nxc6 Qg5 38. Nd8 Qxd8 39. Re8+ Qxe8 40. fxe8=Q+ Kxe8 41. Kg2 Kf7 42. Kf3 Ke6 43. Ke4 g6 44. d5+ Kf6 45. Be5+ Ke7 46. f4 Kd7 47. Bb8 Ke7 48. Ke5 Kd7 49. d6 Ne3 50. Kf6 Nd5+ 51. Kxg6 Nxf4+ 52. Kf6 Ne2 53. Ke5 Nxc3 54. Kd4 Nb1 55. Kc5 Nxa3 56. Kb6 Nc4+ 57. Kxa6 Nxd6 58. Kb6 Nc8+ 59. Kxb5 1/2-1/2
+

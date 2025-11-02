@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/LM27BvlL"]
+[White "vilalex"]
+[Black "LMarcanivel"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:01"]
+[WhiteElo "1889"]
+[BlackElo "1901"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation #2"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. b3 Nc6 6. Nf3 cxd4 7. Nxd4 Nxe5 8. Bb5+ Bd7 9. Bxd7+ Nxd7 10. O-O Ngf6 11. Be3 Bc5 12. b4 Bxd4 13. Bxd4 Qc7 14. Qf3 O-O 15. Nd2 e5 16. Be3 Qxc3 17. a3 d4 18. Bg5 Qxf3 19. Nxf3 Rac8 20. Rfe1 Rfe8 21. h3 Nd5 22. Bh4 f6 23. Bg3 Kf7 24. Rad1 Rc3 25. Ra1 Rec8 26. Kh2 N7b6 27. Nd2 Na4 28. Ne4 Rc2 29. Nd6+ Ke6 30. Nxc8 Rxc8 31. Rad1 Nac3 32. Rxd4 a6 33. Rd3 b5 34. f4 e4 35. Rd4 f5 36. Rc1 Re8 37. Rc2 e3 38. Be1 Ne4 39. Rc6+ Nd6 40. Rxa6 Rc8 41. a4 Rc1 42. Bh4 e2 43. axb5 e1=Q 44. Bxe1 Rxe1 45. b6 Nb7 46. Ra7 Nxb6 47. Rxb7 Nd5 48. Rxg7 Re4 49. Rxe4+ fxe4 50. Kg1 Nxb4 51. Rxh7 e3 52. Kf1 Nd3 53. Ke2 Nxf4+ 54. Kxe3 Nxg2+ 55. Kf3 Ne1+ 56. Ke4 Ng2 57. h4 Kf6 58. Kf3 Kg6 59. Rh8 Kg7 60. Rh5 Ne1+ 61. Kg4 Nd3 62. Rg5+ Kh7 63. h5 Nf2+ 64. Kf5 Kh6 65. Rg2 Nh3 66. Kg4 Ng5 67. Ra2 Nf7 68. Ra6+ Kh7 69. Kf5 Nh6+ 70. Kg5 Nf7+ 71. Kf6 Nh6 72. Ra7+ Kh8 73. Kg6 Ng4 74. Ra8# 1-0
+

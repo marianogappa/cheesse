@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/X908qpYr"]
+[White "Anthony1221"]
+[Black "sawyerdimeo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:55"]
+[WhiteElo "1078"]
+[BlackElo "1076"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-31"]
+[ECO "C20"]
+[Opening "King's Pawn Game"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.23] } 1... e5 { [%eval 0.45] } 2. g4? { [%eval -1.25] } 2... Nf6?! { [%eval -0.45] } 3. c4? { [%eval -1.55] } 3... Nxe4 { [%eval -1.49] } 4. d3 { [%eval -1.48] } 4... Nd6?! { [%eval -0.88] } 5. d4?! { [%eval -1.65] } 5... exd4 { [%eval -1.46] } 6. c5?! { [%eval -2.33] } 6... Nb5? { [%eval 0.18] } 7. Bxb5 { [%eval 0.06] } 7... c6?! { [%eval 0.73] } 8. Bc4? { [%eval -0.58] } 8... Bxc5 { [%eval -0.45] } 9. Qf3?! { [%eval -1.22] } 9... O-O { [%eval -1.0] } 10. Nh3 { [%eval -1.33] } 10... d5 { [%eval -1.05] } 11. Bb3? { [%eval -2.4] } 11... Be6? { [%eval -0.66] } 12. Ng5?! { [%eval -1.29] } 12... Bd7 { [%eval -1.04] } 13. Rg1?! { [%eval -1.7] } 13... Bb4+?! { [%eval -0.83] } 14. Bd2? { [%eval -3.37] } 14... Bxd2+ { [%eval -3.19] } 15. Nxd2 { [%eval -3.51] } 15... Qe8+?? { [%eval 0.47] } 16. Kd1?! { [%eval -0.38] } 16... Be6? { [%eval 2.37] } 17. Re1? { [%eval 0.1] } 17... Bc8?? { [%eval 23.8] } 18. Bc2?? { [%eval 6.99] } 18... Qd8? { [%eval 9.66] } 19. Nxh7?? { [%eval 1.56] } 19... Nd7? { [%eval 3.59] } 20. Nxf8 { [%eval 3.04] } 20... Ne5?? { [%eval 10.22] } 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xZdu5AFz"]
+[White "willy-jamz"]
+[Black "jlund3"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:06"]
+[WhiteElo "1279"]
+[BlackElo "1214"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+13"]
+[ECO "C20"]
+[Opening "King's Pawn Game: King's Head Opening #2"]
+[TimeControl "360+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. f3 Nf6 3. Ne2 d5 4. d3 dxe4 5. fxe4 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 Nc6 8. Nbc3 Nd4 9. Nxd4 exd4 10. Nb5 a6 11. Na3 O-O 12. O-O-O Ng4 13. Nc4 Be6 14. Qf4 Bxc4 15. Qxg4 Be6 16. Qg3 Qd6 17. Qf2 c5 18. g3 Bg4 19. Re1 Qf6 20. Qd2 h6 21. e5 Qf5 22. Bg2 Rae8 23. Bxb7 Rxe5 24. Rhf1 Qe6 25. Be4 f5 26. Bb7 Rxe1+ 27. Rxe1 Qxa2 28. c3 Rb8 29. Re7 Qa1+ 30. Kc2 Kf8 31. Rc7 Qa4+ 32. Kb1 Qb3 33. Qc1 Rxb7 34. Rxb7 Qxb7 35. Qf4 Qh1+ 36. Ka2 Qxh2 37. Qb8+ Kf7 38. Qb7+ Kg6 39. Qxa6+ Kh7 40. cxd4 cxd4 41. Qd6 Qf2 42. Qe5 Qf3 43. Qxd4 Qxg3 44. Qd6 Qxd6 45. Kb1 Qxd3+ 46. Ka2 Qb5 47. Kb1 f4 48. Kc1 f3 49. Kd1 f2+ 50. Kd2 f1=Q 0-1
+

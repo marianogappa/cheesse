@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ySCAmGFN"]
+[White "fatdoomguy"]
+[Black "pldn"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:32"]
+[WhiteElo "1262"]
+[BlackElo "1337"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+[ECO "A45"]
+[Opening "Paleface Attack"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. f3 c5 3. c3 cxd4 4. cxd4 d5 5. Nc3 e6 6. e4 dxe4 7. fxe4 Bb4 8. Ne2 Nxe4 9. Qd3 Bxc3+ 10. Nxc3 Qh4+ 11. g3 Qg4 12. Nxe4 Nc6 13. Qe2 Qg6 14. Nd6+ Ke7 15. Nxc8+ Raxc8 16. Bg2 Nxd4 17. Qe4 Qxe4+ 18. Bxe4 Nc2+ 19. Bxc2 Rxc2 20. O-O Rhc8 21. Bg5+ f6 22. Be3 a6 23. b3 b5 24. Rfc1 Rxc1+ 25. Rxc1 Rxc1+ 26. Bxc1 f5 27. Kf2 Kf6 28. Kf3 g5 29. Be3 g4+ 30. Kf2 h5 31. Bb6 Ke5 32. Bc7+ Ke4 33. Bf4 Kd3 34. a3 Kc3 35. b4 Kb3 36. Bc1 Kc2 37. Bf4 Kb3 38. Bc1 Kc2 39. Be3 Kb3 40. Bd2 Kxa3 41. Ke3 Ka4 42. Kf4 Kb3 43. Ke5 Kc4 44. Kxe6 Kd3 45. Be1 Ke2 46. Bc3 Kf3 47. Kxf5 Kg2 48. Kg5 Kxh2 49. Kxh5 Kxg3 50. Kg5 Kf3 51. Be5 Ke4 52. Bh2 Kf3 53. Kh4 Ke4 54. Kxg4 Kd3 55. Bc7 Kc4 56. Kf4 Kxb4 57. Ke3 a5 58. Kd2 a4 59. Kc1 a3 60. Kb1 Kb3 61. Be5 a2+ 62. Ka1 b4 63. Bf6 Ka3 64. Be5 b3 65. Bf6 Kb4 66. Be5 Kc4 67. Bf6 Kd3 68. Bh8 Kc2 69. Bg7 b2+ 70. Bxb2 Kb3 71. Bh8 Ka3 72. Bg7 Kb3 73. Bh8 Ka3 74. Bg7 Kb3 75. Bh8 1/2-1/2
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/8J2yFVdR"]
+[White "Viu"]
+[Black "topins"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:45"]
+[WhiteElo "1817"]
+[BlackElo "1701"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 e6 6. Bg5 Bb4 7. Bc4 h6 8. Bxf6 Qxf6 9. O-O O-O 10. Ne4 Qe7 11. c3 Bd6 12. Qc2 c5 13. Rfe1 a6 14. a4 Bd7 15. Rad1 b5 16. axb5 axb5 17. Bd3 c4 18. Bf1 Nc6 19. Nxd6 Qxd6 20. g3 Ne7 21. Bg2 Bc6 22. b3 Bd5 23. bxc4 Bxc4 24. Ne5 Ra2 25. Qb1 Qa6 26. Nxc4 bxc4 27. Re5 Nd5 28. Bxd5 exd5 29. Rxd5 Ra8 30. Rb5 Qf6 31. Rb8+ Rxb8 32. Qxb8+ Kh7 33. Qb1+ g6 34. Qxa2 Qf3 35. Qd2 Kg7 36. Re1 Qd5 37. Qe3 h5 38. Qe5+ Qxe5 39. Rxe5 f6 40. Rc5 Kf7 41. Rxc4 Ke6 42. Rc5 Kd6 43. f3 g5 44. Kf2 h4 45. Ke3 hxg3 46. hxg3 1-0
+

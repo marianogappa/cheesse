@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/44neWj26"]
+[White "Mesa-Boogie"]
+[Black "ditkin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:50"]
+[WhiteElo "2458"]
+[BlackElo "2273"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Wing Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. b4 cxb4 3. d4 d5 4. e5 Nc6 5. a3 Bf5 6. g4 Bg6 7. e6 fxe6 8. axb4 Nxb4 9. Bb5+ Nc6 10. Nf3 Be4 11. O-O Nf6 12. Ne5 Nd7 13. Nxc6 bxc6 14. Bxc6 Rc8 15. f3 Bg6 16. Ra6 h5 17. Qe2 hxg4 18. fxg4 e5 19. Nc3 e6 20. Nxd5 exd5 21. Qxe5+ Be7 22. Qxg7 Rxc6 23. Rxc6 Nf8 24. Rxg6 Qd7 25. Bg5 1-0
+

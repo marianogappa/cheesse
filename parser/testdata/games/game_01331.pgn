@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/wzg3r9k1"]
+[White "Erfgbrez"]
+[Black "hawamda"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:58"]
+[WhiteElo "1619"]
+[BlackElo "1612"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 c5 6. Nf3 Nc6 7. Be3 Be6 8. Qd2 g6 9. a3 Bg7 10. O-O-O O-O 11. h3 a6 12. g4 b5 13. Rg1 b4 14. axb4 cxb4 15. Nd5 Nxe4 16. Qd3 f5 17. gxf5 Bxf5 18. Qb3 Na5 19. Qa2 Be6 20. Bd4 Bxd4 21. Rxd4 Nxf2 22. Qa4 Rxf3 23. Bg2 Qg5+ 24. Kb1 Nxh3 25. Bxf3 Qxg1+ 26. Ka2 Qxd4 27. Qxa5 Nf4 28. Ka1 Bxd5 29. Bxd5+ Nxd5 0-1
+

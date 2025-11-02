@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/OClWtiTm"]
+[White "meegag"]
+[Black "tomaspablo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:33"]
+[WhiteElo "1420"]
+[BlackElo "1573"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nge7 5. Bc4 g6 6. Nxc6 Nxc6 7. Qd5 Qe7 8. h4 d6 9. Bg5 f6 10. Be3 Be6 11. Qd3 Ne5 12. Qe2 Bxc4 13. Qd2 O-O-O 14. Bxa7 b6 15. Nc3 Nc6 16. Nd5 Bxd5 17. O-O-O Bxe4 18. Bxb6 cxb6 19. Rhe1 f5 20. Qc3 Kb7 21. Qxh8 Bh6+ 22. f4 Bxf4+ 23. Kb1 Rxh8 24. a4 Nb4 25. Rc1 Bxc1 0-1
+

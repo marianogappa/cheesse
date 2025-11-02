@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/cnK6kDGg"]
+[White "Dmitry90"]
+[Black "andyisyoda"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:53"]
+[WhiteElo "1603"]
+[BlackElo "1715"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "B07"]
+[Opening "Pirc Defense #4"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nf3 Nd7 3. c3 e5 4. d4 h6 5. Be3 Ngf6 6. Nbd2 Be7 7. Qc2 c6 8. Bd3 Qc7 9. O-O g5 10. h3 Nf8 11. Rab1 Ng6 12. dxe5 dxe5 13. Bc4 Nf4 14. Bxf4 gxf4 15. Qb3 Rh7 16. Nh4 b5 17. Bxf7+ Rxf7 18. Nf5 Bxf5 19. exf5 Rg7 20. Nf3 Bc5 21. Nh4 Rd8 22. Rfe1 Kf8 23. Ng6+ Ke8 24. Qe6+ Be7 25. Rxe5 Rd6 26. Qb3 a5 27. Rbe1 a4 28. Rxe7+ Rxe7 29. Rxe7+ Qxe7 30. Qc2 Qe1+ 31. Kh2 Rd1 32. Nxf4 Qh1+ 33. Kg3 Qe1 34. Qe2+ Qxe2 35. Nxe2 Rd2 36. Kf3 Rxb2 37. a3 Rb3 38. Nd4 Rxc3+ 39. Ke2 Rxa3 40. Nxc6 Ra2+ 41. Kf3 a3 42. Nd4 Rd2 43. Ke3 Rxd4 44. Kxd4 a2 45. g4 a1=Q+ 0-1
+

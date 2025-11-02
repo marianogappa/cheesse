@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/9naDLsbm"]
+[Site "https://lichess.org/VFnwEOLZ"]
+[White "yas1993"]
+[Black "matt_e_k"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:35"]
+[WhiteElo "1661"]
+[BlackElo "1942"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 c6 6. Be2 Bf5 7. Ne5 Nbd7 8. Nd3 Nb6 9. O-O Qxd4 10. Be3 Qh4 11. Nf4 Rd8 12. Qe1 Ng4 13. Bd4 Qxh2# 0-1
+

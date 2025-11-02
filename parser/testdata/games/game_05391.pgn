@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/v1DGxnBR"]
+[White "chesschamp123"]
+[Black "Merdobey"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:46"]
+[WhiteElo "1411"]
+[BlackElo "1580"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Central Variation, Greco Variation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. e4 b5 4. a4 c6 5. axb5 cxb5 6. Bd2 Bb7 7. Ra5 Nc6 8. d5 Nxa5 9. Qf3 f6 10. Bxa5 Qxa5+ 11. Nc3 Qa1+ 12. Qd1 Qxb2 13. Nce2 Qb4+ 14. Qd2 Qxd2+ 15. Kxd2 e6 16. f3 exd5 17. exd5 Bb4+ 18. Kc2 Bxd5 19. Nd4 Ne7 20. Nh3 O-O 21. Be2 Nc6 22. Nxc6 Bxc6 23. Rb1 a5 24. Nf4 Bd6 25. Ne6 Rfe8 26. Nd4 Bc5 27. Nxc6 Rxe2+ 28. Kc3 Rxg2 29. Rxb5 Bb4+ 30. Kxc4 Rc8 31. Rb6 Rc2+ 32. Kb5 R2xc6 33. Rxc6 Rxc6 34. Kxc6 a4 35. Kb5 Bd6 36. Kxa4 Bxh2 37. Kb3 Bg3 38. Kc2 h5 39. Kd2 h4 40. Ke2 Kf7 41. Kf1 Kg6 42. Kg2 Kf5 43. Kh3 Kf4 44. Kg2 g5 45. Kh3 f5 46. Kg2 g4 47. fxg4 Kxg4 48. Kh1 Kh3 49. Kg1 Bh2+ 50. Kh1 Bg1 51. Kxg1 Kg3 52. Kh1 Kf2 53. Kh2 Ke2 54. Kh3 f4 55. Kxh4 f3 56. Kg3 f2 57. Kg2 f1=Q+ 58. Kg3 Qf5 59. Kh2 Qg4 60. Kh1 Kf2 61. Kh2 Qg2# 0-1
+

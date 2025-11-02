@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/JWBjLW4E"]
+[White "jupiter10"]
+[Black "rogntudjuu"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:02"]
+[WhiteElo "1814"]
+[BlackElo "1854"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Levitsky Attack"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Bg5 Nf6 3. e4 dxe4 4. Bf4 Nc6 5. Nc3 Qxd4 6. Qxd4 Nxd4 7. O-O-O Nc6 8. Bxc7 Bf5 9. Bb5 e6 10. Bxc6+ bxc6 11. Nge2 Nd5 12. Bg3 Bb4 13. Nxd5 exd5 14. Nd4 Bg6 15. Nxc6 Bd6 16. Bxd6 Rc8 17. Ne5 Rd8 18. Nxg6 Rxd6 19. Ne5 Re6 20. Ng4 O-O 21. Rxd5 h5 22. Ne3 g6 23. Rhd1 f5 24. g3 h4 25. gxh4 f4 26. Ng4 e3 27. fxe3 fxe3 28. Re1 e2 29. Rd2 Rf1 30. Rdd1 exd1=Q+ 31. Rxd1 Ree1 32. Rxe1 Rxe1+ 33. Kd2 Rg1 34. Ne3 Rh1 35. Kd3 Rxh2 36. a4 Rxh4 37. b4 Rxb4 38. c4 Rxa4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/cX83zNel"]
+[White "tokukawa"]
+[Black "Molata"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:25"]
+[WhiteElo "1758"]
+[BlackElo "1912"]
+[WhiteRatingDiff "+22"]
+[BlackRatingDiff "-15"]
+[ECO "C00"]
+[Opening "French Defense: Queen's Knight"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. exd5 exd5 4. d4 Nf6 5. Nf3 c6 6. Be2 Bd6 7. O-O O-O 8. Bg5 Nbd7 9. Re1 Qc7 10. Ne5 Bxe5 11. dxe5 Qxe5 12. Bxf6 Qxf6 13. Bd3 Ne5 14. Qh5 Nxd3 15. cxd3 Bf5 16. Qf3 Qg6 17. d4 Rae8 18. Re5 f6 19. Rxf5 Qxf5 20. Qxf5 1-0
+

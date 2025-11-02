@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/8NJ6cbC5"]
+[White "R0bin_H00d"]
+[Black "khaliltbain"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:03"]
+[WhiteElo "1632"]
+[BlackElo "1589"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-12"]
+[ECO "A04"]
+[Opening "Reti Opening #2"]
+[TimeControl "60+2"]
+[Termination "Normal"]
+
+1. Nf3 Nf6 2. d3 e6 3. Nbd2 d6 4. g3 d5 5. Bg2 Bd6 6. O-O Nbd7 7. Re1 O-O 8. e4 e5 9. exd5 Re8 10. Nc4 Nxd5 11. Nfxe5 Nxe5 12. Bxd5 Nxc4 13. dxc4 Rxe1+ 14. Qxe1 Bf5 15. c3 c6 16. Bg2 Qf6 17. Be3 c5 18. Rd1 Rd8 19. Bxb7 Be6 20. Bd5 Bxd5 21. Rxd5 g6 22. Qd2 Be7 23. Rxd8+ Bxd8 24. Bxc5 h6 25. Bd4 Qd6 26. b3 Kh7 27. Qe3 Bg5 28. Qe5 Qxe5 29. Bxe5 Be7 30. Bd4 f6 31. Bxa7 g5 32. Bd4 Ba3 33. f4 Kg6 34. fxg5 hxg5 35. Kf2 Bd6 36. h3 f5 37. Kf3 g4+ 38. hxg4 fxg4+ 39. Kxg4 Be7 40. c5 Bd6 41. cxd6 Kf7 42. c4 Ke6 43. c5 Kd7 44. a4 1-0
+

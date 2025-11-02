@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/gSaYsqLF"]
+[White "TheGreatest2"]
+[Black "pallino"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:18"]
+[WhiteElo "1986"]
+[BlackElo "1656"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.22] } 1... d5 { [%eval 0.27] } 2. Bf4 { [%eval 0.03] } 2... c6 { [%eval 0.26] } 3. e3 { [%eval 0.31] } 3... Nf6 { [%eval 0.44] } 4. c3 { [%eval 0.06] } 4... Bf5 { [%eval 0.08] } 5. Nd2 { [%eval 0.02] } 5... e6 { [%eval 0.03] } 6. Ngf3 { [%eval 0.0] } 6... Bd6 { [%eval 0.37] } 7. Bg3?! { [%eval -0.19] } 7... Bxg3 { [%eval -0.09] } 8. hxg3 { [%eval -0.07] } 8... Bg6?! { [%eval 0.66] } 9. Nh4?! { [%eval 0.06] } 9... Nbd7?! { [%eval 0.96] } 10. Nxg6 { [%eval 0.66] } 10... fxg6 { [%eval 0.82] } 11. Bd3 { [%eval 0.75] } 11... Qb6 { [%eval 0.73] } 12. Bxg6+ { [%eval 0.73] } 12... Ke7 { [%eval 0.85] } 13. Bd3 { [%eval 0.48] } 13... h6? { [%eval 1.69] } 14. Qc2 { [%eval 1.66] } 14... c5 { [%eval 1.72] } 15. dxc5?! { [%eval 1.15] } 15... Nxc5 { [%eval 1.44] } 16. O-O { [%eval 1.14] } 16... Nxd3 { [%eval 1.01] } 17. Qxd3 { [%eval 0.97] } 17... Qd6?! { [%eval 1.89] } 18. Nb3?! { [%eval 0.92] } 18... Qe5 { [%eval 1.11] } 19. Qd4 { [%eval 1.03] } 19... Qh5 { [%eval 1.43] } 20. Rad1? { [%eval -0.62] } 20... Ng4 { [%eval -0.48] } 21. Rfe1 { [%eval -0.64] } 21... Qh2+? { [%eval 1.37] } 22. Kf1 { [%eval 1.35] } 22... Rhf8?? { [%eval 6.21] } 23. Qxg4 { [%eval 6.05] } 1-0
+

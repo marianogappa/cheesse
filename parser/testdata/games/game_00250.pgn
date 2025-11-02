@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/BfdIrjVq"]
+[White "ImmortalJoe"]
+[Black "jean-emarre"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:46"]
+[WhiteElo "1597"]
+[BlackElo "1608"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+10"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 b6 2. Nc3 Bb7 3. Nf3 c6 4. d4 d6 5. Bc4 Nd7 6. Bb3 e6 7. a3 b5 8. O-O a5 9. Ba2 h6 10. Ne2 Be7 11. Ng3 g5 12. c3 g4 13. Be3 gxf3 14. Qxf3 h5 15. Nxh5 Ndf6 16. Nxf6+ Nxf6 17. Bg5 Qd7 18. e5 Nh5 19. g4 Ng7 20. Bf6 Rg8 21. Bxg7 Rxg7 22. h4 O-O-O 23. g5 Rdg8 24. Qg4 f5 25. f4 fxg4 26. Rf2 Bxg5 27. Rg2 Bxf4 28. Rf1 Bg5 29. Bb1 Bxh4 30. Rf4 Rf7 31. Bd3 Rxf4 32. Bf1 Rxf1+ 33. Kxf1 Qf7+ 34. Ke2 Qf3+ 35. Kd2 Qxg2+ 36. Kd3 Qf3+ 37. Kd2 g3 38. Kc2 g2 39. Kb3 g1=Q 40. a4 Qgd1+ 41. Ka3 Qxc3+ 42. b3 Qdxb3# 0-1
+

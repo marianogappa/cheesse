@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/o5HcOBFn"]
+[White "Atikon"]
+[Black "bigken2u"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:59"]
+[WhiteElo "1554"]
+[BlackElo "1412"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-7"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e3 { [%eval 0.06] } 1... e6 { [%eval 0.16] } 2. b3 { [%eval 0.06] } 2... Qf6?! { [%eval 0.7] } 3. Nc3 { [%eval 0.46] } 3... c6 { [%eval 0.41] } 4. Bb2 { [%eval 0.24] } 4... Nh6?! { [%eval 0.96] } 5. h3 { [%eval 0.77] } 5... Nf5 { [%eval 0.69] } 6. Be2 { [%eval 0.26] } 6... Qh4?! { [%eval 1.16] } 7. Nf3 { [%eval 0.97] } 7... Qh6?! { [%eval 1.57] } 8. g4? { [%eval 0.35] } 8... Nh4 { [%eval 0.5] } 9. Nxh4 { [%eval 0.22] } 9... Qxh4 { [%eval 0.31] } 10. Bf3 { [%eval 0.14] } 10... Na6 { [%eval 0.29] } 11. Qe2 { [%eval 0.12] } 11... Nb4?! { [%eval 0.68] } 12. Qd1?! { [%eval 0.15] } 12... Bd6?! { [%eval 0.99] } 13. a3 { [%eval 0.75] } 13... Na6 { [%eval 0.79] } 14. Qe2?! { [%eval 0.2] } 14... Be5 { [%eval 0.59] } 15. Na4?! { [%eval -0.05] } 15... Bxb2 { [%eval 0.0] } 16. Nxb2 { [%eval 0.1] } 16... Qg5 { [%eval 0.29] } 17. Nc4 { [%eval -0.08] } 17... O-O { [%eval 0.0] } 18. h4 { [%eval -0.4] } 18... Qc5 { [%eval 0.04] } 19. b4 { [%eval -0.39] } 19... Qb5?! { [%eval 0.47] } 20. Nd6?? { [%eval -3.45] } 20... Qa4?? { [%eval 2.63] } 21. c4? { [%eval 0.21] } 21... Nxb4 { [%eval 0.42] } 22. O-O { [%eval 0.3] } 22... Na6 { [%eval 0.54] } 23. g5?! { [%eval -0.03] } 23... Nc5? { [%eval 1.18] } 24. d4 { [%eval 1.32] } 24... Na6 { [%eval 1.28] } 25. Qd3 { [%eval 0.92] } 1-0
+

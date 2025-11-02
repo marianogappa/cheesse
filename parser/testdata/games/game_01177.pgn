@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/KaJuZzr6"]
+[White "hac2803"]
+[Black "GranMagister"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:26"]
+[WhiteElo "1716"]
+[BlackElo "1669"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. a3 e6 4. Bc4 a6 5. d3 b5 6. Ba2 Nf6 7. O-O Be7 8. Bg5 O-O 9. c4 Bb7 10. Nc3 bxc4 11. Bxc4 h6 12. Bh4 d6 13. Qc2 Nd4 14. Nxd4 cxd4 15. Ne2 e5 16. Ng3 Nd7 17. Bxe7 Qxe7 18. f4 Rac8 19. f5 Nf6 20. Qe2 Rfd8 21. Nh5 Nxh5 22. Qxh5 d5 23. Ba2 f6 24. Rac1 Rxc1 25. Rxc1 Kf8 26. Qg4 Ke8 27. Qg6+ Kd7 28. b4 dxe4 29. Be6+ Kd6 30. dxe4 Bxe4 31. Kf2 Bd5 32. a4 Bxe6 33. fxe6 Rb8 34. b5 axb5 35. axb5 Rxb5 36. Ra1 Rb6 37. Qd3 Kxe6 38. Rc1 Qd6 39. h3 Rb2+ 40. Kg1 Rb6 41. Kf2 Ke7 42. Kf3 Kf7 43. Kg3 Rc6 44. Kf2 Rxc1 45. g3 Qc5 46. Kf3 Qc3 47. Qxc3 Rxc3+ 48. Ke4 Ke6 0-1
+

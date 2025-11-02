@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/94uZ9nCf"]
+[White "Logan71"]
+[Black "normansistm"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:09"]
+[WhiteElo "1777"]
+[BlackElo "1666"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "D10"]
+[Opening "Slav Defense #2"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Bf5 4. f3 Nf6 5. e3 e6 6. Bd3 Bxd3 7. Qxd3 dxc4 8. Qxc4 Bd6 9. Nge2 Qc7 10. f4 Nbd7 11. e4 Ng4 12. e5 Be7 13. O-O f6 14. Qd3 O-O-O 15. Ne4 fxe5 16. fxe5 Ndxe5 17. Qb3 Nxh2 18. dxe5 Qxe5 19. N2g3 Ng4 20. Bf4 Qd4+ 21. Kh1 g5 22. Qxe6+ Rd7 23. Rad1 1-0
+

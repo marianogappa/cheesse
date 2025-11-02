@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/R49qfa1Q"]
+[White "brankov"]
+[Black "ulissethebest"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:33"]
+[WhiteElo "1853"]
+[BlackElo "1849"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-10"]
+[ECO "C30"]
+[Opening "King's Gambit Declined, Queen's Knight Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 d5 4. d4 dxe4 5. Nxe5 Qxd4 6. Bb5 Qxd1+ 7. Kxd1 Bd7 8. Nxd7 Kxd7 9. Nc3 f5 10. Be3 Rd8 11. Ke2 Kc8 12. Bxc6 bxc6 13. Rad1 Bd6 14. g3 Nf6 15. Bxa7 Rhe8 16. Bd4 Re6 17. a3 c5 18. Bxf6 Rxf6 19. Nd5 Re6 20. c4 g6 21. h4 Rg8 22. b4 cxb4 23. axb4 h6 24. c5 Be7 25. Ra1 Kb7 26. Ra4 Kc6 27. Rd1 g5 28. Ra6+ Kb5 29. Rxe6 c6 30. Nxe7 1-0
+

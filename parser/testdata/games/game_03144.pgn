@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Qvu0g9pW"]
+[White "Immortalbeing"]
+[Black "riggmeister"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:48"]
+[WhiteElo "1348"]
+[BlackElo "1238"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "A45"]
+[Opening "Indian Game: Pawn Push Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. d5 d6 3. Bg5 g6 4. Bxf6 exf6 5. Nc3 c6 6. dxc6 Nxc6 7. e3 Bh6 8. Nf3 g5 9. Bb5 Bd7 10. Bxc6 Bxc6 11. O-O Qb6 12. Qxd6 Bg7 13. Nd5 Bxd5 14. Qxd5 Rd8 15. Qe4+ Kf8 16. Rad1 Re8 17. Qd4 Qe6 18. Qxa7 Bh6 19. Nd4 Qe4 20. Nb5 g4 21. Nc7 Re5 22. Qb8+ Kg7 23. Rd8 Kg6 24. Rxh8 g3 25. Rg8+ Bg7 26. hxg3 Rh5 27. Qf8 Kf5 28. Rxg7 Rg5 29. Qc5+ Kg4 30. Rxg5+ fxg5 31. Qd4 Qxd4 32. exd4 h5 33. Re1 h4 34. Re4+ Kh5 35. gxh4 gxh4 36. g3 f5 37. Rxh4+ Kg6 38. Nd5 f4 39. Rxf4 1-0
+

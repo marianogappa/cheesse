@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1XaYiC7q"]
+[White "Odissey78"]
+[Black "willy16"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:28"]
+[WhiteElo "1943"]
+[BlackElo "1892"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 e6 3. e5 g6 4. c4 d5 5. b3 f5 6. Nf3 Bg7 7. Be2 h6 8. O-O Ne7 9. Be3 O-O 10. Qd2 g5 11. h4 f4 12. hxg5 hxg5 13. Nxg5 fxe3 14. Qxe3 Nf5 15. Qd2 Bh6 16. f4 Bxg5 17. fxg5 Kg7 18. Nc3 Kg6 19. g4 Nh4 20. Rf6+ Rxf6 21. gxf6 Qh8 22. Bd3+ Kf7 23. Rf1 Nd7 24. g5 Ng6 25. Bxg6+ Kxg6 26. Qd3+ Kf7 27. g6+ Ke8 28. g7 Qh7 29. f7+ Ke7 30. Qxh7 dxc4 31. bxc4 b5 32. f8=Q+ Nxf8 33. gxf8=Q# 1-0
+

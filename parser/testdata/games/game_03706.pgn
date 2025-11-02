@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/bjTtWyxY"]
+[White "nicknick33"]
+[Black "MomsRipper"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:11"]
+[WhiteElo "1501"]
+[BlackElo "1803"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "C42"]
+[Opening "Russian Game: Three Knights Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. Nd5 Nxd5 5. exd5 O-O 6. a3 Ba5 7. b4 Bb6 8. Bd3 e4 9. Bxe4 Re8 10. d3 f5 11. Bg5 Rxe4+ 12. dxe4 Qe8 13. O-O fxe4 14. Nd2 d6 15. Qe1 Bf5 16. c4 Qg6 17. h4 h6 18. c5 dxc5 19. Kh2 hxg5 20. hxg5 Qh5+ 21. Kg1 Qxg5 22. Nxe4 Bxe4 23. Qxe4 Qf6 24. Qe8+ Kh7 25. Qh5+ Qh6 26. Qf5+ Qg6 27. Qh3+ Kg8 28. Qc8+ Kf7 29. Qxb7 cxb4 30. Qxa8 Nd7 31. Qd8 Nc5 32. axb4 Ne4 33. Qd7+ Kg8 34. Qd8+ Kh7 35. Qh4+ Kg8 36. Rae1 Ng5 37. Re8+ Kf7 38. Rfe1 Nf3+ 39. Kf1 Nxh4 40. R8e7+ Kg8 41. Re8+ Kh7 42. R8e6 Qxg2+ 43. Ke2 Qf3+ 44. Kd2 Qxd5+ 45. Kc1 Qc4+ 46. Kb1 Qxb4+ 47. Kc2 Qc4+ 48. Kb1 Bxf2 49. R6e4 Qb3+ 50. Kc1 Qc3+ 51. Kd1 Qxe1+ 52. Rxe1 Bxe1 53. Kxe1 Kg6 54. Kd2 Kf5 55. Kd3 g5 56. Ke3 Kg4 57. Ke4 Kg3 58. Ke3 g4 59. Ke4 Kf2 60. Kf4 g3 61. Kg4 g2 62. Kxh4 g1=Q 63. Kh5 Kf3 64. Kh4 Qg4# 0-1
+

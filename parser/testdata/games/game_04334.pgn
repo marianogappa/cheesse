@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/dmsrPQDN"]
+[White "stoebken"]
+[Black "Smyrterina"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:41"]
+[WhiteElo "1323"]
+[BlackElo "1133"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "C41"]
+[Opening "Philidor Defense: Nimzowitsch Variation"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Nxe5 Bb4+ 7. c3 Bxc3+ 8. Nxc3 Be6 9. Bg5 Nc6 10. Rd1+ Ke7 11. Nxc6+ bxc6 12. e5 Rad8 13. exf6+ gxf6 14. Bf4 Rxd1+ 15. Kxd1 Rd8+ 16. Kc2 Bf5+ 17. Kb3 a5 18. Bc4 c5 19. Re1+ Kf8 20. Bxc7 Rd2 21. Ne4 Bxe4 22. Rxe4 f5 23. Rf4 Rd7 24. Bxa5 Rd4 25. Rxd4 cxd4 26. Kc2 Ke7 27. Kd3 Kd6 28. Kxd4 Ke7 29. b4 Kf6 30. b5 Kg5 31. b6 f4 32. b7 Kg4 33. b8=Q f3 34. Qg3+ Kf5 35. Qxf3+ Kg5 36. Qxf7 Kh6 37. Bd3 Kg5 38. Bd2+ Kg4 39. Be2+ Kh4 40. Qh5# 1-0
+

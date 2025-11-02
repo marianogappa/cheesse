@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/of6RHd0Z"]
+[White "trafico"]
+[Black "Dpaco"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:03"]
+[WhiteElo "1363"]
+[BlackElo "1478"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "A41"]
+[Opening "Queen's Pawn"]
+[TimeControl "180+2"]
+[Termination "Time forfeit"]
+
+1. d4 d6 2. e3 g6 3. c4 Bg7 4. Nc3 c5 5. d5 Bf5 6. Qa4+ Bd7 7. Qb3 Qc7 8. Nf3 a6 9. e4 Nf6 10. Bd3 O-O 11. Bd2 e6 12. O-O exd5 13. Nxd5 Nxd5 14. exd5 f5 15. Bc3 Bxc3 16. Qxc3 b5 17. b3 b4 18. Qd2 a5 19. Ng5 a4 20. Ne6 Bxe6 21. dxe6 Qe7 22. Qe2 Nc6 23. Rfe1 Nd4 24. Qe3 axb3 25. axb3 Nxb3 26. Rxa8 Rxa8 27. Rb1 Ra1 28. Rxa1 Nxa1 29. f4 Nb3 30. Bc2 Nd4 31. Ba4 Qxe6 32. Qd2 Ne2+ 33. Kf2 Nd4 34. g3 Qxc4 35. Qe3 Qe6 0-1
+

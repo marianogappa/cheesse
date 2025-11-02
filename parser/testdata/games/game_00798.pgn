@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/kuJTLgbZ"]
+[White "ludonix"]
+[Black "mustis"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:56"]
+[WhiteElo "1659"]
+[BlackElo "1645"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 h6 4. O-O Nf6 5. d3 Bg4 6. Nbd2 Be7 7. Qe1 a6 8. h3 Bh5 9. b3 b5 10. Bd5 c6 11. Bxf7+ Bxf7 12. c4 b4 13. d4 exd4 14. Nxd4 c5 15. Nf5 O-O 16. Nxe7+ Qxe7 17. Nf3 Bg6 18. e5 dxe5 19. Nxe5 Bh7 20. Bf4 Re8 21. Qd2 Bf5 22. Rfe1 Ne4 23. Qd5+ Qe6 24. Qxa8 Bxh3 25. Rxe4 Bf5 26. Ree1 g5 27. Nf3 Qf7 28. Bxb8 g4 29. Rxe8+ Qxe8 30. Qd5+ Qf7 31. Qxf7+ Kxf7 32. Ne5+ Ke6 33. Re1 Kf6 34. f4 h5 35. Bd6 h4 36. Bxc5 a5 37. Bb6 h3 38. g3 a4 39. bxa4 b3 40. axb3 Bc2 41. b4 Bxa4 42. b5 Ke6 43. Nxg4+ Kd6 44. c5+ Kd5 45. Re5+ Kc4 46. c6 Bxb5 47. Rxb5 Kxb5 48. c7 Kxb6 49. c8=Q Kb5 50. Ne5 Kb4 51. Nd3+ Kb3 52. Qc5 Ka4 53. Qb6 Ka3 54. Qb5 Ka2 55. Qb2# 1-0
+

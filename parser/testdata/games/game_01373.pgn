@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mTAcQAmy"]
+[White "kasparagio"]
+[Black "redstarpils"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:10"]
+[WhiteElo "1515"]
+[BlackElo "1500"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 a6 4. c3 e6 5. a3 Nc6 6. b4 Nge7 7. Bb2 Na7 8. Nbd2 O-O 9. Bd3 d6 10. O-O e5 11. d5 c6 12. c4 cxd5 13. cxd5 Bd7 14. h3 f5 15. Nc4 Nb5 16. a4 fxe4 17. Bxe4 Qc7 18. Rc1 Nd4 19. Nxd4 exd4 20. Ne5 Qd8 21. Nxd7 Qxd7 22. a5 Nf5 23. g4 Ne7 24. Bxd4 Bxd4 25. Qxd4 Rac8 26. f4 Rxc1 27. Rxc1 Rxf4 28. Qe3 Rf8 29. Bg2 Qa4 30. Qxe7 Qa3 31. Rc7 Qa1+ 32. Kh2 Qe5+ 33. Qxe5 dxe5 34. d6 Rd8 35. Bd5+ Kf8 36. d7 Ke7 37. Bxb7 Rxd7 38. Rxd7+ Kxd7 39. Bxa6 Kc6 0-1
+

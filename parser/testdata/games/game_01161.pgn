@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/mT1dHPrN"]
+[White "APL020"]
+[Black "davewaines"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:20"]
+[WhiteElo "1056"]
+[BlackElo "1504"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+2"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[TimeControl "900+10"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 c6 3. Nf3 d5 4. exd5 cxd5 5. Qe2 a6 6. Ng5 Nf6 7. Nxf7 Kxf7 8. Bf4 Bd6 9. Bxd6 Qxd6 10. Nc3 Rf8 11. O-O-O Kg8 12. Qe1 Bd7 13. Nxd5 exd5 14. Qe2 Re8 0-1
+

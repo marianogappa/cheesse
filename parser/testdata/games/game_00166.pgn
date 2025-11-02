@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0ewNcSyO"]
+[White "letyu_fly"]
+[Black "lucasm10"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:26"]
+[WhiteElo "1347"]
+[BlackElo "1359"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-18"]
+[ECO "C00"]
+[Opening "French Defense #2"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Bc4 c5 3. d3 d5 4. exd5 exd5 5. Bb3 Nc6 6. a3 b5 7. h3 Be6 8. Qe2 Nd4 9. Qe3 Nxb3 10. cxb3 d4 11. Qe2 Bd6 12. Nf3 Ne7 13. O-O O-O 14. Bg5 f6 15. Bh4 Bd5 16. Bg3 Bxb3 17. Nbd2 Bd5 18. Bxd6 Qxd6 19. Nh4 g5 20. Nhf3 Bxf3 21. Qxf3 Ng6 22. Ne4 Qf4 23. Qxf4 Nxf4 24. Nxc5 Rac8 25. b4 Nxd3 26. Nxd3 Rc3 27. Nc5 Rd8 28. Ne6 Rd6 29. Rfe1 d3 30. Nc5 d2 31. Red1 Rc1 32. Raxc1 dxc1=Q 33. Rxc1 Kf7 34. Ne4 Rd3 35. Rc7+ Ke6 36. Rxa7 Ke5 37. Nc5 Rd1+ 38. Kh2 h5 39. Re7+ Kf4 40. Rf7 f5 41. Ne6+ Ke5 42. Nxg5 Rd2 43. Nf3+ Ke6 44. Ra7 Rxf2 45. Nd4+ Kd5 46. Nxb5 Ra2 47. Rh7 Kc4 48. Nd6+ Kb3 49. Nxf5 Rxa3 50. Rxh5 Kxb4 51. Nd6 Rd3 52. Nf5 Kb3 53. h4 Kc2 54. Rh6 Kd2 55. Re6 Rd5 56. Ng3 Kd3 57. h5 Kd4 58. h6 Rd7 59. Rg6 Rh7 60. Nf5+ Ke5 61. Nh4 Kf4 62. Kh3 Ke5 63. Kg4 Ke4 64. g3 Ke5 65. Kg5 Rh8 66. Nf5 Ke4 67. Rg7 Ke5 68. h7 Ke6 69. Kg6 Rf8 70. g4 Rf6+ 71. Kg5 Ke5 72. h8=Q Rxf5+ 73. gxf5 1-0
+

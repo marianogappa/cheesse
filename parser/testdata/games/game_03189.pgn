@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GY3Dj5JB"]
+[White "Spyke24"]
+[Black "balval"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:06"]
+[WhiteElo "1742"]
+[BlackElo "1933"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Bc4 e6 3. Bb3 Nc6 4. c3 d6 5. Nf3 Nf6 6. Qe2 Be7 7. O-O O-O 8. a3 b5 9. Qxb5 Bd7 10. Qe2 a5 11. e5 dxe5 12. Nxe5 Nxe5 13. Qxe5 Qb6 14. Bc4 Bc6 15. d3 Rfd8 16. h3 Bd6 17. Qg5 Qb7 18. f3 Be7 19. Qe5 Nd7 20. Qe2 Nb6 21. Ba2 Bh4 22. Nd2 Nd5 23. Ne4 Qe7 24. Be3 Nxe3 25. Qxe3 f5 26. Nxc5 Kh8 27. Qxe6 Qxe6 28. Bxe6 Rd6 29. Bxf5 Be7 30. Ne4 Rxd3 31. Ng5 Bc5+ 32. Kh1 Rd5 33. Nf7+ Kg8 34. Be6 Kf8 35. Bxd5 Bxd5 36. Ne5 Re8 37. Nd7+ Kg8 0-1
+

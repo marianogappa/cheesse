@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/skIRUKVI"]
+[White "Spuds_Mackenzie"]
+[Black "DHMDHMDHM"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:58"]
+[WhiteElo "1762"]
+[BlackElo "1799"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "D11"]
+[Opening "Slav Defense: Modern"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Bf4 e6 5. Nc3 Be7 6. cxd5 exd5 7. e3 Bf5 8. Bd3 Bxd3 9. Qxd3 Nbd7 10. O-O Nf8 11. Rae1 Ng6 12. Be5 O-O 13. e4 Bd6 14. Bxf6 Qxf6 15. e5 Nf4 16. exf6 Nxd3 17. fxg7 Kxg7 18. Re2 Nf4 19. Re3 Rg8 20. g3 Kf6 21. Kh1 Ne6 22. Nh4 Nxd4 23. f4 Rae8 24. Ng2 Rxe3 25. Nxe3 Nf5 26. Ncd1 Re8 27. Nxf5 Kxf5 28. Kg2 Bb4 29. Kf3 h5 30. h3 Re1 31. g4+ hxg4+ 32. hxg4+ Ke6 33. Rxe1+ Bxe1 34. Ne3 Bd2 35. f5+ Ke5 36. Nf1 Bf4 37. Ng3 Bxg3 38. Kxg3 f6 39. Kh4 Kf4 40. Kh5 d4 41. Kg6 Kxg4 42. Kxf6 d3 43. Ke6 d2 44. f6 d1=Q 45. f7 Qe1+ 46. Kf6 Qf1+ 47. Kg7 c5 48. f8=Q Qxf8+ 49. Kxf8 b5 50. Ke7 c4 51. Kd6 b4 52. Kc5 c3 53. bxc3 bxc3 54. Kc4 c2 55. Kb3 c1=Q 56. Ka4 Qb1 57. a3 Qa1 58. Kb3 Kf5 59. Ka4 Ke5 60. Kb5 Qxa3 61. Kc6 a5 62. Kd7 a4 63. Ke8 Qb3 64. Ke7 a3 65. Kd8 a2 66. Kd7 a1=Q 67. Ke8 Qc1 68. Kf8 Qf3+ 69. Ke7 Kf5 70. Kd8 Qe1 71. Kd7 Qd3+ 72. Kc6 Qc1+ 73. Kb7 Qb3+ 74. Ka8 Qa1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/NqGQ7YbK"]
+[White "maroenie"]
+[Black "stbuggz"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:27"]
+[WhiteElo "1457"]
+[BlackElo "1571"]
+[WhiteRatingDiff "-57"]
+[BlackRatingDiff "+7"]
+[ECO "C20"]
+[Opening "King's Pawn Game: King's Head Opening #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f3 Bc5 3. Ne2 Nc6 4. d4 exd4 5. c3 dxc3 6. Nexc3 Bb4 7. h4 d6 8. Bg5 f6 9. Bd2 Be6 10. f4 Nd4 11. Bb5+ c6 12. Bd3 Nh6 13. Qh5+ Bf7 14. Qd1 O-O 15. f5 Re8 16. Bxh6 gxh6 17. Qg4+ Kh8 18. Nd2 Rg8 19. Qf4 Qe8 20. Rg1 Bh5 21. Be2 Bxe2 22. Qxh6 Bd3 23. Qxf6+ Rg7 24. Qxd4 Bxc3 25. Qxc3 Bxe4 26. f6 Rf7 27. Rf1 Bxg2+ 28. Kf2 Bxf1 29. Kxf1 Qe5 30. Qf3 Rg8 31. Re1 Qb5+ 32. Re2 Qxb2 33. Qh5 Rxf6+ 34. Ke1 Qc1# 0-1
+

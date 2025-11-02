@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/BHtco16c"]
+[White "MilutinZivkovic"]
+[Black "Udud"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:19"]
+[WhiteElo "1728"]
+[BlackElo "1724"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. h3 Nc6 3. a3 Bf5 4. e3 e6 5. Bd3 Bg6 6. Bxg6 hxg6 7. Nc3 a6 8. Bd2 Nf6 9. Nf3 Ne4 10. Nxe4 dxe4 11. Ng1 f5 12. Bc3 Qd5 13. Ne2 O-O-O 14. Qd2 e5 15. dxe5 Qxd2+ 16. Bxd2 Nxe5 17. O-O-O g5 18. Nd4 f4 19. exf4 gxf4 20. Bxf4 Bd6 21. Ne6 Rde8 22. Nxg7 Ref8 23. Bxe5 Bxe5 24. Ne6 Rxf2 25. Rhf1 e3 26. Rd5 Rxf1+ 27. Rd1 Rxd1+ 28. Kxd1 Kd7 29. Nc5+ Kc6 30. Nd3 Bd6 31. Ke2 Re8 32. g4 Rh8 33. Kxe3 Rxh3+ 34. Ke4 Rh4 35. Kf5 Rh2 36. c3 Rxb2 37. Nxb2 Kd7 38. a4 Ke7 39. g5 Kf7 40. g6+ Kg7 41. Nd3 Ba3 42. c4 b5 43. cxb5 axb5 44. axb5 Bd6 45. Ne5 Bxe5 46. Kxe5 Kxg6 47. Kd5 Kf7 48. Kc6 Ke7 49. Kxc7 1-0
+

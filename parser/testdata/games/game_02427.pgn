@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/cKxYjJJl"]
+[White "gafare"]
+[Black "dismas"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:15"]
+[WhiteElo "2175"]
+[BlackElo "1893"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+[ECO "C60"]
+[Opening "Ruy Lopez: Cozio Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. O-O g6 5. c3 Bg7 6. Re1 O-O 7. d4 exd4 8. cxd4 d5 9. e5 Bg4 10. Be3 a6 11. Ba4 f6 12. exf6 Rxf6 13. Nbd2 Rf8 14. h3 Bd7 15. Rc1 Nf5 16. Nf1 Ncxd4 17. Bxd4 Nxd4 18. Nxd4 Qh4 19. Bxd7 Qxf2+ 20. Kh1 Bxd4 21. Nh2 Bxb2 22. Rc2 Qd4 23. Qxd4 Bxd4 24. Rxc7 Rf2 25. Be6+ Kh8 26. Bxd5 Raf8 27. Nf3 Bb2 28. Rxb7 Rc8 29. Ree7 Rc1+ 30. Kh2 1-0
+

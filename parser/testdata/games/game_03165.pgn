@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/TOUWg1uX"]
+[White "beskobau"]
+[Black "mostro79"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:53"]
+[WhiteElo "1655"]
+[BlackElo "1623"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "A40"]
+[Opening "English Defense #2"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 b6 2. c4 Bb7 3. Nc3 g6 4. e4 Bg7 5. d5 e6 6. Be3 exd5 7. Bd3 dxe4 8. Nxe4 Qe7 9. Nc3 Bxg2 10. Nge2 Bxh1 11. Qc2 Bf3 12. O-O-O Bxe2 0-1
+

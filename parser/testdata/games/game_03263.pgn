@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/j0TDmZ5c"]
+[White "iv78"]
+[Black "colonelforbin"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:21"]
+[WhiteElo "1437"]
+[BlackElo "1415"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.37] } 1... d5 { [%eval 0.64] } 2. exd5 { [%eval 0.65] } 2... Qxd5 { [%eval 0.89] } 3. Nc3 { [%eval 0.46] } 3... Qd8 { [%eval 0.47] } 4. Nf3 { [%eval 0.45] } 4... Nf6 { [%eval 0.56] } 5. Bc4 { [%eval 0.55] } 5... a6 { [%eval 0.6] } 6. O-O { [%eval 0.41] } 6... e6 { [%eval 0.36] } 7. d3 { [%eval 0.02] } 7... b5 { [%eval 0.05] } 8. Bb3 { [%eval 0.02] } 8... c5 { [%eval 0.33] } 9. a3?! { [%eval -0.23] } 9... Bb7 { [%eval -0.21] } 10. h3 { [%eval -0.41] } 10... Bd6 { [%eval -0.39] } 11. Bg5 { [%eval -0.53] } 11... Be7 { [%eval -0.29] } 12. Qd2?! { [%eval -1.06] } 12... O-O?! { [%eval -0.49] } 13. Nh2?! { [%eval -1.04] } 13... Nbd7 { [%eval -0.79] } 14. Rae1 { [%eval -0.77] } 14... h6 { [%eval -0.79] } 15. Bxh6?! { [%eval -1.45] } 15... gxh6 { [%eval -1.29] } 16. Qxh6 { [%eval -1.38] } 16... Nh7 { [%eval -1.34] } 17. Ng4 { [%eval -1.75] } 17... Kh8 { [%eval -1.74] } 18. Ne4 { [%eval -2.07] } 18... Rg8 { [%eval -1.98] } 19. Bxe6?! { [%eval -2.89] } 19... fxe6 { [%eval -2.57] } 20. Qxe6 { [%eval -2.52] } 20... Bxe4 { [%eval -2.14] } 21. Rxe4 { [%eval -2.61] } 21... Ndf6? { [%eval -1.15] } 22. Qxe7 { [%eval -1.21] } 22... Nxe4 { [%eval -1.06] } 23. Qxe4 { [%eval -1.15] } 23... Qe8 { [%eval -0.79] } 24. Qd5 { [%eval -0.83] } 24... Rc8 { [%eval -0.66] } 25. c3 { [%eval -1.03] } 25... Qg6?! { [%eval -0.14] } 26. f3? { [%eval -1.62] } 26... Rcd8 { [%eval -1.19] } 27. Qe5+ { [%eval -1.35] } 27... Qg7 { [%eval -1.08] } 28. Qxc5 { [%eval -1.34] } 28... Rxd3 { [%eval -1.46] } 29. Qb6 { [%eval -1.24] } 29... Rd2 { [%eval -1.47] } 30. b4? { [%eval -2.64] } 30... Qxc3 { [%eval -2.41] } 31. Qxa6 { [%eval -2.89] } 31... Qb2 { [%eval -2.63] } 32. Ne3?? { [%eval #-2] } 32... Rgxg2+?! { [%eval #-3] } 33. Nxg2 { [%eval #-3] } 33... Rxg2+ { [%eval #-2] } 0-1
+

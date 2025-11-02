@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZgSwaUus"]
+[White "Arvindkotte"]
+[Black "thpower2"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:41"]
+[WhiteElo "1633"]
+[BlackElo "1658"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Berlin Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Bg5 Be7 5. Nf3 O-O 6. O-O d6 7. Bb5 Bd7 8. Nc3 a6 9. Ba4 b5 10. Bb3 Na5 11. Bxf6 Bxf6 12. Bd5 c6 13. Bb3 Nxb3 14. axb3 Bg4 15. h3 Bxf3 16. Qxf3 Be7 17. Ne2 Qd7 18. c4 f5 19. cxb5 fxe4 20. Qxe4 d5 21. Qxe5 Rae8 22. Qh2 Bd6 23. Ng3 axb5 24. Rae1 Rxe1 25. Rxe1 Qa7 26. Nf5 Bxh2+ 27. Kxh2 Rxf5 0-1
+

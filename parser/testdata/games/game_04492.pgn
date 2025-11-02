@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Fruopchj"]
+[White "asrhiuesa"]
+[Black "GrebnowVova"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:13"]
+[WhiteElo "1887"]
+[BlackElo "1882"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. d4 e6 3. g3 Bd6 4. Bg2 Nd7 5. O-O Ngf6 6. c4 O-O 7. c5 Be7 8. b4 c6 9. Nc3 a5 10. b5 cxb5 11. Nxb5 Ne4 12. Bf4 g5 13. Bc7 Qe8 14. a4 f6 15. Bh3 f5 16. Nd2 Ndf6 17. Be5 Nxd2 18. Qxd2 Ne4 19. Qb2 Qg6 20. Nc7 f4 21. Nxa8 g4 22. Bg2 f3 23. exf3 gxf3 24. Bh1 Qg4 25. Nb6 Ng5 26. Rfe1 Nh3+ 27. Kf1 Bg5 28. Nxc8 Rxc8 29. Qxb7 Rf8 30. Qg7# 1-0
+

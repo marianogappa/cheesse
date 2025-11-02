@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/0m7oQfss"]
+[White "x1920"]
+[Black "Nkko"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:36"]
+[WhiteElo "1613"]
+[BlackElo "1953"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+2"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: English Variation"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. b3 c5 2. c3 e6 3. Bb2 Nf6 4. d3 Be7 5. g3 d5 6. Bg2 d4 7. cxd4 cxd4 8. e3 Nc6 9. Bxc6+ bxc6 10. exd4 Ba6 11. Ne2 O-O 12. O-O Nd5 13. Re1 f5 14. Nec3 f4 15. Nxd5 exd5 16. Nc3 fxg3 17. fxg3 Bg5 18. Rf1 Be3+ 19. Kg2 Rxf1 20. Qxf1 Qg5 21. Qf3 Rf8 22. Qe2 Bxd4 23. Rf1 Re8 24. Qf3 h6 25. Ba3 Qd2+ 26. Kh3 Kh8 27. g4 Rg8 28. Qf5 Bc8 29. Bb2 Bxf5 30. gxf5 Bxc3 31. Kg4 Bxb2 0-1
+

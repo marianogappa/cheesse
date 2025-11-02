@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Pc9rqTPs"]
+[White "tthus74"]
+[Black "gabrieleud"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:15"]
+[WhiteElo "1612"]
+[BlackElo "1619"]
+[WhiteRatingDiff "+29"]
+[BlackRatingDiff "-11"]
+[ECO "C63"]
+[Opening "Ruy Lopez: Schliemann Defense, Dyckhoff Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 f5 3. Nc3 Nc6 4. Bb5 Bc5 5. O-O d6 6. d4 Bb6 7. d5 a6 8. Ba4 fxe4 9. dxc6 bxc6 10. Bxc6+ Kf8 11. Bxa8 Qd7 12. Bxe4 1-0
+

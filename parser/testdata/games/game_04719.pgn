@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/UxOyd0oX"]
+[White "HarpSeal"]
+[Black "Andrexov"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:08"]
+[WhiteElo "1981"]
+[BlackElo "1809"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+16"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Positional Variation #2"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Bb4 6. e3 Bxc3+ 7. bxc3 h6 8. Bxf6 Qxf6 9. Nf3 c6 10. Qb3 O-O 11. Bd3 Nd7 12. O-O Nb6 13. a4 Nd7 14. a5 a6 15. c4 dxc4 16. Bxc4 Re8 17. Rfb1 Nf8 18. Ne5 Ne6 19. g3 h5 20. h4 Re7 21. Kg2 g5 22. hxg5 Qxg5 23. Rh1 c5 24. Be2 cxd4 25. Rxh5 Qg7 26. exd4 Nxd4 27. Qb1 Nxe2 28. Rg5 Qxg5 29. f4 Qxg3+ 30. Kf1 Nxf4 31. Qc2 Rxe5 32. Rd1 Re1+ 33. Rxe1 Bh3+ 34. Qg2 Qxg2# 0-1
+

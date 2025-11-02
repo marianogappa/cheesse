@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/p9MIjBGU"]
+[White "Nouali"]
+[Black "AbdAlQadir"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:14"]
+[WhiteElo "2151"]
+[BlackElo "2262"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 Nf6 4. Qe2 Nc6 5. Nf3 Nb4 6. e5 Nxd3+ 7. Qxd3 Nd5 8. O-O e6 9. c4 Nb4 10. Qe2 Be7 11. Nc3 O-O 12. a3 Nc6 13. d5 Na5 14. b4 Nb3 15. Rb1 Nxc1 16. Rbxc1 a5 17. Rb1 axb4 18. axb4 Ra3 19. Qb2 Qa8 20. Rfd1 f5 21. d6 cxd6 22. exd6 Bf6 23. Rbc1 Bxf3 24. gxf3 Ra7 25. Qe2 Qc6 26. Nb5 Ra4 27. Rb1 Rfa8 28. Rd2 Ra1 29. Rdd1 Rxb1 30. Rxb1 g6 31. h3 Rc8 32. Rc1 Bg5 33. Rc2 Bf4 34. Qd3 Kf7 35. Na7 Qb7 36. Nxc8 Qxc8 37. c5 bxc5 38. bxc5 Qc6 39. Qe2 g5 40. Kg2 h5 41. Qc4 Be5 42. Qb4 g4 43. hxg4 hxg4 44. Qb3 Kf6 45. Kg1 gxf3 46. Qd3 Qa4 47. Qd2 Qg4+ 48. Kf1 Qg2+ 49. Ke1 Qg1# 0-1
+

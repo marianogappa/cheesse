@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NL71vTAn"]
+[White "Trawmio"]
+[Black "Paganin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:53"]
+[WhiteElo "1337"]
+[BlackElo "1252"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. b4 e5 2. Bb2 Nc6 3. b5 Nd4 4. e3 Nxb5 5. Bxb5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/advDZbj9"]
+[White "RUS000"]
+[Black "llllD4248"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:03"]
+[WhiteElo "1644"]
+[BlackElo "1557"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-25"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "420+0"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. f4 d5 3. Nf3 dxe4 4. Ne5 Nd7 5. d3 Nxe5 6. fxe5 exd3 7. Bxd3 e6 8. O-O Bc5+ 9. Kh1 Ne7 10. Qf3 O-O 11. Qg4 Ng6 12. Qh5 f5 13. Bg5 Be7 14. h4 Bxg5 15. hxg5 Nxe5 16. Be2 Nf7 17. g6 hxg6 18. Qxg6 Qg5 19. Qxg5 Nxg5 20. Nc3 b6 21. Bf3 Nxf3 22. Rxf3 c5 23. Nb5 Bb7 24. Re3 Rae8 25. Nd6 Re7 26. Rae1 Bd5 27. b3 Rd8 28. Nb5 e5 29. c4 a6 30. Nc3 Bc6 31. Rxe5 Rxe5 32. Rxe5 Re8 33. Rxe8+ Bxe8 34. Nd5 b5 35. Nc7 1-0
+

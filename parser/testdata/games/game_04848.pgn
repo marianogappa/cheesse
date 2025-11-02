@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bA6G3frC"]
+[White "SzechenyiAgustin"]
+[Black "Sylma"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:43"]
+[WhiteElo "2005"]
+[BlackElo "1750"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[ECO "C41"]
+[Opening "Philidor Defense #4"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. Nf3 e5 3. Bc4 Be7 4. d3 Nf6 5. Nc3 O-O 6. Bg5 Be6 7. Bb3 Bxb3 8. axb3 Nbd7 9. Qe2 h6 10. Be3 a6 11. O-O-O b5 12. Nh4 c5 13. Nf5 b4 14. Nd5 Nxd5 15. exd5 Bf6 16. Kb1 Nb6 17. h4 a5 18. g4 a4 19. g5 Qd7 20. Qg4 axb3 21. cxb3 Nxd5 22. gxh6 g6 23. h5 Kh7 24. hxg6+ fxg6 25. Qe4 Nxe3 26. Nxe3 Rg8 27. Rdg1 Ra7 28. Nd5 Bd8 29. Kc2 Qe6 30. Rg2 Rf7 31. Rhg1 Bh4 32. Rh1 Bd8 33. Rhg1 Bh4 34. Rh2 Bd8 35. Ne3 Rf4 36. Qb7+ Qe7 37. Qxe7+ Bxe7 38. Nd5 Rf7 39. Nxe7 Rxe7 40. Re1 Rf7 41. Re2 Rgf8 42. Kd2 Rf5 43. Ke3 Rh5 44. Rxh5 gxh5 45. Ke4 Kxh6 46. Kd5 Rf6 47. f3 Kg5 48. Rh2 h4 49. Ke4 Rf4+ 50. Kd5 Rf6 51. Ke4 Rf4+ 52. Kd5 Rxf3 53. Kxd6 Rf5 54. Kxc5 Kg4 55. Kd5 Kg3 56. Rh1 h3 57. Ke4 Rg5 58. Rg1+ Kh4 59. Rh1 Rg2 60. Kf3 1-0
+

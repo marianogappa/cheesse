@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zFA0785b"]
+[White "WhyKnotZoidberg"]
+[Black "T1T1"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:17"]
+[WhiteElo "1728"]
+[BlackElo "1684"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Panov Attack #2"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 c5 2. e3 cxd4 3. exd4 d5 4. c4 dxc4 5. Nc3 Nc6 6. Be3 e6 7. Bxc4 Nf6 8. Bb5 Bd7 9. Nge2 Be7 10. O-O O-O 11. Ba4 a6 12. Bc2 b5 13. a3 Rc8 14. Qd3 g6 15. Ng3 Be8 16. Bg5 Nd5 17. Bxe7 Ndxe7 18. Nh5 Qxd4 19. Qg3 Qe5 20. Qxe5 Nxe5 21. Nf6+ Kg7 22. Nce4 Rxc2 23. f3 Bc6 24. Rae1 Bxe4 25. Nxe4 Rxb2 26. Nd6 Nd3 27. Re3 Nc5 28. h4 Nd5 29. Ree1 h5 30. f4 Rd8 31. Ne4 Nxe4 32. Rxe4 Nc3 33. Re3 Rc8 34. Rc1 Rb1 35. Rxc3 Rxc1+ 36. Rxc1 0-1
+

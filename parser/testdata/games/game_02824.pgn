@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/5Pouv3aX"]
+[White "Baverone"]
+[Black "CarlosRim"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:28"]
+[WhiteElo "1430"]
+[BlackElo "1565"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.22] } 1... c5 { [%eval 0.34] } 2. Nf3 { [%eval 0.31] } 2... d6 { [%eval 0.33] } 3. d4 { [%eval 0.28] } 3... cxd4 { [%eval 0.34] } 4. Nxd4 { [%eval 0.26] } 4... Nf6 { [%eval 0.3] } 5. Nc3 { [%eval 0.24] } 5... a6 { [%eval 0.32] } 6. Nb3 { [%eval 0.22] } 6... g6 { [%eval 0.22] } 7. Bd3 { [%eval 0.01] } 7... Bg7 { [%eval 0.06] } 8. Bg5 { [%eval 0.05] } 8... O-O { [%eval 0.25] } 9. Bxf6?! { [%eval -0.58] } 9... Bxf6 { [%eval -0.48] } 10. f3 { [%eval -0.93] } 10... b5 { [%eval -0.93] } 11. a3 { [%eval -1.23] } 11... Bb7 { [%eval -0.83] } 12. g4?! { [%eval -1.5] } 12... Nd7 { [%eval -1.52] } 13. Qd2 { [%eval -1.43] } 13... Ne5 { [%eval -1.25] } 14. Qe2 { [%eval -1.55] } 14... Bg5?! { [%eval -0.97] } 15. Rf1?! { [%eval -1.72] } 15... Bf4 { [%eval -1.83] } 16. h3?! { [%eval -2.67] } 16... Qc7?! { [%eval -1.91] } 17. Qg2? { [%eval -3.1] } 17... Rac8 { [%eval -2.74] } 18. Rf2 { [%eval -2.91] } 18... Qd7?! { [%eval -1.92] } 19. Nd5? { [%eval -3.77] } 19... Bxd5 { [%eval -3.36] } 20. exd5 { [%eval -3.35] } 20... Rc7? { [%eval -1.52] } 21. c3?? { [%eval -7.09] } 21... Rfc8?? { [%eval -1.38] } 22. Be4 { [%eval -1.64] } 22... a5? { [%eval -0.58] } 23. Nd4? { [%eval -2.42] } 23... b4 { [%eval -2.16] } 0-1
+

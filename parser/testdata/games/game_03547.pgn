@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ViIwoDeU"]
+[White "BishopFingers"]
+[Black "sbarbier"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:37"]
+[WhiteElo "1582"]
+[BlackElo "1551"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 e6 4. Bf4 c6 5. Nf3 Bd6 6. Bxd6 Qxd6 7. cxd5 exd5 8. e3 O-O 9. Bd3 Be6 10. Rc1 Nbd7 11. Bb1 Rfe8 12. Qd3 g6 13. h4 Bf5 14. Qd1 Ne4 15. Nxe4 Bxe4 16. Bxe4 dxe4 17. Nd2 Nf6 18. Qb3 Rab8 19. Nc4 Qd5 20. Qc2 a6 21. Nd2 Ng4 22. h5 g5 23. h6 Re6 24. f3 Nxe3 25. Qb1 Nxg2+ 26. Kf2 exf3 27. Ne4 Qxd4+ 28. Kxf3 Qxe4+ 29. Qxe4 Rxe4 30. Kxe4 Re8+ 31. Kf5 Ne3+ 0-1
+

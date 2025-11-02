@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HNyhCHXL"]
+[White "danilovigilante"]
+[Black "Hunter2"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:54"]
+[WhiteElo "944"]
+[BlackElo "1424"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+1"]
+[ECO "A00"]
+[Opening "Ware Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. a4 a5 2. b3 b6 3. c4 c5 4. d3 d6 5. e4 Bb7 6. f3 e5 7. g4 f6 8. h3 g5 9. h4 h6 10. hxg5 fxg5 11. Nc3 Nc6 12. Nd5 Qd7 13. Nxb6 Qd8 14. Nxa8 Qxa8 15. Ne2 Be7 16. f4 exf4 17. Bh3 Bf6 18. Ra3 Be5 19. O-O Nf6 20. Nxf4 gxf4 21. Bxf4 Kd7 22. Bxe5 Rf8 23. Bxf6 Kc7 24. g5 hxg5 25. Bxg5 Rg8 26. Rf5 Rg7 27. Kf2 Nd4 28. Kg3 Nxf5+ 29. exf5 Rxg5+ 30. Kf4 Qg8 31. Ra2 Rg3 32. Qf1 Qg5# 0-1
+

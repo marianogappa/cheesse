@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xczJCIiO"]
+[White "buki2go"]
+[Black "jugando90"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:25"]
+[WhiteElo "1979"]
+[BlackElo "1935"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense #2"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 g6 4. e4 Bg7 5. Bd3 O-O 6. f4 d6 7. Nf3 c5 8. d5 exd5 9. cxd5 Nbd7 10. O-O Nb6 11. Re1 c4 12. Bc2 Qc7 13. e5 dxe5 14. fxe5 Ng4 15. d6 Qc5+ 16. Qd4 Qxd4+ 17. Nxd4 Nxe5 18. Bf4 Nd3 19. Bxd3 Bxd4+ 20. Kh1 cxd3 21. Nb5 Bxb2 22. Rad1 Bd7 23. Nc7 Rac8 24. Rxd3 Bf5 25. Rde3 Nc4 26. Re7 Bc3 27. Rc1 Bf6 28. Rxc4 Bxe7 29. dxe7 Rfe8 30. Rd4 Rxe7 31. Nd5 Re1# 0-1
+

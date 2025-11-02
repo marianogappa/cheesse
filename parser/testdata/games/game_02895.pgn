@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YUjUkSr9"]
+[White "francjanez"]
+[Black "alefar"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:50"]
+[WhiteElo "1584"]
+[BlackElo "1669"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-14"]
+[ECO "A40"]
+[Opening "Englund Gambit"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 e5 2. dxe5 c6 3. f4 Be7 4. g3 g5 5. e3 gxf4 6. exf4 f6 7. Qe2 Qa5+ 8. Bd2 Qd5 9. Qh5+ Kd8 10. Nf3 Qe4+ 11. Be2 Kc7 12. Nc3 Qxc2 13. Bd1 Qxb2 14. Rb1 Qa3 15. Qf7 Nh6 16. Qb3 Qxb3 17. Bxb3 fxe5 18. Nxe5 Re8 19. O-O d6 20. Nf3 d5 21. Nd1 Bc5+ 22. Nf2 a6 23. Rbc1 b6 24. Bc3 d4 25. Bd2 b5 26. Rxc5 a5 27. Rh5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/cZOnqFmX"]
+[White "ammaralsheik"]
+[Black "Chebyschev"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:05"]
+[WhiteElo "1754"]
+[BlackElo "1804"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Grand Prix Attack"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.27] } 1... c5 { [%eval 0.35] } 2. Nc3 { [%eval 0.34] } 2... Nc6 { [%eval 0.26] } 3. f4 { [%eval -0.05] } 3... b6 { [%eval 0.08] } 4. Bb5 { [%eval 0.16] } 4... Bb7 { [%eval 0.33] } 5. Bxc6?! { [%eval -0.25] } 5... Bxc6 { [%eval -0.16] } 6. Nf3 { [%eval -0.27] } 6... Qc7 { [%eval 0.2] } 7. d3 { [%eval 0.18] } 7... d6 { [%eval 0.26] } 8. O-O { [%eval 0.3] } 8... g6 { [%eval 0.4] } 9. a4?! { [%eval -0.15] } 9... Bg7 { [%eval -0.16] } 10. a5 { [%eval -0.32] } 10... b5 { [%eval -0.23] } 11. a6 { [%eval -0.54] } 11... e6?! { [%eval 0.08] } 12. f5? { [%eval -1.02] } 12... gxf5? { [%eval 0.08] } 13. exf5 { [%eval -0.06] } 13... Ne7? { [%eval 0.96] } 14. fxe6 { [%eval 0.85] } 14... fxe6 { [%eval 0.87] } 15. Qe2 { [%eval 0.43] } 15... Kd8?? { [%eval 3.79] } 16. Qxe6? { [%eval 1.06] } 16... Bd7? { [%eval 3.09] } 17. Qe4? { [%eval 1.43] } 17... Rb8?? { [%eval 6.24] } 18. Bg5 { [%eval 6.0] } 18... Bf8?? { [%eval 9.07] } 19. Rae1?? { [%eval 5.82] } 19... Bc6 { [%eval 5.39] } 20. Qe6? { [%eval 4.16] } 20... Bd5?? { [%eval 27.83] } 21. Qxd5 { [%eval 13.48] } 1-0
+

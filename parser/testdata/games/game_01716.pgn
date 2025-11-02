@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/GIXkgLUd"]
+[White "fafalepotedericou"]
+[Black "RRiicchhaarrdd"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:27"]
+[WhiteElo "1484"]
+[BlackElo "1630"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-15"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense: Ragozin Variation"]
+[TimeControl "0+3"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.3] } 1... d5 { [%eval 0.36] } 2. c4 { [%eval 0.34] } 2... Nf6 { [%eval 0.37] } 3. Nc3 { [%eval 0.17] } 3... e6 { [%eval 0.36] } 4. Nf3 { [%eval 0.34] } 4... Bb4 { [%eval 0.28] } 5. Bd2 { [%eval 0.07] } 5... O-O { [%eval 0.19] } 6. a3 { [%eval 0.13] } 6... Ba5? { [%eval 2.05] } 7. b4 { [%eval 1.83] } 7... Bb6?! { [%eval 2.4] } 8. c5 { [%eval 2.47] } 8... Bd7?! { [%eval 3.22] } 9. cxb6 { [%eval 3.14] } 9... axb6 { [%eval 3.11] } 10. Ne5?! { [%eval 2.54] } 10... Be8?! { [%eval 3.04] } 11. e3 { [%eval 2.92] } 11... c5 { [%eval 3.05] } 12. bxc5 { [%eval 2.75] } 12... bxc5 { [%eval 2.72] } 13. Bb5 { [%eval 2.48] } 13... cxd4 { [%eval 2.52] } 14. exd4 { [%eval 2.33] } 14... Ne4?! { [%eval 3.09] } 15. Bxe8 { [%eval 3.07] } 15... Rxe8 { [%eval 2.85] } 16. O-O { [%eval 2.56] } 16... Nxd2 { [%eval 2.8] } 17. Qxd2 { [%eval 2.75] } 17... f6 { [%eval 2.62] } 18. Nf3 { [%eval 2.6] } 18... Nc6 { [%eval 2.66] } 19. Nb5 { [%eval 2.58] } 19... Qb6 { [%eval 2.77] } 20. a4 { [%eval 2.81] } 20... Qd8 { [%eval 2.82] } 21. Rfc1 { [%eval 2.85] } 21... Rb8 { [%eval 2.91] } 22. h3 { [%eval 2.85] } 22... f5? { [%eval 4.68] } 23. Ne5 { [%eval 4.77] } 23... Nxe5 { [%eval 5.04] } 24. dxe5 { [%eval 4.82] } 24... Qe7?! { [%eval 5.52] } 25. Qd4?! { [%eval 4.91] } 25... Qg5?! { [%eval 5.59] } 26. Nd6 { [%eval 5.24] } 26... Rf8 { [%eval 5.44] } 27. Rc7 { [%eval 4.9] } 27... f4? { [%eval 6.5] } 28. Rxb7 { [%eval 6.41] } 28... Rxb7 { [%eval 6.29] } 29. Nxb7 { [%eval 6.17] } 29... f3 { [%eval 6.33] } 30. g3 { [%eval 6.4] } 30... Qh6?! { [%eval 6.91] } 31. h4 { [%eval 6.62] } 31... Qg6?! { [%eval 7.4] } 32. Nd6 { [%eval 7.08] } 32... Qc2?! { [%eval 7.92] } 33. a5 { [%eval 7.03] } 1-0
+

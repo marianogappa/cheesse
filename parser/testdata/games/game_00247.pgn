@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/m1hKFoQR"]
+[White "Miki023"]
+[Black "fbilsen"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:46"]
+[WhiteElo "1234"]
+[BlackElo "1123"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+19"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 d6 6. Nc3 c5 7. Qe3 Bd7 8. Bd2 Bc6 9. O-O-O Be7 10. Bb5 Bf6 11. Bxc6+ bxc6 12. Be1 Qc7 13. e5 dxe5 14. f3 Nh6 15. g3 Nf5 16. f4 Nxe3 17. Rd2 exf4 18. gxf4 Qxf4 19. Rg1 O-O 20. Ne2 Qh6 21. Ng3 Nc4 22. Rg2 Nxd2 0-1
+

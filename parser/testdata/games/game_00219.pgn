@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/29yomBat"]
+[White "SoniaMedlev"]
+[Black "Acropora"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:39"]
+[WhiteElo "1610"]
+[BlackElo "1590"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. e3 Bf5 3. c4 Bxb1 4. c5 Bg6 5. b4 b6 6. Bb5+ c6 7. Ba4 e6 8. Bd2 a5 9. bxa5 bxc5 10. Rb1 cxd4 11. Rb6 dxe3 12. fxe3 Ne7 13. Nf3 Be4 14. Nd4 Bxg2 15. Rg1 Be4 16. Qc1 f5 17. Bb4 g6 18. Nxc6 Bh6 19. Nxb8+ Kf7 20. Nc6 Nxc6 21. Rb7+ Kg8 22. Bxc6 Qh4+ 23. Kd2 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/3Kx9okpH"]
+[White "mosssss"]
+[Black "chitranj"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:44"]
+[WhiteElo "1772"]
+[BlackElo "1980"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Indian Variation"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. b3 Nf6 2. Bb2 g6 3. g3 Bg7 4. g4 Nh5 5. g5 Bxb2 6. Bg2 Bxa1 7. Bxb7 Bxb7 8. Nc3 Bxh1 9. Nf3 Bxc3 10. dxc3 Bxf3 11. exf3 O-O 12. Qe2 e5 13. f4 exf4 14. Qc4 Re8+ 15. Kf1 Qxg5 16. Qxf7+ Kxf7 17. f3 Qe5 18. h4 0-1
+

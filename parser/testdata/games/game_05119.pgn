@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XGBAHddg"]
+[White "chessforce"]
+[Black "Trrak"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:41"]
+[WhiteElo "2209"]
+[BlackElo "2117"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[ECO "E11"]
+[Opening "Bogo-Indian Defense: Wade-Smyslov Variation"]
+[TimeControl "240+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 a5 5. g3 d6 6. Bg2 Nc6 7. O-O e5 8. dxe5 dxe5 9. a3 Bc5 10. Bc3 e4 11. Qxd8+ Kxd8 12. Ng5 Ke7 13. Nxe4 Nxe4 14. Bxe4 a4 15. Bxg7 Rd8 16. Nc3 Be6 17. Nd5+ Bxd5 18. cxd5 Na5 19. Rad1 Nb3 20. Bxh7 Ra6 21. Bd3 Rb6 22. e4 c6 23. Rfe1 Bd4 24. Bxd4 Nxd4 25. Kg2 Rxb2 26. Bc4 Nb5 27. dxc6 bxc6 28. Rxd8 Kxd8 29. Bxf7 Nxa3 30. e5 Nc2 31. Rd1+ Ke7 32. e6 c5 33. Rd7+ Kf6 34. Bh5 Nb4 35. e7 Re2 36. e8=Q Rxe8 37. Bxe8 a3 38. Ra7 a2 39. Bb5 Ke5 40. Bc4 Kd4 41. Bxa2 Nd3 42. Bg8 Ne1+ 43. Kf1 Nc2 44. Rd7+ Kc3 45. Rc7 Kd4 46. Rxc5 Kxc5 47. h4 Nd4 48. Kg2 Nf5 49. Kh3 Nh6 50. g4 Nxg8 51. g5 Kd6 52. Kg4 Ke5 53. Kh5 Ne7 54. Kh6 Kf5 55. h5 Nd5 56. g6 Nf6 57. g7 Ng8+ 58. Kh7 Nf6+ 59. Kh8 Nd5 60. h6 Ne7 61. h7 Ng6+ 62. Kg8 Ne7+ 63. Kf7 Nc6 64. g8=Q Ne5+ 65. Ke8 Ng6 66. h8=Q Nxh8 67. Qxh8 Ke4 68. Qf8 Kd3 69. Qf7 1-0
+

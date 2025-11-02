@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/9naDLsbm"]
+[Site "https://lichess.org/gsggXiVw"]
+[White "matt_e_k"]
+[Black "vangelis4v"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:59"]
+[WhiteElo "1947"]
+[BlackElo "1633"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Steinitz Countergambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 c5 3. dxc5 Nc6 4. e3 Bd7 5. Bb5 e5 6. Bxc6 exf4 7. Bxd7+ Qxd7 8. exf4 Bxc5 9. Nc3 d4 10. Ne4 Qe7 11. Qe2 Bb4+ 12. Kd1 O-O-O 13. Ng5 Qd6 14. Qc4+ Bc5 15. Nxf7 Qe7 16. Nxh8 Nf6 17. b4 b5 18. Qxc5+ Qxc5 19. bxc5 Ne4 20. Nh3 Nc3+ 21. Kd2 Ne4+ 22. Kc1 Nxc5 23. Nf7 Rd7 24. Ne5 Rc7 25. Rd1 d3 26. Nxd3 Ne4 27. Ng5 Nc3 28. Re1 a5 29. Nxh7 b4 30. Re5 a4 31. Rc5 Ne2+ 32. Kd2 Nc3 33. Rxc7+ Kxc7 34. Nxb4 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wmcNKF6D"]
+[White "Rvallinas"]
+[Black "jarafat"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:25"]
+[WhiteElo "1407"]
+[BlackElo "1266"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+15"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Bc5 3. Nxe5 d6 4. Nf3 d5 5. Nc3 d4 6. Ne2 d3 7. cxd3 Qxd3 8. Qa4+ c6 9. Nf4 Bxf2+ 10. Kxf2 Qd7 11. Ne5 Qe7 12. Nxc6 bxc6 13. d3 Qc5+ 14. Be3 Qe5 15. d4 Qxe4 16. Rc1 Ne7 17. Bc4 Be6 18. Bxe6 fxe6 19. Qc4 Nd5 20. Rhe1 Nxf4 21. d5 Qxg2# 0-1
+

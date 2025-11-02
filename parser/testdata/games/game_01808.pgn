@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/xPg5B0g0"]
+[White "leonardo_loureiro"]
+[Black "Basejump"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:50"]
+[WhiteElo "1606"]
+[BlackElo "1667"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "D06"]
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 Nc6 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 e5 7. d5 Ne7 8. c4 c6 9. Nf3 cxd5 10. cxd5 Bg4 11. Bb5+ Bd7 12. Bxd7+ Qxd7 13. O-O f6 14. Be3 Ng6 15. Rc1 Bd6 16. Qb3 O-O 17. Rc2 Rfc8 18. Rfc1 Rxc2 19. Qxc2 b6 20. g3 Ba3 21. Rd1 Rd8 22. Qd2 Qd6 23. Ne1 Bb4 24. Qc2 Bxe1 25. Rxe1 Ne7 26. Rc1 Kf7 27. Qc7 Rd7 28. Qxd6 Rxd6 29. Rc7 a5 30. Bc1 g5 0-1
+

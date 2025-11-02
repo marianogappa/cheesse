@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/n2cPc93k"]
+[White "PawnbytheRiverside"]
+[Black "lucianobonfico"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:26"]
+[WhiteElo "1834"]
+[BlackElo "2217"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Vos Gambit"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 e5 2. Nf3 d6 3. dxe5 Nc6 4. exd6 Bxd6 5. e3 Nf6 6. Bd3 Qe7 7. O-O Be6 8. c3 O-O-O 9. a4 Bg4 10. Bb5 Bxh2+ 11. Kxh2 Rxd1 12. Rxd1 Bxf3 13. gxf3 Ne5 14. Kg2 h5 15. Be2 h4 16. Rg1 h3+ 17. Kf1 h2 18. Rh1 Qe6 19. Ke1 Qf5 20. Nd2 Nfd7 21. f4 Nd3+ 22. Kd1 Nxf2+ 23. Ke1 Nxh1 24. Nf3 Ng3 25. Nd4 h1=Q+ 26. Kd2 Qfh3 27. Bf3 Q1h2+ 28. Kd3 g5 29. Nb5 gxf4 30. Nxa7+ Kb8 31. Nb5 fxe3 32. Bxe3 Qf5+ 33. Be4 Qxe4# 0-1
+

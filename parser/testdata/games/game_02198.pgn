@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/R5CQ9aOS"]
+[White "lupettoblu"]
+[Black "whizz319"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:17"]
+[WhiteElo "1788"]
+[BlackElo "1920"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Accelerated Panov Attack #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Qxd5 5. Nc3 Qa5 6. d4 e6 7. Nf3 Bb4 8. Bd2 Qc7 9. Bd3 Nc6 10. O-O Bxc3 11. bxc3 Nf6 12. Qe2 O-O 13. c4 Rd8 14. Bc3 Ne7 15. Ne5 b6 16. Rac1 Bb7 17. Ba1 Rac8 18. f4 Ng6 19. f5 Nxe5 20. dxe5 Ne8 21. f6 Qc5+ 22. Kh1 Rd7 23. fxg7 Nxg7 24. Be4 Bxe4 25. Qxe4 Rd2 26. Qf4 Rd7 27. Rf3 Rcd8 28. h3 Rd1+ 29. Kh2 Qg1+ 30. Kg3 Nh5+ 31. Kh4 Nxf4 32. Rxd1 Ng6+ 33. Kg5 Qxd1 34. Bc3 Rd3 35. Rxd3 Qxd3 36. Bb4 Kg7 37. Kg4 Qxc4+ 38. Kf3 Qxb4 39. g4 Qf4+ 40. Ke2 Nxe5 41. a3 Qf3+ 42. Kd2 Qxa3 43. h4 Nxg4 44. h5 Kh6 45. Kc2 Kxh5 46. Kd2 f5 47. Ke2 f4 48. Kd2 f3 49. Kc2 f2 50. Kd2 f1=Q 51. Kc2 Qg2+ 0-1
+

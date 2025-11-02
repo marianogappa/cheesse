@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/oPNcCQAk"]
+[White "manzi"]
+[Black "prezofchess"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:23"]
+[WhiteElo "1759"]
+[BlackElo "1687"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+13"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "720+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. a3 d5 3. c4 c5 4. Nc3 Nc6 5. Nf3 Nf6 6. Bg5 Be7 7. e3 O-O 8. Rc1 Qb6 9. Na4 Qa5+ 10. Ke2 cxd4 11. Nxd4 Nxd4+ 12. exd4 Re8 13. b4 Qc7 14. cxd5 Qd6 15. dxe6 Qxe6+ 16. Be3 Qa2+ 17. Ke1 Qxa3 18. Be2 Qxb4+ 19. Kf1 Bd7 20. Nc3 Qd6 21. h3 Nd5 22. Nxd5 Qxd5 23. Bf3 Qb5+ 24. Kg1 Qf5 25. Rc7 Bd6 26. Rxb7 Red8 27. Bg4 Qd5 28. Rxd7 Rxd7 29. Bxd7 Bh2+ 30. Kxh2 Qxd7 31. Re1 a5 32. Qa1 a4 33. Rc1 h6 34. Qa3 Rb8 35. Ra1 Ra8 36. Kg1 f5 37. Qb4 Qc6 38. Bf4 Qe4 39. Be5 Qc6 40. Kf1 Kh7 41. Qe7 Rg8 42. Qf7 Qa6+ 43. Kg1 a3 44. Qxf5+ Kh8 45. Qh5 Kh7 46. Qd1 Ra8 47. Qc1 a2 48. Qc2+ Kh8 49. d5 Qa5 50. Qb3 Kh7 51. Bc3 Qa6 52. Qb2 Kg8 53. Bxg7 Ra7 54. Be5 Ra8 55. d6 Re8 56. Bf4 Rf8 57. Rxa2 Qc8 58. Bxh6 Rf7 59. Qh8+ Kxh8 0-1
+

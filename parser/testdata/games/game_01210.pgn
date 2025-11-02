@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/N5lwndoR"]
+[White "jargonaught"]
+[Black "M10R8"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:30"]
+[WhiteElo "1792"]
+[BlackElo "1827"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. c4 Be7 3. Nc3 Nf6 4. Bg5 O-O 5. Bxf6 Bxf6 6. e4 c5 7. e5 cxd4 8. exf6 dxc3 9. fxg7 Kxg7 10. Qd4+ e5 11. Qxe5+ f6 12. Qxc3 Re8+ 13. Be2 d5 14. Rd1 Be6 15. Qg3+ Kh8 16. Nf3 Qa5+ 17. Nd2 Rg8 18. Qf4 Rxg2 19. Qxf6+ Rg7 20. Qxe6 Nc6 21. cxd5 Nd4 22. a3 Nxe6 23. dxe6 Rf8 24. f3 Qc5 25. b4 Qe3 26. Ne4 Rxf3 27. Rd3 Qxe4 28. Rxf3 Re7 29. Rf8+ Kg7 30. Rf3 Rxe6 31. Rg1+ 1-0
+

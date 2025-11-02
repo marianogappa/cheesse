@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EKxuQTjU"]
+[White "John_McClane"]
+[Black "evigel"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:15"]
+[WhiteElo "2382"]
+[BlackElo "2481"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "B27"]
+[Opening "Sicilian Defense: Mongoose Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Qa5 3. Nc3 e6 4. Be2 a6 5. O-O b5 6. d4 Bb7 7. a3 b4 8. Na2 Bxe4 9. axb4 cxb4 10. Bd2 Qb6 11. c3 b3 12. Nc1 Bc2 13. Qe1 Nf6 14. Bd1 Nc6 15. Bxc2 bxc2 16. b4 a5 17. Nd3 Be7 18. Qc1 O-O 19. bxa5 Rxa5 20. Qxc2 Rxa1 21. Rxa1 Rc8 22. Rb1 Qa6 23. Nde5 h6 24. Nxc6 Qxc6 25. Ne5 Qa8 26. h3 d6 27. Nd3 Qa6 28. Nb4 Qc4 29. Qb3 Qe2 30. Qd1 Qxd1+ 31. Rxd1 Ne4 32. Na2 Ra8 33. Nc1 Nxd2 34. Rxd2 Ra1 35. Rc2 Bg5 0-1
+

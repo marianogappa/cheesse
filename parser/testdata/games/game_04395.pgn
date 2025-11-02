@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/C7EAtC1R"]
+[White "Geert52"]
+[Black "apavlov"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:55"]
+[WhiteElo "1240"]
+[BlackElo "1242"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Nf3 f6 3. e3 e5 4. dxe5 fxe5 5. Be2 e4 6. Nd4 Ne7 7. c3 g6 8. b3 Nbc6 9. a4 a5 10. O-O Bg7 11. Bb2 O-O 12. Nd2 Rb8 13. Bb5 Na7 14. Be2 Nec6 15. h3 Nxd4 16. cxd4 b5 17. axb5 Nxb5 18. Rxa5 c6 19. Nb1 Nd6 20. Ra1 Qc7 21. Nd2 c5 22. dxc5 Bxb2 23. Rb1 Bc3 24. Bg4 Bxg4 25. Qxg4 Bxd2 26. Qe6+ Rf7 27. cxd6 Qd8 28. d7 Rb7 29. Qe8+ Rf8 30. Qe6+ Rf7 31. Qe8+ Rf8 32. Qxd8 Rxd8 33. b4 Rbxd7 34. b5 d4 35. exd4 Rxd4 36. b6 e3 37. fxe3 Bxe3+ 38. Kh1 1-0
+

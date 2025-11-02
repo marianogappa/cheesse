@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rGKgLKmQ"]
+[White "carpediem257"]
+[Black "aslejo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:57"]
+[WhiteElo "1747"]
+[BlackElo "1800"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-13"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Nf3 e6 3. Bg5 Be7 4. Bf4 Nd7 5. h3 f5 6. e3 Ngf6 7. Bd3 O-O 8. Nbd2 c6 9. c4 h6 10. cxd5 exd5 11. a3 Nh7 12. O-O Ng5 13. Bxg5 Bxg5 14. Nxg5 hxg5 15. Qh5 Qf6 16. Nf3 g4 17. hxg4 fxg4 18. Ng5 Qh6 19. Qxh6 gxh6 20. Ne6 Rf6 21. Nf4 Nb6 22. Nh5 Rf7 23. f4 Bf5 24. Bxf5 Rxf5 25. Ng3 Rf7 26. Rae1 Raf8 27. Kf2 Nc4 28. Re2 Re8 29. Rfe1 Nd6 30. Kg1 Ne4 31. Nxe4 dxe4 32. g3 h5 33. Rd1 Rf5 34. Red2 Rd8 35. Kf2 Rdd5 36. b4 Kf7 37. Rh1 Ke6 38. Rh4 Kd7 39. Rh1 Kc7 40. Rb1 Kb6 41. a4 a6 42. Rc2 Ka7 43. Rc5 b6 44. Rxc6 Kb7 45. Rbc1 Rd7 46. Rh6 b5 47. a5 Rc7 48. Rxc7+ Kxc7 49. Rxa6 Kb7 50. Rh6 Ka7 51. a6 Rd5 52. Rc6 Ka8 53. Ke2 Ka7 54. Kd2 h4 55. gxh4 Rh5 56. Rc5 Rxh4 57. Rxb5 Rh2+ 58. Kc3 g3 59. Rg5 g2 60. d5 Kxa6 61. d6 Kb7 62. Rg7+ Kc6 63. d7 g1=Q 64. Rxg1 Kxd7 65. Rg7+ Kc6 66. Kd4 Rd2+ 67. Kxe4 Kb5 68. Rb7+ Ka4 69. Rg7 Rb2 70. Ra7+ Kb5 71. Rb7+ Kc6 72. Rg7 Rxb4+ 73. Kf3 Rb3 74. Rg6+ 1-0
+

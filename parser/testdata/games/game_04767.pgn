@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/UdtowwSw"]
+[White "Basejump"]
+[Black "racim"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:21"]
+[WhiteElo "1692"]
+[BlackElo "1684"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Scandinavian Variation, Geschev Gambit"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 c6 4. dxc6 Nxc6 5. Bb5 Bg4 6. f3 Bd7 7. Nge2 a6 8. Bxc6 Bxc6 9. d4 e6 10. Be3 Bb4 11. Qd3 O-O 12. O-O-O a5 13. Ne4 Nxe4 14. fxe4 a4 15. a3 Be7 16. d5 exd5 17. exd5 Bd7 18. d6 Bf6 19. Bd4 b5 20. Qf3 Bxd4 21. Nxd4 b4 22. Nf5 Bxf5 23. Qxf5 bxa3 24. bxa3 Rb8 25. Qc5 Rc8 26. Qb5 Qf6 27. Qxa4 Rfd8 28. Qb3 Qf4+ 29. Rd2 Rxd6 30. Rd1 Rxd2 31. Rxd2 Rd8 32. Qc3 Qf1+ 33. Kb2 Rb8+ 34. Ka2 1-0
+

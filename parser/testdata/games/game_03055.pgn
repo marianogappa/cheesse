@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AXxLIXyz"]
+[White "SRTM"]
+[Black "khragthung"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:24"]
+[WhiteElo "1661"]
+[BlackElo "1804"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Slav Invitation"]
+[TimeControl "240+4"]
+[Termination "Normal"]
+
+1. Nf3 c6 2. d4 c5 3. e3 cxd4 4. exd4 d5 5. c4 e6 6. Be2 Nf6 7. Nc3 Bb4 8. O-O O-O 9. Bg5 dxc4 10. Bxc4 Be7 11. Rc1 b6 12. a3 Ba6 13. Bb5 Bxb5 14. Nxb5 Nbd7 15. Ne5 Nxe5 16. dxe5 Nd5 17. Bxe7 Qxe7 18. h3 f6 19. exf6 Rxf6 20. Nd4 Raf8 21. Qd2 Qf7 22. Rce1 Nf4 23. Nf3 Nxh3+ 24. gxh3 Rxf3 25. Kg2 Qh5 26. Kh2 Qxh3+ 27. Kg1 Qg4+ 28. Kh2 Rh3# 0-1
+

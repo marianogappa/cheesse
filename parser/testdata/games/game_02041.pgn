@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/C6oyQsmg"]
+[White "plaxico"]
+[Black "Antonio8810"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:37"]
+[WhiteElo "1502"]
+[BlackElo "1155"]
+[WhiteRatingDiff "-20"]
+[BlackRatingDiff "+42"]
+[ECO "C46"]
+[Opening "Four Knights Game: Gunsberg Variation"]
+[TimeControl "600+3"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.33] } 1... e5 { [%eval 0.23] } 2. Nf3 { [%eval 0.3] } 2... Nc6 { [%eval 0.32] } 3. a3 { [%eval 0.14] } 3... Nf6 { [%eval 0.14] } 4. Nc3 { [%eval 0.18] } 4... Bc5?! { [%eval 0.69] } 5. h3?! { [%eval -0.08] } 5... O-O { [%eval 0.0] } 6. Bc4 { [%eval 0.0] } 6... d6 { [%eval 0.0] } 7. O-O { [%eval 0.0] } 7... Na5 { [%eval 0.23] } 8. Ba2 { [%eval 0.12] } 8... c6? { [%eval 2.91] } 9. b4 { [%eval 2.84] } 9... Bb6 { [%eval 2.84] } 10. bxa5 { [%eval 2.54] } 10... Bxa5 { [%eval 2.51] } 11. Re1 { [%eval 2.47] } 11... Qb6 { [%eval 2.61] } 12. Rb1 { [%eval 2.59] } 12... Qc5?? { [%eval 8.89] } 13. Bb2?? { [%eval 3.2] } 13... Bb6 { [%eval 3.56] } 14. Re2 { [%eval 3.18] } 14... d5? { [%eval 5.06] } 15. exd5 { [%eval 4.49] } 15... cxd5?! { [%eval 5.45] } 16. Na4 { [%eval 5.29] } 16... Qb5?! { [%eval 5.79] } 17. Nxb6 { [%eval 5.6] } 17... Qxb6 { [%eval 6.06] } 18. Bxe5 { [%eval 6.06] } 18... Re8?? { [%eval 15.86] } 19. Rxb6 { [%eval 15.64] } 19... axb6 { [%eval 15.45] } 20. Bd6 { [%eval 11.23] } 20... Rd8 { [%eval 13.62] } 21. Bb4 { [%eval 11.55] } 21... Bf5 { [%eval 12.26] } 22. Nd4 { [%eval 12.07] } 22... Bg6 { [%eval 11.99] } 23. c3 { [%eval 11.56] } 23... Ne4 { [%eval 12.02] } 24. f3 { [%eval 11.42] } 24... Ng3 { [%eval 12.68] } 25. Re7 { [%eval 12.47] } 25... Bd3 { [%eval 13.73] } 26. Rxb7 { [%eval 13.46] } 26... Ne2+ { [%eval 16.84] } 27. Kh2 { [%eval 12.38] } 27... Nf4 { [%eval 14.27] } 28. Rxb6 { [%eval 13.27] } 28... Rac8 { [%eval 15.17] } 29. Bd6 { [%eval 14.31] } 29... Bc4 { [%eval 17.15] } 0-1
+

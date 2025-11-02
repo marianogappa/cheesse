@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/j75I8b0g"]
+[White "sergeybmw"]
+[Black "zs_06"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:28"]
+[WhiteElo "2069"]
+[BlackElo "2019"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nc6 4. d4 cxd4 5. cxd4 d5 6. Bd3 dxe4 7. Bxe4 Nf6 8. Bxc6+ bxc6 9. O-O Ba6 10. Re1 Nd5 11. Ne5 Qc7 12. Nc3 Bd6 13. g3 O-O 14. Qa4 Bb7 15. Nc4 Be7 16. Na5 Bc8 17. Nxc6 Bd7 18. Nxe7+ Kh8 19. Nexd5 exd5 20. Qc2 Bh3 21. Bf4 Qc4 22. Re5 Qxd4 23. Rh5 g6 24. Rxh3 Rfc8 25. Rh4 Qb6 26. Be3 Qd6 27. Rd4 Re8 28. Qd2 h5 29. Rxd5 Qe6 30. Bd4+ Kh7 31. Re5 Qh3 32. Rae1 Red8 33. Qf4 Qd7 34. Rd5 Qb7 35. Rxd8 Rxd8 36. Qf6 Rg8 37. Re7 Kh6 38. Rxb7 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BelbchcS"]
+[White "Zygote21"]
+[Black "Xynoff"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:15"]
+[WhiteElo "1926"]
+[BlackElo "2016"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "A28"]
+[Opening "English Opening: King's English Variation, Four Knights Variation #2"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Ne5 6. e3 Bb4 7. Be2 d6 8. O-O Bxc3 9. bxc3 O-O 10. Qc2 Bg4 11. f3 Bd7 12. a4 a6 13. Rd1 c5 14. Nf5 Bxf5 15. Qxf5 Qe7 16. f4 Ng6 17. Qg5 h6 18. Qf5 Rad8 19. Bf3 Nh4 20. Qd3 Nxf3+ 21. gxf3 Rfe8 22. Kf2 Nh5 23. Rg1 Qh4+ 24. Kf1 Qh3+ 25. Kf2 Qxh2+ 26. Rg2 Qh4+ 27. Ke2 Nxf4+ 28. Kd2 Nxd3 29. Kxd3 Qe1 30. e4 Qf1+ 31. Re2 Qxf3+ 32. Re3 Qf1+ 33. Re2 d5 34. cxd5 Rxd5+ 35. Kc4 Qxe2+ 36. Kxd5 Qxe4+ 37. Kxc5 Rc8+ 38. Kb6 Qc6+ 39. Ka7 b5 40. Bf4 Ra8# 0-1
+

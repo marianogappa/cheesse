@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VwqO2jE7"]
+[White "KnightStand"]
+[Black "qedpig"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:31"]
+[WhiteElo "1217"]
+[BlackElo "1228"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+17"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Kennedy Variation"]
+[TimeControl "180+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 Nc6 3. c4 exd4 4. c5 Nf6 5. b4 a6 6. a4 b5 7. a5 d5 8. Nf3 dxe4 9. Nxd4 Qxd4 10. Qxd4 Nxd4 11. Nc3 Bf5 12. Bf4 c6 13. Be2 Ng4 14. Bxg4 Bxg4 15. O-O Be7 16. f3 exf3 17. gxf3 Bf5 18. Rae1 Ra7 19. Re5 g6 20. Rfe1 f6 21. R5e3 g5 22. Bd6 Ne6 23. Bxe7 Kxe7 24. Ne4 g4 25. fxg4 Bxg4 26. Nf2 Bf5 27. Rd1 Rd7 28. Rxd7+ Kxd7 29. Ne4 Bxe4 30. Rxe4 Ng5 31. Rd4+ Ke7 32. Rd6 Kf7 33. Rxc6 h5 34. Rxa6 h4 35. c6 Nf3+ 36. Kh1 h3 37. Ra7+ Kg6 38. c7 Kh6 39. Rb7 Rg8 40. c8=Q Rg1# 0-1
+

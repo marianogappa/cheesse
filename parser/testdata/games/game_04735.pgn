@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZSyp3BCt"]
+[White "OhImSorry"]
+[Black "victor-ch"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:15"]
+[WhiteElo "2018"]
+[BlackElo "1716"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "C40"]
+[Opening "Latvian Gambit: Mason Countergambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 f5 3. d4 exd4 4. e5 d6 5. Qxd4 Nc6 6. Bb5 a6 7. Bxc6+ bxc6 8. O-O Rb8 9. Nc3 c5 10. Qd5 Bb7 11. Qe6+ Be7 12. exd6 cxd6 13. Bg5 Bxf3 14. gxf3 Rxb2 15. Nd5 h6 16. Bxe7 Nxe7 17. Rfe1 Kf8 18. Nxe7 Rxc2 19. Ng6# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ECokD4Q1"]
+[White "paneof"]
+[Black "Enuma_Elish"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:14"]
+[WhiteElo "1740"]
+[BlackElo "1818"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. d3 d6 2. e3 e5 3. Nf3 Nc6 4. Be2 Bg4 5. Nfd2 Bf3 6. Bxf3 Qd7 7. e4 O-O-O 8. Nc3 Nd4 9. Nd5 Nxf3+ 10. Nxf3 f5 11. exf5 Qxf5 12. Ne3 Qd7 13. Bd2 Nf6 14. Bc3 d5 15. Nxe5 Qf7 16. d4 Qe7 17. Qe2 Ne4 18. Qd3 Nxc3 19. Qxc3 g6 20. O-O-O Bh6 21. Kb1 Bxe3 22. fxe3 Qd6 23. Qd3 Rhf8 24. Ng4 h5 25. Ne5 Rf5 26. Rhf1 Rxe5 27. dxe5 Qxe5 28. Rde1 Qd6 29. Qd4 c6 30. Qd3 Qc7 31. Qd2 a6 32. Qd1 a5 33. Qc1 a4 34. a3 Qb6 35. Ka2 d4 36. Ka1 Rd5 37. Qb1 Rc5 38. exd4 Kb8 39. Rc1 Rc4 40. c3 Ka7 41. Rc2 Ka6 42. Qa2 Rxc3 43. Rb1 Rxc2 0-1
+

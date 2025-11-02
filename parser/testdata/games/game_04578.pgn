@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2bwnxN4z"]
+[White "gornyialtay"]
+[Black "flogisto"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:29"]
+[WhiteElo "1552"]
+[BlackElo "1687"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "A30"]
+[Opening "English Opening: Symmetrical Variation"]
+[TimeControl "180+4"]
+[Termination "Normal"]
+
+1. c4 c5 2. e3 e6 3. d4 cxd4 4. exd4 Nf6 5. a3 b6 6. Nf3 Bb7 7. Bd3 Be7 8. Nc3 O-O 9. O-O d5 10. Bf4 dxc4 11. Bxc4 Nc6 12. b4 a6 13. Ne5 Nxe5 14. Bxe5 Nd5 15. Nxd5 exd5 16. Bb3 Bd6 17. Qf3 Bxe5 18. dxe5 Qd7 19. Rad1 Rad8 20. Rd4 Qe6 21. Re1 f5 22. h3 Rf7 23. Qf4 h6 24. Re3 g5 25. Qf3 f4 26. Ree4 Rf5 27. Re2 Rxe5 28. Rxe5 Qxe5 29. Rd1 Kg7 30. Qh5 a5 31. Kf1 axb4 32. axb4 Ba6+ 33. Kg1 Be2 34. Re1 Bxh5 35. Rxe5 d4 36. g4 fxg3 37. fxg3 d3 38. Kf2 d2 39. g4 Bxg4 40. hxg4 d1=Q 41. Bxd1 Rxd1 42. Re6 Rd4 43. Rxb6 Rxg4 44. b5 Rb4 45. Rb7+ Kg6 46. Ke3 h5 47. Rb6+ Kf5 48. Kd3 h4 49. Kc3 Rb1 50. Kc2 Rb4 51. Kc3 Rf4 52. Rh6 Kg4 53. b6 Rf8 54. b7 Rb8 55. Rb6 h3 56. Rb4+ Kg3 57. Kd2 g4 58. Ke3 h2 59. Rb1 Rxb7 0-1
+

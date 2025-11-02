@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WuUkbaJ7"]
+[White "kpowe52"]
+[Black "bigbadbo55"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:40"]
+[WhiteElo "1647"]
+[BlackElo "1639"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Breyer Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. Nc3 Nc6 2. e4 Nf6 3. d4 e5 4. d5 Nd4 5. Nf3 Nxf3+ 6. Qxf3 d6 7. Bb5+ Bd7 8. Qe2 c6 9. dxc6 bxc6 10. Ba4 Be7 11. Qa6 Qc7 12. Bg5 O-O 13. Bxf6 Bxf6 14. O-O-O Rab8 15. b3 Rb6 16. Qd3 c5 17. Nd5 Qb7 18. Nxb6 axb6 19. Bxd7 Qxd7 20. Qxd6 Qb5 21. a4 Qe2 22. f4 Qxe4 23. g3 exf4 24. gxf4 Qe3+ 25. Kb1 Qc3 26. Kc1 Bd4 27. Rxd4 cxd4 28. Rd1 Qe3+ 29. Kb1 Re8 30. Rxd4 Qe1+ 31. Kb2 h6 32. Qd7 Qe3 33. Rd5 Re7 34. Qd8+ Kh7 35. Re5 Rxe5 36. fxe5 Qxe5+ 37. Kb1 Qxh2 38. Qd3+ g6 39. Qd4 Qc7 40. Kb2 h5 41. Qe3 f5 42. Qg5 Qe5+ 43. Ka3 f4 44. Qxe5 g5 45. Qxg5 f3 46. Qxh5+ Kg7 47. Qxf3 Kg6 48. Qc6+ Kf5 49. Qxb6 Ke4 50. c4 Kd3 51. c5 Kc3 52. c6 Kc2 53. c7 Kd3 54. c8=Q 1-0
+

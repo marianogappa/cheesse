@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/lxeUKOhU"]
+[White "zurka"]
+[Black "rusPlayer"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:56"]
+[WhiteElo "1697"]
+[BlackElo "1649"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. b3 c6 2. Bb2 d5 3. g3 Bf5 4. Bg2 e5 5. f3 e4 6. e3 exf3 7. g4 fxg2 8. Qf3 Bxg4 9. Qxg2 Qd7 10. h3 f6 11. hxg4 Nh6 12. g5 Ng4 13. Nc3 Bb4 14. a3 Bxc3 15. Bxc3 d4 16. exd4 Na6 17. Qe2+ Kf7 18. Kd1 Rhe8 19. Qc4+ Kf8 20. gxf6 gxf6 21. Nf3 Nf2+ 22. Kc1 Nxh1 23. Kb2 Qg4 24. Bb4+ Kg7 25. Rg1 Qxg1 26. Nxg1 Re2 27. Qxe2 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HQRzV5Sq"]
+[White "potatomasters2"]
+[Black "Atomheartalan"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:12"]
+[WhiteElo "1350"]
+[BlackElo "1406"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C60"]
+[Opening "Ruy Lopez: Cozio Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. O-O a6 5. Ba4 b5 6. Bb3 d6 7. Re1 Bb7 8. c3 Ng8 9. d4 exd4 10. Nxd4 Nxd4 11. cxd4 Nf6 12. e5 dxe5 13. Rxe5+ Be7 14. Bg5 Qd6 15. Qe2 O-O 16. Nc3 Qc6 17. f3 Bb4 18. Bxf6 Bxc3 19. bxc3 Qxf6 20. c4 bxc4 21. Bxc4 c6 22. Rd1 Qd8 23. d5 cxd5 24. Rexd5 Bxd5 25. Bxd5 Qf6 26. Bxa8 Rxa8 27. Re1 Rf8 28. Qe8 h6 29. Re7 Rxe8 30. Rxe8+ Kh7 0-1
+

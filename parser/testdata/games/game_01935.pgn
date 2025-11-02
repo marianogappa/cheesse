@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YGXKpXv6"]
+[White "seferiae"]
+[Black "FrankyPerry"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:15"]
+[WhiteElo "1469"]
+[BlackElo "1432"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted, MacLeod Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nc6 4. Bc4 h6 5. d3 Nf6 6. Bxf4 Bc5 7. Nc3 O-O 8. Qd2 Re8 9. O-O-O d6 10. h3 a6 11. g4 Be6 12. Bxe6 Rxe6 13. g5 Nh5 14. gxh6 Nxf4 15. Qxf4 Rxh6 16. d4 Bb6 17. Rhg1 Qf6 18. Qg4 Rg6 19. Qh4 Qxf3 20. Rxg6 fxg6 21. e5 dxe5 22. dxe5 Qe3+ 23. Kb1 Qxe5 24. Re1 Qf5 25. Qc4+ Kh7 26. Ne4 Re8 27. h4 Bf2 28. Re2 Bxh4 29. Rh2 g5 30. Nc5 Re1# 0-1
+

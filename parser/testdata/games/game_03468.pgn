@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/7hYaDxMl"]
+[White "alexrakitko"]
+[Black "drybiedog"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:10"]
+[WhiteElo "1576"]
+[BlackElo "1678"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-16"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 a6 3. Nc3 b5 4. Nf3 e6 5. d3 Nc6 6. e5 f5 7. Be3 Nge7 8. d4 c4 9. d5 Nxd5 10. Nxd5 Bb4+ 11. Nc3 O-O 12. a3 Ne7 13. axb4 Ng6 14. b3 d5 15. bxc4 bxc4 16. Be2 Bb7 17. O-O Qe7 18. Bc5 Qd7 19. Bxf8 Rxf8 20. Qb1 d4 21. Na4 Nxf4 22. Bxc4 Qf7 23. Rd1 Qg6 24. Rd2 Bxf3 25. Qf1 Be4 26. Qxf4 Bxg2 27. Rxg2 Qh6 28. Qg5 Qxg5 29. Rxg5 f4 30. Bxe6+ Kh8 31. Rf5 Rd8 32. Rxf4 d3 33. cxd3 1-0
+

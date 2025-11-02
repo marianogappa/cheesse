@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mRqQ2tmz"]
+[White "ulissethebest"]
+[Black "brankov"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:04"]
+[WhiteElo "1839"]
+[BlackElo "1867"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+14"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. c4 e6 2. Nc3 d5 3. e3 Bb4 4. d4 Nf6 5. a3 Bxc3+ 6. bxc3 Ne4 7. Qc2 O-O 8. Bd3 f5 9. f3 Qh4+ 10. g3 Nxg3 11. hxg3 Qxh1 12. Qf2 Nc6 13. Bd2 e5 14. cxd5 e4 15. fxe4 fxe4 16. Be2 Rxf2 17. Kxf2 Qh2+ 0-1
+

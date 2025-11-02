@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/owfzZMIM"]
+[White "SrDonVergas"]
+[Black "Goalchessrobot123"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:10"]
+[WhiteElo "2126"]
+[BlackElo "2117"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+14"]
+[ECO "E60"]
+[Opening "King's Indian Defense: Normal Variation, King's Knight Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 Re8 8. Re1 e5 9. d5 a6 10. h3 a5 11. b3 Nc5 12. Bb2 b6 13. a3 Ba6 14. Nd2 Nfd7 15. b4 axb4 16. axb4 Bxc4 17. Nxc4 Rxa1 18. Qxa1 Nb7 19. Qd1 f5 20. f4 e4 21. e3 Nf6 22. Ne2 Nh5 23. Rf1 Bxb2 24. Nxb2 Qf6 25. Qd4 Qg7 26. Nd1 Nf6 27. Nf2 Ra8 28. Rc1 Ne8 29. Qc4 Nd8 30. Qb5 Qe7 31. Nd4 Ra2 32. g4 fxg4 33. hxg4 Qh4 34. Rf1 Nf6 35. Qc4 Rxf2 36. Rxf2 Nxg4 37. Qe2 Qh2+ 38. Kf1 Nxf2 39. Qxf2 Qh5 40. Bxe4 Qd1+ 41. Qe1 Qg4 42. Bg2 Nf7 43. Kg1 Nh6 44. Qe2 Qg3 45. Qf3 Qh4 46. Qh3 Qf6 47. Kh2 Nf5 48. Ne6 Nh4 49. Bf3 Nxf3+ 50. Qxf3 Qf5 51. Qh3 Qc2+ 52. Qg2 Qf5 53. Ng5 h6 54. Qh3 Qc2+ 55. Qg2 Qxg2+ 56. Kxg2 hxg5 57. fxg5 Kg7 58. Kg3 Kf7 59. Kf4 b5 60. e4 Ke7 61. Kg4 Kd7 62. Kf4 c6 63. dxc6+ Kxc6 64. Ke3 d5 65. exd5+ Kxd5 66. Kd3 Ke5 67. Ke3 Kf5 68. Kd4 Kxg5 69. Kc5 Kf4 70. Kxb5 g5 71. Kc6 g4 72. b5 g3 73. b6 g2 74. b7 g1=Q 75. b8=Q+ Kf3 0-1
+

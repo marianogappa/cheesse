@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qh2LDzFa"]
+[White "Overpressure_Ammo"]
+[Black "Sabre007"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:20"]
+[WhiteElo "1514"]
+[BlackElo "1583"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. f4 Nc6 2. Nf3 b6 3. b3 Bb7 4. e3 e6 5. Bb2 Nf6 6. Be2 g6 7. O-O Bg7 8. d3 d6 9. d4 Ng4 10. Qd2 f5 11. h3 Nf6 12. Nc3 d5 13. Ne5 Nxe5 14. dxe5 Nd7 15. Ba3 Nc5 16. Nb5 Qd7 17. Nc3 O-O-O 18. Bb5 Qe7 19. Na4 Bf8 20. Nxc5 bxc5 21. Rac1 c6 22. Be2 Qd7 23. Rfd1 Be7 24. c3 Kb8 25. Rb1 Ka8 26. b4 c4 27. Rdc1 Rc8 28. Bd1 Ba6 29. Ba4 Bb5 30. Bd1 Rhd8 31. Bb2 h6 32. a4 Ba6 33. b5 cxb5 34. axb5 Bxb5 35. Ra1 Rc7 36. Rcb1 Rb8 37. Ba3 Bxa3 38. Rxa3 Qe7 39. Rba1 Rb6 40. Ra5 Bc6 41. Qa2 Rbb7 42. Ba4 Bxa4 43. Qxa4 Qd7 44. Qa3 Qe7 45. Qxe7 Rxe7 46. Ra6 g5 47. fxg5 hxg5 48. g4 fxg4 49. hxg4 Rb8 50. Rf1 Rb3 51. Rc1 Kb7 52. Ra4 a6 53. Kg2 Kb6 54. Kg3 a5 55. Rc2 Kb5 56. Rca2 Ra7 57. Rc2 Kxa4 58. Ra2+ Ra3 59. Rc2 Kb3 60. Rf2 Ra2 61. Rf6 Re7 62. Rg6 Kxc3 63. Rxg5 Kd3 64. Kf3 c3 65. Rh5 c2 66. Rh1 Rc7 67. g5 c1=Q 68. g6 Qxh1+ 69. Kf4 Qh6+ 0-1
+

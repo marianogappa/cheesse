@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/509dHPL4"]
+[White "lollipop61"]
+[Black "Dummer"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:51"]
+[WhiteElo "1521"]
+[BlackElo "1555"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "A20"]
+[Opening "English Opening: King's English Variation, Nimzowitsch Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. c4 e5 2. Nf3 f5 3. Nxe5 Nf6 4. g3 d6 5. Nf3 Nc6 6. Bg2 b6 7. Nc3 Bb7 8. d3 Be7 9. Bg5 O-O 10. O-O h6 11. Bxf6 Bxf6 12. Qd2 Rc8 13. Nh4 Bxh4 14. gxh4 Qxh4 15. Rab1 Na5 16. b4 Bxg2 17. Kxg2 Qg4+ 18. Kh1 Nc6 19. Rg1 Qh5 20. Qf4 Ne5 21. Qg3 Ng4 22. f3 Ne3 23. Qxg7# 1-0
+

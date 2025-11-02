@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dLTz8bAK"]
+[White "Artigiano"]
+[Black "sawyas"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:21"]
+[WhiteElo "1919"]
+[BlackElo "1908"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian Defense: Three Knights Variation, Duchamp Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. a3 Bxc3+ 6. bxc3 Bb7 7. Qc2 O-O 8. g3 d6 9. Bg2 Nbd7 10. O-O c5 11. Bg5 h6 12. Bd2 Rc8 13. Qb2 cxd4 14. cxd4 Rxc4 15. e3 Qa8 16. Nh4 Bxg2 17. Nxg2 Rfc8 18. Bb4 d5 19. Rab1 Qc6 20. Nf4 Ne4 21. Kg2 Rc2 22. Qb3 g5 23. Nh3 Re2 24. Rbc1 Rc2 25. Rxc2 Qxc2 26. Qxc2 Rxc2 27. Ng1 a5 28. Be7 f5 29. h4 Kf7 30. Bd8 g4 31. h5 Nef6 32. Bxf6 Nxf6 33. Re1 Nxh5 34. Ne2 Ra2 35. Kf1 Rxa3 36. Rc1 b5 37. Rc7+ Kf6 38. Rc5 b4 39. Rb5 Ra1+ 40. Kg2 Ra2 41. Nc1 Ra1 42. Nb3 Ra2 43. Nxa5 Rb2 44. Nc6 b3 45. Na5 Ng7 46. Rxb3 Rxb3 47. Nxb3 Ne8 48. f3 gxf3+ 49. Kxf3 Nd6 50. Nd2 Ne4 51. Nf1 h5 52. Nh2 Kg5 53. Nf1 h4 54. gxh4+ Kxh4 55. Kf4 Kh3 56. Ke5 Kg2 57. Kxe6 Kxf1 58. Kxd5 Kf2 59. Ke5 Ng3 60. d5 Kxe3 61. d6 f4 62. d7 f3 63. d8=Q f2 64. Qb6+ Kf3 65. Qb3+ Kg2 66. Qd5+ Kg1 67. Qd1+ f1=Q 68. Qd4+ Qf2 69. Qa1+ Qf1 70. Qa7+ Qf2 71. Qg7 Qe3+ 72. Kd5 Qd3+ 73. Kc6 Qc2+ 74. Kb7 Qb3+ 75. Ka8 Qa4+ 76. Kb7 Qb5+ 77. Kc8 Qa6+ 78. Kd8 Qb6+ 79. Ke8 Qc6+ 80. Kd8 Qd6+ 81. Kc8 Qc6+ 82. Kb8 Qb6+ 83. Ka8 Qa6+ 84. Kb8 Qb6+ 85. Kc8 Qc6+ 86. Kd8 Qd6+ 87. Ke8 Qe6+ 88. Kf8 Qc8+ 89. Kf7 Qc7+ 90. Kg8 Qxg7+ 91. Kxg7 1/2-1/2
+

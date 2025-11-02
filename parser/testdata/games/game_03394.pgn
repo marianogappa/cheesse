@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/99Trbq48"]
+[White "cujpetl2"]
+[Black "dsgalaxius"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:52"]
+[WhiteElo "1690"]
+[BlackElo "1679"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-16"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense #2"]
+[TimeControl "600+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Bxc6 dxc6 5. d3 Bd6 6. Bg5 Bg4 7. Bxf6 Qxf6 8. h3 Bxf3 9. Qxf3 Qxf3 10. gxf3 O-O 11. Nc3 Bb4 12. a3 Bxc3+ 13. bxc3 Rad8 14. Kd2 c5 15. c4 c6 16. a4 f5 17. exf5 Rxf5 18. Ke2 Rdf8 19. Rhg1 Rxf3 20. Rg2 Rxh3 21. Rag1 g6 22. Rg3 Rh2 23. R1g2 Rxg2 24. Rxg2 Kg7 25. Ke3 Rf4 26. f3 Kf6 27. c3 h5 28. d4 cxd4+ 29. cxd4 exd4+ 30. Kxf4 c5 31. Ke4 g5 32. Rb2 b6 33. a5 h4 34. axb6 axb6 35. Rxb6+ Kg7 36. Rb1 Kf6 37. Rh1 Ke6 38. f4 Kf6 39. fxg5+ Kxg5 40. Rg1+ Kh5 41. Kf4 d3 42. Rd1 h3 43. Kg3 h2 44. Kxh2 Kg4 45. Rxd3 Kf4 46. Rd5 Ke4 47. Rxc5 Kd4 48. Rc8 Ke5 49. Rd8 1-0
+

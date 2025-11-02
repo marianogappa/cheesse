@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/8rNSYBO5"]
+[White "Pollux2"]
+[Black "timegalore"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:13"]
+[WhiteElo "2257"]
+[BlackElo "2261"]
+[WhiteRatingDiff "-22"]
+[BlackRatingDiff "+12"]
+[ECO "A80"]
+[Opening "Dutch Defense: Raphael Variation"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. d4 f5 2. Nc3 Nf6 3. Bg5 c6 4. Bxf6 exf6 5. e3 Bb4 6. Ne2 O-O 7. a3 Ba5 8. b4 Bc7 9. Qd3 d5 10. g3 Be6 11. Bg2 Nd7 12. O-O Nb6 13. Nf4 Qd7 14. Nce2 Rae8 15. c3 Bf7 16. a4 Nc4 17. Qc2 g5 18. Nd3 Bg6 19. Nc5 Qc8 20. Qa2 Kh8 21. b5 f4 22. exf4 gxf4 23. gxf4 Qg4 24. Ng3 Bxf4 25. Rad1 h5 26. Nd3 Bxd3 27. Rxd3 h4 28. Bf3 Qg5 29. Kg2 hxg3 30. hxg3 Kg7 31. Rh1 Rh8 32. Rdd1 Ne3+ 33. Kg1 Nxd1 34. Bxd1 Re1+ 0-1
+

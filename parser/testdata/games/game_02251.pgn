@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JvYHFNXj"]
+[White "cmahonen"]
+[Black "ferguson"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:32"]
+[WhiteElo "1683"]
+[BlackElo "1723"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "D05"]
+[Opening "Colle System"]
+[TimeControl "240+2"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 Nf6 3. Nf3 e6 4. Nc3 Be7 5. Bd3 O-O 6. Bd2 b6 7. Qe2 Bb7 8. h3 Nbd7 9. a3 c5 10. g4 c4 11. Bxh7+ Nxh7 12. h4 Nhf6 13. g5 Ne4 14. O-O-O Nxc3 15. Bxc3 b5 16. Rdg1 a5 17. h5 b4 18. axb4 axb4 19. Be1 Ra1+ 20. Kd2 c3+ 21. bxc3 bxc3+ 22. Kxc3 Qa5+ 23. Kb2 Qa3# 0-1
+

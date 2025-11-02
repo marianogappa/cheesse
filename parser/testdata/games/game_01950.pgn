@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fYsZ1rOo"]
+[White "gap109"]
+[Black "Snitcher"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:19"]
+[WhiteElo "1433"]
+[BlackElo "1109"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "C44"]
+[Opening "Ponziani Opening: Jaenisch Counterattack"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. c3 Nc6 4. d4 exd4 5. cxd4 a6 6. e5 Ne4 7. Nbd2 Nxd2 8. Bxd2 Nxd4 9. Nxd4 c5 10. Nf3 b5 11. Qc2 d6 12. exd6 Qxd6 13. O-O-O Qe6 14. Re1 c4 15. Rxe6+ Bxe6 16. Nd4 Bf5 17. Qc3 1-0
+

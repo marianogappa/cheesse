@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/FhsDrMtN"]
+[White "Canatan"]
+[Black "Mlnski"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:55"]
+[WhiteElo "1473"]
+[BlackElo "1407"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-9"]
+[ECO "B34"]
+[Opening "Sicilian Defense: Accelerated Dragon, Exchange Variation"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.33] } 1... c5 { [%eval 0.34] } 2. Nf3 { [%eval 0.28] } 2... Nc6 { [%eval 0.52] } 3. d4?! { [%eval -0.04] } 3... cxd4 { [%eval 0.07] } 4. Nxd4 { [%eval -0.09] } 4... g6 { [%eval 0.14] } 5. Nxc6 { [%eval 0.14] } 5... bxc6 { [%eval 0.13] } 6. Nc3 { [%eval 0.12] } 6... Bg7 { [%eval 0.25] } 7. g3?! { [%eval -0.26] } 7... e6?! { [%eval 0.28] } 8. Bg2?! { [%eval -0.35] } 8... Ne7?! { [%eval 0.17] } 9. O-O { [%eval 0.2] } 9... O-O { [%eval 0.55] } 10. Re1 { [%eval 0.07] } 10... d5 { [%eval 0.23] } 11. Be3? { [%eval -2.29] } 11... Ba6? { [%eval 0.04] } 12. exd5 { [%eval -0.28] } 12... cxd5 { [%eval -0.33] } 13. Na4?! { [%eval -1.0] } 13... Qd7?! { [%eval -0.08] } 14. Nc5 { [%eval -0.02] } 14... Qd6 { [%eval 0.05] } 15. b4?! { [%eval -0.57] } 15... Bxa1?! { [%eval 0.16] } 16. Qxa1 { [%eval 0.06] } 16... Nf5? { [%eval 2.68] } 17. Bf4 { [%eval 2.57] } 17... e5?! { [%eval 3.43] } 18. Bxe5 { [%eval 3.12] } 18... Qb6?? { [%eval 7.91] } 19. Nd7 { [%eval 7.45] } 19... Qxb4? { [%eval 18.04] } 20. Nf6+ { [%eval 17.7] } 20... Kg7 { [%eval 17.29] } 21. Nxd5+ { [%eval 16.6] } 21... f6 { [%eval 19.51] } 22. Nxb4 { [%eval 17.45] } 22... fxe5 { [%eval 18.11] } 23. Nxa6 { [%eval 16.0] } 23... Nd4 { [%eval 22.1] } 24. Bxa8 { [%eval 17.2] } 24... Nxc2?! { [%eval #6] } 25. Qxe5+ { [%eval #5] } 25... Rf6 { [%eval #5] } 26. Rc1?! { [%eval #5] } 1-0
+

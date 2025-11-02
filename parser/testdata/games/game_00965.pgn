@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FUd8m7F0"]
+[White "pan79"]
+[Black "h2pi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:35"]
+[WhiteElo "1333"]
+[BlackElo "1279"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+13"]
+[ECO "C20"]
+[Opening "Bishop's Opening: Boi Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Bc5 3. Qf3 Qe7 4. a3 Nf6 5. h3 d6 6. g4 Nc6 7. c3 Na5 8. Bd5 Nxd5 9. exd5 Bd7 10. d3 O-O-O 11. b4 Nb3 12. Nd2 Nxa1 13. bxc5 Nc2+ 14. Kd1 Na1 15. Bb2 Ba4+ 16. Kc1 Nb3+ 17. Nxb3 Bxb3 18. cxd6 Rxd6 19. c4 b5 20. Ne2 bxc4 21. dxc4 Bxc4 22. Nc3 Qd7 23. Rd1 Rd8 24. Qe4 Bxd5 25. Nxd5 Qc6+ 26. Kb1 Rxd5 27. Rxd5 Rxd5 28. Qc2 Qxc2+ 29. Kxc2 Kb7 30. Kc3 f6 31. Kc4 Rd2 32. Bc3 Rxf2 33. a4 Rh2 34. Kd5 Rxh3 35. Bb4 Rh4 36. a5 Rxg4 37. Bc5 Ra4 38. Ke6 Rxa5 39. Be3 c5 40. Kf7 c4 41. Kxg7 c3 42. Kxf6 c2 43. Kf5 Ra1 44. Kxe5 c1=Q 45. Bxc1 Rxc1 46. Kf6 Re1 47. Kg7 Rf1 48. Kxh7 Rg1 49. Kh6 Kc6 50. Kh5 Kd5 51. Kh4 Ke4 52. Kh3 Rg8 53. Kh2 Kf3 54. Kh3 Rh8# 0-1
+

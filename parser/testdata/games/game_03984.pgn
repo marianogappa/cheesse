@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TrjXqCqk"]
+[White "tranfunzel"]
+[Black "Snitcher"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:11"]
+[WhiteElo "1215"]
+[BlackElo "1123"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-10"]
+[ECO "C30"]
+[Opening "King's Gambit Declined, Petrov's Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 Nf6 3. f5 Nc6 4. Nf3 Nxe4 5. Bc4 Qh4+ 6. g3 Nxg3 7. Nxh4 Nxh1 8. Qf3 a6 9. Qxh1 b5 10. Bd5 Bc5 11. d3 f6 12. Qg2 Bb7 13. Qxg7 Rf8 14. Qxh7 Nd4 15. Ng6 Bxd5 16. Nxf8 Kxf8 17. Qh8+ Bg8 18. Qxf6+ Bf7 19. Qh6+ Ke7 20. Bg5+ Ke8 21. Qh8+ Bf8 22. Qxe5+ Ne6 23. Nc3 d6 24. Qg3 Nxg5 25. Qxg5 Be7 26. Qf4 d5 27. O-O-O Bd6 28. Qh4 Rd8 29. Re1+ Kf8 30. Qh6+ Kg8 31. Qg5+ Kh7 32. Qxd8 Bf4+ 33. Kb1 Bxh2 34. Re7 Kg7 35. Qxd5 Bd6 36. Qxf7+ Kh6 37. Qf6+ Kh5 38. Qg6+ Kh4 39. Rh7# 1-0
+

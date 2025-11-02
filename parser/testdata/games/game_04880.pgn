@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/77AFu2Hc"]
+[White "Jagranaska"]
+[Black "JVallejos"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:49"]
+[WhiteElo "1629"]
+[BlackElo "1570"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Normal Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. c4 Nf6 2. d4 e6 3. Nc3 d5 4. Bd2 c5 5. e3 Nc6 6. Nf3 Qb6 7. b3 cxd4 8. Nxd4 Nxd4 9. exd4 Qxd4 10. Be2 Bb4 11. Na4 Bxd2+ 12. Qxd2 Qxd2+ 13. Kxd2 O-O 14. c5 Bd7 15. Nc3 b6 16. b4 bxc5 17. bxc5 Rfc8 18. Rab1 Rxc5 19. Rb7 Bc6 20. Rc7 a5 21. a4 Rb8 22. f3 Rb4 23. Bb5 Rd4+ 24. Ke3 Rxc3+ 25. Kxd4 Rb3 26. Bxc6 Rb4+ 27. Kc3 Rc4+ 28. Kb3 h6 29. Rd1 Nh5 30. Rd3 Nf4 31. Rc3 Rxc3+ 32. Kxc3 d4+ 33. Kxd4 Nxg2 34. Be8 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iNp6yu0T"]
+[White "eltinob"]
+[Black "Jvdb1968"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:50"]
+[WhiteElo "1705"]
+[BlackElo "1677"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 e6 4. e4 Bb4 5. Bxc4 Bxc3+ 6. bxc3 Ne7 7. f4 O-O 8. Nf3 a6 9. O-O b5 10. Bd3 Bb7 11. Be3 Nbc6 12. a3 f5 13. e5 Nd5 14. Bd2 Nce7 15. Qe2 Ng6 16. Ng5 Qe7 17. Qh5 h6 18. Qxg6 hxg5 19. fxg5 Qf7 20. Qxf7+ Rxf7 21. g6 Rd7 22. h4 Ne7 23. h5 Kh8 24. Rf4 c5 25. g4 cxd4 26. cxd4 Rad8 27. Be3 Nd5 28. Kf2 Nxe3 29. Kxe3 fxg4 30. Rxg4 Bd5 31. Rf1 Bc4 32. Rgf4 Kg8 33. Rc1 Rc7 34. Bxc4 Rxc4 35. Rxc4 bxc4 36. Kd2 Rb8 37. Kc3 Rb3+ 38. Kxc4 Rxa3 39. Rh4 Rg3 40. Kb4 Rg1 41. Kc5 a5 42. Kd6 a4 43. Kxe6 a3 44. Rh2 Rg5 45. Rc2 1-0
+

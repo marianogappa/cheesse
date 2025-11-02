@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/bKzZPyz6"]
+[White "Force1"]
+[Black "Kernow1"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "1889"]
+[BlackElo "1905"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "A03"]
+[Opening "Bird Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. f4 Nf6 2. Nf3 d6 3. e3 e5 4. d4 exf4 5. exf4 Be7 6. Nc3 O-O 7. Be3 c6 8. Qd2 Na6 9. O-O-O Nc7 10. h3 b5 11. g4 b4 12. g5 bxc3 13. Qxc3 Ne4 14. Qe1 Rb8 15. Bd3 f5 16. g6 h6 17. h4 Nd5 18. Bxe4 fxe4 19. Nd2 Qb6 20. b3 a5 21. Nc4 Qb4 22. a3 Qxe1 23. Rhxe1 a4 24. b4 Ba6 25. c3 Nxc3 26. d5 Nxd5 27. Rxd5 cxd5 28. Na5 Rfc8+ 29. Kb1 Bd3+ 30. Kb2 Rc2+ 31. Ka1 Rbc8 32. Rb1 Bf6+ 33. Rb2 Rxb2 34. Nc4 Rxc4 35. Bd4 Bxd4 36. b5 Rc1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/s2fxS4HF"]
+[White "tjveneri"]
+[Black "asquithbom"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:45"]
+[WhiteElo "1362"]
+[BlackElo "1260"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Damiano Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 f6 3. Bc4 d6 4. d4 Nh6 5. dxe5 fxe5 6. Bg5 Be7 7. h4 Nf7 8. Bxe7 Qxe7 9. Nc3 Nd8 10. Qd2 Be6 11. Kf1 Bxc4+ 12. Ke1 Be6 13. b3 Bg4 14. Ke2 Bxf3+ 15. gxf3 Ne6 16. Rae1 Nc6 17. Kd1 Nf4 18. Nd5 Qf7 19. Nxf4 exf4 20. Qc3 Ne5 21. Rhg1 O-O-O 22. Kc1 b6 23. Re2 Rhg8 24. Rd1 Rd7 25. Red2 h6 26. Qb2 Nxf3 27. Rd3 Nxh4 28. Rc3 Ng6 29. Qa3 Ne5 30. Rxd6 Kd8 31. Rxc7 Kxc7 32. Qxa7+ Kxd6 33. Qxb6+ Ke7 0-1
+

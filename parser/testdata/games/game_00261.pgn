@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WEBRmLVs"]
+[White "Andrey_10"]
+[Black "OzanCK"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:48"]
+[WhiteElo "1431"]
+[BlackElo "1461"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-109"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. d3 Be7 7. Nc3 O-O 8. Nd5 Nxd5 9. Bxd5 c6 10. Bc4 Nd7 11. b3 Nc5 12. Bb2 b5 13. d4 Nb7 14. Bd3 exd4 15. Bxd4 c5 16. Bb2 Bf6 17. c3 b4 18. Rc1 bxc3 19. Bxc3 Bxc3+ 20. Rxc3 Qf6 21. Bc4 Rae8 22. Qxf6 gxf6 23. f3 d5 24. Bd3 dxe4 25. fxe4 Nd6 26. O-O f5 27. exf5 Re3 28. f6 Nb5 29. Bxh7+ Kxh7 30. Rxe3 Nd4 31. Rf4 Ne6 32. Rh4+ Kg8 33. Rg3+ Ng5 34. Rxg5# 1-0
+

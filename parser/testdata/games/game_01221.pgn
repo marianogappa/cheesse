@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yulw2r2N"]
+[White "DEURENO"]
+[Black "SaIado"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:34"]
+[WhiteElo "1261"]
+[BlackElo "1264"]
+[WhiteRatingDiff "-19"]
+[BlackRatingDiff "+11"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Qf6 3. Nc3 Bc5 4. Nh3 d6 5. Nd5 Qd8 6. Ng5 g6 7. Qh4 Nf6 8. Nxf6+ Qxf6 9. Nf3 Qe6 10. g3 Nc6 11. Ng5 Qf6 12. Nxh7 Qxf2+ 13. Kd1 Qf3+ 14. Ke1 Bf2# 0-1
+

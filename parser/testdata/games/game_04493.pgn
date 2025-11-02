@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/LefJA0LU"]
+[White "stipe196222009"]
+[Black "cecm"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:15"]
+[WhiteElo "1868"]
+[BlackElo "1792"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-8"]
+[ECO "C62"]
+[Opening "Ruy Lopez: Steinitz Defense"]
+[TimeControl "600+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. c3 g6 6. d4 exd4 7. cxd4 Bg7 8. Nc3 Nge7 9. Bg5 O-O 10. e5 dxe5 11. Bxc6 Bxc6 12. Nxe5 Bxe5 13. dxe5 Qxd1 14. Raxd1 Nf5 15. g4 Ng7 16. Nd5 Ne6 17. Ne7+ Kh8 18. Bf6+ Ng7 19. Nxc6 bxc6 20. Rd7 Rab8 21. e6 Kg8 22. e7 Rfe8 23. Rxc7 Rxb2 24. Rxa7 Ne6 25. Rc1 Rb4 26. Rxc6 Rxg4+ 27. Kf1 Rb4 28. Rd6 Rbb8 29. a4 Nc5 30. Rd8 Ne4 31. Rxe8+ Rxe8 32. Be5 f6 33. Bd4 Kf7 34. f3 Ng5 35. Bc5 Nxf3 36. a5 Nxh2+ 37. Kg2 Ng4 38. a6 Ne5 39. Rc7 Ke6 40. a7 Nd7 41. Rb7 h5 42. Bb4 f5 43. Be1 g5 44. Bf2 Kxe7 45. Bb6 g4 46. Bc7 Ke6 47. Bb8 h4 48. a8=Q h3+ 49. Kh2 Kf6 1-0
+

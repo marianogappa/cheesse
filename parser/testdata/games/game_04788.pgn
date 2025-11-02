@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Jks2ccGx"]
+[White "dogg1993"]
+[Black "karenins_smile"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:28"]
+[WhiteElo "1409"]
+[BlackElo "1397"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+14"]
+[ECO "C48"]
+[Opening "Four Knights Game: Spanish Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Bb5 d6 5. Bxc6+ bxc6 6. O-O Bb7 7. d3 c5 8. Bg5 h6 9. Bxf6 Qxf6 10. Nd5 Bxd5 11. exd5 Be7 12. c4 Qg6 13. Qa4+ Kf8 14. Qc6 Rc8 15. Qb7 Qf5 16. Rfd1 g6 17. Qxa7 Kg7 18. Qb7 Rhf8 19. a4 Bd8 20. a5 Re8 21. a6 Bg5 22. a7 Bf6 23. a8=Q Rxa8 24. Rxa8 Rxa8 25. Qxa8 e4 26. dxe4 Qxe4 27. Rc1 Bxb2 28. Rb1 Qxc4 29. g3 Be5 30. Rb8 Qe2 31. Kg2 Bd4 32. Rg8+ Kf6 33. Nh4 Qxf2+ 34. Kh3 Qf1+ 35. Kg4 h5# 0-1
+

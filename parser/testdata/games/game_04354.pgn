@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/16AEyfXv"]
+[White "traian_patrusel"]
+[Black "countermeasurer"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:46"]
+[WhiteElo "1836"]
+[BlackElo "1913"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "D12"]
+[Opening "Slav Defense: Quiet Variation, Pin Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e3 c6 2. Nf3 d5 3. d4 Nf6 4. c4 Bg4 5. cxd5 cxd5 6. Be2 Nc6 7. Ne5 Bxe2 8. Qxe2 Rc8 9. Nxc6 Rxc6 10. Nc3 e6 11. O-O a6 12. f3 Qb6 13. Rb1 Be7 14. Na4 Qa5 15. Nc3 Qb6 16. Bd2 O-O 17. e4 Qxd4+ 18. Be3 Qc4 19. Qxc4 Rxc4 20. exd5 Nxd5 21. Nxd5 exd5 22. Rfd1 Rd8 23. Rd2 d4 24. Bf4 d3 25. Rbd1 Rxf4 26. g3 Rxf3 27. Kg2 Re3 28. Kf2 Bc5 29. a3 a5 30. b4 axb4 31. a4 Bb6 32. Rb2 Bc5 33. a5 d2 34. Rc2 Rc3+ 35. Ke2 Rxc2 36. Kf3 b3 37. Ke4 0-1
+

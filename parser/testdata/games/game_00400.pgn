@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/BsdMtLYo"]
+[White "toffi"]
+[Black "boolmarried"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:20"]
+[WhiteElo "1331"]
+[BlackElo "1396"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "A00"]
+[Opening "Van Geet Opening: Dunst-Perrenet Gambit"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.25] } 1... d5?! { [%eval 0.76] } 2. d3? { [%eval -0.43] } 2... dxe4 { [%eval -0.34] } 3. Nc3 { [%eval -0.37] } 3... exd3 { [%eval -0.35] } 4. Qxd3 { [%eval -0.36] } 4... Qxd3 { [%eval -0.34] } 5. cxd3?! { [%eval -0.87] } 5... c6 { [%eval -0.92] } 6. d4 { [%eval -0.95] } 6... e6 { [%eval -0.75] } 7. Bc4 { [%eval -0.93] } 7... Nf6 { [%eval -0.85] } 8. Nf3 { [%eval -0.89] } 8... b5 { [%eval -0.76] } 9. Bb3 { [%eval -0.95] } 9... b4 { [%eval -0.89] } 10. Ne2 { [%eval -1.05] } 10... a5 { [%eval -1.03] } 11. a3 { [%eval -1.1] } 11... c5?! { [%eval -0.33] } 12. h3?! { [%eval -1.15] } 12... Bb7 { [%eval -0.7] } 13. O-O { [%eval -0.89] } 13... Be7 { [%eval -0.68] } 14. Ng5?! { [%eval -1.63] } 14... O-O { [%eval -1.2] } 15. f4? { [%eval -2.42] } 15... Ne4?! { [%eval -1.54] } 16. f5? { [%eval -3.53] } 16... Nxg5 { [%eval -3.55] } 17. f6? { [%eval -6.21] } 17... Bxf6 { [%eval -6.04] } 18. Rxf6? { [%eval -7.12] } 18... gxf6 { [%eval -6.87] } 19. Bc2 { [%eval -7.12] } 19... c4?! { [%eval -6.54] } 20. Be3 { [%eval -7.03] } 20... b3 { [%eval -6.67] } 21. Bxg5? { [%eval -9.55] } 21... fxg5 { [%eval -9.25] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NacxFECd"]
+[White "ezranov"]
+[Black "atdchess"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:07"]
+[WhiteElo "2080"]
+[BlackElo "2086"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation #2"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Nf6 3. Bb5+ Nbd7 4. c4 g6 5. d4 Bg7 6. Nf3 O-O 7. O-O a6 8. Bxd7 Qxd7 9. Nc3 b6 10. Ne5 Qd8 11. Nc6 Qd7 12. Re1 Re8 13. Bf4 Bb7 14. Ne5 Qd8 15. Ne4 Nxe4 16. Rxe4 e6 17. Nc6 Qd7 18. Ne5 Bxe5 19. Rxe5 exd5 20. cxd5 Bxd5 21. Qd2 Rxe5 22. Bxe5 Qg4 23. Bg3 h5 24. Qf4 Qxf4 25. Bxf4 c6 26. a3 Re8 27. Kf1 Bc4+ 28. Kg1 Re2 29. Rc1 Bd5 30. b4 Ra2 31. Rc3 Ra1+ 32. Bc1 b5 33. f3 Ra2 34. Re3 Kf8 35. Kf1 Bc4+ 36. Ke1 Rxg2 37. h3 Rh2 38. f4 Kg7 39. Kd1 Kf6 40. Bd2 Kf5 41. Kc2 Bf1 42. Re5+ Kf6 43. Re1 Bxh3 44. Kc3 Bf5 45. d5 cxd5 46. Be3 Rh3 47. Kd4 Be4 48. Rc1 Rh1 49. Rc6+ Kf5 50. Rc7 Kg4 51. Rxf7 Re1 52. f5 Rd1+ 53. Ke5 gxf5 54. Kd6 Kf3 55. Ke7 Kxe3 56. Ke8 1-0
+

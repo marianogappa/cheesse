@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/w6NHeIWC"]
+[White "rodrigo_1392"]
+[Black "anononon"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:34"]
+[WhiteElo "1480"]
+[BlackElo "1373"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "180+3"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 Qg6 5. Bf1 Qe6+ 6. Be2 Qg6 7. Bf3 Nf6 8. Nge2 h5 9. d3 Bg4 10. Bxb7 Bxe2 11. Qxe2 c6 12. Bxa8 Qxg2 13. Qf1 Qxf1+ 14. Rxf1 g6 15. Be3 Nfd7 16. O-O-O Bg7 17. f4 Nb6 18. Bxb6 axb6 19. h4 Bxc3 20. bxc3 f5 21. Rg1 Rg8 22. Kd2 Kf7 23. Rb1 b5 24. c4 bxc4 25. dxc4 Rd8+ 26. Kc3 c5 27. Bd5+ e6 28. Bf3 Nd7 29. Rgd1 Ke7 30. Bc6 Nb8 31. Rxd8 Kxd8 32. Rxb8+ Kc7 33. Rg8 Kxc6 34. Rxg6 Kd6 35. Rg5 e5 36. fxe5+ Kxe5 37. Rxh5 Kf4 38. a4 Kg4 39. Rxf5 Kxf5 40. a5 1-0
+

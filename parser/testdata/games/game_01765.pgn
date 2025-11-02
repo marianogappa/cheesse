@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vQNlExkT"]
+[White "LAlgaba"]
+[Black "potato7890"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:41"]
+[WhiteElo "1529"]
+[BlackElo "1514"]
+[WhiteRatingDiff "+49"]
+[BlackRatingDiff "-9"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Open #3"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 a6 5. Nxc6 bxc6 6. c4 g6 7. Bd3 Bg7 8. O-O a5 9. Qc2 Ba6 10. Nc3 Qc7 11. Rb1 Be5 12. h3 Bd4 13. b3 Ba7 14. Bb2 Bb8 15. g3 h5 16. Nd5 Qd6 17. Bxh8 h4 18. e5 Qe6 19. Nf4 1-0
+

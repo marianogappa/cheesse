@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/mAFKdvja"]
+[White "Waterboy678"]
+[Black "Smohajer"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:34"]
+[WhiteElo "1378"]
+[BlackElo "1930"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+2"]
+[ECO "C45"]
+[Opening "Scotch Game: Steinitz Variation"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Qd3 Nf6 6. Nf5 Qxe4+ 7. Qxe4+ Nxe4 8. f3 Nf6 9. c3 Bc5 10. Na3 Bxa3 11. bxa3 O-O 12. Bd3 d5 13. O-O Ne5 14. Ne7+ Kh8 15. Nxc8 Nxd3 16. Ne7 Nxc1 17. Raxc1 Rfe8 18. Nf5 g6 19. Nh6 Kg7 20. Ng4 Nxg4 21. fxg4 Re2 22. Ra1 Rc2 23. Rfc1 Re2 24. Re1 Rae8 25. Rf1 Rc2 26. Rfc1 Ree2 27. Rxc2 Rxc2 28. a4 Rxc3 29. h3 Ra3 30. Rb1 b6 31. Rb3 Rxa4 32. a3 c5 33. Rd3 d4 34. Kf2 Kf6 35. Kf3 Ke5 36. g3 c4 37. Rd1 Rxa3+ 38. Kf2 Re3 39. Re1 Rxe1 40. Kxe1 Ke4 41. Kd2 c3+ 42. Kc2 Ke3 43. h4 Ke2 44. h5 d3+ 45. Kxc3 d2 46. Kd4 d1=Q+ 47. Ke4 Qd3+ 48. Ke5 Qd7 49. hxg6 fxg6 50. g5 Qe7+ 51. Kf4 Qe3+ 52. Kg4 Qf3+ 53. Kh4 Qh5# 0-1
+

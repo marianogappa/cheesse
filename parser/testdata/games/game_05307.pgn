@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/zzQoYTyE"]
+[White "osipov"]
+[Black "Robertsun"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:24"]
+[WhiteElo "2003"]
+[BlackElo "2188"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[ECO "A43"]
+[Opening "Old Benoni Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 c5 2. Nf3 cxd4 3. Nxd4 Nc6 4. Nxc6 bxc6 5. g3 d5 6. Bg2 Nf6 7. O-O e5 8. c3 Bc5 9. Bg5 O-O 10. e3 h6 11. Bxf6 Qxf6 12. Nd2 Ba6 13. Re1 Rad8 14. b4 Bb6 15. a4 d4 16. cxd4 exd4 17. Ne4 Qg6 18. Qf3 dxe3 19. fxe3 Bd3 20. Nf2 Bf5 21. e4 Be6 22. Kh1 Rde8 23. a5 Bc7 24. Rad1 Be5 25. Nd3 Bc3 26. Re2 Bc4 27. Rb1 Re6 28. Bf1 Rf6 29. Qg2 Re8 30. Nf4 Qg4 31. Rf2 Bxf1 32. Rbxf1 Bd4 33. h3 Qd7 34. Re2 g5 35. Nh5 Rxf1+ 36. Qxf1 Bg7 37. Nf6+ Bxf6 38. Qxf6 Re6 39. Qf5 Qd1+ 40. Kg2 Qxe2+ 41. Qf2 Qxe4+ 42. Kf1 Qc4+ 43. Kg2 Re2 44. Kf3 Qe4# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/D4RW3mvx"]
+[White "JakeHokie"]
+[Black "WeisserKrieger"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:59"]
+[WhiteElo "1756"]
+[BlackElo "1666"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "D11"]
+[Opening "Slav Defense: Modern Line"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Bd7 4. Nc3 e6 5. Bg5 Be7 6. Bxe7 Nxe7 7. e3 Nf5 8. c5 b6 9. b4 bxc5 10. bxc5 a5 11. Na4 Na6 12. Nb6 Rb8 13. Ne5 Rb7 14. Bxa6 Rc7 15. O-O O-O 16. Nbxd7 Rxd7 17. Nxd7 Qxd7 18. Rb1 Qe7 19. Qg4 g6 20. Rb7 Qf6 21. Rfb1 h5 22. Qf4 g5 23. Qc7 h4 24. Rb8 Rxb8 25. Rxb8+ Kg7 26. Qc8 Kg6 27. Qg8+ Ng7 28. Bd3+ Kh5 29. f3 g4 30. Qh7+ Kg5 31. Rg8 gxf3 32. Rxg7+ 1-0
+

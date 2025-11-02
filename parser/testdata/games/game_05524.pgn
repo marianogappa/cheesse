@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/w1Oum2PK"]
+[White "JustinThyme"]
+[Black "CONTRADIQUE"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:20"]
+[WhiteElo "1623"]
+[BlackElo "1451"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "A09"]
+[Opening "Reti Opening: Reti Accepted"]
+[TimeControl "90+2"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. c4 dxc4 3. e4 Bg4 4. Bxc4 Nf6 5. d3 Nc6 6. Qb3 Bxf3 7. gxf3 e6 8. Bb5 Qd7 9. Be3 g6 10. Nc3 Bg7 11. O-O-O O-O 12. d4 a6 13. Be2 Na5 14. Qb4 b6 15. Kb1 Rab8 16. d5 exd5 17. Nxd5 Nxd5 18. Rxd5 Qe6 19. Rhd1 Nc6 20. Qd2 a5 21. Bh6 Nb4 22. Bxg7 Nxd5 23. Bxf8 Rxf8 24. Qxd5 Qxd5 25. Rxd5 c6 26. Rd6 f5 27. Rxc6 fxe4 28. fxe4 Rxf2 29. Bc4+ Kg7 30. Rxb6 Rxh2 31. Bd5 Rh1+ 32. Kc2 Ra1 33. Rb7+ Kf6 34. Ra7 Ke5 35. Rxh7 a4 36. Ra7 g5 37. Rg7 Re1 38. Rxg5+ Kd4 39. Rg4 Re2+ 40. Kc1 Re1+ 41. Kd2 Rb1 42. Kc2 Re1 43. Rg2 Ke5 44. b4 a3 45. b5 Ra1 46. b6 Rf1 47. Rg8 Rf2+ 48. Kb3 Kd4 49. b7 Rf3+ 50. Ka4 Rg3 51. Rxg3 Kc5 52. Kxa3 Kd6 53. b8=Q+ Kc5 54. Qc7+ Kd4 55. Qg7+ Kc5 56. Rc3+ Kd6 57. Qf6+ Kd7 58. Qe6+ Kd8 59. Rc8# 1-0
+

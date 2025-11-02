@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jNknEF73"]
+[White "Zanurzony"]
+[Black "Barbikusz"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:30"]
+[WhiteElo "2049"]
+[BlackElo "2097"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 Qxd5 5. d4 Nf6 6. Be2 Nc6 7. O-O cxd4 8. cxd4 Be7 9. Nc3 Qd6 10. Bg5 O-O 11. Bh4 b6 12. Bg3 Qd8 13. Qa4 Bb7 14. Rfd1 Nb4 15. a3 Nbd5 16. Ne5 Nxc3 17. bxc3 Ne4 18. c4 Nc3 19. Qc2 Nxd1 20. Rxd1 Rc8 21. f3 Bxa3 22. Bf2 Bd6 23. Ng4 Be7 24. Bd3 h6 25. Ne5 Bf6 26. Ng4 Bxd4 27. Be4 Bxf2+ 28. Nxf2 Qc7 29. Bd3 Rfd8 30. Qe2 Qc5 31. Kh1 a5 32. h3 a4 33. Ng4 a3 34. Ra1 Ra8 35. Qc2 Qd4 36. Ra2 Qxd3 0-1
+

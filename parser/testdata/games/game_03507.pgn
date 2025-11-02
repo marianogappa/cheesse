@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/299giZol"]
+[White "naqalsamoht"]
+[Black "racim"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:24"]
+[WhiteElo "1464"]
+[BlackElo "1667"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Scandinavian Variation, Geschev Gambit"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 c6 4. dxc6 Nxc6 5. Nf3 Bf5 6. d4 a6 7. Bd3 Bg4 8. Be2 e6 9. Be3 Bd6 10. Qd2 O-O 11. O-O-O b5 12. h3 Bxf3 13. gxf3 b4 14. Ne4 Nxe4 15. fxe4 a5 16. Rhg1 g6 17. Bh6 Re8 18. e5 Bf8 19. Qf4 a4 20. h4 b3 21. cxb3 axb3 22. a3 Rc8 23. Kb1 Qxh4 24. Bg5 Qxf4 25. Bxf4 Na5 26. d5 exd5 27. Rxd5 Bg7 28. Rxa5 Rc2 0-1
+

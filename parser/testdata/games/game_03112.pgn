@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/re2ZKZnY"]
+[White "Costas1"]
+[Black "mostafaabdelmalik"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:38"]
+[WhiteElo "1534"]
+[BlackElo "1583"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+17"]
+[ECO "A00"]
+[Opening "Mieses Opening: Reversed Rat"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d3 e5 2. a3 d5 3. b3 Nc6 4. Bb2 f5 5. Nd2 Nf6 6. b4 Bd6 7. h3 Ne7 8. e3 Ng6 9. Qc1 O-O 10. Rb1 Be6 11. g3 c5 12. b5 Qa5 13. a4 Qxa4 14. Ne2 Qxb5 15. Bxe5 Qc6 16. Bb2 Be5 17. c3 Bd6 18. Rg1 Ne5 19. Qc2 d4 20. c4 Nf3+ 21. Nxf3 Qxf3 22. Bg2 Qh5 23. Bxb7 Rab8 24. Bg2 f4 25. g4 Qh4 26. Kd1 Nxg4 27. Nxf4 Nxf2+ 28. Qxf2 Bxf4 29. Kc1 Bxe3+ 30. Qxe3 dxe3 31. Kc2 Qf2+ 32. Kc3 Qd2# 0-1
+

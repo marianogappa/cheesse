@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rkPeezRz"]
+[White "dima1965"]
+[Black "Percheron77"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:46"]
+[WhiteElo "1652"]
+[BlackElo "1779"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C30"]
+[Opening "King's Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 d6 3. Nf3 Bg4 4. Bc4 Be7 5. O-O exf4 6. d4 Nf6 7. Bxf7+ Kxf7 8. Ng5+ Kf8 9. Qe1 h6 10. h3 Bd7 11. Nf3 Nh5 12. e5 d5 13. e6 Be8 14. Ne5 Nc6 15. Bxf4 Nxf4 16. Rxf4+ Kg8 17. Nxc6 bxc6 18. Nc3 Bf6 19. Qg3 Qd6 20. Raf1 a5 21. Qg4 Bg5 22. Rf8+ Qxf8 23. Rxf8+ Kxf8 24. Na4 Ke7 25. Nc5 Bf6 26. Qf4 Rc8 27. b3 Rf8 28. Qg3 Bxd4+ 0-1
+

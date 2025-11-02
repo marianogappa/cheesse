@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MZ263wm7"]
+[White "Mellynho"]
+[Black "Bluemoon1"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:51"]
+[WhiteElo "1735"]
+[BlackElo "1706"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 e6 3. Nf3 Ne7 4. d3 Ng6 5. Bg5 f6 6. Bh4 Be7 7. Nc3 O-O 8. Bg3 d5 9. exd5 exd5 10. Bb3 Be6 11. a3 Bf7 12. h3 Nc6 13. h4 Nge5 14. h5 Qe8 15. Qd2 Rd8 16. O-O-O Nxf3 17. gxf3 Bxh5 18. Rh2 Bxf3 19. Qe3 Bxd1 20. Kxd1 c4 21. Nxd5 cxb3 22. Qe4 f5 23. Qf4 bxc2+ 24. Kc1 Rxd5 0-1
+

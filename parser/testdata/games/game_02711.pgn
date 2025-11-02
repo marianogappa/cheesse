@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/T1Biu7DH"]
+[White "Leonard7"]
+[Black "eltemerario"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:11"]
+[WhiteElo "1379"]
+[BlackElo "1516"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 f6 3. d3 c6 4. Nc3 a5 5. Be3 b5 6. Bb3 Ne7 7. a4 b4 8. Nce2 Ba6 9. Nf3 Ng6 10. O-O Be7 11. d4 exd4 12. Qxd4 c5 13. Qd5 Nc6 14. Rfe1 Rf8 15. Bxc5 Bxc5 16. Qxc5 Rc8 17. Ned4 Nce5 18. Qd6 Nxf3+ 19. Nxf3 Rc6 20. Qd5 Qc7 21. Nd4 Rd6 22. Qa8+ Ke7 23. Qxa6 Rxa6 24. Nf5+ Kd8 25. Nxg7 d6 26. Ne6+ Kd7 27. Nxc7 Kxc7 28. Rad1 Re8 29. Bf7 Re7 30. Bc4 Rc6 31. Bd5 Rxc2 32. Rc1 Rxc1 33. Rxc1+ Kd8 34. Rc6 Ne5 35. Ra6 Rc7 36. Ra8+ Kd7 37. f4 Ng4 38. Rg8 Rc1# 0-1
+

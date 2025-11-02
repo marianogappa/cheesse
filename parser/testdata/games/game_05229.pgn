@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/lN6rUY29"]
+[White "putingm"]
+[Black "fmarco76"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:09"]
+[WhiteElo "1413"]
+[BlackElo "1417"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nh6 4. O-O Na5 5. Bd5 c6 6. Bb3 Nxb3 7. axb3 d6 8. d3 a6 9. Ng5 Be7 10. Nf3 Bg4 11. Nc3 O-O 12. b4 b5 13. Bxh6 gxh6 14. h3 Bg5 15. hxg4 Bf4 16. Ne2 f6 17. Nxf4 exf4 18. Nd4 Qd7 19. Nf5 Qf7 20. Nxh6+ Kg7 21. Nxf7 Rxf7 22. g5 Re8 23. gxf6+ Rxf6 24. Qg4+ Rg6 25. Qd7+ Kf8 26. Qxc6 Re5 27. Qxa6 Rh6 28. Qc8+ Kg7 29. Qc3 Kg8 30. Ra8+ Kg7 31. d4 Reh5 32. d5+ Kg6 33. Rg8+ Kf7 34. Qg7# 1-0
+

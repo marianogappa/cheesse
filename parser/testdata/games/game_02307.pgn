@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/D1P7RBTM"]
+[White "Amatornissen"]
+[Black "greybishop99"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:45"]
+[WhiteElo "1289"]
+[BlackElo "1330"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C68"]
+[Opening "Ruy Lopez: Exchange Variation, Lutikov Variation"]
+[TimeControl "900+10"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. Nxe5 Qh4 6. O-O c5 7. f3 Bb7 8. d3 O-O-O 9. Be3 c4 10. Nxc4 a5 11. Qd2 Nf6 12. Qxa5 d5 13. Ne5 Bd6 14. Nxf7 Bxh2+ 15. Kh1 c6 16. Bf2 Qh5 17. Nxh8 Bc7+ 18. Kg1 Bxa5 19. Be3 dxe4 20. dxe4 c5 21. Na3 Bxe4 22. fxe4 Ng4 23. Bxc5 Qh2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/48VEysSr"]
+[White "arcadian"]
+[Black "Engcivilademar"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:38"]
+[WhiteElo "1295"]
+[BlackElo "1595"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[ECO "D41"]
+[Opening "Queen's Gambit Declined: Semi-Tarrasch, 5.cxd5"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 c5 5. cxd5 exd5 6. e3 Be7 7. Bd3 c4 8. Be2 O-O 9. h4 Ng4 10. Ne5 Nxe5 11. dxe5 Bxh4 12. Nxd5 b5 13. Nf6+ Bxf6 14. Qxd8 Bxd8 15. Bd3 cxd3 0-1
+

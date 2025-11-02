@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nAENayAa"]
+[White "CHESSMSPOLICE"]
+[Black "kkarppov"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:41"]
+[WhiteElo "1872"]
+[BlackElo "1931"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Normal Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. e5 Nd5 3. Qf3 e6 4. c4 Nb6 5. d4 d6 6. Bf4 Nc6 7. exd6 cxd6 8. d5 Nd4 9. Qd3 e5 10. Be3 Bf5 11. Qc3 Nc2+ 12. Kd1 Nxa1 13. Bd3 Bxd3 14. Qxd3 Be7 15. b3 Bf6 16. Ne2 O-O 17. Kd2 e4 18. Qxe4 Re8 19. Qd3 Nd7 20. f4 Nc5 21. Bxc5 dxc5 22. Nbc3 Nxb3+ 23. axb3 a6 24. g4 Bxc3+ 25. Nxc3 Qh4 26. Qf3 Rad8 27. h3 Qf6 28. Qf2 Qd4+ 29. Qxd4 cxd4 30. Ne2 Re4 31. Kd3 Rde8 32. Nxd4 Rxf4 33. Nf5 Rd8 34. c5 Rxd5+ 35. Ke3 Rfxf5 36. gxf5 Rxf5 37. Ke4 Rxc5 38. Re1 f5+ 39. Kd4 Rc7 40. Re3 Kf7 41. Ke5 Re7+ 42. Kf4 Rxe3 43. Kxe3 Kf6 44. Kf4 g5+ 45. Kf3 Ke5 46. Ke3 f4+ 47. Kf3 Kf5 48. b4 h5 0-1
+

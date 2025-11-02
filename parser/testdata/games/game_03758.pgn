@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/e70HRZNi"]
+[White "DogAttack"]
+[Black "us2224577899"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:21"]
+[WhiteElo "2021"]
+[BlackElo "1974"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nc3 Bg7 3. d3 c6 4. Be3 d5 5. Bf4 d4 6. Nce2 e5 7. Bg3 Ne7 8. f4 Nd7 9. Nf3 exf4 10. Bxf4 c5 11. b4 b6 12. a4 O-O 13. a5 Bb7 14. Bd2 f5 15. Ng3 fxe4 16. Nxe4 Nf6 17. Nxf6+ Rxf6 18. Be2 Nf5 19. O-O Qe7 20. axb6 axb6 21. Rxa8+ Bxa8 22. bxc5 bxc5 23. Qa1 Rf8 24. Qa2+ Kh8 25. Ng5 Qxe2 26. Qxa8 Rxa8 27. Ne4 Ne3 28. Bxe3 Qxe3+ 29. Kh1 c4 30. Nc5 cxd3 31. Nxd3 Qe2 32. Re1 Qxc2 33. Nf4 Qd2 34. Rf1 Qxf4 35. Rxf4 Ra1+ 36. Rf1 Rxf1# 0-1
+

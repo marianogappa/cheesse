@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5K6lLlcw"]
+[White "thekillingjoke"]
+[Black "Andy88"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:04"]
+[WhiteElo "1664"]
+[BlackElo "1553"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Nge2 Qg6 5. g3 c6 6. Bg2 h5 7. Nf4 Qf5 8. d3 h4 9. Qe2 Qg4 10. Bf3 Qf5 11. Bd2 e5 12. Bg4 Qxg4 13. Qxg4 Bxg4 14. Ng2 Bf3 15. O-O hxg3 16. hxg3 f5 17. Rfe1 Bd6 18. d4 Bxg2 19. Kxg2 e4 20. f3 Kf7 21. fxe4 fxe4 22. Nxe4 Bc7 23. Ng5+ Kg6 24. Ne6 Bd6 25. Re4 Nf6 26. Nf4+ Kf5 27. Re2 Bxf4 28. Bxf4 Re8 29. Rf2 Kg6 30. Be5 Ng4 31. Rf4 Nxe5 32. dxe5 Rxe5 33. Rf8 Re2+ 34. Kf3 Rxc2 35. Re1 Rxb2 36. Ree8 Rxa2 37. Rxb8 Rxb8 38. Rxb8 Ra3+ 39. Kf4 b5 40. Rc8 Rc3 41. g4 b4 42. Ra8 Ra3 43. Rd8 b3 44. Rd6+ Kh7 45. Rxc6 b2 46. g5 b1=Q 47. g6+ Kh6 48. Rc7 Qf1+ 49. Ke4 Ra4+ 50. Kd5 Qf5+ 51. Kd6 Ra6+ 52. Ke7 Qxg6 0-1
+

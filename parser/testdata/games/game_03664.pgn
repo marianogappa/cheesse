@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/cKTSU9ag"]
+[White "bojanknife"]
+[Black "DutchMountain2"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:59"]
+[WhiteElo "1717"]
+[BlackElo "1572"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+15"]
+[ECO "C33"]
+[Opening "King's Gambit Accepted, Bishop's Gambit, Maurian Defense"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nc6 4. Nf3 d6 5. d4 Bg4 6. O-O Bxf3 7. Rxf3 g5 8. h4 h6 9. g3 Qf6 10. c3 O-O-O 11. gxf4 gxf4 12. Rxf4 Qg6+ 13. Rg4 Qf6 14. Be3 h5 15. Bg5 Qg6 16. Rg2 f6 17. Bf4 Qxe4 18. Nd2 Qxf4 19. Be6+ Kb8 0-1
+

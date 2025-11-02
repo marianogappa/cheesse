@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YFsl996d"]
+[White "moises12339"]
+[Black "Reinaldo-Marilia"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:38"]
+[WhiteElo "1557"]
+[BlackElo "1373"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Krause Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. d4 c5 3. Bf4 Nc6 4. e3 e6 5. Bb5 cxd4 6. Nxd4 Bd7 7. c3 a6 8. Ba4 b5 9. Bc2 Nxd4 10. cxd4 Bb4+ 11. Kf1 Nf6 12. a3 Ba5 13. b4 Bc7 14. g3 Bxf4 15. gxf4 O-O 16. Rg1 Bc6 17. Nd2 a5 18. bxa5 Qxa5 19. Nb3 Qc3 20. Qd3 Qc4 21. Nd2 Qxd3+ 22. Bxd3 Nd7 23. h4 Nb6 24. h5 Na4 25. h6 g6 26. Ke2 Nc3+ 27. Kf3 f5 28. Rac1 Ne4 29. Rxc6 Nxd2+ 30. Ke2 Ne4 31. Rxe6 Nc5 32. Re5 Nxd3 33. Kxd3 Rad8 34. Rb1 Rde8 35. Rxb5 Rxe5 36. dxe5 Rd8 37. Kd4 Kf7 38. Rxd5 Rxd5+ 39. Kxd5 Ke7 40. a4 Kd7 41. Kc5 Kc7 42. Kb5 Kb7 43. a5 Ka7 44. e6 Kb7 45. e7 1-0
+

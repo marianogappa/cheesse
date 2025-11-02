@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CJZqyyRS"]
+[White "shasad"]
+[Black "moh_k"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:51"]
+[WhiteElo "1772"]
+[BlackElo "1922"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation #3"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. b3 e5 2. Bb2 Nc6 3. g3 d5 4. Bg2 Nf6 5. e3 Bf5 6. d3 Bc5 7. Qd2 O-O 8. a3 a6 9. Nc3 h6 10. Na2 d4 11. O-O-O dxe3 12. fxe3 Qe7 13. g4 Bxg4 14. Rf1 Bxa3 15. h3 Bxb2+ 16. Kxb2 Be6 17. Nf3 a5 18. Nh4 a4 19. Nf5 Bxf5 20. Rxf5 axb3 21. cxb3 Qe6 22. e4 Ra6 23. Rg1 Nd4 24. Bf1 Qxb3+ 25. Ka1 Nc2+ 26. Qxc2 Qxc2 27. Rxf6 Qxa2# 0-1
+

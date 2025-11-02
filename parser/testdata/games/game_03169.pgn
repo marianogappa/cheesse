@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oSlvvdr3"]
+[White "Dankmemes69"]
+[Black "petrovich23rus"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:58"]
+[WhiteElo "1337"]
+[BlackElo "1479"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nd4 4. Nxe5 c6 5. Bc4 Qe7 6. f4 d6 7. Nd3 Be6 8. Bxe6 Nxe6 9. f5 Nc5 10. Qe2 Nf6 11. Nxc5 dxc5 12. d3 Qd6 13. e5 Qd4 14. exf6+ Kd7 15. fxg7 Re8 16. Qxe8+ Kxe8 17. Bd2 Qe5+ 18. Ne4 Bxg7 19. O-O-O Qxb2# 0-1
+

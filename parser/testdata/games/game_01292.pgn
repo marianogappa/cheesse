@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/nHRlSvvz"]
+[White "naqalsamoht"]
+[Black "emMars"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:48"]
+[WhiteElo "1453"]
+[BlackElo "1443"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "C41"]
+[Opening "Philidor Defense: Philidor Gambit"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nf3 e5 3. d4 Bd7 4. Nc3 c5 5. dxe5 c4 6. Bxc4 Bc6 7. exd6 Bxd6 8. e5 Bb4 9. Bd2 Bxf3 10. Qxf3 Bxc3 11. Bxc3 Nc6 12. Qxf7# 1-0
+

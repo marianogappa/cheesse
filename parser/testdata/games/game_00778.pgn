@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gDbHOuGi"]
+[White "PressX_toWin"]
+[Black "Chankur"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:53"]
+[WhiteElo "893"]
+[BlackElo "1103"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Qf6 3. Qf5 Bc5 4. Qg4 Qxf2+ 5. Kd1 Qxf1# 0-1
+

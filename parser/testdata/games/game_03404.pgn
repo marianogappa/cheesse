@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MTyuyyNs"]
+[White "ironside1234"]
+[Black "MichelangeIo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:57"]
+[WhiteElo "2610"]
+[BlackElo "2754"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-15"]
+[BlackTitle "GM"]
+[ECO "C31"]
+[Opening "King's Gambit, Falkbeer Countergambit, Hinrichsen Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 d5 3. d4 exf4 4. exd5 Qh4+ 5. Kd2 Nf6 6. Nf3 Qh5 7. Bb5+ c6 8. Qe2+ Be7 9. d6 Be6 10. Bc4 Bxd6 11. Bxe6 O-O 12. Bc4 Re8 13. Ne5 Qxe2+ 14. Bxe2 Bxe5 15. dxe5 Rxe5 16. Kd1 Nd5 17. Nc3 Ne3+ 18. Bxe3 Rxe3 19. Rf1 g5 20. Kd2 Nd7 21. g3 Nc5 22. gxf4 Rh3 23. Rae1 Rd8+ 24. Kc1 gxf4 25. Rxf4 Rxh2 26. Bc4 Rdd2 27. Rxf7 Rxc2+ 28. Kb1 Rcd2 1-0
+

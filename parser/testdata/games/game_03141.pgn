@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/9pCqfp2x"]
+[White "TheLAZYmd"]
+[Black "StoneyDreadfull"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:47"]
+[WhiteElo "1897"]
+[BlackElo "1931"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+11"]
+[ECO "A00"]
+[Opening "Saragossa Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. c3 g6 2. Nf3 Bg7 3. d3 c5 4. Ng5 Nc6 5. Qb3 e6 6. Nf3 d5 7. Bf4 Nge7 8. Nbd2 O-O 9. e4 a6 10. e5 b5 11. d4 c4 12. Qc2 Rb8 13. Be2 a5 14. O-O b4 15. Rab1 Qb6 16. Bg5 Nf5 17. Bf6 Nfxd4 18. Nxd4 Nxd4 19. cxd4 Qxd4 20. Nf3 Qb6 21. Qd2 h6 22. Rfc1 Ba6 23. a3 Qc7 24. axb4 axb4 25. b3 c3 26. Qf4 Bxe2 27. Bxg7 Kxg7 28. Qf6+ Kh7 29. Nh4 Qc5 30. Re1 Bd3 31. Rbc1 c2 32. Re3 Qc3 33. Qf3 Qd2 34. Rxd3 Qxc1+ 35. Rd1 Qxd1+ 36. Qxd1 cxd1=Q# 0-1
+

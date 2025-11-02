@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/aF6HeMHk"]
+[White "aridder"]
+[Black "olaskaansar"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:57"]
+[WhiteElo "1137"]
+[BlackElo "1481"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+14"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 e6 3. Nf3 d5 4. exd5 exd5 5. Bb5+ Bd7 6. Bxd7+ Nxd7 7. Nc3 Nb6 8. d4 Qe7+ 9. Ne5 cxd4 10. Qxd4 f6 11. Nxd5 Nxd5 12. Qxd5 Qxe5+ 13. Qxe5+ fxe5 14. O-O O-O-O 15. Bg5 Nf6 16. Bxf6 gxf6 17. c4 Bd6 18. b3 h5 19. Rfd1 h4 20. a3 Rhg8 21. b4 h3 22. c5 Rxg2+ 23. Kf1 Bc7 24. Rxd8+ Bxd8 25. Rc1 Rxh2 26. Kg1 Rg2+ 27. Kh1 Rxf2 28. b5 Ra2 29. Rc3 Be7 30. a4 Rxa4 31. c6 Ra5 32. cxb7+ Kxb7 33. b6 axb6 34. Rxh3 Ka6 35. Rh7 Bc5 36. Rf7 Ra1+ 37. Kh2 Rf1 38. Rxf6 Rxf6 39. Kh3 Rg6 40. Kh4 e4 41. Kh5 Rg1 42. Kh6 e3 43. Kh7 e2 44. Kh6 e1=Q 45. Kh5 Qe5+ 46. Kh4 Bf2+ 47. Kh3 Qg3# 0-1
+

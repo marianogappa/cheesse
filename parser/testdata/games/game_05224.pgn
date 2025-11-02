@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/7a9Oq2M0"]
+[White "BlunderTown"]
+[Black "Soldier_of_God"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:07"]
+[WhiteElo "1131"]
+[BlackElo "1628"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+1"]
+[ECO "C68"]
+[Opening "Ruy Lopez: Exchange Variation, Lutikov Variation"]
+[TimeControl "900+4"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. Nxe5 Qe7 6. d4 c5 7. c3 cxd4 8. cxd4 Bb7 9. O-O O-O-O 10. Nc3 f6 0-1
+

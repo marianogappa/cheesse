@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/tQcYjX04"]
+[White "pmorese"]
+[Black "Reablow"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:33"]
+[WhiteElo "1112"]
+[BlackElo "1180"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "B25"]
+[Opening "Sicilian Defense: Closed Variation, Traditional"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 d6 4. d3 g6 5. Nb5 Bg7 6. c3 a6 7. Na3 Nf6 8. h3 O-O 9. g4 b5 10. g5 b4 11. Nc2 bxc3 12. gxf6 exf6 13. Rb1 h5 14. Nh4 g5 15. Nf5 g4 16. hxg4 hxg4 17. Qxg4 Bxf5 18. Qxg7+ Kxg7 19. Bh6+ Kg8 20. Rg1+ Kh7 21. Rg7+ Kxh6 22. Rg3 Rb8 23. exf5 Qa5 24. Rh3+ Kg7 25. Rd1 cxb2+ 26. Rd2 b1=Q+ 27. Ke2 Rfe8+ 28. Kf3 Qxd2 29. Ne3 Qxe3+ 30. Kg4 Re4+ 0-1
+

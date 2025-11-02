@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/oSZs128w"]
+[White "KlimV"]
+[Black "paparazzo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:50"]
+[WhiteElo "1113"]
+[BlackElo "1097"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-13"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "1200+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nc3 dxe4 3. Nxe4 f5 4. Nc3 b6 5. d4 Na6 6. Bc4 Bb7 7. Nge2 Bxg2 8. Rg1 Bb7 9. Nf4 g6 10. Bd5 Bxd5 11. Nfxd5 e6 12. Nf4 Qd7 13. Nh5 O-O-O 14. Bg5 Qxd4 15. Bxd8 Qxd8 16. Qe2 Nc5 17. Rd1 Qe8 18. Nb5 gxh5 19. Qe5 Qxb5 20. Qxh8 Nd3+ 21. Rxd3 Bb4+ 22. Kd1 Bd6 23. Qxg8+ Kb7 24. Re1 Qxb2 25. Ke2 Qxc2+ 26. Ke3 Bc5+ 27. Rd4 Qc3+ 28. Ke2 Qxd4 29. Qg2+ Kb8 30. Kf1 Qc4+ 31. Re2 Qc1+ 32. Re1 1-0
+

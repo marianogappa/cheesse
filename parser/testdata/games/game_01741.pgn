@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/bBJ7ClSm"]
+[White "martinapollo11"]
+[Black "MachadoJosef"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:36"]
+[WhiteElo "1665"]
+[BlackElo "1448"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "C53"]
+[Opening "Italian Game: Classical Variation #2"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 h6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+ 8. Nbxd2 Nf6 9. d5 Nb4 10. Be2 c6 11. a3 Na6 12. Bxa6 bxa6 13. d6 O-O 14. O-O Qe8 15. Re1 Qd8 16. e5 Nd5 17. Qb3 a5 18. Qd3 Qb6 19. Rab1 Ba6 20. Qe4 g6 21. Nc4 Bxc4 22. Qxc4 Nc7 23. Qh4 Nd5 24. Qxh6 Nf4 25. Qxf4 f6 26. exf6 Kf7 27. Qh6 Rae8 28. Ng5+ Kg8 29. Qg7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/R78FT1vw"]
+[White "yamani01"]
+[Black "GoodByeLenin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:00"]
+[WhiteElo "1785"]
+[BlackElo "1882"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-14"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "60+3"]
+[Termination "Normal"]
+
+1. g3 c6 2. Bg2 Nf6 3. c4 g6 4. Nc3 Bg7 5. e4 d6 6. Nge2 O-O 7. d3 Nbd7 8. O-O e5 9. Rb1 Ne8 10. a3 f5 11. b4 Ndf6 12. f4 exf4 13. Bxf4 fxe4 14. dxe4 Qe7 15. b5 Be6 16. bxc6 bxc6 17. e5 dxe5 18. Bxe5 Bxc4 19. Bxf6 Nxf6 20. Bxc6 Rad8 21. Qa4 Bxe2 22. Rfe1 Qc5+ 23. Kh1 Qxc3 24. Rxe2 Rd2 25. Rxd2 Qxd2 26. Rd1 Qe3 27. Qc4+ Kh8 28. Rd3 Qf2 29. Rf3 Qe1+ 30. Rf1 Qe7 31. Qf4 Rc8 32. Bg2 Qc7 33. Qb4 Qc5 34. Qa4 h6 35. Bb7 Rc7 36. Rxf6 Rxb7 37. Qe8+ Kh7 38. Qxg6+ Kg8 39. Qe8+ Kh7 40. Qe4+ Kg8 41. Qe8+ Kh7 42. Qe4+ Kh8 43. Qxb7 Bxf6 44. Qb8+ Kg7 45. Qb7+ Qe7 46. Qb3 Qe4+ 47. Kg1 Bd4+ 48. Kf1 Qe3 49. Qb7+ Kf6 50. Qc6+ Ke5 51. Qe8+ Kd5 52. Qf7+ Ke4 53. Qg6+ Kf3 54. Qf5+ Qf4 55. Qxf4# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/6oId9cGd"]
+[White "chessname1234"]
+[Black "moskow_ger"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:23"]
+[WhiteElo "1830"]
+[BlackElo "1634"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Krejcik Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Bc4 e6 3. d3 Ng8 4. h3 d6 5. Ne2 Ne7 6. Bb3 g6 7. c3 Bg7 8. Bc2 O-O 9. O-O Nec6 10. Ng3 Nd7 11. h4 Nf6 12. h5 Nxh5 13. Nxh5 gxh5 14. Qxh5 Qf6 15. Bg5 Qg6 16. Qh4 Ne7 17. Na3 e5 18. Bxe7 Re8 19. d4 Rxe7 20. Qxe7 Bh3 21. g3 Qg4 22. Qh4 Qxh4 23. gxh4 Kh8 24. Rfe1 Rg8 25. Kh2 Be6 26. Rg1 Bf6 27. Rxg8+ Kxg8 28. b3 Bxh4 29. f3 Kf8 30. d5 Bd7 31. Nc4 c6 32. Ne3 Bg5 33. Ng4 f5 34. exf5 h5 35. Nf2 Bf4+ 36. Kg2 cxd5 37. Nh3 e4 38. fxe4 Be5 39. exd5 Bc6 40. c4 Bd7 41. Rb1 b5 42. cxb5 Bxb5 43. Rd1 Ke7 44. a4 Ba6 45. Kf3 Bb7 46. Nf4 Bxf4 47. Kxf4 Bxd5 48. Kg5 Kd7 49. Kxh5 Bc6 50. Kg5 1-0
+

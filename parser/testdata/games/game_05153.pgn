@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/l8562q5X"]
+[White "walisongugu"]
+[Black "RFRANCA"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:47"]
+[WhiteElo "1652"]
+[BlackElo "1690"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. f4 d5 2. d4 g6 3. e3 Bg7 4. Nf3 Bg4 5. Bd3 Bxf3 6. Qxf3 Nf6 7. Bd2 e6 8. c4 c6 9. c5 O-O 10. a3 Nbd7 11. Nc3 b6 12. b4 bxc5 13. bxc5 Rb8 14. O-O Qc7 15. h3 Rb3 16. a4 Rfb8 17. Rfb1 Kh8 18. Bc2 R3b7 19. Rxb7 Rxb7 20. Rb1 Rxb1+ 21. Bxb1 Qb7 22. Qe2 Qb2 23. Qd1 Nh5 24. Kh2 Bf6 25. g4 Ng7 26. g5 Be7 27. Qe1 Nf5 28. Qc1 Qb3 29. Ba2 Qb7 30. Qb1 Qc7 31. Qb3 f6 32. gxf6 Bxf6 33. Bb1 Nh4 34. Kg3 Nf5+ 35. Kf3 Nh4+ 36. Kg3 g5 37. Qc2 gxf4+ 38. exf4 Nf5+ 39. Kg4 Qd8 40. Ne2 Qg8+ 41. Kf3 Nh4+ 42. Ke3 Qg2 43. Be1 Qf3+ 44. Kd2 Nf5 45. Ng3 Qe3+ 46. Kd1 Qf3+ 47. Kc1 Qa3+ 48. Qb2 Qe3+ 49. Kd1 Bxd4 50. Nxf5 Qf3+ 0-1
+

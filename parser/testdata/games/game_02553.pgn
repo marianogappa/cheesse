@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/uNL78YPS"]
+[White "AlekzGuetta"]
+[Black "CaLa198"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:40"]
+[WhiteElo "1507"]
+[BlackElo "1486"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+15"]
+[ECO "C48"]
+[Opening "Four Knights Game: Spanish Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 d5 5. exd5 Nxd5 6. Nxe5 Nxc3 7. bxc3 Qd5 8. c4 Qxe5+ 9. Qe2 Qxe2+ 10. Kxe2 Bd7 11. d3 Bc5 12. Re1 O-O-O 13. Kf1 Rhe8 14. Bb2 Nd4 15. c3 Nc2 16. Rxe8 Nxa1 17. Re2 Bxb5 18. cxb5 Rxd3 19. Bxa1 Rd1+ 20. Re1 Rd2 21. Re8+ Kd7 22. Re2 Rd1+ 23. Re1 Rd2 24. c4 Rxf2+ 25. Kg1 Rxa2+ 26. Kh1 g5 27. Bf6 h6 28. Rd1+ Ke6 29. Bd4 Bxd4 0-1
+

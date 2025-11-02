@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/61Tul9jx"]
+[White "fidsansan"]
+[Black "CAREM"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:53"]
+[WhiteElo "1682"]
+[BlackElo "1823"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 e6 3. Nf3 c5 4. c4 cxd4 5. Nxd4 dxc4 6. Bxc4 Nc6 7. Bb5 Bd7 8. O-O Nge7 9. Nxc6 Bxc6 10. Bxc6+ Nxc6 11. Qxd8+ Rxd8 12. b3 Be7 13. Bb2 e5 14. Nc3 O-O 15. Rad1 Rxd1 16. Rxd1 Rd8 17. Rxd8+ Bxd8 18. Kf1 a6 19. Ke2 f6 20. a3 Be7 21. Ne4 Na5 22. Nd2 b5 23. Kd3 Kf7 24. Kc3 Nc6 25. Ne4 Ke6 26. f4 f5 27. Ng5+ Bxg5 28. fxg5 f4 29. exf4 exf4 30. Kd3 Kf5 31. Bxg7 Kxg5 32. Ke4 Na5 33. b4 Nc4 34. Be5 Nxa3 35. Bxf4+ Kf6 36. h4 h5 37. Bd6 Nc4 38. Bc5 Ke6 39. Kf4 Kf6 40. g4 hxg4 41. Kxg4 Kg6 42. h5+ Kh7 43. Bd4 Nd6 44. Kg5 Ne4+ 45. Kf5 Nd6+ 46. Ke6 Nc4 47. Kd7 Kh6 48. Kc6 Kxh5 49. Kb7 Nd2 50. Kxa6 Nb3 51. Be5 Kg6 52. Kxb5 Kf5 53. Bd6 Ke6 54. Bf8 Nd4+ 55. Kc5 Nb3+ 56. Kc6 Nd4+ 57. Kc7 Kd5 58. b5 Nxb5+ 59. Kd7 Nd4 60. Ke7 Nf3 61. Kf7 Nd4 62. Kg6 Nf3 63. Kf5 Nd4+ 64. Kg4 Ne2 65. Kf3 Nd4+ 66. Ke3 Nf5+ 67. Kd3 Nd6 68. Bxd6 1/2-1/2
+

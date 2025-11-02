@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/ObkQvlZk"]
+[White "lucianobonfico"]
+[Black "PawnbytheRiverside"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:32"]
+[WhiteElo "2197"]
+[BlackElo "1838"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. b3 Nc6 4. Nf3 a6 5. Bb2 d6 6. d4 Qc7 7. dxc5 dxc5 8. Qe2 Bd7 9. O-O-O O-O-O 10. e5 f6 11. exf6 Nxf6 12. Ne4 Be7 13. Kb1 h6 14. g3 Nb4 15. Bg2 Bc6 16. Nh4 Nxe4 17. Bxe4 Bxe4 18. Qxe4 g5 19. Ng6 Rhg8 20. Qxe6+ Kb8 21. Nxe7 Rxd1+ 22. Rxd1 Re8 23. Nc6+ Ka8 24. Qxe8+ Qb8 25. Qxb8# 1-0
+

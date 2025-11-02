@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/whUpnI5N"]
+[White "danielillochess"]
+[Black "di360"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:15"]
+[WhiteElo "1295"]
+[BlackElo "1375"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-15"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[TimeControl "90+2"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Bb4+ 4. c3 Be7 5. d5 Na5 6. b4 Nf6 7. Nbd2 b6 8. bxa5 O-O 9. axb6 axb6 10. Bd3 Bc5 11. O-O d6 12. Nb3 Ng4 13. Nxc5 bxc5 14. c4 f5 15. Qc2 f4 16. h3 Nh6 17. Nh2 Bxh3 18. gxh3 Qg5+ 19. Kh1 Qh4 20. f3 Qxh3 21. Rg1 Nf7 22. Qg2 Qh6 23. Qg4 g6 24. Bd2 Ra3 25. Bf1 Re8 26. Qd7 Qf8 27. Bh3 Nh6 28. Qxc7 Ra6 29. Ba5 Nf7 30. Bb6 Raa8 31. a4 Rac8 32. Qb7 Rb8 33. Qc6 1-0
+

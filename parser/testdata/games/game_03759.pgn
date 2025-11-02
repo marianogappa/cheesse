@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/fxxH8Mwu"]
+[White "nLilac"]
+[Black "lfcastro001"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:20"]
+[WhiteElo "1579"]
+[BlackElo "1609"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C44"]
+[Opening "Ponziani Opening: Jaenisch Counterattack"]
+[TimeControl "420+10"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 exd4 5. cxd4 d5 6. e5 Ne4 7. Nc3 Nxc3 8. bxc3 Bg4 9. h3 Bxf3 10. Qxf3 f6 11. Bd3 Qe7 12. O-O O-O-O 13. a4 fxe5 14. dxe5 Nxe5 15. Qf5+ Kb8 16. Re1 g6 17. Qxe5 Qxe5 18. Rxe5 Bd6 19. Re1 c6 20. Bb2 Rhf8 21. c4 Bc5 22. Re2 dxc4 23. Bxc4 a6 24. a5 Rde8 25. Rxe8+ Rxe8 26. Kf1 b5 27. axb6 Bxb6 28. Rxa6 Kc7 29. f4 Re3 30. Rxb6 Kxb6 31. Bd4+ Kc7 32. Bxe3 Kd6 33. g4 Ke7 34. Bb3 Kf6 35. Ba4 h5 36. gxh5 gxh5 37. Bxc6 Kf5 38. Kg2 Kf6 39. Kg3 Kf5 40. Bd7+ Kg6 41. f5+ Kf6 42. Kh4 Ke7 43. Ba4 Kf6 44. Bc2 Kf7 45. Kxh5 Kf6 46. h4 Ke5 47. Kg5 Kd6 48. h5 Ke7 49. Kg6 Kf8 50. Bb3 Ke7 51. h6 Kf8 52. h7 Ke7 53. h8=Q Kd6 54. f6 Ke5 55. f7+ Ke4 56. f8=Q Kxe3 57. Qe5+ Kd3 58. Qfd6# 1-0
+

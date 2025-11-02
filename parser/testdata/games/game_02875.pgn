@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/J0dDWMeJ"]
+[White "kansas"]
+[Black "Edgarsfelix"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:45"]
+[WhiteElo "1499"]
+[BlackElo "1526"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit #2"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qd1 e5 5. Nc3 a6 6. Nf3 h6 7. h3 Nf6 8. Bd3 Bb4 9. Bd2 O-O 10. O-O Re8 11. Nh2 Nd4 12. Nf3 d6 13. Ne2 Bxd2 14. Nfxd4 exd4 15. Qxd2 Re5 16. Nxd4 Bd7 17. Qf4 Qc8 18. Qf3 d5 19. Nf5 dxe4 20. Bxe4 Rxe4 21. Rfe1 Bxf5 22. Rxe4 Bxe4 23. Qg3 Qc5 24. Re1 Re8 25. Kh1 Nh5 26. Qc3 Qd5 27. f3 Bxf3 28. Rxe8+ Kh7 29. gxf3 Ng3+ 30. Kg2 Qg5 31. Qd3+ Ne4+ 32. Kf1 Qc1+ 33. Kg2 Qg5+ 34. Kh2 Qf4+ 35. Kh1 Qc1+ 36. Kg2 Qg5+ 37. Kf1 Qc1+ 38. Ke2 f5 39. fxe4 Qg5 40. exf5 Qh5+ 41. Kd2 Qxe8 42. f6+ Kg8 43. fxg7 Kxg7 44. Qd4+ Kg6 45. Qd6+ Kh5 46. Qc5+ Kg6 47. Qd6+ Kf7 48. Qd5+ 1-0
+

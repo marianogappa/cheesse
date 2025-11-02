@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/wqXwkSx5"]
+[White "Goalchessrobot123"]
+[Black "atamek"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:28"]
+[WhiteElo "2141"]
+[BlackElo "2152"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. Nf3 Nc6 2. d4 d5 3. c4 Nf6 4. Nc3 e6 5. Bg5 Be7 6. Bxf6 Bxf6 7. e4 dxe4 8. Nxe4 Bxd4 9. Bd3 Bxb2 10. Rb1 Bf6 11. O-O O-O 12. Qe2 Nd4 13. Nxd4 Qxd4 14. Rfd1 Qe5 15. Bc2 Bd7 16. Rxd7 Rad8 17. Rbd1 Rxd7 18. Rxd7 h6 19. Qd3 g6 20. f4 Qxf4 21. Qd2 Qxd2 22. Nxf6+ Kg7 23. Nh5+ gxh5 24. Rxd2 f5 25. Rd7+ Rf7 26. Rxf7+ Kxf7 27. Kf2 Ke7 28. Ke3 Kd6 29. Kd4 c5+ 30. Kc3 Ke5 31. Kd3 Kf4 32. Bd1 h4 33. Ke2 e5 34. Kf2 Ke4 35. g3 h3 36. Ke2 Kd4 37. Bb3 a5 38. a4 b6 39. Bc2 f4 40. gxf4 exf4 41. Bb3 Kc3 42. Ba2 Kb2 43. Kf3 Kxa2 44. Kxf4 Kb3 45. Kg3 Kxc4 46. Kxh3 Kb4 47. Kg4 Kxa4 48. Kh5 c4 49. Kxh6 c3 50. h4 c2 51. h5 c1=Q+ 52. Kh7 Qh1 53. Kh8 Qxh5+ 54. Kg8 Qf5 55. Kg7 Kb5 56. Kg8 Kc6 57. Kg7 a4 58. Kg8 a3 59. Kg7 a2 60. Kg8 a1=Q 1/2-1/2
+

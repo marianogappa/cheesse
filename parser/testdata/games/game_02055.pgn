@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7lauCnAW"]
+[White "Leart"]
+[Black "AquilesMiranda"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:43"]
+[WhiteElo "1376"]
+[BlackElo "1639"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-17"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 e6 2. Nc3 c5 3. d5 exd5 4. Nxd5 Nf6 5. Nf3 c4 6. e4 Nxe4 7. Bxc4 b5 8. Bd3 Qa5+ 9. c3 Nc5 10. b4 Nxd3+ 11. Qxd3 Qa6 12. Nc7+ Kd8 13. Nxa6 Bxa6 14. Ng5 Kc7 15. Nxf7 Rg8 16. Bf4+ Kc8 17. Bxb8 Rxb8 18. O-O-O 1-0
+

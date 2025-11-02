@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/qu3Amwdh"]
+[White "jpmc"]
+[Black "Fashma"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:55"]
+[WhiteElo "1411"]
+[BlackElo "1476"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C00"]
+[Opening "French Defense #2"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Bc4 c6 3. Nf3 d5 4. exd5 cxd5 5. Bb5+ Nc6 6. O-O Bd7 7. Ne5 a6 8. Bxc6 bxc6 9. Qf3 f6 10. Qh5+ g6 11. Nxg6 hxg6 12. Qxh8 Ne7 13. d3 c5 14. Nc3 d4 15. Ne4 f5 16. Nf6+ Kf7 17. Nxd7 Qxd7 18. Qh7+ Bg7 19. Bh6 Rh8 20. Qxg7+ Ke8 21. Qxh8+ Kf7 22. Qg7+ Ke8 23. Bg5 Kd8 24. Bxe7+ Kc7 25. Bd6+ Kxd6 26. Qxd7+ Kxd7 27. b4 c4 28. a3 Kc6 29. dxc4 e5 30. b5+ axb5 31. cxb5+ Kxb5 32. a4+ Kc5 33. c3 d3 34. Rfd1 Kc4 35. Ra2 e4 36. a5 Kxc3 37. Ra3+ Kd4 38. Ra4+ Kc3 0-1
+

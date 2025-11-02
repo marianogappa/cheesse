@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/w9sivuvH"]
+[White "Squeizee"]
+[Black "ilayday7"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:37"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+162"]
+[BlackRatingDiff "-163"]
+[ECO "A00"]
+[Opening "Mieses Opening: Reversed Rat"]
+[TimeControl "360+10"]
+[Termination "Normal"]
+
+1. d3 e5 2. e3 d5 3. Nf3 Be6 4. Nxe5 Bd6 5. d4 Nf6 6. f4 O-O 7. g3 Ne4 8. Bd3 c6 9. Nc3 Nd7 10. Qh5 Bxe5 11. Nxe4 f6 12. dxe5 f5 13. Ng5 h6 14. Nxe6 g6 15. Qxg6+ Kh8 16. Qg7# 1-0
+

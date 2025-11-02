@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CFDtDzkB"]
+[White "SaleEXTRA"]
+[Black "tago87"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:33"]
+[WhiteElo "1567"]
+[BlackElo "1476"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "C20"]
+[Opening "King's Pawn Opening: 2.b3"]
+[TimeControl "240+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. b3 Nf6 3. f3 d5 4. exd5 Nxd5 5. Bc4 Be6 6. Bxd5 Bxd5 7. Qe2 f6 8. d4 Nc6 9. Bb2 Qe7 10. dxe5 Nxe5 11. Nh3 Nc6 12. Qxe7+ Bxe7 13. O-O Bc5+ 14. Kh1 O-O-O 15. c4 Be6 16. Nf4 Bf5 17. Nc3 g5 18. Nfd5 Rhf8 19. Rfe1 Ne5 20. Bc1 Nd3 21. Re2 Nxc1 22. Rxc1 Bd4 23. Nb5 Bb6 24. Nxb6+ axb6 25. Na7+ Kb8 26. Nb5 c6 27. Na3 Bd3 28. Re6 Rde8 29. Rce1 Rxe6 30. Rxe6 f5 31. g3 Bb1 32. Rh6 Bxa2 33. Rxh7 Bxb3 34. Rg7 f4 35. Rxg5 fxg3 36. Rxg3 Re8 37. Rg4 Re1+ 38. Kg2 Bd1 39. Rg3 Re3 40. h4 Rxa3 41. h5 Bc2 42. h6 Rc3 43. Rg4 b5 44. cxb5 cxb5 45. Rh4 Rc4 46. Rh3 b4 47. h7 Bxh7 48. Rxh7 Rc2+ 49. Kg3 b3 50. Rh8+ Ka7 51. Rh1 b2 52. Rb1 Ka6 53. Kf4 Kb5 54. Ke3 Kc4 55. f4 Kc3 56. f5 Rc1 57. Rxb2 Kxb2 58. Ke4 Rf1 59. Ke5 Kc2 60. f6 b5 61. Ke6 b4 62. f7 b3 63. Ke7 b2 64. f8=Q Rxf8 65. Ke6 b1=Q 66. Ke7 Qb8 67. Ke6 Qe8+ 68. Kd6 Rf6+ 69. Kd5 Qe6+ 70. Kd4 Rf4+ 71. Kc5 Rf5+ 0-1
+

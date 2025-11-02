@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/otyeSKEX"]
+[White "augusto500"]
+[Black "dangerous11"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:18"]
+[WhiteElo "2270"]
+[BlackElo "1734"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 h6 3. Bf4 Nf6 4. e3 a6 5. c4 e6 6. c5 Be7 7. Bd3 b6 8. cxb6 Bb4+ 9. Nbd2 Ne4 10. bxc7 Qd7 11. cxb8=Q Rxb8 12. Bxb8 O-O 13. O-O f5 14. Nb3 Rf6 15. Rc1 Rg6 16. Qc2 Bb7 17. Ne5 Rxg2+ 18. Kxg2 Qd8 19. Qc7 Qg5+ 20. Kh1 Ng3+ 21. fxg3 Qxe3 22. Qxb7 Bd2 23. Qf7+ Kh7 24. Qg6+ Kh8 25. Rc8# 1-0
+

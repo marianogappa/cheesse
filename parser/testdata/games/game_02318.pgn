@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nVymp8BL"]
+[White "Merlijn351"]
+[Black "Abnerchess"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:49"]
+[WhiteElo "1300"]
+[BlackElo "1299"]
+[WhiteRatingDiff "-97"]
+[BlackRatingDiff "+11"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. Nd5 Nf6 5. Nxf6+ Qxf6 6. d4 g6 7. Bg5 Qe6 8. b3 exd4 9. Bc4 Qxe4+ 10. Be2 Be7 11. O-O Bxg5 12. Nxg5 Qd5 13. Bc4 Qxg5 14. Re1+ Ne5 15. Bd5 O-O 16. f4 Qxf4 17. g3 Qf5 18. Rf1 Qh3 19. Rf6 Bg4 20. Qxd4 Nf3+ 21. Kf2 Nxd4 22. Rf1 Qxh2+ 23. Ke3 Rae8+ 24. Kd3 Be2+ 25. Kxd4 Bxf1 26. Rxf7 Qd2# 0-1
+

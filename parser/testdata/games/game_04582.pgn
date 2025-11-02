@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0hseV0gv"]
+[White "Teniente"]
+[Black "pavest"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:36"]
+[WhiteElo "1450"]
+[BlackElo "1492"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 d6 3. Qa4+ Bd7 4. Qb3 Nc6 5. Qxb7 Nf6 6. Bb5 Rb8 7. Qa6 Rb6 8. Qa4 Qc7 9. Bxc6 Bxc6 10. Qc2 Bxe4 11. d3 Bxg2 12. f3 Bxh1 13. Kf2 Qc6 14. Qe2 g6 15. Bg5 Bg7 16. Nd2 e5 17. Nh3 Bxf3 18. Nxf3 O-O 19. b3 Re8 20. d4 exd4 21. cxd4 Rxe2+ 22. Kxe2 cxd4 23. Nxd4 Qe4+ 24. Kf1 Qxd4 25. Re1 Ne4 26. Be3 Qf6+ 27. Nf4 Ra6 28. a4 Qb2 29. Nd5 Nd2+ 30. Kg1 Nxb3 31. Ne7+ Kh8 32. Nc8 Rxa4 33. h3 Ra1 34. Bc1 Rxc1 35. Rf1 Bd4+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/eNmSEB8r"]
+[White "Agim63"]
+[Black "jelelatan"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:56"]
+[WhiteElo "1878"]
+[BlackElo "2104"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 Nc6 3. b3 e6 4. Bb2 Nf6 5. Nf3 Nxe4 6. O-O d5 7. Bb5 Bd7 8. d4 cxd4 9. Bxc6 bxc6 10. Nxd4 Bd6 11. Nxe6 Bxe6 12. Bxg7 Rg8 13. Bd4 Bxh2+ 14. Kxh2 Qh4+ 15. Kg1 Qh3 16. g3 Nxg3 17. Qf3 Ne2# 0-1
+

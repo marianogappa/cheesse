@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7GqHJe5S"]
+[White "APAAP"]
+[Black "xandinho"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:54"]
+[WhiteElo "1389"]
+[BlackElo "1439"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #3"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. e3 d5 3. g3 g6 4. c3 Bg7 5. Bg2 O-O 6. Nd2 c5 7. dxc5 Nbd7 8. b4 a5 9. a3 axb4 10. cxb4 e5 11. Bb2 e4 12. Rb1 b6 13. c6 Nb8 14. Qc2 Ra7 15. f3 exf3 16. Bxf3 Ba6 17. a4 Qd6 18. b5 Bc8 19. Nb3 Rc7 20. Nd4 Kh8 21. Nge2 Ng8 22. Nf4 Ne7 23. Qc3 f5 24. Qb3 Bxd4 25. Bxd4+ Kg8 26. Bxb6 Rxc6 27. bxc6 Qxc6 1-0
+

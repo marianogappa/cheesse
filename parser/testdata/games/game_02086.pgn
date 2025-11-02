@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/svHSJiLd"]
+[White "francivene"]
+[Black "vas717"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:50"]
+[WhiteElo "1444"]
+[BlackElo "1653"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-16"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 g6 2. e4 Bg7 3. g3 d6 4. Bg2 Nc6 5. c3 e5 6. Ne2 exd4 7. cxd4 Nge7 8. O-O O-O 9. Bg5 f6 10. Bc1 Rb8 11. Nbc3 a6 12. a3 b6 13. d5 Ne5 14. f4 Ng4 15. Nd4 c5 16. Ne6 Bxe6 17. dxe6 Nh6 18. f5 gxf5 19. exf5 Nhxf5 20. Qg4 Kh8 21. Be4 Nd4 22. Qh5 Nxe6 23. Qxh7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/a5nfjaPR"]
+[White "puliciclone"]
+[Black "HaseDamir"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:00"]
+[WhiteElo "1756"]
+[BlackElo "1807"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "A09"]
+[Opening "Reti Opening: Reti Accepted"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. c4 dxc4 3. g3 c6 4. Bg2 Nf6 5. O-O Bg4 6. Ne5 Bf5 7. Nxc4 Bxb1 8. Rxb1 Na6 9. d3 Nb4 10. Qb3 Nbd5 11. Qxb7 e6 12. Qxc6+ Nd7 13. Nd6+ Bxd6 14. Qxd6 Rc8 15. Bxd5 exd5 16. Qxd5 O-O 17. Be3 Nf6 18. Qxd8 Rfxd8 19. Rfc1 Rxc1+ 20. Rxc1 Nd5 21. Bxa7 h6 22. a3 Ra8 23. Bc5 Rb8 24. b4 Nb6 25. Bxb6 Rxb6 26. e4 Kf8 27. f4 Ke7 28. Kf2 Kd6 29. Ke3 Ra6 30. Rc3 f6 31. d4 Rc6 32. Rxc6+ Kxc6 33. Kd3 Kb5 34. Kc3 Ka4 35. Kc4 Kxa3 36. b5 Ka4 37. b6 Ka3 38. b7 Kb2 39. b8=Q+ Kc2 40. Qb3+ Kd2 41. Qf3 Kc2 42. Qe2+ Kc1 43. Kc3 Kb1 44. Qb2# 1-0
+

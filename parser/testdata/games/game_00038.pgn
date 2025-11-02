@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/xRzfviHJ"]
+[White "Chessfolly"]
+[Black "avidog"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "1785"]
+[BlackElo "1795"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-13"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. f4 g6 2. Nf3 d5 3. e3 Bg7 4. Nc3 e6 5. b3 Ne7 6. Bb2 O-O 7. Be2 c5 8. Na4 b6 9. Bxg7 Kxg7 10. Nb2 Ba6 11. Bxa6 Nxa6 12. Nd3 Nb4 13. a3 Nxd3+ 14. cxd3 Nf5 15. O-O Nh4 16. Rc1 Nxf3+ 17. Qxf3 Qf6 18. Rc2 Rfe8 19. g3 Rad8 20. Kg2 h5 21. Rfc1 Rc8 22. Kf2 Qe7 23. Kg2 Qd7 24. Re1 Qb5 25. Rc3 d4 26. exd4 cxd4 27. Rxc8 Rxc8 28. Re2 Qxb3 29. Qe4 Qd5 30. Kf3 Kf6 31. Qxd5 exd5 32. Re5 Rc5 33. Ke2 a5 34. Kd1 b5 35. Re8 b4 36. axb4 axb4 37. Rb8 Ra5 38. Rxb4 Ra1+ 39. Ke2 Rh1 40. Rxd4 Rxh2+ 41. Ke3 Ke6 42. Rb4 Rg2 43. Kf3 Rxd2 44. Rb3 Kf5 45. Rc3 f6 46. Rb3 g5 47. fxg5 fxg5 48. Ke3 Rg2 49. Kf3 Rh2 50. Rb5 g4+ 51. Ke3 Ke5 52. Rb4 Rg2 53. d4+ Kf5 54. Rb8 Rxg3+ 55. Kf2 Rf3+ 56. Kg2 Ke4 57. Re8+ Kxd4 58. Re1 h4 59. Rd1+ Ke4 60. Re1+ Kf4 61. Re8 h3+ 62. Kg1 Kg3 63. Re2 d4 64. Rh2 d3 65. Rd2 Re3 66. Rd1 1-0
+

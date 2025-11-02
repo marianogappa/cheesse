@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7yl7jzZx"]
+[White "BRENNNOV"]
+[Black "ariel1595"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:26"]
+[WhiteElo "1725"]
+[BlackElo "1551"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "D06"]
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 Be6 4. cxd5 Bxd5 5. f3 a6 6. e4 Bc6 7. d5 Bd7 8. e5 Ng8 9. Bc4 e6 10. dxe6 fxe6 11. Bf4 Bb4 12. Qb3 Bxc3+ 13. bxc3 Qe7 14. Qxb7 Bc6 15. Qc8+ Kf7 16. Rb1 Nd7 17. Qxc7 Ba4 18. Ne2 Bc2 19. Rb7 Rd8 20. Nd4 Ba4 21. Bxe6+ Kf8 22. Bxd7 Rxd7 23. Rb8+ Kf7 24. Qc4+ Qe6 25. Qxa4 Rc7 26. Rf8+ Kxf8 27. Nxe6+ Kf7 28. Nxc7 Ne7 29. e6+ Kf6 30. Qd4+ Kg6 31. Qe4+ Nf5 32. g4 Rc8 33. Qxf5# 1-0
+

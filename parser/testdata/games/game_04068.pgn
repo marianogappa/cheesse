@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/L59v5w4T"]
+[White "gen3lsx"]
+[Black "homer27"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:28"]
+[WhiteElo "1675"]
+[BlackElo "1654"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+19"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Stonewall Attack"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.22] } 1... d5 { [%eval 0.25] } 2. e3 { [%eval 0.1] } 2... Nf6 { [%eval 0.17] } 3. Bd3 { [%eval -0.01] } 3... Nc6 { [%eval 0.02] } 4. f4 { [%eval -0.22] } 4... Ne4?! { [%eval 0.28] } 5. Nf3 { [%eval 0.13] } 5... Bg4 { [%eval 0.35] } 6. O-O { [%eval 0.28] } 6... g5? { [%eval 1.39] } 7. c3? { [%eval 0.1] } 7... gxf4 { [%eval 0.41] } 8. exf4 { [%eval 0.07] } 8... Qd6 { [%eval 0.27] } 9. g3?! { [%eval -0.38] } 9... Bh6 { [%eval 0.08] } 10. Qe2 { [%eval -0.31] } 10... f5 { [%eval -0.27] } 11. Ne5?? { [%eval -8.02] } 11... Nxe5?? { [%eval -4.51] } 12. fxe5? { [%eval -5.97] } 12... Bxe2 { [%eval -5.97] } 13. exd6 { [%eval -5.97] } 13... Bxf1 { [%eval -5.97] } 14. Bxh6 { [%eval -5.91] } 14... Bxd3 { [%eval -5.95] } 15. Nd2 { [%eval -5.97] } 15... Nxd2 { [%eval -5.95] } 16. Bxd2 { [%eval -5.9] } 16... exd6 { [%eval -5.8] } 17. Re1+ { [%eval -5.72] } 17... Be4 { [%eval -5.62] } 18. Bg5 { [%eval -5.64] } 18... O-O { [%eval -5.45] } 19. b3 { [%eval -5.79] } 19... Rae8 { [%eval -5.69] } 20. c4? { [%eval -6.85] } 20... dxc4 { [%eval -6.84] } 21. bxc4 { [%eval -6.81] } 21... Bd3 { [%eval -6.66] } 22. Rc1 { [%eval -6.74] } 22... b5?! { [%eval -5.98] } 23. cxb5 { [%eval -5.97] } 23... Bxb5 { [%eval -5.75] } 24. Rxc7 { [%eval -5.93] } 24... a6?! { [%eval -5.1] } 25. Be7 { [%eval -5.07] } 25... Rf7 { [%eval -4.87] } 26. d5?? { [%eval -22.12] } 26... Rfxe7 { [%eval -16.06] } 0-1
+

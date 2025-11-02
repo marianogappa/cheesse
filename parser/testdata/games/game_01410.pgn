@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gZljCSa2"]
+[White "SirFlexAlot"]
+[Black "YoungFrezy"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:20"]
+[WhiteElo "1063"]
+[BlackElo "1252"]
+[WhiteRatingDiff "+51"]
+[BlackRatingDiff "-42"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Breyer Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nf6 3. d4 Nc6 4. dxe5 Nxe5 5. Nf3 Bd6 6. Bc4 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/slGiAzWU"]
+[White "sandwedge"]
+[Black "belal107"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:41"]
+[WhiteElo "1368"]
+[BlackElo "1496"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-15"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e3 e5 2. Be2 b6 3. e4 Bb7 4. d3 Bc5 5. Nf3 Nc6 6. Be3 Qe7 7. Bxc5 Qxc5 8. O-O O-O-O 9. c3 h5 10. d4 exd4 11. cxd4 Qe7 12. Ne5 h4 13. Nxc6 Bxc6 14. e5 Qg5 15. Bf3 h3 16. g3 f5 17. Bxc6 dxc6 18. Qf3 Kb7 19. a4 Rxd4 20. a5 f4 21. axb6 cxb6 22. Nc3 fxg3 23. fxg3 Ne7 24. Ne4 Qxe5 25. Rad1 Rxe4 26. Rd7+ Kc8 27. Rxa7 Qd4+ 28. Kh1 Qd5 29. Ra8+ Kc7 30. Rxh8 Re2 31. Qxd5 Nxd5 32. Rxh3 Rxb2 33. Rf7+ Kd6 34. Rxg7 Ne3 35. Rg6+ Kc5 36. Kg1 Rb1+ 37. Kf2 Rb3 38. Rh5+ Kb4 39. Rxc6 Ka3 40. h3 Nd1+ 41. Ke2 Nb2 42. g4 Nc4 43. Rxc4 b5 44. Rc8 b4 45. Ra8+ Kb2 46. g5 1-0
+

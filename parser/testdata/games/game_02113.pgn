@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/38uAVl3p"]
+[White "Goalchessrobot123"]
+[Black "SrDonVergas"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:49"]
+[WhiteElo "2128"]
+[BlackElo "2118"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-12"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Queen's Gambit Invitation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. Nf3 e6 2. g3 d5 3. Bg2 Nf6 4. O-O Be7 5. d4 O-O 6. c4 dxc4 7. Nc3 a6 8. Bg5 Ra7 9. Bxf6 Bxf6 10. e4 b5 11. e5 Be7 12. a4 b4 13. Ne4 a5 14. h4 Bb7 15. Qb1 Nd7 16. Neg5 g6 17. h5 Bxg5 18. hxg6 hxg6 19. Nxg5 Qxg5 20. f4 Qxg3 21. Rf2 Kg7 22. Kf1 Bxg2+ 23. Rxg2 Qxf4+ 24. Kg1 Qxd4+ 25. Kf1 Qxe5 26. Qe1 Qxe1+ 27. Kxe1 Nf6 28. Rd1 Nd5 29. Rc1 Ra6 30. Rxc4 Rd6 31. Rd2 Re8 32. Rxc7 Kf6 33. Rc5 Rg8 34. Rxa5 g5 35. Kf2 g4 36. Kg3 Ke7 37. Ra7+ Kf6 38. Rf2+ Ke5 39. Raxf7 Rg6 40. Re2+ Kd4 41. Rc7 Ne3 42. Rd2+ Ke4 43. Rxd6 Nf5+ 44. Kg2 Nxd6 45. Rc6 Nf5 46. Rc4+ Kd5 47. Rxb4 Nd4 48. a5 g3 49. a6 Rg7 50. Rb7 Rxb7 51. axb7 Nc6 52. Kxg3 Nb8 53. Kf3 Kc5 54. Ke4 Kb4 55. Ke5 Kb3 56. Kxe6 Kxb2 57. Kd6 Kb3 58. Kc7 Na6+ 59. Kb6 Nb8 60. Ka7 Nc6+ 61. Kb6 Nb8 62. Kb5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/uE40gUsN"]
+[White "rachidov"]
+[Black "redbulls38"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:39"]
+[WhiteElo "1976"]
+[BlackElo "1507"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-2"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 g6 3. d4 Bg7 4. h4 cxd4 5. cxd4 Nc6 6. Nf3 d6 7. d5 Ne5 8. h5 Nf6 9. h6 Bf8 10. Nxe5 dxe5 11. Nc3 Nh5 12. Rxh5 gxh5 13. Qxh5 Bd7 14. Bg5 Qb6 15. O-O-O O-O-O 16. Kb1 e6 17. Qxf7 Ba3 18. Rd2 Bb4 19. Bxd8 Bxc3 20. Rc2 Qxd8 21. Rxc3+ Kb8 22. dxe6 Bc6 23. Bc4 Bxe4+ 24. Kc1 Qg5+ 25. Re3 Rc8 26. e7 Rxc4+ 27. Qxc4 Qxe7 28. Qxe4 Qc5+ 29. Qc2 Qe7 30. Qc3 Qd8 31. Qxe5+ Ka8 32. Rd3 Qc8+ 33. Rc3 Qd8 34. Qd6 Qc8 35. Rxc8# 1-0
+

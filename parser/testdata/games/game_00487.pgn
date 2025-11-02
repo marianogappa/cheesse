@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/UHCSz8Zf"]
+[White "Cruncher"]
+[Black "WonderBrais"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:48"]
+[WhiteElo "1795"]
+[BlackElo "1780"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 Bf5 3. Nf3 e6 4. d4 c5 5. Bd3 cxd4 6. Nxd4 Bxd3 7. Qxd3 Nc6 8. c3 Nxd4 9. cxd4 Qa5+ 10. Bd2 Qb6 11. Qc3 Ne7 12. Na3 Nf5 13. Rc1 Bxa3 14. bxa3 O-O 15. Rb1 Qa6 16. Qb3 Nxd4 17. Qe3 Nc2+ 18. Kd1 Nxe3+ 19. fxe3 Qxa3 20. Ke2 b6 21. Rhc1 Rac8 22. Rxc8 Rxc8 23. Rb3 Qxa2 24. Rd3 Qc4 25. e4 dxe4 26. Ke3 Qxd3+ 27. Kf4 Qxd2+ 28. Kxe4 Qxg2+ 29. Kf4 Qxh2+ 30. Ke4 Rc5 31. Kd4 Rxe5 32. Kc4 Qf4+ 33. Kd3 Re3+ 34. Kd2 Qf2+ 35. Kd1 a5 36. Kc1 a4 37. Kb1 a3 38. Ka1 b5 39. Kb1 b4 40. Ka1 b3 41. Kb1 a2+ 42. Ka1 Re1# 0-1
+

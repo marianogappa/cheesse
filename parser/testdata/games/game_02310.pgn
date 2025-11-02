@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZgNERpVm"]
+[White "Palestine48"]
+[Black "cortona"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:49"]
+[WhiteElo "1233"]
+[BlackElo "1190"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Qe7 3. d3 Nf6 4. Qh4 Nd5 5. Qxe7+ Nxe7 6. Bg5 Nec6 7. Nc3 Be7 8. Be3 O-O 9. Nd5 Nd4 10. Bxd4 exd4 11. Nxc7 Bb4+ 12. c3 dxc3 13. bxc3 Bxc3+ 14. Kd1 Bxa1 15. Nxa8 Nc6 16. Nc7 Nd4 17. Nd5 b5 18. Ne7+ Kh8 19. Nxc8 Rxc8 20. Nh3 Bb2 21. Ng5 Rc1+ 22. Kd2 Rc2+ 23. Ke3 Ne6 24. Nxf7+ Kg8 25. Nd6 Bd4+ 26. Kf3 Rxf2+ 27. Kg3 Rxa2 28. Nxb5 Be5+ 29. Kf3 Rb2 30. Nxa7 Ng5+ 31. Kg4 Nf7 32. Nc8 d5 33. Ne7+ Kh8 34. Nxd5 Nh6+ 35. Kf3 g5 36. g4 Rd2 37. h4 gxh4 38. Rxh4 Kg7 39. g5 Nf7 40. Ne7 Nxg5+ 41. Ke3 Rh2 42. Nf5+ Kh8 43. Rg4 Bf6 44. Nd6 h5 45. Rf4 h4 46. Rxf6 Nh7 47. Rg6 h3 48. Nf7# 1-0
+

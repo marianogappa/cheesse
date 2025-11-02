@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/crrxsgaL"]
+[White "GhostSonata"]
+[Black "nimzo76"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:50"]
+[WhiteElo "1489"]
+[BlackElo "1744"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+16"]
+[ECO "D01"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.25] } 1... Nf6 { [%eval 0.24] } 2. Nc3 { [%eval -0.04] } 2... d5 { [%eval -0.02] } 3. h3 { [%eval -0.29] } 3... e6 { [%eval -0.35] } 4. a3 { [%eval -0.51] } 4... c5 { [%eval -0.45] } 5. e3 { [%eval -0.45] } 5... Nc6 { [%eval -0.37] } 6. Bb5 { [%eval -0.38] } 6... a6 { [%eval -0.32] } 7. Bxc6+ { [%eval -0.41] } 7... bxc6 { [%eval -0.45] } 8. Nge2 { [%eval -0.6] } 8... cxd4 { [%eval -0.47] } 9. Nxd4?! { [%eval -1.07] } 9... c5 { [%eval -1.03] } 10. Nc6? { [%eval -3.98] } 10... Qc7 { [%eval -3.95] } 11. Nd4 { [%eval -3.97] } 11... cxd4 { [%eval -3.91] } 12. exd4 { [%eval -3.79] } 12... Bd6 { [%eval -3.83] } 13. Ne2?! { [%eval -4.62] } 13... O-O { [%eval -4.21] } 14. f3 { [%eval -4.66] } 14... Bg3+?! { [%eval -4.14] } 15. Nxg3 { [%eval -4.11] } 15... Qxg3+ { [%eval -4.08] } 16. Kf1 { [%eval -4.1] } 16... Bd7 { [%eval -3.85] } 17. a4 { [%eval -4.15] } 17... Rfc8 { [%eval -3.92] } 18. Be3 { [%eval -4.37] } 18... Rc4 { [%eval -4.24] } 19. b3 { [%eval -4.3] } 19... Rc7 { [%eval -4.22] } 20. Bf2 { [%eval -4.57] } 20... Qd6? { [%eval -3.25] } 21. Qe1? { [%eval -5.99] } 21... Rxc2 { [%eval -5.84] } 22. Bg3 { [%eval -5.92] } 22... Qc6 { [%eval -5.79] } 23. Bf4? { [%eval -7.01] } 23... Nh5 { [%eval -6.75] } 24. Be3? { [%eval -8.0] } 24... Qc3? { [%eval -6.22] } 25. Qxc3 { [%eval -6.12] } 25... Ng3+ { [%eval -6.04] } 26. Kg1 { [%eval -6.5] } 26... Rxc3 { [%eval -6.42] } 27. Rh2?! { [%eval -7.39] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ez7Es0Sy"]
+[White "sigmaphi"]
+[Black "dametusojos"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:47"]
+[WhiteElo "1649"]
+[BlackElo "1726"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 e6 4. Nf3 Bb4 5. Qa4+ Nc6 6. a3 Bxc3+ 7. bxc3 Bd7 8. Qc2 Nge7 9. e4 O-O 10. Bxc4 a6 11. O-O Ng6 12. Ba2 Rb8 13. Re1 h6 14. e5 Kh8 15. Bb1 Na5 16. Nh4 Nxh4 17. Qh7# 1-0
+

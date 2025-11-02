@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/NXRWaKk2"]
+[White "dupinozka"]
+[Black "web_studio"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:04"]
+[WhiteElo "1341"]
+[BlackElo "1498"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[ECO "C46"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "45+3"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. Bc4 Nxe4 5. O-O Nxc3 6. bxc3 d5 7. Bb3 Bg4 8. h3 Bh5 9. g4 Bg6 10. d4 e4 11. Ng5 h6 12. Nxf7 Bxf7 13. Re1 Qd6 14. f3 O-O-O 15. fxe4 Qg3+ 16. Kf1 Qxh3+ 17. Ke2 Qxc3 0-1
+

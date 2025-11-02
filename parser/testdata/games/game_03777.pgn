@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/6E0iifEM"]
+[White "juliocesar360"]
+[Black "Geovanchess"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:29"]
+[WhiteElo "1860"]
+[BlackElo "1848"]
+[WhiteRatingDiff "-60"]
+[BlackRatingDiff "+10"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 d5 5. e5 e6 6. Nf3 Qb6 7. Be3 Qxb2 8. Nbd2 Bb4 9. Rb1 Bxd2+ 10. Nxd2 Qa3 11. Qb3 Qxb3 12. Rxb3 a6 13. Bd3 Nge7 14. O-O Nf5 15. Bxf5 exf5 16. Nf3 O-O 17. Rfb1 Na5 18. Rb6 Nc4 19. Nh4 Nxb6 20. Rxb6 0-1
+

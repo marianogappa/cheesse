@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xhPCgIXY"]
+[White "Hackfleisch"]
+[Black "ralmaguer"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:09"]
+[WhiteElo "1732"]
+[BlackElo "1929"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[ECO "C96"]
+[Opening "Ruy Lopez: Closed Variations, Closed Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 c5 11. a3 Nc4 12. b3 Nb6 13. d3 Qc7 14. Nbd2 Re8 15. Nf1 g6 16. Ng3 Bf8 17. Bg5 Bg7 18. Qd2 Nbd7 19. Rad1 Nf8 20. b4 cxb4 21. axb4 Ne6 22. Be3 Bd7 23. d4 Rec8 24. Bd3 Qxc3 25. Qe2 Qxb4 26. dxe5 dxe5 27. Nxe5 Be8 28. Nf3 Qe7 29. Qd2 Bc6 30. Bg5 Qb7 31. Bh6 Ne8 32. Bxg7 N8xg7 33. Qh6 Qe7 34. Ne5 Qg5 35. Qxg5 Nxg5 36. Nxc6 Rxc6 37. h4 N5e6 38. e5 Rb8 39. Be4 Rc5 40. Rd6 Rxe5 41. Rxa6 Nc5 42. f3 Nxe4 43. fxe4 b4 44. Rb1 Reb5 45. Rc6 Ne6 46. Ne2 h6 47. Rd6 R8b6 48. Rxb6 Rxb6 49. Rb3 Nc5 50. Rb2 Nxe4 51. Nd4 Nc3 52. Kf2 Nd1+ 53. Kg3 Nxb2 54. Nb3 Nc4 55. Kf4 Nd6 56. Ke3 Kf8 57. Kd3 Ke7 58. Kc2 Ne4 59. Nd4 Rd6 60. Nb3 Rb6 61. Kb2 Kd6 62. Kc2 Nc5 63. Nxc5 Kxc5 64. Kb3 Ra6 65. g4 Ra3+ 66. Kb2 Kc4 67. g5 hxg5 68. hxg5 Rg3 69. Kc2 Rxg5 70. Kd2 Re5 71. Kc2 Re2+ 72. Kd1 Rh2 73. Ke1 1/2-1/2
+

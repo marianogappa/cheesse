@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/OSqsFd6G"]
+[White "Rel3x"]
+[Black "Claudio13F"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:13"]
+[WhiteElo "1220"]
+[BlackElo "1294"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "C00"]
+[Opening "French Defense #2"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Bc4 Nf6 3. e5 Ne4 4. Nf3 Nc6 5. d3 Nc5 6. d4 Ne4 7. d5 Na5 8. Nc3 Nxc3 9. bxc3 Nxc4 10. O-O b6 11. Qd3 Ba6 12. Bg5 Be7 13. Rab1 Bxg5 0-1
+

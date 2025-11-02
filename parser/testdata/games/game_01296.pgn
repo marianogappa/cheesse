@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QX4MBLNd"]
+[White "Pokohon"]
+[Black "EVANGELISTA840"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:49"]
+[WhiteElo "1966"]
+[BlackElo "1775"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[ECO "C50"]
+[Opening "Italian Game: Hungarian Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. c3 d6 5. d4 Bg4 6. Be2 exd4 7. Nxd4 Bxe2 8. Nxc6 Bxd1 9. Nxd8 Rxd8 10. Kxd1 Nf6 11. f3 Nd7 12. b4 Ne5 13. Nd2 Nd3 14. Ke2 Nxc1+ 15. Raxc1 Bg5 16. Rc2 O-O 17. a4 f5 18. h4 Bf4 19. exf5 Rxf5 20. Ne4 Re8 21. Kf2 d5 22. Ng3 Be3+ 23. Kf1 Rfe5 24. Ne2 d4 25. f4 R5e7 26. cxd4 Bxd4 27. Nxd4 Re1+ 28. Kf2 Rxh1 29. f5 Rxh4 30. Ne6 Rxb4 31. Rxc7 Rxa4 32. Rxg7+ Kh8 33. Rxb7 Ra5 34. g4 h5 35. Kg3 hxg4 36. Kxg4 Rg8+ 37. Kf4 a6 38. Rb3 Rf8 39. Rh3+ Kg8 40. Rh5 Rf6 41. Rg5+ Kf7 42. Rg7+ Ke8 43. Ra7 Rfxf5+ 44. Kg4 Rfe5 45. Nc7+ Kd8 46. Nxa6 Re4+ 47. Kf3 Re6 48. Ra8+ Kd7 49. Nb8+ Kc7 50. Rxa5 Kxb8 51. Rc5 Kb7 52. Rc1 Kb6 53. Rc8 Kb5 54. Rc1 Kb6 55. Rc2 Kb5 56. Rc1 Kb4 57. Rc2 Kb3 58. Rc8 Kb2 59. Rc7 Kb3 60. Rc8 Kb4 61. Rc7 Kb5 62. Rc8 Kb6 63. Rc1 Kb5 64. Rc2 Kb4 65. Rc1 Kb3 66. Rc8 Kb4 67. Rc7 Kb5 68. Rc8 Kb6 69. Rc1 Kb5 70. Rc2 Kb4 71. Rc1 Kb3 72. Rc8 Kb2 73. Rc7 Kb1 74. Rc6 Kb2 75. Rxe6 Kb3 76. Ke3 1-0
+

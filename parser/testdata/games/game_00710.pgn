@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wnarL2qv"]
+[White "WhiteV1per"]
+[Black "jimmpen"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:38"]
+[WhiteElo "1345"]
+[BlackElo "1213"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+16"]
+[ECO "C80"]
+[Opening "Ruy Lopez: Open Variations, Open Variation"]
+[TimeControl "360+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Bxc6 dxc6 7. Re1 Qd5 8. Nc3 Nxc3 9. Rxe5+ Qxe5 10. Nxe5 Nxd1 11. d4 Bd6 12. Bf4 Nxb2 13. Re1 Kf8 14. g3 Bxe5 15. Bxe5 Be6 16. Bxc7 Re8 17. Bd6+ Kg8 18. f4 g6 19. Be5 Nc4 20. Bf6 Nd6 21. g4 Bxa2 22. Rxe8+ Nxe8 23. Bxh8 Kxh8 24. Kf2 a5 25. h4 Bc4 26. Ke3 b5 27. Kd2 a4 28. Kc1 b4 29. Kb2 a3+ 30. Ka1 b3 31. cxb3 Bxb3 32. g5 Nd6 33. h5 Nf5 34. hxg6 hxg6 35. d5 cxd5 36. Kb1 d4 37. Kc1 d3 38. Kd2 a2 39. Kxd3 a1=Q 40. Ke4 Qd4+ 41. Kf3 Bd5+ 42. Ke2 Qe3+ 43. Kd1 Qd3+ 44. Ke1 Bf3 45. Kf2 Qe2+ 46. Kg1 Qg2# 0-1
+

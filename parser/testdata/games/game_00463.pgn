@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ljz0n3XR"]
+[White "Teniente"]
+[Black "njayd"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:40"]
+[WhiteElo "1440"]
+[BlackElo "1374"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Macleod Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. c3 Nf6 3. d4 exd4 4. Qxd4 d6 5. e5 Ng4 6. exd6 cxd6 7. Bb5+ Nc6 8. Qd5 Qe7+ 9. Ne2 Nf6 10. Bxc6+ bxc6 11. Qxc6+ Nd7 12. Qxa8 Nb6 13. Qc6+ Bd7 14. Qc7 g6 15. Qxa7 Bg7 16. Qxb6 O-O 17. Be3 Re8 18. O-O d5 19. h3 Bxh3 20. gxh3 d4 21. cxd4 Bxd4 22. Qxd4 f5 23. Ng3 f4 24. Qxf4 Rf8 25. Qc4+ Kh8 26. Bd4+ Rf6 27. Qc8+ Kg7 28. Bxf6+ Qxf6 29. Qd7+ Kh6 30. Qd2+ Kg7 31. Nc3 Qb6 32. Rad1 Qa5 33. Qd7+ Kh6 34. Rd5 Qb4 35. Nh5 Qh4 36. Qg7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2AyYnbot"]
+[White "Cowlinn"]
+[Black "deforme"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:38"]
+[WhiteElo "1244"]
+[BlackElo "1333"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "C40"]
+[Opening "Latvian Gambit Accepted"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 f5 3. exf5 Nf6 4. Nxe5 Bc5 5. d3 d5 6. Bg5 O-O 7. Bxf6 Rxf6 8. Qh5 Bxf5 9. Be2 Qe7 10. Nf3 Nc6 11. Ng5 Re8 12. Qxh7+ Bxh7 13. Nxh7 Kxh7 14. O-O Qxe2 15. h3 Bxf2+ 16. Rxf2 Qxf2+ 17. Kh2 Re1 18. Nd2 Qxd2 19. Rxe1 Qxe1 20. c4 Rf1 21. g3 Rh1+ 22. Kg2 Qf1# 0-1
+

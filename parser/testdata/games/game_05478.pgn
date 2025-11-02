@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Ef7YHqqc"]
+[White "Verkion"]
+[Black "Andrey_10"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:06"]
+[WhiteElo "1420"]
+[BlackElo "1440"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. b3 Nc6 3. Ba3 e5 4. Bxf8 Kxf8 5. Nf3 exd4 6. Nxd4 Nxd4 7. Qxd4 Nf6 8. e3 b6 9. Nc3 c5 10. Qd1 d4 11. Ne2 Ba6 12. exd4 cxd4 13. Nxd4 Qe7+ 14. Be2 Rd8 15. c4 b5 16. O-O bxc4 17. Bxc4 Bxc4 18. bxc4 g6 19. Qd2 Ne4 20. Qd3 Qe5 21. Rfe1 Rxd4 22. Qf3 Rd2 23. Rxe4 Qxa1+ 24. Re1 Qxe1# 0-1
+

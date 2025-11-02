@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/x62cUO7v"]
+[White "geniediablo"]
+[Black "Unjeunegarcon"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:46"]
+[WhiteElo "1908"]
+[BlackElo "1620"]
+[WhiteRatingDiff "-37"]
+[BlackRatingDiff "+18"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. d3 Nf6 2. e3 e5 3. Ne2 d5 4. Nd2 Bg4 5. h3 Bh5 6. g4 Bg6 7. Ng3 Nc6 8. Bg2 Bb4 9. a3 Ba5 10. b4 Bb6 11. Nb3 d4 12. e4 Qe7 13. O-O a5 14. b5 Na7 15. a4 c6 16. bxc6 Nxc6 17. Ba3 Qd7 18. Nc5 Qc7 19. Nb3 Rc8 20. Rb1 Ne7 21. Rc1 O-O 22. Nf5 Bxf5 23. exf5 g6 24. fxg6 fxg6 25. Qe2 Rf7 26. Nd2 Rcf8 27. Nc4 Ba7 28. Nxe5 Nxg4 29. Nxf7 Qh2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RrZwkI5K"]
+[White "Longhair"]
+[Black "alterit"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:38"]
+[WhiteElo "1866"]
+[BlackElo "2031"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[ECO "C00"]
+[Opening "French Defense: Horwitz Attack"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. b3 d5 3. Nc3 Nf6 4. Bb2 dxe4 5. Qe2 Nc6 6. Nxe4 Be7 7. O-O-O O-O 8. d4 b6 9. Qf3 Bb7 10. Bd3 Nd5 11. a3 f5 12. Ng3 Nf4 13. Bc4 Na5 14. Qc3 Nxc4 15. Qxc4 Bxg2 16. N1e2 Bd5 17. Qc3 Nxe2+ 18. Nxe2 Bxh1 19. Rxh1 Qd5 20. Rg1 Bf6 21. Nf4 Qd7 22. Qc4 Rae8 23. Nh5 b5 24. Qf1 Kh8 25. Qg2 Qd5 26. Qg3 Re7 27. Nf4 Qe4 28. Kb1 g5 29. Nh5 Bxd4 30. Qxg5 Ref7 31. Bxd4+ Qxd4 0-1
+

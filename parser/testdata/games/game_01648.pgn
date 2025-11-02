@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Po76N5qM"]
+[White "mathesna"]
+[Black "micuenta"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:13"]
+[WhiteElo "1158"]
+[BlackElo "1212"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Qh5 Qf6 3. d3 g6 4. Bg5 gxh5 5. Bxf6 Nxf6 6. Nf3 Bg7 7. Nxe5 d6 8. Nc4 Be6 9. Na5 Bc8 10. Nc3 b6 11. Nc4 Be6 12. Na3 O-O 13. Ncb5 Rc8 14. f3 Bf8 15. d4 Bd7 16. Nc3 c5 17. d5 Bg7 18. O-O-O Na6 19. Bxa6 Rd8 20. f4 Ng4 21. Rdg1 Nf2 22. Bb7 Rab8 23. Bc6 Be8 24. Ncb5 Nxh1 25. Rxh1 Bxc6 26. dxc6 a6 27. c7 axb5 28. cxd8=Q+ Rxd8 29. Nxb5 Re8 30. Re1 d5 31. Nd6 Re7 32. e5 Bf8 33. Nf5 d4 34. a3 Re8 35. c3 f6 36. cxd4 fxe5 37. dxe5 c4 38. Nd6 Bxd6 39. e6 Bxf4+ 40. Kc2 Kg7 41. e7 Kf7 42. g3 Bg5 43. h4 Bxe7 44. b4 b5 45. a4 bxa4 46. b5 a3 47. b6 Rb8 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kww9NI7b"]
+[White "Dont_Play_Anonymous"]
+[Black "naichik"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:06"]
+[WhiteElo "1645"]
+[BlackElo "1688"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nc3 Bf5 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 Nc6 8. O-O Bd6 9. Re1 Nge7 10. Nb5 O-O 11. Nxd6 Qxd6 12. b3 Nf5 13. g3 Qb4 14. c3 Qb6 15. Be3 Rac8 16. g4 Nxe3 17. fxe3 Ne7 18. c4 dxc4 19. bxc4 Qc7 20. c5 Ng6 21. h3 Rfd8 22. Kg2 e5 23. d5 Qxc5 24. Rac1 Qd6 25. e4 Nf4+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/JSyIDkPi"]
+[White "sakaorka"]
+[Black "Stevie_Blunder"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:40"]
+[WhiteElo "1530"]
+[BlackElo "1523"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C57"]
+[Opening "Italian Game: Two Knights Defense, Knight Attack, Normal Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. Qf3 Be6 7. d3 Nd4 8. Qd1 Nf4 9. Bxf4 exf4 10. c3 Qxg5 11. Bxe6 Qxg2 12. Bxf7+ Kxf7 13. cxd4 Qxh1+ 14. Kd2 Qxh2 15. Qb3+ Kg6 16. Nc3 Qxf2+ 17. Ne2 f3 18. Rg1+ Kf6 19. Qd1 fxe2 20. Qxe2 Qxg1 21. Qe5+ Kf7 22. Qf5+ Ke8 23. Qe6+ Be7 24. Qe2 Rf8 25. Kc3 h5 26. Qxh5+ Rf7 27. Qb5+ c6 28. Qh5 Qc1+ 29. Kb3 0-1
+

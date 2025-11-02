@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PjBJUeLZ"]
+[White "Falkor1"]
+[Black "jsierra52"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:29"]
+[WhiteElo "1794"]
+[BlackElo "1838"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[TimeControl "180+1"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 e6 4. d3 a6 5. c3 b5 6. Bb3 Bb7 7. O-O Nc6 8. h3 g6 9. Bg5 Qb6 10. Nbd2 Bg7 11. Nh2 b4 12. Kh1 bxc3 13. bxc3 Bxc3 14. Rb1 Qc7 15. Nc4 Nge7 16. f4 O-O 17. Ng4 d5 18. Nf6+ Kg7 19. exd5 exd5 20. Ne5 Nxe5 21. fxe5 Bxe5 22. Ng4 Bd6 23. Qf3 Nf5 24. Bxd5 Bxd5 25. Qxd5 Ng3+ 26. Kg1 Rfb8 27. Rxb8 Rxb8 28. Re1 h5 29. Bf6+ Kh7 30. Qg5 hxg4 31. Qh4+ Nh5 32. hxg4 Bg3 33. Re7 Qxe7 34. Bxe7 Bxh4 35. Bxh4 Nf4 36. Kf2 Nxd3+ 37. Ke3 Nb4 38. g5 Nxa2 39. Bg3 Rb3+ 40. Kf4 Rxg3 41. Kxg3 c4 42. Kf3 c3 43. Ke4 c2 44. Kd5 c1=Q 45. Kd6 Qd2+ 46. Ke7 Qf4 47. Kd7 Qf5+ 48. Kd6 Qxg5 49. Kc6 Nb4+ 50. Kb6 Qb5+ 51. Kc7 Qc5+ 52. Kd7 Nc6 53. g4 Ne5+ 54. Ke8 Qd5 55. Kf8 Qe6 56. g5 Qc8+ 57. Ke7 Qe6+ 58. Kf8 Qc8+ 59. Ke7 Qe6+ 60. Kf8 1/2-1/2
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kjuMWcgZ"]
+[White "EXRD"]
+[Black "mrck"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:16"]
+[WhiteElo "1522"]
+[BlackElo "1702"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "A80"]
+[Opening "Dutch Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 f5 2. Nf3 d6 3. Bf4 Nd7 4. h3 Ngf6 5. e3 e6 6. Be2 Be7 7. c3 O-O 8. O-O h6 9. Nbd2 Nh7 10. Qb3 Ndf6 11. Bc4 Qd7 12. d5 e5 13. Bxe5 a6 14. Bh2 b5 15. Bd3 g6 16. c4 Rb8 17. Ne5 dxe5 18. Bxe5 Bd6 19. Bd4 Ng5 20. Qc3 Ngh7 21. Rae1 bxc4 22. Bxc4 Bb7 23. e4 fxe4 24. Bxf6 Nxf6 25. Nxe4 Nxe4 26. Rxe4 Rbe8 27. Rg4 Qg7 28. Qg3 Bxg3 29. d6+ Kh7 30. Rxg3 cxd6 31. Bd3 Rf6 32. h4 Kg8 33. h5 g5 34. Bg6 Re7 35. Rd3 d5 36. Rfd1 Rd6 37. Rd4 Ree6 38. f4 Rxg6 39. hxg6 Qxg6 40. Rf1 gxf4 41. Rdxf4 Rd8 42. Rf7 Qxf7 43. Rxf7 Kxf7 44. g3 d4 45. Kf2 d3 46. Ke1 Be4 47. Kd2 Bg6 48. b3 Rc8 49. a4 Rc2+ 50. Ke3 d2 51. Ke2 Bh5+ 52. Kd3 d1=Q+ 53. Ke4 Re2+ 54. Kf5 Qf1# 0-1
+

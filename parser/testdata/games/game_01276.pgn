@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/2vvAEAyo"]
+[White "abriaskoro"]
+[Black "alikalabdi"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:45"]
+[WhiteElo "2215"]
+[BlackElo "2135"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "D96"]
+[Opening "Gruenfeld Defense: Russian Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 d5 4. Nc3 Bg7 5. Qb3 c6 6. cxd5 cxd5 7. Bg5 e6 8. e3 O-O 9. Bd3 Nc6 10. O-O Qd7 11. Bb5 a6 12. Ne5 Qd6 13. Bxc6 bxc6 14. Na4 Ne4 15. Bf4 Nd2 16. Qc2 Nxf1 17. Nxg6 Qd7 18. Nxf8 Bxf8 19. Rxf1 a5 20. Nb6 Qb7 21. Nxa8 Qxa8 22. Rc1 Bb7 23. h4 Qa6 24. Be5 Be7 25. Qd1 f6 26. Bc7 f5 27. Be5 Qb6 28. b3 Bxh4 29. Qh5 Be7 30. Qe8+ 1-0
+

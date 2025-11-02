@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/EcKeeWRD"]
+[White "PeonCarlos"]
+[Black "miro1188"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:34"]
+[WhiteElo "1502"]
+[BlackElo "1651"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-16"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 Qg6 5. Bf1 Qe6+ 6. Qe2 Qxe2+ 7. Bxe2 Nc6 8. Nf3 Nb4 9. Nd4 e5 10. Ndb5 Kd8 11. Kd1 a6 12. Na3 Bf5 13. d3 Nc6 14. Bf3 Nd4 15. Bxb7 Rb8 16. Be4 Bxa3 17. Bxf5 Nxf5 18. bxa3 Nh4 19. Bg5+ f6 20. Bxh4 Ne7 21. Kd2 Nf5 22. Bg3 Nxg3 23. hxg3 Ke7 24. Rab1 Kd6 25. Rxb8 Rxb8 26. Rxh7 Rg8 27. f4 exf4 28. gxf4 Kc6 29. Ke3 Kc5 30. g4 Re8+ 31. Kf3 Rg8 32. Ke4 Kd6 33. Kf5 Ke7 34. Kg6 Kf8 35. Ne4 Ke8 36. Rxg7 Rh8 37. Nxf6+ Kf8 38. Nd7+ Ke8 39. Nf6+ Kf8 40. Rf7# 1-0
+

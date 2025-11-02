@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/n04pFubK"]
+[White "Sergio_Indio"]
+[Black "rogelioae"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:32"]
+[WhiteElo "1555"]
+[BlackElo "1597"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-1"]
+[ECO "B45"]
+[Opening "Sicilian Defense: Paulsen Variation, Normal Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd2 Ne7 8. Bd3 d5 9. O-O Bb7 10. a3 Bd6 11. Re1 Qc7 12. Qg4 Rg8 13. e5 Bxe5 14. Bxh7 Bxh2+ 15. Kf1 Rh8 16. Qh4 Ba6+ 17. Ne2 Nf5 18. Qh3 Nd4 19. Bf4 Bxf4 20. Qg4 Qe5 21. Bd3 Rh1+ 22. Ng1 Bxd3+ 23. cxd3 Qf5 24. Qxf5 Nxf5 25. g3 Bd6 26. Kg2 Rh7 27. Nf3 Ke7 28. Rh1 Rah8 29. Rxh7 Rxh7 30. Ng5 Rh8 31. Rh1 Rxh1 32. Kxh1 Be5 33. b3 Nd4 34. b4 Ne2 35. Kg2 Bb2 36. a4 Ba3 37. b5 cxb5 38. axb5 Bc5 39. Nf3 Nd4 40. Ne5 Nxb5 41. Nc6+ Kd6 42. Nd8 a5 43. Nxf7+ Ke7 44. Ne5 a4 45. Nf3 a3 46. Nd2 a2 47. Nb3 Nd4 48. Nxc5 a1=Q 49. Nb7 Qa7 50. Nc5 Kf6 51. Nb3 Nc6 52. Nd2 Qd4 53. Nf3 Qxd3 54. Ng5 Qe2 55. Nxe6 Qe4+ 56. Kf1 Qxe6 57. Kg2 Qe4+ 58. Kf1 Nd4 59. Kg1 Nc2 60. Kf1 Qe2+ 61. Kg2 Ne3+ 62. Kh3 Qf1+ 63. Kh4 Qxf2 64. Kh5 Qxg3 1/2-1/2
+

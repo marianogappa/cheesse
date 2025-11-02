@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/nsEcupn9"]
+[White "GustavoCXT"]
+[Black "napdaed"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:31"]
+[WhiteElo "1225"]
+[BlackElo "1326"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-14"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 f6 4. b4 Bxb4 5. c3 Be7 6. a4 Nh6 7. a5 Nxa5 8. Nxe5 fxe5 9. Qh5+ Kf8 10. Ba2 Qe8 11. Qf3+ Qf7 12. Bxf7 Nxf7 13. Rxa5 d6 14. d4 exd4 15. cxd4 Be6 16. d5 b6 17. Ra2 Bd7 18. Rc2 1-0
+

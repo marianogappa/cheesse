@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/uHaFjVOo"]
+[White "sgarbi_br"]
+[Black "darddan"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:12"]
+[WhiteElo "1601"]
+[BlackElo "1713"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C20"]
+[Opening "King's Pawn Game"]
+[TimeControl "180+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. g3 Nc6 3. Bg2 Nf6 4. h3 g6 5. Ne2 Bg7 6. g4 O-O 7. g5 Nh5 8. d3 Nf4 9. Nxf4 exf4 10. h4 f6 11. Bxf4 fxg5 12. Bxg5 Bf6 13. Bxf6 Qxf6 14. Qe2 Qxb2 15. h5 g5 16. Qg4 h6 17. e5 Qxa1 18. Bd5+ Kg7 19. Qe4 Qxb1+ 20. Kd2 Qb4+ 21. Qxb4 Nxb4 22. Be4 d5 23. Bg6 Bf5 24. a3 Nc6 25. Bxf5 Rxf5 26. e6 Re5 27. f4 Rxe6 28. fxg5 hxg5 29. Rg1 Kh6 30. Rh1 Nd4 31. c3 Nf3+ 32. Kc2 Nh4 33. Rxh4 gxh4 34. d4 h3 35. Kb3 h2 36. c4 dxc4+ 37. Kxc4 h1=Q 38. d5 Re4+ 39. Kc5 Qc1+ 40. Kb5 Qc4+ 41. Ka5 Qa4# 0-1
+

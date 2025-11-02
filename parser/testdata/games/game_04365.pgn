@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/GkiYXiwu"]
+[White "vakehan"]
+[Black "Heisenbass"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:49"]
+[WhiteElo "1137"]
+[BlackElo "1232"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer Gambit: Netherlands Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. d4 dxe4 3. Nc3 f5 4. f3 Nc6 5. Nge2 e5 6. fxe4 exd4 7. Nd5 fxe4 8. c4 d3 9. Nef4 g5 10. Be3 gxf4 11. Nxf4 Bb4+ 12. Bd2 Nf6 13. a3 Bg4 14. Qa4 Bxd2+ 15. Kxd2 a6 16. Nxd3 b5 17. Qb3 Bf5 18. cxb5 axb5 19. Qxb5 exd3 20. Qxc6+ Nd7 21. Re1+ Kf7 22. Qd5+ Kg7 23. Qxf5 Rf8 24. Qxd3 Rb8 25. Qc3+ Nf6+ 26. Kc2 Re8 27. Bc4 Rxe1 28. Rxe1 Kf8 29. Qxf6+ Qxf6 30. Re8+ Rxe8 31. Bf7 Qxf7 0-1
+

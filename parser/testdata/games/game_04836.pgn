@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VBTysck2"]
+[White "linto"]
+[Black "aslejo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:41"]
+[WhiteElo "1861"]
+[BlackElo "1770"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Ne7 4. d4 Nbc6 5. dxe5 Na5 6. Bb3 Nxb3 7. axb3 Ng6 8. exd6 Bxd6 9. O-O Bg4 10. Qd3 Bxf3 11. Qxf3 O-O 12. Nc3 f5 13. exf5 Nh4 14. Qh3 Nxf5 15. Ra5 Qh4 16. Rxf5 Qxh3 17. Rxf8+ Rxf8 18. gxh3 Rf6 19. Ne4 Rg6+ 20. Ng3 h5 21. h4 Rg4 22. h3 Rxh4 23. Nf5 Rxh3 24. Nxd6 cxd6 25. Bf4 Rh4 26. Bxd6 g5 27. Kg2 g4 28. Kg3 Rh3+ 29. Kf4 Rf3+ 30. Kg5 g3 31. Bxg3 1-0
+

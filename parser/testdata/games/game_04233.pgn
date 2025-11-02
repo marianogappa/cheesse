@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Cld23pnN"]
+[White "smaczek05"]
+[Black "NOZILEV"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:05"]
+[WhiteElo "2044"]
+[BlackElo "1838"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "A08"]
+[Opening "King's Indian Attack"]
+[TimeControl "180+3"]
+[Termination "Time forfeit"]
+
+1. g3 d5 2. Nf3 Nf6 3. Bg2 Bf5 4. O-O e6 5. c4 c6 6. cxd5 exd5 7. d3 h6 8. Qc2 Be7 9. Nc3 O-O 10. e4 dxe4 11. dxe4 Bh7 12. Rd1 Qb6 13. Be3 Bc5 14. Na4 Bxe3 15. Nxb6 Bxb6 16. Nh4 Nbd7 17. h3 Nc5 18. Nf5 Rae8 19. Re1 Nfd7 20. Kh2 Ne5 21. f4 Ned7 22. b4 Ne6 23. Nd6 Rb8 24. Rad1 Nf6 25. Qc4 Nd7 26. e5 1-0
+

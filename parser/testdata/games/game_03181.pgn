@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6CX2sqnp"]
+[White "ClaraH"]
+[Black "TheJollyRoger"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:01"]
+[WhiteElo "1232"]
+[BlackElo "1302"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+24"]
+[ECO "B06"]
+[Opening "Robatsch (Modern) Defense"]
+[TimeControl "180+1"]
+[Termination "Time forfeit"]
+
+1. d4 g6 2. e4 Bg7 3. e5 d6 4. exd6 Qxd6 5. Nf3 Nc6 6. Be3 Bg4 7. Be2 Bxf3 8. Bxf3 Nxd4 9. Bxd4 Qxd4 10. Qxd4 Bxd4 11. c3 Bg7 12. Bxb7 Rb8 13. Bc6+ Kf8 14. b4 e6 15. O-O Ne7 16. Ba4 Nd5 17. Rc1 Nxb4 18. a3 Nd5 19. Ra2 Ke7 20. Kf1 Rxb1 21. Rxb1 Nxc3 22. Rb7 Nxa2 23. Rxc7+ Kd6 24. Rxa7 Nc3 25. Ra6+ Ke7 26. Ra7+ Kf6 27. Bc2 Nd5 28. g3 Rc8 29. Be4 Nc3 30. Ba8 Nd5 31. f4 Rc1+ 32. Kg2 Rc2+ 33. Kh3 Rc3 34. Bxd5 exd5 35. Ra6+ Kf5 36. a4 d4 37. Ra5+ Ke4 38. Kg4 d3 39. Rb5 d2 40. Rb1 Rd3 41. Rd1 Ke3 42. Kh3 Ke2 43. Ra1 d1=Q 44. Rxd1 Rxd1 45. Kg4 Ra1 46. h4 Rxa4 47. h5 Ra3 48. hxg6 hxg6 49. Kh4 Ba1 50. g4 Kf2 51. Kg5 Ra5+ 52. f5 gxf5 53. gxf5 f6+ 0-1
+

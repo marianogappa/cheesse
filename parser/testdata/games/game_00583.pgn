@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/cuBI4V1t"]
+[White "jonne83"]
+[Black "Chanty30"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:09"]
+[WhiteElo "1244"]
+[BlackElo "1249"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-12"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. g3 e5 2. Bg2 d5 3. a3 Nf6 4. b4 c6 5. Bb2 e4 6. e3 b6 7. Nh3 a5 8. bxa5 Rxa5 9. Be5 Bg4 10. Qc1 Nfd7 11. Bc3 Ra7 12. Ng1 c5 13. f3 exf3 14. Nxf3 Nf6 15. h3 Bh5 16. g4 Bg6 17. Ne5 Ne4 18. Nxg6 hxg6 19. Bb2 Qh4+ 20. Ke2 Qf2+ 21. Kd3 Qxg2 22. Be5 Nf2+ 23. Kc3 Nxh1 24. Bxb8 Re7 25. Qb2 d4+ 26. exd4 cxd4+ 27. Kb4 Rb7+ 28. Kc4 Rxb8 29. Qb5+ Ke7 30. Qb4+ Kf6 31. Qb5 Rc8+ 32. Kxd4 Bc5+ 33. Kc3 Qf3+ 34. d3 Rhd8 35. Nd2 Qd5 36. Ne4+ Ke5 37. Nxc5 Rxc5+ 38. Qc4 Rxc4+ 39. dxc4 Qd4+ 40. Kb4 Qxa1 41. Ka4 Qd4 42. Kb4 Rd5 43. c3 Qxc4+ 44. Kxc4 Rc5+ 45. Kb3 Rb5+ 46. Ka4 Ra5+ 47. Kb4 Kd5 48. h4 Nf2 49. h5 Nd3+ 50. Kb3 Rb5+ 51. Kc2 Kc4 52. hxg6 Rb2+ 53. Kd1 Rb1+ 54. Kd2 fxg6 55. g5 1-0
+

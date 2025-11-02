@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/e2ar3GYT"]
+[White "ferelaviador"]
+[Black "a-man"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:23"]
+[WhiteElo "1332"]
+[BlackElo "1296"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. b3 e5 2. e3 Qf6 3. d4 e4 4. Ne2 d5 5. Nf4 g5 6. Nxd5 Qd6 7. Ndc3 f6 8. Nxe4 Qb6 9. c4 Bf5 10. Bd3 Bxe4 11. Bxe4 Qe6 12. Bd3 f5 13. d5 Qf6 14. Nd2 Qxa1 15. O-O Qe5 16. Nf3 Qf6 0-1
+

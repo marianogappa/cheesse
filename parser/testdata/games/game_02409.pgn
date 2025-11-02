@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2R9eTYS0"]
+[White "clarel"]
+[Black "Blackway"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:10"]
+[WhiteElo "1905"]
+[BlackElo "1949"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "B07"]
+[Opening "Pirc Defense #3"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f3 Bg7 5. Be3 O-O 6. Qd2 Re8 7. Bh6 Bh8 8. O-O-O Nbd7 9. Be3 e5 10. d5 Nh5 11. g4 Nf4 12. Bxf4 exf4 13. Qxf4 Nc5 14. Kb1 Be5 15. Qe3 g5 16. h4 f6 17. Nge2 c6 18. hxg5 fxg5 19. f4 gxf4 20. Nxf4 Qg5 21. Qh3 Re7 22. Nd3 Nxd3 23. Bxd3 Kh8 24. Qh5 Qxg4 25. dxc6 bxc6 26. Qxg4 Bxg4 27. Rdg1 Rg7 28. Nd1 Rag8 29. Bc4 Rf8 30. Rh4 Bxd1 31. Rxg7 Bxg7 32. Bd3 Bf3 33. e5 h6 34. e6 Re8 35. Bf5 Bd5 36. Kc1 Bxe6 37. Re4 Be5 38. Bxe6 Rxe6 39. Rg4 Kh7 40. c3 Rf6 41. Kc2 Rg6 42. Ra4 Rg2+ 43. Kb3 h5 44. Rxa7+ Kg6 45. a4 h4 46. Ra8 h3 47. Rg8+ Bg7 48. a5 h2 49. a6 h1=Q 50. a7 Qd1+ 51. Kb4 Rg4+ 52. c4 Qd3 53. a8=Q 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4RlMramW"]
+[White "Quique75"]
+[Black "gornyialtay"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:35"]
+[WhiteElo "1804"]
+[BlackElo "1556"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Levitsky Attack"]
+[TimeControl "180+4"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bg5 Nc6 3. e3 h6 4. Bh4 Nf6 5. c3 Bf5 6. Nd2 e6 7. Ngf3 Be7 8. Be2 O-O 9. h3 Nh7 10. Bg3 Ng5 11. Bh2 Bf6 12. g4 Bh7 13. h4 Nxf3+ 14. Nxf3 Be4 15. g5 hxg5 16. hxg5 Bxg5 17. Rg1 f6 18. Nxg5 fxg5 19. f3 Bf5 20. Qb3 Na5 21. Qb4 b6 22. O-O-O Nc6 23. Qa4 a5 24. Qxc6 a4 25. a3 Qc8 26. Rxg5 Ra7 27. Rdg1 Rf7 28. Be5 1-0
+

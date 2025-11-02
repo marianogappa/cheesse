@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ATBRkdA2"]
+[White "vlado691"]
+[Black "shemsiu"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:39"]
+[WhiteElo "2177"]
+[BlackElo "1908"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Maroczy Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. d3 e5 3. Nf3 Bc5 4. Be2 d6 5. c4 O-O 6. Nc3 h6 7. O-O Bg4 8. a3 Nc6 9. b4 Bb6 10. Nd5 Nxd5 11. cxd5 Nd4 12. Nxd4 Bxd4 13. Rb1 Bxe2 14. Qxe2 f5 15. Be3 c5 16. bxc5 dxc5 17. Bxd4 cxd4 18. Rxb7 Rb8 19. Rxa7 Rb3 20. exf5 Rxf5 21. Qg4 Rg5 22. Qe6+ Kh7 23. d6 Rb6 24. Rd7 Qb8 25. Qe7 Rb1 26. g3 Rxf1+ 27. Kxf1 Qb1+ 28. Kg2 Qxd3 29. Qf7 Qe4+ 30. Qf3 Qxf3+ 31. Kxf3 Rg6 32. Ke4 Re6 33. Rd8 Kg6 34. d7 d3 35. Kxd3 Rd6+ 36. Ke4 Kf7 37. Kxe5 Rd1 38. f4 Ke7 39. Rg8 Re1+ 40. Kf5 Kxd7 41. Rxg7+ Ke8 42. Rh7 Ra1 43. Rxh6 Rxa3 44. Kg5 Ra5+ 45. f5 Kf7 46. g4 Ra4 47. h4 Ra5 48. Rh7+ Kg8 49. Rb7 Ra6 50. f6 Ra5+ 51. Kg6 Ra8 52. g5 Kh8 53. h5 Rg8+ 54. Kf5 1-0
+

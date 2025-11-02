@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Pgpo8CTm"]
+[White "Pumbaa80"]
+[Black "kadeshnik"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:00"]
+[WhiteElo "1419"]
+[BlackElo "1412"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Old Variation"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. e3 b5 4. Nc3 Ba6 5. a4 b4 6. Nce2 b3 7. Ng3 Nf6 8. Qf3 c6 9. Be2 e6 10. Nh3 Bd6 11. Bd2 O-O 12. Bc3 Qb6 13. e4 Bb4 14. e5 Bxc3+ 15. Qxc3 Nd5 16. Qd2 c3 17. bxc3 b2 18. Rb1 Qb3 19. Rxb2 Qxa4 20. O-O Bxe2 21. Qxe2 Nd7 22. c4 Nb4 23. Rfb1 a5 24. Qe1 Rab8 25. Ra1 Na2 26. Rbxa2 Qxc4 27. Rxa5 Qxd4 28. Rd1 Qxe5 29. Rxe5 Nxe5 30. Qxe5 Rbe8 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/r2PBwfKZ"]
+[White "amim"]
+[Black "CuriousKnight"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:44"]
+[WhiteElo "1562"]
+[BlackElo "2025"]
+[WhiteRatingDiff "+23"]
+[BlackRatingDiff "-23"]
+[ECO "C23"]
+[Opening "Bishop's Opening: Khan Gambit"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Bc4 d5 3. exd5 Nf6 4. Nf3 Bc5 5. Nc3 O-O 6. h3 e4 7. Ne5 Qe7 8. Ng4 h5 9. Nxf6+ Qxf6 10. Nxe4 Qd4 11. Bd3 f5 12. c3 Qxd3 13. Qf3 fxe4 14. Qxd3 Bxf2+ 15. Ke2 exd3+ 16. Kxd3 Bf5+ 17. Ke2 Nd7 18. Kxf2 Rae8 19. Kg3 h4+ 20. Kxh4 Re2 21. d4 Nf6 22. Bf4 Rxb2 23. Raf1 Ne4 24. Bg5 Rxg2 25. Rhg1 Rxg1 26. Rxg1 g6 27. Bf4 Kg7 28. Be5+ Kf7 29. d6 cxd6 30. Bxd6 Ke6 31. Bxf8 Kf7 32. Re1 Kxf8 33. d5 1-0
+

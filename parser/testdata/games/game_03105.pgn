@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/t2X6VcDt"]
+[White "malcom1979"]
+[Black "joaobeta"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:42"]
+[WhiteElo "1287"]
+[BlackElo "1115"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+16"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e3 e5 2. d3 Nc6 3. a3 d5 4. h4 h5 5. Be2 g6 6. g4 hxg4 7. Bxg4 Bxg4 8. Qxg4 Nf6 9. Qe2 e4 10. d4 Qe7 11. Nc3 g5 12. h5 Qe6 13. Bd2 Qg4 14. Qxg4 Nxg4 15. Nb5 O-O-O 16. O-O-O Nxf2 17. Nh3 Nxd1 18. Rxd1 g4 19. Ng5 Rxh5 20. Nxf7 Re8 21. Be1 Re7 22. Ne5 Nxe5 23. dxe5 Rexe5 24. Nxa7+ Kb8 25. Nb5 c6 26. Nc3 Rh1 27. Na4 Rg5 28. Nb6 g3 29. Nd7+ Kc8 30. Nxf8 g2 31. Bf2 Rxd1+ 32. Kxd1 g1=Q+ 33. Bxg1 Rxg1+ 34. Kd2 Rf1 35. Ng6 Rb1 36. b3 Ra1 37. a4 b5 38. axb5 cxb5 39. Ne5 Rh1 40. Nc6 Rh2+ 41. Kc3 Rh3 42. Ne7+ Kd7 43. Nxd5 Kd6 44. Kd4 Ke6 45. Nf4+ Kf5 46. Nxh3 Kg4 47. Nf2+ Kg3 48. Nd1 Kf3 49. Nc3 Kf2 50. Nxb5 Kg2 51. Nd6 Kg3 52. Nc4 Kh2 53. Nb6 Kg3 54. Na4 Kg4 55. Nb6 Kf3 56. Kd5 Ke2 57. Kd6 Kd2 58. Kd7 Kxc2 59. Kc8 Kxb3 60. Kd7 Kc3 61. Kc6 Kd2 62. Kd6 Kxe3 63. Kc6 Kd3 64. Kc7 e3 65. Kd6 e2 66. Ke5 e1=Q+ 67. Kf4 Qf1+ 68. Kg5 Ke3 69. Kh6 Kf4 70. Kg7 Qh1 71. Kf8 Kf5 72. Ke8 Ke6 73. Kd8 Qd1+ 74. Kc8 Qd7+ 75. Kb8 Qd8+ 0-1
+

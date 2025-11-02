@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QKboMboh"]
+[White "bog601"]
+[Black "Bautsch"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:19"]
+[WhiteElo "1746"]
+[BlackElo "1692"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Declined, Push Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.2] } 1... c5 { [%eval 0.26] } 2. d4 { [%eval 0.12] } 2... cxd4 { [%eval 0.06] } 3. c3 { [%eval -0.2] } 3... d3?! { [%eval 0.6] } 4. Bxd3 { [%eval 0.52] } 4... Nc6 { [%eval 0.7] } 5. Nf3 { [%eval 0.73] } 5... e6 { [%eval 0.71] } 6. O-O { [%eval 0.62] } 6... d6 { [%eval 0.77] } 7. Bf4 { [%eval 0.47] } 7... Be7 { [%eval 0.52] } 8. Nbd2 { [%eval 0.43] } 8... Nf6 { [%eval 0.45] } 9. Bc2 { [%eval 0.34] } 9... O-O { [%eval 0.42] } 10. Re1 { [%eval 0.37] } 10... e5 { [%eval 0.46] } 11. Bg3 { [%eval 0.25] } 11... Bg4 { [%eval 0.47] } 12. Qe2 { [%eval 0.23] } 12... Qb6?! { [%eval 0.75] } 13. Bb3?! { [%eval -0.07] } 13... a5?! { [%eval 0.56] } 14. Nc4 { [%eval 0.5] } 14... Qc7 { [%eval 0.5] } 15. a4 { [%eval 0.56] } 15... Rab8 { [%eval 0.78] } 16. h3 { [%eval 0.55] } 16... Bh5 { [%eval 0.57] } 17. Qe3 { [%eval 0.52] } 17... b5 { [%eval 0.6] } 18. axb5 { [%eval 0.55] } 18... Rxb5 { [%eval 0.93] } 19. Ra3? { [%eval -0.62] } 19... Rfb8?! { [%eval 0.14] } 20. Ba4 { [%eval -0.07] } 20... R5b6? { [%eval 2.2] } 21. b3? { [%eval 0.47] } 21... R6b7?! { [%eval 1.22] } 22. Ra2?! { [%eval 0.61] } 22... Nd7 { [%eval 0.81] } 23. Bh2?! { [%eval -0.04] } 23... Nc5? { [%eval 1.18] } 24. g4? { [%eval -0.39] } 24... Bg6? { [%eval 0.8] } 25. Nfd2? { [%eval -0.81] } 25... Nxa4 { [%eval -0.69] } 26. bxa4?! { [%eval -1.33] } 26... Qd8?! { [%eval -0.57] } 27. f4?! { [%eval -1.43] } 27... h6? { [%eval 0.01] } 28. f5 { [%eval -0.06] } 28... Bh7 { [%eval 0.0] } 29. Rf1 { [%eval -0.47] } 29... Bg5?! { [%eval 0.4] } 30. Qe2 { [%eval 0.22] } 30... Ne7 { [%eval 0.23] } 31. Bg3 { [%eval 0.0] } 31... d5?! { [%eval 0.76] } 32. exd5 { [%eval 0.4] } 32... Nxd5 { [%eval 0.58] } 33. h4? { [%eval -1.08] } 33... Nxc3 { [%eval -1.19] } 34. Qxe5?? { [%eval -4.39] } 34... Bf6 { [%eval -4.47] } 0-1
+

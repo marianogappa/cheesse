@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/YhnB6yUt"]
+[White "iamsatria"]
+[Black "lilFrOs7ylil"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:49"]
+[WhiteElo "1493"]
+[BlackElo "1345"]
+[WhiteRatingDiff "+34"]
+[BlackRatingDiff "-9"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Scandinavian Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.32] } 1... Nf6 { [%eval 0.74] } 2. Nc3?! { [%eval 0.12] } 2... d5 { [%eval 0.33] } 3. exd5 { [%eval 0.37] } 3... Nxd5 { [%eval 0.35] } 4. Qf3 { [%eval -0.05] } 4... Nxc3 { [%eval 0.17] } 5. Qxc3 { [%eval 0.11] } 5... Nc6 { [%eval 0.02] } 6. Bc4 { [%eval -0.08] } 6... f6 { [%eval 0.26] } 7. Nf3 { [%eval 0.29] } 7... g6?! { [%eval 0.85] } 8. Qb3 { [%eval 0.53] } 8... e6?! { [%eval 1.1] } 9. O-O { [%eval 0.88] } 9... Be7 { [%eval 1.37] } 10. Bxe6?! { [%eval 0.85] } 10... Bxe6 { [%eval 0.94] } 11. Qxe6 { [%eval 0.82] } 11... h5?! { [%eval 1.72] } 12. d4?! { [%eval 1.02] } 12... Nxd4 { [%eval 1.0] } 13. Nxd4 { [%eval 0.72] } 13... Qxd4 { [%eval 0.84] } 14. Bh6?! { [%eval 0.19] } 14... Qxb2?? { [%eval 7.35] } 15. Bg7?? { [%eval 2.08] } 15... Rf8?! { [%eval 2.58] } 16. Rfe1? { [%eval 0.73] } 16... Rd8?? { [%eval #1] } 17. Bxf8?! { [%eval #8] } 17... Kxf8 { [%eval #8] } 18. Qxe7+ { [%eval #7] } 18... Kg8 { [%eval #7] } 19. Qxd8+ { [%eval #6] } 19... Kh7 { [%eval #6] } 20. Qxf6?? { [%eval 0.27] } 20... Qxc2?? { [%eval #3] } 21. Re7+?! { [%eval #3] } 21... Kh6 { [%eval #3] } 22. Qf4+?! { [%eval #3] } 22... g5 { [%eval #3] } 23. Qf6+ { [%eval #2] } 23... Qg6 { [%eval #2] } 24. Qxg6+?! { [%eval #12] } 24... Kxg6 { [%eval #12] } 25. Rae1?! { [%eval 115.79] } 25... b5?! { [%eval #8] } 26. Rxc7 { [%eval #8] } 26... b4 { [%eval #8] } 27. Rxa7 { [%eval #7] } 27... b3 { [%eval #7] } 1-0
+

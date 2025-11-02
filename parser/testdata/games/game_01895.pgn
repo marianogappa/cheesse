@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/LqP57Cit"]
+[White "divinchee"]
+[Black "enzin"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:03"]
+[WhiteElo "1516"]
+[BlackElo "1716"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "C00"]
+[Opening "French Defense: Two Knights Variation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ Qxf6 6. Bd3 Bc5 7. O-O b6 8. Rb1 Bb7 9. b3 Nd7 10. Bb2 Qh6 11. Qe2 Nf6 12. Bxf6 Qxf6 13. h3 O-O-O 14. a3 g5 15. b4 Bd6 16. Rb3 h5 17. Rc3 g4 18. Ne1 gxh3 19. g3 h2+ 20. Kxh2 h4 21. Qg4 hxg3+ 22. Kg1 Rh1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/QbuYNfjx"]
+[White "josuecomandu"]
+[Black "rahroo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:19"]
+[WhiteElo "1967"]
+[BlackElo "1744"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[ECO "C25"]
+[Opening "Vienna Game: Paulsen Variation"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nc6 3. g3 f5 4. Bg2 Nf6 5. Nge2 Bc5 6. d3 d6 7. O-O O-O 8. h3 f4 9. gxf4 exf4 10. Bxf4 Nh5 11. Be3 Bxe3 12. fxe3 Qg5 13. Rxf8+ Kxf8 14. Qf1+ Kg8 15. Qf3 Be6 16. Nf4 Bd7 17. Qxh5 Qg3 18. Qf3 Qg5 19. Rf1 Rf8 20. Kh1 Ne5 21. Qe2 Qg3 22. Ncd5 Rf7 23. Nh5 Rxf1+ 24. Qxf1 Qg5 25. Qf4 Qxf4 26. exf4 Ng6 27. Kh2 c6 28. Ne3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RqGl2O0n"]
+[White "rch_9"]
+[Black "xandinho"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:34"]
+[WhiteElo "1249"]
+[BlackElo "1436"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+5"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Macleod Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. c3 e5 2. e4 Nf6 3. d3 Nc6 4. Bg5 Be7 5. Bxf6 Bxf6 6. Qg4 d5 7. Qf3 dxe4 8. dxe4 O-O 9. Nh3 Qd7 10. Be2 Rd8 11. O-O Ne7 12. Rd1 Qe8 13. Na3 Rxd1+ 14. Rxd1 Be6 15. Bc4 Bxc4 16. Nxc4 Qb5 17. b3 Ng6 18. g3 Rd8 19. Rxd8+ Bxd8 20. Qf5 Bf6 21. Qc8+ Nf8 22. Qxc7 h6 23. Nd6 Qb6 24. Qxf7+ Kh7 25. Nf5 Qd8 26. Qxg7+ Bxg7 27. Nxg7 Kxg7 28. Kg2 Qd2 29. Ng1 Qxa2 30. Kh3 Ne6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Nr3SsSTd"]
+[White "MarekKuzmicki"]
+[Black "NikoBelic"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:10"]
+[WhiteElo "1863"]
+[BlackElo "1806"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-9"]
+[ECO "D01"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bf4 c5 4. e3 Nc6 5. Nb5 e5 6. dxe5 Qa5+ 7. c3 Nd7 8. Qxd5 1-0
+

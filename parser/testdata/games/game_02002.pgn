@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/M9xcnwGJ"]
+[White "rodrigued"]
+[Black "bleistift"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:31"]
+[WhiteElo "1563"]
+[BlackElo "1915"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation #4"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. b3 Nc6 5. c3 cxd4 6. cxd4 Qb6 7. Be3 Bb4+ 8. Bd2 Nxd4 9. Bxb4 Qxb4+ 10. Nd2 Nc6 11. Ne2 Nxe5 12. Qc2 Nf6 13. a3 Qb6 14. Nf4 Bd7 15. Bd3 Rc8 16. Qb2 Nxd3+ 17. Nxd3 O-O 18. O-O Bb5 19. Nf4 Bxf1 20. Nxf1 Ne4 21. g3 Rc3 22. Nd2 Qxf2+ 23. Kh1 Qxd2 24. Qxd2 Nxd2 25. Rd1 Ne4 26. Nd3 Rfc8 27. Kg2 Rc2+ 28. Kf3 R8c3 29. Ke3 Rxb3 30. Kf4 Rcc3 31. Ne5 f5 32. Nd7 g5+ 33. Ke5 Re3 34. Rc1 Nxg3+ 35. Kf6 Rbc3 36. Rb1 Ne4+ 37. Ke7 Rc7 38. Ke8 Rc8+ 39. Ke7 Rec3 40. Nf6+ Kg7 41. Ne8+ Kg8 42. Nf6+ Nxf6 43. Kxf6 R3c7 44. Kxe6 Rd8 45. Kxf5 h6 46. Kg6 Rc6+ 47. Kh5 d4 48. Rxb7 d3 49. Rb1 d2 50. Rd1 Rc1 51. Rxd2 Rxd2 52. Kxh6 Rf2 53. Kxg5 Rg1+ 54. Kh4 Rxh2# 0-1
+

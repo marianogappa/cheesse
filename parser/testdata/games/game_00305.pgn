@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/yrUKKaJr"]
+[White "check_is_in_the_fail"]
+[Black "andi_ar"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:59"]
+[WhiteElo "1546"]
+[BlackElo "1288"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-13"]
+[ECO "C28"]
+[Opening "Bishop's Opening: Vienna Hybrid"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nc3 Nf6 4. d3 Bc5 5. a3 d6 6. Nf3 Bg4 7. h3 Bxf3 8. Qxf3 O-O 9. Bg5 Qe7 10. Nd5 Qd7 11. Nxf6+ gxf6 12. Bxf6 Rae8 13. Qg3+ Qg4 14. Qxg4# 1-0
+

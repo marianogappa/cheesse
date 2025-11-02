@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/G3UQDubp"]
+[White "MS_Love"]
+[Black "qwewrty"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:29"]
+[WhiteElo "2000"]
+[BlackElo "2021"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Declined, Center Formation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. d4 cxd4 3. c3 e5 4. cxd4 exd4 5. Nf3 Bc5 6. Nbd2 Nf6 7. e5 Qe7 8. Bc4 Nc6 9. O-O Ng4 10. Ne4 Ncxe5 11. Nxc5 Qxc5 12. Nxe5 Nxe5 13. Qe2 O-O 14. Re1 Nxc4 15. Bf4 Nb6 16. Rac1 Qf5 17. Qe8 Qxf4 18. Rc2 d5 19. Rce2 Bg4 20. Qe5 Qxe5 21. Rxe5 Rad8 22. f3 Be6 23. Rd1 Nc4 24. Re2 Rd6 25. b3 Ne3 26. Rxd4 Nf5 27. Rd1 d4 28. Red2 Rfd8 29. g4 Ne3 30. Rc1 d3 31. Kf2 Nc2 32. a4 f6 33. h3 Bxb3 34. a5 b6 35. axb6 axb6 36. h4 Na3 37. Rc7 Nc4 38. Rd1 Bxd1 39. g5 Ne5 40. gxf6 Rxf6 41. h5 Rxf3+ 42. Kg2 d2 43. h6 Rf7 44. Rc3 Bf3+ 45. Kg1 d1=Q+ 0-1
+

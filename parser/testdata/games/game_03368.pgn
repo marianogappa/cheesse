@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/MvfV1IA9"]
+[White "TonganChess"]
+[Black "Feijoh"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:46"]
+[WhiteElo "2144"]
+[BlackElo "1505"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "+0"]
+[ECO "B07"]
+[Opening "Pirc Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 Nf6 3. Bd3 e5 4. Nf3 exd4 5. c3 dxc3 6. Nxc3 Nc6 7. Qe2 Bg4 8. Be3 Ne5 9. Bc2 Bxf3 10. gxf3 c6 11. O-O-O Qa5 12. f4 Ned7 13. Kb1 O-O-O 14. Rd4 Nc5 15. e5 dxe5 16. Rxd8+ Kxd8 17. fxe5 Nd5 18. Bg5+ Kc8 19. Nxd5 cxd5 20. Qg4+ Kb8 21. e6 f6 22. Bf4+ Ka8 23. Rc1 Be7 24. Qxg7 Re8 25. Qf7 Qd8 26. Be3 b6 27. b4 Nb7 28. Ba4 Nd6 29. Bxe8 Nxf7 30. exf7 Bf8 31. Bf4 d4 32. Bc6# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/cYnxaqox"]
+[White "FuturechessGM27"]
+[Black "UnderPrez"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:42"]
+[WhiteElo "2037"]
+[BlackElo "1998"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C05"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Ngf3 c5 6. c3 Nc6 7. Nb3 Be7 8. Be2 O-O 9. c4 cxd4 10. cxd5 exd5 11. Nbxd4 Ndxe5 12. Nxe5 Nxe5 13. O-O Be6 14. Nxe6 fxe6 15. f4 Bc5+ 16. Kh1 Ng6 17. Bd2 Qd6 18. Rc1 Rae8 19. a3 a6 20. b4 Ba7 21. Bh5 Ne7 22. Qc2 Rc8 23. Qd3 Nf5 24. Bg4 e5 25. Bxf5 Rxf5 26. Qxf5 Rf8 27. Qxe5 Qh6 28. Qxd5+ Kh8 29. Qxb7 Bd4 30. Qd5 Bb2 31. Rb1 Bxa3 32. f5 Qh5 33. Qb3 Rxf5 34. Rxf5 Qxf5 35. Qxa3 Qxb1+ 36. Qc1 Qf5 37. Kg1 h5 38. Qf1 Qd5 39. Kh1 Qxd2 40. Qf8+ Kh7 41. Qf5+ g6 42. Qf1 Kh6 43. h3 Qxb4 44. Kg1 Qb5 45. Kh1 1-0
+

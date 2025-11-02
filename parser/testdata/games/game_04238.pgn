@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/YBlc0kq6"]
+[White "Manguan"]
+[Black "Hade23"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:09"]
+[WhiteElo "1721"]
+[BlackElo "1783"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qf6 5. Be3 Bc5 6. c3 Nge7 7. Be2 O-O 8. O-O Nxd4 9. cxd4 Bb6 10. e5 Qe6 11. f4 f6 12. f5 Qf7 13. exf6 Qxf6 14. g4 Nc6 15. Qd2 Nxd4 16. Bc4+ Kh8 17. g5 Qe5 18. Rd1 Nf3+ 0-1
+

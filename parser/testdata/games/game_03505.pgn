@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/DNkly30x"]
+[White "Teldja54"]
+[Black "DrGogo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:24"]
+[WhiteElo "1712"]
+[BlackElo "1651"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted, Schallopp Defense"]
+[TimeControl "600+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Ng4 5. d4 Ne3 6. Bxe3 fxe3 7. Be2 c5 8. O-O cxd4 9. Qxd4 b6 10. Qxe3 Bc5 11. Nd4 Nc6 12. c3 Qh4 13. Bf3 Nxd4 14. Bxa8 Nf3+ 15. Kh1 Qxh2# 0-1
+

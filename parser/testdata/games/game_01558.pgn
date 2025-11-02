@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5Gwg5BVe"]
+[White "safran54"]
+[Black "franckchess"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:52"]
+[WhiteElo "1742"]
+[BlackElo "1839"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-14"]
+[ECO "C77"]
+[Opening "Ruy Lopez: Morphy Defense, Anderssen Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 a6 5. Ba4 b5 6. Bb3 Be7 7. c3 O-O 8. O-O d5 9. Qe2 dxe4 10. dxe4 b4 11. Nbd2 bxc3 12. bxc3 Bg4 13. h3 Bh5 14. Rd1 Qc8 15. Nf1 Bg6 16. Bg5 Nxe4 17. Bxe7 Nxe7 18. Rac1 Nc6 19. Bd5 Nxf2 20. Qxf2 Ne7 21. Bxa8 Qxa8 22. Nxe5 Nf5 23. Ng3 Nd6 24. Qc5 Qe8 25. Re1 Qd8 26. Nc6 Qh4 27. Re3 Qf4 28. Qe5 Qh6 29. Na5 f6 30. Qd5+ Bf7 31. Qd4 Nb5 32. Qc5 Nd6 33. Rce1 f5 34. Re5 f4 35. Nf5 Nxf5 36. Rxf5 Qh4 37. Qf2 1-0
+

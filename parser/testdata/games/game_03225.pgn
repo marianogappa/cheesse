@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6EKJL6nZ"]
+[White "brh131"]
+[Black "ccanyucel"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:14"]
+[WhiteElo "1166"]
+[BlackElo "978"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-12"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Damiano Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 f6 3. Nc3 Nc6 4. Bc4 Bb4 5. Nxe5 fxe5 6. Qh5+ g6 7. Qg4 Nd4 8. O-O Nxc2 9. Rb1 Nf6 10. Qg5 d5 11. Qxe5+ Qe7 12. Qxe7+ Kxe7 13. Nxd5+ Ke8 14. Nxf6+ Kf8 15. d3 Kg7 16. Bg5 Rf8 17. e5 Bf5 18. Rfe1 Rae8 19. e6 Re7 20. g4 Bxe1 21. Nh5+ Kg8 22. Bxe7 Re8 23. gxf5 gxh5 24. f6 h4 25. f7+ Kg7 26. fxe8=Q Ba5 27. Qf7+ Kh6 28. Qf6+ Kh5 29. Qg5# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/O3Ha99VW"]
+[White "gpr2000"]
+[Black "SpaceInvader"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:20"]
+[WhiteElo "1534"]
+[BlackElo "1502"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Ponziani Gambit"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 d6 4. dxe5 dxe5 5. Bxf7+ Kxf7 6. Qxd8 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bW7HQbR2"]
+[White "Amirhossein11"]
+[Black "emiliotambe"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:34"]
+[WhiteElo "1754"]
+[BlackElo "1756"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. c4 d5 3. e3 c6 4. Nc3 Nf6 5. f4 Bb4 6. Nf3 Bxc3+ 7. bxc3 Ne4 8. Bd2 dxc4 9. Bxc4 b5 10. Bb3 Nd7 11. O-O Ndf6 12. Ne5 Bb7 13. f5 exf5 14. Rxf5 O-O 15. Bc2 Rc8 16. Qe2 c5 17. Raf1 Rc7 18. Bxe4 Bxe4 19. Rxf6 gxf6 20. Ng4 Rc6 21. Nh6+ Kh8 22. Qh5 Bg6 23. Qf3 Re6 24. Ng4 f5 25. Ne5 Qe7 26. Qg3 Rg8 27. Qh3 Qg5 28. Bc1 Qh5 29. Qg3 f6 30. Nxg6+ Qxg6 31. Qf3 Re4 32. h3 h5 33. a3 cxd4 34. exd4 Re7 35. d5 Reg7 36. Rf2 Qg3 37. Qxh5+ Rh7 38. Qxf5 Qxc3 39. Rf1 Rhg7 0-1
+

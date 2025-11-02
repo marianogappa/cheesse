@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MZahYaWI"]
+[White "MSKH-ARMENIA"]
+[Black "Romartin"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:40"]
+[WhiteElo "1903"]
+[BlackElo "1988"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Wing Gambit, Carlsbad Variation"]
+[TimeControl "180+3"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. b4 cxb4 3. a3 bxa3 4. Nxa3 d6 5. d4 Nc6 6. c4 Nf6 7. d5 Ne5 8. f4 Ned7 9. Bd3 g6 10. Nf3 Bg7 11. Bb2 O-O 12. O-O Nc5 13. e5 dxe5 14. fxe5 Ng4 15. Qe2 Nxd3 16. Qxd3 Bf5 17. Qe2 h5 18. Nd4 Qb6 19. Kh1 Bd3 20. Qxd3 Qxb2 21. Rab1 Nf2+ 22. Rxf2 Qxf2 23. h3 Bxe5 24. Nf3 Bd6 25. Nb5 a6 26. Nxd6 exd6 27. Rxb7 a5 28. Qa3 Qf1+ 29. Kh2 Qxc4 30. Qxd6 a4 31. Ng5 Qc2 32. Qf6 Qf5 33. Qe7 Rae8 0-1
+

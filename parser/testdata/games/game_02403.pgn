@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/YUTF4nQC"]
+[White "fbilsen"]
+[Black "alvaroedmr"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:05"]
+[WhiteElo "1149"]
+[BlackElo "1247"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+12"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.31] } 1... c5 { [%eval 0.26] } 2. Nf3 { [%eval 0.31] } 2... d6 { [%eval 0.31] } 3. d3 { [%eval -0.01] } 3... Nc6 { [%eval 0.02] } 4. Be3 { [%eval -0.09] } 4... Nf6 { [%eval -0.08] } 5. Nbd2 { [%eval -0.41] } 5... g6 { [%eval -0.01] } 6. c3 { [%eval -0.01] } 6... Bg7 { [%eval 0.07] } 7. d4 { [%eval 0.07] } 7... cxd4 { [%eval 0.0] } 8. Nxd4 { [%eval -0.19] } 8... Bd7 { [%eval 0.11] } 9. Qa4? { [%eval -0.98] } 9... O-O?! { [%eval -0.18] } 10. Bb5?! { [%eval -0.79] } 10... Nxd4?! { [%eval -0.14] } 11. Bxd4 { [%eval -0.42] } 11... Bxb5 { [%eval -0.08] } 12. Qxb5 { [%eval -0.06] } 12... Qc7 { [%eval 0.0] } 13. e5 { [%eval 0.0] } 13... dxe5 { [%eval 0.05] } 14. Bxe5 { [%eval -0.01] } 14... Qb6 { [%eval 0.33] } 15. Qxb6 { [%eval 0.31] } 15... axb6 { [%eval 0.33] } 16. Nf3 { [%eval -0.04] } 16... Rfd8 { [%eval -0.01] } 17. O-O { [%eval -0.26] } 17... Rd5 { [%eval 0.0] } 18. Rfe1 { [%eval 0.0] } 18... e6 { [%eval 0.0] } 19. Nd4 { [%eval 0.0] } 19... Rad8 { [%eval 0.0] } 20. Bc7 { [%eval 0.0] } 20... R8d7?! { [%eval 0.53] } 21. Bxb6 { [%eval 0.45] } 21... Ne8 { [%eval 0.82] } 22. Ba5?? { [%eval -3.49] } 22... Nd6?? { [%eval 0.0] } 23. Bb4 { [%eval 0.0] } 23... Nc4 { [%eval 0.0] } 24. b3 { [%eval -0.08] } 24... Nd2?! { [%eval 0.77] } 25. Red1?! { [%eval 0.11] } 25... Ne4 { [%eval 0.1] } 26. f3 { [%eval -0.02] } 26... f5?? { [%eval 3.83] } 0-1
+

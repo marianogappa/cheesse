@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bH5OiWJ0"]
+[White "wrinkledironman"]
+[Black "Masbruto"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:47"]
+[WhiteElo "1790"]
+[BlackElo "1792"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-14"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 c6 3. Bg5 Nf6 4. Nbd2 e6 5. e3 Be7 6. Bd3 O-O 7. O-O b6 8. c3 Ba6 9. Bxa6 Nxa6 10. Qa4 Nc7 11. Qxc6 Rc8 12. Qa4 h6 13. Bxf6 Bxf6 14. e4 Qe7 15. e5 Bg5 16. Nxg5 Qxg5 17. Nf3 Qf4 18. Qxa7 g5 19. Qxb6 g4 20. Ne1 h5 21. g3 Qf5 22. Ng2 Ne8 23. Rab1 Ng7 24. Nh4 Qg5 25. f4 gxf3 26. Rxf3 Nf5 27. Nxf5 exf5 28. Rbf1 Rb8 29. Qd6 Rxb2 30. Qxd5 Rfb8 31. Rxf5 Qe3+ 32. R5f2 Rxf2 33. Rxf2 Rb1+ 34. Kg2 Rb2 35. Qxf7+ Kh8 36. Qf6+ Kh7 37. Rxb2 1-0
+

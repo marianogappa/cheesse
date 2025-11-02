@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RedhfSOu"]
+[White "milicajac"]
+[Black "juliobp"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:11"]
+[WhiteElo "1223"]
+[BlackElo "1117"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 d6 3. Nf3 Nc6 4. d5 Nce7 5. Nc3 Ng6 6. Bb5+ Bd7 7. Bc4 Nf4 8. Bxf4 exf4 9. Qd2 g5 10. h4 g4 11. Ng1 f3 12. gxf3 gxf3 13. Nxf3 Bg4 14. Bb5+ c6 15. dxc6 bxc6 16. Bxc6+ Ke7 17. Bxa8 Qxa8 18. Ng5 f6 19. Nh3 Bh6 20. Qd4 Qb8 21. b3 Qc8 22. Nd5+ Kf7 23. c4 Bxh3 24. Qxa7+ Kf8 25. a4 Bg2 26. Rg1 Qh3 27. Qb8+ Kg7 28. Qc7+ Kg6 29. Qxd6 Kh5 30. Qg3 Qxg3 31. fxg3 Bxe4 32. Nf4+ Bxf4 33. gxf4 Kxh4 34. Kf2 Nh6 35. Rg3 Ng4+ 36. Ke2 Kxg3 37. a5 Kxf4 38. a6 Ra8 39. b4 Ne5 40. c5 Bd3+ 41. Kd2 Bxa6 42. Kc3 Ke4 43. b5 Bb7 44. Rb1 Ra3+ 45. Kb4 Ra8 46. Kc3 Kd5 47. Kb4 Nd3+ 48. Kc3 Nxc5 49. Rd1+ Ke5 50. Re1+ Ne4+ 51. Kd3 f5 52. Re3 Ra3+ 53. Kc4 Rxe3 54. Kb4 f4 55. Ka5 Kd5 56. Kb6 Bc8 57. Kc7 Be6 58. b6 Rb3 59. b7 Rxb7+ 60. Kxb7 f3 61. Kb6 f2 62. Kb5 f1=Q+ 63. Kb4 Qc4+ 64. Ka5 Qc5+ 65. Ka6 Qc6+ 66. Ka5 Qa8+ 67. Kb4 Qb8+ 68. Ka5 Nc3 69. Ka6 Bc8+ 70. Ka5 h5 1/2-1/2
+

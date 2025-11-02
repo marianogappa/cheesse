@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/eDS7H9NA"]
+[White "pablomaiu"]
+[Black "mike_r"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:09"]
+[WhiteElo "1921"]
+[BlackElo "1717"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. g3 c6 2. Bg2 Nf6 3. f3 g6 4. Nh3 Bg7 5. Nf2 d6 6. O-O Nbd7 7. d3 Nb6 8. Nc3 Bd7 9. e4 Qc7 10. Be3 O-O-O 11. Ne2 e5 12. Qd2 Be6 13. a4 Kb8 14. b4 d5 15. a5 Na8 16. Qc1 dxe4 17. fxe4 Ng4 18. Nxg4 Bxg4 19. Nc3 Bd7 20. Na4 f5 21. c4 fxe4 22. Bxe4 Rhf8 23. Bf2 Bf5 24. Qe3 Bxe4 25. Qxa7+ Kc8 26. dxe4 Qb8 27. Qc5 Nc7 28. Nb6# 1-0
+

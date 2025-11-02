@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/qVE6hAoK"]
+[White "Tinm"]
+[Black "klezerov"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "1824"]
+[BlackElo "1855"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. Nd5 Bxd5 9. exd5 Nbd7 10. c4 Rc8 11. Nd2 Be7 12. b3 Nc5 13. Be2 O-O 14. O-O a5 15. f3 b6 16. Ne4 Nfxe4 17. fxe4 Qd7 18. Bg4 Qd8 19. Bxc8 Qxc8 20. Qf3 f5 21. exf5 Bf6 22. g4 e4 23. Qh3 Qd8 24. Kh1 Qe7 25. Bf4 Bxa1 26. Rxa1 Nd3 27. Rf1 Qf6 28. Qe3 Re8 29. Bg5 Qb2 30. Qd2 Qd4 31. Be3 Qe5 32. Bxb6 Ra8 33. Be3 Nb4 34. Bd4 Qe7 35. f6 Qf7 36. Rf2 g6 37. Bc3 Nd3 38. Bxa5 Re8 39. Re2 Nc5 40. Bc3 Nd7 41. g5 Nc5 42. Qe3 Ra8 43. b4 Nd3 44. c5 Ra3 45. Bd4 dxc5 46. Bxc5 Ra8 47. Qxe4 Rc8 48. Qxd3 Ra8 49. Qe4 Rc8 50. Qe8+ Rxe8 51. Rxe8+ Qxe8 52. d6 Qd7 53. Kg2 Qc6+ 54. Kh3 Qd5 55. Kg4 Qc6 56. Kh3 Qd7+ 57. Kg2 Qc6+ 58. Kg1 Qd7 59. Kf1 Qc6 60. Kf2 Qd7 61. Ke1 Qc6 62. Kd2 Qd7 63. Kc1 Qc6 64. Kb2 Qd7 65. Kb3 Qc6 66. Ka3 Qd7 67. Kb2 Qc6 68. Kb3 1-0
+

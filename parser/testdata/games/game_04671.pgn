@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/IL3bJNaf"]
+[White "bluesfer"]
+[Black "jibouser"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:56"]
+[WhiteElo "1634"]
+[BlackElo "1685"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "540+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 e6 3. c4 Nf6 4. c5 c6 5. Nf3 Nbd7 6. b4 a5 7. b5 Qe7 8. Nbd2 e5 9. dxe5 Nxe5 10. Qc2 Nxf3+ 11. Nxf3 Qxc5 12. Qxc5 Bxc5 13. bxc6 bxc6 14. Ne5 Bd7 15. Bb2 O-O 16. Bd3 Bb4+ 17. Ke2 Bd6 18. Nf3 c5 19. Bxf6 gxf6 20. Rhd1 Rab8 21. Ba6 Bc6 22. Kf1 Be5 23. Rac1 Bb5+ 24. Bxb5 Rxb5 25. Rxd5 Rc8 26. Nxe5 fxe5 27. Rxe5 Rb2 28. a3 Rd8 29. Rexc5 Rdd2 30. Rf5 Ra2 31. Rg5+ Kf8 32. Rc8+ Ke7 33. Rf5 Ra1+ 0-1
+

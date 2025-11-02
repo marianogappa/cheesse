@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/55lEbpGV"]
+[White "dmondius"]
+[Black "efartemo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:53"]
+[WhiteElo "1621"]
+[BlackElo "1636"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-10"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Kingside Fianchetto"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. Nf3 g6 2. g3 Bg7 3. Bg2 f5 4. O-O Nf6 5. d4 O-O 6. c4 c6 7. Nc3 d5 8. cxd5 cxd5 9. Ne5 Nc6 10. Qb3 Nxe5 11. dxe5 Ne4 12. Bxe4 fxe4 13. Nxd5 Be6 14. Nf6+ exf6 15. Qxe6+ Kh8 16. exf6 Rxf6 17. Qxe4 Qf8 18. Bg5 Rf5 19. Bf4 Re8 20. Qxb7 Rf7 21. Qb3 h6 22. h4 Kh7 23. Rac1 Rfe7 24. e3 Qf5 25. Rfd1 h5 26. Rd5 Qe4 27. Rc4 Qb1+ 28. Kg2 Qxb2 29. Qxb2 Bxb2 30. Bg5 Rb7 31. Rd6 Rb6 32. Rcc6 Rxc6 33. Rxc6 Rg8 34. Rc7+ Rg7 35. Rc2 Be5 36. f4 Bd6 37. a4 a5 38. Rc6 Bb4 39. Bf6 Rf7 40. e4 Bd2 41. e5 Bb4 42. e6 Rb7 43. e7 Bxe7 44. Bxe7 Rxe7 45. Rc5 Ra7 46. Kf3 Kh6 47. g4 hxg4+ 48. Kxg4 Ra6 49. f5 gxf5+ 50. Rxf5 Kg6 51. Rh5 Kg7 52. Rg5+ Kh6 53. Rf5 Rg6+ 54. Rg5 Ra6 55. Rh5+ Kg6 56. Rb5 Kh6 57. h5 Kg7 58. Rg5+ Kh6 59. Rg6+ Rxg6+ 60. hxg6 Kxg6 61. Kf4 1-0
+

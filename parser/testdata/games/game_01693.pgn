@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gfqX5Dp9"]
+[White "kpowe52"]
+[Black "bigbadbo55"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:23"]
+[WhiteElo "1669"]
+[BlackElo "1617"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense, Declined Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nc6 2. Nf3 b6 3. d4 Bb7 4. d5 Nb8 5. a3 c6 6. Nc3 e6 7. Bc4 exd5 8. exd5 Bc5 9. O-O Ne7 10. Re1 O-O 11. d6 Nf5 12. b4 Bxd6 13. g4 Nh4 14. Nxh4 Qxh4 15. Qxd6 Qxg4+ 16. Qg3 Qxc4 17. Bb2 Na6 18. Nb5 f6 19. Nd6 Qxc2 20. Rab1 Bc8 21. Nxc8 Raxc8 22. Rec1 Qe2 23. Bd4 c5 24. Be3 c4 25. Bh6 Rf7 26. Re1 Qh5 27. Bf4 g5 28. Bd6 Kg7 29. Red1 Rc6 30. Rd4 Qe2 31. Rbd1 c3 32. b5 Rc4 33. bxa6 Rxd4 34. Rxd4 Qe1+ 35. Kg2 c2 36. Rc4 c1=Q 37. Rxc1 Qxc1 38. Qf3 f5 39. h3 Qc6 40. Be5+ Kg6 41. h4 Qxf3+ 42. Kxf3 g4+ 43. Kf4 h5 44. Bc7 b5 45. Bb8 d6 46. Bxd6 Rd7 47. Bb4 Rd4+ 48. Ke3 Rxb4 49. axb4 Kf6 50. Ke2 Ke5 51. Kf1 f4 52. Kg1 Ke4 53. Kf1 Kf3 54. Kg1 Ke2 55. Kg2 f3+ 0-1
+

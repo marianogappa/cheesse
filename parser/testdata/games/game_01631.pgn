@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/qVoxyqh9"]
+[White "frastornante"]
+[Black "roma1302"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:11"]
+[WhiteElo "1502"]
+[BlackElo "1541"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C00"]
+[Opening "French Defense: Queen's Knight"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nc3 g6 3. Bc4 Bg7 4. Qf3 Bxc3 5. dxc3 Ne7 6. Bg5 O-O 7. Bh6 b6 8. Qf6 Nf5 9. Qxd8 Rxd8 10. exf5 exf5 11. O-O-O Bb7 12. Nf3 Bxf3 13. gxf3 Nc6 14. Bd5 Rac8 15. Bxc6 dxc6 16. Rxd8+ Rxd8 17. Rd1 Rxd1+ 18. Kxd1 f6 19. Kd2 Kf7 20. Kd3 Ke6 21. c4 Ke5 22. b4 f4 23. c5 b5 24. a3 g5 25. Bg7 Ke6 26. c3 Kf7 27. Bh6 Kg6 28. Bxg5 fxg5 29. Ke4 h5 30. Ke5 Kf7 31. Kf5 Ke7 32. Kxg5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/hucw6Wwo"]
+[White "astrof"]
+[Black "Jaque_Mate"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:33"]
+[WhiteElo "1737"]
+[BlackElo "1662"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. d4 c6 2. Nf3 d5 3. Nbd2 Bg4 4. e3 f6 5. Bd3 e5 6. dxe5 fxe5 7. e4 Nf6 8. Qe2 Bd6 9. O-O O-O 10. h3 Bh5 11. b3 Nbd7 12. Bb2 Nc5 13. exd5 Bxf3 14. Nxf3 Nxd3 15. cxd3 cxd5 16. Rfe1 Re8 17. Rac1 d4 18. Nd2 Nd5 19. Ne4 Nf4 20. Qg4 Nxd3 21. Ng5 Nxb2 22. Qh5 Qf6 23. Qxh7+ Kf8 24. Nf3 Ke7 25. Nxd4 Nd3 26. Nf5+ Kd7 27. Qxg7+ Qxg7 28. Nxg7 Nxe1 29. Nxe8 Kxe8 30. Rxe1 Ke7 31. Rd1 Ke6 32. f3 Rc8 33. g4 Rc2 34. a4 Ra2 35. Rf1 Rb2 36. Kh1 Rxb3 37. h4 Ra3 38. h5 Rxa4 39. h6 Kf6 40. Rg1 Kg6 41. g5 Rh4+ 42. Kg2 Rh5 43. Kf2 Bc5+ 44. Kf1 Bxg1 45. Kxg1 Rxg5+ 46. Kf2 Kxh6 47. Ke2 Rf5 48. Kd3 Kg6 49. Ke4 Kf6 50. Kd5 Rxf3 51. Kd6 Rf4 52. Kc7 e4 53. Kxb7 e3 54. Kxa7 e2 55. Kb6 e1=Q 56. Kc7 Rd4 0-1
+

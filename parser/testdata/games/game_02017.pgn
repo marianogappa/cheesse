@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/ASkFEsgR"]
+[White "pallino"]
+[Black "JulioASantos"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:31"]
+[WhiteElo "1659"]
+[BlackElo "1988"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+[ECO "E40"]
+[Opening "Nimzo-Indian Defense: Normal Line"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.2] } 1... Nf6 { [%eval 0.23] } 2. c4 { [%eval 0.25] } 2... e6 { [%eval 0.18] } 3. Nc3 { [%eval 0.16] } 3... Bb4 { [%eval 0.16] } 4. e3 { [%eval 0.14] } 4... Bxc3+ { [%eval 0.16] } 5. bxc3 { [%eval 0.16] } 5... O-O { [%eval 0.37] } 6. Nf3 { [%eval 0.14] } 6... d6 { [%eval 0.15] } 7. Bd3 { [%eval 0.14] } 7... Nbd7 { [%eval 0.21] } 8. O-O { [%eval 0.19] } 8... e5 { [%eval 0.26] } 9. e4 { [%eval 0.21] } 9... c5 { [%eval 0.38] } 10. Bg5 { [%eval 0.09] } 10... h6 { [%eval 0.21] } 11. Bh4 { [%eval 0.1] } 11... g5 { [%eval 0.3] } 12. Nxg5 { [%eval 0.41] } 12... hxg5 { [%eval 0.27] } 13. Bxg5 { [%eval 0.4] } 13... Qe8?! { [%eval 1.2] } 14. f4 { [%eval 0.92] } 14... Nh7 { [%eval 1.1] } 15. Qh5? { [%eval -1.75] } 15... f6 { [%eval -1.45] } 16. Qh4?? { [%eval -5.96] } 16... fxg5 { [%eval -5.9] } 17. fxg5 { [%eval -5.75] } 17... Qg6 { [%eval -5.62] } 18. d5? { [%eval -7.17] } 18... Qxg5? { [%eval -6.06] } 19. Rxf8+ { [%eval -5.93] } 19... Ndxf8 { [%eval -5.89] } 20. Qh3?? { [%eval -26.03] } 20... Bxh3 { [%eval -25.12] } 0-1
+

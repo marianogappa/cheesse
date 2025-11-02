@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/84EDEoYK"]
+[White "hazretpolat"]
+[Black "Pigiro"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:58"]
+[WhiteElo "1554"]
+[BlackElo "1445"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+14"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.14] } 2. Nf3 { [%eval 0.14] } 2... Nc6 { [%eval 0.26] } 3. Nc3 { [%eval 0.07] } 3... Bc5 { [%eval 0.55] } 4. Bc4 { [%eval 0.1] } 4... d6 { [%eval 0.35] } 5. O-O { [%eval 0.04] } 5... Nge7? { [%eval 1.54] } 6. a3? { [%eval 0.2] } 6... Bg4? { [%eval 1.56] } 7. b4 { [%eval 1.17] } 7... Bb6 { [%eval 1.28] } 8. h3? { [%eval 0.25] } 8... Bh5 { [%eval 0.39] } 9. Nd5 { [%eval 0.0] } 9... Nxd5 { [%eval -0.01] } 10. Bxd5 { [%eval -0.04] } 10... O-O { [%eval 0.21] } 11. d3 { [%eval -0.09] } 11... h6?! { [%eval 0.41] } 12. c4?! { [%eval -0.39] } 12... Rb8?! { [%eval 0.37] } 13. Qe1? { [%eval -1.89] } 13... Ne7?! { [%eval -1.11] } 14. Be3? { [%eval -2.75] } 14... Bxe3 { [%eval -2.66] } 15. Qxe3 { [%eval -2.79] } 15... Kh8? { [%eval -0.71] } 16. c5 { [%eval -0.64] } 16... dxc5 { [%eval -0.21] } 17. bxc5?! { [%eval -0.92] } 17... f5? { [%eval 0.1] } 18. Rab1? { [%eval -2.41] } 18... f4? { [%eval -1.25] } 19. Qe2 { [%eval -1.27] } 19... Ng6?! { [%eval -0.58] } 20. c6? { [%eval -2.35] } 20... Nh4 { [%eval -2.03] } 21. cxb7?? { [%eval -8.55] } 21... Nxf3+?? { [%eval 0.36] } 22. gxf3 { [%eval 0.93] } 22... Qg5+? { [%eval 2.37] } 23. Kh1? { [%eval 1.19] } 23... Qh4 { [%eval 1.57] } 24. Rg1?? { [%eval #-1] } 24... Qxh3# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/X5UyEAGb"]
+[White "Guliaka"]
+[Black "rbatty"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:50"]
+[WhiteElo "1846"]
+[BlackElo "1802"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C10"]
+[Opening "French Defense: Rubinstein Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ Qxf6 6. Nf3 h6 7. Bd3 Bd6 8. O-O Nd7 9. c3 O-O 10. Qb3 b6 11. a4 c5 12. a5 Bb7 13. Be2 Rac8 14. axb6 axb6 15. Ra7 Ba8 16. Be3 Rcd8 17. Rfa1 cxd4 18. Bxd4 e5 19. Be3 Qg6 20. Qb5 Nc5 21. Bxc5 Bxc5 22. b4 Bd6 23. Qxb6 e4 24. Nd4 Bxh2+ 25. Kxh2 Qxb6 26. c4 Qf6 27. f3 e3 0-1
+

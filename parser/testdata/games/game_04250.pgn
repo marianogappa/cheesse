@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/6AvafvC3"]
+[White "Prasonio"]
+[Black "niniveii"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:16"]
+[WhiteElo "1776"]
+[BlackElo "1708"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C00"]
+[Opening "French Defense: Steinitz Attack"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. e5 c5 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Qc7 6. Nxc6 Qxc6 7. f4 a6 8. Nc3 b5 9. Be3 Bb7 10. Qd2 Rc8 11. O-O-O Bb4 12. a3 Bxc3 13. Qxc3 Qxc3 14. bxc3 Rxc3 15. Bd4 Rxa3 16. Kb2 Ra4 17. Bd3 Bd5 18. Bc3 Ra2+ 19. Kc1 Ne7 20. Kd2 Nc6 21. Ra1 Rxa1 22. Rxa1 a5 23. Bxa5 Nxa5 24. Rxa5 O-O 25. Ra7 Bc4 26. Rxd7 Bxd3 27. Rxd3 Rb8 28. Rd7 Kf8 29. Rc7 g6 30. Rc5 Kg7 31. Rc7 b4 32. h4 h5 33. Rxf7+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/iTiNaDFL"]
+[White "ale04"]
+[Black "IFightFat"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:56"]
+[WhiteElo "1250"]
+[BlackElo "1108"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "C46"]
+[Opening "Four Knights Game"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Nf3 e5 3. Nc3 Nf6 4. d3 g6 5. Bg5 Bg7 6. d4 Qe7 7. Nd5 Qe6 8. Nxc7+ Ke7 9. Nxe6 fxe6 10. Bb5 Nb4 11. O-O exd4 12. Nxd4 h6 13. Bxf6+ Bxf6 14. c3 Nc6 15. Nxc6+ bxc6 16. Ba4 Ba6 17. Re1 Be5 18. a3 Rhf8 19. Qd2 Bf4 20. Qd4 Rab8 21. Qg7+ Rf7 22. Qxg6 Be5 23. Qxh6 Bd3 24. Qh4+ Bf6 25. Qg3 Bc4 26. Qxb8 Bh4 27. g3 Bxg3 28. Qxg3 1-0
+

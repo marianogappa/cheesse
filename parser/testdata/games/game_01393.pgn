@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2iI7KRGe"]
+[White "kansas"]
+[Black "Frankalceo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:15"]
+[WhiteElo "1510"]
+[BlackElo "1482"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+12"]
+[ECO "C46"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 a6 5. a3 b5 6. Bb3 Bc5 7. O-O O-O 8. d3 a5 9. Bg5 a4 10. Bd5 Qe8 11. Bxf6 gxf6 12. h3 Kh8 13. Bxc6 dxc6 14. Ne2 Rg8 15. Ng3 Qf8 16. Nh4 Qh6 17. Nhf5 Bxf5 18. exf5 Rxg3 19. b4 Bb6 20. Kh2 Rag8 21. Rg1 Qf4 22. fxg3 Qxg3+ 23. Kh1 Bxg1 24. Kxg1 Qxg2# 0-1
+

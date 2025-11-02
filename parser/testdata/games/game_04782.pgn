@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/HrQSi54M"]
+[White "AlphaTauri"]
+[Black "Lawkeito"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:28"]
+[WhiteElo "1494"]
+[BlackElo "1696"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-140"]
+[ECO "C57"]
+[Opening "Italian Game: Two Knights Defense, Knight Attack, Normal Variation"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. d3 h6 7. Bxd5 Qxd5 8. Qf3 Qxf3 9. Nxf3 Bg4 10. Nbd2 Bc5 11. O-O O-O 12. h3 Bh5 13. g4 Bg6 14. h4 Rfe8 15. h5 Bh7 16. b3 Rad8 17. Bb2 Nd4 18. Nxd4 Bxd4 19. Bxd4 Rxd4 20. Nf3 Rxg4+ 21. Kh2 e4 22. Kh3 Bf5 23. Rae1 Rf4+ 24. Kg3 Rxf3+ 25. Kg2 Bh3+ 26. Kh2 Bxf1 27. Rxf1 Re5 28. Kg2 Ref5 29. dxe4 R5f4 30. c4 a5 31. e5 Kf8 32. c5 Rf5 33. a3 R3f4 34. Kg3 g5 35. hxg6 fxg6 36. e6 Re4 37. f4 Rxe6 38. Rf3 h5 39. b4 Re1 40. bxa5 h4+ 41. Kxh4 Rg1 42. Rg3 Rh5+ 43. Kg4 Rxg3+ 44. Kxg3 Kf7 45. c6 Ke6 46. cxb7 Rb5 47. a6 Rb3+ 48. Kg4 Rb2 49. a7 Rg2+ 50. Kf3 1-0
+

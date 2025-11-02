@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xsIKn3sr"]
+[White "Sophie35"]
+[Black "Polygraf"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:14"]
+[WhiteElo "1346"]
+[BlackElo "1493"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-16"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. b3 Nc6 5. Nf3 Bf5 6. d3 Qxc3+ 7. Bd2 Qf6 8. Be2 g6 9. O-O Bg7 10. h3 Qxa1 11. Qxa1 Bxa1 12. Rxa1 Nf6 13. c4 b6 14. g4 Bd7 15. Bf4 O-O-O 16. d4 Nb4 17. d5 e6 18. Bg5 exd5 19. Bxf6 Rhe8 20. Bxd8 Rxe2 21. Bf6 dxc4 22. bxc4 Bc6 23. Nd4 Nc2 24. Nxe2 Nxa1 25. Bxa1 Kd7 26. Nd4 Kd6 27. f4 Kc5 28. f5 Kxc4 29. Nxc6 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/GrNao7D7"]
+[White "mdebruijne"]
+[Black "Freakinator"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:56"]
+[WhiteElo "1650"]
+[BlackElo "1116"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bb5+ c6 4. Bc4 d5 5. exd5 cxd5 6. Bb3 Qb6 7. Nxe5 Bd6 8. Nf3 Bg4 9. h3 Bh5 10. Bxd5 Nf6 11. Bb3 Nc6 12. O-O O-O-O 13. d4 Rhe8 14. Be3 Qc7 15. Nc3 Bh2+ 16. Kh1 Bxf3 17. Qxf3 g5 18. Qxf6 Rd5 19. Qf3 Rxe3 20. Qxe3 Nxd4 21. Bxd5 Nf5 22. Qxg5 Ng3+ 23. Kxh2 Nxf1+ 24. Kg1 Qh2+ 25. Kxf1 Qh1+ 26. Ke2 Qxa1 27. Qg8+ Kc7 28. Qxf7+ Kb6 29. Qxb7+ Ka5 30. Qxa7+ Kb4 31. a3+ Qxa3 32. Qxa3# 1-0
+

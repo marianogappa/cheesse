@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JNaI2aRK"]
+[White "MaksutMert"]
+[Black "oneguygarden"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:00"]
+[WhiteElo "1885"]
+[BlackElo "1922"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Scandinavian Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. d4 g6 5. Nxd5 Qxd5 6. Be3 Bg7 7. Nf3 O-O 8. Bd3 Bg4 9. h3 Bxf3 10. gxf3 e5 11. dxe5 Qxe5 12. c3 Nc6 13. Qc2 Rad8 14. O-O-O a5 15. h4 a4 16. h5 a3 17. hxg6 hxg6 18. Bh6 axb2+ 19. Kb1 Nb4 20. Qe2 Nxd3 21. Qxe5 Bxe5 22. Bxf8 Kxf8 23. f4 Bxc3 24. Rh3 Be1 25. Rhxd3 Rxd3 26. Rxd3 Bxf2 27. Kxb2 c5 28. a4 Bd4+ 29. Kb3 Kg7 30. Kc4 Kf6 31. Rf3 Kf5 32. Kb5 Ke4 33. Rf1 Be3 34. a5 Bxf4 35. Kxc5 Be3+ 36. Kb5 f5 37. Re1 Kd3 38. Rxe3+ Kxe3 39. Kb6 f4 40. Kxb7 f3 41. a6 f2 42. a7 f1=Q 43. a8=Q Qf3+ 44. Kb8 Qxa8+ 45. Kxa8 g5 46. Kb7 g4 47. Kc6 g3 48. Kd5 g2 49. Ke5 g1=Q 50. Kf5 Qg3 51. Kf6 Qg4 52. Kf7 Ke4 53. Kf6 Qf5+ 54. Kg7 Ke5 55. Kh6 Kd6 56. Kg7 Ke7 57. Kh6 Ke6 58. Kg7 Qf6+ 59. Kh7 Qg5 60. Kh8 Kf7 61. Kh7 Qg7# 0-1
+

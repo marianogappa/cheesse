@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VD2p5o3t"]
+[White "emiliotambe"]
+[Black "alexacuatic"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:20"]
+[WhiteElo "1746"]
+[BlackElo "1732"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 e6 5. d4 Nf6 6. Bd3 Be7 7. O-O b6 8. a3 Bb7 9. Bg5 O-O 10. Re1 Nd5 11. Bxe7 Nxe7 12. Be4 Bxe4 13. Nxe4 Nf5 14. c3 Nd7 15. Ned2 Nf6 16. Nc4 Qd5 17. Nce5 Rad8 18. Qc2 b5 19. b3 a6 20. c4 bxc4 21. Qxc4 Qxc4 22. bxc4 Nxd4 23. Rab1 Nxf3+ 24. Nxf3 Rb8 25. Ne5 Rfd8 26. Nc6 Rxb1 27. Rxb1 Re8 28. f3 g6 29. Rb7 Nd7 30. Rxc7 Nc5 31. Ne7+ Kg7 32. Nxg6 Nd3 33. Re7 Rb8 34. g4 hxg6 35. Ra7 Nc5 36. Rc7 Rb1+ 37. Kg2 Nd3 38. c5 Rc1 39. c6 Ne5 40. Ra7 Rxc6 41. h4 Nc4 42. Kg3 Rb6 43. a4 Nb2 44. a5 Rc6 45. Rb7 Nc4 46. Rb4 Nxa5 47. Ra4 Nc4 48. h5 gxh5 49. gxh5 Nd6 50. Ra5 Nf5+ 51. Kg4 Kh6 52. f4 Ne3+ 53. Kf3 Nd5 54. f5 Nf6 55. fxe6 Rxe6 56. Kf4 Nxh5+ 57. Kg4 Ng7 58. Kh4 Rg6 59. Kh3 Nf5 60. Kh2 Nd4 61. Kh1 f5 62. Ra4 f4 63. Rxd4 f3 64. Rf4 Rg3 65. Kh2 1-0
+

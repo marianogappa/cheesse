@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/3u9Sks6K"]
+[Site "https://lichess.org/043z5WbU"]
+[White "MarlonTrianaChess"]
+[Black "Gabo2909"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:42"]
+[WhiteElo "1500"]
+[BlackElo "1616"]
+[WhiteRatingDiff "+242"]
+[BlackRatingDiff "-12"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+[TimeControl "420+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O O-O 6. a3 a5 7. h3 Ba7 8. Be3 Bxe3 9. fxe3 d6 10. Nc3 Na7 11. a4 c6 12. Ne2 Re8 13. Ng3 Be6 14. Bxe6 Rxe6 15. Nh2 Nc8 16. Ng4 Nxg4 17. Qxg4 Rg6 18. Qf3 Rf6 19. Qg4 Rg6 20. Qf3 Qf6 21. Qxf6 gxf6 22. Rxf6 Rxf6 23. Nf5 Kf8 24. g4 Ne7 25. Rf1 Nxf5 26. exf5 Kg7 27. g5 Rxf5 28. Rxf5 Kg6 29. Rf6+ Kxg5 30. Rxd6 Kf5 31. Rd7 b5 32. Rxf7+ Kg6 33. Rc7 Ra6 34. Kh2 bxa4 35. e4 Rb6 36. Kg3 Rxb2 37. Rxc6+ Kg7 38. Rc3 Rb4 39. Ra3 Kf6 40. Kg4 Ke6 41. h4 Rb2 42. Rxa4 Rxc2 43. Rxa5 Rc3 44. Rd5 Rc2 45. Kh5 Rf2 46. Kh6 Rf4 47. h5 Rf7 48. Ra5 Kd6 49. Ra6+ Kc5 50. Ra5+ Kd4 51. Rd5+ Kc3 52. Rxe5 Kxd3 53. Re8 Kd4 54. e5 Kd5 55. e6 Rc7 56. e7 Kd6 57. Kxh7 Rxe7+ 58. Rxe7 Kxe7 59. Kg7 Ke8 60. h6 Kd7 61. h7 Ke6 62. h8=Q Kd5 63. Qe8 Kd6 64. Kf6 Kd5 65. Qe6+ Kc5 66. Ke5 Kb5 67. Qd6 Kc4 68. Qd4+ Kb5 69. Kd6 Ka6 70. Qb4 Ka7 71. Kc7 Ka6 72. Qb6# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tzqe32wO"]
+[White "lisatullytul"]
+[Black "XQXQ"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:29"]
+[WhiteElo "944"]
+[BlackElo "1227"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-244"]
+[ECO "C44"]
+[Opening "Ponziani Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.22] } 1... e5 { [%eval 0.25] } 2. Nf3 { [%eval 0.32] } 2... Nc6 { [%eval 0.41] } 3. c3?! { [%eval -0.17] } 3... g5? { [%eval 1.26] } 4. d4 { [%eval 1.27] } 4... g4 { [%eval 1.37] } 5. Nxe5 { [%eval 1.47] } 5... Nxe5 { [%eval 1.51] } 6. dxe5 { [%eval 1.67] } 6... f6?! { [%eval 2.36] } 7. Qxg4 { [%eval 2.32] } 7... fxe5?? { [%eval 16.42] } 8. Qh5+ { [%eval 16.32] } 8... Ke7 { [%eval 16.29] } 9. Qxe5+ { [%eval 16.16] } 9... Kf7 { [%eval 16.0] } 10. Qxh8?! { [%eval 9.18] } 10... Qf6?! { [%eval 13.61] } 11. Qxh7+ { [%eval 13.42] } 11... Bg7 { [%eval 14.04] } 12. Qh5+ { [%eval 9.89] } 12... Kf8 { [%eval 9.93] } 13. Qc5+ { [%eval 9.91] } 13... d6 { [%eval 10.56] } 14. Qe3? { [%eval 8.95] } 14... Bg4?! { [%eval 9.54] } 15. Be2 { [%eval 9.14] } 15... Bxe2 { [%eval 9.14] } 16. Qxe2 { [%eval 8.98] } 16... Qg6 { [%eval 9.15] } 17. O-O { [%eval 9.12] } 17... Be5?! { [%eval 10.52] } 18. g3 { [%eval 9.74] } 18... Re8 { [%eval 9.79] } 19. Qb5?! { [%eval 9.1] } 19... b6?! { [%eval 9.7] } 20. Qc6 { [%eval 9.39] } 20... Qh7 { [%eval 9.85] } 21. Nd2 { [%eval 9.76] } 21... Ne7 { [%eval 12.26] } 22. Qc4 { [%eval 10.22] } 22... d5 { [%eval 11.11] } 23. Qb5 { [%eval 9.71] } 23... Kg8 { [%eval 43.05] } 24. Qxe8+ { [%eval 36.3] } 24... Kg7 { [%eval 35.47] } 25. Qxe7+ { [%eval 32.41] } 25... Kh6?! { [%eval #4] } 26. Qxe5?! { [%eval 40.13] } 26... Qxe4?! { [%eval #4] } 27. Nxe4+ { [%eval #3] } 1-0
+

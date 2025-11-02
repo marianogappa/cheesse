@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VfvK0eon"]
+[White "kingshu"]
+[Black "cangas77"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:09"]
+[WhiteElo "1308"]
+[BlackElo "1323"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer Gambit: Ryder Gambit"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 c6 6. h3 Na6 7. Nge2 Nb4 8. Rb1 e6 9. Bd2 Bd6 10. Ne4 O-O 11. Bxb4 Bxb4+ 12. c3 Bd6 13. Nxd6 Qxd6 14. Rd1 b5 15. Nf4 b4 16. c4 e5 17. dxe5 Qxe5+ 18. Be2 Qxb2 19. O-O Qxa2 20. Qxc6 Bf5 21. Nd5 Nxd5 22. Qxd5 Qxe2 23. Qxf5 Qe3+ 24. Kh1 b3 25. Rb1 a5 26. Rf3 Qe6 27. Rbxb3 Rad8 28. Qxa5 Rd1+ 29. Kh2 Qd6+ 30. g3 Rd2+ 31. Kg1 Qd4+ 32. Rbe3 Rd1+ 33. Kf2 Qb2+ 34. Re2 Qd4+ 35. Ree3 Rd2+ 36. Ke1 Rd8 37. Qxd2 Qa1+ 38. Ke2 Rxd2+ 39. Kxd2 Qb2+ 40. Kd3 Qb3+ 41. Kd4 Qb6+ 42. c5 Qd8+ 43. Kc4 g6 44. c6 Qc8 45. Kc5 Qc7 46. Re8+ Kg7 47. Rfe3 Qa7+ 48. Kd6 Qa3+ 49. Kd7 1-0
+

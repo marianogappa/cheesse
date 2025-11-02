@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tR45nfdP"]
+[White "Artorius89"]
+[Black "mathesna"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:51"]
+[WhiteElo "1166"]
+[BlackElo "1149"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Bf4 e6 3. Nc3 c6 4. a3 Qb6 5. b4 a5 6. Bxb8 Rxb8 7. bxa5 Qxa5 8. Qd3 b5 9. a4 bxa4 10. Rxa4 Qb6 11. e3 Bb4 12. Be2 Bd7 13. Nf3 c5 14. O-O Bxa4 15. dxc5 Qxc5 16. Nxa4 Qa5 17. c3 Ba3 18. Ng5 Qxa4 19. Nxf7 Kxf7 20. Bh5+ Kf8 21. Bd1 Qa5 22. Qd4 Bc5 23. Qf4+ Nf6 24. Qxb8+ Ne8 25. Qf4+ Ke7 26. Qg5+ Kf7 27. Qf4+ Ke7 28. Bh5 g6 29. Qg5+ Kf7 30. Qf4+ Kg7 31. Bg4 Bd6 32. Qd4+ Nf6 33. Bxe6 Re8 34. Bd7 Re4 35. Qd3 Nxd7 36. Rb1 Nc5 37. h3 Nxd3 0-1
+

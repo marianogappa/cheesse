@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tfM5VKYL"]
+[White "alessandrotsyupa"]
+[Black "cesarmolinar"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:33"]
+[WhiteElo "1462"]
+[BlackElo "1364"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 Be7 3. d4 d5 4. e5 c5 5. c3 Nc6 6. Bb5 a6 7. Ba4 b5 8. Bc2 cxd4 9. cxd4 Bd7 10. Bd2 Bb4 11. a3 Bxd2+ 12. Nbxd2 b4 13. axb4 Nxb4 14. Bb1 Bb5 15. Qb3 Nc6 16. Qa3 Nge7 17. Ng5 Nxd4 18. Nxh7 g6 19. Nf6+ Kf8 20. Qc3 Ndc6 21. b3 Rc8 22. Qg3 Nf5 23. Qf4 Rh4 24. Qg5 Nxe5 25. Bxf5 exf5 26. Qxh4 Nd3+ 27. Kd1 Qe7 28. Qh8# 1-0
+

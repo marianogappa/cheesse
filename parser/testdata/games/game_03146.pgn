@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PhRoN2Pz"]
+[White "ikl3"]
+[Black "Tavo1502"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:48"]
+[WhiteElo "1421"]
+[BlackElo "1453"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Lasker-Dunne Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. g3 d6 3. Bg2 Nc6 4. d3 Nf6 5. c3 g6 6. h3 Bg7 7. a3 O-O 8. b3 e5 9. Bb2 b6 10. Nd2 Bb7 11. Nc4 Rb8 12. Ne2 Qd7 13. O-O Nd8 14. a4 Ne6 15. Bc1 d5 16. Nxe5 Qc7 17. Nf3 dxe4 18. dxe4 Bxe4 19. Qe1 Rfd8 20. Bf4 Nxf4 21. Nxf4 Qb7 22. Qe2 Re8 23. Ng5 Bxg2 24. Qxe8+ Rxe8 25. Nxg2 h6 26. Nxf7 Kxf7 27. Nf4 Nh5 28. Nd3 Bxc3 29. Rad1 Bd4 30. b4 Qd7 31. bxc5 Bxf2+ 32. Rxf2+ Kg7 33. Rf3 Qxh3 34. Rdf1 Qe6 35. g4 Nf6 36. Nf4 Qxg4+ 37. Kh1 Qh4+ 38. Rh3 Qg4 39. Rff3 Re1+ 40. Kh2 Qg1# 0-1
+

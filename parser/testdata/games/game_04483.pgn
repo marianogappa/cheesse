@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/eYWMtrGG"]
+[White "sergeantha"]
+[Black "Jozef65"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:13"]
+[WhiteElo "2049"]
+[BlackElo "2015"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C51"]
+[Opening "Italian Game: Evans Gambit, Anderssen Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. d4 d6 7. Qb3 Na5 8. Bxf7+ Kf8 9. Qa4 Kxf7 10. Qxa5 exd4 11. cxd4 Nf6 12. e5 Ne8 13. Qd5+ Kf8 14. O-O c6 15. Qe4 Qd7 16. Bg5 d5 17. Bxe7+ Kxe7 18. Qh4+ Kf8 19. h3 Nc7 20. Nc3 Qf7 21. Ng5 Qg6 22. Ne2 Ne6 23. Nxe6+ Qxe6 24. f4 Qe7 25. Qf2 g6 26. g4 Kg7 27. f5 gxf5 28. gxf5 Kf7 29. Kh2 Qg5 30. Rab1 b6 31. Rb3 Ba6 32. Rg1 Qh6 33. Nf4 Rhg8 34. Rbg3 Rxg3 35. Qxg3 Rf8 36. Ne6 Rc8 37. Qg7+ Qxg7 38. Rxg7+ Ke8 39. Rxa7 Bd3 40. Ng7+ Kf8 41. f6 c5 42. dxc5 bxc5 43. e6 Bg6 44. h4 h5 45. e7+ Kg8 46. Ne6 c4 47. Rd7 Bf5 48. Rd8+ Kf7 49. Rxc8 Bxe6 50. e8=Q+ Kxf6 51. Qxh5 1-0
+

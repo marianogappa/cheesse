@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/egXcqLss"]
+[White "LucaP"]
+[Black "insanityrains"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:12"]
+[WhiteElo "1607"]
+[BlackElo "1599"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Normal Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. Bc4 e6 4. Bxd5 exd5 5. d4 Be7 6. Nf3 h6 7. O-O d6 8. exd6 Bxd6 9. Re1+ Be6 10. Nc3 O-O 11. Bxh6 gxh6 12. Qd2 Qf6 13. Ne5 Nd7 14. Re3 Kh8 15. Ne2 Rg8 16. Rf3 Qg5 17. g3 Qxd2 18. Nxf7+ Bxf7 19. Rxf7 Qxe2 20. Rxd7 Rae8 21. Kg2 Re7 22. Rxe7 Bxe7 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2G63elMz"]
+[White "mtuzzolo"]
+[Black "dcfalcone27"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:51"]
+[WhiteElo "1222"]
+[BlackElo "937"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 a6 4. Ng5 b5 5. Bxf7+ Ke7 6. Bd5 Nb4 7. Nf7 Ra7 8. Nxd8 Nxd5 9. exd5 h5 10. Qf3 d6 11. Qf7+ Kxd8 12. Qxf8+ Kd7 13. Qf7+ Ne7 14. Qe6+ Kd8 15. Qf7 b4 16. Qxg7 Re8 17. O-O Bb7 18. Qg5 Bxd5 19. Qxh5 a5 20. b3 c5 21. d3 Nc6 22. Bg5+ Kc8 23. Qxe8+ Nd8 24. Qxd8+ Kb7 25. Qd7+ Ka8 26. Qxd6 c4 27. Qxd5+ Rb7 28. Qxc4 Rg7 29. Qd5+ Kb8 30. Qxe5+ Kc8 31. Qxg7 Kb8 32. Bf4+ Kc8 33. Qc7# 1-0
+

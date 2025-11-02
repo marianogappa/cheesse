@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/xHOshmXL"]
+[White "Karlchen"]
+[Black "SR001"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:27"]
+[WhiteElo "1524"]
+[BlackElo "1491"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense, Declined Variation"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Nf3 d5 3. exd5 Qxd5 4. d4 e5 5. Nc3 Qd7 6. Be3 e4 7. Ne5 Nxe5 8. dxe5 Qxd1+ 9. Rxd1 Be6 10. Nb5 Rc8 11. Nxa7 Rd8 12. Nb5 Rxd1+ 13. Kxd1 Be7 14. Nxc7+ Kd8 15. Bb6 Kc8 16. Nxe6 fxe6 17. Be2 Nh6 18. g4 Bd8 19. Bd4 Nf7 20. h4 Bc7 21. Bc4 Re8 22. Ke2 g6 23. Rf1 Bxe5 24. Bxe5 Nxe5 25. Bb3 Nxg4 26. f3 exf3+ 27. Kxf3 Ne5+ 28. Kg2 Nc6 29. Rf6 Re7 30. Rxe6 Kc7 31. Rxe7+ Nxe7 32. a3 h6 33. Kg3 g5 34. hxg5 hxg5 35. Kg4 Nc8 36. Kxg5 Nd6 37. c4 b6 38. Kf6 Ne4+ 39. Ke5 Nc5 40. Ba2 Kc6 41. Kd4 b5 42. b4 bxc4 43. bxc5 c3 44. Kxc3 Kc7 45. Kc4 1-0
+

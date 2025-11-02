@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CeLJE6Nx"]
+[White "sharghi"]
+[Black "reitzo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:07"]
+[WhiteElo "1892"]
+[BlackElo "2036"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-14"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Main Line"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Nc3 c6 3. e4 dxe4 4. Nxe4 e6 5. Nf3 Nf6 6. Bd3 Be7 7. Bg5 Nbd7 8. h4 O-O 9. Qe2 b6 10. Nxf6+ Nxf6 11. Ne5 Bb7 12. O-O-O Nd5 13. f4 f6 14. Bxh7+ Kxh7 15. Qh5+ Kg8 16. Ng6 fxg5 17. hxg5 Nxf4 18. Nxf4 Bxg5 19. Qh7+ Kf7 20. g3 Bxf4+ 21. gxf4 Rh8 22. Qxh8 Qxh8 23. Rxh8 Rxh8 24. Rf1 Kf6 25. c4 Rh4 26. b4 Kf5 27. Kd2 Rxf4 28. Rg1 g5 29. Kd3 Rf3+ 30. Ke2 Rf4 31. Kd3 e5 32. dxe5 Kxe5 33. Rxg5+ Rf5 34. Rg7 Bc8 35. Re7+ Be6 36. Rxa7 Rf3+ 37. Ke2 Rf4 38. Kd3 Bxc4+ 39. Ke3 Re4+ 40. Kd2 Re2+ 41. Kc3 b5 42. a4 Re3+ 43. Kd2 Rd3+ 44. Kc2 Kd4 45. axb5 cxb5 46. Rd7+ Ke4 47. Re7+ Kd5 48. Rd7+ Ke4 49. Re7+ Kf5 50. Kc1 Rb3 51. Kc2 Rxb4 52. Kc3 Rb3+ 53. Kd4 Kf6 54. Re1 Rd3+ 55. Kc5 Kf5 56. Rf1+ Ke4 57. Rf6 Rd5+ 58. Kb4 Kd4 59. Rf4+ Ke5 60. Rf2 Rd3 61. Re2+ Kd5 62. Re7 Rb3+ 63. Ka5 Kc5 64. Rc7+ Kd6 65. Rc8 Kd7 66. Rc5 Kd6 67. Rg5 Ra3+ 68. Kb4 Rb3+ 69. Ka5 Re3 70. Rg6+ Re6 71. Rg5 Kc6 72. Kb4 Rd6 73. Rc5+ 1-0
+

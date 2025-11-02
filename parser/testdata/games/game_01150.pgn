@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bHQCAqAq"]
+[White "Carducci"]
+[Black "GillKill"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:17"]
+[WhiteElo "1658"]
+[BlackElo "1428"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+17"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation, Monte Carlo Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Bd6 5. Nc3 Nf6 6. Bg5 Bf5 7. Nxd5 Nbd7 8. Be2 O-O 9. Nf3 h6 10. Bh4 g5 11. Bg3 Ne4 12. Bxd6 Nxd6 13. h4 g4 14. Ne5 Nxe5 15. dxe5 Ne4 16. f3 Ng3 17. Rg1 Qxh4 18. fxg4 Nh1+ 19. Kd2 Nf2 20. Qe1 Bxg4 21. Qxf2 Qxf2 0-1
+

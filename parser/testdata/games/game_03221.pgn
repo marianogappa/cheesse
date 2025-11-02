@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/vccADl6r"]
+[White "JTSAE"]
+[Black "Joko2017"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:12"]
+[WhiteElo "1621"]
+[BlackElo "2041"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Positional Variation #2"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 c5 8. Bxf6 Bxf6 9. Bb1 cxd4 10. Qd3 g6 11. exd4 Nc6 12. Nf3 Re8+ 13. Kd1 Bf5 14. Qf1 Bxb1 15. Rxb1 Nxd4 16. Qd3 Nxf3 17. Qxf3 Rc8 18. Qxd5 Bxc3 19. Qxd8 Rcxd8+ 20. Kc2 Bg7 21. Rbd1 Re2+ 22. Kb1 Rxb2+ 23. Kc1 Rc8# 0-1
+

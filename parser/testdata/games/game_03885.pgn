@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/bmbd2ubU"]
+[White "Slayzer"]
+[Black "divinchee"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:45"]
+[WhiteElo "1518"]
+[BlackElo "1497"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+1"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.22] } 1... e5 { [%eval 0.33] } 2. Nf3 { [%eval 0.33] } 2... Nf6 { [%eval 0.52] } 3. Bc4?! { [%eval -0.36] } 3... Nc6?! { [%eval 0.29] } 4. O-O?! { [%eval -0.34] } 4... Bc5?! { [%eval 0.28] } 5. Re1 { [%eval 0.2] } 5... d6 { [%eval 0.32] } 6. c3 { [%eval 0.22] } 6... Bg4 { [%eval 0.58] } 7. d4? { [%eval -0.56] } 7... exd4?! { [%eval 0.06] } 8. cxd4? { [%eval -1.15] } 8... Nxd4 { [%eval -0.89] } 9. e5 { [%eval -1.22] } 9... dxe5 { [%eval -1.02] } 10. Rxe5+ { [%eval -1.22] } 10... Kf8 { [%eval -1.06] } 11. h3?? { [%eval -10.24] } 11... Bxf3?? { [%eval -2.08] } 12. gxf3 { [%eval -1.48] } 12... Nxf3+?? { [%eval 2.18] } 13. Qxf3 { [%eval 2.1] } 13... Qd1+?? { [%eval 16.2] } 14. Qxd1 { [%eval 15.84] } 14... Kg8 { [%eval 28.52] } 15. Rxc5 { [%eval 27.16] } 15... c6 { [%eval 26.37] } 16. Qf3 { [%eval 22.94] } 16... h6 { [%eval 23.91] } 17. Bxh6 { [%eval 16.62] } 17... gxh6?! { [%eval #8] } 18. Qg3+ { [%eval #11] } 18... Kf8 { [%eval #11] } 19. Bxf7?! { [%eval 17.42] } 19... Kxf7 { [%eval 16.87] } 20. Rf5? { [%eval 8.31] } 20... Rhg8 { [%eval 8.04] } 21. Qxg8+? { [%eval 6.42] } 21... Kxg8?? { [%eval 11.45] } 22. Rxf6 { [%eval 11.19] } 22... Rf8 { [%eval 12.52] } 23. Rxf8+ { [%eval 12.27] } 23... Kxf8 { [%eval 12.04] } 24. Nc3 { [%eval 11.66] } 24... c5 { [%eval 49.8] } 25. Re1 { [%eval 14.16] } 25... Kf7 { [%eval 51.9] } 26. Re5 { [%eval 13.31] } 26... Kg6?! { [%eval #14] } 27. Re7 { [%eval #14] } 27... Kf6 { [%eval #13] } 28. Rxb7 { [%eval #13] } 28... Ke6 { [%eval #11] } 29. Rxa7 { [%eval #10] } 29... Kd6 { [%eval #10] } 30. Rh7 { [%eval #11] } 30... Ke5 { [%eval #9] } 31. Rxh6 { [%eval #8] } 31... Kd4 { [%eval #8] } 32. Rc6 { [%eval #10] } 32... Kd3 { [%eval #9] } 33. Rxc5 { [%eval #8] } 33... Kc2 { [%eval #8] } 34. h4 { [%eval #8] } 34... Kxb2 { [%eval #8] } 35. h5 { [%eval #7] } 35... Kc2 { [%eval #7] } 36. h6 { [%eval #6] } 36... Kc1 { [%eval #5] } 37. h7 { [%eval #4] } 37... Kc2 { [%eval #4] } 38. h8=Q { [%eval #3] } 38... Kb2 { [%eval #3] } 39. Qg7?! { [%eval #3] } 39... Kc2 { [%eval #3] } 40. Qf6?! { [%eval #3] } 40... Kb2 { [%eval #3] } 41. Qe5?! { [%eval #3] } 41... Kc2 { [%eval #3] } 42. f3?! { [%eval #3] } 42... Kb2 { [%eval #3] } 43. f4?! { [%eval #3] } 43... Kc2 { [%eval #3] } 44. f5?! { [%eval #3] } 44... Kb2 { [%eval #3] } 1/2-1/2
+

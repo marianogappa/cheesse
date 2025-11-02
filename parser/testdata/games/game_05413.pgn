@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3MOtJdwp"]
+[White "MarceloCuadras"]
+[Black "slonechka"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:53"]
+[WhiteElo "1704"]
+[BlackElo "1650"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. e4 e5 2. d3 Bc5 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O h6 7. a3 a5 8. Bd2 c6 9. h3 b5 10. b3 Be6 11. a4 b4 12. Nb1 Qd7 13. c3 Bxh3 14. gxh3 Qxh3 15. Nh2 g6 16. Bg4 Qxd3 17. Bxh6 Qxd1 18. Bxd1 Re8 19. cxb4 axb4 20. Nd2 Bd4 21. Rc1 Kh7 22. Bg5 Nfd7 23. Kg2 Rh8 24. Rh1 Kg7 25. Bg4 c5 26. Ndf3 f6 27. Bd2 Nb6 28. Be6 Nc6 29. Bd5 Nxd5 30. exd5 Ne7 31. Nxd4 exd4 32. Bf4 Rad8 33. a5 Nxd5 34. Bg3 f5 35. f4 Ra8 36. Ra1 Ne3+ 37. Kf3 Nc2 38. Ra4 Ne3 39. a6 Nd5 40. a7 Nc7 41. Re1 Kf6 42. Nf1 Rh1 43. Nd2 Rxe1 44. Bxe1 Nb5 45. Nc4 Ke6 46. Nb6 Rxa7 47. Rxa7 Nxa7 48. Ke2 Nb5 49. Kd3 Nc3 50. Nc4 d5 51. Ne5 Kf6 52. Nd7+ Ke7 53. Nxc5 Ne4 54. Na4 Kf6 55. Kxd4 Nd6 56. Bxb4 Ne4 57. Kxd5 Nf2 58. Bc5 Nh3 59. Be3 Nxf4+ 60. Bxf4 g5 61. Be5+ Kg6 62. b4 g4 63. b5 Kg5 64. b6 f4 65. b7 g3 66. b8=Q g2 67. Qg8+ Kf5 68. Qxg2 f3 69. Qxf3+ Kg5 70. Qf4+ Kg6 71. Ke6 Kh7 72. Kf6 Kg8 73. Qg5+ Kf8 74. Qg7+ Ke8 75. Qe7# 1-0
+

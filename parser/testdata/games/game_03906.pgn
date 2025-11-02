@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/C1BAuAqI"]
+[White "fmarco76"]
+[Black "apparatman"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:53"]
+[WhiteElo "1425"]
+[BlackElo "1508"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "C44"]
+[Opening "Ponziani Opening"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. d4 dxe4 5. Nxe5 Nxe5 6. dxe5 Qxd1+ 7. Kxd1 Bg4+ 8. Be2 O-O-O+ 9. Nd2 Bxe2+ 10. Kxe2 Re8 11. Re1 Rxe5 12. Kf1 Bd6 13. Nxe4 Kb8 14. Nxd6 Rxe1+ 15. Kxe1 cxd6 16. Bf4 Kc7 17. Rd1 Nf6 18. Rxd6 Re8+ 19. Kf1 Kc8 20. Rd4 h6 21. Ra4 a6 22. Rc4+ Kd8 23. Rc7 Nd5 24. Rxb7 Nxf4 25. Rb8+ Kd7 26. Rb7+ Kc8 27. Rb4 Nd3 28. Rc4+ Kb7 29. b3 Re1# 0-1
+

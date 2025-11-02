@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SR9KHKmj"]
+[White "Dragm97"]
+[Black "Jason_and_Medea"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:29"]
+[WhiteElo "1758"]
+[BlackElo "1973"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Central Variation, Rubinstein Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 dxc4 3. e4 c5 4. Bxc4 Qxd4 5. Qxd4 cxd4 6. Nf3 Nc6 7. Bf4 f6 8. e5 Bg4 9. Nbd2 O-O-O 10. e6 Na5 11. Rc1 Nc6 12. b4 a6 13. Bxa6 g5 14. Bg3 h5 15. h3 Bxe6 16. Bb5 Rd5 17. Bxc6 bxc6 18. Rxc6+ Kd8 19. Rxe6 Ke8 20. O-O Kf7 21. Re4 e5 22. Nc4 Ne7 23. a4 Nf5 24. b5 Bb4 25. Rb1 Bc3 26. Re2 Rc8 27. Na3 Ra8 28. h4 Rxa4 29. hxg5 Rxa3 30. b6 Rd8 31. b7 Rb8 0-1
+

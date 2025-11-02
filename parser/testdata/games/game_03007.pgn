@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sDQkCWAZ"]
+[White "matpower"]
+[Black "Pukimaci"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:15"]
+[WhiteElo "1920"]
+[BlackElo "1820"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "C84"]
+[Opening "Ruy Lopez: Closed Variations, Center Attack"]
+[TimeControl "360+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 b5 7. Bb3 exd4 8. e5 Ne4 9. Bd5 Nc5 10. Nxd4 Bb7 11. Nf5 O-O 12. Bh6 gxh6 13. Nxh6+ Kg7 14. Nf5+ Kh8 15. Qg4 Rg8 16. Qh5 Nxe5 17. Bxb7 Nxb7 18. Nh6 Rg5 19. Nxf7+ Nxf7 20. Qxf7 Nd6 21. Qf3 Qg8 22. Nd2 Rf8 23. Qh3 Nc4 24. Nf3 Rgf5 25. Ne1 Bc5 26. Nd3 Qf7 27. Nxc5 Rxc5 28. Rad1 d6 29. b3 Ne5 30. c3 Qf5 31. Qxf5 Rxf5 32. Rc1 Ng4 33. h3 Ne5 34. Rc2 Nd3 35. Re2 Rxc3 36. Re8+ Kg7 37. Re7+ Rf7 38. Re3 c5 39. Rd1 c4 40. bxc4 bxc4 41. Rg3+ Kf8 42. Rg4 Rxf2 43. Rxd3 cxd3 44. Kxf2 Rc2+ 45. Ke3 1-0
+

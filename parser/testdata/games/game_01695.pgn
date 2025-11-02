@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/KFfdp70S"]
+[White "luarrg"]
+[Black "JuanAntonio"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:23"]
+[WhiteElo "1636"]
+[BlackElo "1612"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "C45"]
+[Opening "Scotch Game: Schmidt Variation"]
+[TimeControl "10800+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 a5 7. O-O Ba6 8. a4 Bxd3 9. cxd3 Bd6 10. Nc3 O-O 11. Bg5 h6 12. Bxf6 Qxf6 13. h3 Qe5 14. f4 Qd4+ 15. Kh1 Bb4 16. Rc1 Bxc3 17. Rxc3 Rab8 18. Qc2 Qa7 19. e5 d6 20. exd6 cxd6 21. Rxc6 Rb6 22. Rc7 Qb8 23. Rc4 Rxb2 24. Qc3 Qb7 25. Re4 f5 26. Qc4+ d5 27. Re7 dxc4 28. Rxb7 Rxb7 29. g4 cxd3 30. gxf5 Rxf5 31. Rd1 Rd7 32. Kg2 Rxf4 33. Kg3 Rxa4 34. Kf3 Rc4 35. h4 d2 36. Ke3 Rc1 37. Rxd2 Rxd2 38. Kxd2 Rc5 39. Kd3 a4 40. Kd4 Rc8 41. Kd5 a3 42. Kd6 a2 43. Kd7 Rb8 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/cweR7c0I"]
+[White "DanGG"]
+[Black "robinsjp"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:06"]
+[WhiteElo "1484"]
+[BlackElo "1658"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "A43"]
+[Opening "Old Benoni Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 c5 2. c3 g6 3. Nf3 Bg7 4. e3 Nf6 5. e4 O-O 6. e5 Ne8 7. g3 d6 8. Bg2 Nc6 9. exd6 exd6 10. d5 Ne5 11. Nxe5 Bxe5 12. Bg5 Qxg5 13. h4 Qg4 14. Bf3 Qa4 15. b3 Qd7 16. Nd2 Nf6 17. Nc4 Re8 18. Nxe5 Rxe5+ 19. Kd2 b5 20. Re1 Qe8 21. Rxe5 Qxe5 22. Kc2 Bf5+ 23. Kb2 Re8 24. Rc1 b4 25. Qd2 Ne4 26. Bxe4 Bxe4 27. a3 bxc3+ 28. Rxc3 Qxd5 29. Rc4 Qxd2+ 30. Rc2 Qxc2+ 31. Ka1 Qb1# 0-1
+

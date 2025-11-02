@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZB2nC9I3"]
+[White "OhImSorry"]
+[Black "lazaro02n"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:22"]
+[WhiteElo "2021"]
+[BlackElo "1995"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. d3 e5 3. Ne2 d6 4. Nbc3 Nc6 5. h3 Be7 6. g3 f5 7. Bg2 Nf6 8. f4 O-O 9. O-O Nd4 10. Kh2 Qe8 11. a4 Qh5 12. Kg1 fxe4 13. Nxe4 Nxe4 14. dxe4 Bxh3 15. Nxd4 Qxd1 16. Rxd1 Bxg2 17. Kxg2 cxd4 18. f5 g6 19. g4 Kg7 20. c3 dxc3 21. bxc3 Rac8 22. Bd2 Rc4 23. Kf3 h5 24. gxh5 gxf5 25. Rh1 Rxe4 26. Rag1+ Kh7 27. h6 Bf6 28. Rg2 Rg8 29. Rhg1 Rxg2 30. Rxg2 Rh4 31. Rg1 Rh3+ 32. Kg2 Rd3 33. Rd1 Bg5 34. Rb1 Rxd2+ 35. Kf3 Kxh6 36. Rxb7 Rd3+ 37. Ke2 Rxc3 38. Rxa7 Ra3 39. a5 Bd8 40. a6 Bb6 41. Rd7 Rxa6 42. Rxd6+ Kg5 43. Kd3 e4+ 44. Kc4 Ra4+ 45. Kb5 Ra1 46. Kxb6 e3 47. Re6 f4 48. Kc5 Kg4 49. Kd5 Rd1+ 50. Kc4 Kg3 51. Rf6 e2 52. Rg6+ Kf2 53. Re6 e1=Q 54. Rb6 Rc1+ 55. Kb5 Qe4 56. Ka6 Qd3+ 57. Kb7 Ra1 58. Rb2+ 1-0
+

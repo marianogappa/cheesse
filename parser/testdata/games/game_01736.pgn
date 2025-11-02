@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/dmCHPdVx"]
+[White "zurka"]
+[Black "Gi69"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:34"]
+[WhiteElo "1687"]
+[BlackElo "1675"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-12"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. b3 c6 2. Bb2 d5 3. c3 Nf6 4. g3 e6 5. Bg2 Bd6 6. f3 O-O 7. e3 Nbd7 8. d3 e5 9. Nd2 Re8 10. Qe2 Nf8 11. g4 Ng6 12. h4 Nd7 13. h5 Ne7 14. Nh3 h6 15. g5 hxg5 16. Nxg5 Nf5 17. Nh3 Nf6 18. h6 Ng3 19. Qf2 Nxh1 20. Bxh1 gxh6 21. O-O-O Kf8 22. f4 exf4 23. Nxf4 Bxf4 24. exf4 Ke7 25. Qh4 Kd7 26. f5 Kc7 27. Qa4 a6 28. c4 Bxf5 29. cxd5 Nxd5 30. Nc4 Kb8 31. d4 Nb6 32. Nxb6 Qxb6 33. Qc4 Ka7 34. d5 cxd5 35. Qd4 Rac8+ 36. Kd2 Qxd4+ 37. Bxd4+ Ka8 38. Bxd5 Be4 39. Bxe4 Rxe4 40. Kd3 Rce8 41. Rc1 Re2 42. Kc4 Rxa2 43. Kb4 Ree2 44. Rc8# 1-0
+

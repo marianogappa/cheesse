@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/EUWpI8ap"]
+[White "santiagotocua"]
+[Black "Andimale"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:20"]
+[WhiteElo "1928"]
+[BlackElo "1597"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "C43"]
+[Opening "Petrov: Modern Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Qe7 5. Be2 Ne4 6. O-O d6 7. exd6 Nxd6 8. Bd3 Be6 9. Re1 Nc6 10. Ng5 O-O-O 11. Nxe6 fxe6 12. Bd2 e5 13. b4 Qf6 14. b5 Ne7 15. c4 b6 16. Qa4 Kb8 17. Qa6 Ng6 18. a4 Nf4 19. Bxf4 exf4 20. a5 Qf7 21. c5 Nxb5 22. Bxb5 c6 23. Bxc6 Bxc5 24. Na3 Rd6 25. Bf3 d3 26. Nc4 Rd7 27. axb6 Bxb6 28. Nxb6 Rd6 29. Reb1 Kc7 30. Qxa7+ Kd8 31. Qxf7 d2 32. Ra8# 1-0
+

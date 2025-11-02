@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/POky7TNj"]
+[White "drjossy"]
+[Black "Sigi_Reuven"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:02"]
+[WhiteElo "1800"]
+[BlackElo "1851"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Staunton-Cochrane Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. c4 Nc6 3. Nc3 e6 4. f4 Nge7 5. Nf3 a6 6. e5 d5 7. cxd5 Nxd5 8. Be2 Nxf4 9. d3 Nxe2 10. Qxe2 Nd4 11. Qd1 c4 12. Be3 Nf5 13. Bg5 Qxd3 14. Qxd3 cxd3 15. O-O Bc5+ 16. Kh1 O-O 17. Rfd1 h6 18. Bf4 g5 19. Bd2 b5 20. a3 Bb7 21. b4 Bxf3 22. gxf3 Bd4 23. Rab1 Rac8 24. Ne4 Bxe5 25. Nc5 Nh4 26. Nxd3 Nxf3 27. Nxe5 Nxe5 28. Be3 Rc2 29. Bc5 Nf3 30. Bg1 Rfc8 31. Rf1 g4 32. Rbd1 Ra2 33. Ra1 Rcc2 34. Rxa2 Rxa2 35. Rd1 Rxa3 36. Rf1 Nxg1 37. Rxg1 h5 38. Kg2 Rb3 39. Ra1 Rxb4 40. Rxa6 Kg7 41. Kg3 Kg6 42. Kh4 Rb3 0-1
+

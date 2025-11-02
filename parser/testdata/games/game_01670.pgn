@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/hfUTBfBM"]
+[White "decidement"]
+[Black "JonahBK"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:18"]
+[WhiteElo "2102"]
+[BlackElo "2457"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+4"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 d5 4. d4 cxd4 5. Nxd4 Nc6 6. exd5 exd5 7. Nxc6 bxc6 8. Bd3 Nf6 9. O-O Bd6 10. Bg5 O-O 11. Bh4 h6 12. f4 Be7 13. Kh1 Re8 14. Qf3 Bg4 15. Qg3 Bh5 16. Rad1 Rb8 17. b3 Kh8 18. a4 Qa5 19. Ne2 Ne4 20. Bxe4 Bxh4 21. Qxh4 Bxe2 22. Bd3 Bxd1 23. Rxd1 Qc3 24. h3 Re3 25. Qh5 Re1+ 26. Rxe1 Qxe1+ 27. Kh2 Kg8 28. Qf5 g6 29. Qf6 Qe8 30. Bxg6 fxg6 31. Qd6 Rd8 32. Qf6 Rd7 33. h4 Qf7 34. Qxc6 Kh7 35. g3 h5 36. Kh3 Re7 37. Qc3 Qf5+ 38. Kh2 Qe4 39. Qd2 Qe2+ 40. Qxe2 Rxe2+ 41. Kh3 Rxc2 42. b4 d4 43. b5 d3 44. a5 d2 45. b6 d1=Q 46. bxa7 Qh1# 0-1
+

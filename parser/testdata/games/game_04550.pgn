@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/NBrwbAjd"]
+[White "KingRod"]
+[Black "MisterChessOnline"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:28"]
+[WhiteElo "1625"]
+[BlackElo "1599"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nc3 a6 4. a3 Nf6 5. Nf3 d6 6. h3 Be6 7. Nd5 Be7 8. d3 Nxd5 9. exd5 b5 10. Ba2 Nd4 11. dxe6 fxe6 12. Nxd4 exd4 13. Bxe6 1-0
+

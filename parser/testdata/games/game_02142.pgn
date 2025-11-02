@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/dXcGy7wO"]
+[White "Curlack"]
+[Black "jennissen"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:07"]
+[WhiteElo "1753"]
+[BlackElo "1815"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Nf3 Bg4 7. h3 Bh5 8. Bc4 e6 9. O-O Be7 10. Re1 O-O 11. Bf4 Nc6 12. e5 dxe5 13. Qxd8 Rfxd8 14. Bxe5 Nxe5 15. Nxe5 Rac8 16. Ne4 Bg6 17. Bd3 Nxe4 18. Bxe4 Bxe4 19. Rxe4 Rxc2 20. b4 Rdd2 21. Rf4 Bf6 22. Re1 Bxe5 23. Rxe5 Rxa2 24. b5 a5 25. Rc5 Rac2 26. Rfc4 Rxc4 27. Rxc4 g5 28. Rc7 a4 29. Rxb7 a3 30. Ra7 a2 31. Kh2 Rxf2 32. b6 Rb2 33. b7 Rxb7 34. Rxa2 f5 35. Re2 Kf7 36. Rf2 Kf6 37. g4 f4 38. h4 e5 39. h5 e4 40. Rc2 e3 41. Kg2 Rd7 42. Kf3 h6 43. Rc6+ Kg7 44. Rg6+ Kh7 45. Re6 Rc7 46. Rd6 Re7 47. Rd1 e2 48. Re1 Kg7 49. Rxe2 Rxe2 50. Kxe2 Kf6 51. Kf3 Ke5 52. Kf2 Ke4 53. Ke2 f3+ 54. Kf2 Kf4 0-1
+

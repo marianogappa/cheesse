@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GVaE5qvS"]
+[White "Musasdomesticas"]
+[Black "leynk21"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:29"]
+[WhiteElo "1493"]
+[BlackElo "1356"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Bc5 3. d4 exd4 4. Nxd4 Qf6 5. Be3 Nc6 6. Nxc6 Bxe3 7. fxe3 Qxc6 8. Bd3 Nh6 9. O-O O-O 10. Nc3 d6 11. Nd5 Ng4 12. Ne7+ Kh8 13. Nxc6 bxc6 14. Qf3 f5 15. exf5 Bxf5 16. Bxf5 Rxf5 17. Qxf5 Nxe3 18. Qf8+ Rxf8 19. Rxf8# 1-0
+

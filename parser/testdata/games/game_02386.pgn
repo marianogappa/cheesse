@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3HxjmjAN"]
+[White "Rafless"]
+[Black "eloway"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:05"]
+[WhiteElo "1399"]
+[BlackElo "1419"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Damiano Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 f6 3. Be2 g5 4. d4 g4 5. Nh4 Nh6 6. Bxg4 Nxg4 7. Qxg4 Rg8 8. Qh5+ Ke7 9. Qxh7+ Bg7 10. Nf5+ Ke6 11. Nxg7+ Kd6 12. Nf5+ Ke6 13. Qh3 exd4 14. Nh6+ Ke7 15. Nxg8+ Qxg8 16. Bf4 d6 17. Nd2 Bxh3 18. gxh3 Qg2 19. O-O-O Qxf2 20. Bg3 Qe3 21. Kb1 d3 22. Nc4 dxc2+ 23. Kxc2 Qxe4+ 24. Kc1 Qxc4+ 25. Kb1 Nc6 26. Rc1 Qd3+ 27. Ka1 Nb4 28. Rhe1+ Kf7 29. a3 Nc2+ 30. Ka2 Nxe1 31. Rxe1 Qd5+ 32. Ka1 Re8 33. Rc1 Re2 34. Rxc7+ Ke6 35. Rc8 Qb3 36. Re8+ Kd5 37. Rxe2 Qd1+ 38. Ka2 Qxe2 39. h4 f5 40. a4 Qc4+ 41. b3 Qc2+ 42. Ka3 Qg2 43. h5 Qf3 44. h6 f4 45. Be1 Qh5 46. Bf2 Qxh2 47. Bxa7 f3 48. Bb6 f2 49. Bxf2 Qxf2 50. h7 Qf8 51. a5 Qh8 52. Ka4 Qxh7 53. b4 Qd7+ 54. Ka3 Kc4 55. a6 bxa6 56. b5 Qxb5 0-1
+

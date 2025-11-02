@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Go2bMR4n"]
+[White "cittavecchia"]
+[Black "MoonLight_i_i_i"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:35"]
+[WhiteElo "1738"]
+[BlackElo "1722"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d3 Nc6 3. c3 Nf6 4. f4 exf4 5. Bxf4 d5 6. e5 Bg4 7. Be2 Nh5 8. Bxg4 Nxf4 9. Qf3 Nxe5 10. Qxf4 Nxd3+ 11. Kd2 Nxf4 12. Nf3 Be7 13. g3 Ne6 14. Kc2 O-O 15. Nbd2 c6 16. h4 a5 17. h5 h6 18. Bxe6 fxe6 19. Ne5 Rf2 20. Rhf1 Rxf1 21. Rxf1 Bf6 22. Ng6 Qd6 23. g4 Bg5 24. Nf3 Rf8 25. Nxf8 Kxf8 26. Nxg5+ Kg8 27. Nf3 e5 28. g5 hxg5 29. Nxg5 e4 30. h6 Qh2+ 31. Kb3 Qxh6 32. Nf7 Qe6 33. Ng5 Qe5 34. Rg1 b5 35. a4 bxa4+ 36. Kxa4 Qd6 37. Rf1 c5 38. Rf7 e3 39. Nf3 e2 40. Ra7 d4 41. Rxa5 d3 42. Ra8+ Kh7 43. Re8 Qd7+ 0-1
+

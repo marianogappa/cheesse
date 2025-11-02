@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Bp7HO0I3"]
+[White "balack"]
+[Black "Flaccid"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:55"]
+[WhiteElo "2236"]
+[BlackElo "2422"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+27"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Queen's Gambit Invitation"]
+[TimeControl "45+0"]
+[Termination "Normal"]
+
+1. Nf3 { [%eval 0.18] } 1... e6 { [%eval 0.24] } 2. g3 { [%eval -0.04] } 2... Ne7 { [%eval 0.38] } 3. d3 { [%eval 0.08] } 3... d5 { [%eval 0.03] } 4. Bg2 { [%eval 0.11] } 4... c5 { [%eval 0.21] } 5. O-O { [%eval 0.12] } 5... Nbc6 { [%eval 0.08] } 6. c3 { [%eval -0.06] } 6... d4?! { [%eval 0.48] } 7. e4?! { [%eval -0.2] } 7... e5 { [%eval -0.2] } 8. cxd4 { [%eval -0.22] } 8... exd4?! { [%eval 0.39] } 9. Nbd2 { [%eval -0.01] } 9... f6? { [%eval 1.95] } 10. Nc4?! { [%eval 1.04] } 10... Ng6?! { [%eval 1.6] } 11. a4? { [%eval 0.22] } 11... b5?? { [%eval 4.35] } 12. Rb1?? { [%eval -2.32] } 12... bxc4 { [%eval -2.15] } 13. dxc4? { [%eval -3.36] } 13... Nb4? { [%eval -2.28] } 14. Bd2?! { [%eval -3.08] } 14... Nd3? { [%eval -0.12] } 15. Qc2? { [%eval -2.17] } 15... Nde5 { [%eval -2.16] } 16. Bf4? { [%eval -3.7] } 16... d3?! { [%eval -2.84] } 17. Qc3? { [%eval -3.86] } 17... Nxf4 { [%eval -3.38] } 18. gxf4 { [%eval -3.54] } 18... Nxf3+? { [%eval -2.39] } 19. Bxf3 { [%eval -2.49] } 19... Qd4 { [%eval -2.34] } 20. Qa5 { [%eval -2.74] } 20... Rb8?! { [%eval -2.12] } 21. b4? { [%eval -4.74] } 21... cxb4 { [%eval -4.77] } 22. Qxa7?? { [%eval -17.78] } 22... Qxa7 { [%eval -17.5] } 23. e5 { [%eval -17.66] } 23... Bc5 { [%eval -17.26] } 24. Rbd1 { [%eval -18.89] } 24... Bf5 { [%eval -18.47] } 25. Bd5 { [%eval -19.27] } 25... Qe7 { [%eval -18.5] } 26. Rfe1 { [%eval -19.78] } 26... Kd8 { [%eval -18.83] } 27. exf6 { [%eval -22.81] } 27... Qxf6 { [%eval -22.37] } 28. Re5 { [%eval -22.22] } 28... Qg6+ { [%eval -20.63] } 29. Kf1?! { [%eval #-7] } 29... Re8?! { [%eval -29.02] } 30. Rde1?! { [%eval #-2] } 30... Bh3+ { [%eval #-1] } 0-1
+

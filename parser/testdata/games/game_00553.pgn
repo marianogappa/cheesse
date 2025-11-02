@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Sh3mimb9"]
+[White "richir"]
+[Black "X-Botty"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:01"]
+[WhiteElo "1696"]
+[BlackElo "1667"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 c5 3. f4 Nc6 4. Nf3 a6 5. Be2 Bf5 6. O-O e6 7. Kh1 Nb4 8. d3 Ne7 9. c3 Nbc6 10. a3 b5 11. d4 Nc8 12. Bd3 Bxd3 13. Qxd3 Be7 14. Be3 c4 15. Qc2 Na5 16. Nbd2 Nc6 17. f5 O-O 18. f6 gxf6 19. Bh6 fxe5 20. Nxe5 Nxe5 21. dxe5 Re8 22. Rf3 Kh8 23. Raf1 Rg8 24. Rxf7 1-0
+

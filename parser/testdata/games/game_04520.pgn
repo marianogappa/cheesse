@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/2iY71NZR"]
+[White "Chris25t"]
+[Black "tatoman"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:20"]
+[WhiteElo "1063"]
+[BlackElo "989"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. d3 dxe4 3. dxe4 Qxd1+ 4. Kxd1 Bg4+ 5. Be2 e5 6. Bxg4 Bb4 7. Bd2 a5 8. a3 Nf6 9. axb4 Nxg4 10. Ke1 Nc6 11. b5 Nb4 12. Bxb4 axb4 13. Rxa8+ Kd7 14. Rxh8 c5 15. Rxh7 Kc7 16. Rxg7 Kb6 17. c4 b3 18. Rxg4 Ka5 19. Nf3 Kb4 20. Nxe5 f6 21. Nd7 Kxc4 22. b6 Kd4 23. e5+ Kd5 24. exf6 Ke6 25. Rg7 c4 26. f7 Kxd7 27. f8=Q+ Kc6 28. Ke2 Kxb6 29. Rc1 Kb5 30. h4 Ka4 31. h5 c3 32. Nxc3+ 1-0
+

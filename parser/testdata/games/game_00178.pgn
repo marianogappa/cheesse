@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/7AY5RWqQ"]
+[White "baryk"]
+[Black "Bertrony"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:31"]
+[WhiteElo "1649"]
+[BlackElo "1373"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qc5 4. Ne4 Qe5 5. Bd3 f5 6. Nf3 Qe6 7. Ng5 Qe5 8. f4 Qxf4 9. Rf1 Qxh2 10. Rxf5 Qg1+ 11. Bf1 g6 12. Nf3 gxf5 13. Nxg1 fxe4 14. Qh5+ Kd8 15. Qd5+ Nd7 16. Qxe4 Ngf6 17. b3 Nxe4 18. Bb2 Rg8 19. O-O-O Nf2 20. Re1 Bg7 21. Bc4 Bxb2+ 22. Kxb2 Rf8 23. Re2 Nb6 24. Nf3 Nxc4+ 25. bxc4 Ng4 26. Re4 Nf6 27. Rf4 Bg4 28. Ng5 Bd1 29. Nxh7 Rg8 30. Nxf6 exf6 31. Rxf6 Ke7 32. Rf1 Bh5 33. Rh1 Be8 34. Rh7+ Bf7 35. Rh2 Rad8 36. d3 a6 37. Rh1 Rxg2 38. Re1+ Be6 39. Re4 b5 40. cxb5 a5 41. Ra4 Ra8 42. Re4 Rb8 43. Re5 Rg4 44. c4 a4 45. Ka3 Ra8 46. Kb4 Rg3 47. d4 Rd3 48. d5 Kf6 49. Rxe6+ Kf5 50. Rc6 Rd2 51. a3 Rb2+ 52. Kc5 Rc8 53. d6 Ke6 54. dxc7+ Kd7 55. b6 Rb3 56. Rd6+ Ke7 57. Kc6 Rxa3 58. Rd7+ Ke8 59. b7 Rxc7+ 60. Kxc7 Rc3 61. b8=Q# 1-0
+

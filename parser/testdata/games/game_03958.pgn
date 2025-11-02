@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gAbQVP3z"]
+[White "ushbay"]
+[Black "xerop"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:04"]
+[WhiteElo "1421"]
+[BlackElo "1523"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-13"]
+[ECO "E21"]
+[Opening "Nimzo-Indian Defense: Three Knights Variation"]
+[TimeControl "240+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Nf3 O-O 5. Qc2 c5 6. dxc5 Bxc5 7. Bf4 d5 8. cxd5 exd5 9. Rd1 Be6 10. e4 Qa5 11. exd5 Bg4 12. Be2 Bxf2+ 13. Kxf2 Qc5+ 14. Be3 Qd6 15. h3 Bh5 16. Ng5 Bg6 17. Qb3 Nbd7 18. Qxb7 Nc5 19. Qc6 Nce4+ 20. Ncxe4 Nxe4+ 21. Nxe4 Qxc6 22. dxc6 Bxe4 23. Rc1 Rac8 24. c7 Rfe8 25. Bg4 f5 26. Bh5 Re7 27. Bf4 g6 28. Bf3 Bxf3 29. Kxf3 h6 30. Rhe1 Rxe1 31. Rxe1 Kf7 32. Rc1 g5 33. Be5 Ke6 34. Bh2 f4 35. g3 Kd6 36. gxf4 Rxc7 37. Rxc7 Kxc7 38. fxg5+ Kd7 39. gxh6 Ke8 40. Be5 1-0
+

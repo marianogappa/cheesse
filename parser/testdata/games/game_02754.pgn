@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/DbTupN5v"]
+[White "sanelica88"]
+[Black "mrbnk"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:19"]
+[WhiteElo "1895"]
+[BlackElo "1957"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-14"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation, Monte Carlo Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 dxc4 5. Bxc4 Bb4+ 6. Nc3 Nf6 7. Nf3 O-O 8. O-O Bg4 9. Bg5 Nc6 10. d5 Ne5 11. Be2 Bxc3 12. bxc3 Qxd5 13. Nxe5 Bxe2 14. Qxe2 Rfe8 15. Rfe1 Nd7 16. Qc4 Rxe5 17. Qxd5 Rxd5 18. Re7 Rxg5 19. Rxd7 Rc8 20. Re1 Rc5 21. Re3 h6 22. Rf3 f6 23. h3 Rf8 24. Rg3 Rf7 25. Rd8+ Kh7 26. Ra8 Ra5 27. Rb8 b6 28. Rg4 Rxa2 29. Rc4 a5 30. Rb7 Ra1+ 31. Kh2 Ra2 32. Rcxc7 Rxc7 33. Rxc7 Rxf2 34. Rb7 Rc2 35. Rxb6 Rxc3 36. Ra6 Ra3 37. g3 Ra2+ 38. Kg1 a4 39. h4 a3 40. g4 Ra1+ 41. Kg2 a2 42. h5 Kg8 43. Ra7 Kf8 44. Kf2 Ke8 45. Ke2 Kd8 46. Kd2 Kc8 47. Kc2 Rg1 48. Kb2 Rxg4 49. Kxa2 f5 50. Rf7 Rg5 51. Kb3 Rxh5 52. Rxg7 Rg5 53. Rf7 Kd8 54. Kc4 Ke8 55. Rh7 h5 56. Kd3 h4 57. Ke3 Rg4 58. Kf3 Kf8 59. Kf2 Kg8 60. Rh5 Kg7 61. Rxf5 Kg6 62. Rf3 Kg5 63. Rh3 1-0
+

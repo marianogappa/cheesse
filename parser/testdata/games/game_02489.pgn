@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/f1yN6eWz"]
+[White "fendo59"]
+[Black "Stas1977tim"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:24"]
+[WhiteElo "2002"]
+[BlackElo "2018"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Krause Variation"]
+[TimeControl "480+5"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.19] } 1... d5 { [%eval 0.27] } 2. Nf3 { [%eval 0.1] } 2... c5 { [%eval 0.36] } 3. c3 { [%eval 0.06] } 3... cxd4 { [%eval 0.23] } 4. cxd4 { [%eval 0.22] } 4... Nc6 { [%eval 0.22] } 5. e3 { [%eval -0.16] } 5... a6 { [%eval -0.02] } 6. Be2 { [%eval -0.05] } 6... Nf6 { [%eval 0.0] } 7. Nc3 { [%eval 0.0] } 7... e6 { [%eval 0.05] } 8. O-O { [%eval -0.08] } 8... Bb4 { [%eval 0.2] } 9. Qc2 { [%eval 0.1] } 9... O-O { [%eval 0.2] } 10. Nd2 { [%eval -0.19] } 10... e5 { [%eval -0.04] } 11. dxe5 { [%eval -0.21] } 11... Nxe5 { [%eval -0.05] } 12. a3 { [%eval -0.35] } 12... Ba5 { [%eval 0.09] } 13. b4 { [%eval 0.08] } 13... Bc7 { [%eval 0.17] } 14. Bb2 { [%eval 0.13] } 14... Qd6 { [%eval 0.1] } 15. g3 { [%eval 0.07] } 15... Bh3 { [%eval 0.33] } 16. Rfd1 { [%eval 0.3] } 16... Qc6 { [%eval 0.56] } 17. Bf1?! { [%eval -0.36] } 17... Bg4?! { [%eval 0.19] } 18. Rdc1 { [%eval 0.08] } 18... Nf3+? { [%eval 1.29] } 19. Nxf3 { [%eval 1.18] } 19... Bxf3 { [%eval 1.29] } 20. Ne2 { [%eval 0.97] } 20... Qxc2 { [%eval 1.12] } 21. Rxc2 { [%eval 1.04] } 21... Rac8?? { [%eval 4.54] } 22. Bxf6 { [%eval 4.3] } 22... gxf6? { [%eval 5.85] } 23. Rac1 { [%eval 5.64] } 23... d4? { [%eval 6.86] } 24. Rxc7? { [%eval 3.94] } 24... Rxc7 { [%eval 3.93] } 25. Rxc7 { [%eval 3.82] } 25... d3 { [%eval 3.8] } 26. Nc3 { [%eval 3.81] } 26... Rd8?! { [%eval 4.62] } 27. Rxb7?? { [%eval -4.85] } 27... Bxb7 { [%eval -4.64] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/rPCB7yMQ"]
+[White "W_G_Sebald"]
+[Black "pekkejosue"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:01"]
+[WhiteElo "2080"]
+[BlackElo "2194"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+19"]
+[ECO "B08"]
+[Opening "Pirc Defense: Classical Variation, Quiet System"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.22] } 1... d6 { [%eval 0.47] } 2. d4 { [%eval 0.39] } 2... Nf6 { [%eval 0.52] } 3. Nc3 { [%eval 0.37] } 3... g6 { [%eval 0.53] } 4. Be2 { [%eval 0.43] } 4... Bg7 { [%eval 0.43] } 5. Nf3 { [%eval 0.3] } 5... O-O { [%eval 0.45] } 6. O-O { [%eval 0.41] } 6... Nbd7 { [%eval 0.54] } 7. h3 { [%eval 0.18] } 7... e5 { [%eval 0.24] } 8. Be3 { [%eval -0.23] } 8... Re8?! { [%eval 0.74] } 9. d5 { [%eval 0.64] } 9... Nc5 { [%eval 0.75] } 10. Nd2 { [%eval 0.62] } 10... a5 { [%eval 0.68] } 11. a4 { [%eval 0.65] } 11... c6 { [%eval 0.85] } 12. dxc6?! { [%eval 0.12] } 12... bxc6 { [%eval 0.26] } 13. Bxc5 { [%eval 0.11] } 13... dxc5 { [%eval 0.18] } 14. Nb3 { [%eval 0.01] } 14... Qe7 { [%eval 0.04] } 15. Bc4 { [%eval -0.07] } 15... Nh5 { [%eval 0.0] } 16. Ne2 { [%eval -0.22] } 16... Nf4 { [%eval -0.03] } 17. Nxf4 { [%eval -0.14] } 17... exf4 { [%eval 0.0] } 18. c3 { [%eval -0.1] } 18... Rb8 { [%eval -0.14] } 19. f3?! { [%eval -0.69] } 19... Qa7?! { [%eval 0.0] } 20. Kh1?! { [%eval -0.53] } 20... Be6 { [%eval -0.39] } 21. Qe2?? { [%eval -3.66] } 21... Rxb3 { [%eval -3.62] } 22. Bxb3 { [%eval -3.56] } 22... Bxb3 { [%eval -3.29] } 0-1
+

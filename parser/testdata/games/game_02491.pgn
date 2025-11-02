@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OlvC42lU"]
+[White "johor65"]
+[Black "TomoKnez"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:31"]
+[WhiteElo "1784"]
+[BlackElo "1740"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+1"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. g3 d6 2. Bg2 Nd7 3. b3 g6 4. Bb2 Ngf6 5. d3 Bg7 6. Nf3 O-O 7. O-O e5 8. Nbd2 c6 9. a3 Nb6 10. b4 Bg4 11. c3 Nbd5 12. Qc2 Re8 13. e4 Ne7 14. c4 b6 15. d4 Nd7 16. dxe5 Nxe5 17. Nxe5 Bxe5 18. Bxe5 dxe5 19. Qb2 f6 20. Rfe1 Qc7 21. f3 Be6 22. Rac1 Red8 23. Nb3 Rd7 24. Qc2 Rad8 25. c5 b5 26. Re2 Bxb3 27. Qxb3+ Kg7 28. Rce1 a5 29. Bh3 Rd3 30. Qb2 axb4 31. axb4 Rxf3 32. Re3 Rd3 33. Rxf3 Rxf3 34. Qe2 Ra3 35. Rd1 Qa7 36. Qd2 Ra1 37. Qd7 Rxd1+ 38. Qxd1 Qc7 39. Be6 f5 40. Qd3 Kf6 41. Bb3 fxe4 42. Qxe4 Qd7 43. Qf3+ Qf5 44. Qf2 Qxf2+ 45. Kxf2 Kf5 46. Kf3 e4+ 47. Ke3 Ke5 48. Bc2 Nf5+ 49. Kf2 Nd4 50. Bb1 g5 51. Ke3 Nb3 52. Bxe4 Nc1 53. Bxc6 Na2 54. Bxb5 Nxb4 55. c6 Kd6 56. Kd4 Nxc6+ 57. Bxc6 Kxc6 58. Ke5 Kd7 59. Kf5 Ke7 60. Kxg5 Kf7 61. Kh6 Kg8 62. g4 Kh8 63. g5 Kg8 64. h4 Kh8 65. h5 Kg8 66. g6 hxg6 67. hxg6 Kh8 68. Kg5 Kg7 69. Kf5 Kg8 70. Kf6 Kf8 71. g7+ Kg8 1/2-1/2
+

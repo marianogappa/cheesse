@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/sr0M3FOe"]
+[White "EnergyGap"]
+[Black "DrDat"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:34"]
+[WhiteElo "1374"]
+[BlackElo "1445"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. d4 c6 2. e4 e6 3. Nf3 Qa5+ 4. Nc3 Bb4 5. a3 Bxc3+ 6. bxc3 Qxc3+ 7. Bd2 Qb2 8. Bd3 Qb6 9. O-O Qd8 10. Ng5 f6 11. Qh5+ Ke7 12. Qf7+ Kd6 13. Bb4+ Kc7 14. Qxg7 Ne7 15. Bxe7 Qe8 16. Bxf6 Qg8 17. Qe7 Qe8 18. Nxe6+ Kb6 19. Rab1+ Ka5 20. Qc5+ Ka4 21. Qb4# 1-0
+

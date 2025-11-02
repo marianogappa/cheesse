@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/hvTa70Cw"]
+[White "TJK125HQF"]
+[Black "bogdan81"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:34"]
+[WhiteElo "2047"]
+[BlackElo "1993"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "C33"]
+[Opening "King's Gambit Accepted, Polerio Gambit"]
+[TimeControl "420+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. d4 Qh4+ 4. Ke2 d6 5. Nf3 Bg4 6. Bxf4 Bxf3+ 7. Kxf3 g5 8. Be3 g4+ 9. Ke2 g3 10. h3 Qxe4 11. Nc3 Qg6 12. Kd2 h5 13. Bd3 Qe6 14. Re1 Ne7 15. Bf4 Qd7 16. Bxg3 Bh6+ 17. Ke2 Nbc6 18. Bb5 O-O-O 19. d5 Nxd5 20. Qxd5 Rde8+ 21. Kf1 Reg8 22. Qf3 Rg5 23. Ne4 Rf5 24. Qxf5 Qxf5+ 25. Kg1 Qxb5 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/0A7osbUV"]
+[White "bobbytal"]
+[Black "koreelev"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "1717"]
+[BlackElo "1710"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "C21"]
+[Opening "Danish Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. d4 exd4 3. c3 d6 4. cxd4 Be7 5. Nc3 Nf6 6. Be3 O-O 7. Nf3 Bg4 8. Bd3 Nc6 9. h3 Bh5 10. g4 Bg6 11. Qc2 Nb4 12. Qd2 Nxd3+ 13. Qxd3 b5 14. a3 a5 15. O-O b4 16. axb4 axb4 17. Rxa8 Qxa8 18. Nd5 Nxd5 19. h4 Nxe3 20. fxe3 Bxe4 21. Qxe4 Qxe4 22. Ng5 Bxg5 23. hxg5 Qxe3+ 24. Rf2 Qxd4 25. g6 Qxg4+ 26. Rg2 Qd1+ 27. Kh2 fxg6 28. b3 Qxb3 29. Rg3 Rf2+ 30. Kh3 Qe6+ 31. Kh4 Rh2+ 32. Kg5 Qf5# 0-1
+

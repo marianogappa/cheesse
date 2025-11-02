@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/o1mBPicp"]
+[White "valicious"]
+[Black "GaryKasparovJr"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:42"]
+[WhiteElo "1416"]
+[BlackElo "1403"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 e6 3. Bg5 Be7 4. Bxe7 Nxe7 5. Nbd2 O-O 6. e4 dxe4 7. Nxe4 Nbc6 8. Bb5 a6 9. Bc4 b5 10. Bb3 e5 11. d5 Nd4 12. Nxd4 exd4 13. Qxd4 Bb7 14. c4 bxc4 15. Bxc4 Re8 16. O-O Nf5 17. Qc3 Bxd5 18. Nc5 Bxc4 19. Qxc4 Nd6 20. Qc3 Ne4 21. Nxe4 Rxe4 22. b3 f5 23. Qc5 Qd7 24. Rad1 Qe6 25. Qxc7 Rc8 26. Rd8+ Rxd8 27. Qxd8+ Kf7 28. Qc7+ Kg6 29. Qd8 h6 30. f3 Re2 31. Qd3 Re3 32. Qd4 Re2 33. Qd3 Rxa2 34. g4 Qb6+ 35. Kh1 Kf7 36. Qxf5+ Kg8 37. Qc8+ Kh7 38. Qc4 Qb8 39. f4 Qb7+ 40. Kg1 Qg2# 0-1
+

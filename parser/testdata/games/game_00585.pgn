@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/wIu7Yspu"]
+[White "aspect86"]
+[Black "Pasttime"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:10"]
+[WhiteElo "1952"]
+[BlackElo "1658"]
+[WhiteRatingDiff "-20"]
+[BlackRatingDiff "+20"]
+[ECO "A40"]
+[Opening "Modern Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 g6 2. Nf3 Bg7 3. e3 f6 4. c4 Nh6 5. Nc3 Nf7 6. Bd3 O-O 7. O-O d6 8. e4 e5 9. d5 f5 10. exf5 gxf5 11. Bg5 Nxg5 0-1
+

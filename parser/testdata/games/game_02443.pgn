@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ZJGL42LN"]
+[White "shrex"]
+[Black "nourthetiger"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:16"]
+[WhiteElo "1370"]
+[BlackElo "1656"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "D10"]
+[Opening "Slav Defense"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 c6 3. e3 e6 4. Nf3 Bd6 5. a3 Nf6 6. b3 O-O 7. Bb2 Re8 8. Be2 Nbd7 9. Nc3 e5 10. b4 e4 11. Nd2 Nf8 12. c5 Bc7 13. b5 Ng6 14. a4 Nh4 15. b6 axb6 16. Ba3 Nxg2+ 17. Kf1 Bh3 18. f3 Nxe3+ 19. Kf2 Nxd1+ 20. Raxd1 Nh5 21. fxe4 Qh4+ 22. Ke3 Bf4+ 23. Kd3 Bxd2 24. Kxd2 dxe4 25. d5 Qf4+ 26. Kc2 e3 27. d6 Bf5+ 28. Kc1 Bg4 29. Rhf1 Qg5 30. d7 Red8 31. Ne4 Qg6 32. Nd6 Bxe2 33. Nxf7 Bxd1 34. Nxd8 Rxd8 35. Rxd1 e2 36. Bb4 Qg4 37. Bc3 exd1=Q+ 38. Kb2 Rxd7 39. a5 Qde2+ 40. Kb3 b5 41. a6 Qa4# 0-1
+

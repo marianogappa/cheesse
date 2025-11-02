@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xZbaIQ8B"]
+[White "shadar286"]
+[Black "Jones0602"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:14"]
+[WhiteElo "1390"]
+[BlackElo "1343"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bc4 g6 4. Qf3 Qf6 5. Nc3 Qxf3 6. Nxf3 Nf6 7. Nb5 Bd6 8. d3 a6 9. Nxd6+ cxd6 10. Bg5 Ng8 11. O-O f6 12. Bxg8 fxg5 13. Bd5 Ne7 14. Nxg5 Nxd5 15. exd5 h6 16. Ne4 Ke7 17. c4 b5 18. b3 bxc4 19. dxc4 h5 20. f4 exf4 21. Rxf4 Rf8 22. Rxf8 Kxf8 23. Nxd6 Ke7 24. Nxc8+ Rxc8 25. Re1+ Kd6 26. Re3 Rc5 27. Re2 a5 28. Kf1 a4 29. Ke1 axb3 30. axb3 Ra5 31. Kd2 Ra2+ 32. Ke3 Rxe2+ 33. Kxe2 Kc5 34. Kd3 Kb4 35. Kc2 d6 36. g3 g5 37. Kb2 h4 38. gxh4 gxh4 39. h3 Ka5 40. Kc3 Kb6 41. b4 Kc7 42. b5 Kd7 43. Kb4 Kc7 44. Ka5 Kb7 45. Kb4 Kb6 46. Kc3 Kc5 47. Kb3 Kb6 48. Kb4 Kb7 49. c5 dxc5+ 50. Kxc5 Kc7 51. b6+ Kb7 52. Kb5 Kb8 53. Kc6 Kc8 54. b7+ Kb8 55. d6 Ka7 56. Kc7 1-0
+

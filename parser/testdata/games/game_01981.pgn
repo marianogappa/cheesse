@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/mSVFq5R1"]
+[White "WonderBrais"]
+[Black "Cruncher"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:29"]
+[WhiteElo "1810"]
+[BlackElo "1764"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nf3 e5 3. d4 Bg4 4. dxe5 Bxf3 5. Qxf3 dxe5 6. Nc3 f6 7. Bc4 Ne7 8. Qh5+ g6 9. Qf3 Nbc6 10. Qxf6 Nd4 11. Qxe5 Nxc2+ 12. Kf1 Nxa1 13. Qe6 Nc2 14. Qf7+ Kd7 15. Nb5 c6 16. Be6# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TNCVEDAk"]
+[White "MasterRoshi"]
+[Black "Javier840810"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:52"]
+[WhiteElo "1744"]
+[BlackElo "1735"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. Be2 Qc7 9. Qd2 b5 10. O-O-O b4 11. Na4 Nxe4 12. Qe1 Nd7 13. f3 Rc8 14. Bd3 Nec5 15. Naxc5 Nxc5 16. Nxc5 dxc5 17. Kb1 c4 18. Be4 Be7 19. g4 c3 20. b3 Bc5 21. h4 Qb6 22. Bc1 a5 23. f4 exf4 24. Bxf4 a4 25. g5 axb3 26. axb3 Qa5 27. Bc1 Rc7 28. Qg3 Ra7 29. Qb8+ Ke7 30. Qxa7+ Qxa7 31. Bc6 Rc8 0-1
+

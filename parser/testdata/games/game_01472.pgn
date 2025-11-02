@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Ybgx0yh7"]
+[White "Rei-Branco"]
+[Black "iliastsp"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:28"]
+[WhiteElo "1584"]
+[BlackElo "1326"]
+[WhiteRatingDiff "-30"]
+[BlackRatingDiff "+18"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. Nf3 d5 2. d4 Nc6 3. g3 Nf6 4. Bg2 e6 5. e3 Bb4+ 6. c3 Ba5 7. O-O Qd6 8. b3 Bxc3 9. Ba3 Bb4 10. Bxb4 Qxb4 11. Nbd2 e5 12. dxe5 Ne4 13. Rb1 Be6 14. h4 Bg4 15. Nxe4 Qxe4 16. Ng5 Qxe5 17. Qxg4 f6 18. Qh5+ g6 19. Qh6 O-O-O 20. Nf7 Qe7 21. Bh3+ f5 22. Nxh8 Rxh8 23. Kh2 Ne5 24. Rbd1 Nf3+ 25. Kh1 c6 26. g4 Nxh4 27. gxf5 gxf5 28. Qg5 Qxg5 29. Rg1 Qf6 30. Rg3 Kc7 31. Bg2 b6 32. Bh3 a6 0-1
+

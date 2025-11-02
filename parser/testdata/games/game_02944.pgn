@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/nm6gl5hi"]
+[White "axiles64"]
+[Black "wireless78"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:05"]
+[WhiteElo "2090"]
+[BlackElo "2228"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[ECO "B50"]
+[Opening "Sicilian Defense: Delayed Alapin"]
+[TimeControl "60+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Bg4 4. d4 cxd4 5. cxd4 Nc6 6. Bb5 a6 7. Bxc6+ bxc6 8. O-O Nf6 9. Qa4 Qd7 10. Re1 Bxf3 11. gxf3 e6 12. Nc3 Be7 13. e5 Nd5 14. Ne4 O-O 15. b3 dxe5 16. dxe5 Qc7 17. Ba3 Bxa3 18. Qxa3 Qxe5 19. Qc5 Qf4 20. Qxc6 Qxf3 21. Ng3 Rac8 22. Qb7 Rc7 23. Qxa6 Nf4 24. Qf1 Rc2 25. Re3 Nh3+ 26. Qxh3 Qxf2+ 27. Kh1 Qxe3 28. Rf1 Rxa2 29. Qg4 Qxb3 30. Ne4 f5 0-1
+

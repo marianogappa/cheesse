@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ArAr0Hpy"]
+[White "bahadir05"]
+[Black "AlperIssizAdam"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:49"]
+[WhiteElo "1066"]
+[BlackElo "1000"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 Bf5 3. d4 e6 4. g4 Be4 5. f3 Bg6 6. h4 f5 7. h5 Bf7 8. g5 Bb4+ 9. c3 Be7 10. f4 Nc6 11. Nf3 g6 12. h6 Na5 13. b4 Nc4 14. Na3 Ne3 15. Qe2 Nxf1 16. Kxf1 b6 17. c4 c5 18. cxd5 exd5 19. e6 Bxe6 20. Qxe6 cxb4 21. Nb5 Qc7 22. Nxc7+ Kd8 23. Nxa8 Nf6 24. Ne5 Ne4 25. Be3 Ng3+ 26. Kg2 Nxh1 27. Rc1 Rf8 28. Qc8# 1-0
+

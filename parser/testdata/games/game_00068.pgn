@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Yomnm8nc"]
+[White "Jaque_Mate"]
+[Black "angelitotrece"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:04"]
+[WhiteElo "1651"]
+[BlackElo "1734"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "C61"]
+[Opening "Ruy Lopez: Bird Variation"]
+[TimeControl "120+1"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. Qf3 c6 6. Bc4 Qf6 7. Qb3 b5 8. Be2 Qe5 9. d3 h6 10. O-O Nf6 11. f4 Qc5 12. Kh1 Be7 13. c3 a5 14. Nd2 a4 15. Qc2 dxc3 16. bxc3 b4 17. Bb2 a3 18. cxb4 Qxc2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9fjcDcmA"]
+[White "SaleEXTRA"]
+[Black "etiopia"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:18"]
+[WhiteElo "1559"]
+[BlackElo "1467"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "240+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Qh5 d6 3. Bc4 e6 4. e5 d5 5. Bb5+ Bd7 6. Bxd7+ Nxd7 7. b3 Qc7 8. Qe2 Nxe5 9. Bb2 Nc6 10. Qb5 Nf6 11. Bxf6 gxf6 12. c3 O-O-O 13. Ne2 Qe5 14. Qd3 c4 15. Qe3 Qh5 16. Nf4 Qg5 17. b4 e5 18. h4 exf4 19. hxg5 fxe3 20. gxf6 exf2+ 21. Kxf2 Ne5 22. Ke3 Bh6+ 23. Kd4 Nc6+ 24. Kc5 Bf8+ 25. Kb5 Bd6 26. Na3 h5 27. Nc2 a6+ 28. Kb6 Bc7+ 29. Kc5 Rh6 30. Nd4 Rxf6 31. Nxc6 Rxc6+ 32. Kd4 Re8 33. d3 1-0
+

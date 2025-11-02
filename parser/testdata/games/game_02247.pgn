@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/4HuAk4Mr"]
+[White "check_is_in_the_fail"]
+[Black "breakpad"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:30"]
+[WhiteElo "1545"]
+[BlackElo "1532"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 Qa5 3. Nc3 Qxc3 4. a3 e6 5. dxc3 Be7 6. Be3 Nh6 7. h3 O-O 8. Nf3 f6 9. O-O Nf7 10. Qc1 a6 11. Bb3 b5 12. Bd5 Nc6 13. Bxc6 dxc6 14. e5 f5 15. Bg5 Nxg5 16. Nxg5 h6 17. Nf3 g5 18. Ne1 Bb7 19. f4 Rad8 20. fxg5 hxg5 21. Nf3 g4 22. Nd4 gxh3 23. Nxe6 hxg2 24. Nxf8 gxf1=N 25. Qxf1 Rxf8 26. Qg2+ Kf7 27. Rd1 Rg8 28. Qxg8+ Kxg8 29. Rd7 Kf7 30. Rxb7 Ke6 31. Rb6 Kxe5 32. Rxc6 a5 33. Rb6 b4 34. axb4 axb4 35. Rb5 Kd5 36. cxb4 Kc4 37. Rxc5+ Bxc5+ 38. bxc5 Kxc5 39. Kf2 Kd4 40. Ke2 Ke4 41. b3 f4 42. b4 Kd5 43. c3 Kc4 44. b5 Kxb5 45. Kf3 Kc4 46. Kxf4 Kxc3 1/2-1/2
+

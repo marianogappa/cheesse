@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/RL6kk7Sq"]
+[White "tacticat"]
+[Black "gwagner"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:51"]
+[WhiteElo "1946"]
+[BlackElo "1842"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+13"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bd3 a6 6. Be3 Bg4 7. c3 Nc6 8. Nbd2 e6 9. Qc2 Rc8 10. a3 Bd6 11. h3 Bxf3 12. gxf3 O-O 13. Rg1 Re8 14. h4 e5 15. dxe5 Nxe5 16. Be2 Bc5 17. f4 Bxe3 18. fxe3 Nc4 19. Nxc4 dxc4 20. Rf1 Rxe3 21. Kf2 Qb6 22. Kg2 Rce8 23. Rae1 Qc6+ 24. Bf3 Qb5 25. Rxe3 Rxe3 26. Rf2 h6 27. Qd2 Rd3 28. Qc2 Qd7 29. b3 Ng4 30. Bxg4 Qxg4+ 31. Kf1 Qxh4 32. bxc4 Qh1+ 33. Ke2 Rd8 34. Qe4 Qxe4+ 35. Kf1 Rd1# 0-1
+

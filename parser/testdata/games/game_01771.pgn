@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RQzGjQIG"]
+[White "Lowie"]
+[Black "ha1989"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:42"]
+[WhiteElo "1588"]
+[BlackElo "1524"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted, MacLeod Defense"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nc6 4. Bc4 Bc5 5. d4 Bb6 6. O-O d6 7. Bxf4 Nf6 8. Nc3 O-O 9. Kh1 Bg4 10. Bg5 Bxd4 11. Nd5 h6 12. Bh4 Be5 13. c3 Ne7 14. Nxf6+ Bxf6 15. Bxf6 gxf6 16. Qd2 h5 17. Qh6 f5 18. exf5 Nxf5 19. Qg6+ Kh8 20. Bxf7 Qe7 21. Ng5 Rxf7 22. Nxf7+ Qxf7 23. Qxf7 1-0
+

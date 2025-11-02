@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tauPlqAo"]
+[White "Lacordaire"]
+[Black "Gweat"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:05"]
+[WhiteElo "1859"]
+[BlackElo "2030"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bf4 e6 3. Nc3 d5 4. Qd2 Bd6 5. Bg3 c5 6. e3 Nc6 7. Nf3 b6 8. O-O-O a5 9. Bh4 a4 10. a3 c4 11. Ne5 Nxe5 12. dxe5 Bxe5 13. Bxc4 Ba6 14. Bb5+ Bxb5 15. Nxb5 Qd7 16. Nd4 Ne4 17. Qb4 Bd6 18. Qe1 b5 19. f3 Nc5 20. e4 O-O 21. exd5 e5 22. Ne2 Rfc8 23. c3 Qf5 24. Kd2 Qd3+ 25. Kc1 Nb3# 0-1
+

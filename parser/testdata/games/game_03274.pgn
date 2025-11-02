@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YfIi6yR6"]
+[White "omsidd"]
+[Black "ChessPB89"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:29"]
+[WhiteElo "2159"]
+[BlackElo "2157"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 c5 4. e3 cxd4 5. exd4 Nf6 6. Bxc4 e6 7. Nf3 Be7 8. O-O O-O 9. Qe2 a6 10. a4 Qc7 11. Rd1 Nc6 12. Bg5 Rd8 13. Rac1 Bd7 14. h3 Be8 15. Bh4 Rac8 16. Bg3 Qa5 17. d5 exd5 18. Bd3 d4 19. Ne4 Qh5 20. Nxf6+ Bxf6 21. Qe4 g6 22. Qf4 Bg7 23. Ng5 Rd5 24. Ne4 Qe5 25. Qg4 Qe6 26. Qxe6 fxe6 27. Bc4 Rcd8 28. Bxd5 Rxd5 29. Nc5 e5 30. Nxb7 e4 31. Rc5 Rxc5 32. Nxc5 d3 33. Nxe4 Bxb2 34. Rxd3 Kf7 35. Nd6+ Ke7 36. Nxe8 Kxe8 37. Rd6 Nb4 38. Rb6 Nd3 39. Rxa6 Bd4 40. Rd6 Nb2 41. Rxd4 Ke7 42. Kf1 Ke6 43. a5 h5 44. a6 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/y3NFWGHH"]
+[White "J_Bo"]
+[Black "eddiegrassi19"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:42"]
+[WhiteElo "1968"]
+[BlackElo "1926"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. b3 d5 2. Bb2 Nf6 3. d3 c5 4. c4 b6 5. cxd5 Nxd5 6. Nf3 Nc6 7. g3 Bb7 8. Bg2 e6 9. O-O Nf6 10. Nbd2 Be7 11. Ng5 O-O 12. Nge4 Rb8 13. a3 Nd5 14. Qc2 Nf6 15. f4 Nd4 16. Qd1 Ng4 17. Bxd4 Qd6 18. Nxd6 1-0
+

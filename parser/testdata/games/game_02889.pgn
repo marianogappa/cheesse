@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ihJWRwVR"]
+[White "Kent99"]
+[Black "dusanblind345"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:49"]
+[WhiteElo "1916"]
+[BlackElo "1631"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Declined, Center Formation"]
+[TimeControl "180+4"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. c3 e5 4. Bc4 Nc6 5. Nf3 a6 6. cxd4 Bb4+ 7. Nc3 Nf6 8. O-O exd4 9. e5 Ng4 10. Bxf7+ Kf8 11. Nxd4 Qh4 12. h3 Ncxe5 13. Bd5 d6 14. Ne4 Bd7 15. Nf3 Nxf3+ 16. Qxf3+ Ke8 17. hxg4 Bxg4 18. Qe3 Kd7 19. Qb6 Bf3 20. gxf3 Bc5 21. Qxb7+ Ke8 22. Bg5 Qxe4 23. fxe4 Ra7 24. Qc8# 1-0
+

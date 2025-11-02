@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/XbXtNfEN"]
+[White "redbulls38"]
+[Black "bewildering"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:40"]
+[WhiteElo "1515"]
+[BlackElo "1788"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. c3 c5 3. dxc5 Bxc5 4. Nf3 Bb6 5. e3 Nc6 6. Bb5 a6 7. Bxc6 dxc6 8. O-O Ne7 9. Qb3 Qc7 10. Nbd2 O-O 11. Nc4 Ba7 12. Rd1 b5 13. Nd6 c5 14. Nxc8 Raxc8 15. c4 b4 16. a3 a5 17. axb4 axb4 18. Qa4 Bb8 19. Qd7 Qxd7 20. Rxd7 Nf5 21. b3 Rc7 22. Rxc7 Bxc7 23. Bb2 Rd8 24. h3 Kf8 25. Be5 Bd6 26. Rd1 Ke7 27. Bxg7 Nxg7 28. e4 Bh2+ 29. Kxh2 Rxd1 30. Ne5 Rb1 31. Nc6+ Kf6 32. e5+ Kg6 33. Ne7+ Kg5 0-1
+

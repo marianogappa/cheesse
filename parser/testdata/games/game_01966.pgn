@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/KafVSrbO"]
+[White "juansolano"]
+[Black "Levinson"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:22"]
+[WhiteElo "1448"]
+[BlackElo "1267"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "C42"]
+[Opening "Russian Game: Three Knights Game"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 d6 4. Bc4 Bg4 5. h3 Bxf3 6. Qxf3 Nc6 7. Nb5 Nd4 8. Nxd4 exd4 9. d3 d5 10. exd5 c6 11. dxc6 bxc6 12. Qxc6+ Nd7 13. O-O Rc8 14. Re1+ Be7 15. Qf3 f6 16. Qg3 Ne5 17. Bb5+ Nd7 18. Qxg7 Qc7 19. Qxh8+ 1-0
+

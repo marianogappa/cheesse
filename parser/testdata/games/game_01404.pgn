@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/rzev10tg"]
+[White "BishopFingers"]
+[Black "sbarbier"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:15"]
+[WhiteElo "1597"]
+[BlackElo "1536"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+[ECO "D43"]
+[Opening "Semi-Slav Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.22] } 1... d5 { [%eval 0.21] } 2. c4 { [%eval 0.16] } 2... Nf6 { [%eval 0.42] } 3. Nc3 { [%eval 0.2] } 3... e6 { [%eval 0.2] } 4. Nf3 { [%eval 0.19] } 4... c6 { [%eval 0.19] } 5. Bg5 { [%eval 0.19] } 5... Be7 { [%eval 0.26] } 6. e3 { [%eval 0.2] } 6... h6 { [%eval 0.27] } 7. Bxf6 { [%eval 0.02] } 7... Bxf6 { [%eval 0.08] } 8. Bd3 { [%eval 0.15] } 8... Nd7 { [%eval 0.21] } 9. Rc1 { [%eval 0.09] } 9... Nb6 { [%eval 0.5] } 10. cxd5?! { [%eval -0.01] } 10... Nxd5?! { [%eval 0.56] } 11. Nxd5?! { [%eval -0.16] } 11... exd5 { [%eval -0.2] } 12. O-O { [%eval -0.26] } 12... Bg4 { [%eval 0.0] } 13. h3 { [%eval 0.0] } 13... Bh5?! { [%eval 0.64] } 14. Bb1?! { [%eval -0.1] } 14... Qd6?! { [%eval 0.71] } 15. a3?! { [%eval 0.0] } 15... O-O { [%eval 0.0] } 16. Qc2 { [%eval 0.0] } 16... Bg6 { [%eval 0.0] } 17. Qd1 { [%eval 0.0] } 17... Bxb1 { [%eval 0.0] } 18. Rxb1 { [%eval -0.05] } 18... Rfe8 { [%eval 0.0] } 19. Rc1 { [%eval -0.27] } 19... Re4 { [%eval -0.11] } 20. Qd3 { [%eval -0.2] } 20... Rae8 { [%eval 0.07] } 21. Qb3 { [%eval -0.05] } 21... b5?! { [%eval 0.77] } 22. Qc3 { [%eval 0.46] } 22... Rc8 { [%eval 0.47] } 23. Qd2 { [%eval 0.41] } 23... Bg5 { [%eval 0.59] } 24. Qa5 { [%eval 0.59] } 24... Rxe3? { [%eval 3.54] } 25. fxe3?! { [%eval 2.64] } 25... Bxe3+ { [%eval 2.89] } 26. Kh1 { [%eval 2.78] } 26... Bxc1 { [%eval 2.82] } 27. Rxc1 { [%eval 2.68] } 27... Qg3? { [%eval 4.35] } 28. Qxa7 { [%eval 3.86] } 28... Re8?! { [%eval 4.41] } 29. Re1?? { [%eval -0.17] } 29... Rxe1+ { [%eval -0.58] } 30. Nxe1 { [%eval -0.22] } 30... Qxe1+ { [%eval -0.39] } 31. Kh2 { [%eval -0.49] } 31... Qd2 { [%eval 0.0] } 32. Qb8+? { [%eval -1.05] } 32... Kh7 { [%eval -0.93] } 33. Qe5 { [%eval -1.2] } 33... Qxb2? { [%eval 0.0] } 34. Qf5+ { [%eval 0.0] } 34... Kg8 { [%eval 0.0] } 35. Qc8+ { [%eval 0.0] } 35... Kh7 { [%eval 0.0] } 36. Qf5+ { [%eval 0.0] } 36... Kg8 { [%eval 0.0] } 37. Qc8+ { [%eval 0.0] } 37... Kh7 { [%eval 0.0] } 38. Qf5+ { [%eval 0.0] } 1/2-1/2
+

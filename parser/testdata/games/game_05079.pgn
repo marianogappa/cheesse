@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/NyLRbB8D"]
+[White "Trundle"]
+[Black "Cresnowek"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:32"]
+[WhiteElo "2027"]
+[BlackElo "2039"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-13"]
+[ECO "A48"]
+[Opening "Queen's Pawn Game: Colle System, Gruenfeld Formation"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e3 g6 2. d4 Bg7 3. Nf3 d5 4. Bd3 Nf6 5. O-O O-O 6. c4 c6 7. cxd5 cxd5 8. Nc3 Nc6 9. Ne5 Nxe5 10. dxe5 Ne8 11. f4 Bf5 12. Bxf5 gxf5 13. g4 e6 14. Kh1 fxg4 15. Qxg4 Kh8 16. f5 exf5 17. Qxf5 Qe7 18. Bd2 Qxe5 19. Qxe5 Bxe5 20. Nxd5 Nc7 21. Nxc7 Bxc7 22. Rac1 Be5 23. Rc2 Rad8 24. Bb4 Bd6 25. Bc3+ f6 26. Rxf6 Kg8 27. Rg2+ Bg3 28. Rxg3+ Kh8 29. Rxf8# 1-0
+

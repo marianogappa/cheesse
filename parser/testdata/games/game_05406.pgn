@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/HUbxv2gh"]
+[White "macclassic"]
+[Black "nabawy"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:50"]
+[WhiteElo "1943"]
+[BlackElo "2056"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "B21"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 Nf6 3. e5 Nd5 4. d3 Nc6 5. c3 d6 6. Nf3 dxe5 7. fxe5 Bg4 8. Be2 Bxf3 9. Bxf3 Nxe5 10. Bxd5 Qxd5 11. O-O e6 12. d4 cxd4 13. cxd4 Rd8 14. Be3 Nc4 15. Qa4+ b5 16. Qb3 e5 17. dxe5 Nxe3 18. Qxe3 Bc5 0-1
+

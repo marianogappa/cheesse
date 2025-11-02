@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/RQAiQB3a"]
+[White "avicennaf"]
+[Black "giovanidalpiva"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:42"]
+[WhiteElo "1773"]
+[BlackElo "1885"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-17"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 e6 3. Bd3 Nf6 4. f4 c5 5. Nf3 Nc6 6. c3 Bd7 7. Ne5 cxd4 8. exd4 Bd6 9. O-O O-O 10. g4 Qc7 11. Nd2 a6 12. g5 Ne8 13. Bxh7+ Kxh7 14. Qh5+ Kg8 15. Rf3 Nxe5 16. fxe5 Bxe5 17. dxe5 Qxe5 18. Rh3 f6 19. Nf3 Qe2 20. g6 Qd1+ 21. Kg2 Qe2+ 22. Kg3 1-0
+

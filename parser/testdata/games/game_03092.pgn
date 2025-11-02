@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lxhKemnF"]
+[White "sukierae"]
+[Black "babababa"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:37"]
+[WhiteElo "1632"]
+[BlackElo "1709"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 d6 4. d3 e6 5. O-O Be7 6. c3 Bf6 7. Re1 Nge7 8. Nbd2 O-O 9. Nf1 h5 10. h3 Ng6 11. Bf4 Nxf4 0-1
+

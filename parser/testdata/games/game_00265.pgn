@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZnLmtGk3"]
+[White "w29"]
+[Black "YaduNivo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:48"]
+[WhiteElo "1153"]
+[BlackElo "1190"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "C55"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. O-O Nf6 5. d3 Bc5 6. h3 d6 7. Be3 Bxe3 8. fxe3 O-O 9. Nc3 Re8 10. Nh4 g5 11. Rxf6 Qxf6 12. Nf3 h5 13. g4 hxg4 14. hxg4 Bxg4 15. Nd5 Qxf3 16. Nxc7 Kg7 17. Nxa8 Qg3+ 18. Kf1 Bxd1 19. Rxd1 Rxa8 20. Rd2 Rh8 21. Ke2 Rh2+ 22. Kf1 Rh1+ 23. Ke2 Rh2+ 24. Kd1 Qf3+ 25. Kc1 Qxe3 26. b3 Qxd2+ 27. Kb2 Qxc2+ 28. Ka3 Qxa2# 0-1
+

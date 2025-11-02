@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/K70BgKAG"]
+[White "Salmon22"]
+[Black "kirollos"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:22"]
+[WhiteElo "1934"]
+[BlackElo "2021"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "E60"]
+[Opening "King's Indian Defense: Normal Variation, King's Knight Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 d6 4. Nc3 Bg7 5. Bf4 O-O 6. e3 Nh5 7. Bg3 Nd7 8. Be2 e5 9. dxe5 dxe5 10. O-O Nxg3 11. hxg3 Qe7 12. Qc2 f5 13. Rfd1 Nf6 14. Rd2 Be6 15. Rad1 Rfd8 16. Nxe5 Ne4 17. Rxd8+ Rxd8 18. Rxd8+ Qxd8 19. Nxe4 Bxe5 20. Nc3 c6 21. Qd1 Qxd1+ 22. Nxd1 Kf7 23. b3 Ke7 24. f4 Bf6 25. Nf2 Kd6 26. g4 Kc5 27. gxf5 gxf5 28. Nd3+ Kd6 29. Kf2 a5 30. Bf3 a4 31. e4 fxe4 32. Bxe4 axb3 33. axb3 Bd4+ 34. Kf3 h5 35. Bg6 Bg4+ 36. Kg3 Ke6 37. Kh4 Bd1 38. b4 Be2 39. Kg5 Bf6+ 40. Kh6 h4 41. Nc5+ Ke7 42. Nxb7 Bxc4 43. Na5 Bf1 44. Nxc6+ Kd6 45. Be4 Bc3 46. Kg5 Be1 47. Kg4 Bb5 48. Nd4 Bf1 49. Nf3 Bg3 50. Nxh4 Be1 51. Nf5+ Ke6 52. Nd4+ Kf6 53. b5 Ba5 54. Nc6 Bb6 55. f5 Be2+ 56. Kf4 Bxb5 57. g4 Kf7 58. g5 Bf2 59. g6+ Kg7 60. Kg5 Be1 61. f6+ Kf8 62. g7+ Ke8 63. Bd5 Bd2+ 64. Kg6 Bd3+ 0-1
+

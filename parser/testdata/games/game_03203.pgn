@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wkMBAz7A"]
+[White "dchesster"]
+[Black "darthares"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:06"]
+[WhiteElo "1438"]
+[BlackElo "1401"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bg5 h6 3. Bxf6 gxf6 4. Nf3 Bg7 5. e4 d6 6. Nc3 Bg4 7. Be2 Nc6 8. a3 f5 9. exf5 Bxf5 10. O-O Qd7 11. d5 1-0
+

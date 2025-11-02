@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/a5KZNWkL"]
+[White "imjustlearning"]
+[Black "Burlia"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:02"]
+[WhiteElo "1134"]
+[BlackElo "1320"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-17"]
+[ECO "C43"]
+[Opening "Russian Game: Modern Attack"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nc6 4. Bb5 Nxd4 5. Nxd4 exd4 6. Qxd4 c6 7. Bc4 Qe7 8. O-O Nxe4 9. Nc3 Nd6 10. b4 Nxc4 11. Qxc4 Qxb4 12. Qd3 c5 13. a3 Qd4 14. Be3 Qxd3 15. cxd3 d6 16. Rfe1 Be7 17. Nd5 Be6 18. Nc7+ Kd7 19. Nxa8 Rxa8 20. a4 Bf6 21. Rab1 Ba2 22. Rxb7+ Kc8 23. Rxf7 Bc3 24. Rxg7 Bxg7 25. Ra1 Bxa1 26. f4 Kc7 27. g4 Re8 28. Bf2 Bd5 29. f5 Bd4 30. Kf1 Bxf2 31. Kxf2 c4 32. dxc4 Bxc4 33. h4 Re2+ 34. Kf3 Ra2 35. h5 Rxa4 36. Kf4 Be2+ 37. Kg5 Bxg4 38. f6 Kd7 39. h6 Ke8 40. Kh4 Kf7 41. Kg5 Bd1 42. Kf5 d5 43. Kg5 d4 44. Kf5 d3 45. Kg5 d2 46. Kf5 Bc2+ 47. Kg5 d1=Q 1/2-1/2
+

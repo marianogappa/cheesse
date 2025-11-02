@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VTSGWrU9"]
+[White "Josevp8"]
+[Black "PressX_toWin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:58"]
+[WhiteElo "1069"]
+[BlackElo "900"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-7"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. e3 h5 3. Nc3 Bg4 4. f3 Bf5 5. f4 b6 6. g3 c5 7. Bg2 cxd4 8. Bxd5 Qxd5 9. Nxd5 e6 10. Nc7+ 1-0
+

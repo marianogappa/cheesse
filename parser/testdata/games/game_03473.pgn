@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dnOuYtNz"]
+[White "MOHi_Iran1996"]
+[Black "Ash58"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:13"]
+[WhiteElo "1764"]
+[BlackElo "1742"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Accelerated Panov Attack #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. exd5 Qxd5 5. Nc3 Qd8 6. Nf3 Nc6 7. Be2 Bf5 8. O-O e6 9. d4 Nf6 10. a3 Bd6 11. b4 a6 12. b5 axb5 13. Bxb5 O-O 14. a4 h6 15. Bxc6 bxc6 16. Be3 Qc7 17. h3 Ne4 18. Qb3 Rfb8 19. Qc4 Rb4 20. Qd3 Rb3 21. Bd2 Nxc3 22. Qc4 Rxa4 23. Rxa4 Nxa4 24. Qxb3 Nb6 25. g4 Be4 26. Ne1 Bh2# 0-1
+

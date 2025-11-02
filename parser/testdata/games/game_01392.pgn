@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZfBWTGQX"]
+[White "BUCEFULO"]
+[Black "Noelio1411"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:15"]
+[WhiteElo "1733"]
+[BlackElo "1769"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "B00"]
+[Opening "St. George Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 a6 2. g3 e5 3. d4 d6 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. f4 Nc6 7. Bg2 f6 8. Bd2 Bg4 9. Bf3 Be6 10. Nc3 Nd4 11. O-O-O b5 12. Bg2 b4 13. Nd5 a5 14. c3 bxc3 15. Bxc3 Nb5 16. f5 Bd6 17. fxe6 Nxc3 18. Nxc3 Ke7 19. Nb5 Nh6 20. h3 Rhb8 21. Nxd6 cxd6 22. Bf1 Kxe6 23. Bc4+ Ke7 24. Nf3 Rc8 25. b3 a4 26. Rh2 axb3 27. axb3 Ra1+ 28. Kc2 Ra7 29. Rhd2 Rc6 30. Kb2 Nf7 31. Bd5 Rb6 32. Ra1 Rxa1 33. Kxa1 Nd8 34. Kb2 Nc6 35. Bxc6 Rxc6 36. Rc2 Rb6 37. Rc4 Kf7 38. b4 g5 39. g4 Kg6 40. Kb3 h5 41. Ka4 hxg4 42. hxg4 Ra6+ 43. Kb5 Ra8 44. Rc6 Ra3 45. Nd2 Rg3 46. Rxd6 Rxg4 47. Kc4 Rg1 48. b5 Rc1+ 49. Kd5 g4 50. Ke6 g3 51. b6 g2 52. Nf3 Rc3 53. Ng1 Rc1 54. Nf3 Rf1 55. Nh4+ Kg5 56. Nxg2 Re1 57. b7 Rxe4 58. b8=Q Re2 59. Ke7 Rxg2 60. Qg8+ Kf4 61. Qxg2 e4 62. Rxf6+ Ke3 63. Re6 Kd3 64. Qxe4+ Kc3 65. Rd6 1-0
+

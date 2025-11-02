@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Fg6qA3Be"]
+[White "oceanthinking"]
+[Black "Captivus"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:52"]
+[WhiteElo "1508"]
+[BlackElo "1487"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "D07"]
+[Opening "Queen's Gambit Refused: Chigorin Defense, Janowski Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 Nc6 3. c4 dxc4 4. Nc3 e6 5. a3 Nf6 6. e4 e5 7. d5 Ne7 8. Nxe5 c6 9. Bxc4 cxd5 10. Nxd5 Nxe4 11. O-O Nxd5 12. Bxd5 Bd6 13. Bxf7+ Kf8 14. Ba2 Qf6 15. Nc4 Be7 16. f3 Nd6 17. Nxd6 Bxd6 18. Bg5 Qxg5 19. Qxd6+ Qe7 20. Qf4+ Qf6 21. Qc4 Be6 22. Qxe6 Qd4+ 23. Kh1 Re8 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/plb595iK"]
+[White "Ca11um"]
+[Black "Yakobie"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:28"]
+[WhiteElo "957"]
+[BlackElo "1032"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+9"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O d5 5. Bxd5 Nxd5 6. exd5 Qxd5 7. Qe1 Nd4 8. Nxe5 Bd6 9. Nd3+ Kf8 10. Qd1 Bg4 11. Qxg4 Nxc2 12. Nc3 Qxd3 13. Rb1 Bc5 14. Re1 Nxe1 15. Qg5 Nc2 16. Qxc5+ Kg8 17. Qxc7 Re8 18. Qxb7 Re1# 0-1
+

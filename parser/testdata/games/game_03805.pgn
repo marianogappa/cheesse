@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7oTJkrDm"]
+[White "padrino1"]
+[Black "danilovigilante"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:33"]
+[WhiteElo "1417"]
+[BlackElo "941"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-2"]
+[ECO "C30"]
+[Opening "King's Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 f6 3. f5 g5 4. Qh5+ Ke7 5. Bc4 Bh6 6. Qf7+ Kd6 7. Nc3 Qf8 8. Nb5+ Kc5 9. Qd5+ Kb6 10. Na3 Ne7 11. Qb5# 1-0
+

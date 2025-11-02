@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/GJgwAUVy"]
+[White "DimaGee"]
+[Black "danielsonn"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:04"]
+[WhiteElo "1576"]
+[BlackElo "1388"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. a3 h6 5. b4 Bb6 6. Nc3 Qe7 7. Nd5 Qd8 8. Nxb6 cxb6 9. d4 exd4 10. Nxd4 Ne5 11. Ba2 d6 12. Nb5 a6 13. Qd5 Nd7 14. Qxf7# 1-0
+

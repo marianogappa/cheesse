@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PcWsVXB9"]
+[White "sudorous"]
+[Black "un0"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:19"]
+[WhiteElo "1362"]
+[BlackElo "1263"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-7"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Old Variation"]
+[TimeControl "60+10"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. e3 e6 4. Nc3 c5 5. Bxc4 cxd4 6. Qxd4 Qxd4 7. exd4 Bb4 8. Bd2 Nf6 9. Nf3 O-O 10. O-O a6 11. a3 Ba5 12. b4 Bc7 13. Rac1 b5 14. Bd3 Bb6 15. Ne4 Nxe4 16. Bxe4 Ra7 17. Be3 Rd7 18. Rc6 Bb7 19. Rxb6 Bxe4 20. Ne5 Rc7 21. Bf4 Rc3 22. Nxf7 Kxf7 23. Rxb8 Rxa3 24. Rxf8+ Kxf8 25. Bd6+ Kf7 26. f3 Bd3 27. Rc1 Ra4 28. Rc7+ Kf6 29. Bc5 Ra1+ 30. Kf2 Rf1+ 31. Kg3 h5 32. Ra7 Ra1 33. Kh4 g5+ 34. Kxh5 Bf1 35. g3 Bg2 36. f4 gxf4 37. gxf4 Bf3+ 38. Kh4 Rh1 39. Kg3 Rf1 40. Rxa6 Kf5 41. Bd6 Bb7 42. Rb6 Be4 43. Rxb5+ Kf6 44. Re5 Bb7 45. b5 Rd1 46. Bc5 Rb1 47. b6 Rb3+ 48. Kg4 Bf3+ 49. Kh4 Bb7 50. Rg5 Rb2 51. h3 Rf2 52. Kg4 Bc8 53. Kg3 Rd2 54. Rg8 Rd3+ 55. Kh4 Bb7 56. Rf8+ Kg6 57. Rb8 Bg2 58. b7 Rxh3+ 59. Kg4 Rh7 60. Rg8+ Kf7 61. Rb8 Rg7+ 62. Kh4 Rh7+ 63. Kg3 Rg7+ 64. Kf2 Kg6 65. Re8 Bxb7 66. Rxe6+ Kf7 67. Re5 Kf6 68. d5 Rg4 69. Kf3 Rg1 70. Kf2 Rd1 71. d6 Bc6 72. Bb6 Rxd6 73. Rc5 Be4 74. Bc7 Rd2+ 75. Ke3 Rc2 76. Be5+ Kf5 77. Bd6+ Ke6 78. Kxe4 Rxc5 79. Bxc5 Kf6 80. Bd6 Ke6 81. Be5 Kf7 82. Kf5 Ke8 83. Kf6 Kf8 84. Bd6+ Ke8 85. Kg7 Kd7 86. Be5 Ke8 87. f5 Kd7 88. f6 Ke8 89. Bd6 Kd7 90. Ba3 Ke8 91. f7+ Kd7 92. f8=Q 1-0
+

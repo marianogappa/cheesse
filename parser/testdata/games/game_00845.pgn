@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YFxDJvWT"]
+[White "andershoy"]
+[Black "almafuertero"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:10"]
+[WhiteElo "1416"]
+[BlackElo "1268"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[ECO "C40"]
+[Opening "King's Knight Opening"]
+[TimeControl "120+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 h6 3. Nxe5 Qg5 4. Nf3 Qe7 5. Nc3 Nf6 6. d3 b6 7. Be2 Bb7 8. O-O Ng4 9. h3 Ne5 10. Nxe5 Qxe5 11. Be3 Bb4 12. Bd2 Bd6 13. g3 h5 14. Bf4 Qe6 15. Bxd6 cxd6 16. Bxh5 Qxh3 17. Qg4 Qxh5 18. Qxh5 Rxh5 19. Kg2 Nc6 20. a3 Nd4 21. Rac1 Bc8 22. Nd5 Kd8 23. Nf4 Rh8 24. Rh1 Rg8 25. Nd5 Ne2 26. Rce1 Nd4 27. Rc1 Bb7 28. Ne3 Rc8 29. c3 Ne6 30. Nf5 g6 31. Nh6 Rh8 32. Nxf7+ Ke8 33. Nxh8 Ke7 34. Nxg6+ Kf6 35. Nf4 Nc5 36. Rh6+ Kg5 37. Rg6# 1-0
+

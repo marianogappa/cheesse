@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jxbZPaUz"]
+[White "Rijekaz"]
+[Black "Lydian"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:02"]
+[WhiteElo "1482"]
+[BlackElo "1440"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qf6 5. Nxc6 Qxc6 6. Nc3 Bb4 7. Bd2 Bxc3 8. Bxc3 Qxe4+ 9. Be2 Nf6 10. O-O Nd5 11. Bf3 Nxc3 12. bxc3 Qc4 13. Re1+ Kf8 14. Qd2 d6 15. Qe3 Be6 16. Bxb7 Re8 17. Be4 f5 18. Bd3 Qd5 19. c4 Qc5 20. Qg5 h6 21. Qg6 Bf7 22. Rxe8+ Kxe8 23. Re1+ Kf8 24. Qg3 g6 25. Qf4 Kg7 26. Re7 Re8 27. Rxe8 Bxe8 28. h3 Qa3 29. Qe3 Bf7 30. Qd4+ Kf8 31. Qh8+ Ke7 32. Qxh6 Qxa2 33. Qg5+ Kf8 34. Qd8+ Kg7 35. Qxc7 Qa1+ 36. Kh2 Qd4 37. f3 Qf4+ 38. Kg1 Qc1+ 39. Kf2 Qd2+ 40. Kf1 Qd1+ 41. Kf2 Qd2+ 42. Kg3 Qg5+ 43. Kh2 Qf4+ 44. Kg1 Qe3+ 45. Kf1 Qc1+ 46. Ke2 f4 47. Qxd6 Qe3+ 48. Kd1 Qg1+ 49. Kd2 1-0
+

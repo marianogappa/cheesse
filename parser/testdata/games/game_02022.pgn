@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/m4FdmxIz"]
+[White "DocB"]
+[Black "naprirfan"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:36"]
+[WhiteElo "1535"]
+[BlackElo "1555"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "A50"]
+[Opening "Mexican Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 Nc6 3. e3 e6 4. a3 d6 5. Nf3 Be7 6. Nc3 Bd7 7. Bd3 O-O 8. e4 e5 9. d5 Nd4 10. Nxd4 exd4 11. Ne2 c5 12. b4 b6 13. O-O Bg4 14. Qe1 Nh5 15. f3 Bd7 16. Ng3 Bh4 17. e5 dxe5 18. Qxe5 Bxg3 19. hxg3 g6 20. Bh6 Re8 21. Qg5 Re3 22. Rad1 f6 23. Qh4 Qc7 24. Kf2 Rae8 25. g4 g5 26. Qxh5 Qf4 27. Kg1 R8e7 28. bxc5 bxc5 29. Bf8 Kxf8 30. Qh6+ Kg8 31. Qh3 1-0
+

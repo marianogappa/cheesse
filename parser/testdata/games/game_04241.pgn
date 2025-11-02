@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HVpOPFim"]
+[White "mirek38"]
+[Black "mauriziospin"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:14"]
+[WhiteElo "1707"]
+[BlackElo "1612"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "A43"]
+[Opening "Franco-Benoni Defense"]
+[TimeControl "420+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 c5 3. d5 exd5 4. exd5 d6 5. c4 Nf6 6. Nf3 h6 7. Bd3 Be7 8. O-O O-O 9. h3 Nbd7 10. Re1 Re8 11. b3 Nh7 12. Bb2 Bf6 13. Nc3 Rxe1+ 14. Qxe1 Bxc3 15. Bxc3 Nhf6 16. Qe3 Qe8 17. Qf4 g5 18. Qxd6 Qf8 19. Qh2 Qd8 20. Re1 Nf8 21. Qe5 N8h7 22. Bxh7+ Nxh7 23. Qg7# 1-0
+

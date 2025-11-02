@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Zrv7w5KA"]
+[White "arkjan"]
+[Black "joelmaklaudia"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:56"]
+[WhiteElo "1591"]
+[BlackElo "1453"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nf6 4. O-O h6 5. d3 Bg4 6. Nbd2 Nc6 7. a3 Nd4 8. h3 Nxf3+ 9. Nxf3 Bxf3 10. Qxf3 Be7 11. Be3 O-O 12. b4 b6 13. Bb3 Qd7 14. c3 a5 15. d4 axb4 16. axb4 Qc6 17. Rxa8 Rxa8 18. Rc1 Ra3 19. d5 Qb7 20. Bc4 b5 21. Bd3 c6 22. dxc6 Qxc6 23. Bd2 Ra2 24. Be1 d5 25. exd5 Nxd5 26. Be4 Qc4 27. Bxd5 Qe2 28. Qxe2 Rxe2 29. Kf1 Rb2 30. g3 Bg5 31. Rd1 Kh7 32. Be4+ 1-0
+

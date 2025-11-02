@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fETg6gsf"]
+[White "iamtrying2playchess"]
+[Black "elaise"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:38"]
+[WhiteElo "1582"]
+[BlackElo "1688"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-57"]
+[ECO "A00"]
+[Opening "Kadas Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. h4 d5 2. h5 e5 3. d4 e4 4. c4 f6 5. e3 Be6 6. c5 c6 7. Nc3 Nd7 8. b4 Qc7 9. b5 b6 10. a4 Ne7 11. bxc6 Nxc6 12. Nb5 Qb7 13. Bd2 a6 14. Nd6+ Bxd6 15. cxd6 a5 16. Rb1 O-O 17. Bb5 Rfc8 18. Ne2 Bg4 19. Rh4 Bf5 20. Nf4 Nd8 21. Bxd7 Bxd7 22. h6 g6 23. g4 g5 24. Nh5 gxh4 25. Nxf6+ Kf7 26. g5 Ne6 27. Qh5+ Kf8 28. Nxh7+ Kg8 29. Qg6+ Kh8 30. Nf6 Bxa4 31. Rxb6 Qa7 32. d7 Qxd7 33. Nxd7 Nf8 34. Qg7# 1-0
+

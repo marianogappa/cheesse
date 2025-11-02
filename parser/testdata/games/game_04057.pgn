@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/VwidJvyI"]
+[White "Zobair"]
+[Black "sobral"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:28"]
+[WhiteElo "1600"]
+[BlackElo "1526"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+14"]
+[ECO "A00"]
+[Opening "Saragossa Opening"]
+[TimeControl "900+0"]
+[Termination "Time forfeit"]
+
+1. c3 e5 2. e3 d6 3. Ne2 Qf6 4. Na3 c6 5. Nc4 h6 6. g3 g5 7. Bg2 h5 8. d4 h4 9. dxe5 dxe5 10. O-O hxg3 11. fxg3 Qh6 12. Nxe5 Qxh2+ 13. Kf2 Bh3 14. Rg1 Bxg2 15. Rxg2 Qh6 16. e4 Qf6+ 17. Nf3 g4 18. Bg5 Qxf3+ 19. Kg1 Bc5+ 20. Nd4 f6 21. Be3 Qxe3+ 22. Rf2 Qxg3+ 23. Rg2 Qe3+ 24. Rf2 g3 25. Qe2 gxf2+ 26. Qxf2 Rh1+ 27. Kg2 Qxf2+ 28. Kxf2 Rxa1 29. Kf3 Bxd4 30. cxd4 Rxa2 0-1
+

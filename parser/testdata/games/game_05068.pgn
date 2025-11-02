@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/1YsK89PQ"]
+[White "KelvinCarlton"]
+[Black "hichamsbitri"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:29"]
+[WhiteElo "1712"]
+[BlackElo "1726"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+10"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game #3"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. e3 d5 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Bb5+ c6 6. Bd3 O-O 7. O-O Bg4 8. h3 Bd7 9. Nd2 Na6 10. Qe1 Nc7 11. b4 e5 12. a3 exd4 13. exd4 Re8 14. Qd1 Be6 15. Re1 Qd7 16. Ne2 Re7 17. Ng3 Rae8 18. Qf3 b5 19. Bb2 a6 20. Re2 Kf8 21. Rae1 Ng8 22. a4 Nf6 23. axb5 axb5 24. Ba3 Kg8 25. Re3 Na6 26. Qd1 Nb8 27. Bc1 Na6 28. c4 Nc7 29. cxb5 cxb5 30. Ba3 Qd6 31. Bb2 Qc6 32. Qc2 Qxc2 33. Bxc2 Na8 34. Bb3 Nb6 35. Bc2 Nc4 36. Bb3 Nxd2 37. Bc2 Nc4 38. R3e2 Ne4 39. Bd3 Nxg3 40. fxg3 Bf5 41. Rf2 Rxe1+ 42. Kh2 R1e2 43. Bc1 Rxf2 44. g4 Ree2 45. Kg3 Rxg2+ 46. Kh4 Bxd3 47. Bf4 Re3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/TOBxHDM3"]
+[White "timoha60"]
+[Black "catay"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:15"]
+[WhiteElo "1730"]
+[BlackElo "1830"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "C31"]
+[Opening "King's Gambit, Falkbeer Countergambit, Blackburne Attack"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 d5 3. Nf3 dxe4 4. Nxe5 Bd6 5. d4 Bxe5 6. fxe5 Nc6 7. Nc3 Bf5 8. Be3 Nge7 9. Bc4 Na5 10. Be2 Qd7 11. O-O Bg6 12. Bb5 c6 13. Be2 b5 14. a4 b4 15. Na2 Qb7 16. b3 Rd8 17. Bd2 Qc7 18. Bxb4 O-O 19. Bd6 Qd7 20. Nc3 Nb7 21. Bc4 Nxd6 22. exd6 Qxd6 23. Ne2 Nf5 24. Qd2 Nxd4 25. Nxd4 Qxd4+ 26. Qxd4 Rxd4 27. Rad1 Rxd1 28. Rxd1 Re8 29. Kf2 Kf8 30. Ke3 f5 31. g3 Re7 32. Rd6 Be8 33. b4 g6 34. h4 Rb7 35. c3 Ke7 36. Re6+ Kd7 37. Re5 Kd6 38. Rc5 Bd7 39. a5 Rb8 40. Be2 Rf8 41. Rc4 Kd5 42. Rd4+ Ke6 43. Bc4+ Ke7 0-1
+

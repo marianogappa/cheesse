@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/omPC0zcf"]
+[White "HaseDamir"]
+[Black "ragbar000"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:53"]
+[WhiteElo "1834"]
+[BlackElo "1694"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+16"]
+[ECO "C00"]
+[Opening "French Defense: Queen's Knight"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. exd5 exd5 4. d3 d4 5. Ne4 Bf5 6. Qh5 Bb4+ 7. Bd2 Bxd2+ 8. Nxd2 Qf6 9. Qf3 Nc6 10. O-O-O O-O-O 11. Ne4 Qe6 12. Nc5 Qd5 13. Qxd5 Rxd5 14. Nb3 a5 15. h3 a4 16. Nd2 Rc5 17. g4 Be6 18. f4 Nb4 19. Nc4 b5 20. Ne5 Nxc2 21. Kb1 a3 22. b3 Ne3 23. Rc1 Rxc1+ 24. Kxc1 Nxf1 25. Ngf3 Ne3 26. Nxd4 Nf6 27. Nxe6 fxe6 28. Nf7 Rf8 29. Ne5 Nfd5 30. d4 Rxf4 31. Nd3 Rxd4 32. Nc5 Nf4 33. Re1 Neg2 34. Rd1 Rxd1+ 35. Kxd1 c6 36. Kd2 Kc7 37. Kc3 e5 38. Ne6+ Nxe6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4NVBMdJn"]
+[White "iganas223"]
+[Black "IsraelAlcaraz"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:05"]
+[WhiteElo "1802"]
+[BlackElo "1657"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. c3 Be6 4. d4 exd4 5. cxd4 Nc6 6. d5 Bg4 7. dxc6 Bxf3 8. Qxf3 Rb8 9. Bc4 Nf6 10. Bb5 Be7 11. cxb7+ Kf8 12. Bc6 g6 13. Nc3 Kg7 14. h4 Rf8 15. h5 Nxh5 16. g4 Nf6 17. Bh6+ Kg8 18. O-O-O Nd7 19. Bxf8 Bxf8 20. Qh3 h6 21. f4 Nc5 22. g5 h5 23. Nd5 Nxe4 24. Rhe1 Nf2 25. Qe3 Nxd1 26. Kxd1 Bg7 27. Ne7+ Kh7 28. f5 Qf8 29. fxg6+ fxg6 30. Nxg6 Kxg6 31. Qe6+ Kh7 32. Rh1 Qf3+ 33. Bxf3 Rf8 34. Rxh5+ Bh6 35. Rxh6+ Kg7 36. Qg6# 1-0
+

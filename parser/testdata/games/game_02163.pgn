@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/819SKaoE"]
+[White "sevyan"]
+[Black "Brazildude"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:09"]
+[WhiteElo "1505"]
+[BlackElo "1693"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Bc4 Nc6 3. c3 e6 4. Nf3 d5 5. exd5 exd5 6. Bb5 Nf6 7. Ne5 Qc7 8. Nf3 Bd6 9. d3 Bg4 10. h3 Bxf3 11. Qxf3 O-O 12. Nd2 Ne5 13. Qd1 a6 14. Ba4 b5 15. Bc2 Rfe8 16. Kf1 Re7 17. Nf3 Rae8 18. Bd2 Nxf3 19. Qxf3 c4 20. d4 Ne4 21. Be3 f5 22. Qxf5 Rf8 23. Qxd5+ Kh8 24. Bxe4 Bg3 25. Qh5 Rxe4 26. Kg1 Re6 27. Re1 Bd6 28. d5 Re5 29. Qg4 Rxd5 30. Bd4 Be5 31. Be3 Qd7 32. Qe4 Bf6 33. Qf3 Re5 34. Qg4 Qxg4 35. hxg4 Rfe8 36. g5 Rxg5 37. Kh2 Rh5+ 38. Kg1 Rxh1+ 39. Kxh1 Bg5 40. f4 Bh4 41. Re2 h6 42. Bd4 Rxe2 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/nnSxvnNO"]
+[White "Pentamerone"]
+[Black "slonechka"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:28"]
+[WhiteElo "1619"]
+[BlackElo "1632"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+11"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. d4 e6 2. Bf4 d5 3. Nf3 Be7 4. Nbd2 b6 5. e3 Bb7 6. c4 c6 7. a3 a5 8. b4 a4 9. c5 b5 10. Bd3 Nf6 11. Ne5 O-O 12. h4 h6 13. Rg1 Nh7 14. g4 Bxh4 15. g5 Bxg5 16. Bxg5 Nxg5 17. Qh5 f6 18. Ng4 Qe8 19. Qh4 f5 20. Nxh6+ gxh6 21. Qxh6 Kf7 22. Rxg5 Ke7 23. Rg7+ Rf7 24. Qg5+ Kd7 25. O-O-O Rxg7 26. Qxg7+ Kc8 27. Rh1 Nd7 28. Rh8 Qxh8 29. Qxh8+ Kc7 30. Nf3 Rxh8 0-1
+

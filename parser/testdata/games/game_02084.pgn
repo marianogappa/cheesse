@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VDOjEEOR"]
+[White "aprehendiendo"]
+[Black "Ottatov"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:49"]
+[WhiteElo "1765"]
+[BlackElo "1594"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+14"]
+[ECO "C10"]
+[Opening "French Defense: Paulsen Variation"]
+[TimeControl "180+2"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. Nc3 a6 4. Bf4 c6 5. Nf3 Nf6 6. exd5 cxd5 7. Bd3 Bb4 8. O-O Nbd7 9. Re1 O-O 10. a3 Ba5 11. b4 Bb6 12. Na4 Ba7 13. Nc5 b6 14. Nxa6 Bxa6 15. Bxa6 Re8 16. Bb7 e5 17. dxe5 Ne4 18. Bxa8 Qxa8 19. Qd3 b5 20. Rad1 Bxf2+ 21. Kh1 Bxe1 22. Rxe1 Nf2+ 23. Kg1 Nxd3 24. cxd3 f6 25. e6 Ne5 26. Nxe5 fxe5 27. Bxe5 Rxe6 28. d4 Qxa3 29. Kf2 Qxb4 30. Re3 Qc4 31. Rg3 g6 32. Re3 b4 33. Re1 b3 34. Ra1 Qc3 35. Ra8+ Kf7 36. Ra7+ Re7 37. Ra8 b2 38. Rh8 b1=Q 39. Rxh7+ Ke6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BTqFHilP"]
+[White "CuddlyBear"]
+[Black "njs108"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:38"]
+[WhiteElo "1879"]
+[BlackElo "1904"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "D06"]
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 g6 4. Nf3 Bg7 5. Nc3 O-O 6. e4 c6 7. dxc6 Nxc6 8. Be3 Bg4 9. Be2 Rc8 10. O-O Nb4 11. a3 Nc6 12. h3 Bxf3 13. Bxf3 a6 14. e5 Ne8 15. Ne4 Qc7 16. Rc1 Qb6 1-0
+

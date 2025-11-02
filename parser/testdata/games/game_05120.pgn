@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HlywIetw"]
+[White "Abounds"]
+[Black "Macewindo"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:35"]
+[WhiteElo "1603"]
+[BlackElo "1878"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-46"]
+[ECO "C58"]
+[Opening "Italian Game: Two Knights Defense, Polerio Defense, Bogoljubov Variation"]
+[TimeControl "240+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.24] } 1... e5 { [%eval 0.33] } 2. Nf3 { [%eval 0.16] } 2... Nc6 { [%eval 0.35] } 3. Bc4 { [%eval 0.24] } 3... Nf6 { [%eval 0.38] } 4. Ng5 { [%eval 0.21] } 4... d5 { [%eval 0.31] } 5. exd5 { [%eval 0.31] } 5... Na5 { [%eval 0.16] } 6. Bb5+ { [%eval 0.19] } 6... c6 { [%eval 0.32] } 7. dxc6 { [%eval 0.35] } 7... bxc6 { [%eval 0.37] } 8. Qf3 { [%eval 0.05] } 8... Bb7?! { [%eval 0.87] } 9. Bd3 { [%eval 0.61] } 9... h6 { [%eval 0.56] } 10. Ne4 { [%eval 0.52] } 10... Nd5 { [%eval 0.93] } 11. Ng3 { [%eval 0.45] } 11... g6 { [%eval 0.53] } 12. Be4?! { [%eval 0.02] } 12... Bg7 { [%eval 0.18] } 13. O-O { [%eval -0.24] } 13... O-O { [%eval -0.25] } 14. b4 { [%eval -0.43] } 14... Nc4 { [%eval -0.22] } 15. Qb3 { [%eval -0.15] } 15... Nd6 { [%eval -0.16] } 16. Nc3 { [%eval -0.36] } 16... a5 { [%eval -0.47] } 17. Bxd5 { [%eval -0.68] } 17... cxd5 { [%eval -0.72] } 18. b5 { [%eval -0.74] } 18... h5 { [%eval -0.7] } 19. a4? { [%eval -1.84] } 19... h4 { [%eval -1.75] } 20. Nge2 { [%eval -1.81] } 20... h3?! { [%eval -1.22] } 21. g3? { [%eval -2.56] } 21... d4 { [%eval -2.22] } 22. Na2? { [%eval -3.68] } 22... Nf5 { [%eval -3.54] } 23. Ba3 { [%eval -3.44] } 23... Re8 { [%eval -3.37] } 24. Rad1? { [%eval -4.64] } 24... Rc8 { [%eval -4.03] } 25. f3? { [%eval -7.0] } 25... e4 { [%eval -6.89] } 26. Nf4? { [%eval -8.83] } 26... d3 { [%eval -8.39] } 27. c3 { [%eval -8.83] } 27... Qb6+ { [%eval -8.19] } 28. Rf2 { [%eval -8.79] } 28... e3 { [%eval -8.32] } 29. dxe3 { [%eval -8.25] } 29... Nxe3 { [%eval -7.81] } 30. Ra1? { [%eval -14.99] } 30... d2 { [%eval -13.58] } 31. Nxh3 { [%eval -22.44] } 31... Rcd8 { [%eval -21.36] } 32. Rd1?! { [%eval #-11] } 32... Nxd1 { [%eval #-10] } 33. Qxd1 { [%eval #-10] } 33... Re1+ { [%eval #-11] } 34. Kg2 { [%eval #-11] } 34... Rxd1 { [%eval -38.3] } 35. c4?! { [%eval #-8] } 35... Qxf2+?! { [%eval -20.01] } 36. Nxf2 { [%eval -19.01] } 36... Rg1+ { [%eval -9.79] } 37. Kh3? { [%eval #-6] } 37... Rf1?! { [%eval -31.73] } 38. Kg2?! { [%eval #-5] } 38... Rxf2+ { [%eval #-4] } 39. Kxf2 { [%eval #-4] } 39... d1=Q { [%eval #-3] } 40. Kg2 { [%eval #-2] } 40... Rd2+?! { [%eval #-3] } 41. Kh3 { [%eval #-3] } 41... Qf1+?! { [%eval #-3] } 42. Kh4 { [%eval #-3] } 42... f6 { [%eval #-2] } 43. Kg4 { [%eval #-2] } 43... g5?! { [%eval #-3] } 44. Kh5 { [%eval #-2] } 44... Bc8?! { [%eval #-2] } 45. Kg6 { [%eval #-2] } 45... Qh3 { [%eval #-1] } 46. f4 { [%eval #-1] } 1-0
+

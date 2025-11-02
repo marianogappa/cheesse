@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kgdrYLWa"]
+[White "kus4art"]
+[Black "dislikechess"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:15"]
+[WhiteElo "1908"]
+[BlackElo "1939"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. b4 a5 2. b5 c6 3. c4 Nf6 4. a4 d5 5. cxd5 Nxd5 6. Bb2 Bd7 7. e3 cxb5 8. axb5 b6 9. f4 e6 10. Nf3 Nf6 11. Be2 Bb4 12. O-O O-O 13. Nc3 Nd5 14. Nxd5 exd5 15. Ne5 Bf5 16. Qb3 Be6 17. Rfd1 Nd7 18. Nc6 Qe8 19. Nxb4 axb4 20. Qxb4 Nc5 21. Qd4 f6 22. Rxa8 Qxa8 23. Bc3 Rc8 24. Rf1 Qb7 25. f5 Bf7 26. Bb4 Ne4 27. d3 Nc5 28. Bf3 h6 29. Rc1 Kh7 30. Bxc5 bxc5 31. Rxc5 Rd8 32. e4 Qe7 33. h3 dxe4 34. Qxe4 Qxc5+ 35. Kh1 Bd5 36. Qf4 Bxf3 37. Qxf3 Qxb5 38. g4 Qd5 39. h4 Qxf3+ 40. Kg1 Rxd3 41. g5 Rd1+ 42. Kh2 Rh1# 0-1
+

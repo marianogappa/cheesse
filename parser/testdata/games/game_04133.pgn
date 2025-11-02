@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/r1HyDGz7"]
+[White "Gribelnikov"]
+[Black "Money2"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:46"]
+[WhiteElo "1643"]
+[BlackElo "1518"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+15"]
+[ECO "B84"]
+[Opening "Sicilian Defense: Scheveningen Variation, Classical Variation"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. Be3 Be7 8. f3 Qc7 9. Qd2 Nc6 10. O-O-O b5 11. g4 Nd7 12. h4 Nde5 13. f4 Nc4 14. Bxc4 bxc4 15. f5 Nxd4 16. Bxd4 Rg8 17. Rhf1 Rb8 18. f6 gxf6 19. Bxf6 Qb7 20. Na4 Rxg4 21. Bxe7 Qxe7 22. Qf2 Rxe4 23. Qf3 Rxh4 24. Qc6+ Bd7 25. Qxa6 Bxa4 26. Qxa4+ Kf8 27. Qa6 Qb7 28. Qxb7 Rxb7 29. Rxd6 Ke7 30. Rc6 Rh2 31. a4 Rb4 32. a5 Ra4 0-1
+

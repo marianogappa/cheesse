@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/c9nuwrYv"]
+[White "JulioASantos"]
+[Black "MaziarUIQ"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:02"]
+[WhiteElo "2001"]
+[BlackElo "2003"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "C00"]
+[Opening "French Defense: Two Knights Variation"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. exd5 Nxd5 5. d4 Bb4 6. Bd2 O-O 7. Ne4 Bxd2+ 8. Qxd2 b6 9. c4 Nf6 10. Nxf6+ Qxf6 11. Be2 Bb7 12. O-O-O c5 13. dxc5 Na6 14. c6 Bxc6 15. Qd4 Qh6+ 16. Qe3 Qf6 17. Qe5 Qh6+ 18. Qg5 Qxg5+ 19. Nxg5 Bxg2 20. Rhg1 Bc6 21. Rg3 g6 22. Rdg1 Rac8 23. b3 Nc5 24. Kb2 Ne4 25. Nxe4 Bxe4 26. h4 b5 27. Re3 Bf5 28. cxb5 Rc2+ 29. Ka3 Rd8 30. h5 Rdd2 31. Bc4 Rxa2+ 32. Kb4 Rab2 33. h6 Kf8 34. Ra1 Ra2 35. Rxa2 Rxa2 36. Re5 Ke7 37. Rc5 Rxf2 38. Rc7+ Kf6 39. Rxa7 Rb2 40. b6 Kg5 41. b7 Rc2 42. b8=Q Kxh6 0-1
+

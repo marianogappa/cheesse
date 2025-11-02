@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/L15oA4KJ"]
+[White "miguelabad"]
+[Black "peter899"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:14"]
+[WhiteElo "1388"]
+[BlackElo "1473"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-13"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 d6 6. e5 c5 7. Qa4+ Bd7 8. Qe4 Bc6 9. Qe3 Qa5+ 10. Bd2 Qb6 11. exd6+ Kd7 12. Qh3+ Kxd6 13. Bc3 Re8+ 14. Be2 Nf6 15. Qg3+ Kd7 16. O-O Rxe2 17. Qd3+ Nd5 18. Qxe2 Bd6 19. Qg4+ Kc7 20. Nd2 Nxc3 21. bxc3 g6 22. Nc4 Qa6 23. Qg5 Qxc4 24. Qf6 Rf8 25. a4 Bxa4 26. Qg7 h5 27. Rad1 Bxc2 28. Rc1 Bd3 29. Rfe1 Qh4 30. g3 Qh3 31. Qf6 Bc4 32. Qf3 Be6 33. Rb1 Bg4 34. Qxb7+ Kd8 35. Qa8+ Kd7 36. Rb7+ Kc6 37. Rxf7+ Kb5 38. Rb1+ 1-0
+

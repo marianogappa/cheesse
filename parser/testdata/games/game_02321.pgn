@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Wccop5I9"]
+[White "kondo"]
+[Black "galita"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:49"]
+[WhiteElo "1527"]
+[BlackElo "1564"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. d4 e6 2. Bf4 d6 3. e3 c6 4. Be2 d5 5. Nf3 Bd6 6. Bxd6 Qxd6 7. c3 b6 8. Nbd2 Nf6 9. Bd3 h6 10. e4 dxe4 11. Nxe4 Qe7 12. Nxf6+ Qxf6 13. O-O Nd7 14. Re1 O-O 15. Ne5 Bb7 16. Nxd7 Qe7 17. Nxf8 Qxf8 18. Be4 Qe7 19. Bf3 Rb8 20. Re3 Qf6 21. Qd2 Qf4 22. Rae1 Kf8 23. Rd3 Qf6 24. Rde3 Qf4 25. Qe2 c5 26. Bxb7 Rxb7 27. Rf3 Qg5 28. Qe3 Qe7 29. dxc5 bxc5 30. b3 Rc7 31. c4 a5 32. a4 g6 33. Qe5 Kg8 34. Qf6 Qf8 35. Rxe6 Qg7 36. Qxg7+ Kxg7 37. Re5 f6 38. Ree3 g5 39. Re6 Rf7 40. Rfe3 Kg6 41. g4 Rb7 42. Re7 Rb6 43. R3e6 Rxb3 44. Rc6 Rb1+ 45. Kg2 Rc1 46. Rxc5 f5 47. Rc6# 1-0
+

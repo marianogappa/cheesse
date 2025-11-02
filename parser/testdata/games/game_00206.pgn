@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/HkSuTGLP"]
+[White "vinclwd"]
+[Black "Timao"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:37"]
+[WhiteElo "1643"]
+[BlackElo "1574"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "120+0"]
+[Termination "Time forfeit"]
+
+1. e3 e6 2. c3 d5 3. d4 c5 4. Bd3 Bd7 5. b3 Nc6 6. Bb2 Nf6 7. Nd2 a6 8. Ne2 Be7 9. O-O Rc8 10. Rc1 Qb6 11. Bb1 O-O 12. dxc5 Bxc5 13. Nd4 Bd6 14. f3 Qc7 15. h3 e5 16. Ne2 b5 17. Ng3 Qb6 18. Qe1 e4 19. f4 g6 20. c4 Be7 21. cxd5 Nxd5 22. Ndxe4 Nxe3 23. Rf3 Nc2+ 24. Qf2 Qxf2+ 25. Kxf2 N2d4 26. Bxd4 Nxd4 27. Rfc3 Rxc3 28. Rxc3 b4 29. Rc4 Nf5 30. Rc7 1-0
+

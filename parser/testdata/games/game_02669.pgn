@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/fMLAUmxL"]
+[White "DanGG"]
+[Black "tacticat"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:02"]
+[WhiteElo "1478"]
+[BlackElo "1928"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+[ECO "A57"]
+[Opening "Benoni Defense: Hromadka System"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 c6 2. c3 c5 3. d5 d6 4. c4 Nf6 5. Nc3 g6 6. Nf3 Bg7 7. g3 a6 8. Bg2 Nbd7 9. e3 Ne5 10. e4 Nxf3+ 11. Bxf3 Bh3 12. Bg2 Bxg2 13. Rg1 Bh3 14. g4 Qd7 15. Qf3 Bxg4 16. Rxg4 Nxg4 17. h3 Nf6 18. Bg5 b5 19. Bxf6 Bxf6 20. cxb5 axb5 21. Qe2 b4 22. Nb5 O-O 23. a4 bxa3 24. bxa3 Bxa1 25. a4 Rxa4 26. Kf1 Rb4 27. Kg2 Qxb5 28. Qxb5 Rxb5 29. h4 Ra8 30. h5 Ra2 31. h6 Rbb2 32. Kg3 Rxf2 33. Kg4 f6 34. e5 g5 35. Kg3 Rf4 36. e6 Ra3+ 37. Kg2 Rb4 38. Kf1 Rb2 39. Ke1 Rc3 40. Kd1 Rh3 41. Kc1 Rh1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/UQ1XnoOO"]
+[White "jpmc"]
+[Black "Urugup68"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:21:04"]
+[WhiteElo "1402"]
+[BlackElo "1057"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Bc4 e6 3. Nf3 Bd6 4. O-O b6 5. d4 Bb7 6. d5 exd5 7. exd5 Na5 8. Re1+ Ne7 9. b3 O-O 10. Bg5 f6 11. Bh4 c6 12. dxc6+ Kh8 13. cxb7 Nxb7 14. Bd5 Bb4 15. c3 Ba5 16. Bxb7 Rc8 17. Bxc8 Qxc8 18. b4 Qxc3 19. Nxc3 Bxb4 20. Qxd7 Bxc3 21. Qxe7 Bxe1 22. Qxf8# 1-0
+

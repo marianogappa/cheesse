@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/kWa7ronK"]
+[White "KelvinCarlton"]
+[Black "moskow_ger"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:45"]
+[WhiteElo "1698"]
+[BlackElo "1624"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Symmetrical Variation"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. g3 g6 2. Bg2 Nf6 3. Nf3 Bg7 4. O-O b6 5. d3 Bb7 6. e4 Nc6 7. Nc3 e6 8. Bg5 d6 9. Qd2 Qe7 10. Bh6 Bxh6 11. Qxh6 O-O-O 12. Qd2 Rdg8 13. d4 d5 14. e5 Nd7 15. Nb5 Kb8 16. c4 dxc4 17. b3 h5 18. bxc4 Na5 19. d5 exd5 20. cxd5 Bxd5 21. Qxd5 c6 22. Qxc6 Nxc6 23. Nd6 Qd8 24. Rac1 Qc7 25. Rxc6 Qxc6 26. Re1 Nc5 27. Nd4 g5 28. Nxc6+ Kc7 29. Ne8+ Kb7 30. Ne7+ 1-0
+

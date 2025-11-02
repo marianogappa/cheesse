@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/6RSP5Kgq"]
+[White "vasileios7"]
+[Black "bilbobalboa"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:42"]
+[WhiteElo "1812"]
+[BlackElo "1867"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "1200+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 e6 3. a3 a6 4. Ne2 Qc7 5. Ng3 Nc6 6. d3 b5 7. Ba2 Bb7 8. Qf3 Bd6 9. c3 Nf6 10. O-O Ne5 11. Qe2 h5 12. Bg5 Neg4 13. h3 O-O-O 14. f4 Rdg8 15. Nd2 Nh7 16. Bh4 Bxf4 17. Rf3 g5 18. Bxg5 Nxg5 19. Nh1 Be3+ 20. Rxe3 Qh2+ 21. Kf1 Qxh1# 0-1
+

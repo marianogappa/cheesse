@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/6SAjgLuU"]
+[White "jrdykstr"]
+[Black "Bobbanais"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:18"]
+[WhiteElo "1499"]
+[BlackElo "1463"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+12"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Staunton-Cochrane Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. c4 Nc6 3. Nc3 d6 4. Bd3 e6 5. f4 Nb4 6. Nf3 Nxd3+ 7. Ke2 Nxf4+ 8. Kf2 Nf6 9. d3 d5 10. Bxf4 dxe4 11. dxe4 Ng4+ 12. Ke2 Qf6 13. g3 Be7 14. Nb5 Qxb2+ 15. Nd2 O-O 16. Ke1 Rd8 17. Rb1 Qf6 18. Qxg4 e5 19. Bxe5 Qxe5 20. Qe2 a6 21. Na3 Bg5 22. Rd1 Qc3 23. Nb1 Qc2 24. Rf1 Bh3 25. Rf5 Bxd2+ 26. Rxd2 Qxb1+ 27. Rd1 Qb4+ 28. Kf2 Bxf5 29. exf5 Rxd1 30. Qxd1 Qb2+ 31. Kg1 f6 32. Qd5+ Kh8 33. Qxb7 Rb8 34. Qxa6 Qb1+ 35. Kg2 Rb2+ 36. Kh3 Qxf5+ 37. g4 Qf3+ 38. Kh4 Rxh2# 0-1
+

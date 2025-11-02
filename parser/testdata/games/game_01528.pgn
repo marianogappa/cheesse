@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/e4KJ2b7g"]
+[White "racim"]
+[Black "Esteban_COL"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:42"]
+[WhiteElo "1672"]
+[BlackElo "1822"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "D10"]
+[Opening "Slav Defense #3"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 c6 3. Nc3 dxc4 4. Nf3 b5 5. Bg5 a5 6. a4 b4 7. Nb1 Ba6 8. e3 h6 9. Bh4 Nf6 10. Ne5 Nbd7 11. Nxc4 Bxc4 12. Bxc4 e6 13. Qf3 Be7 14. Qxc6 Rc8 15. Qb5 O-O 16. O-O Qc7 17. Bg3 Qxc4 18. Qxa5 Nh5 19. Nd2 Qd5 20. Qxd5 exd5 21. Nf3 Nxg3 22. hxg3 Rc2 23. Rfb1 Rfc8 24. a5 b3 25. a6 Ra8 26. Ra3 Bxa3 27. bxa3 b2 28. Rxb2 Rxb2 29. Ne5 Nxe5 30. dxe5 Rxa6 31. Kh2 Rxa3 32. Kh3 Rxf2 0-1
+

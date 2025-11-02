@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/kvG4dsQ4"]
+[White "iebelg"]
+[Black "Lvfe"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:29"]
+[WhiteElo "1375"]
+[BlackElo "1497"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nc3 Nc6 5. Bb5 Nf6 6. f3 Bf5 7. Bg5 h6 8. Bh4 e6 9. Qd2 Bb4 10. a3 Ba5 11. b4 Bb6 12. Nge2 O-O 13. O-O Ne7 14. Bd3 Bxd3 15. Qxd3 Ng6 16. Bg3 a6 17. Nf4 Nxf4 18. Bxf4 Rc8 19. Be5 Bc7 20. Bxc7 Qxc7 21. Rfe1 Qxc3 22. Qxc3 Rxc3 23. Ra2 Rfc8 24. Re2 Nh5 25. a4 R8c4 26. b5 a5 27. Rb2 b6 28. Rb3 Rxc2 29. Kf2 Rxe2+ 30. Kxe2 Nf4+ 31. Kd2 Nxg2 32. h3 Rxd4+ 33. Ke2 Rxa4 34. Kf2 Nh4 35. Kg3 Nf5+ 36. Kf2 g5 37. Rc3 Rc4 38. Rd3 Nd6 39. Kg3 Nxb5 40. Rb3 Rc5 41. Kg4 a4 42. Rb2 Rc4+ 43. Kh5 Rh4# 0-1
+

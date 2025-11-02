@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PROHB8hk"]
+[White "SSStepan333"]
+[Black "st716"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:48"]
+[WhiteElo "1230"]
+[BlackElo "1210"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-11"]
+[ECO "A40"]
+[Opening "English Defense #2"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.14] } 1... b6 { [%eval 0.54] } 2. d5?! { [%eval 0.0] } 2... g6?! { [%eval 0.57] } 3. e4 { [%eval 0.69] } 3... d6 { [%eval 0.75] } 4. f4 { [%eval 0.31] } 4... Bh6 { [%eval 0.77] } 5. g3 { [%eval 0.29] } 5... f5? { [%eval 1.31] } 6. Bg2?! { [%eval 0.75] } 6... fxe4 { [%eval 0.66] } 7. Bxe4 { [%eval 0.65] } 7... Nf6 { [%eval 0.73] } 8. Qf3? { [%eval -0.86] } 8... Bg4 { [%eval -0.39] } 9. Qe3 { [%eval -0.83] } 9... a5? { [%eval 0.43] } 10. h3 { [%eval 0.33] } 10... e5?? { [%eval 4.61] } 11. hxg4 { [%eval 4.57] } 11... exf4 { [%eval 4.64] } 12. gxf4 { [%eval 4.61] } 12... Nxg4? { [%eval 6.68] } 13. Bf5+?? { [%eval -7.71] } 13... Qe7?? { [%eval 7.27] } 14. Qxe7+ { [%eval 7.18] } 14... Kxe7 { [%eval 7.12] } 15. Bxg4 { [%eval 6.93] } 15... Re8?? { [%eval 12.32] } 16. Nf3? { [%eval 8.6] } 16... Bxf4? { [%eval 12.28] } 17. O-O?? { [%eval 6.84] } 17... Bxc1 { [%eval 6.85] } 18. Rxc1 { [%eval 6.56] } 18... Kf7?! { [%eval 7.28] } 19. Ng5+ { [%eval 6.95] } 19... Kf6? { [%eval 9.38] } 20. Nxh7+ { [%eval 9.25] } 20... Kg7 { [%eval 9.03] } 21. Ng5 { [%eval 8.86] } 21... Nd7? { [%eval 12.33] } 22. Rf1? { [%eval 8.14] } 22... Ne5?! { [%eval 8.72] } 23. Bh3 { [%eval 8.52] } 23... Rh8 { [%eval 8.82] } 24. Rf7+?? { [%eval 0.83] } 24... Kh6?? { [%eval 5.01] } 25. Rxc7? { [%eval 3.99] } 25... Kxg5 { [%eval 3.92] } 26. Nd2?? { [%eval 0.0] } 26... Nf3+?? { [%eval 11.08] } 27. Nxf3+ { [%eval 10.67] } 27... Kf4 { [%eval 13.14] } 28. Bg2 { [%eval 9.75] } 28... Kg3 { [%eval 10.61] } 29. Rg7?! { [%eval 9.46] } 29... Raf8?! { [%eval 14.66] } 30. Rxg6+ { [%eval 14.16] } 30... Kf4 { [%eval 13.56] } 31. Rf1 { [%eval 12.81] } 31... Ke3 { [%eval 63.35] } 32. Re6+ { [%eval 49.1] } 32... Kf4 { [%eval 20.42] } 33. Ng5+? { [%eval 8.36] } 33... Kxg5 { [%eval 8.25] } 34. Rxf8 { [%eval 8.01] } 34... Rxf8 { [%eval 7.83] } 35. Rxd6 { [%eval 7.45] } 35... Rc8? { [%eval 12.4] } 36. Be4 { [%eval 10.89] } 36... Kf4 { [%eval 13.2] } 37. Re6 { [%eval 11.89] } 37... Rg8+ { [%eval 13.28] } 38. Kf2 { [%eval 11.44] } 38... Rg3 { [%eval 52.39] } 39. c4 { [%eval 12.8] } 39... a4 { [%eval 56.83] } 40. d6 { [%eval 51.66] } 40... Kg5?! { [%eval #4] } 41. Re8?! { [%eval #8] } 41... Kf6 { [%eval #6] } 42. d7 { [%eval #5] } 42... Kf7 { [%eval #4] } 43. d8=Q { [%eval #3] } 43... Kg7 { [%eval #2] } 44. Qd4+?! { [%eval #3] } 44... Kh6 { [%eval #3] } 45. Rh8+ { [%eval #2] } 1-0
+

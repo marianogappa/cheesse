@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/WGlHdSKF"]
+[White "ASSISI"]
+[Black "capt74"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:07"]
+[WhiteElo "1529"]
+[BlackElo "1550"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-11"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nc3 e6 3. Bf4 Nf6 4. e3 Nc6 5. Nb5 Bb4+ 6. c3 Ba5 7. b4 Bb6 8. Nf3 a6 9. Na3 Bd7 10. Bd3 O-O 11. O-O Ne4 12. Bxe4 dxe4 13. Ne5 Nxe5 14. Bxe5 f6 15. Bg3 c6 16. Nc2 Bc7 17. Bxc7 Qxc7 18. f3 f5 19. f4 b5 20. a4 Qd6 21. a5 Be8 22. Qe2 h5 23. c4 Qe7 24. g3 g5 25. cxb5 cxb5 26. Qd2 g4 27. Rac1 h4 28. Kg2 h3+ 29. Kg1 Qd6 30. Rfd1 Bc6 31. Na1 Bd5 32. Qb2 Bc4 33. Nb3 Rac8 34. Nc5 Rc7 35. Rd2 Rd8 36. Rxc4 bxc4 37. Qc3 Qc6 38. Qxc4 Rd5 39. Rb2 Qb5 40. Qxb5 axb5 41. Nxe6 Rc3 42. Kf2 Kf7 43. Nc5 Rc1 44. a6 Rh1 45. a7 Rxh2+ 46. Ke1 Rxb2 47. a8=Q Rb1+ 48. Kd2 Rb2+ 49. Kc3 Rd2 50. Qxd5+ Kg6 51. Kxd2 h2 52. Qg8+ Kf6 53. Qh8+ Ke7 54. Qxh2 1-0
+

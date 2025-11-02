@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/N0Hhs3jI"]
+[White "aleciocalda"]
+[Black "AntoniusBl0ck"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:57"]
+[WhiteElo "1573"]
+[BlackElo "1589"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+[ECO "C20"]
+[Opening "Bishop's Opening: Boi Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Bc5 3. Qf3 Nf6 4. d3 h6 5. Nh3 d6 6. O-O Nc6 7. Qg3 g6 8. Nc3 Nd4 9. Bb3 Bb4 10. Be3 Bxc3 11. Bxd4 Bxd4 12. c3 Bb6 13. Qf3 a6 14. d4 exd4 15. cxd4 Bg4 16. Qe3 Qe7 17. f3 Be6 18. e5 dxe5 19. Qxe5 O-O-O 20. Bxe6+ fxe6 21. Rfe1 Bxd4+ 22. Qxd4 Rxd4 23. Rxe6 Qxe6 24. Re1 Qxa2 25. Re8+ Rxe8 26. Nf4 Rxf4 27. g3 Rxf3 28. h4 Qxb2 29. g4 Re1# 0-1
+

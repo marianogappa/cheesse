@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/burceUc8"]
+[White "niniveii"]
+[Black "aavza50"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:25"]
+[WhiteElo "1697"]
+[BlackElo "1750"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+8"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. b3 f6 2. Bb2 g6 3. d3 Bg7 4. Nd2 e6 5. Qc1 Qe7 6. g3 c6 7. Bg2 d5 8. e3 f5 9. Ne2 Bxb2 10. Qxb2 Qf6 11. c3 b5 12. d4 c5 13. O-O b4 14. cxb4 cxd4 15. Nxd4 Nc6 16. Nxc6 Qxb2 17. Nf3 Qf6 18. Ncd4 e5 19. Nb5 a6 20. Nc7+ Kd7 21. Nxa8 Bb7 22. Rfd1 Bxa8 23. Rxd5+ Ke6 24. Rxe5+ Qxe5 25. Nxe5 Kxe5 26. f4+ Kf6 27. Bxa8 Kg7 28. Bg2 Kh6 29. Bf1 Nf6 30. Be2 Ng4 0-1
+

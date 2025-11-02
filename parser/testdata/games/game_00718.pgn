@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QAiqHGwH"]
+[White "superflo"]
+[Black "rolfsimoes"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:35"]
+[WhiteElo "1438"]
+[BlackElo "1560"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+12"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e3 { [%eval 0.14] } 1... e5 { [%eval 0.23] } 2. c4 { [%eval -0.06] } 2... c5 { [%eval 0.17] } 3. Nc3 { [%eval 0.16] } 3... Nf6 { [%eval 0.34] } 4. Nge2?! { [%eval -0.2] } 4... Nc6 { [%eval 0.17] } 5. a3 { [%eval -0.31] } 5... a6?! { [%eval 0.21] } 6. h3?! { [%eval -0.4] } 6... Be7?! { [%eval 0.18] } 7. b3?! { [%eval -0.64] } 7... d5 { [%eval -0.54] } 8. Bb2? { [%eval -1.6] } 8... d4 { [%eval -1.46] } 9. exd4? { [%eval -2.48] } 9... exd4 { [%eval -2.05] } 10. Na4?! { [%eval -2.87] } 10... O-O { [%eval -2.54] } 11. b4? { [%eval -5.01] } 11... b6? { [%eval -2.05] } 12. Nxb6? { [%eval -4.72] } 12... Qxb6 { [%eval -4.58] } 13. bxc5?? { [%eval -8.47] } 13... Bxc5?! { [%eval -7.54] } 14. Qc2? { [%eval -12.62] } 14... Re8 { [%eval -9.97] } 15. d3 { [%eval -11.4] } 15... Bf5 { [%eval -10.73] } 16. Rb1 { [%eval -11.68] } 16... Qc7 { [%eval -10.39] } 17. f3 { [%eval -13.61] } 17... Qg3+? { [%eval -7.91] } 18. Kd1 { [%eval -7.79] } 18... Qg6?! { [%eval -7.19] } 19. Nf4 { [%eval -7.53] } 19... Qg3 { [%eval -7.35] } 20. Ne2 { [%eval -7.14] } 20... Qd6 { [%eval -6.94] } 21. f4?? { [%eval -11.34] } 21... Rab8? { [%eval -8.22] } 22. g4? { [%eval -12.84] } 22... Bd7? { [%eval -8.22] } 23. h4? { [%eval -15.89] } 23... Bxg4 { [%eval -12.03] } 24. Rg1 { [%eval -14.78] } 24... h5 { [%eval -10.88] } 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/zvnRFClm"]
+[White "milanbelobrk"]
+[Black "sik2"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:48"]
+[WhiteElo "2002"]
+[BlackElo "1752"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e3 e6 2. Nf3 a6 3. d4 b6 4. c4 Bb7 5. a3 c6 6. Bd2 b5 7. Bc3 Nf6 8. cxb5 cxb5 9. Nbd2 Be7 10. Qc2 O-O 11. Be2 d5 12. O-O Nbd7 13. h3 Rc8 14. Bd3 Nb6 15. b3 Ne4 16. Nxe4 dxe4 17. Bxe4 Bxe4 18. Qxe4 Rxc3 19. Ne5 Qd5 20. Qf4 Bd6 21. Rfd1 Bxe5 22. dxe5 Qxb3 23. Rd6 Nd5 24. Qd4 Qb2 25. Rd1 Qxa3 26. e4 Qb3 27. exd5 exd5 28. Rxa6 Qc4 29. Qxd5 Qxd5 30. Rxd5 Rb8 31. Rxb5 Rbc8 32. Rb7 h6 33. Raa7 Rf8 34. e6 Rc1+ 35. Kh2 Rc2 36. exf7+ Kh7 37. f3 Kg6 38. Ra6+ Kh7 39. Re7 Rc5 40. Raa7 Rf5 41. g4 Kg6 42. gxf5+ Kxf5 43. Kg3 Kg6 44. Ra6+ Kh7 45. f4 h5 46. f5 g6 47. Kf4 Kg7 48. fxg6 Rh8 49. Kg5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hECGsVE3"]
+[White "alexbulakh777"]
+[Black "CapAnson"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:02"]
+[WhiteElo "1679"]
+[BlackElo "1765"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 Ne7 6. Bc4 Nc6 7. Qd5 Qe7 8. O-O Qe6 9. Nc3 a6 10. a3 Bd6 11. f4 O-O 12. e5 Qxd5 13. Nxd5 Bc5+ 14. Kh1 b5 15. Nxc7 Ra7 16. Nxb5 axb5 17. Bxb5 Ba6 18. Bxa6 Rxa6 19. b4 Nxb4 20. Bb2 Nc6 21. Rfd1 Ra7 22. a4 Rb7 23. Bc3 Ra8 24. a5 Nb4 25. Bxb4 Bxb4 26. Rdb1 Raa7 27. a6 Rb6 28. Ra4 Bc5 29. Rxb6 Bxb6 30. g3 Kf8 31. Kg2 Ke8 32. Kf3 Kd8 33. Ke4 Kc7 34. Kd5 Bg1 35. h3 Bh2 36. g4 h6 37. f5 Bg3 38. c4 Kb6 39. Kd6 Bh2 40. c5+ Kb5 41. Ra2 Bf4 42. Kd5 Kb4 43. c6 dxc6+ 44. Kxc6 Bxe5 45. Kb6 Bd4+ 46. Kc6 Kb3 47. Ra5 f6 48. Kd5 Be5 49. Kc6 Rc7+ 50. Kb6 Kb4 51. Rb5+ Kc4 52. a7 Rxa7 53. Kxa7 Kxb5 54. Kb7 Kc5 55. Kc8 Kd6 56. Kd8 Bc3 57. Ke8 Ke5 58. Kf7 Kf4 59. Kxg7 Kg5 60. Kh7 Bd2 61. Kg7 Bc3 62. Kh7 h5 63. Kg7 hxg4 64. hxg4 Kxg4 65. Kg6 Be5 66. Kh6 Kxf5 67. Kh5 Kf4 68. Kh4 Kf3 69. Kh3 f5 70. Kh4 f4 71. Kg5 Ke2 72. Kf5 f3 73. Kxe5 f2 74. Kd5 f1=Q 75. Ke5 Ke3 76. Kd5 Qf4 77. Ke6 Ke4 78. Ke7 Qh6 79. Kd7 Kd5 0-1
+

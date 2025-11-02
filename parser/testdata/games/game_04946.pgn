@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/A8UKbRKr"]
+[White "AAAllin"]
+[Black "Feda10Feda"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:02"]
+[WhiteElo "2056"]
+[BlackElo "1611"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-12"]
+[ECO "A30"]
+[Opening "English Opening: Symmetrical Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. c4 c5 2. g3 Nc6 3. Bg2 e5 4. Nc3 Bd6 5. e4 b6 6. Nge2 Ba6 7. d3 Nd4 8. O-O Rb8 9. f4 exf4 10. gxf4 Qh4 11. Nxd4 g5 12. Nf3 Qh6 13. fxg5 Qh5 14. e5 Bc7 15. Nd5 Rc8 16. Bf4 Bb7 17. Qe2 Bxd5 18. cxd5 Ne7 19. Nd4 Ng6 20. Qxh5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/FbYCub3G"]
+[White "bugzbunny109"]
+[Black "knightfactor"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:35"]
+[WhiteElo "1904"]
+[BlackElo "2167"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. d3 d5 2. Nd2 e6 3. g3 Be7 4. Bg2 c6 5. Ngf3 f5 6. O-O Nf6 7. Re1 O-O 8. e4 dxe4 9. dxe4 fxe4 10. Ng5 e5 11. Ngxe4 Nxe4 12. Nxe4 Qb6 13. c3 Nd7 14. Qe2 Nf6 15. Be3 Qd8 16. Rad1 Qe8 17. Nc5 Bxc5 18. Bxc5 Rf7 19. Bf3 e4 20. Bg2 b6 21. Be3 a5 22. Qc2 Ba6 23. f3 Bd3 24. Qd2 Rd8 25. fxe4 Nxe4 26. Qxd3 Rxd3 27. Rxd3 Re7 28. Bf4 Nf6 29. Rxe7 Qxe7 30. Bxc6 Qc5+ 31. Be3 Qxc6 32. Rd8+ Kf7 0-1
+

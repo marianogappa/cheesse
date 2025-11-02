@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/U81BeNf1"]
+[White "sik2"]
+[Black "milanbelobrk"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:59"]
+[WhiteElo "1763"]
+[BlackElo "1992"]
+[WhiteRatingDiff "+20"]
+[BlackRatingDiff "-18"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. e3 d6 3. c4 Be7 4. Nf3 a6 5. Be2 b6 6. O-O Bb7 7. Ne1 Nd7 8. Bf3 Bxf3 9. Qxf3 Ngf6 10. b4 h6 11. a4 O-O 12. Bb2 c5 13. b5 axb5 14. cxb5 d5 15. dxc5 bxc5 16. Nd2 c4 17. Bd4 Bb4 18. Qe2 Nb6 19. Nc2 Bxd2 20. Qxd2 Rxa4 21. Bxb6 Rxa1 22. Bxd8 Rxf1+ 23. Kxf1 Rxd8 24. Nd4 Rb8 25. Qb4 Ne4 26. b6 Rb7 27. Qb5 c3 28. Qc6 Rb8 29. b7 e5 30. Nf5 c2 31. Qc8+ Kh7 32. Qxc2 Rxb7 33. Qc6 Rb1+ 34. Ke2 Rb2+ 35. Kd1 Rd2+ 36. Kc1 Rxf2 37. Qxd5 Rxf5 38. Qxe4 g6 39. g4 Rg5 40. h3 h5 41. h4 Rxg4 42. Qxe5 Rxh4 43. Qf6 Kg8 44. Qxh4 Kg7 45. Qg5 f6 46. Qd5 Kh6 47. Qe6 g5 48. Qxf6+ Kh7 49. Qxg5 h4 50. Qh5+ Kg7 51. Qxh4 Kg6 52. Qf4 1-0
+

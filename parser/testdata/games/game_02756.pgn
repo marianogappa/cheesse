@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ynSLNMvi"]
+[White "frostbitten"]
+[Black "serbianknight_1389"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:16"]
+[WhiteElo "2286"]
+[BlackElo "2268"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-10"]
+[WhiteTitle "NM"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.25] } 1... d5 { [%eval 0.61] } 2. exd5 { [%eval 0.61] } 2... Qxd5 { [%eval 0.69] } 3. Nc3 { [%eval 0.51] } 3... Qd8 { [%eval 0.51] } 4. d4 { [%eval 0.43] } 4... Nf6 { [%eval 0.49] } 5. Bc4 { [%eval 0.47] } 5... Bg4 { [%eval 0.64] } 6. Nge2 { [%eval 0.43] } 6... e6 { [%eval 0.5] } 7. O-O { [%eval 0.33] } 7... c6 { [%eval 0.37] } 8. f3 { [%eval 0.28] } 8... Bf5 { [%eval 0.24] } 9. Ng3?! { [%eval -0.5] } 9... Bg6?! { [%eval 0.22] } 10. f4 { [%eval 0.27] } 10... Be7 { [%eval 0.36] } 11. f5 { [%eval 0.3] } 11... exf5 { [%eval 0.34] } 12. Nxf5 { [%eval 0.42] } 12... Bxf5 { [%eval 0.56] } 13. Rxf5 { [%eval 0.57] } 13... O-O { [%eval 0.66] } 14. Bf4 { [%eval 0.38] } 14... Nbd7 { [%eval 0.47] } 15. Qf3?! { [%eval -0.06] } 15... Nb6 { [%eval 0.25] } 16. Bd3?! { [%eval -0.65] } 16... Qxd4+ { [%eval -0.37] } 17. Be3 { [%eval -0.52] } 17... Qd8?! { [%eval 0.07] } 18. Rf1 { [%eval 0.0] } 18... Qe8?! { [%eval 0.53] } 19. Bh6 { [%eval 0.45] } 19... Nbd5?? { [%eval 4.59] } 20. Nxd5 { [%eval 4.59] } 20... Nxd5 { [%eval 4.44] } 21. Bxg7 { [%eval 4.49] } 21... Kxg7 { [%eval 4.41] } 22. Rxd5 { [%eval 4.1] } 22... cxd5? { [%eval 5.31] } 23. Qg4+ { [%eval 5.13] } 23... Kh8?? { [%eval #8] } 24. Qf5 { [%eval #7] } 24... Bc5+ { [%eval #7] } 25. Kh1 { [%eval #6] } 25... Qe4 { [%eval #6] } 26. Bxe4 { [%eval #5] } 26... dxe4 { [%eval #5] } 27. Qxc5? { [%eval 7.36] } 27... f5? { [%eval 8.81] } 28. Qe5+ { [%eval 8.79] } 28... Kg8 { [%eval 8.64] } 29. Rxf5?! { [%eval 8.04] } 29... Rxf5 { [%eval 8.57] } 30. Qxf5 { [%eval 8.5] } 30... Re8 { [%eval 8.48] } 31. Qg5+ { [%eval 8.19] } 31... Kf7 { [%eval 8.04] } 32. Qe3 { [%eval 7.58] } 32... Kf6? { [%eval 8.85] } 33. g4? { [%eval 7.82] } 33... Ke5?! { [%eval 8.72] } 34. Kg2 { [%eval 8.38] } 34... Rf8? { [%eval 55.13] } 35. Qc5+ { [%eval 54.26] } 1-0
+

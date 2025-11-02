@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/DTCMfZZC"]
+[White "CedricGod"]
+[Black "ecadeoamor"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:58"]
+[WhiteElo "1412"]
+[BlackElo "1430"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Qf6 3. Nc3 Bb4 4. Qe2 Ne7 5. d3 Nec6 6. Bd2 Nd4 7. Nxd4 exd4 8. Nd5 Bxd2+ 9. Qxd2 Qe5 10. O-O-O c6 11. Nb4 c5 12. Nd5 b6 13. f4 Qe6 14. Nc7+ 1-0
+

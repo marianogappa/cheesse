@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/3ZtL8lCb"]
+[White "kalikarios"]
+[Black "ArKen"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:25"]
+[WhiteElo "1666"]
+[BlackElo "1763"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[ECO "C41"]
+[Opening "Philidor Defense #3"]
+[TimeControl "90+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 c5 4. c3 Nc6 5. d4 Be7 6. dxc5 dxc5 7. Qxd8+ Bxd8 8. O-O Nf6 9. Be3 Nxe4 10. Nbd2 Nxd2 11. Nxd2 Be7 12. Ne4 b6 13. Rad1 Bb7 14. Nd6+ Bxd6 15. Rxd6 Ke7 16. Rdd1 f6 17. Bd5 Rad8 18. Rd2 Na5 19. c4 Bxd5 20. cxd5 Nc4 21. Rd3 Nxb2 22. Ra3 Rd7 23. Rc1 Ra8 24. Rc2 Rxd5 25. f4 exf4 26. Bxf4 Nd3 27. Rd2 c4 28. Rc3 Nxf4 29. Rxd5 Nxd5 30. Rxc4 Kd6 31. Rd4 b5 32. Rg4 g5 33. Rh4 gxh4 0-1
+

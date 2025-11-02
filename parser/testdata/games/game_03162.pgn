@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/cGaNpCqW"]
+[White "rbmagalhaes"]
+[Black "mlopezfdez"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:54"]
+[WhiteElo "1563"]
+[BlackElo "1577"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 h6 5. c3 d6 6. a4 Bg4 7. b4 Nxb4 8. cxb4 Bxb4+ 9. Bd2 Bc5 10. O-O Nf6 11. Nc3 Bd4 12. Rb1 b6 13. Nd5 Nd7 14. Bb5 Rc8 15. Ba6 Rb8 16. Nb4 Qf6 17. Nc6 Ra8 18. Bb7 O-O 19. Bxa8 Rxa8 20. Be3 Bc3 21. h3 Bh5 22. g4 Bg6 23. Kg2 h5 24. g5 Qe6 25. Qb3 Qe8 26. Qxc3 Nc5 27. Nb4 Qxa4 28. Bxc5 bxc5 29. Nd5 Qd7 30. Qa5 Qe6 31. Nxc7 Qe7 32. Nxa8 f6 33. Rb8+ Kh7 34. Qd8 Qe6 35. Qh8# 1-0
+

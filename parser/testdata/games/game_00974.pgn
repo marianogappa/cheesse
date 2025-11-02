@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TauIFqnm"]
+[White "ASLAN-62"]
+[Black "yesimbrewer"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:35"]
+[WhiteElo "1926"]
+[BlackElo "1761"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "D10"]
+[Opening "Slav Defense #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Bg5 e6 5. Bxf6 Qxf6 6. e3 Be7 7. Nf3 O-O 8. Bd3 h6 9. O-O Bd6 10. e4 dxc4 11. e5 Bxe5 12. dxe5 Qe7 13. Bxc4 b5 14. Be2 Rd8 15. Qc2 Nd7 16. a3 Bb7 17. b4 a6 18. Ne4 c5 19. Nxc5 Rac8 20. Rac1 Nxc5 21. bxc5 Bd5 22. Qc3 Rc6 23. Qb4 Rdc8 24. Nd4 Rxc5 25. Rxc5 Qxc5 26. Bf3 Qxb4 27. axb4 Bxf3 28. Nxf3 Rc4 29. Rb1 Kf8 30. h3 Ke7 31. Kf1 g5 32. Ke2 Rc2+ 33. Nd2 Kd7 34. Ra1 Rb2 35. Rxa6 Rxb4 36. Ra7+ Ke8 37. Kd3 Rf4 38. f3 b4 39. Ne4 f5 40. exf6 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OQO2JO8N"]
+[White "sbuggay"]
+[Black "Cabballero"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:06"]
+[WhiteElo "1425"]
+[BlackElo "1470"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "C31"]
+[Opening "King's Gambit Declined: Falkbeer Countergambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 d5 3. fxe5 d4 4. d3 Bb4+ 5. Bd2 Qe7 6. Nf3 Bxd2+ 7. Nbxd2 Bg4 8. Qe2 c5 9. O-O-O Nd7 10. h3 Bxf3 11. gxf3 Nxe5 12. f4 Nc6 13. Rg1 g6 14. Nc4 b5 15. Na3 a6 16. f5 g5 17. Qh5 h6 18. h4 Nf6 19. Qf3 Ne5 20. Qh1 g4 21. Be2 h5 22. Nb1 a5 23. a3 a4 24. Rg2 Rb8 25. Rdg1 Qb7 26. Bxg4 Nc4 27. Bxh5 Ne3 28. Bxf7+ Qxf7 29. Rg3 Ke7 30. e5 Nfg4 31. f6+ Kd7 32. Rxg4 Nxc2 33. Rg7 Ke6 34. Rxf7 Kxf7 35. Kxc2 c4 36. Nd2 c3 37. bxc3 Rhc8 38. c4 bxc4 39. Nxc4 Rb3 40. h5 Rxa3 41. Qb7+ Ke6 42. Qxc8+ Kd5 43. f7 Ra2+ 44. Kd1 Ra1+ 45. Ke2 Rxg1 46. f8=Q Rg2+ 47. Kf1 Rf2+ 48. Kxf2 a3 49. Qd6# 1-0
+

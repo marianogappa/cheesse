@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Z3LFrCWG"]
+[White "justthere"]
+[Black "Rei-Branco"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:30"]
+[WhiteElo "1380"]
+[BlackElo "1554"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+10"]
+[ECO "C45"]
+[Opening "Scotch Game: Schmidt Variation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.15] } 1... e5 { [%eval 0.19] } 2. Nf3 { [%eval 0.12] } 2... Nc6 { [%eval 0.42] } 3. d4 { [%eval 0.11] } 3... exd4 { [%eval 0.17] } 4. Nxd4 { [%eval 0.11] } 4... Nf6 { [%eval 0.22] } 5. Bc4?! { [%eval -0.51] } 5... d6?! { [%eval 0.31] } 6. Nxc6 { [%eval 0.05] } 6... bxc6 { [%eval 0.09] } 7. Qf3 { [%eval -0.04] } 7... Be7 { [%eval -0.04] } 8. O-O { [%eval -0.12] } 8... O-O { [%eval -0.09] } 9. Nc3 { [%eval -0.18] } 9... a6 { [%eval 0.0] } 10. Be3 { [%eval 0.05] } 10... Bg4 { [%eval 0.52] } 11. Qg3 { [%eval 0.36] } 11... d5?! { [%eval 1.14] } 12. h3? { [%eval -0.06] } 12... Bd6? { [%eval 2.93] } 13. f4? { [%eval 0.61] } 13... Bh5 { [%eval 0.9] } 14. e5 { [%eval 0.66] } 14... Ne4?? { [%eval 5.79] } 15. Nxe4 { [%eval 5.52] } 15... dxe4 { [%eval 5.79] } 16. exd6 { [%eval 5.67] } 16... Qxd6? { [%eval 8.2] } 17. Rad1?? { [%eval -1.18] } 17... Qb4?? { [%eval 10.04] } 18. Bd4 { [%eval 9.46] } 18... g6?! { [%eval 10.14] } 19. Bb3?? { [%eval 3.94] } 19... Bxd1 { [%eval 3.79] } 20. Rxd1 { [%eval 3.54] } 20... Rad8?! { [%eval 4.31] } 21. c3 { [%eval 3.93] } 21... Qb5?! { [%eval 4.83] } 22. f5 { [%eval 4.38] } 22... c5?? { [%eval 7.48] } 23. Bf2?? { [%eval 1.69] } 23... Rxd1+ { [%eval 1.66] } 0-1
+

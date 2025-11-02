@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/P2HNWzfj"]
+[White "Logre"]
+[Black "slca1234"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:47"]
+[WhiteElo "1764"]
+[BlackElo "1763"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-10"]
+[ECO "B45"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. a3 a6 7. f3 d5 8. Nxc6 bxc6 9. e5 Nd7 10. f4 Bc5 11. Bd3 Rb8 12. Na4 Ba7 13. Bd2 c5 14. Qg4 O-O 15. Qh5 g6 16. Qg4 c4 17. Bxg6 hxg6 18. h4 Kg7 19. h5 Rh8 20. O-O-O Nc5 21. hxg6 fxg6 22. Rh3 Bd7 23. Nxc5 Bxc5 24. Rdh1 Qe7 25. Rxh8 Rxh8 26. Rxh8 Kxh8 27. Qh3+ Qh7 28. Qc3 Qh1+ 29. Be1 Bf2 30. Kd1 Bxe1 31. Qxe1 Qxe1+ 32. Kxe1 Ba4 33. Kf2 Bxc2 34. Ke2 Be4 35. Kd2 Bxg2 36. Kc3 Be4 37. Kd4 Kg7 38. Kc3 g5 39. Kd4 gxf4 40. Kc3 f3 41. Kd2 Kg6 42. Ke1 Kg5 43. Kf2 Kf4 44. a4 a5 45. Ke1 Ke3 46. Kf1 1-0
+

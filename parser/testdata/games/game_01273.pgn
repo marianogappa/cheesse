@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/IFJbzjbz"]
+[White "zloy_geniy"]
+[Black "cluyr"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:45"]
+[WhiteElo "1705"]
+[BlackElo "1679"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. d4 Bg4 5. dxe5 Nxe5 6. Be2 Nf6 7. Nxe5 Bxe2 8. Qxe2 1-0
+

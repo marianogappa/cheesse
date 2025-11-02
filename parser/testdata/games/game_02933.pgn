@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/KPYTGDZB"]
+[White "PrideAndJoy"]
+[Black "NicoLomon"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:56"]
+[WhiteElo "1640"]
+[BlackElo "1533"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+27"]
+[ECO "C48"]
+[Opening "Four Knights Game: Spanish Variation"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 a6 5. Bc4 h6 6. d3 d6 7. Bd2 Be6 8. Bxe6 fxe6 9. O-O Be7 10. Ne2 O-O 11. d4 exd4 12. Nexd4 Nxd4 13. Nxd4 e5 14. Ne6 Qd7 15. Nxf8 Rxf8 16. Re1 Qc6 17. f3 Qb6+ 18. Kh1 Qxb2 19. Ba5 b6 20. Bd2 Qb5 21. a4 Qc6 22. c3 d5 23. Qb3 a5 24. exd5 Nxd5 25. Rxe5 Bf6 26. Rxd5 Kh8 27. Re1 Bh4 28. Re4 Bf6 29. c4 Bg5 30. Bxg5 hxg5 31. Rxg5 Qf6 32. Rh4+ Kg8 33. c5+ Rf7 34. Rgh5 Qa1+ 35. Qd1 Qxd1# 0-1
+

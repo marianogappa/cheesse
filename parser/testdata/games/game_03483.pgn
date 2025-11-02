@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/WGaJ31Xe"]
+[White "MilutinZivkovic"]
+[Black "finogolf"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:15"]
+[WhiteElo "1739"]
+[BlackElo "1502"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d4 a5 2. h3 a4 3. a3 g6 4. Bg5 Bg7 5. e3 c5 6. Bc4 h6 7. Bf4 d5 8. Bb5+ Nc6 9. dxc5 Bxb2 10. Nd2 Bxa1 11. Qxa1 Nf6 12. Be5 Ra5 13. Bxc6+ bxc6 14. Bd4 O-O 15. Ngf3 Ra7 16. Ne5 Bd7 17. O-O Qa5 18. c3 Ne4 19. Nxe4 dxe4 20. Nc4 Qc7 21. Qb1 Be6 22. Nb6 Rb7 23. Qxe4 Rd8 24. Be5 Qc8 25. Nxc8 Rxc8 26. c4 f6 27. Qxg6+ Kf8 28. Qxh6+ Ke8 29. Qh8+ Kd7 30. Rd1+ Bd5 31. cxd5 Rxh8 32. dxc6+ Ke6 33. cxb7 Kxe5 34. Rb1 Rb8 35. c6 Kd6 36. Rc1 Kc7 37. Rc4 e5 38. Rxa4 Kxc6 39. Rb4 Kc5 40. Rb1 Kc4 41. a4 f5 42. a5 f4 43. exf4 e4 44. a6 e3 45. fxe3 1-0
+

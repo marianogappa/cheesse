@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NxjFlQnn"]
+[White "lancelotukr"]
+[Black "Chronus"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:45"]
+[WhiteElo "1737"]
+[BlackElo "1790"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-12"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Central Variation, Modern Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nc6 4. Nf3 Bg4 5. Be3 Bxf3 6. gxf3 b5 7. Nc3 e6 8. Nxb5 Bb4+ 9. Nc3 Rb8 10. Qa4 Qd7 11. O-O-O Nge7 12. d5 exd5 13. Nxd5 c3 14. Nf6+ gxf6 15. Rxd7 cxb2+ 16. Kb1 Kxd7 17. Bb5 Rxb5 18. Qxb5 Rb8 19. Qa4 Kc8 20. Rd1 Ng6 21. Qa6+ Rb7 22. Qxc6 Ne5 23. Qe8# 1-0
+

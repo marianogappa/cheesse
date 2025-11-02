@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/fy81KOxP"]
+[White "DO2008"]
+[Black "pljevlja2016"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:41"]
+[WhiteElo "1560"]
+[BlackElo "1510"]
+[WhiteRatingDiff "+26"]
+[BlackRatingDiff "-9"]
+[ECO "B06"]
+[Opening "Modern Defense: Mongredien Defense"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.36] } 1... g6 { [%eval 0.63] } 2. d4 { [%eval 0.6] } 2... b6 { [%eval 0.92] } 3. Nc3 { [%eval 0.91] } 3... Bg7 { [%eval 0.78] } 4. Nf3 { [%eval 0.7] } 4... Bb7 { [%eval 0.87] } 5. Be3 { [%eval 0.65] } 5... e6 { [%eval 0.8] } 6. Qd2 { [%eval 0.64] } 6... c6?! { [%eval 1.29] } 7. O-O-O { [%eval 1.08] } 7... d6 { [%eval 1.47] } 8. h4 { [%eval 1.37] } 8... Nd7 { [%eval 1.81] } 9. h5 { [%eval 1.9] } 9... gxh5 { [%eval 1.87] } 10. Rxh5 { [%eval 1.6] } 10... Ndf6?! { [%eval 2.37] } 11. Rh1?! { [%eval 1.64] } 11... Ng4?! { [%eval 2.36] } 12. Bg5 { [%eval 2.06] } 12... f6 { [%eval 2.16] } 13. Bf4 { [%eval 2.04] } 13... Bh6? { [%eval 4.78] } 14. Bxh6 { [%eval 4.24] } 14... N8xh6 { [%eval 4.43] } 15. Rxh6 { [%eval 4.39] } 15... Nxh6 { [%eval 4.44] } 16. Qxh6 { [%eval 3.96] } 16... Qe7 { [%eval 4.2] } 17. e5? { [%eval 3.09] } 17... dxe5?? { [%eval 9.78] } 18. dxe5 { [%eval 9.42] } 18... Rd8?! { [%eval 10.34] } 19. Rxd8+? { [%eval 8.89] } 19... Kxd8 { [%eval 8.81] } 20. exf6 { [%eval 8.58] } 20... Qf8? { [%eval 12.02] } 21. Qf4 { [%eval 11.35] } 21... h6 { [%eval 17.43] } 22. Qb8+ { [%eval 16.91] } 22... Bc8 { [%eval 16.34] } 23. Ba6 { [%eval 14.91] } 23... Ke8?! { [%eval #9] } 24. Qxc8+ { [%eval #8] } 24... Kf7 { [%eval #8] } 25. Qxf8+?! { [%eval 12.1] } 25... Rxf8 { [%eval 11.76] } 26. Ne4 { [%eval 10.93] } 26... Rg8 { [%eval 17.09] } 27. Ne5+ { [%eval 16.38] } 1-0
+

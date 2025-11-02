@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WNb8wUtv"]
+[White "GrebnowVova"]
+[Black "ac34"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:15"]
+[WhiteElo "1875"]
+[BlackElo "1749"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed Variation"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. h3 Nc6 4. g3 e6 5. Bg2 Be7 6. d3 a6 7. Nge2 Qc7 8. O-O Nf6 9. f4 O-O 10. g4 b5 11. Ng3 b4 12. Nce2 Bb7 13. g5 Nd7 14. f5 exf5 15. exf5 f6 16. g6 h6 17. Nf4 Nd8 18. Nd5 Bxd5 19. Bxd5+ Kh8 20. Qh5 1-0
+

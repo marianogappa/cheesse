@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/C6PwQ6Qv"]
+[White "Trickstter"]
+[Black "rht"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:35"]
+[WhiteElo "1596"]
+[BlackElo "1552"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "C60"]
+[Opening "Ruy Lopez: Nuernberg Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f6 4. d4 a6 5. Bxc6 bxc6 6. dxe5 fxe5 7. Nxe5 d6 8. Qh5+ g6 9. Nxg6 hxg6 10. Qxh8 Be6 11. O-O Qg5 12. Bxg5 Bg7 13. Qxg7 Ne7 14. Qxe7# 1-0
+

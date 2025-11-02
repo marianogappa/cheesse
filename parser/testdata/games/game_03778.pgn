@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zx3d0Wh3"]
+[White "vetmedin"]
+[Black "efartemo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:21"]
+[WhiteElo "1617"]
+[BlackElo "1626"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+9"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.19] } 1... g6?! { [%eval 0.79] } 2. f4?! { [%eval 0.15] } 2... Bg7 { [%eval 0.3] } 3. Nf3 { [%eval 0.17] } 3... e6 { [%eval 0.35] } 4. c3 { [%eval 0.18] } 4... f5?! { [%eval 0.7] } 5. e5 { [%eval 0.68] } 5... Ne7 { [%eval 0.75] } 6. d4 { [%eval 0.76] } 6... O-O { [%eval 0.94] } 7. Bc4 { [%eval 0.76] } 7... Nbc6 { [%eval 0.68] } 8. a3 { [%eval 0.47] } 8... Kh8 { [%eval 0.93] } 9. O-O { [%eval 0.85] } 9... d6 { [%eval 0.95] } 10. exd6?! { [%eval 0.21] } 10... cxd6 { [%eval 0.29] } 11. Ng5 { [%eval 0.26] } 11... d5 { [%eval 0.26] } 12. Bb3 { [%eval 0.43] } 12... h6 { [%eval 0.5] } 13. Nf3 { [%eval 0.45] } 13... Qe8 { [%eval 0.74] } 14. Re1 { [%eval 0.64] } 14... Qf7 { [%eval 0.93] } 15. Nbd2 { [%eval 0.84] } 15... Qf6 { [%eval 0.91] } 16. c4? { [%eval -0.62] } 16... g5?! { [%eval 0.14] } 17. fxg5?! { [%eval -0.78] } 17... hxg5 { [%eval -0.78] } 18. c5? { [%eval -2.14] } 18... g4 { [%eval -2.0] } 19. Ne5 { [%eval -1.79] } 19... Nxe5?! { [%eval -1.2] } 20. dxe5 { [%eval -1.44] } 20... Qg6 { [%eval -1.11] } 21. Nf1? { [%eval -2.26] } 21... Rg8? { [%eval -0.29] } 22. Bc2 { [%eval -0.45] } 22... Bh6 { [%eval -0.32] } 23. b4 { [%eval -0.43] } 23... Bxc1 { [%eval -0.04] } 24. Rxc1?! { [%eval -0.64] } 24... Qg5 { [%eval -0.38] } 25. Qd4 { [%eval -0.85] } 25... Bd7 { [%eval -0.77] } 26. Bd1?? { [%eval -6.31] } 26... Nc6?? { [%eval -0.75] } 27. Qe3 { [%eval -1.04] } 27... f4 { [%eval -1.06] } 28. Qd3?! { [%eval -1.59] } 28... Raf8 { [%eval -1.72] } 29. Bc2? { [%eval -3.19] } 29... Rg7 { [%eval -2.78] } 30. Red1? { [%eval -5.72] } 30... Nxe5 { [%eval -5.07] } 31. Qc3? { [%eval -6.64] } 31... f3? { [%eval -5.5] } 32. g3?? { [%eval -11.42] } 32... f2+ { [%eval -10.89] } 33. Kh1 { [%eval -10.7] } 33... Nf3?? { [%eval -5.18] } 0-1
+

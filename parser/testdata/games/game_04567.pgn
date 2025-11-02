@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/5xrVZzk6"]
+[White "Horrible_at_Chess"]
+[Black "timekeeper03"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:27"]
+[WhiteElo "1248"]
+[BlackElo "1286"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-132"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. g3 e5 2. Bg2 d5 3. Nf3 Nc6 4. O-O Nf6 5. Nh4 Ne4 6. e3 Bb4 7. f3 Bxd2 8. Bxd2 Nxd2 9. Qxd2 e4 10. fxe4 dxe4 11. Qxd8+ Kxd8 12. Rd1+ Ke8 13. Bxe4 g6 14. Nc3 g5 15. Bxc6+ Bd7 16. Bxd7+ Ke7 17. Nf5+ Kf6 18. Nd4 Rhd8 19. Bb5 c5 20. Rf1+ Kg6 21. Nd5 a6 22. Bxa6 bxa6 23. Rf5 Kh5 24. Rxg5+ Kxg5 25. h3 Kg6 26. h4 Rxd5 27. Nf5 Rxf5 28. h5+ Rxh5 29. Rf1 Rh3 30. Rf2 Rxg3+ 31. Rg2 Rxg2+ 32. Kxg2 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KHmOwBUQ"]
+[White "JIB17777"]
+[Black "Sehya"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:28"]
+[WhiteElo "1516"]
+[BlackElo "1584"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+[ECO "A43"]
+[Opening "Benoni Defense: Benoni-Indian Defense"]
+[TimeControl "240+5"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.14] } 1... c5 { [%eval 0.6] } 2. d5 { [%eval 0.49] } 2... Nf6 { [%eval 0.64] } 3. c4 { [%eval 0.35] } 3... g6 { [%eval 0.65] } 4. Nc3 { [%eval 0.68] } 4... Bg7 { [%eval 0.78] } 5. e4 { [%eval 0.75] } 5... d6 { [%eval 0.72] } 6. Bd3 { [%eval 0.62] } 6... O-O { [%eval 0.82] } 7. Nge2 { [%eval 0.47] } 7... Nbd7 { [%eval 0.54] } 8. O-O { [%eval 0.33] } 8... Ne5 { [%eval 0.56] } 9. Bc2? { [%eval -0.57] } 9... Bg4? { [%eval 1.13] } 10. f3 { [%eval 1.05] } 10... Bd7 { [%eval 1.24] } 11. f4? { [%eval -0.79] } 11... Nxc4 { [%eval -0.69] } 12. b3 { [%eval -0.84] } 12... Nb6?! { [%eval -0.18] } 13. Bb2 { [%eval -0.56] } 13... Bg4 { [%eval -0.16] } 14. h3 { [%eval -0.21] } 14... Bxe2 { [%eval -0.2] } 15. Qxe2 { [%eval -0.61] } 15... h5? { [%eval 0.46] } 16. g4?! { [%eval -0.46] } 16... h4? { [%eval 0.67] } 17. Rab1 { [%eval 0.29] } 17... Qd7 { [%eval 0.7] } 18. f5?! { [%eval 0.13] } 18... Nh7 { [%eval 0.18] } 19. Qf3 { [%eval -0.28] } 19... Bxc3?? { [%eval 2.88] } 20. Bxc3? { [%eval 1.51] } 20... f6 { [%eval 1.74] } 21. fxg6 { [%eval 1.6] } 21... Ng5 { [%eval 2.03] } 22. Qf2?? { [%eval -8.34] } 22... Kg7?? { [%eval 5.63] } 23. Qxh4 { [%eval 5.15] } 23... Rh8? { [%eval 7.12] } 24. Qf2?? { [%eval -17.5] } 24... Nxh3+ { [%eval -16.43] } 0-1
+

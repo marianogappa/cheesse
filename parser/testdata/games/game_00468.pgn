@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9US5aq4p"]
+[White "Jalalattar"]
+[Black "viktoroko"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:40"]
+[WhiteElo "1689"]
+[BlackElo "1686"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "D80"]
+[Opening "Gruenfeld Defense: Stockholm Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Bg7 5. e3 O-O 6. Nf3 c5 7. Be2 cxd4 8. exd4 Nc6 9. O-O dxc4 10. Bxc4 Na5 11. Bb3 a6 12. Qc2 Nxb3 13. Qxb3 b5 14. a3 Bb7 15. Ne5 Rc8 16. Rad1 e6 17. Ng4 h5 18. Nh6+ Bxh6 19. Bxh6 Re8 20. Bg5 Kg7 21. a4 Qd7 22. axb5 axb5 23. Nxb5 Bd5 24. Qb4 Rb8 25. Qd2 Rxb5 26. Bh6+ Kh7 27. Qg5 Ne4 28. Qe3 Qb7 29. f3 Nd6 30. Qe5 f5 31. Bf4 Nf7 32. Qe3 Qe7 33. g4 hxg4 34. fxg4 Reb8 35. Bxb8 Rxb8 36. Qh3+ Kg7 37. gxf5 exf5 38. Rde1 Qf6 39. Qg3 Rxb2 40. Rf2 Rxf2 41. Qxf2 Qg5+ 42. Kf1 Qg4 43. Re7 Qd1+ 44. Qe1 Qf3+ 45. Qf2 Qh1+ 46. Qg1 Qf3+ 47. Qf2 Qh3+ 48. Qg2 Qd3+ 49. Qe2 Qxd4 0-1
+

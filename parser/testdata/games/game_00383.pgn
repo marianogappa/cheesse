@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/atlza0gj"]
+[White "lmhjb"]
+[Black "Manuel69"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:18"]
+[WhiteElo "1815"]
+[BlackElo "1889"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-12"]
+[ECO "A00"]
+[Opening "Van Geet Opening"]
+[TimeControl "300+5"]
+[Termination "Normal"]
+
+1. Nc3 g6 2. Nf3 Bg7 3. d4 e6 4. e4 Ne7 5. Bd3 O-O 6. O-O b6 7. Re1 Bb7 8. Bg5 d6 9. Qe2 Qd7 10. Rad1 Nec6 11. Bc4 a6 12. a4 Na5 13. Ba2 Nbc6 14. d5 Nb4 15. dxe6 fxe6 16. e5 Nxa2 17. Nxa2 d5 18. b3 c5 19. c4 d4 20. Qd3 Nc6 21. Nc3 Rad8 22. Ne4 Nb4 23. Qb1 Qc7 24. Bxd8 Rxd8 25. Nf6+ Kh8 26. Ng5 Bxf6 27. exf6 e5 28. Ne6 Qd7 29. Nxd8 Qxd8 30. Rxe5 Qxf6 31. Re8+ Kg7 32. Rde1 Bc6 33. R8e7+ Kh6 34. Qc1+ Qg5 35. Rxh7+ Kxh7 36. Qxg5 Nd3 37. Re7+ Kh8 38. Qh6+ Kg8 39. Qg7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/1D7kT9Kp"]
+[Site "https://lichess.org/c5sSLwA7"]
+[White "Agm2016"]
+[Black "safrio"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:20"]
+[WhiteElo "1513"]
+[BlackElo "1546"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Nimzowitsch System"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Qb6 5. Nc3 Nc6 6. Be3 Bd7 7. b3 f6 8. Bb5 Nge7 9. O-O a6 10. Bxc6 Nxc6 11. dxc5 Bxc5 12. Bxc5 Qxc5 13. a4 Qxc3 14. h3 fxe5 15. Ng5 O-O-O 16. Nf7 Rdf8 17. Nxh8 Rxh8 18. Qg4 g6 19. Rac1 e4 20. Kh2 Ne5 21. Qd1 Rf8 22. f3 exf3 23. gxf3 Nxf3+ 24. Kh1 Bc6 25. Qd3 Qf6 26. c4 d4 27. b4 Ne1+ 28. Kh2 Qxf1 29. Qxf1 Rxf1 30. b5 Be4 31. bxa6 bxa6 32. c5 Kc7 33. a5 Bf5 34. Kg3 Rg1+ 35. Kf2 Nd3+ 36. Kxg1 Nxc1 37. Kf2 d3 38. Ke1 Kc6 39. Kd2 Nb3+ 40. Kc3 Kxc5 41. Kxb3 d2 42. Kb2 d1=Q 43. Ka3 Qb1 44. h4 Kc4 45. h5 Qb3# 0-1
+

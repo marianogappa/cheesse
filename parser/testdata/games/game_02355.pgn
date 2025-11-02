@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MAvrT8ie"]
+[White "Lacordaire"]
+[Black "SimonJessen"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:58"]
+[WhiteElo "1853"]
+[BlackElo "2013"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[ECO "D43"]
+[Opening "Semi-Slav Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nf3 Nf6 4. Nc3 e6 5. Bf4 Nbd7 6. e3 Bb4 7. Qc2 O-O 8. Nd2 Re8 9. Bd3 e5 10. dxe5 Nxe5 11. Be2 d4 12. exd4 Qxd4 13. Be3 Qh4 14. Nf3 Nxf3+ 15. Bxf3 Rxe3+ 16. Kf1 Rxf3 17. gxf3 Bh3+ 18. Ke1 Re8+ 19. Kd1 Qxc4 20. Ne2 Rd8+ 21. Kc1 Qxc2+ 22. Kxc2 Rd2+ 23. Kb3 Rxe2 24. Kxb4 Rxb2+ 25. Kc3 Rxf2 26. Rad1 Rxf3+ 27. Kb2 Nd5 28. Rhe1 Rf2+ 29. Ka1 Be6 0-1
+

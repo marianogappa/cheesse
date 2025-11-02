@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/EjnPu5ye"]
+[White "GuidoBrasil"]
+[Black "GTD1998"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:03"]
+[WhiteElo "1768"]
+[BlackElo "1687"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "300+8"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 d6 3. Bc4 g6 4. Qf3 Nf6 5. d3 Bg4 6. Qg3 Qd7 7. h3 Be6 8. Na3 Nc6 9. c3 Na5 10. Bxe6 Qxe6 11. Nc4 Nxc4 12. dxc4 Qxc4 13. Bg5 Nxe4 14. Qe3 h6 15. Bh4 g5 16. Bg3 f5 17. Bh2 f4 18. Qc1 Qc5 19. Qc2 Qxf2+ 20. Qxf2 Nxf2 21. Kxf2 Bg7 22. Ne2 Rf8 23. Ke1 f3 24. gxf3 Rxf3 25. Bg3 O-O-O 26. h4 Bf6 27. hxg5 Bxg5 28. Bh4 Rg8 29. Bxg5 hxg5 30. Kd2 e4 31. Rae1 g4 32. Kc2 g3 33. Nd4 Rf4 34. Kb3 Kd7 35. Rhg1 d5 36. Nb5 a6 37. Nd4 c5 38. Nc2 b5 39. a3 a5 40. Re3 a4+ 41. Ka2 g2 42. b4 Rf1 43. Re1 Rf2 44. Kb2 cxb4 45. cxb4 Rc8 46. Rc1 d4 47. Kb1 d3 48. Ne3 Rg8 49. Nd5 d2 50. Rcd1 Re2 51. Kc2 Re1 52. Nf6+ Ke7 53. Nxg8+ Kf7 54. Nh6+ Kg6 55. Ng4 Rxd1 56. Kxd1 e3 57. Nxe3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SfRQ5csN"]
+[Site "https://lichess.org/n91Zt8jh"]
+[White "Dmitry90"]
+[Black "ZevokCherezXod"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:39"]
+[WhiteElo "1610"]
+[BlackElo "1771"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "D01"]
+[Opening "Queen's Pawn Game: Veresov Attack, Classical Defense"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nc3 Nf6 3. Nf3 e6 4. Bg5 Bb4 5. e4 dxe4 6. Bxf6 Qxf6 7. Bb5+ c6 8. Bc4 exf3 9. Qxf3 Qxf3 10. gxf3 Bxc3+ 11. bxc3 O-O 12. Rg1 b5 13. Bd3 Nd7 14. Rb1 Nf6 15. f4 a5 16. h3 Ba6 17. a3 Rfd8 18. c4 bxc4 19. Be2 h6 20. Rb6 Rxd4 21. Rxc6 Bb5 22. Rc7 Rb8 23. f3 Rxf4 24. c3 Be8 25. Kf2 Rb3 26. Rc1 Rxa3 27. Bd1 Ra2+ 28. Kg3 e5 29. Ra7 Nh5# 0-1
+

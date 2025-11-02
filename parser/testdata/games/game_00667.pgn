@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/AngBffbE"]
+[White "katrinesi"]
+[Black "konstantinos67"]
+[Result "1/2-1/2"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:25"]
+[WhiteElo "1874"]
+[BlackElo "1874"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[ECO "C20"]
+[Opening "Bishop's Opening: Boi Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Bc5 3. Qh5 Qf6 4. Nf3 Nc6 5. d3 h6 6. O-O d6 7. h3 g6 8. Qh4 Bd7 9. Nc3 Qxh4 10. Nxh4 Nd4 11. Nd5 O-O-O 12. c3 g5 13. Nf5 Nxf5 14. exf5 Bxf5 15. b4 Bb6 16. a4 a6 17. a5 Ba7 18. b5 axb5 19. Bb3 c6 20. Nb6+ Bxb6 21. axb6 Be6 22. Ra8+ Kd7 23. Bxe6+ fxe6 24. Ra7 Rb8 25. Be3 c5 26. Rb1 Kc6 27. Rba1 Ne7 28. R7a2 Nd5 29. c4 Nxe3 30. cxb5+ Kxb6 31. fxe3 Kxb5 32. Rb1+ Kc6 33. Rab2 b5 34. Rf1 Rhf8 35. Ra1 b4 36. Ra6+ Rb6 37. Ra7 d5 38. Rh7 Rf6 39. Ra7 c4 40. dxc4 dxc4 41. Ra4 b3 42. Rxc4+ Kd5 43. Rc3 Ke4 44. Rbxb3 Rxb3 45. Rxb3 Rf7 46. Ra3 h5 47. Kh2 Rf2 48. Kg3 Rf1 49. Kh2 h4 50. g3 Re1 51. gxh4 gxh4 52. Ra4+ Kxe3 53. Rxh4 Kf3 54. Rh6 e4 55. Rxe6 e3 56. Rf6+ Ke2 57. Kg3 Rf1 58. Rd6 Rd1 59. Re6 Rd3 60. h4 Kd1 61. Kf3 e2+ 62. Kf2 Rd2 63. Rxe2 Rxe2+ 64. Kg3 Re8 65. h5 Rg8+ 66. Kh4 Ke2 67. h6 Kf3 68. Kh5 Kf4 69. h7 Rg1 70. Kh6 Kf5 71. h8=Q Rh1+ 72. Kg7 Rxh8 73. Kxh8 1/2-1/2
+

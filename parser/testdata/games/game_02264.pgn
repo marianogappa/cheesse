@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UrDILAga"]
+[White "khalilou"]
+[Black "FederalElmo"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:35"]
+[WhiteElo "1160"]
+[BlackElo "1417"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d3 Bc5 3. Qf3 d6 4. d4 exd4 5. Bc4 Nf6 6. Bg5 O-O 7. Nh3 h6 8. Bxh6 gxh6 9. Qg3+ Kh8 10. Ng5 hxg5 11. Qxg5 Nh7 12. Qh6 Qf6 13. Qh5 d3 14. Bxd3 Qxf2+ 15. Kd1 Qxg2 16. e5 Qxh1+ 17. Kd2 Qg2+ 18. Kc3 Qg7 19. Nd2 Bg4 20. Qh4 f5 21. Rg1 dxe5 22. h3 Qg5 23. Qe1 e4 24. Bc4 Qg7+ 25. Kb3 Bxg1 26. hxg4 fxg4 27. Qxg1 Nc6 28. Nxe4 Nd4+ 29. Ka3 Nxc2+ 30. Kb3 Nd4+ 31. Ka3 Rf3+ 32. b3 Qe7+ 33. Kb2 Qxe4 34. Qh1 Qe2+ 35. Ka3 Qe7+ 36. Kb2 Raf8 37. Qg1 Rf2+ 38. Qxf2 Rxf2+ 39. Kc3 Nf5 40. Bd3 Qe5+ 41. Kb4 Rf4+ 42. Ka3 Qa5+ 43. Kb2 Ne3 44. Bxh7 Kxh7 0-1
+

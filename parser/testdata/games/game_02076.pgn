@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XQElnEp0"]
+[White "tranfunzel"]
+[Black "Krypto406"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:44"]
+[WhiteElo "1224"]
+[BlackElo "1288"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+38"]
+[ECO "C30"]
+[Opening "King's Gambit"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.15] } 1... e5 { [%eval 0.32] } 2. f4?! { [%eval -0.63] } 2... d6?! { [%eval 0.01] } 3. Bb5+?! { [%eval -0.64] } 3... Nc6?! { [%eval 0.15] } 4. fxe5? { [%eval -1.12] } 4... Qh4+ { [%eval -0.87] } 5. g3?? { [%eval -6.82] } 5... Qxe4+ { [%eval -6.91] } 6. Ne2?? { [%eval -19.08] } 6... Qxh1+ { [%eval -18.1] } 7. Kf2 { [%eval -23.23] } 7... Qxd1 { [%eval -22.54] } 0-1
+

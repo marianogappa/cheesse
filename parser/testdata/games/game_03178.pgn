@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ESXplqXo"]
+[White "Chinomario"]
+[Black "alihakan"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:59"]
+[WhiteElo "1762"]
+[BlackElo "1771"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "A43"]
+[Opening "Old Benoni Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. d4 c5 2. e3 cxd4 3. exd4 g6 4. Nf3 Bg7 5. c4 Nf6 6. Nc3 O-O 7. Bd3 b6 8. O-O Bb7 9. Re1 Na6 10. a3 Nc7 11. Bf4 Ne6 12. Be3 Ng4 13. h3 Nxe3 14. fxe3 Qc7 15. Rc1 Qg3 16. Ne2 Qd6 17. d5 Nc5 18. Bb1 e6 19. b4 Na6 20. Ned4 exd5 21. Nb5 Qe6 22. e4 dxc4 23. Nfd4 0-1
+

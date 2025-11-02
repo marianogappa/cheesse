@@ -1,0 +1,18 @@
+[Event "Rated Bullet tournament https://lichess.org/tournament/kSObWUuC"]
+[Site "https://lichess.org/3GBTQ8xa"]
+[White "Trundle"]
+[Black "JonahBK"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:10"]
+[WhiteElo "2024"]
+[BlackElo "2469"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+2"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e3 { [%eval 0.09] } 1... Nf6 { [%eval 0.17] } 2. d4 { [%eval 0.18] } 2... c5 { [%eval 0.27] } 3. Nf3 { [%eval 0.0] } 3... cxd4 { [%eval 0.31] } 4. exd4 { [%eval 0.35] } 4... d5 { [%eval 0.35] } 5. c3 { [%eval 0.18] } 5... Nc6 { [%eval 0.39] } 6. Bd3 { [%eval 0.38] } 6... Bg4 { [%eval 0.34] } 7. O-O { [%eval 0.29] } 7... e6 { [%eval 0.38] } 8. Nbd2 { [%eval -0.09] } 8... Bd6 { [%eval -0.12] } 9. Qc2 { [%eval -0.36] } 9... Rc8 { [%eval -0.22] } 10. b3 { [%eval -0.7] } 10... O-O { [%eval -0.46] } 11. h3? { [%eval -2.27] } 11... Nb4 { [%eval -2.31] } 12. Qb1 { [%eval -2.39] } 12... Nxd3? { [%eval -1.37] } 13. Qxd3 { [%eval -1.53] } 13... Bf5 { [%eval -1.43] } 14. Qe3 { [%eval -1.29] } 14... b5?! { [%eval -0.48] } 15. Ne5 { [%eval -0.87] } 15... Bxe5? { [%eval 0.15] } 16. dxe5 { [%eval 0.1] } 16... Nd7 { [%eval 0.0] } 17. Bb2 { [%eval -0.29] } 17... Nc5 { [%eval 0.0] } 18. f4 { [%eval -0.45] } 18... Nd3 { [%eval -0.58] } 19. Nf3?? { [%eval -3.91] } 19... Nxb2 { [%eval -3.75] } 20. Rab1 { [%eval -4.21] } 20... Bxb1 { [%eval -3.82] } 21. Rxb1 { [%eval -3.83] } 21... Qc7 { [%eval -3.76] } 22. Rxb2 { [%eval -3.75] } 22... Qxc3 { [%eval -3.64] } 23. Re2? { [%eval -4.79] } 23... Qxe3+ { [%eval -4.7] } 24. Rxe3 { [%eval -4.62] } 24... Rc2 { [%eval -4.56] } 25. Nd4 { [%eval -4.84] } 25... Rxa2 { [%eval -4.62] } 26. Nxb5 { [%eval -5.04] } 26... a6?! { [%eval -4.38] } 27. Nd6 { [%eval -4.64] } 27... Rb8 { [%eval -4.33] } 28. Kh2?! { [%eval -5.27] } 28... Rb2 { [%eval -4.84] } 29. Kg3?? { [%eval -10.59] } 29... R2xb3 { [%eval -9.83] } 30. Kg4? { [%eval #-11] } 30... Rxe3 { [%eval -49.94] } 0-1
+

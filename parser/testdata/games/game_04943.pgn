@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/RHvHA5Er"]
+[White "GustavoAPB"]
+[Black "LuckasMont"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:02"]
+[WhiteElo "1323"]
+[BlackElo "1115"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-10"]
+[ECO "C44"]
+[Opening "King's Knight Opening: Konstantinopolsky"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. g3 d5 4. Bb5 Nf6 5. exd5 a6 6. dxc6 axb5 7. cxb7 Bxb7 8. O-O Qd5 9. d4 Qxf3 10. Qxf3 Bxf3 11. Nd2 Bd5 12. b3 Ra4 13. bxa4 bxa4 14. c4 Bxc4 15. Nxc4 Bb4 16. Nxe5 Ne4 17. f3 Ke7 18. fxe4 Rd8 19. Nc6+ Kd6 20. Nxd8 Ke7 21. Nxf7 g6 22. Rb1 Ke6 23. Rxb4 a3 24. d5+ Ke7 25. Ng5 Kd6 26. Rb7 Ke5 27. Nf7+ Kd4 28. Ne5 Kxe4 29. Re1+ Kf5 30. Nd7 Kg4 31. Rf1 Kh3 32. Rf4 1-0
+

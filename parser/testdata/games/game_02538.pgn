@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/aUNuyEiz"]
+[White "ChernoBeliy"]
+[Black "ronnzer"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:37"]
+[WhiteElo "1678"]
+[BlackElo "1857"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-18"]
+[ECO "B03"]
+[Opening "Alekhine Defense #2"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 e6 4. c4 Nb6 5. Nf3 Nc6 6. a4 h6 7. a5 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nxc4 10. Bxc4 b6 11. d5 Nxa5 12. b3 Nb7 13. O-O O-O 14. Nc3 Nc5 15. b4 Nb7 16. Ne4 a5 17. d6 c5 18. bxc5 Nxc5 19. Nxc5 bxc5 20. Rfb1 f6 21. Rb5 fxe5 22. Rbxa5 Bb7 23. Nxe5 Qf6 24. Nxd7 Rxa5 25. Nxf6+ 1-0
+

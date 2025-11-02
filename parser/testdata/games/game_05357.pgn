@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/m43RIULK"]
+[White "ralphie_magpie"]
+[Black "phi_18"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:39"]
+[WhiteElo "1235"]
+[BlackElo "1528"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. Bxc6+ bxc6 5. d4 cxd4 6. Qxd4 c5 7. Qd5 Be6 8. Qc6+ Bd7 9. Qd5 Nf6 10. Qc4 g6 11. Nc3 Bg7 12. O-O O-O 13. Re1 Qc7 14. Bf4 e5 15. Bg5 h6 16. Bxf6 Bxf6 17. Nd5 Qd8 18. Nxf6+ Qxf6 19. Rad1 Kg7 20. c3 Qd8 21. b4 Rc8 22. Qd3 cxb4 23. cxb4 Qb6 24. Rb1 Bb5 25. Qe3 Qb7 26. Qd2 Rfd8 27. h4 a6 28. a3 d5 29. Nxe5 dxe4 30. Qf4 f5 31. f3 exf3 0-1
+

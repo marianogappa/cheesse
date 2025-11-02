@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Xx8yfmla"]
+[White "Brunomig"]
+[Black "Swedish_King_II"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:02:01"]
+[WhiteElo "1574"]
+[BlackElo "1712"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.29] } 1... c5 { [%eval 0.33] } 2. Bc4 { [%eval -0.09] } 2... Nc6 { [%eval -0.04] } 3. d3 { [%eval -0.19] } 3... d6 { [%eval 0.16] } 4. Nc3 { [%eval 0.0] } 4... Nf6 { [%eval 0.16] } 5. Bg5 { [%eval -0.18] } 5... g6 { [%eval 0.18] } 6. Qf3?! { [%eval -0.35] } 6... Bg7 { [%eval -0.34] } 7. Nd5 { [%eval -0.81] } 7... Nd4 { [%eval -0.8] } 8. Qd1 { [%eval -0.79] } 8... e6?! { [%eval -0.18] } 9. Nxf6+ { [%eval -0.26] } 9... Bxf6 { [%eval -0.16] } 10. Bh6?! { [%eval -1.11] } 10... d5 { [%eval -0.85] } 11. exd5 { [%eval -1.06] } 11... exd5 { [%eval -0.89] } 12. Bb3 { [%eval -1.17] } 12... Qe7+ { [%eval -0.96] } 13. Ne2?! { [%eval -1.47] } 13... Nxe2? { [%eval -0.29] } 14. Qxe2 { [%eval -0.32] } 14... Qxe2+ { [%eval -0.27] } 15. Kxe2 { [%eval -0.35] } 15... Be6 { [%eval -0.32] } 16. Rhe1 { [%eval -0.5] } 16... Bxb2?! { [%eval 0.14] } 17. Rab1 { [%eval 0.08] } 17... Bc3 { [%eval 0.02] } 18. Bd2? { [%eval -1.16] } 18... Bg7? { [%eval 0.91] } 19. Kf1? { [%eval -1.17] } 19... O-O { [%eval -0.93] } 20. c4? { [%eval -2.7] } 20... dxc4? { [%eval -0.99] } 21. dxc4?! { [%eval -1.56] } 21... Rad8 { [%eval -1.37] } 22. Ba5? { [%eval -3.28] } 22... b6 { [%eval -3.24] } 23. Bc3? { [%eval -6.02] } 23... Bxc3 { [%eval -5.96] } 0-1
+

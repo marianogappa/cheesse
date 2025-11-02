@@ -1,0 +1,18 @@
+[Event "Rated Classical tournament https://lichess.org/tournament/QqZpukrW"]
+[Site "https://lichess.org/DBtyc6oz"]
+[White "KingGadamer"]
+[Black "Portotoys"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:11"]
+[WhiteElo "1984"]
+[BlackElo "1450"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-1"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted, Fischer Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.42] } 1... e5 { [%eval 0.33] } 2. f4? { [%eval -0.7] } 2... exf4 { [%eval -0.43] } 3. Nf3 { [%eval -0.6] } 3... d6?! { [%eval -0.09] } 4. Bc4 { [%eval -0.26] } 4... h6 { [%eval -0.17] } 5. O-O?! { [%eval -0.92] } 5... f6?? { [%eval 2.39] } 6. d4? { [%eval 0.95] } 6... Ne7?! { [%eval 1.94] } 7. Bxf4 { [%eval 1.91] } 7... g5? { [%eval 3.92] } 8. Nxg5?? { [%eval 0.0] } 8... fxg5?? { [%eval 5.2] } 9. Qh5+ { [%eval 4.97] } 9... Kd7 { [%eval 4.88] } 10. Qf7?? { [%eval -1.11] } 10... gxf4 { [%eval -0.95] } 11. Be6+? { [%eval -3.29] } 11... Kc6 { [%eval -2.87] } 12. d5+?! { [%eval -3.64] } 12... Kb6 { [%eval -2.94] } 13. Qxf4? { [%eval -4.81] } 13... Bxe6 { [%eval -4.76] } 14. dxe6 { [%eval -4.08] } 14... Ng6?! { [%eval -3.3] } 15. Qe3+ { [%eval -3.39] } 15... c5 { [%eval -2.95] } 16. Nc3?! { [%eval -3.91] } 16... Qg5?? { [%eval 0.0] } 17. Nd5+ { [%eval 0.11] } 17... Qxd5?? { [%eval 6.85] } 18. exd5 { [%eval 6.68] } 18... Be7?! { [%eval 7.54] } 19. Rf7 { [%eval 7.28] } 19... Na6 { [%eval 7.37] } 20. Qb3+ { [%eval 7.14] } 20... Nb4? { [%eval 11.96] } 21. a3 { [%eval 11.32] } 21... a5 { [%eval 11.89] } 22. axb4 { [%eval 11.59] } 22... axb4 { [%eval 11.63] } 23. Rxa8 { [%eval 10.77] } 23... Rxa8 { [%eval 11.01] } 24. c3 { [%eval 10.37] } 24... Ra1+ { [%eval 11.67] } 25. Kf2 { [%eval 11.16] } 25... Bh4+ { [%eval 12.72] } 26. g3 { [%eval 11.42] } 26... Ne5 { [%eval 13.77] } 27. Rh7 { [%eval 9.72] } 27... Nd3+ { [%eval 10.01] } 28. Kg2 { [%eval 9.67] } 28... c4 { [%eval 17.78] } 29. Qxc4 { [%eval 16.25] } 29... Nxb2?! { [%eval #4] } 30. Qxb4+ { [%eval #3] } 30... Ka6 { [%eval #3] } 31. Qxb7+?! { [%eval #3] } 31... Ka5 { [%eval #3] } 32. Qxb2?! { [%eval #4] } 1-0
+

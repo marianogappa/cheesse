@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/s76tomAo"]
+[White "CCJIMENEZ"]
+[Black "crjekp"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:35"]
+[WhiteElo "1540"]
+[BlackElo "1482"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Two Pawn Attack"]
+[TimeControl "120+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 e6 5. Nc3 c5 6. d5 exd5 7. cxd5 d6 8. Bb5+ Bd7 9. e6 Bxb5 10. exf7+ Kxf7 11. Nxb5 g6 12. Ne2 Be7 13. O-O Kg7 14. Ng3 Rf8 15. Be3 a6 16. Nc3 N6d7 17. Qd2 Ne5 18. Bh6+ Kg8 19. Bxf8 Qxf8 20. Nce4 Nbd7 21. Ng5 Nf6 22. Ne6 Qf7 23. Rae1 b5 24. h3 c4 25. Ne4 Nd3 26. Nxf6+ Bxf6 27. Re3 Bd4 28. Rf3 Qa7 29. Qh6 Ne5 30. Rf8+ Rxf8 31. Qxf8# 1-0
+

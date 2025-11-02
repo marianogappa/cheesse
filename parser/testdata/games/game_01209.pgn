@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/X2rhuDG7"]
+[White "Prasonio"]
+[Black "niniveii"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:30"]
+[WhiteElo "1779"]
+[BlackElo "1694"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+13"]
+[ECO "B44"]
+[Opening "Sicilian Defense: Paulsen Variation"]
+[TimeControl "30+0"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 c5 3. d4 cxd4 4. Nxd4 Nc6 5. Nxc6 bxc6 6. Nc3 Qc7 7. e5 Bb4 8. Bf4 Bxc3+ 9. bxc3 Ne7 10. Bc4 Ng6 11. O-O Nxf4 12. Qf3 Ng6 13. Rad1 Qxe5 14. Rfe1 Qc7 15. Bxe6 dxe6 16. Rxe6+ Bxe6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/rFDnpTby"]
+[White "cordoba"]
+[Black "Brazilian1000"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:11:14"]
+[WhiteElo "1626"]
+[BlackElo "1774"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "A30"]
+[Opening "English Opening: Symmetrical Variation"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. c4 c5 2. g3 Nc6 3. Bg2 e6 4. Nf3 d5 5. cxd5 exd5 6. O-O Be6 7. d3 Qd7 8. Nc3 Bh3 9. Bd2 h5 10. Ng5 Bxg2 11. Kxg2 h4 12. e4 hxg3 13. fxg3 O-O-O 14. Nxf7 Qh3+ 15. Kf3 Nd4+ 16. Ke3 Nf6 17. Rf4 Bd6 18. Nxh8 Bxf4+ 19. Kf2 Ng4+ 20. Ke1 Bxg3+ 21. hxg3 Qh1# 0-1
+

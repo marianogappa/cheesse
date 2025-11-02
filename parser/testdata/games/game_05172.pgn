@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/2prMmggV"]
+[White "stefbesbar"]
+[Black "mbh14"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:55"]
+[WhiteElo "1154"]
+[BlackElo "1169"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+14"]
+[ECO "C46"]
+[Opening "Four Knights Game: Italian Variation"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. Nc3 e5 3. Bc4 Nc6 4. Nf3 a6 5. h3 b5 6. Bb3 h5 7. O-O Bc5 8. Qe2 Nd4 9. Nxd4 Bxd4 10. Nxb5 Rb8 11. Nxd4 exd4 12. Bc4 c6 13. d3 Nd5 14. Qf3 Nf6 15. e5 Nd5 16. Bf4 Nxf4 17. Qxf4 d5 18. Bb3 Rh6 19. Qxd4 Rg6 20. g3 Bxh3 21. Rfe1 Qe7 22. Qe3 f6 23. e6 f5 24. Qe5 Rd8 25. Ba4 Rd6 26. Bxc6+ Rxc6 27. Qb8+ Qd8 28. Qe5 Qe7 29. Kh2 Rcxe6 30. Qb8+ Qd8 31. Qe5 Qg5 32. Kxh3 Qg4+ 33. Kg2 Rxe5 34. Rxe5+ Kf7 35. Rae1 Qb4 36. Rxf5+ Rf6 37. Ree5 Qg4 38. Rxd5 g6 39. Rg5 Qf3+ 40. Kh3 Qxf2 41. Rd7+ Ke6 0-1
+

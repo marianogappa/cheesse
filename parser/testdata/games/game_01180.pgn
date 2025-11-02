@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/11asfHpv"]
+[White "trafico"]
+[Black "SLiMMuX"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:26"]
+[WhiteElo "1337"]
+[BlackElo "1578"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-18"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. e3 e6 3. a3 c5 4. c4 d6 5. d5 Be7 6. Nc3 a6 7. Qa4+ Bd7 8. Qb3 O-O 9. Qxb7 exd5 10. Nxd5 Nc6 11. Qb3 Be6 12. Nf3 Rb8 13. Qd1 Qa5+ 14. Bd2 Qd8 15. Rb1 Nxd5 16. cxd5 Bxd5 17. Bc3 Bb3 18. Qd3 c4 19. Qd5 Rb5 20. Qxc6 Bc2 21. Rc1 Bb3 22. Bxc4 Bxc4 23. Qxc4 Rc5 24. Qa4 Bf6 25. O-O Bxc3 26. Rxc3 Ra5 27. Qd4 Qb8 28. b4 Rh5 29. g3 Qa8 30. Ne1 Rd5 31. Qe4 Rd1 32. Qxa8 Rxa8 33. Rd3 Rxd3 34. Nxd3 a5 35. bxa5 Rxa5 36. Ra1 Kf8 37. Kg2 Ke7 38. Nb4 Ke6 39. Nc6 Ra6 40. Nd4+ Kd5 41. a4 f6 42. a5 Ke5 43. h4 d5 44. f4+ Ke4 45. Nc2 Kd3 46. Nb4+ 1-0
+

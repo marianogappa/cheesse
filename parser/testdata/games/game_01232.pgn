@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lEs34qsS"]
+[White "Eco2016"]
+[Black "CuyoMorphy"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:35"]
+[WhiteElo "1750"]
+[BlackElo "1625"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Blackburne Gambit"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 c6 3. dxc6 Nxc6 4. Nf3 e5 5. Bc4 e4 6. Ng1 Nf6 7. Nc3 Bc5 8. h3 O-O 9. Nge2 Be6 10. Bxe6 fxe6 11. O-O Bd6 12. d3 exd3 13. Qxd3 Ne5 14. Qb5 b6 15. Bg5 h6 16. Bxf6 Qxf6 17. Ne4 Nf3+ 18. gxf3 Qxf3 19. Nxd6 Qxh3 20. Qd3 Rf3 21. Qg6 Rf6 22. Qg3 Qh5 23. Nf4 Qe5 24. Rad1 Rxf4 25. c3 Qh5 26. Qxf4 Rf8 27. Qh2 Qg6+ 28. Qg2 Qh5 29. f3 Rf6 30. Kf2 Qc5+ 31. Ke1 e5 32. Ne4 Qe3+ 33. Qe2 Qxe2+ 34. Kxe2 Rg6 35. Rd8+ 1-0
+

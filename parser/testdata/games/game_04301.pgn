@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/1BOovvBE"]
+[White "Gi69"]
+[Black "chemical1"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:25"]
+[WhiteElo "1884"]
+[BlackElo "1942"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+11"]
+[ECO "D04"]
+[Opening "Queen's Pawn Game: Colle System"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 c6 4. Bd3 Bg4 5. c3 e6 6. h3 Bxf3 7. Qxf3 Nbd7 8. Nd2 Be7 9. O-O O-O 10. e4 dxe4 11. Nxe4 Rc8 12. Bg5 Nxe4 13. Bxe7 Qxe7 14. Qxe4 Nf6 15. Qe2 b5 16. Rfe1 a5 17. Bf5 Rfd8 18. Bd3 Nd5 19. Qe4 Nf6 20. Qe2 Nd5 21. Qh5 Nf6 22. Qg5 Rd5 23. Qd2 h6 24. Re2 Rg5 25. Rae1 Qd6 26. Re5 Rd8 27. Rxg5 hxg5 28. Qxg5 c5 29. Rd1 c4 30. Qxb5 cxd3 31. Qxa5 Rb8 32. b3 Qf4 33. Rxd3 Ne4 34. Rf3 Qc1+ 35. Kh2 Nxc3 36. Qh5 Rf8 37. Qg4 Ne2 38. Re3 Qg1# 0-1
+

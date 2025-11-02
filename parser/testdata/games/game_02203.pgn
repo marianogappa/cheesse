@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/c7v8ixvt"]
+[White "experimentalphysics"]
+[Black "ushbay"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:18"]
+[WhiteElo "1257"]
+[BlackElo "1414"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[ECO "A46"]
+[Opening "Torre Attack #2"]
+[TimeControl "240+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. Nf3 e6 3. e4 d5 4. e5 Ne4 5. Nbd2 Nxd2 6. Bxd2 c5 7. c3 cxd4 8. cxd4 Nc6 9. Be2 Be7 10. O-O O-O 11. Qc1 Qb6 12. Bg5 Bxg5 13. Nxg5 h6 14. Nf3 Nxd4 15. Nxd4 Qxd4 16. Qe3 Qxb2 17. f4 d4 18. Qe4 Rd8 19. Bd3 Qb6 20. Qh7+ Kf8 21. Qh8+ Ke7 22. Qxg7 Bd7 23. f5 exf5 24. Bxf5 Rg8 25. Qxh6 Qxh6 26. Bxd7 Kxd7 27. Rxf7+ Kc6 28. Rc1+ Kd5 0-1
+

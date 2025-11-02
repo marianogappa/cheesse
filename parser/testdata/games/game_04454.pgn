@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/aX32UunR"]
+[White "HD2010"]
+[Black "maliuk"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:05"]
+[WhiteElo "1357"]
+[BlackElo "1516"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Normal Variation"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. Bc4 Nb6 4. Bb3 Nc6 5. Nf3 e6 6. d3 d6 7. d4 dxe5 8. Nxe5 Nxe5 9. dxe5 Qxd1+ 10. Kxd1 Bc5 11. f3 O-O 12. h4 Nd5 13. Nd2 Rd8 14. Bxd5 Rxd5 15. b3 Bd4 16. Rb1 Bc3 17. f4 b6 18. g4 Bb7 19. Rh2 Rad8 20. g5 Rd4 21. h5 Rxf4 22. g6 Ba6 23. b4 Rf1# 0-1
+

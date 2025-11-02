@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SUaU6l6a"]
+[White "xemiilio"]
+[Black "alvaroglm"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:53"]
+[WhiteElo "1171"]
+[BlackElo "1247"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-31"]
+[ECO "C60"]
+[Opening "Ruy Lopez: Cozio Defense"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bb5 Nge7 4. Nc3 a6 5. Ba4 b5 6. Bb3 Ng6 7. O-O Bc5 8. d3 O-O 9. Re1 Re8 10. Bg5 Nce7 11. d4 h6 12. dxc5 hxg5 13. Nxg5 Nf4 14. Qg4 Rf8 15. Qh4 Nh3+ 16. gxh3 g6 17. Qh7# 1-0
+

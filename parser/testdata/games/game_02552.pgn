@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/InRQeda7"]
+[White "ChuecoMaciel"]
+[Black "Berrendero"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:37"]
+[WhiteElo "1862"]
+[BlackElo "1962"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[TimeControl "480+0"]
+[Termination "Normal"]
+
+1. f4 d5 2. Nf3 Nc6 3. g3 Bf5 4. Bg2 e6 5. d3 Bc5 6. Nh4 Bg6 7. Nxg6 hxg6 8. c3 Nf6 9. d4 Bd6 10. O-O Qd7 11. Nd2 O-O-O 12. Nf3 Ne4 13. Qc2 f5 14. Re1 Rh5 15. b4 Rdh8 16. a4 Nf6 17. h3 Ne7 18. Be3 Ne4 19. Bf2 g5 20. fxg5 Bxg3 21. Bxg3 Nxg3 22. Ne5 Qe8 23. c4 Ne4 24. cxd5 exd5 25. Rac1 c6 26. b5 Rxg5 27. bxc6 Nxc6 28. Qd3 Rh6 29. Rc2 Kb8 30. Nf3 Rxg2+ 31. Kxg2 Qg6+ 32. Kh2 Qg3+ 33. Kh1 Rxh3+ 34. Nh2 Qxh2# 0-1
+

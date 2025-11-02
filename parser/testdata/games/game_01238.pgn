@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/IZ4epFLi"]
+[White "shooky"]
+[Black "AligiereTensa"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:37"]
+[WhiteElo "1185"]
+[BlackElo "1162"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+37"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Qh5 Qh4 3. Nf3 Qxh5 4. Nh4 Qxh4 5. Bc4 Qxe4+ 6. Be2 Qc4 7. Bxc4 d5 8. Bxd5 c6 9. Bc4 b5 10. O-O bxc4 11. Nc3 Bg4 12. d3 Nd7 13. dxc4 Nc5 14. Bg5 Ne4 15. Nxe4 f6 16. Be3 f5 0-1
+

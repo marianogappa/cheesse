@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/POpx8b67"]
+[White "crypt010gist"]
+[Black "byGarooh"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:19:04"]
+[WhiteElo "1357"]
+[BlackElo "1109"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-11"]
+[ECO "A07"]
+[Opening "King's Indian Attack"]
+[TimeControl "360+0"]
+[Termination "Normal"]
+
+1. Nf3 { [%eval 0.22] } 1... d5 { [%eval 0.31] } 2. g3 { [%eval 0.02] } 2... Nc6 { [%eval 0.15] } 3. Bg2 { [%eval -0.18] } 3... Nb4?! { [%eval 0.61] } 4. c3 { [%eval 0.54] } 4... Nc6 { [%eval 0.53] } 5. d4 { [%eval 0.45] } 5... Bf5 { [%eval 0.64] } 6. Nbd2 { [%eval 0.67] } 6... e5?! { [%eval 1.54] } 7. Nb3? { [%eval 0.24] } 7... exd4?! { [%eval 1.08] } 8. Nbxd4 { [%eval 0.74] } 8... a6?? { [%eval 4.86] } 9. Nxf5 { [%eval 4.43] } 1-0
+

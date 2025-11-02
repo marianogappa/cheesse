@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/EEWasPA1"]
+[White "adrianofr"]
+[Black "mahmud_1995"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:29"]
+[WhiteElo "1862"]
+[BlackElo "1893"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "C55"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. c3 Nf6 5. O-O Be7 6. Re1 O-O 7. d4 exd4 8. cxd4 d5 9. exd5 Nxd5 10. Nc3 Be6 11. Ne5 Na5 12. Nxd5 Bxd5 13. Bd3 Bf6 14. Qg4 Be6 15. Qg3 Qxd4 16. Bxh6 Rad8 17. Rad1 Qxb2 18. Ng4 Bxg4 19. Qxg4 Qa3 20. Qf5 Rxd3 21. Rxd3 Qb4 22. Rde3 Nc6 23. Rb1 Qh4 24. Rh3 Nd4 25. Qd3 Qg4 26. f3 Qg6 27. Qxg6 fxg6 28. Be3 b6 29. Rg3 Ne2+ 30. Kf2 Nxg3 31. Kxg3 c5 32. Kg4 Rd8 33. Rb3 Rd1 34. g3 Kf7 35. h4 Ke6 36. Bf4 Kd5 37. Bg5 c4 38. Re3 b5 39. Bxf6 gxf6 40. Re7 a5 41. Rd7+ Kc6 42. Rxd1 b4 43. Kf4 c3 44. Rc1 Kc5 45. Ke3 Kc4 46. g4 a4 47. h5 gxh5 48. gxh5 b3 49. axb3+ axb3 50. h6 b2 51. Rh1 1-0
+

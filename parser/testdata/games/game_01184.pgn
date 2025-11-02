@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6kIzMz8x"]
+[White "detettore"]
+[Black "enki10"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:26"]
+[WhiteElo "1874"]
+[BlackElo "1975"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+[ECO "B07"]
+[Opening "Pirc Defense"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.39] } 1... d6 { [%eval 0.5] } 2. d4 { [%eval 0.51] } 2... Nf6 { [%eval 0.62] } 3. Bd3 { [%eval 0.31] } 3... e5 { [%eval 0.39] } 4. d5 { [%eval 0.34] } 4... Be7 { [%eval 0.41] } 5. Nf3 { [%eval 0.13] } 5... O-O { [%eval 0.44] } 6. O-O { [%eval 0.14] } 6... Bg4 { [%eval 0.36] } 7. h3 { [%eval 0.41] } 7... Bxf3 { [%eval 0.59] } 8. Qxf3 { [%eval 0.46] } 8... Ne8 { [%eval 0.81] } 9. Nd2 { [%eval 0.51] } 9... Bg5 { [%eval 0.64] } 10. Nb3 { [%eval 0.15] } 10... Nd7 { [%eval 0.47] } 11. Qg3 { [%eval 0.0] } 11... Bxc1 { [%eval 0.0] } 12. Raxc1 { [%eval -0.09] } 12... g6 { [%eval 0.23] } 13. f4 { [%eval -0.14] } 13... exf4 { [%eval 0.0] } 14. Qxf4 { [%eval -0.02] } 14... Qe7 { [%eval 0.1] } 15. Kh1 { [%eval -0.37] } 15... Qe5 { [%eval -0.15] } 16. Qh6?! { [%eval -0.9] } 16... Qxb2 { [%eval -0.65] } 17. a4?! { [%eval -1.16] } 17... Qg7 { [%eval -1.04] } 18. Na5?? { [%eval -13.3] } 18... Qxh6 { [%eval -13.09] } 0-1
+

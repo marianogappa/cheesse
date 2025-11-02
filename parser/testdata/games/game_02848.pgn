@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4mU9304F"]
+[White "edujujuy"]
+[Black "Barbikusz"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:37"]
+[WhiteElo "2125"]
+[BlackElo "2108"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+13"]
+[ECO "B48"]
+[Opening "Sicilian Defense: Paulsen Variation, Bastrikov Variation, English Attack"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6 8. f3 b5 9. O-O-O Bb7 10. g4 b4 11. Nce2 h6 12. h4 d5 13. exd5 Nxd5 14. Bg2 Ne5 15. Bf2 Rc8 16. Kb1 Bc5 17. Rhe1 O-O 18. g5 h5 19. f4 Ng4 20. Bg1 g6 21. Qd3 Nc3+ 22. bxc3 Bxg2 23. c4 Rfd8 24. Nxe6 Rxd3 25. Nxc7 Rxd1+ 26. Rxd1 Rxc7 27. Rd8+ Kg7 28. Nd4 Be4 29. Kb2 a5 30. Kb3 a4+ 31. Kxa4 Ra7+ 32. Kb3 Ra3+ 33. Kb2 Rc3 34. Nf5+ Bxf5 35. Bxc5 Rxc2+ 0-1
+

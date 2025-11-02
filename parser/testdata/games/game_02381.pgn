@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/W0XdR7vX"]
+[White "serega70-70"]
+[Black "fkcrage"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:00"]
+[WhiteElo "1313"]
+[BlackElo "1221"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+13"]
+[ECO "C44"]
+[Opening "King's Knight Opening: Normal Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d3 Nf6 4. Be3 Bb4+ 5. Nbd2 Bxd2+ 6. Qxd2 O-O 7. a3 d6 8. h4 Ng4 9. h5 Nxe3 10. Qxe3 Re8 11. h6 g6 12. g3 Bg4 13. Bh3 Bxf3 14. Qxf3 Nd4 15. Qd1 c5 16. c3 Nc6 17. c4 a6 18. f4 b5 19. b3 bxc4 20. dxc4 Nd4 21. Rb1 Rb8 22. fxe5 dxe5 23. Rh2 Qc7 24. Rf2 Rbd8 25. Qc1 Qa5+ 26. b4 cxb4 27. axb4 Qc7 28. Ra1 Nb3 29. Qg5 Nxa1 30. Qf6 Nc2+ 31. Rxc2 Kf8 32. Qg7+ Ke7 33. Rf2 Rf8 34. Qxh7 Qxc4 35. Be6 Qxe4+ 36. Kf1 Rd1# 0-1
+

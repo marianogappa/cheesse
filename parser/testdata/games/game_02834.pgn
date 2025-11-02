@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ch9eZY9j"]
+[White "danyelsocke"]
+[Black "mete1903"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:37"]
+[WhiteElo "1396"]
+[BlackElo "1372"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "C41"]
+[Opening "Philidor Defense #2"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 g6 4. Bc4 Bg7 5. d3 Ne7 6. Ng5 O-O 7. Qf3 Qe8 8. Nd5 Nxd5 9. Bxd5 Be6 10. Bxb7 Nd7 11. Bxa8 Qxa8 12. Nxe6 fxe6 13. Qg4 d5 14. Qxe6+ Kh8 15. Qxd7 dxe4 16. Qxc7 exd3 17. O-O dxc2 18. Qxc2 Rf6 19. Qe4 Qxe4 20. Be3 h6 21. Bxa7 Kh7 22. Rfe1 Qc2 23. Rxe5 Qxb2 24. Rae1 Qxa2 25. Bc5 Bf8 26. Bxf8 Rxf8 27. Re7+ Kg8 28. h3 Qxf2+ 29. Kh2 Rf7 30. R7e2 Qf4+ 31. Kg1 Kg7 32. Rf1 Qd4+ 33. Rff2 Rxf2 34. Rxf2 Qd1+ 35. Rf1 Qd4+ 36. Rf2 g5 37. Kf1 Kg6 38. Ke2 Kh5 39. g4+ Kh4 40. Rf6 Qxf6 0-1
+

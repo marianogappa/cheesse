@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ncEyb2JY"]
+[White "cortona"]
+[Black "kasparovunkocasi"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:29"]
+[WhiteElo "1200"]
+[BlackElo "1212"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+18"]
+[ECO "C43"]
+[Opening "Petrov: Modern Attack"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. Qxd4 Nc6 5. Qc4 Bb4+ 6. Bd2 Qe7 7. Ng5 h6 8. e5 Qxe5+ 9. Qe2 hxg5 10. Bxb4 d6 11. Bc3 Qe4 12. Nd2 Qe6 13. Ne4 O-O 14. Qb5 Qxe4+ 15. Qe2 Re8 16. f3 Qf5 17. g3 Rxe2+ 18. Bxe2 Qxc2 19. Bxf6 gxf6 20. Bb5 Bh3 21. Rd1 Re8+ 22. Be2 Rxe2# 0-1
+

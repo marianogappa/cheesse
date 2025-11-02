@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VwW2HIXn"]
+[White "nunkin"]
+[Black "davixlara"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:14:16"]
+[WhiteElo "1187"]
+[BlackElo "1232"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 b6 6. Qd5 c6 7. Qe5+ Qe7 8. Qxe7+ Bxe7 9. Bd3 Bb4+ 10. c3 Bc5 11. O-O Nf6 12. b4 Bd6 13. Re1 Ng4 14. g3 O-O 15. Bb2 Be5 16. a3 b5 17. f4 Bf6 18. e5 Be7 19. c4 a6 20. c5 Bb7 21. Bf5 Nh6 22. Bxd7 Rad8 23. e6 Nf5 24. Nc3 f6 25. Rad1 Bc8 26. Bxc8 Rxc8 27. Rd7 Rce8 28. Kf2 Rd8 29. a4 bxa4 30. Nxa4 Rfe8 31. Kf3 Kf8 32. Ke4 Nh6 33. h3 Rxd7 34. exd7 Rd8 35. Rd1 Nf7 36. Nb6 g6 37. Nc8 f5+ 38. Kf3 Nh6 39. Nxe7 Kxe7 40. Bg7 Nf7 0-1
+

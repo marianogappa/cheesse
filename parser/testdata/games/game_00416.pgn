@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/QcE0zqsj"]
+[White "srobi14"]
+[Black "AndreyBaunov"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:01:27"]
+[WhiteElo "1808"]
+[BlackElo "1770"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "B28"]
+[Opening "Sicilian Defense: O'Kelly Variation, Yerevan System"]
+[TimeControl "900+5"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 a6 3. Nc3 Nc6 4. Be2 e6 5. O-O Be7 6. d4 cxd4 7. Nxd4 Bf6 8. Be3 Nge7 9. f4 Ng6 10. f5 Nge5 11. fxe6 dxe6 12. Nxc6 Nxc6 13. Qxd8+ Nxd8 14. Bb6 Nc6 15. Rad1 O-O 16. Bc4 Re8 17. Rfe1 Ne5 18. Bb3 Bg5 19. Na4 Nc6 20. e5 Bf4 21. Bc7 f6 22. Nb6 Bxe5 23. Bxe5 Nxe5 24. Nxa8 Bd7 25. Nb6 Bc6 26. Nc4 Nf7 27. Nd6 Ne5 28. Rxe5 fxe5 29. Nxe8 1-0
+

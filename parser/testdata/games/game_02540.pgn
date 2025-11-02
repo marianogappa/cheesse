@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RDcqy7DC"]
+[White "elpalomo"]
+[Black "Perunometr"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:09:38"]
+[WhiteElo "1334"]
+[BlackElo "1457"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "E00"]
+[Opening "Indian Game: East Indian Defense"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 e6 3. e3 d5 4. b3 c5 5. Bb2 Nc6 6. Ne2 Qb6 7. Nf4 Be7 8. Nc3 cxd4 9. cxd5 Bb4 10. exd4 Bxc3+ 11. Bxc3 Nb4 12. dxe6 Bxe6 13. Bc4 Bxc4 14. bxc4 O-O 15. Rb1 Rfe8+ 16. Ne2 a5 17. c5 Qe6 18. O-O Qxe2 19. Qxe2 Rxe2 20. Bxb4 axb4 21. Rxb4 Rexa2 22. Rxb7 h6 23. Rfb1 Kh7 24. g3 Ne4 25. f3 Nd2 26. R1b2 Nxf3+ 27. Kf1 Ra1+ 28. Ke2 Nxd4+ 29. Ke3 Nc6 30. Rxf7 R1a3+ 31. Ke4 R3a4+ 32. Kd5 Rc8 33. Rbb7 Nb4+ 34. Kd6 Rg8 35. h4 Ra6+ 36. Ke5 Nc6+ 37. Kd5 Nb4+ 38. Kc4 Nc6 39. h5 Ne5+ 40. Kb5 Ra1 41. Rf5 Rb1+ 0-1
+

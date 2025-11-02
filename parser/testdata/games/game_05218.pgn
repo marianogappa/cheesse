@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0Uxx0uj0"]
+[White "thiagobcs"]
+[Black "Perunometr"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:03"]
+[WhiteElo "1487"]
+[BlackElo "1464"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "300+0"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 c5 5. Bf4 Nc6 6. dxc5 Bxc5 7. Bb5 Qa5+ 8. Nc3 Qb6 9. Qe2+ Ne7 10. O-O-O Be6 11. Be5 a6 12. Bxc6+ bxc6 13. Bxg7 Rg8 14. Bf6 Ng6 15. Ng5 Bxf2 16. Bd4 Bxd4 17. Nxe6 Be3+ 18. Kb1 d4 19. Ng5 dxc3 20. b3 Nf4 21. Qf1 Kf8 22. Nxh7+ Kg7 23. Ng5 f6 24. Ne4 Kf7 25. Rd7+ Ke6 26. Rd6+ Ke5 27. Qf3 Rad8 28. Nxf6 Rxd6 29. Nxg8 Qa5 30. a4 Qb4 31. Qxe3+ Kf5 32. Ka2 Re6 33. Qg3 Rg6 34. Ne7+ Qxe7 35. Qxc3 Qd6 36. Rf1 Rxg2 37. h4 c5 38. Qf3 Qd5 39. Qxd5+ Kg4 40. Rxf4+ Kg3 41. Rf3+ Kg4 42. h5 Rxc2+ 43. Ka3 Rc1 44. h6 Ra1+ 45. Kb2 Re1 46. h7 Re2+ 47. Kc3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/LZWYAzHm"]
+[White "fbilsen"]
+[Black "Skenderbei"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:20"]
+[WhiteElo "1123"]
+[BlackElo "1384"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "60+0"]
+[Termination "Time forfeit"]
+
+1. e3 { [%eval 0.08] } 1... a6 { [%eval 0.2] } 2. d3 { [%eval -0.02] } 2... h6 { [%eval 0.13] } 3. Nf3 { [%eval 0.02] } 3... a5 { [%eval 0.45] } 4. d4 { [%eval 0.41] } 4... h5?! { [%eval 1.38] } 5. Bc4?! { [%eval 0.88] } 5... a4 { [%eval 1.34] } 6. a3 { [%eval 1.11] } 6... h4?! { [%eval 1.62] } 7. Nc3 { [%eval 1.41] } 7... d6 { [%eval 1.51] } 8. e4 { [%eval 1.53] } 8... h3 { [%eval 1.68] } 9. g3?! { [%eval 1.15] } 9... Bg4?? { [%eval 4.31] } 10. Bd5?? { [%eval 0.44] } 10... Ra7?? { [%eval 4.92] } 11. Nb5?? { [%eval 0.76] } 11... Ra5? { [%eval 2.51] } 12. Qd3?? { [%eval -1.15] } 12... c6 { [%eval -1.09] } 13. Bd2? { [%eval -3.27] } 13... cxd5? { [%eval -2.27] } 14. Bxa5 { [%eval -2.48] } 14... Qxa5+ { [%eval -2.11] } 15. Nc3?! { [%eval -2.61] } 15... Nc6? { [%eval -1.38] } 16. exd5 { [%eval -1.52] } 16... Na7 { [%eval -1.37] } 17. Nd2 { [%eval -1.37] } 17... Nb5?? { [%eval 2.64] } 18. Nxb5 { [%eval 2.66] } 18... Nf6 { [%eval 2.6] } 19. c3?! { [%eval 1.74] } 19... g6?! { [%eval 2.33] } 20. Nc4 { [%eval 2.23] } 20... Qd8 { [%eval 2.17] } 21. b4? { [%eval 1.13] } 21... Nxd5 { [%eval 1.39] } 22. Rb1? { [%eval 0.18] } 22... Bh6 { [%eval 0.27] } 23. O-O { [%eval 0.31] } 23... Qd7 { [%eval 0.37] } 24. Ne3 { [%eval 0.04] } 24... Nxe3 { [%eval 0.21] } 25. fxe3 { [%eval 0.08] } 25... Bxe3+? { [%eval 1.64] } 0-1
+

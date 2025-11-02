@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/Appmkczh"]
+[White "nedmac101"]
+[Black "indretasting"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:49"]
+[WhiteElo "1526"]
+[BlackElo "1831"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "30+0"]
+[Termination "Time forfeit"]
+
+1. d3 e6 2. Nf3 d5 3. Nc3 Nf6 4. Bg5 d4 5. Bxf6 Qxf6 6. Ne4 Qd8 7. c3 c5 8. g3 Nc6 9. Bg2 Be7 10. O-O O-O 11. cxd4 f5 12. d5 fxe4 13. dxe4 exd5 14. exd5 Nb4 15. d6 Na6 16. dxe7 Qxe7 17. Nd2 Rd8 18. Qe1 Bg4 19. Rd1 Bh5 20. f3 Qxe2 21. g4 Qxd2 0-1
+

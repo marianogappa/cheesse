@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/prR1L3eJ"]
+[White "clutesd"]
+[Black "voromil"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:17:02"]
+[WhiteElo "1157"]
+[BlackElo "1647"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+1"]
+[ECO "A00"]
+[Opening "Mieses Opening: Reversed Rat"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. d3 e5 2. e3 Bc5 3. Nd2 Nc6 4. c3 a6 5. Ne2 d5 6. h3 Nf6 7. g4 Be6 8. b4 Ba7 9. c4 dxc4 10. dxc4 Nxb4 11. Qa4+ Nc6 12. e4 Bd7 13. g5 Nd4 14. Qd1 Nxe2 15. Bxe2 Ng8 16. g6 fxg6 17. Bb2 Qh4 18. O-O Qg5+ 19. Bg4 Bxg4 20. hxg4 h5 21. Nf3 Qxg4+ 22. Kh2 Qf4+ 23. Kg2 Bd4 24. Bxd4 exd4 25. Qxd4 Qg4+ 26. Kh1 Qxf3+ 27. Kh2 Nf6 28. Rfd1 Ng4+ 29. Kg1 O-O 30. Qd5+ Kh7 31. Rf1 Rad8 32. Qg5 Qxe4 33. f3 Qd4+ 34. Kg2 Ne3+ 35. Kg3 Nxf1+ 36. Rxf1 Qxc4 37. f4 Qxf1 38. f5 Rd3+ 39. Kh4 Rxf5 40. Qh6+ Kxh6 41. a4 Qh3# 0-1
+

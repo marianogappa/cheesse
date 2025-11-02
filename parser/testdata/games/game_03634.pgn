@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vUB5URKK"]
+[White "VTumane"]
+[Black "bastonetonante"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:13:51"]
+[WhiteElo "1679"]
+[BlackElo "1590"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+14"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. Nf3 Bg7 3. Bc4 e6 4. O-O Ne7 5. d4 O-O 6. e5 b6 7. h3 d6 8. Re1 dxe5 9. dxe5 Bb7 10. Qxd8 Rxd8 11. Bf4 Bxf3 12. gxf3 Nbc6 13. Nc3 Nf5 14. Rad1 Rxd1 15. Rxd1 Nxe5 16. Bxe5 Bxe5 17. Re1 Bxc3 18. bxc3 Nh4 19. f4 Nf3+ 20. Kf1 Nxe1 21. Kxe1 Rd8 22. Ke2 a5 23. Ke3 Rd6 24. Ke4 f6 25. Bd3 Kg7 26. h4 f5+ 27. Ke5 a4 28. c4 Kh6 29. Kf6 Kh5 30. Kg7 Kxh4 31. Kxh7 Kg4 32. Kxg6 Kxf4 33. Kf6 Kf3 34. Ke5 Kxf2 35. Kf4 Ke1 36. Ke3 Kd1 37. Kf4 Kc1 38. Ke5 Kb2 39. c5 bxc5 40. Bb5 Kxa2 41. Bxa4 Kb2 42. Bb3 Rb6 43. Bxe6 Kxc2 44. Bxf5+ Kb2 45. Kd5 Rb5 46. Kc6 Ra5 47. Bd3 Kc3 48. Bf1 c4 49. Kxc7 Kd4 50. Kc6 c3 51. Kb6 Rf5 52. Bh3 Rh5 53. Bg4 Rg5 54. Bd1 Kd3 55. Kc6 c2 0-1
+

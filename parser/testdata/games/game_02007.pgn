@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GWQwA4Dv"]
+[White "malcom1979"]
+[Black "joaobeta"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:31"]
+[WhiteElo "1274"]
+[BlackElo "1128"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e3 e5 2. d3 d5 3. h3 Nc6 4. g4 g5 5. a3 f6 6. h4 h6 7. hxg5 fxg5 8. Nc3 Nf6 9. Bh3 h5 10. gxh5 Rxh5 11. e4 Bxh3 12. Nxh3 d4 13. Nd5 Rh8 14. Bxg5 Be7 15. Qe2 Nxd5 16. exd5 Bxg5 17. dxc6 bxc6 18. Qxe5+ Be7 19. O-O-O Qd6 20. Qxh8+ Bf8 21. Rde1+ Kd7 1-0
+

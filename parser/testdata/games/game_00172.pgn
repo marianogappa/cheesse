@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zJTiwR6t"]
+[White "TheDudeAbides"]
+[Black "casumarsu3"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:00:27"]
+[WhiteElo "2019"]
+[BlackElo "1954"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Pirc Invitation"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. Nf3 d6 2. g3 g6 3. Bg2 Bg7 4. d3 Nc6 5. O-O e5 6. Nbd2 Nge7 7. e4 O-O 8. a4 h6 9. Nc4 Kh7 10. Nh4 f5 11. f4 Nd4 12. c3 Ne6 13. exf5 Nxf5 14. Nxf5 gxf5 15. fxe5 dxe5 16. Qh5 Ng5 17. Bxg5 Qxg5 18. Qe2 Qe7 19. Rae1 c6 20. Nxe5 Re8 21. d4 Be6 22. Qh5 Qf6 23. g4 f4 24. Be4+ Kg8 25. h4 Rad8 26. g5 hxg5 27. hxg5 Qe7 28. Bh7+ Kf8 29. Ng6+ Kf7 30. Rxf4+ Qf6 31. Rxf6+ Bxf6 32. gxf6 Rd5 33. Nf4+ 1-0
+

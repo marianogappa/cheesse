@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/Xcw0krPo"]
+[White "DeannaeD"]
+[Black "Badboy26"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:38"]
+[WhiteElo "1269"]
+[BlackElo "1186"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-10"]
+[ECO "C40"]
+[Opening "King's Knight Opening"]
+[TimeControl "600+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 b6 3. Nxe5 Bb7 4. Nc3 Bb4 5. a3 Bxc3 6. dxc3 Bxe4 7. f3 d6 8. Bb5+ c6 9. Nxc6 Bxc6 10. Bxc6+ Nxc6 11. O-O Nge7 12. Re1 O-O 13. Bf4 Nc8 14. Be3 1-0
+

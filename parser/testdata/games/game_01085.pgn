@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XxGWH6bT"]
+[White "librodearena"]
+[Black "KACHAFAS"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:00"]
+[WhiteElo "1806"]
+[BlackElo "1844"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Loewenthal Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nxc6 bxc6 6. Nc3 Nf6 7. Bd3 Be7 8. O-O O-O 9. Kh1 d5 10. exd5 cxd5 11. f4 e4 12. Be2 Bb7 13. b3 d4 14. Na4 Qd5 15. c4 dxc3 16. Qxd5 Nxd5 17. Bc4 Bf6 18. Bxd5 Bxd5 19. Ba3 Rfe8 20. Rac1 Rac8 21. Rfd1 Ba8 22. Kg1 e3 23. Re1 Rcd8 24. Nc5 Rd2 25. Nd7 Rxg2+ 26. Kf1 e2+ 27. Rxe2 Rexe2 28. Nxf6+ gxf6 29. Bc5 Rxa2 30. h4 Rh2 31. Kg1 Rh1# 0-1
+

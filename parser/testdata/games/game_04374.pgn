@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/TmZPcSry"]
+[White "Sergej1956"]
+[Black "YellowCrown"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:51"]
+[WhiteElo "1908"]
+[BlackElo "1880"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Panov Transfer"]
+[TimeControl "900+0"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. dxc6 Nxc6 5. Nc3 e5 6. d3 Bf5 7. Bg5 Bc5 8. Nf3 h6 9. Be3 Bxe3 10. fxe3 Qd7 11. Be2 O-O-O 12. e4 Bg4 13. O-O h5 14. Nd5 h4 15. h3 Bxh3 16. gxh3 Qxh3 17. Nh2 Qg3+ 18. Kh1 h3 19. Rg1 Qh4 20. Bg4+ Kb8 21. b4 Nxb4 22. Nxb4 Nxe4 23. dxe4 Rxd1 24. Raxd1 g6 25. Nf3 Qf2 26. Rd2 Qe3 27. Nd5 Qxe4 28. Nf6 Qf4 29. Nd7+ Ka8 30. Ndxe5 f5 31. Nxg6 Qe4 32. Nxh8 fxg4 33. Rd8# 1-0
+

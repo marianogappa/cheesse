@@ -1,0 +1,18 @@
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/deQiarYs"]
+[White "Sebastho"]
+[Black "THALESDMILETO"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:31"]
+[WhiteElo "1345"]
+[BlackElo "1318"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+42"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "-"]
+[Termination "Time forfeit"]
+
+1. d4 e6 2. Nf3 g6 3. e4 Bg7 4. e5 Nc6 5. Nc3 Qe7 6. a3 d6 7. exd6 Qxd6 8. Nb5 Qd7 9. Bf4 e5 10. dxe5 a6 11. Qxd7+ Kxd7 12. Rd1+ Ke7 13. Nxc7 Ra7 14. Nd5+ Kf8 0-1
+

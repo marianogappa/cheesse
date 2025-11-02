@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Fd5gt0cR"]
+[White "Aymen1997"]
+[Black "apashton"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:39"]
+[WhiteElo "1400"]
+[BlackElo "1231"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-6"]
+[ECO "C21"]
+[Opening "Center Game #2"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.29] } 1... e5 { [%eval 0.46] } 2. d4?! { [%eval -0.25] } 2... f6? { [%eval 1.41] } 3. d5?! { [%eval 0.51] } 3... d6 { [%eval 0.97] } 4. Qh5+?! { [%eval 0.28] } 4... g6 { [%eval 0.33] } 5. Qd1 { [%eval 0.19] } 5... f5 { [%eval 0.25] } 6. exf5 { [%eval 0.18] } 6... gxf5? { [%eval 2.43] } 7. Nf3? { [%eval 0.39] } 7... Nf6 { [%eval 0.3] } 8. Nc3 { [%eval 0.04] } 8... e4? { [%eval 1.42] } 9. Ng5?! { [%eval 0.77] } 9... Bh6? { [%eval 1.89] } 10. Ne6? { [%eval 0.84] } 10... Qe7?? { [%eval 4.66] } 11. Bxh6 { [%eval 4.57] } 11... Bxe6 { [%eval 4.78] } 12. dxe6 { [%eval 4.66] } 12... Qxe6?! { [%eval 5.26] } 13. Bg5? { [%eval 3.48] } 13... Ng4? { [%eval 6.33] } 14. h3? { [%eval 4.75] } 14... Ne5 { [%eval 4.5] } 15. Qh5+?! { [%eval 3.92] } 15... Kd7 { [%eval 3.99] } 16. O-O-O { [%eval 3.91] } 16... Nbc6 { [%eval 3.96] } 17. Nb5?! { [%eval 3.22] } 17... a6 { [%eval 3.16] } 18. Nc3 { [%eval 3.18] } 18... d5?? { [%eval 7.65] } 19. Nxd5 { [%eval 7.52] } 19... Nc4? { [%eval #1] } 20. Nf4+?! { [%eval 19.97] } 20... Kc8 { [%eval 25.97] } 21. Nxe6 { [%eval 25.0] } 1-0
+

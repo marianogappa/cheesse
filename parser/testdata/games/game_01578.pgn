@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/enMDekeU"]
+[White "Gulielmus"]
+[Black "mcervants"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:55"]
+[WhiteElo "1976"]
+[BlackElo "1794"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-7"]
+[ECO "E91"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+[TimeControl "1800+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 Nbd7 7. O-O c5 8. d5 Ne8 9. Bg5 Nc7 10. Qc2 f6 11. Bh4 Ne5 12. Nxe5 fxe5 13. Bg5 Bf6 14. Bh6 Rf7 15. Be3 Bd7 16. Qd2 Ne8 17. f4 exf4 18. Bxf4 Bd4+ 19. Be3 Bxe3+ 20. Qxe3 Nf6 21. h3 e5 22. dxe6 Bxe6 23. Nd5 Bxd5 24. cxd5 Qe7 25. Rf3 Qxe4 26. Qxe4 Nxe4 27. Rxf7 Kxf7 28. Rf1+ Kg7 29. Bf3 Nd2 30. Re1 Nxf3+ 31. gxf3 Rf8 32. Kg2 Rf7 33. Re6 Rd7 34. a4 a6 35. a5 Kf7 36. Kg3 h6 37. Kg4 Kg7 38. h4 Kf7 39. h5 gxh5+ 40. Kxh5 Rd8 41. Rxh6 Ke7 42. Rh7+ Ke8 43. Rxb7 Kf8 44. Rb6 Kg7 45. Rxa6 Kf6 46. Rb6 Ke5 47. a6 Kxd5 48. a7 Ra8 49. Ra6 c4 50. f4 Kc5 51. f5 d5 52. f6 d4 53. f7 d3 54. f8=Q+ Rxf8 55. a8=Q Rxa8 56. Rxa8 Kd4 57. Kg4 Ke3 58. Re8+ Kd2 59. Rc8 Kc2 60. Rxc4+ Kxb2 61. Kf3 d2 62. Ke2 Kb3 63. Rd4 Kc2 64. Rxd2+ Kc3 65. Ke3 Kc4 66. Ke4 Kc5 67. Rd4 Kc6 68. Ke5 Kc5 69. Re4 Kc6 70. Rc4+ Kb5 71. Kd5 Kb6 72. Kd6 Kb5 73. Rd4 Kb6 74. Rb4+ Ka5 75. Kc5 1-0
+

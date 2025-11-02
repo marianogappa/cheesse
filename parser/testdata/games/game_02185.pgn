@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/E1QnNH5S"]
+[White "alzohairi"]
+[Black "kumpas37"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:08:15"]
+[WhiteElo "1935"]
+[BlackElo "1401"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+[ECO "B07"]
+[Opening "Pirc Defense #5"]
+[TimeControl "1020+0"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 g6 3. Nc3 b6 4. Nf3 Bb7 5. Be3 e6 6. Bd3 h6 7. O-O Be7 8. e5 c6 9. exd6 Qxd6 10. Ne4 Qb4 11. Rb1 c5 12. c3 Qa5 13. dxc5 Bxe4 14. Bxe4 Bxc5 15. Bxa8 Ne7 16. Bxc5 Qxc5 17. Qd4 O-O 18. Qxc5 bxc5 19. Ne5 Rd8 20. Rfd1 Rc8 21. Nd7 Nxd7 22. Rxd7 Rxa8 23. Rxe7 Rd8 24. g3 a6 25. Ra7 Rd6 26. b4 c4 27. a4 e5 28. b5 axb5 29. axb5 e4 30. b6 Rd3 31. b7 e3 32. fxe3 Rxc3 33. b8=Q+ Kg7 34. Qe5+ Kh7 35. Qf6 Rxe3 36. Qxf7+ Kh8 37. Qg7# 1-0
+

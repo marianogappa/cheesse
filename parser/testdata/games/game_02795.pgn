@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/o7xQXkjo"]
+[White "RobertoBR"]
+[Black "zloy_geniy"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:10:26"]
+[WhiteElo "1750"]
+[BlackElo "1715"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+11"]
+[ECO "B08"]
+[Opening "Pirc Defense: Classical Variation, Quiet System, Parma Defense"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be2 Bg4 5. O-O Nf6 6. Nc3 O-O 7. h3 Bxf3 8. Bxf3 c6 9. Re1 Qb6 10. Rb1 Nfd7 11. Be3 Na6 12. a3 Nc7 13. Qd2 Rfd8 14. Red1 a6 15. d5 Qa5 16. dxc6 bxc6 17. Ne2 Qxd2 18. Bxd2 Ne5 19. Ba5 Nxf3+ 20. gxf3 Rdc8 21. f4 Ne6 22. Kg2 Rab8 23. b3 Rb7 24. f3 Rcb8 25. Kf2 Rb5 26. b4 Bh6 27. f5 gxf5 28. exf5 Rxf5 29. Rg1+ Kf8 30. Ng3 Re5 31. Ne4 d5 32. Nc5 Nxc5 33. bxc5 Be3+ 34. Kf1 Rxb1+ 0-1
+

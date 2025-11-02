@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/NRWb4ks1"]
+[White "WonderBrais"]
+[Black "Cruncher"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:03:48"]
+[WhiteElo "1791"]
+[BlackElo "1784"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Bb7 3. d5 c6 4. c4 cxd5 5. cxd5 e6 6. Bc4 exd5 7. exd5 Nf6 8. Nc3 Qe7+ 9. Be3 Qd6 10. Nf3 Nxd5 11. Nxd5 Bxd5 12. Bxd5 Be7 13. Bxa8 O-O 14. Qxd6 Bxd6 15. O-O Nc6 16. Bxc6 dxc6 17. Rad1 Be7 18. Ne5 Bf6 19. Nxc6 Bxb2 20. Bd4 f6 21. Bxb2 Kf7 22. Rd7+ Kg6 23. Rxa7 Rc8 24. Nd4 Rd8 25. Ne6 Re8 26. Nf4+ Kf5 27. Nh3 g6 28. Rb7 Ke6 29. Rxh7 Kf5 30. Rb7 Re6 31. g3 Kg4 32. Kg2 Kh5 33. Nf4+ Kh6 34. Nxe6 f5 35. Rxb6 g5 36. Nf4+ Kh7 37. Nh5 g4 38. Re1 f4 39. Re7+ Kg8 40. Rb8# 1-0
+

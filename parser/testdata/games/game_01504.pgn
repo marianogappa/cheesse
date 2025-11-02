@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/vEKW4rh4"]
+[White "ayathustra"]
+[Black "adhocprog"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:05:34"]
+[WhiteElo "1868"]
+[BlackElo "1845"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined: Tarrasch Defense, Pseudo-Tarrasch"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.12] } 1... d5 { [%eval 0.2] } 2. Nf3 { [%eval 0.09] } 2... e6 { [%eval 0.23] } 3. c4 { [%eval 0.19] } 3... c5 { [%eval 0.48] } 4. g3?! { [%eval -0.13] } 4... dxc4 { [%eval -0.06] } 5. Bg2 { [%eval 0.02] } 5... cxd4?! { [%eval 0.57] } 6. Nxd4?! { [%eval -0.07] } 6... Nf6?! { [%eval 0.52] } 7. Nc3?! { [%eval -0.07] } 7... Bc5 { [%eval 0.03] } 8. Be3 { [%eval -0.16] } 8... Nc6?? { [%eval 5.01] } 9. Nxc6 { [%eval 4.91] } 9... Qxd1+ { [%eval 4.97] } 10. Rxd1 { [%eval 4.62] } 10... Bxe3?? { [%eval #1] } 11. fxe3?? { [%eval 4.04] } 11... bxc6? { [%eval 6.04] } 12. Bxc6+ { [%eval 6.04] } 12... Ke7 { [%eval 5.89] } 13. Bxa8 { [%eval 5.85] } 13... Ba6 { [%eval 6.2] } 14. Bc6 { [%eval 5.99] } 14... Rc8 { [%eval 6.1] } 15. Bb5 { [%eval 5.95] } 15... Bxb5 { [%eval 5.96] } 16. Nxb5 { [%eval 5.91] } 16... Rc5?! { [%eval 6.44] } 17. a4 { [%eval 6.04] } 17... a6 { [%eval 6.05] } 18. Nc3 { [%eval 5.95] } 18... Ra5?! { [%eval 6.85] } 19. O-O { [%eval 6.54] } 19... Rg5? { [%eval 7.98] } 20. Rf4 { [%eval 7.8] } 20... h5? { [%eval 9.37] } 21. Rxc4 { [%eval 9.04] } 21... h4?! { [%eval 11.77] } 22. Rxh4? { [%eval 8.98] } 22... Rg6? { [%eval 10.81] } 23. Rc4 { [%eval 10.55] } 1-0
+

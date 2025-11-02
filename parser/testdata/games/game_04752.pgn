@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KIxZjVIr"]
+[White "zoulum"]
+[Black "viniciusresende2552"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:19"]
+[WhiteElo "1587"]
+[BlackElo "1592"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+22"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. f4 d5 2. Nf3 Nc6 3. e3 Bg4 4. Be2 g6 5. O-O Bg7 6. d3 Nf6 7. c3 O-O 8. Bd2 Re8 9. Na3 e5 10. fxe5 Nxe5 11. Nxe5 Bxe2 12. Qxe2 Rxe5 13. Nb5 c6 14. Nd4 a6 15. Nf3 Re7 16. Ng5 Qd6 17. Rf3 Bh6 18. Rg3 Bxg5 19. Rxg5 Rae8 20. Rf1 Re5 21. Rg3 Nh5 22. Rg4 f5 23. Rg5 h6 24. Rxh5 gxh5 25. Qxh5 Kg7 26. e4 dxe4 27. Bf4 exd3 28. Bxe5+ Qxe5 29. h3 d2 30. Rxf5 Qxf5 31. Qxf5 d1=Q+ 32. Kh2 Qd6+ 33. Kg1 Re1+ 34. Kf2 Qd2+ 35. Kg3 Re3+ 36. Kh2 Qd6+ 37. Kg1 Re1+ 38. Kf2 Qd2+ 39. Kg3 Qe3+ 40. Kh2 Qe5+ 41. Qxe5+ Rxe5 42. Kg3 Re2 43. b4 Rxa2 44. c4 Rc2 45. b5 axb5 46. cxb5 cxb5 47. Kf3 b4 48. g4 b3 49. Ke3 b2 50. Kd3 b1=Q 0-1
+

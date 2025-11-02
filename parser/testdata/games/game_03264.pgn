@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/XtqLURk9"]
+[White "HardWoodPusher"]
+[Black "Nkko"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:12:27"]
+[WhiteElo "1898"]
+[BlackElo "1928"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-12"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "0+1"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. c3 d5 3. d4 dxe4 4. d5 e6 5. c4 exd5 6. cxd5 Nf6 7. Nc3 Be7 8. Bb5+ Bd7 9. Nge2 O-O 10. O-O Bxb5 11. Nxb5 a6 12. d6 axb5 13. dxe7 Qxe7 14. Nf4 Rd8 15. Qc2 Nc6 16. Be3 c4 17. Bd4 Nxd4 18. Qd1 1-0
+

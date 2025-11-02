@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/joOp3bSv"]
+[White "mameluco58"]
+[Black "KT7"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:04:24"]
+[WhiteElo "1560"]
+[BlackElo "1692"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[ECO "C36"]
+[Opening "King's Gambit Accepted, Modern Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. Bc4 dxc4 5. Nc3 g5 6. d3 c5 7. O-O Nc6 8. Nd5 b6 9. dxc4 Be6 10. Nc3 Bd6 11. Nb5 Bc7 12. Nxc7+ Qxc7 13. b3 Nge7 14. Bb2 Rg8 15. Qe2 f6 16. Bxf6 h6 17. Rad1 Bd7 18. e5 O-O-O 19. e6 Be8 20. Be5 Qb7 21. Rxd8+ Kxd8 22. Qd3+ Kc8 23. Qh7 Bg6 24. Qxh6 Bxc2 25. Nxg5 Nxe5 26. Rxf4 Qc7 27. h3 Nd3 28. Rf7 Nf2 29. Qh4 Nd3 30. Ne4 Ne5 31. Nf6 Nxf7 32. Nxg8 Nxg8 33. exf7 Qxf7 34. Qg4+ Kb7 0-1
+

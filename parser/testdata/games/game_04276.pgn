@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EX8VMrid"]
+[White "flyban"]
+[Black "AdamPitula"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:16:22"]
+[WhiteElo "1674"]
+[BlackElo "1681"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+[ECO "A40"]
+[Opening "Modern Defense"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 g6 2. Bf4 Bg7 3. h3 d6 4. e3 c6 5. Bd3 e6 6. a3 Nd7 7. c4 Ne7 8. Nd2 e5 9. dxe5 dxe5 10. Bh2 O-O 11. Rb1 Nc5 12. Be2 Nd3+ 13. Bxd3 Qxd3 14. Ngf3 e4 15. Ng5 f5 16. Nxh7 Kxh7 17. b4 Be6 18. c5 Rad8 19. Nb3 Bxb3 20. Qxb3 Qxb3 21. Rxb3 Rd3 22. Rxd3 exd3 23. Kd2 Rd8 24. Rc1 Rd5 25. Bd6 Nc8 26. Bc7 Bf6 27. Rc4 Kg7 28. f3 Kf7 29. e4 fxe4 30. fxe4 Rd7 31. Bg3 Bg5+ 32. Kd1 d2 33. h4 Bh6 34. Be5 Rd3 35. Bc3 Rg3 36. Bxd2 Bxd2 0-1
+

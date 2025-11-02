@@ -1,0 +1,18 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/lkvbvoCM"]
+[White "wellio913"]
+[Black "Andriel"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:20:42"]
+[WhiteElo "1845"]
+[BlackElo "1919"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-13"]
+[ECO "C44"]
+[Opening "Ponziani Opening: Jaenisch Counterattack"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.16] } 1... e5 { [%eval 0.16] } 2. Nf3 { [%eval 0.25] } 2... Nc6 { [%eval 0.33] } 3. c3?! { [%eval -0.18] } 3... Nf6 { [%eval 0.08] } 4. Bd3?! { [%eval -0.86] } 4... Bc5?! { [%eval -0.2] } 5. b4 { [%eval -0.28] } 5... Bb6 { [%eval -0.14] } 6. O-O { [%eval -0.34] } 6... d6 { [%eval 0.15] } 7. h3?! { [%eval -0.35] } 7... Be6 { [%eval 0.08] } 8. Bc2 { [%eval 0.16] } 8... Qd7 { [%eval 0.54] } 9. Kh2?! { [%eval -0.04] } 9... g6?! { [%eval 0.66] } 10. d4 { [%eval 0.54] } 10... Bc4 { [%eval 0.91] } 11. Re1 { [%eval 0.96] } 11... O-O-O? { [%eval 3.2] } 12. Na3 { [%eval 3.07] } 12... exd4? { [%eval 5.04] } 13. Nxc4 { [%eval 4.91] } 13... dxc3 { [%eval 4.95] } 14. Nxb6+ { [%eval 4.81] } 14... axb6 { [%eval 4.81] } 15. Bg5 { [%eval 4.74] } 15... Qe6?! { [%eval 5.65] } 16. b5 { [%eval 5.23] } 16... Nb4?? { [%eval 8.86] } 17. Bb3 { [%eval 8.31] } 17... Qe7? { [%eval 10.37] } 18. Qd4 { [%eval 10.1] } 18... d5 { [%eval 13.26] } 19. Bxf6 { [%eval 13.04] } 19... Qd6+ { [%eval 12.83] } 20. g3 { [%eval 10.7] } 20... c5 { [%eval 12.76] } 21. Qe5 { [%eval 10.09] } 21... Qxe5 { [%eval 9.88] } 22. Nxe5 { [%eval 9.56] } 22... d4 { [%eval 12.01] } 23. Bxd8?! { [%eval 9.11] } 23... Rxd8 { [%eval 9.0] } 24. a3 { [%eval 8.62] } 24... f6? { [%eval 9.97] } 25. axb4 { [%eval 9.89] } 25... fxe5 { [%eval 9.82] } 26. Ra8+ { [%eval 9.63] } 26... Kc7 { [%eval 9.48] } 27. Rxd8 { [%eval 9.23] } 27... Kxd8 { [%eval 8.89] } 28. Bc4 { [%eval 8.52] } 28... Ke7? { [%eval 9.81] } 29. f4 { [%eval 9.2] } 29... Kd6?! { [%eval 9.79] } 30. Kg2 { [%eval 9.33] } 30... h6?! { [%eval 11.37] } 31. Kf3 { [%eval 10.92] } 31... h5 { [%eval 11.36] } 32. g4 { [%eval 10.04] } 32... h4 { [%eval 17.05] } 33. f5 { [%eval 14.68] } 33... g5?! { [%eval #11] } 34. Ke2 { [%eval #10] } 34... cxb4 { [%eval #10] } 35. Rf1 { [%eval #9] } 35... Ke7 { [%eval #8] } 36. Kd3 { [%eval #8] } 36... Kf6 { [%eval #8] } 37. Kc2 { [%eval #8] } 37... Ke7 { [%eval #8] } 38. Kb3 { [%eval #9] } 38... Kf6 { [%eval #9] } 39. Kxb4 { [%eval #10] } 39... Ke7 { [%eval #7] } 40. f6+ { [%eval #6] } 40... Kf8 { [%eval #5] } 41. f7?! { [%eval #5] } 1-0
+

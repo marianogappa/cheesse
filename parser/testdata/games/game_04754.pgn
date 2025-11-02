@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0JqBeSeY"]
+[White "cesar22a"]
+[Black "getuliobar"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:18:18"]
+[WhiteElo "1757"]
+[BlackElo "1766"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+11"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation"]
+[TimeControl "180+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Nf3 c6 6. e3 Bf5 7. Bd3 Bxd3 8. Qxd3 Nbd7 9. O-O Bd6 10. e4 dxe4 11. Nxe4 Nxe4 12. Qxe4+ Qe7 13. Re1 Qxe4 14. Rxe4+ Kd8 15. Ng5 Kc7 16. Nxf7 Rhe8 17. Nxd6 Kxd6 18. Bf4+ Kd5 19. Rxe8 Rxe8 20. Be3 Nf6 21. Re1 Ne4 22. f3 Nd6 23. Kf2 Nc4 24. b3 Na3 25. Ke2 Nc2 0-1
+

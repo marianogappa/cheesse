@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pZv4kWb9"]
+[White "kalilo007"]
+[Black "T1T1"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:16"]
+[WhiteElo "1657"]
+[BlackElo "1683"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-11"]
+[ECO "A00"]
+[Opening "Van Geet Opening: Sicilian Two Knights"]
+[TimeControl "180+0"]
+[Termination "Time forfeit"]
+
+1. d4 c5 2. Nf3 cxd4 3. Nxd4 Nc6 4. Nc3 d6 5. Nf3 a6 6. e4 Bg4 7. Be3 b5 8. a3 Rc8 9. h3 Bh5 10. g4 Bg6 11. a4 b4 12. Nd5 Bxe4 13. Nb6 Rb8 14. a5 e6 15. Bxa6 d5 16. Bf4 e5 17. Bg5 f6 18. Bd2 Bc5 19. Be2 Bxb6 20. axb6 Qxb6 21. O-O Nge7 22. Ra6 Qc7 23. Nh2 Ng6 24. f3 Nf4 25. fxe4 Nxh3+ 26. Kg2 Nf4+ 27. Bxf4 exf4 28. Qxd5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/518VFNk1"]
+[White "engulfing"]
+[Black "EdmondDantesque"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:07:15"]
+[WhiteElo "1463"]
+[BlackElo "1500"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+157"]
+[ECO "C68"]
+[Opening "Ruy Lopez: Exchange Variation, Lutikov Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.12] } 1... e5 { [%eval 0.15] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.31] } 3. Bb5 { [%eval 0.3] } 3... a6 { [%eval 0.3] } 4. Bxc6 { [%eval 0.32] } 4... bxc6 { [%eval 0.62] } 5. d4 { [%eval 0.41] } 5... d5?! { [%eval 1.2] } 6. dxe5 { [%eval 1.1] } 6... dxe4 { [%eval 1.08] } 7. Qxd8+ { [%eval 1.01] } 7... Kxd8 { [%eval 1.04] } 8. Ng5 { [%eval 0.95] } 8... f6? { [%eval 3.01] } 9. Nf7+ { [%eval 3.07] } 9... Ke7 { [%eval 3.46] } 10. Nxh8 { [%eval 3.39] } 10... fxe5 { [%eval 3.65] } 11. Bg5+ { [%eval 3.57] } 11... Ke8?! { [%eval 4.08] } 12. Nc3 { [%eval 3.62] } 12... Bf5 { [%eval 3.52] } 13. O-O-O { [%eval 3.5] } 13... Be7 { [%eval 3.8] } 14. Bxe7 { [%eval 3.75] } 14... Kxe7 { [%eval 3.82] } 15. Rd2? { [%eval 2.48] } 15... g6? { [%eval 3.95] } 16. Nxg6+?! { [%eval 3.43] } 16... hxg6 { [%eval 3.87] } 17. h3 { [%eval 3.81] } 17... Nf6 { [%eval 3.89] } 18. g4 { [%eval 3.66] } 18... Be6 { [%eval 3.59] } 19. Rhd1?! { [%eval 2.66] } 19... Nd5?! { [%eval 3.6] } 20. Nxd5+? { [%eval 1.66] } 20... cxd5 { [%eval 1.6] } 21. b3?! { [%eval 0.87] } 21... d4 { [%eval 1.34] } 22. Re2 { [%eval 1.34] } 22... Bd5 { [%eval 1.34] } 23. f3 { [%eval 1.27] } 23... e3 { [%eval 1.27] } 24. c4?? { [%eval -5.72] } 24... Bxf3 { [%eval -5.18] } 25. Ree1 { [%eval -5.16] } 25... Bxd1 { [%eval -4.86] } 26. Rxd1 { [%eval -4.93] } 26... c5 { [%eval -4.6] } 27. Rf1? { [%eval -7.23] } 27... Ke6 { [%eval -6.57] } 28. Kd1? { [%eval -8.17] } 28... e4 { [%eval -6.93] } 29. Ke2?? { [%eval -9.97] } 29... Ke5 { [%eval -9.47] } 30. h4 { [%eval -9.81] } 30... Rh8 { [%eval -9.03] } 31. h5 { [%eval -8.76] } 31... gxh5 { [%eval -7.1] } 32. gxh5? { [%eval -54.93] } 32... Rxh5 { [%eval -21.74] } 33. a4?! { [%eval #-8] } 33... Rh2+ { [%eval #-7] } 34. Ke1 { [%eval #-7] } 34... e2 { [%eval #-19] } 35. Rf2 { [%eval #-8] } 35... Rxf2 { [%eval #-7] } 36. Kxf2 { [%eval #-7] } 36... d3 { [%eval #-6] } 37. Ke1 { [%eval #-4] } 37... Kd4?! { [%eval #-7] } 38. Kd2 { [%eval #-4] } 38... e3+ { [%eval #-3] } 39. Ke1 { [%eval #-3] } 39... Kc3?! { [%eval #-4] } 0-1
+

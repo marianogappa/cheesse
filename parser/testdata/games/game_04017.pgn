@@ -1,0 +1,18 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ercdvhLz"]
+[White "jon75"]
+[Black "JakubSzymanski"]
+[Result "0-1"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:15:19"]
+[WhiteElo "1328"]
+[BlackElo "1405"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[TimeControl "300+2"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 e6 3. Nf3 Nc6 4. d3 a6 5. Be3 b5 6. Bb3 Nf6 7. c3 d5 8. e5 Nd7 9. d4 c4 10. Bc2 b4 11. Bd2 bxc3 12. Bxc3 Bb4 13. a3 Bxc3+ 14. bxc3 O-O 15. Ng1 f6 16. Nh3 fxe5 17. Qg4 Nf6 18. Qg3 exd4 19. O-O d3 20. Bd1 Ne4 21. Qe3 e5 22. Nd2 Bxh3 23. Nxe4 dxe4 24. Qxh3 Qf6 25. Ra2 Rab8 26. Qd7 Rb3 27. Qd5+ Kh8 28. Bxb3 cxb3 29. Qxb3 e3 30. fxe3 Qxf1# 0-1
+

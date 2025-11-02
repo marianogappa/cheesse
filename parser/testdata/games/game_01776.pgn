@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/0X2eaOSJ"]
+[White "M10R8"]
+[Black "jargonaught"]
+[Result "1-0"]
+[UTCDate "2017.01.31"]
+[UTCTime "23:06:38"]
+[WhiteElo "1815"]
+[BlackElo "1803"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[ECO "B14"]
+[Opening "Caro-Kann Defense: Panov Attack"]
+[TimeControl "60+0"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. e3 cxd4 5. exd4 d5 6. Nf3 dxc4 7. Bxc4 Nc6 8. O-O Be7 9. Bg5 O-O 10. Re1 Bd7 11. Qd2 a6 12. Rad1 b5 13. Bb3 Na5 14. Bc2 Nc4 15. Qd3 Nxb2 16. Qd2 Nc4 17. Qf4 Nd5 18. Qh4 Bxg5 19. Qxh7# 1-0
+
