@@ -23,7 +23,6 @@ type actionPattern struct {
 	isCapture          *bool
 	isResign           *bool
 	isPromotion        *bool
-	isEnPassant        *bool
 	isEnPassantCapture *bool
 	isCastle           *bool
 	isKingsideCastle   *bool
@@ -46,7 +45,6 @@ func (p actionPattern) Clone() actionPattern {
 		isCapture:          cloneBool(p.isCapture),
 		isResign:           cloneBool(p.isResign),
 		isPromotion:        cloneBool(p.isPromotion),
-		isEnPassant:        cloneBool(p.isEnPassant),
 		isEnPassantCapture: cloneBool(p.isEnPassantCapture),
 		isCastle:           cloneBool(p.isCastle),
 		isKingsideCastle:   cloneBool(p.isKingsideCastle),
@@ -103,9 +101,6 @@ func (p actionPattern) String() string {
 	if p.isPromotion != nil {
 		sb.WriteString(fmt.Sprintf("{a.isPromotion}:%v\n", *p.isPromotion))
 	}
-	if p.isEnPassant != nil {
-		sb.WriteString(fmt.Sprintf("{a.isEnPassant}:%v\n", *p.isEnPassant))
-	}
 	if p.isEnPassantCapture != nil {
 		sb.WriteString(fmt.Sprintf("{a.isEnPassantCapture}:%v\n", *p.isEnPassantCapture))
 	}
@@ -142,7 +137,6 @@ func (p *actionPattern) isMatch(a core.Action) bool {
 		!boolMatcher(p.isCapture)(a.IsCapture) ||
 		!boolMatcher(p.isResign)(a.IsResign) ||
 		!boolMatcher(p.isPromotion)(a.IsPromotion) ||
-		!boolMatcher(p.isEnPassant)(a.IsEnPassant) ||
 		!boolMatcher(p.isEnPassantCapture)(a.IsEnPassantCapture) ||
 		!boolMatcher(p.isCastle)(a.IsCastle) ||
 		!boolMatcher(p.isKingsideCastle)(a.IsKingsideCastle) ||

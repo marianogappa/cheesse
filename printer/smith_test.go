@@ -17,7 +17,7 @@ func TestSmithPrinter_PrintAction(t *testing.T) {
 		expectedResult      string
 	}{
 		{
-			name: "Test case 1",
+			name: "simple pawn move",
 			gameStep: core.GameStep{
 				StepGame: core.NewDefaultGame(),
 				StepAction: core.Action{
@@ -28,7 +28,21 @@ func TestSmithPrinter_PrintAction(t *testing.T) {
 			gameCharacteristics: GameCharacteristics{},
 			expectedResult:      "e2e4",
 		},
-		// Add more test cases here...
+		{
+			name: "en passant capture uses E indicator",
+			gameStep: core.GameStep{
+				StepGame: core.NewDefaultGame(),
+				StepAction: core.Action{
+					FromPiece:          core.Piece{PieceType: core.PiecePawn, Owner: core.ColorWhite, XY: core.XY{X: 3, Y: 3}},
+					ToXY:               core.XY{X: 2, Y: 2},
+					IsCapture:          true,
+					IsEnPassantCapture: true,
+					CapturedPiece:      core.Piece{PieceType: core.PiecePawn, Owner: core.ColorBlack, XY: core.XY{X: 2, Y: 3}},
+				},
+			},
+			gameCharacteristics: GameCharacteristics{},
+			expectedResult:      "d5c6E",
+		},
 	}
 
 	printer := SmithPrinter{}

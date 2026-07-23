@@ -190,11 +190,6 @@ func (p Piece) buildAction(toXY XY, g Game, promotionPieceType PieceType) (Actio
 		}
 	}
 
-	// Set the isEnPassant flag
-	if p.PieceType == PiecePawn && ((p.Owner == ColorBlack && p.XY.Y == 1 && toXY.Y == 3) || (p.Owner == ColorWhite && p.XY.Y == 6 && toXY.Y == 4)) {
-		a.IsEnPassant = true
-	}
-
 	// Castling context
 	if p.PieceType == PieceKing && abs(toXY.X-p.XY.X) > 1 { // It's a castle attempt
 		// Set castle type context
@@ -329,11 +324,12 @@ func (g Game) DoAction(a Action) Game {
 	if lastTurn == ColorBlack {
 		newGame.FullMoveNumber = g.FullMoveNumber + 1
 	}
-	newGame.IsLastMoveEnPassant = a.IsEnPassant
-	if a.IsEnPassant && lastTurn == ColorBlack {
+	isDoubleAdvance := a.FromPiece.PieceType == PiecePawn && abs(a.ToXY.Y-a.FromPiece.XY.Y) == 2
+	newGame.IsLastMoveEnPassant = isDoubleAdvance
+	if isDoubleAdvance && lastTurn == ColorBlack {
 		newGame.EnPassantTargetSquare = XY{X: a.ToXY.X, Y: a.ToXY.Y - 1}
 	}
-	if a.IsEnPassant && lastTurn == ColorWhite {
+	if isDoubleAdvance && lastTurn == ColorWhite {
 		newGame.EnPassantTargetSquare = XY{X: a.ToXY.X, Y: a.ToXY.Y + 1}
 	}
 

@@ -93,7 +93,6 @@ type Action struct {
 	IsCapture          bool
 	IsResign           bool
 	IsPromotion        bool
-	IsEnPassant        bool
 	IsEnPassantCapture bool
 	IsCastle           bool
 	IsKingsideCastle   bool
@@ -118,8 +117,6 @@ func (a Action) String() string {
 		return fmt.Sprintf("%s resigns", a.FromPiece.Owner)
 	case a.IsPromotion:
 		return fmt.Sprintf("%s's Pawn at %v promotes to %v", a.FromPiece.Owner, a.FromPiece.XY.ToAlgebraic(), a.PromotionPieceType)
-	case a.IsEnPassant:
-		return fmt.Sprintf("%s's Pawn at %v does en passant", a.FromPiece.Owner, a.FromPiece.XY.ToAlgebraic())
 	case a.IsKingsideCastle:
 		return fmt.Sprintf("%s kingside castles", a.FromPiece.Owner)
 	case a.IsQueensideCastle:
@@ -129,7 +126,7 @@ func (a Action) String() string {
 }
 
 func (a Action) DebugString() string {
-	return fmt.Sprintf("%v at (%v, %v) to (%v, %v), isCapture: %v , isResign: %v , isPromotion: %v , isEnPassant: %v , isEnPassantCapture: %v , isCastle: %v , isKingsideCastle: %v , isQueensideCastle: %v, promotionPieceType: %v, capturedPiece: %v at (%v, %v)",
+	return fmt.Sprintf("%v at (%v, %v) to (%v, %v), isCapture: %v , isResign: %v , isPromotion: %v , isEnPassantCapture: %v , isCastle: %v , isKingsideCastle: %v , isQueensideCastle: %v, promotionPieceType: %v, capturedPiece: %v at (%v, %v)",
 		a.FromPiece.PieceType,
 		a.FromPiece.XY.X,
 		a.FromPiece.XY.Y,
@@ -138,7 +135,6 @@ func (a Action) DebugString() string {
 		a.IsCapture,
 		a.IsResign,
 		a.IsPromotion,
-		a.IsEnPassant,
 		a.IsEnPassantCapture,
 		a.IsCastle,
 		a.IsKingsideCastle,

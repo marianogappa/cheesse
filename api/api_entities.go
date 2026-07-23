@@ -143,7 +143,6 @@ type OutputAction struct {
 	IsCapture          bool   `json:"isCapture"`
 	IsResign           bool   `json:"isResign"`
 	IsPromotion        bool   `json:"isPromotion"`
-	IsEnPassant        bool   `json:"isEnPassant"`
 	IsEnPassantCapture bool   `json:"isEnPassantCapture"`
 	IsCastle           bool   `json:"isCastle"`
 	IsKingsideCastle   bool   `json:"isKingsideCastle"`
@@ -264,7 +263,6 @@ func mapInternalActionToAction(a core.Action) OutputAction {
 		IsCapture:          a.IsCapture,
 		IsResign:           a.IsResign,
 		IsPromotion:        a.IsPromotion,
-		IsEnPassant:        a.IsEnPassant,
 		IsEnPassantCapture: a.IsEnPassantCapture,
 		IsCastle:           a.IsCastle,
 		IsKingsideCastle:   a.IsKingsideCastle,
