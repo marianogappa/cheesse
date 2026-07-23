@@ -61,14 +61,6 @@ func TestActionString(t *testing.T) {
 		},
 		{
 			a: Action{
-				FromPiece:   Piece{PieceType: PiecePawn, Owner: ColorBlack, XY: XY{5, 1}},
-				ToXY:        XY{5, 3},
-				IsEnPassant: true,
-			},
-			s: "Black's Pawn at f7 does en passant",
-		},
-		{
-			a: Action{
 				FromPiece:          Piece{PieceType: PiecePawn, Owner: ColorBlack, XY: XY{3, 5}},
 				ToXY:               XY{4, 6},
 				IsCapture:          true,

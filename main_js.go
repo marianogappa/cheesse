@@ -194,7 +194,6 @@ func convertOutputAction(a api.OutputAction) map[string]interface{} {
 		"isCapture":          a.IsCapture,
 		"isResign":           a.IsResign,
 		"isPromotion":        a.IsPromotion,
-		"isEnPassant":        a.IsEnPassant,
 		"isEnPassantCapture": a.IsEnPassantCapture,
 		"isCastle":           a.IsCastle,
 		"isKingsideCastle":   a.IsKingsideCastle,

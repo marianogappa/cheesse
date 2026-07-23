@@ -20,7 +20,7 @@ func (p SmithPrinter) PrintAction(gameStep core.GameStep, gameCharacteristics Ga
 	)
 	if gameStep.StepAction.IsCapture {
 		capture = gameStep.StepAction.CapturedPiece.PieceType.ToSmith()
-		if gameStep.StepAction.IsEnPassant {
+		if gameStep.StepAction.IsEnPassantCapture {
 			capture = "E"
 		}
 	}

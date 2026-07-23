@@ -24,11 +24,9 @@ func TestVariantPGN_Parse(t *testing.T) {
 	require.Equal(t, core.PieceType(core.PiecePawn), e2Pawn.PieceType)
 
 	// Do e4 to populate Actions - create a valid e4 action
-	// For a two-square pawn move, IsEnPassant should be true
 	e4Action := core.Action{
-		FromPiece:   e2Pawn,
-		ToXY:        core.XY{X: 4, Y: 4},
-		IsEnPassant: true,
+		FromPiece: e2Pawn,
+		ToXY:      core.XY{X: 4, Y: 4},
 	}
 	gameAfterE4 := initialGame.DoAction(e4Action)
 	require.NotEmpty(t, gameAfterE4.Actions, "Actions should be populated after DoAction")

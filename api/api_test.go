@@ -251,7 +251,6 @@ func TestDoAction(t *testing.T) {
 				FromPieceType:   "Pawn",
 				FromPieceSquare: "e2",
 				ToSquare:        "e4",
-				IsEnPassant:     true,
 			},
 		},
 		{
@@ -273,7 +272,6 @@ func TestDoAction(t *testing.T) {
 				FromPieceType:   "Pawn",
 				FromPieceSquare: "e2",
 				ToSquare:        "e4",
-				IsEnPassant:     true,
 			},
 		},
 		{

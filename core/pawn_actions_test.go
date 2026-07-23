@@ -72,7 +72,7 @@ func TestPawnActions(t *testing.T) {
 			xy:    XY{0, 1},
 			actions: []Action{
 				{FromPiece: Piece{PieceType: PiecePawn, Owner: ColorBlack, XY: XY{0, 1}}, ToXY: XY{0, 2}},
-				{FromPiece: Piece{PieceType: PiecePawn, Owner: ColorBlack, XY: XY{0, 1}}, ToXY: XY{0, 3}, IsEnPassant: true},
+				{FromPiece: Piece{PieceType: PiecePawn, Owner: ColorBlack, XY: XY{0, 1}}, ToXY: XY{0, 3}},
 			},
 		},
 		{
@@ -191,7 +191,7 @@ func TestPawnActions(t *testing.T) {
 			xy:    XY{0, 6},
 			actions: []Action{
 				{FromPiece: Piece{PieceType: PiecePawn, Owner: ColorWhite, XY: XY{0, 6}}, ToXY: XY{0, 5}},
-				{FromPiece: Piece{PieceType: PiecePawn, Owner: ColorWhite, XY: XY{0, 6}}, ToXY: XY{0, 4}, IsEnPassant: true},
+				{FromPiece: Piece{PieceType: PiecePawn, Owner: ColorWhite, XY: XY{0, 6}}, ToXY: XY{0, 4}},
 			},
 		},
 		{
