@@ -391,11 +391,11 @@ var (
 	}
 	unthreatenedXYsForCastlingByColorAndCastleType = map[color]map[castleType][]XY{
 		ColorBlack: {
-			castleTypeQueenside: {{1, 0}, {2, 0}, {3, 0}, {4, 0}},
+			castleTypeQueenside: {{2, 0}, {3, 0}, {4, 0}},
 			castleTypeKingside:  {{4, 0}, {5, 0}, {6, 0}},
 		},
 		ColorWhite: {
-			castleTypeQueenside: {{1, 7}, {2, 7}, {3, 7}, {4, 7}},
+			castleTypeQueenside: {{2, 7}, {3, 7}, {4, 7}},
 			castleTypeKingside:  {{4, 7}, {5, 7}, {6, 7}},
 		},
 	}

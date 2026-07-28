@@ -296,7 +296,7 @@ func (g Game) DoAction(a Action) Game {
 		return newGame
 	}
 
-	// Castling context update
+	// Castling context update: moving player's king or rook
 	switch {
 	case lastTurn == ColorBlack && (a.IsCastle || a.FromPiece.PieceType == PieceKing):
 		newGame.CanBlackCastle = false
@@ -318,6 +318,24 @@ func (g Game) DoAction(a Action) Game {
 	case lastTurn == ColorWhite && a.FromPiece.PieceType == PieceRook && a.FromPiece.XY == XY{X: 7, Y: 7}:
 		newGame.CanWhiteKingsideCastle = false
 		newGame.CanWhiteCastle = newGame.CanWhiteQueensideCastle
+	}
+
+	// Castling context update: opponent's rook captured on its home square
+	if a.IsCapture {
+		switch a.ToXY {
+		case XY{X: 0, Y: 0}:
+			newGame.CanBlackQueensideCastle = false
+			newGame.CanBlackCastle = newGame.CanBlackKingsideCastle
+		case XY{X: 7, Y: 0}:
+			newGame.CanBlackKingsideCastle = false
+			newGame.CanBlackCastle = newGame.CanBlackQueensideCastle
+		case XY{X: 0, Y: 7}:
+			newGame.CanWhiteQueensideCastle = false
+			newGame.CanWhiteCastle = newGame.CanWhiteKingsideCastle
+		case XY{X: 7, Y: 7}:
+			newGame.CanWhiteKingsideCastle = false
+			newGame.CanWhiteCastle = newGame.CanWhiteQueensideCastle
+		}
 	}
 
 	newGame.MoveNumber = g.MoveNumber + 1
