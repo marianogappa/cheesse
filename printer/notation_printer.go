@@ -38,8 +38,7 @@ func pstr(s string) *string {
 // which differs from the printer defaults in the castling and checkmate symbols.
 func SANCharacteristics() GameCharacteristics {
 	return GameCharacteristics{
-		usesCastlingSymbol:  pstr("O-O"),
-		usesCheckmateSymbol: pstr("#"),
+		usesCastlingSymbol: pstr("O-O"),
 	}
 }
 
@@ -52,7 +51,7 @@ func applyDefaultGameCharacteristics(gameCharacteristics GameCharacteristics) Ga
 		gameCharacteristics.usesCheckSymbol = pstr("+")
 	}
 	if gameCharacteristics.usesCheckmateSymbol == nil {
-		gameCharacteristics.usesCheckmateSymbol = pstr("++")
+		gameCharacteristics.usesCheckmateSymbol = pstr("#")
 	}
 	if gameCharacteristics.usesFullMoveDot == nil {
 		gameCharacteristics.usesFullMoveDot = pbool(true)
