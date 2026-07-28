@@ -194,9 +194,10 @@ func (p *GenericNotationParser) ProcessToken(pg *ParsingGame, token *Token) erro
 				newGame := currentGame.DoAction(action)
 				newAlternative := alt.Clone()
 				newAlternative.GameSteps = append(newAlternative.GameSteps, core.GameStep{
-					StepString: token.Value,
-					StepAction: action,
-					StepGame:   newGame,
+					StepString:      token.Value,
+					StepAction:      action,
+					StepGame:        newGame,
+					StepPreMoveGame: currentGame,
 				})
 
 				newAlternatives = append(newAlternatives, newAlternative)
@@ -216,9 +217,10 @@ func (p *GenericNotationParser) ProcessToken(pg *ParsingGame, token *Token) erro
 		for _, alt := range pg.Alternatives {
 			newAlternative := alt.Clone()
 			newAlternative.GameSteps = append(newAlternative.GameSteps, core.GameStep{
-				StepString: token.Value,
-				StepAction: core.Action{},     // Empty action for result markers
-				StepGame:   alt.CurrentGame(), // Game state doesn't change
+				StepString:      token.Value,
+				StepAction:      core.Action{},     // Empty action for result markers
+				StepGame:        alt.CurrentGame(), // Game state doesn't change
+				StepPreMoveGame: alt.CurrentGame(),
 			})
 			newAlternatives = append(newAlternatives, newAlternative)
 		}

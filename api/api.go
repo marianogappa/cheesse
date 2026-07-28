@@ -63,7 +63,7 @@ func (a API) DoAction(game InputGame, action InputAction) (OutputGame, OutputAct
 	}
 	newGame := parsedGame.DoAction(parsedAction)
 	outputAction := mapInternalActionToAction(parsedAction)
-	actionString, err := printer.AlgebraicPrinter{}.PrintAction(core.GameStep{StepAction: parsedAction, StepGame: newGame}, printer.SANCharacteristics())
+	actionString, err := printer.AlgebraicPrinter{}.PrintAction(core.GameStep{StepAction: parsedAction, StepGame: newGame, StepPreMoveGame: parsedGame}, printer.SANCharacteristics())
 	if err != nil {
 		return OutputGame{}, OutputAction{}, err
 	}

@@ -12,8 +12,12 @@ func (p DescriptivePrinter) PrintGame(gameSteps []core.GameStep, gameCharacteris
 	return genericGamePrinter(gameSteps, gameCharacteristics, p)
 }
 
+func descUseKt(gc GameCharacteristics) bool {
+	return gc.descriptiveUseKt != nil && *gc.descriptiveUseKt
+}
+
 func piece(gameStep core.GameStep, gameCharacteristics GameCharacteristics, renderFileIfPawn bool) string {
-	return gameStep.StepAction.FromPiece.PieceType.ToDescriptive(gameCharacteristics.descriptiveUseKt != nil && *gameCharacteristics.descriptiveUseKt)
+	return gameStep.StepAction.FromPiece.PieceType.ToDescriptive(descUseKt(gameCharacteristics))
 }
 
 func enPassant(gameStep core.GameStep, gameCharacteristics GameCharacteristics) string {
@@ -88,11 +92,11 @@ func capture(gameStep core.GameStep, gameCharacteristics GameCharacteristics) st
 		"%v%v%v%v%v%v%v",
 		piece(gameStep, gameCharacteristics, true),
 		captureSymbol,
-		gameStep.StepAction.CapturedPiece.XY.ToDescriptive(gameStep.StepGame.Turn()),
+		gameStep.StepAction.ToXY.ToDescriptive(gameStep.StepGame.Turn(), descUseKt(gameCharacteristics)),
 		enPassant(gameStep, gameCharacteristics),
 		promotion(gameStep, gameCharacteristics),
-		algCheck(gameStep, gameCharacteristics),
-		algCheckmate(gameStep, gameCharacteristics),
+		check(gameStep, gameCharacteristics),
+		checkmate(gameStep, gameCharacteristics),
 	)
 }
 
@@ -100,7 +104,7 @@ func move(gameStep core.GameStep, gameCharacteristics GameCharacteristics) strin
 	return fmt.Sprintf(
 		"%v-%v%v%v%v%v",
 		piece(gameStep, gameCharacteristics, false),
-		gameStep.StepAction.ToXY.ToDescriptive(gameStep.StepGame.Turn().Opponent()), // N.B. because game is after doing the action
+		gameStep.StepAction.ToXY.ToDescriptive(gameStep.StepGame.Turn().Opponent(), descUseKt(gameCharacteristics)),
 		enPassant(gameStep, gameCharacteristics),
 		promotion(gameStep, gameCharacteristics),
 		check(gameStep, gameCharacteristics),

@@ -298,8 +298,11 @@ func (c XY) ToICCF() string {
 	return fmt.Sprintf("%v%v", c.X+1, 8-c.Y)
 }
 
-func (c XY) ToDescriptive(turn color) string {
-	fileNames := []string{"QR", "QN", "QB", "Q", "K", "KB", "KN", "KR"} // TODO: this doesn't respect Kt characteristic
+func (c XY) ToDescriptive(turn color, useKt ...bool) string {
+	fileNames := []string{"QR", "QN", "QB", "Q", "K", "KB", "KN", "KR"}
+	if len(useKt) > 0 && useKt[0] {
+		fileNames = []string{"QR", "QKt", "QB", "Q", "K", "KB", "KKt", "KR"}
+	}
 	y := c.Y + 1
 	if turn == ColorWhite {
 		y = 8 - c.Y
@@ -402,15 +405,17 @@ var (
 )
 
 type GameStep struct {
-	StepString string
-	StepAction Action
-	StepGame   Game
+	StepString      string
+	StepAction      Action
+	StepGame        Game
+	StepPreMoveGame Game
 }
 
 func (s GameStep) Clone() GameStep {
 	return GameStep{
-		StepString: s.StepString,
-		StepAction: s.StepAction,
-		StepGame:   s.StepGame.Clone(),
+		StepString:      s.StepString,
+		StepAction:      s.StepAction,
+		StepGame:        s.StepGame.Clone(),
+		StepPreMoveGame: s.StepPreMoveGame.Clone(),
 	}
 }

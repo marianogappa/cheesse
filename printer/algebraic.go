@@ -22,6 +22,38 @@ func algPiece(gameStep core.GameStep, gameCharacteristics GameCharacteristics, r
 	return gameStep.StepAction.FromPiece.PieceType.ToAlgebraic()
 }
 
+func algDisambiguate(gameStep core.GameStep) string {
+	action := gameStep.StepAction
+	if action.FromPiece.PieceType == core.PiecePawn || action.FromPiece.PieceType == core.PieceKing {
+		return ""
+	}
+	var sameFile, sameRank bool
+	ambiguous := false
+	for _, other := range gameStep.StepPreMoveGame.Actions {
+		if other.IsResign || other.FromPiece.PieceType != action.FromPiece.PieceType || other.ToXY != action.ToXY || other.FromPiece.XY == action.FromPiece.XY {
+			continue
+		}
+		ambiguous = true
+		if other.FromPiece.XY.X == action.FromPiece.XY.X {
+			sameFile = true
+		}
+		if other.FromPiece.XY.Y == action.FromPiece.XY.Y {
+			sameRank = true
+		}
+	}
+	if !ambiguous {
+		return ""
+	}
+	from := action.FromPiece.XY.ToAlgebraic()
+	if sameFile && sameRank {
+		return from
+	}
+	if sameFile {
+		return from[1:2]
+	}
+	return from[0:1]
+}
+
 func algEnPassant(gameStep core.GameStep, gameCharacteristics GameCharacteristics) string {
 	if !gameStep.StepAction.IsEnPassantCapture || gameCharacteristics.usesEnPassantSymbol == nil {
 		return ""
@@ -90,10 +122,11 @@ func algCapture(gameStep core.GameStep, gameCharacteristics GameCharacteristics)
 		captureSymbol = *gameCharacteristics.usesCaptureSymbol
 	}
 	return fmt.Sprintf(
-		"%v%v%v%v%v%v%v",
+		"%v%v%v%v%v%v%v%v",
 		algPiece(gameStep, gameCharacteristics, true),
+		algDisambiguate(gameStep),
 		captureSymbol,
-		gameStep.StepAction.CapturedPiece.XY.ToAlgebraic(),
+		gameStep.StepAction.ToXY.ToAlgebraic(),
 		algEnPassant(gameStep, gameCharacteristics),
 		algPromotion(gameStep, gameCharacteristics),
 		algCheck(gameStep, gameCharacteristics),
@@ -103,8 +136,9 @@ func algCapture(gameStep core.GameStep, gameCharacteristics GameCharacteristics)
 
 func algMove(gameStep core.GameStep, gameCharacteristics GameCharacteristics) string {
 	return fmt.Sprintf(
-		"%v%v%v%v%v%v",
+		"%v%v%v%v%v%v%v",
 		algPiece(gameStep, gameCharacteristics, false),
+		algDisambiguate(gameStep),
 		gameStep.StepAction.ToXY.ToAlgebraic(),
 		algEnPassant(gameStep, gameCharacteristics),
 		algPromotion(gameStep, gameCharacteristics),
@@ -122,7 +156,6 @@ func algResign(gameStep core.GameStep, gameCharacteristics GameCharacteristics) 
 
 func (p AlgebraicPrinter) PrintAction(gameStep core.GameStep, gameCharacteristics GameCharacteristics) (string, error) {
 	gameCharacteristics = applyDefaultGameCharacteristics(gameCharacteristics)
-	// TODO: Disambiguation
 	if gameStep.StepAction.IsCastle {
 		return algCastle(gameStep, gameCharacteristics), nil
 	}

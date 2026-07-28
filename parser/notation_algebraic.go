@@ -119,7 +119,7 @@ func NewNotationParserAlgebraic(initialCharacteristics Characteristics) *Notatio
 						fromX:              fileToPInt(fromSquareFile),
 						toX:                fileToPInt(toSquareFile),
 						toY:                rankToPInt(toSquareRank),
-						isEnPassantCapture: pBool(strings.HasSuffix(enPassantCapture, "e.p.")),
+						isEnPassantCapture: nilOrTrue(strings.HasSuffix(enPassantCapture, "e.p.")),
 						isCapture:          pBool(true),
 						isPromotion:        pBool(false),
 						isCastle:           pBool(false),
@@ -338,6 +338,13 @@ func rankToPInt(rank string) *int {
 
 func pBool(b bool) *bool {
 	return &b
+}
+
+func nilOrTrue(b bool) *bool {
+	if !b {
+		return nil
+	}
+	return pBool(true)
 }
 
 func processThreatenSymbol(threatenSymbol string) (isCheck *bool, isCheckmate *bool, usesCheckSymbol *string, usesCheckmateSymbol *string) {

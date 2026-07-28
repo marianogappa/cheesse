@@ -228,7 +228,7 @@ func (p *gameStepParser) next(ap actionPattern, actionString string) bool {
 					continue
 				}
 				newAlternative := alternative.Clone()
-				newAlternative.GameSteps = append(newAlternative.GameSteps, core.GameStep{StepString: actionString, StepAction: action, StepGame: newGame})
+				newAlternative.GameSteps = append(newAlternative.GameSteps, core.GameStep{StepString: actionString, StepAction: action, StepGame: newGame, StepPreMoveGame: alternative.CurrentGame()})
 				newAlternatives = append(newAlternatives, newAlternative)
 			}
 		}
