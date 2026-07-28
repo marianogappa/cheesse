@@ -40,6 +40,10 @@ func (a API) parseAction(ia InputAction, g core.Game) (core.Action, error) {
 	if err != nil {
 		return core.Action{}, err
 	}
+	// Board UIs often supply only from/to squares, so promotions default to Queen.
+	if promotionPieceType == core.PieceNone {
+		promotionPieceType = core.PieceQueen
+	}
 
 	for _, action := range g.Actions {
 		if action.FromPiece.XY != fromXY || action.ToXY != toXY || (action.IsPromotion && action.PromotionPieceType != promotionPieceType) {

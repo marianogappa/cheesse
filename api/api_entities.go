@@ -135,6 +135,10 @@ type OutputGame struct {
 // - `capturedPieceType` is one of `{Queen|King|Bishop|Knight|Rook|Pawn}`,
 // and represents the piece that was captured, if the action is a capture.
 // If the action is not a capture, it's an empty string.
+//
+// - `actionString` is the action rendered in Standard Algebraic Notation
+// (e.g. `Nf3`). It is only populated by API calls that apply the action on
+// a game (e.g. `DoAction`); otherwise it's an empty string.
 type OutputAction struct {
 	FromPieceOwner     string `json:"fromPieceOwner"`
 	FromPieceType      string `json:"fromPieceType"`
@@ -149,6 +153,7 @@ type OutputAction struct {
 	IsQueensideCastle  bool   `json:"isQueensideCastle"`
 	PromotionPieceType string `json:"promotionPieceType"`
 	CapturedPieceType  string `json:"capturedPieceType"`
+	ActionString       string `json:"actionString"`
 }
 
 // OutputGameStep is the output interface that describes a step in a parsed

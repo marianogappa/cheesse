@@ -5,6 +5,7 @@ import (
 
 	"github.com/marianogappa/cheesse/core"
 	"github.com/marianogappa/cheesse/parser"
+	"github.com/marianogappa/cheesse/printer"
 )
 
 // API represents the cheesse API. All cheesse API methods are exported methods of this struct.
@@ -60,7 +61,14 @@ func (a API) DoAction(game InputGame, action InputAction) (OutputGame, OutputAct
 	if err != nil {
 		return OutputGame{}, OutputAction{}, err
 	}
-	return mapGameToOutputGame(parsedGame.DoAction(parsedAction)), mapInternalActionToAction(parsedAction), nil
+	newGame := parsedGame.DoAction(parsedAction)
+	outputAction := mapInternalActionToAction(parsedAction)
+	actionString, err := printer.AlgebraicPrinter{}.PrintAction(core.GameStep{StepAction: parsedAction, StepGame: newGame}, printer.SANCharacteristics())
+	if err != nil {
+		return OutputGame{}, OutputAction{}, err
+	}
+	outputAction.ActionString = actionString
+	return mapGameToOutputGame(newGame), outputAction, nil
 }
 
 // ParseNotation takes any valid input game and a string representing a match in some

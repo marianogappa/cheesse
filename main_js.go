@@ -200,6 +200,7 @@ func convertOutputAction(a api.OutputAction) map[string]interface{} {
 		"isQueensideCastle":  a.IsQueensideCastle,
 		"promotionPieceType": a.PromotionPieceType,
 		"capturedPieceType":  a.CapturedPieceType,
+		"actionString":       a.ActionString,
 	}
 }
 

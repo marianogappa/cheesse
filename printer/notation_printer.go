@@ -34,6 +34,15 @@ func pstr(s string) *string {
 	return &s
 }
 
+// SANCharacteristics returns GameCharacteristics matching Standard Algebraic Notation,
+// which differs from the printer defaults in the castling and checkmate symbols.
+func SANCharacteristics() GameCharacteristics {
+	return GameCharacteristics{
+		usesCastlingSymbol:  pstr("O-O"),
+		usesCheckmateSymbol: pstr("#"),
+	}
+}
+
 func pbool(b bool) *bool {
 	return &b
 }
