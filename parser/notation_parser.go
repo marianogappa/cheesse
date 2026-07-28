@@ -4,6 +4,7 @@ import (
 	"errors"
 	"fmt"
 	"regexp"
+	"sort"
 	"strings"
 
 	"github.com/marianogappa/cheesse/core"
@@ -215,6 +216,38 @@ func newGameStepParser(initialGame core.Game) *gameStepParser {
 	}
 }
 
+// matchingActions returns the distinct actions that the given pattern matches on the
+// current alternatives, applying the same post-move check/checkmate filters as next(),
+// without advancing the parser.
+func (p *gameStepParser) matchingActions(ap actionPattern) []core.Action {
+	var (
+		matched   = []core.Action{}
+		actionSet = map[core.Action]struct{}{}
+	)
+	for _, alternative := range p.alternatives {
+		for _, action := range alternative.CurrentGame().Actions {
+			if !ap.isMatch(action) {
+				continue
+			}
+			if ap.isCheck != nil || ap.isCheckmate != nil {
+				newGame := alternative.CurrentGame().DoAction(action)
+				if ap.isCheck != nil && newGame.IsCheck != *ap.isCheck {
+					continue
+				}
+				if ap.isCheckmate != nil && newGame.IsCheckmate != *ap.isCheckmate {
+					continue
+				}
+			}
+			if _, ok := actionSet[action]; ok {
+				continue
+			}
+			actionSet[action] = struct{}{}
+			matched = append(matched, action)
+		}
+	}
+	return matched
+}
+
 func (p *gameStepParser) next(ap actionPattern, actionString string) bool {
 	newAlternatives := []GameAlternative{}
 	for _, alternative := range p.alternatives {
@@ -323,6 +356,33 @@ func (p *NotationParser) Parse(initialGame core.Game, s string) ([]core.GameStep
 
 		// Move steps will advance the game
 		if stepOrder[stepI] == "move" {
+			// If the action string matches more than one action, it's ambiguous:
+			// disambiguation is mandatory, so fail describing the conflicting actions.
+			var (
+				distinctActions = []core.Action{}
+				actionSet       = map[core.Action]struct{}{}
+				ambiguousMatch  string
+			)
+			for _, tm := range tokenMatches {
+				for _, action := range p.stepParser.matchingActions(*tm.ap) {
+					if _, ok := actionSet[action]; ok {
+						continue
+					}
+					actionSet[action] = struct{}{}
+					distinctActions = append(distinctActions, action)
+					ambiguousMatch = tm.match
+				}
+			}
+			if len(distinctActions) > 1 {
+				descriptions := make([]string, len(distinctActions))
+				for j, action := range distinctActions {
+					descriptions[j] = action.String()
+				}
+				sort.Strings(descriptions)
+				err := fmt.Errorf("at index %v the action string %q is ambiguous because %v different actions match it: [%v]; please disambiguate", i, ambiguousMatch, len(distinctActions), strings.Join(descriptions, "; "))
+				return p.stepParser.parsedGame.GameSteps, err
+			}
+
 			var ok bool
 			for _, tm := range tokenMatches {
 				if ok = p.stepParser.next(*tm.ap, tm.match); ok {

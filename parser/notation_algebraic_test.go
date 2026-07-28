@@ -1355,7 +1355,7 @@ func TestNotationParserAlgebraic(t *testing.T) {
 		{
 			fen: "8/7K/7P/1P6/2n4k/4n3/1P6/8 w - - 0 1",
 			s: `1. Kg6  Ne5+
-				2. Kf6  Ng4+
+				2. Kf6  N5g4+
 				3. Ke6  Nxh6
 				4. b6 Nf7
 				5. Kxf7 Nc4
@@ -3735,7 +3735,7 @@ func TestNotationParserAlgebraic(t *testing.T) {
 			s: `1. Ne4 Nd3
 				2. Qf2! Nxf2
 				3. Ng3+ Kg1
-				4. Ng5 Ng4
+				4. Ng5 Nhg4
 				5. Nf3#`,
 			expectedFEN: "8/K7/8/8/6n1/5NN1/5np1/6k1 b - - 5 5",
 			expectedErr: nil,
@@ -4013,13 +4013,13 @@ func TestNotationParserAlgebraic(t *testing.T) {
 		},
 		{
 			fen: "RK6/8/1k6/7R/8/8/pp6/8 w - - 0 1",
-			s: `1. Ra5  Kc6
+			s: `1. Raa5  Kc6
 				2. Kc8  Kd6
 				3. Kd8  Ke6
 				4. Ra6+   Kf7
 				5. Rf5+   Kg7
 				6. Rg5+   Kf7
-				7. Rg6  b1=Q
+				7. Rgg6  b1=Q
 				8. Rf6# `,
 			expectedFEN: "3K4/5k2/5RR1/8/8/8/p7/1q6 b - - 1 8",
 			expectedErr: nil,
