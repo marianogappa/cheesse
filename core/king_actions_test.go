@@ -294,7 +294,7 @@ func TestKingActions(t *testing.T) {
 			},
 		},
 		{
-			name: "black king: can't castle queenside because there's a square in check",
+			name: "black king: can castle queenside even though b8 is threatened (only king path matters)",
 			board: Board{
 				Board: []string{
 					"♜   ♚♝♞♜",
@@ -316,6 +316,7 @@ func TestKingActions(t *testing.T) {
 			xy:    XY{4, 0},
 			actions: []Action{
 				{FromPiece: Piece{PieceType: PieceKing, Owner: ColorBlack, XY: XY{4, 0}}, ToXY: XY{3, 0}},
+				{FromPiece: Piece{PieceType: PieceKing, Owner: ColorBlack, XY: XY{4, 0}}, ToXY: XY{2, 0}, IsCastle: true, IsQueensideCastle: true},
 			},
 		},
 		{
@@ -567,7 +568,7 @@ func TestKingActions(t *testing.T) {
 			},
 		},
 		{
-			name: "white king: can't castle queenside because there's a square in check",
+			name: "white king: can castle queenside even though b1 is threatened (only king path matters)",
 			board: Board{
 				Board: []string{
 					" ♞♝♛♚♝♞♜",
@@ -589,6 +590,7 @@ func TestKingActions(t *testing.T) {
 			xy:    XY{4, 7},
 			actions: []Action{
 				{FromPiece: Piece{PieceType: PieceKing, Owner: ColorWhite, XY: XY{4, 7}}, ToXY: XY{3, 7}},
+				{FromPiece: Piece{PieceType: PieceKing, Owner: ColorWhite, XY: XY{4, 7}}, ToXY: XY{2, 7}, IsCastle: true, IsQueensideCastle: true},
 			},
 		},
 		{
