@@ -251,6 +251,7 @@ func TestDoAction(t *testing.T) {
 				FromPieceType:   "Pawn",
 				FromPieceSquare: "e2",
 				ToSquare:        "e4",
+				ActionString:    "e4",
 			},
 		},
 		{
@@ -272,6 +273,7 @@ func TestDoAction(t *testing.T) {
 				FromPieceType:   "Pawn",
 				FromPieceSquare: "e2",
 				ToSquare:        "e4",
+				ActionString:    "e4",
 			},
 		},
 		{
@@ -295,6 +297,7 @@ func TestDoAction(t *testing.T) {
 				ToSquare:          "c8",
 				IsCastle:          true,
 				IsQueensideCastle: true,
+				ActionString:      "O-O-O",
 			},
 		},
 		{
@@ -318,6 +321,7 @@ func TestDoAction(t *testing.T) {
 				ToSquare:         "g8",
 				IsCastle:         true,
 				IsKingsideCastle: true,
+				ActionString:     "O-O",
 			},
 		},
 		{
@@ -341,6 +345,7 @@ func TestDoAction(t *testing.T) {
 				ToSquare:          "c1",
 				IsCastle:          true,
 				IsQueensideCastle: true,
+				ActionString:      "O-O-O",
 			},
 		},
 		{
@@ -364,6 +369,7 @@ func TestDoAction(t *testing.T) {
 				ToSquare:         "g1",
 				IsCastle:         true,
 				IsKingsideCastle: true,
+				ActionString:     "O-O",
 			},
 		},
 		{
@@ -387,6 +393,55 @@ func TestDoAction(t *testing.T) {
 				ToSquare:          "d7",
 				IsCapture:         true,
 				CapturedPieceType: "Bishop",
+				ActionString:      "Bxd7+",
+			},
+		},
+		{
+			name:        "promotion defaults to Queen when no promotion piece type supplied",
+			inputGame:   InputGame{FENString: "8/5P1k/8/8/8/8/8/K7 w - - 0 1"},
+			inputAction: InputAction{FromSquare: "f7", ToSquare: "f8"},
+			outputGame: OutputGame{Board: Board{Board: []string{
+				"     ♕  ",
+				"       ♚",
+				"        ",
+				"        ",
+				"        ",
+				"        ",
+				"        ",
+				"♔       ",
+			}}},
+			outputAction: OutputAction{
+				FromPieceOwner:     "White",
+				FromPieceType:      "Pawn",
+				FromPieceSquare:    "f7",
+				ToSquare:           "f8",
+				IsPromotion:        true,
+				PromotionPieceType: "Queen",
+				ActionString:       "f8=Q",
+			},
+		},
+		{
+			name:        "promotion respects explicitly supplied promotion piece type",
+			inputGame:   InputGame{FENString: "8/5P1k/8/8/8/8/8/K7 w - - 0 1"},
+			inputAction: InputAction{FromSquare: "f7", ToSquare: "f8", PromotionPieceType: "Knight"},
+			outputGame: OutputGame{Board: Board{Board: []string{
+				"     ♘  ",
+				"       ♚",
+				"        ",
+				"        ",
+				"        ",
+				"        ",
+				"        ",
+				"♔       ",
+			}}},
+			outputAction: OutputAction{
+				FromPieceOwner:     "White",
+				FromPieceType:      "Pawn",
+				FromPieceSquare:    "f7",
+				ToSquare:           "f8",
+				IsPromotion:        true,
+				PromotionPieceType: "Knight",
+				ActionString:       "f8=N+",
 			},
 		},
 	}
