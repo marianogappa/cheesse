@@ -93,10 +93,10 @@ func (a API) ParseNotation(game InputGame, notationString string) (OutputGame, [
 		return OutputGame{}, []OutputGameStep{}, err
 	}
 
-	// TODO at the moment there only exists algebraic and iccf parsers
 	notationParsers := []*parser.NotationParser{
 		parser.NewNotationParserAlgebraic(parser.Characteristics{}),
 		parser.NewNotationParserICCF(parser.Characteristics{}),
+		parser.NewNotationParserSmith(parser.Characteristics{}),
 	}
 
 	var gameSteps []core.GameStep
