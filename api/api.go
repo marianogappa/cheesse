@@ -97,6 +97,7 @@ func (a API) ParseNotation(game InputGame, notationString string) (OutputGame, [
 		parser.NewNotationParserAlgebraic(parser.Characteristics{}),
 		parser.NewNotationParserICCF(parser.Characteristics{}),
 		parser.NewNotationParserSmith(parser.Characteristics{}),
+		parser.NewNotationParserCoordinate(parser.Characteristics{}),
 	}
 
 	var gameSteps []core.GameStep
