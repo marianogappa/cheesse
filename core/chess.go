@@ -356,13 +356,30 @@ func (g Game) DoAction(a Action) Game {
 		newGame.HalfMoveClock = 0
 	}
 
-	return newGame.calculateCriticalFlags()
+	newGame = newGame.calculateCriticalFlags()
+
+	if newGame.IsCheck {
+		newGame.IsDoubleCheck = len(newGame.InCheckBy) >= 2
+
+		hasRevealedChecker := false
+		for _, checker := range newGame.InCheckBy {
+			if checker.XY != a.ToXY {
+				hasRevealedChecker = true
+				break
+			}
+		}
+		newGame.IsDiscoverCheck = hasRevealedChecker
+	}
+
+	return newGame
 }
 
 func (g Game) calculateCriticalFlags() Game {
 	turn := g.Turn()
 
 	g.IsCheck = false
+	g.IsDoubleCheck = false
+	g.IsDiscoverCheck = false
 	g.IsCheckmate = false
 	g.IsStalemate = false
 	g.IsDraw = false

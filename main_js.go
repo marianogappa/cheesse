@@ -151,6 +151,8 @@ func convertOutputGame(og api.OutputGame) map[string]interface{} {
 		"blackKing":               og.BlackKing,
 		"whiteKing":               og.WhiteKing,
 		"isCheck":                 og.IsCheck,
+		"isDoubleCheck":           og.IsDoubleCheck,
+		"isDiscoverCheck":         og.IsDiscoverCheck,
 		"isCheckmate":             og.IsCheckmate,
 		"isStalemate":             og.IsStalemate,
 		"isDraw":                  og.IsDraw,

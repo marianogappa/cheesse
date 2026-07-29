@@ -21,6 +21,8 @@ type Game struct {
 	Pieces                  []map[XY]Piece
 	Kings                   []Piece
 	IsCheck                 bool
+	IsDoubleCheck           bool
+	IsDiscoverCheck         bool
 	IsCheckmate             bool
 	IsStalemate             bool
 	IsDraw                  bool
@@ -71,6 +73,8 @@ func (g Game) Clone() Game {
 		Pieces:                  clonedPieces,
 		Kings:                   clonedKings,
 		IsCheck:                 g.IsCheck,
+		IsDoubleCheck:           g.IsDoubleCheck,
+		IsDiscoverCheck:         g.IsDiscoverCheck,
 		IsCheckmate:             g.IsCheckmate,
 		IsStalemate:             g.IsStalemate,
 		IsDraw:                  g.IsDraw,

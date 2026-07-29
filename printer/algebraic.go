@@ -98,12 +98,19 @@ func algCastle(gameStep core.GameStep, gameCharacteristics GameCharacteristics) 
 }
 
 func algCheck(gameStep core.GameStep, gameCharacteristics GameCharacteristics) string {
-	// TODO: Double check
-	// TODO: Discover check
-	if !gameStep.StepGame.IsCheck || gameStep.StepGame.IsCheckmate || gameCharacteristics.usesCheckSymbol == nil {
+	if !gameStep.StepGame.IsCheck || gameStep.StepGame.IsCheckmate {
 		return ""
 	}
-	return fmt.Sprintf("%v", *gameCharacteristics.usesCheckSymbol)
+	if gameStep.StepGame.IsDoubleCheck && gameCharacteristics.usesDoubleCheckSymbol != nil {
+		return *gameCharacteristics.usesDoubleCheckSymbol
+	}
+	if gameStep.StepGame.IsDiscoverCheck && gameCharacteristics.usesDiscoverCheckSymbol != nil {
+		return *gameCharacteristics.usesDiscoverCheckSymbol
+	}
+	if gameCharacteristics.usesCheckSymbol == nil {
+		return ""
+	}
+	return *gameCharacteristics.usesCheckSymbol
 }
 
 func algCheckmate(gameStep core.GameStep, gameCharacteristics GameCharacteristics) string {
