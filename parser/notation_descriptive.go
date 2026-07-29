@@ -41,7 +41,7 @@ func NewNotationParserDescriptive(initialCharacteristics Characteristics) *Notat
 			},
 			"move": {
 				// Move
-				`(Q|K|B|N|Kt|R|P)-(QR|QN|QKt|QB|Q|KB|KN|KKt|KR|B|N|Kt|R|K)?([1-8])?(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
+				`(Q|K|B|N|Kt|R|P)-(QR|QN|QKt|QB|Q|KB|KN|KKt|KR|B|N|Kt|R|K)?([1-8])?(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
 					sFromPieceType, toSquareFile, toSquareRank, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5]
 
 					// At least one of file/rank must be present
@@ -84,7 +84,7 @@ func NewNotationParserDescriptive(initialCharacteristics Characteristics) *Notat
 				},
 
 				// Capture
-				// `(Q|K|B|N|Kt|R)(x|:)?([a-h])([1-8])(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
+				// `(Q|K|B|N|Kt|R)(x|:)?([a-h])([1-8])(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
 				// 	sFromPieceType, _, toSquareFile, toSquareRank, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6]
 				// 	isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
 				// 	ap := actionPattern{
@@ -106,7 +106,7 @@ func NewNotationParserDescriptive(initialCharacteristics Characteristics) *Notat
 				// },
 
 				// Capture with colon at the end
-				// `([QKBNR])([a-h])?([1-8])?([a-h])([1-8]):(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string) tokenMatch {
+				// `([QKBNR])([a-h])?([1-8])?([a-h])([1-8]):(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string) tokenMatch {
 				// 	sFromPieceType, fromSquareFile, fromSquareRank, toSquareFile, toSquareRank, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7]
 				// 	isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
 				// 	ap := actionPattern{
@@ -130,7 +130,7 @@ func NewNotationParserDescriptive(initialCharacteristics Characteristics) *Notat
 				// },
 
 				// Capture with pawn, potentially without rank
-				// `([a-h])(x|:)?([a-h])([1-8]?)( ?e.p.)?(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string) tokenMatch {
+				// `([a-h])(x|:)?([a-h])([1-8]?)( ?e.p.)?(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string) tokenMatch {
 				// 	fromSquareFile, _, toSquareFile, toSquareRank, enPassantCapture, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7]
 				// 	isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
 				// 	ap := actionPattern{
@@ -151,7 +151,7 @@ func NewNotationParserDescriptive(initialCharacteristics Characteristics) *Notat
 				// },
 
 				// Capture and promotion with pawn, potentially without rank
-				// `([a-h])(x|:)?([a-h])([1-8]?)([=\(])([QBNR])\)?(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string) tokenMatch {
+				// `([a-h])(x|:)?([a-h])([1-8]?)([=\(])([QBNR])\)?(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string) tokenMatch {
 				// 	fromSquareFile, _, toSquareFile, toSquareRank, promotionSymbol, sPromotionPieceType, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7], ms[8]
 				// 	isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
 				// 	ap := actionPattern{
@@ -177,7 +177,7 @@ func NewNotationParserDescriptive(initialCharacteristics Characteristics) *Notat
 				// },
 
 				// Promotion
-				// `([a-h])([1-8])([=\(])([QBNR])\)?(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
+				// `([a-h])([1-8])([=\(])([QBNR])\)?(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
 				// 	toSquareFile, toSquareRank, promotionSymbol, sPromotionPieceType, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6]
 				// 	isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
 				// 	ap := actionPattern{
@@ -202,7 +202,7 @@ func NewNotationParserDescriptive(initialCharacteristics Characteristics) *Notat
 				// },
 
 				// Castling
-				`(0-0|0-0-0|O-O|O-O-O)(\+|†|ch|dbl\.? ?ch|\+\+|dis\.? ?ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
+				`(0-0|0-0-0|O-O|O-O-O)(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
 					castlingSymbol, threatenSymbol, _ := ms[1], ms[2], ms[3]
 					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
 					ap := actionPattern{

@@ -108,6 +108,8 @@ type OutputGame struct {
 	BlackKing               string            `json:"blackKing"`
 	WhiteKing               string            `json:"whiteKing"`
 	IsCheck                 bool              `json:"isCheck"`
+	IsDoubleCheck           bool              `json:"isDoubleCheck"`
+	IsDiscoverCheck         bool              `json:"isDiscoverCheck"`
 	IsCheckmate             bool              `json:"isCheckmate"`
 	IsStalemate             bool              `json:"isStalemate"`
 	IsDraw                  bool              `json:"isDraw"`
@@ -201,6 +203,8 @@ func mapGameToOutputGame(g core.Game) OutputGame {
 	o.BlackKing = g.Kings[core.ColorBlack].XY.ToAlgebraic()
 	o.WhiteKing = g.Kings[core.ColorWhite].XY.ToAlgebraic()
 	o.IsCheck = g.IsCheck
+	o.IsDoubleCheck = g.IsDoubleCheck
+	o.IsDiscoverCheck = g.IsDiscoverCheck
 	o.IsCheckmate = g.IsCheckmate
 	o.IsStalemate = g.IsStalemate
 	o.IsDraw = g.IsDraw

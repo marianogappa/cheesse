@@ -242,6 +242,32 @@ func TestAlgebraicPrinter_Promotion(t *testing.T) {
 	})
 }
 
+func TestAlgebraicPrinter_DoubleCheck(t *testing.T) {
+	p := AlgebraicPrinter{}
+	gc := GameCharacteristics{}
+
+	t.Run("double check prints ++ by default", func(t *testing.T) {
+		// Nd5-f6 double check: knight + rook
+		gs := buildGameStep(t, "4k3/8/8/3N4/8/8/8/4R2K w - - 0 1", "d5", "f6")
+		result, err := p.PrintAction(gs, gc)
+		require.NoError(t, err)
+		assert.Equal(t, "Nf6++", result)
+	})
+}
+
+func TestAlgebraicPrinter_DiscoverCheck(t *testing.T) {
+	p := AlgebraicPrinter{}
+	gc := GameCharacteristics{}
+
+	t.Run("discovered check prints + by default", func(t *testing.T) {
+		// Nd2-f3 discovers rook on e1
+		gs := buildGameStep(t, "4k3/8/8/8/8/8/3N4/4R2K w - - 0 1", "d2", "f3")
+		result, err := p.PrintAction(gs, gc)
+		require.NoError(t, err)
+		assert.Equal(t, "Nf3+", result)
+	})
+}
+
 func TestAlgebraicPrinter_RoundTrip(t *testing.T) {
 	testCases := []struct {
 		name string

@@ -27,6 +27,8 @@ type GameCharacteristics struct {
 	usesPromotionSymbol            *string
 	usesCastlingSymbol             *string
 	usesEnPassantSymbol            *string
+	usesDoubleCheckSymbol          *string
+	usesDiscoverCheckSymbol        *string
 	descriptiveUseKt               *bool
 }
 
@@ -79,6 +81,12 @@ func applyDefaultGameCharacteristics(gameCharacteristics GameCharacteristics) Ga
 	}
 	if gameCharacteristics.usesEnPassantSymbol == nil {
 		gameCharacteristics.usesEnPassantSymbol = pstr("e.p.")
+	}
+	if gameCharacteristics.usesDoubleCheckSymbol == nil {
+		gameCharacteristics.usesDoubleCheckSymbol = pstr("++")
+	}
+	if gameCharacteristics.usesDiscoverCheckSymbol == nil {
+		gameCharacteristics.usesDiscoverCheckSymbol = pstr("+")
 	}
 	return gameCharacteristics
 }
