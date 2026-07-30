@@ -56,9 +56,9 @@ func (g Game) Clone() Game {
 		clonedPieces[color] = clonedOwnerPieces
 	}
 	clonedInCheckBy := make([]Piece, len(g.InCheckBy))
-	for i, piece := range g.InCheckBy {
-		clonedInCheckBy[i] = piece
-	}
+	copy(clonedInCheckBy, g.InCheckBy)
+	clonedActions := make([]Action, len(g.Actions))
+	copy(clonedActions, g.Actions)
 	return Game{
 		CanWhiteCastle:          g.CanWhiteCastle,
 		CanWhiteKingsideCastle:  g.CanWhiteKingsideCastle,
@@ -81,6 +81,7 @@ func (g Game) Clone() Game {
 		IsGameOver:              g.IsGameOver,
 		GameOverWinner:          g.GameOverWinner,
 		InCheckBy:               clonedInCheckBy,
+		Actions:                 clonedActions,
 	}
 }
 
