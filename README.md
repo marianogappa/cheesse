@@ -88,9 +88,31 @@ func main() {
 ♖♘♗♕♔♗♘♖
 ```
 
-## WebAssembly example (using TinyGo compiler)
+## WebAssembly
 
-[Auto-play](https://marianogappa.github.io/cheesse-examples/)
+Build:
+
+```bash
+$ GOOS=js GOARCH=wasm go build -tags tinygo -o cheesse.wasm .
+```
+
+The binary exposes the full API as synchronous JS globals. Every function takes a
+`Uint8Array` containing a JSON request and returns a `Uint8Array` containing a JSON
+response (same shapes as the HTTP endpoints; `{"error": "..."}` on failure):
+
+```js
+const enc = new TextEncoder(), dec = new TextDecoder();
+const call = (fn, obj) => JSON.parse(dec.decode(fn(enc.encode(JSON.stringify(obj)))));
+
+JSON.parse(dec.decode(cheesseDefaultGame()));
+call(cheesseParseGame,       {game: {fenString: "..."}});
+call(cheesseDoAction,        {game: {}, action: {fromSquare: "e2", toSquare: "e4"}});
+call(cheesseParseNotation,   {game: {}, notationString: "1. e4 e5"});
+call(cheesseConvertNotation, {game: {}, notationString: "1. e4 e5", targetNotation: "ICCF"});
+call(cheesseAIMove,          {game: {}, mode: "random"}); // random|easy|medium|hard
+```
+
+[Auto-play example](https://marianogappa.github.io/cheesse-examples/)
 
 ## Why is it called "cheesse"?
 

@@ -1,252 +1,167 @@
+//go:build tinygo
 // +build tinygo
 
 package main
 
 import (
+	"encoding/json"
 	"syscall/js"
 
 	"github.com/marianogappa/cheesse/api"
 )
 
-var a = api.New()
-
-func DefaultGame(this js.Value, p []js.Value) interface{} {
-	return js.ValueOf(convertOutputGame(a.DefaultGame()))
-}
-
-func ParseGame(this js.Value, p []js.Value) interface{} {
-	og, err := a.ParseGame(convertToInputGame(p[0]))
-	return js.ValueOf(map[string]interface{}{
-		"outputGame": convertOutputGame(og),
-		"error":      convertError(err),
-	})
-}
-
-func DoAction(this js.Value, p []js.Value) interface{} {
-	og, oa, err := a.DoAction(convertToInputGame(p[0]), convertToInputAction(p[1]))
-	return js.ValueOf(map[string]interface{}{
-		"outputGame":   convertOutputGame(og),
-		"outputAction": convertOutputAction(oa),
-		"error":        convertError(err),
-	})
-}
-
-func ParseNotation(this js.Value, p []js.Value) interface{} {
-	og, result, err := a.ParseNotation(convertToInputGame(p[0]), p[1].String())
-	return js.ValueOf(map[string]interface{}{
-		"outputGame":  convertOutputGame(og),
-		"parseResult": convertOutputParseResult(result),
-		"error":       convertError(err),
-	})
-}
-
-func convertOutputParseResult(r api.OutputParseResult) map[string]interface{} {
-	return map[string]interface{}{
-		"notationName":       r.NotationName,
-		"parseWasSuccessful": r.ParseWasSuccessful,
-		"validActionCount":   r.ValidActionCount,
-		"steps":              convertOutputGameSteps(r.Steps),
-		"error":              r.Error,
-	}
-}
-
-func ConvertNotation(this js.Value, p []js.Value) interface{} {
-	og, result, err := a.ConvertNotation(convertToInputGame(p[0]), p[1].String(), p[2].String())
-	return js.ValueOf(map[string]interface{}{
-		"outputGame":  convertOutputGame(og),
-		"parseResult": convertOutputParseResult(result),
-		"error":       convertError(err),
-	})
-}
-
-func AIMove(this js.Value, p []js.Value) interface{} {
-	og, oa, ok, err := a.AIMove(convertToInputGame(p[0]), p[1].String())
-	return js.ValueOf(map[string]interface{}{
-		"outputGame":   convertOutputGame(og),
-		"outputAction": convertOutputAction(oa),
-		"moveAvailable": ok,
-		"error":        convertError(err),
-	})
-}
-
+// The WASM bindings expose the full cheesse API as synchronous JS globals.
+//
+// Every function takes a single Uint8Array argument containing a JSON request and
+// returns a Uint8Array containing a JSON response. Field casing follows the JSON
+// tags of the api package entities (camelCase), so the JS shapes are exactly the
+// same as the HTTP server's.
+//
+// Response envelope: {"error": "..."} on failure, otherwise the same shape as the
+// corresponding HTTP endpoint's response.
 func main() {
-	js.Global().Set("DefaultGame", js.FuncOf(DefaultGame))
-	js.Global().Set("ParseGame", js.FuncOf(ParseGame))
-	js.Global().Set("DoAction", js.FuncOf(DoAction))
-	js.Global().Set("ParseNotation", js.FuncOf(ParseNotation))
-	js.Global().Set("ConvertNotation", js.FuncOf(ConvertNotation))
-	js.Global().Set("AIMove", js.FuncOf(AIMove))
+	js.Global().Set("cheesseDefaultGame", js.FuncOf(jsDefaultGame))
+	js.Global().Set("cheesseParseGame", js.FuncOf(jsParseGame))
+	js.Global().Set("cheesseDoAction", js.FuncOf(jsDoAction))
+	js.Global().Set("cheesseParseNotation", js.FuncOf(jsParseNotation))
+	js.Global().Set("cheesseConvertNotation", js.FuncOf(jsConvertNotation))
+	js.Global().Set("cheesseAIMove", js.FuncOf(jsAIMove))
 	select {}
 }
 
-func convertToInputAction(v js.Value) api.InputAction {
-	return api.InputAction{
-		FromSquare:         jsString(v.Get("fromSquare")),
-		ToSquare:           jsString(v.Get("toSquare")),
-		PromotionPieceType: jsString(v.Get("promotionPieceType")),
+var a = api.New()
+
+func jsDefaultGame(this js.Value, p []js.Value) interface{} {
+	type out struct {
+		Game api.OutputGame `json:"game"`
 	}
+	return toJS(out{a.DefaultGame()}, nil)
 }
 
-func convertToInputGame(v js.Value) api.InputGame {
-	board := v.Get("board")
-	var (
-		innerBoard []string
-		outerBoard = api.Board{}
-	)
-	if board != js.Null() && board != js.Undefined() {
-		innerBoard = make([]string, board.Length())
-		for i := range innerBoard {
-			innerBoard[i] = jsString(board.Index(i))
+func jsParseGame(this js.Value, p []js.Value) interface{} {
+	type args struct {
+		Game api.InputGame `json:"game"`
+	}
+	var input args
+	if err := fromJS(p[0], &input); err != nil {
+		return toJS(nil, err)
+	}
+	outputGame, err := a.ParseGame(input.Game)
+	if err != nil {
+		return toJS(nil, err)
+	}
+	type out struct {
+		Game api.OutputGame `json:"game"`
+	}
+	return toJS(out{outputGame}, nil)
+}
+
+func jsDoAction(this js.Value, p []js.Value) interface{} {
+	type args struct {
+		Game   api.InputGame   `json:"game"`
+		Action api.InputAction `json:"action"`
+	}
+	var input args
+	if err := fromJS(p[0], &input); err != nil {
+		return toJS(nil, err)
+	}
+	outputGame, outputAction, err := a.DoAction(input.Game, input.Action)
+	if err != nil {
+		return toJS(nil, err)
+	}
+	type out struct {
+		Game   api.OutputGame   `json:"game"`
+		Action api.OutputAction `json:"action"`
+	}
+	return toJS(out{outputGame, outputAction}, nil)
+}
+
+func jsParseNotation(this js.Value, p []js.Value) interface{} {
+	type args struct {
+		Game           api.InputGame `json:"game"`
+		NotationString string        `json:"notationString"`
+	}
+	var input args
+	if err := fromJS(p[0], &input); err != nil {
+		return toJS(nil, err)
+	}
+	outputGame, parseResult, err := a.ParseNotation(input.Game, input.NotationString)
+	if err != nil {
+		return toJS(nil, err)
+	}
+	type out struct {
+		Game        api.OutputGame        `json:"game"`
+		ParseResult api.OutputParseResult `json:"parseResult"`
+	}
+	return toJS(out{outputGame, parseResult}, nil)
+}
+
+func jsConvertNotation(this js.Value, p []js.Value) interface{} {
+	type args struct {
+		Game           api.InputGame `json:"game"`
+		NotationString string        `json:"notationString"`
+		TargetNotation string        `json:"targetNotation"`
+	}
+	var input args
+	if err := fromJS(p[0], &input); err != nil {
+		return toJS(nil, err)
+	}
+	outputGame, parseResult, err := a.ConvertNotation(input.Game, input.NotationString, input.TargetNotation)
+	if err != nil {
+		return toJS(nil, err)
+	}
+	type out struct {
+		Game        api.OutputGame        `json:"game"`
+		ParseResult api.OutputParseResult `json:"parseResult"`
+	}
+	return toJS(out{outputGame, parseResult}, nil)
+}
+
+func jsAIMove(this js.Value, p []js.Value) interface{} {
+	type args struct {
+		Game api.InputGame `json:"game"`
+		Mode string        `json:"mode"`
+	}
+	var input args
+	if err := fromJS(p[0], &input); err != nil {
+		return toJS(nil, err)
+	}
+	outputGame, outputAction, moveAvailable, err := a.AIMove(input.Game, input.Mode)
+	if err != nil {
+		return toJS(nil, err)
+	}
+	type out struct {
+		Game          api.OutputGame   `json:"game"`
+		Action        api.OutputAction `json:"action"`
+		MoveAvailable bool             `json:"moveAvailable"`
+	}
+	return toJS(out{outputGame, outputAction, moveAvailable}, nil)
+}
+
+// fromJS reads a Uint8Array JS value containing JSON into dst.
+func fromJS(v js.Value, dst interface{}) error {
+	jsonBytes := make([]byte, v.Length())
+	js.CopyBytesToGo(jsonBytes, v)
+	return json.Unmarshal(jsonBytes, dst)
+}
+
+type errOut struct {
+	Error string `json:"error"`
+}
+
+// toJS marshals a response (or an error envelope) to JSON and returns it as a
+// Uint8Array JS value.
+func toJS(response interface{}, err error) js.Value {
+	var bs []byte
+	if err != nil {
+		bs, _ = json.Marshal(errOut{err.Error()})
+	} else {
+		bs, err = json.Marshal(response)
+		if err != nil {
+			bs, _ = json.Marshal(errOut{err.Error()})
 		}
-		outerBoard = api.Board{
-			Board:                   innerBoard,
-			CanWhiteKingsideCastle:  jsBool(board.Get("canWhiteKingsideCastle")),
-			CanWhiteQueensideCastle: jsBool(board.Get("canWhiteQueensideCastle")),
-			CanBlackKingsideCastle:  jsBool(board.Get("canBlackKingsideCastle")),
-			CanBlackQueensideCastle: jsBool(board.Get("canBlackQueensideCastle")),
-			HalfMoveClock:           jsInt(board.Get("halfMoveClock")),
-			FullMoveNumber:          jsInt(board.Get("fullMoveNumber")),
-			EnPassantTargetSquare:   jsString(board.Get("enPassantTargetSquare")),
-			Turn:                    jsString(board.Get("turn")),
-		}
 	}
-	return api.InputGame{
-		DefaultGame: jsBool(v.Get("defaultGame")),
-		FENString:   jsString(v.Get("fenString")),
-		Board:       outerBoard,
-	}
-}
-
-func jsBool(j js.Value) bool {
-	if j == js.Undefined() || j == js.Null() {
-		return false
-	}
-	return j.Bool()
-}
-
-func jsInt(j js.Value) int {
-	if j == js.Undefined() || j == js.Null() {
-		return 0
-	}
-	return j.Int()
-}
-
-func jsString(j js.Value) string {
-	if j == js.Undefined() || j == js.Null() {
-		return ""
-	}
-	return j.String()
-}
-
-func convertError(err error) string {
-	if err == nil {
-		return ""
-	}
-	return err.Error()
-}
-
-func convertOutputGameSteps(ogs []api.OutputGameStep) []interface{} {
-	is := make([]interface{}, len(ogs))
-	for i := range ogs {
-		is[i] = convertOutputGameStep(ogs[i])
-	}
-	return is
-}
-
-func convertOutputGameStep(ogs api.OutputGameStep) map[string]interface{} {
-	return map[string]interface{}{
-		"game":         convertOutputGame(ogs.Game),
-		"action":       convertOutputAction(ogs.Action),
-		"actionString": ogs.ActionString,
-	}
-}
-
-func convertOutputGame(og api.OutputGame) map[string]interface{} {
-	return map[string]interface{}{
-		"fenString":               og.FENString,
-		"board":                   convertBoard(og.Board),
-		"actions":                 convertOutputActions(og.Actions),
-		"canWhiteCastle":          og.CanWhiteCastle,
-		"canWhiteKingsideCastle":  og.CanWhiteKingsideCastle,
-		"canWhiteQueensideCastle": og.CanWhiteQueensideCastle,
-		"canBlackCastle":          og.CanBlackCastle,
-		"canBlackKingsideCastle":  og.CanBlackKingsideCastle,
-		"canBlackQueensideCastle": og.CanBlackQueensideCastle,
-		"halfMoveClock":           og.HalfMoveClock,
-		"fullMoveNumber":          og.FullMoveNumber,
-		"isLastMoveEnPassant":     og.IsLastMoveEnPassant,
-		"enPassantTargetSquare":   og.EnPassantTargetSquare,
-		"moveNumber":              og.MoveNumber,
-		"blackPieces":             convertMapStringToString(og.BlackPieces),
-		"whitePieces":             convertMapStringToString(og.WhitePieces),
-		"blackKing":               og.BlackKing,
-		"whiteKing":               og.WhiteKing,
-		"isCheck":                 og.IsCheck,
-		"isDoubleCheck":           og.IsDoubleCheck,
-		"isDiscoverCheck":         og.IsDiscoverCheck,
-		"isCheckmate":             og.IsCheckmate,
-		"isStalemate":             og.IsStalemate,
-		"isDraw":                  og.IsDraw,
-		"isGameOver":              og.IsGameOver,
-		"gameOverWinner":          og.GameOverWinner,
-		"inCheckBy":               convertStringArr(og.InCheckBy),
-	}
-}
-
-func convertStringArr(ss []string) []interface{} {
-	is := make([]interface{}, len(ss))
-	for i := 0; i < len(ss); i++ {
-		is[i] = ss[i]
-	}
-	return is
-}
-
-func convertMapStringToString(mss map[string]string) map[string]interface{} {
-	m := make(map[string]interface{}, len(mss))
-	for k, v := range mss {
-		m[k] = v
-	}
-	return m
-}
-
-func convertOutputActions(as []api.OutputAction) []interface{} {
-	is := make([]interface{}, len(as))
-	for i := range as {
-		is[i] = convertOutputAction(as[i])
-	}
-	return is
-}
-
-func convertOutputAction(a api.OutputAction) map[string]interface{} {
-	return map[string]interface{}{
-		"fromPieceOwner":     a.FromPieceOwner,
-		"fromPieceType":      a.FromPieceType,
-		"fromPieceSquare":    a.FromPieceSquare,
-		"fromSquare":         a.FromPieceSquare, // TODO alias so that it can be used as input action
-		"toSquare":           a.ToSquare,
-		"isCapture":          a.IsCapture,
-		"isResign":           a.IsResign,
-		"isPromotion":        a.IsPromotion,
-		"isEnPassantCapture": a.IsEnPassantCapture,
-		"isCastle":           a.IsCastle,
-		"isKingsideCastle":   a.IsKingsideCastle,
-		"isQueensideCastle":  a.IsQueensideCastle,
-		"promotionPieceType": a.PromotionPieceType,
-		"capturedPieceType":  a.CapturedPieceType,
-		"actionString":       a.ActionString,
-	}
-}
-
-func convertBoard(b api.Board) map[string]interface{} {
-	return map[string]interface{}{
-		"board":                   convertStringArr(b.Board),
-		"canWhiteKingsideCastle":  b.CanWhiteKingsideCastle,
-		"canWhiteQueensideCastle": b.CanWhiteQueensideCastle,
-		"canBlackKingsideCastle":  b.CanBlackKingsideCastle,
-		"canBlackQueensideCastle": b.CanBlackQueensideCastle,
-		"halfMoveClock":           b.HalfMoveClock,
-		"fullMoveNumber":          b.FullMoveNumber,
-		"enPassantTargetSquare":   b.EnPassantTargetSquare,
-		"turn":                    b.Turn,
-	}
+	buffer := js.Global().Get("Uint8Array").New(len(bs))
+	js.CopyBytesToJS(buffer, bs)
+	return buffer
 }
