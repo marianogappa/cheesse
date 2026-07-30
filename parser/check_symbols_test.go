@@ -16,32 +16,32 @@ func TestAlgebraicParserCheckSymbols(t *testing.T) {
 	}{
 		{
 			name: "dblch symbol accepted for double check",
-			fen:  "4k3/8/8/3N4/8/8/8/4R2K w - - 0 1",
+			fen:  "4k3/8/8/8/4N3/8/8/4R2K w - - 0 1",
 			s:    "1. Nf6dblch",
 		},
 		{
 			name: "dbl.ch symbol accepted for double check",
-			fen:  "4k3/8/8/3N4/8/8/8/4R2K w - - 0 1",
+			fen:  "4k3/8/8/8/4N3/8/8/4R2K w - - 0 1",
 			s:    "1. Nf6dbl.ch",
 		},
 		{
 			name: "++ symbol accepted for double check",
-			fen:  "4k3/8/8/3N4/8/8/8/4R2K w - - 0 1",
+			fen:  "4k3/8/8/8/4N3/8/8/4R2K w - - 0 1",
 			s:    "1. Nf6++",
 		},
 		{
 			name: "disch symbol accepted for discovered check",
-			fen:  "4k3/8/8/8/8/8/3N4/4R2K w - - 0 1",
+			fen:  "4k3/8/8/4N3/8/8/8/4R2K w - - 0 1",
 			s:    "1. Nf3disch",
 		},
 		{
 			name: "dis.ch symbol accepted for discovered check",
-			fen:  "4k3/8/8/8/8/8/3N4/4R2K w - - 0 1",
+			fen:  "4k3/8/8/4N3/8/8/8/4R2K w - - 0 1",
 			s:    "1. Nf3dis.ch",
 		},
 		{
 			name: "+ symbol accepted for any check",
-			fen:  "4k3/8/8/3N4/8/8/8/4R2K w - - 0 1",
+			fen:  "4k3/8/8/8/4N3/8/8/4R2K w - - 0 1",
 			s:    "1. Nf6+",
 		},
 	}
@@ -59,7 +59,7 @@ func TestAlgebraicParserCheckSymbols(t *testing.T) {
 
 func TestAlgebraicParserCheckSymbolsGameState(t *testing.T) {
 	t.Run("double check sets IsDoubleCheck on game", func(t *testing.T) {
-		g, err := core.NewGameFromFEN("4k3/8/8/3N4/8/8/8/4R2K w - - 0 1")
+		g, err := core.NewGameFromFEN("4k3/8/8/8/4N3/8/8/4R2K w - - 0 1")
 		require.NoError(t, err)
 		steps, err := NewNotationParserAlgebraic(Characteristics{}).Parse(g, "1. Nf6++")
 		require.NoError(t, err)
@@ -68,7 +68,7 @@ func TestAlgebraicParserCheckSymbolsGameState(t *testing.T) {
 	})
 
 	t.Run("discovered check sets IsDiscoverCheck on game", func(t *testing.T) {
-		g, err := core.NewGameFromFEN("4k3/8/8/8/8/8/3N4/4R2K w - - 0 1")
+		g, err := core.NewGameFromFEN("4k3/8/8/4N3/8/8/8/4R2K w - - 0 1")
 		require.NoError(t, err)
 		steps, err := NewNotationParserAlgebraic(Characteristics{}).Parse(g, "1. Nf3+")
 		require.NoError(t, err)

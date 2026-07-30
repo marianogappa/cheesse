@@ -41,13 +41,13 @@ func TestNotationParserAlgebraicAmbiguity(t *testing.T) {
 		},
 		{
 			name:        "two rooks on same file require rank disambiguation",
-			fen:         "R2k4/8/8/8/8/8/8/R6K w - - 0 1",
+			fen:         "R7/3k4/8/8/8/8/8/R6K w - - 0 1",
 			s:           "1. Ra4",
 			expectError: true,
 		},
 		{
 			name:        "rank disambiguation resolves two rooks on same file",
-			fen:         "R2k4/8/8/8/8/8/8/R6K w - - 0 1",
+			fen:         "R7/3k4/8/8/8/8/8/R6K w - - 0 1",
 			s:           "1. R1a4",
 			expectError: false,
 		},

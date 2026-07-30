@@ -19,22 +19,22 @@ func TestDoubleCheck(t *testing.T) {
 	// True double check: White Kg1, Qd1, Bb5 on diagonal, Re1 on file.
 	// After some piece moves off e-file or diagonal to reveal both.
 	//
-	// Simplest: White Kh1, Re1, Nd5. Black Ke8.
-	// Nf6+ gives check from knight AND discovers rook on e1.
-	g, err := NewGameFromFEN("4k3/8/8/3N4/8/8/8/4R2K w - - 0 1")
+	// Simplest: White Kh1, Re1, Ne4 (blocking the rook on the e-file). Black Ke8.
+	// Nf6+ gives check from the knight AND discovers the rook on e1.
+	g, err := NewGameFromFEN("4k3/8/8/8/4N3/8/8/4R2K w - - 0 1")
 	require.NoError(t, err)
 
 	var doubleCheckAction Action
 	for _, action := range g.Actions {
-		// Nd5-f6 gives double check
+		// Ne4-f6 gives double check
 		if action.FromPiece.PieceType == PieceKnight &&
-			action.FromPiece.XY == (XY{X: 3, Y: 3}) &&
+			action.FromPiece.XY == (XY{X: 4, Y: 4}) &&
 			action.ToXY == (XY{X: 5, Y: 2}) {
 			doubleCheckAction = action
 			break
 		}
 	}
-	require.NotEqual(t, Action{}, doubleCheckAction, "Nd5-f6 should be a legal move")
+	require.NotEqual(t, Action{}, doubleCheckAction, "Ne4-f6 should be a legal move")
 
 	newGame := g.DoAction(doubleCheckAction)
 	assert.True(t, newGame.IsCheck, "should be check")
@@ -44,21 +44,21 @@ func TestDoubleCheck(t *testing.T) {
 }
 
 func TestDiscoveredCheck(t *testing.T) {
-	// White: Kh1, Re1, Nd2. Black: Ke8.
-	// Move Nd2-f3 discovers the rook on e1 → discovered check (rook checks, not knight).
-	g, err := NewGameFromFEN("4k3/8/8/8/8/8/3N4/4R2K w - - 0 1")
+	// White: Kh1, Re1, Ne5 (blocking the rook on the e-file). Black: Ke8.
+	// Move Ne5-f3 discovers the rook on e1 → discovered check (rook checks, not knight).
+	g, err := NewGameFromFEN("4k3/8/8/4N3/8/8/8/4R2K w - - 0 1")
 	require.NoError(t, err)
 
 	var discoverAction Action
 	for _, action := range g.Actions {
 		if action.FromPiece.PieceType == PieceKnight &&
-			action.FromPiece.XY == (XY{X: 3, Y: 6}) &&
+			action.FromPiece.XY == (XY{X: 4, Y: 3}) &&
 			action.ToXY == (XY{X: 5, Y: 5}) {
 			discoverAction = action
 			break
 		}
 	}
-	require.NotEqual(t, Action{}, discoverAction, "Nd2-f3 should be a legal move")
+	require.NotEqual(t, Action{}, discoverAction, "Ne5-f3 should be a legal move")
 
 	newGame := g.DoAction(discoverAction)
 	assert.True(t, newGame.IsCheck, "should be check")
