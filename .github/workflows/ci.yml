@@ -1,0 +1,41 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+
+jobs:
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.25"
+      - name: Vet
+        run: go vet ./...
+      - name: Test
+        run: go test ./...
+
+  wasm:
+    name: WASM build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.25"
+      - uses: acifani/setup-tinygo@v2
+        with:
+          tinygo-version: "0.41.1"
+      - name: Build WASM (standard toolchain, compile guard)
+        run: GOOS=js GOARCH=wasm go build -tags tinygo -o cheesse-go.wasm .
+      - name: Build WASM (TinyGo, release artifact)
+        run: tinygo build -o cheesse.wasm -target wasm -tags tinygo .
+      - name: Report bundle size
+        run: |
+          ls -la cheesse.wasm cheesse-go.wasm
+          gzip -c cheesse.wasm | wc -c | xargs -I{} echo "tinygo gzipped: {} bytes"
