@@ -31,7 +31,7 @@ func BasicAIAction(g core.Game, depth int) (core.Action, core.Game, bool) {
 	}
 
 	player := int(g.Turn())
-	bestScore := math.MinInt64
+	bestScore := int64(math.MinInt64)
 	bestIdx := 0
 
 	for i, action := range nonResign {
@@ -57,7 +57,7 @@ func nonResignActions(g core.Game) []core.Action {
 	return out
 }
 
-func alphabeta(g core.Game, lastAction core.Action, player int, depth int, alpha, beta int) int {
+func alphabeta(g core.Game, lastAction core.Action, player int, depth int, alpha, beta int64) int64 {
 	if depth == 0 {
 		return evaluate(g, lastAction, player)
 	}
@@ -69,7 +69,7 @@ func alphabeta(g core.Game, lastAction core.Action, player int, depth int, alpha
 
 	if int(g.Turn()) != player {
 		// Maximizing (our turn next is opponent's perspective → we maximize our score)
-		v := math.MinInt64
+		v := int64(math.MinInt64)
 		for _, action := range nonResign {
 			newGame := g.DoAction(action)
 			score := alphabeta(newGame, action, player, depth-1, alpha, beta)
@@ -87,7 +87,7 @@ func alphabeta(g core.Game, lastAction core.Action, player int, depth int, alpha
 	}
 
 	// Minimizing (opponent's turn)
-	v := math.MaxInt64
+	v := int64(math.MaxInt64)
 	for _, action := range nonResign {
 		newGame := g.DoAction(action)
 		score := alphabeta(newGame, action, player, depth-1, alpha, beta)
@@ -125,13 +125,13 @@ func materialValue(pt core.PieceType) int {
 	return 0
 }
 
-func evaluate(g core.Game, lastAction core.Action, player int) int {
+func evaluate(g core.Game, lastAction core.Action, player int) int64 {
 	actionTurn := int(lastAction.FromPiece.Owner)
 	opponent := 1 - player
 
 	// Checkmate is decisive
 	if g.IsCheckmate {
-		return math.MaxInt64 / 2 * sign(actionTurn, player)
+		return math.MaxInt64 / 2 * int64(sign(actionTurn, player))
 	}
 	if g.IsStalemate || g.IsDraw {
 		return 0
@@ -145,12 +145,12 @@ func evaluate(g core.Game, lastAction core.Action, player int) int {
 	for _, piece := range g.Pieces[opponent] {
 		opponentMaterial += materialValue(piece.PieceType)
 	}
-	totalMaterial := (playerMaterial - opponentMaterial) * 1_000_000_000
+	totalMaterial := int64(playerMaterial-opponentMaterial) * 1_000_000_000
 
 	// Check bonus
-	checkBonus := 0
+	checkBonus := int64(0)
 	if g.IsCheck {
-		checkBonus = 100_000_000 * sign(actionTurn, player)
+		checkBonus = 100_000_000 * int64(sign(actionTurn, player))
 	}
 
 	// Center control: pieces in the center (files c-f, ranks 4-5)
@@ -165,12 +165,12 @@ func evaluate(g core.Game, lastAction core.Action, player int) int {
 			centerOpponent++
 		}
 	}
-	centerBonus := (centerPlayer - centerOpponent) * 100
+	centerBonus := int64(centerPlayer-centerOpponent) * 100
 
 	// Castling incentive
-	castleBonus := 0
+	castleBonus := int64(0)
 	if lastAction.IsCastle {
-		castleBonus = 100 * sign(actionTurn, player)
+		castleBonus = 100 * int64(sign(actionTurn, player))
 	}
 
 	return totalMaterial + checkBonus + centerBonus + castleBonus
