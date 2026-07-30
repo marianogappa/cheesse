@@ -40,22 +40,19 @@ func NewNotationParserDescriptive(initialCharacteristics Characteristics) *Notat
 				},
 			},
 			"move": {
-				// Move
-				`(Q|K|B|N|Kt|R|P)-(QR|QN|QKt|QB|Q|KB|KN|KKt|KR|B|N|Kt|R|K)?([1-8])?(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
-					sFromPieceType, toSquareFile, toSquareRank, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5]
-
-					// At least one of file/rank must be present
-					if toSquareFile == "" && toSquareRank == "" {
-						return []tokenMatch{}
-					}
+				// Promotion move: P-R8(Q), P-Q8(N)ch, P-Kt8=Q
+				`P-(QR|QN|QKt|QB|Q|KB|KN|KKt|KR|B|N|Kt|R|K)?([1-8])[\(=]?(Q|K|B|N|Kt|R)\)?(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
+					toSquareFile, toSquareRank, sPromotionPieceType := ms[1], ms[2], ms[3]
+					threatenSymbol, _ := ms[4], ms[5]
 
 					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
 					ap := actionPattern{
-						fromPieceType:      descStringToPieceType(sFromPieceType),
+						fromPieceType:      core.PiecePawn,
 						toX:                descFileToPInt(toSquareFile),
 						toY:                descRankToPInt(toSquareRank, g),
 						isCapture:          pBool(false),
-						isPromotion:        pBool(false),
+						isPromotion:        pBool(true),
+						promotionPieceType: descStringToPieceType(sPromotionPieceType),
 						isCastle:           pBool(false),
 						isResign:           pBool(false),
 						isEnPassantCapture: pBool(false),
@@ -64,8 +61,6 @@ func NewNotationParserDescriptive(initialCharacteristics Characteristics) *Notat
 					}
 					ch := Characteristics{usesCheckSymbol: usesCheckSymbol, usesCheckmateSymbol: usesCheckmateSymbol}
 
-					// In Descriptive notation, sometimes the file is ambiguous. For example, if the move is "R-N5" it
-					// could be either "R-QN5" or "R-KN5". In this case, both patterns are plausible. We return both.
 					ambiguousFiles := map[string][]int{
 						"R":  {0, 7},
 						"N":  {1, 6},
@@ -83,123 +78,146 @@ func NewNotationParserDescriptive(initialCharacteristics Characteristics) *Notat
 					return []tokenMatch{{ms[0], &ap, ch}}
 				},
 
-				// Capture
-				// `(Q|K|B|N|Kt|R)(x|:)?([a-h])([1-8])(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
-				// 	sFromPieceType, _, toSquareFile, toSquareRank, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6]
-				// 	isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
-				// 	ap := actionPattern{
-				// 		fromPieceType:      descStringToPieceType(sFromPieceType),
-				// 		toX:                fileToPInt(toSquareFile),
-				// 		toY:                descRankToPInt(toSquareRank, g),
-				// 		isCapture:          pBool(true),
-				// 		capturedPieceX:     fileToPInt(toSquareFile),
-				// 		capturedPieceY:     descRankToPInt(toSquareRank, g),
-				// 		isPromotion:        pBool(false),
-				// 		isCastle:           pBool(false),
-				// 		isResign:           pBool(false),
-				// 		isEnPassantCapture: pBool(false),
-				// 		isCheck:            isCheck,
-				// 		isCheckmate:        isCheckmate,
-				// 	}
-				// 	ch := Characteristics{usesCheckSymbol: usesCheckSymbol, usesCheckmateSymbol: usesCheckmateSymbol}
-				// 	return []tokenMatch{{ms[0], &ap, ch}}
-				// },
+				// Move with optional disambiguation: KN-K2, QR-Q1, R(R5)-QR5, R(Kt)-Kt6, QB-B4
+				// prefix: optional [QK] side + piece, or piece + (file-rank) parenthesized
+				`([QK])?([QKBNRPt]t?)(?:\(([QRNKtB]t?)([1-8])?\))?-(QR|QN|QKt|QB|Q|KB|KN|KKt|KR|B|N|Kt|R|K)?([1-8])?(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
+					disambigSide, sFromPieceType := ms[1], ms[2]
+					parenFile, parenRank := ms[3], ms[4]
+					toSquareFile, toSquareRank, threatenSymbol, _ := ms[5], ms[6], ms[7], ms[8]
 
-				// Capture with colon at the end
-				// `([QKBNR])([a-h])?([1-8])?([a-h])([1-8]):(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string) tokenMatch {
-				// 	sFromPieceType, fromSquareFile, fromSquareRank, toSquareFile, toSquareRank, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7]
-				// 	isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
-				// 	ap := actionPattern{
-				// 		fromPieceType:      stringToPieceType(sFromPieceType),
-				// 		fromX:              fileToPInt(fromSquareFile),
-				// 		fromY:              descRankToPInt(fromSquareRank),
-				// 		toX:                fileToPInt(toSquareFile),
-				// 		toY:                descRankToPInt(toSquareRank),
-				// 		isCapture:          pBool(true),
-				// 		capturedPieceX:     fileToPInt(toSquareFile),
-				// 		capturedPieceY:     descRankToPInt(toSquareRank),
-				// 		isPromotion:        pBool(false),
-				// 		isCastle:           pBool(false),
-				// 		isResign:           pBool(false),
-				// 		isEnPassantCapture: pBool(false),
-				// 		isCheck:            isCheck,
-				// 		isCheckmate:        isCheckmate,
-				// 	}
-				// 	ch := Characteristics{usesCheckSymbol: usesCheckSymbol, usesCheckmateSymbol: usesCheckmateSymbol}
-				// 	return []tokenMatch{{ms[0], &ap, ch}
-				// },
+					if toSquareFile == "" && toSquareRank == "" {
+						return []tokenMatch{}
+					}
 
-				// Capture with pawn, potentially without rank
-				// `([a-h])(x|:)?([a-h])([1-8]?)( ?e.p.)?(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string) tokenMatch {
-				// 	fromSquareFile, _, toSquareFile, toSquareRank, enPassantCapture, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7]
-				// 	isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
-				// 	ap := actionPattern{
-				// 		fromPieceType:      stringToPieceType(""),
-				// 		fromX:              fileToPInt(fromSquareFile),
-				// 		toX:                fileToPInt(toSquareFile),
-				// 		toY:                descRankToPInt(toSquareRank),
-				// 		isEnPassantCapture: pBool(strings.HasSuffix(enPassantCapture, "e.p.")),
-				// 		isCapture:          pBool(true),
-				// 		isPromotion:        pBool(false),
-				// 		isCastle:           pBool(false),
-				// 		isResign:           pBool(false),
-				// 		isCheck:            isCheck,
-				// 		isCheckmate:        isCheckmate,
-				// 	}
-				// 	ch := Characteristics{usesCheckSymbol: usesCheckSymbol, usesCheckmateSymbol: usesCheckmateSymbol}
-				// 	return []tokenMatch{{ms[0], &ap, ch}
-				// },
+					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
+					ap := actionPattern{
+						fromPieceType:      descStringToPieceType(sFromPieceType),
+						toX:                descFileToPInt(toSquareFile),
+						toY:                descRankToPInt(toSquareRank, g),
+						isCapture:          pBool(false),
+						isPromotion:        pBool(false),
+						isCastle:           pBool(false),
+						isResign:           pBool(false),
+						isEnPassantCapture: pBool(false),
+						isCheck:            isCheck,
+						isCheckmate:        isCheckmate,
+					}
 
-				// Capture and promotion with pawn, potentially without rank
-				// `([a-h])(x|:)?([a-h])([1-8]?)([=\(])([QBNR])\)?(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string) tokenMatch {
-				// 	fromSquareFile, _, toSquareFile, toSquareRank, promotionSymbol, sPromotionPieceType, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7], ms[8]
-				// 	isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
-				// 	ap := actionPattern{
-				// 		fromPieceType:      stringToPieceType(""),
-				// 		fromX:              fileToPInt(fromSquareFile),
-				// 		toX:                fileToPInt(toSquareFile),
-				// 		toY:                descRankToPInt(toSquareRank),
-				// 		isEnPassantCapture: pBool(false),
-				// 		isCapture:          pBool(true),
-				// 		isPromotion:        pBool(true),
-				// 		isCastle:           pBool(false),
-				// 		isResign:           pBool(false),
-				// 		promotionPieceType: stringToPieceType(sPromotionPieceType),
-				// 		isCheck:            isCheck,
-				// 		isCheckmate:        isCheckmate,
-				// 	}
-				// 	ch := Characteristics{
-				// 		usesCheckSymbol:     usesCheckSymbol,
-				// 		usesCheckmateSymbol: usesCheckmateSymbol,
-				// 		usesPromotionSymbol: &promotionSymbol,
-				// 	}
-				// 	return []tokenMatch{{ms[0], &ap, ch}
-				// },
+					disambigAlts := applyDescDisambig(&ap, disambigSide, parenFile, parenRank, g)
 
-				// Promotion
-				// `([a-h])([1-8])([=\(])([QBNR])\)?(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
-				// 	toSquareFile, toSquareRank, promotionSymbol, sPromotionPieceType, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6]
-				// 	isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
-				// 	ap := actionPattern{
-				// 		fromPieceType:      stringToPieceType(""),
-				// 		toX:                fileToPInt(toSquareFile),
-				// 		toY:                descRankToPInt(toSquareRank, g),
-				// 		isCapture:          pBool(false),
-				// 		isPromotion:        pBool(true),
-				// 		isCastle:           pBool(false),
-				// 		isResign:           pBool(false),
-				// 		isEnPassantCapture: pBool(false),
-				// 		promotionPieceType: stringToPieceType(sPromotionPieceType),
-				// 		isCheck:            isCheck,
-				// 		isCheckmate:        isCheckmate,
-				// 	}
-				// 	ch := Characteristics{
-				// 		usesCheckSymbol:     usesCheckSymbol,
-				// 		usesCheckmateSymbol: usesCheckmateSymbol,
-				// 		usesPromotionSymbol: &promotionSymbol,
-				// 	}
-				// 	return []tokenMatch{{ms[0], &ap, ch}}
-				// },
+					ch := Characteristics{usesCheckSymbol: usesCheckSymbol, usesCheckmateSymbol: usesCheckmateSymbol}
+
+					bases := []actionPattern{ap}
+					if len(disambigAlts) > 0 {
+						bases = nil
+						for _, x := range disambigAlts {
+							newAP := ap.Clone()
+							newAP.fromX = pInt(x)
+							bases = append(bases, newAP)
+						}
+					}
+
+					ambiguousFiles := map[string][]int{
+						"R":  {0, 7},
+						"N":  {1, 6},
+						"Kt": {1, 6},
+						"B":  {2, 5},
+					}
+					if xs, ok := ambiguousFiles[toSquareFile]; ok {
+						tokenMatches := []tokenMatch{}
+						for _, base := range bases {
+							for _, x := range xs {
+								tokenMatches = append(tokenMatches, tokenMatch{ms[0], cloneActionPatternWithToX(base, x), ch})
+							}
+						}
+						return tokenMatches
+					}
+
+					tokenMatches := []tokenMatch{}
+					for _, base := range bases {
+						b := base
+						tokenMatches = append(tokenMatches, tokenMatch{ms[0], &b, ch})
+					}
+					return tokenMatches
+				},
+
+				// Capture: PxP, BxN, QxP, BxBch, KxP, RxNch, QxKtP, BxQP, etc.
+				// Also handles disambiguation: R(R5)xP, QBxP
+				`(?:([QK])?\(?([QRNKtB]t?)?([1-8])?\)?)?(Q|K|B|N|Kt|R|P)x(?:([QK])?([QRNKtB]t?)?)?(Q|K|B|N|Kt|R|P)(e\.p\.)?(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
+					disambigSide, disambigFile, disambigRank := ms[1], ms[2], ms[3]
+					sFromPieceType := ms[4]
+					capturedSide, capturedFile, sCapturedPieceType := ms[5], ms[6], ms[7]
+					enPassant, threatenSymbol, _ := ms[8], ms[9], ms[10]
+					_ = capturedSide
+
+					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
+					ap := actionPattern{
+						fromPieceType:      descStringToPieceType(sFromPieceType),
+						capturedPieceType:  descStringToPieceType(sCapturedPieceType),
+						isCapture:          pBool(true),
+						isPromotion:        pBool(false),
+						isCastle:           pBool(false),
+						isResign:           pBool(false),
+						isEnPassantCapture: nilOrTrue(enPassant != ""),
+						isCheck:            isCheck,
+						isCheckmate:        isCheckmate,
+					}
+
+					// N.B. capture handler doesn't fork on from-disambiguation alternatives
+				// because the captured piece type + file already constrain the match.
+				_ = applyDescDisambig(&ap, disambigSide, disambigFile, disambigRank, g)
+
+					capturedCombined := capturedSide + capturedFile
+					if capturedCombined != "" {
+						cpx := descFileToPInt(capturedCombined)
+						if cpx != nil {
+							ap.capturedPieceX = cpx
+						} else {
+							ambiguousFiles := map[string][]int{
+								"R":  {0, 7},
+								"N":  {1, 6},
+								"Kt": {1, 6},
+								"B":  {2, 5},
+							}
+							if xs, ok := ambiguousFiles[capturedCombined]; ok {
+								tokenMatches := []tokenMatch{}
+								for _, x := range xs {
+									newAP := ap.Clone()
+									newAP.capturedPieceX = pInt(x)
+									ch := Characteristics{usesCheckSymbol: usesCheckSymbol, usesCheckmateSymbol: usesCheckmateSymbol}
+									tokenMatches = append(tokenMatches, tokenMatch{ms[0], &newAP, ch})
+								}
+								return tokenMatches
+							}
+						}
+					}
+
+					ch := Characteristics{usesCheckSymbol: usesCheckSymbol, usesCheckmateSymbol: usesCheckmateSymbol}
+					return []tokenMatch{{ms[0], &ap, ch}}
+				},
+
+				// Capture-promotion: PxR(Q)ch, PxP(N), etc.
+				`(P)x(Q|K|B|N|Kt|R|P)\(?(Q|K|B|N|Kt|R)\)?(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
+					_, sCapturedPieceType, sPromotionPieceType := ms[1], ms[2], ms[3]
+					threatenSymbol, _ := ms[4], ms[5]
+
+					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
+					ap := actionPattern{
+						fromPieceType:      core.PiecePawn,
+						capturedPieceType:  descStringToPieceType(sCapturedPieceType),
+						promotionPieceType: descStringToPieceType(sPromotionPieceType),
+						isCapture:          pBool(true),
+						isPromotion:        pBool(true),
+						isCastle:           pBool(false),
+						isResign:           pBool(false),
+						isEnPassantCapture: pBool(false),
+						isCheck:            isCheck,
+						isCheckmate:        isCheckmate,
+					}
+
+					ch := Characteristics{usesCheckSymbol: usesCheckSymbol, usesCheckmateSymbol: usesCheckmateSymbol}
+					return []tokenMatch{{ms[0], &ap, ch}}
+				},
 
 				// Castling
 				`(0-0|0-0-0|O-O|O-O-O)(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
@@ -327,7 +345,19 @@ func NewNotationParserDescriptive(initialCharacteristics Characteristics) *Notat
 		}
 	)
 
-	return newNotationParser(transitions, evolveCharacteristics, initialCharacteristics)
+	np := newNotationParser(transitions, evolveCharacteristics, initialCharacteristics)
+	np.preprocessor = normalizeDescriptive
+	return np
+}
+
+// normalizeDescriptive pre-processes a descriptive notation string by gluing
+// space-separated suffixes (like "mate", "ch", "dblch", "dis.ch") back onto the
+// preceding move token, e.g. "P-R8(Q) mate" → "P-R8(Q)mate".
+func normalizeDescriptive(s string) string {
+	for _, suffix := range []string{"mate", "dblch", "dbl.ch", "dbl ch", "dis.ch", "dis ch", "disch", "ch"} {
+		s = strings.ReplaceAll(s, " "+suffix, suffix)
+	}
+	return s
 }
 
 func descStringToPieceType(s string) core.PieceType {
@@ -375,6 +405,47 @@ func descRankToPInt(rank string, g core.Game) *int {
 
 func pInt(i int) *int {
 	return &i
+}
+
+// applyDescDisambig sets fromX/fromY on an action pattern based on descriptive
+// disambiguation prefixes. Returns extra alternatives for ambiguous file names (e.g.
+// "Kt" could be QN or KN file). If the returned slice is non-empty, the caller
+// should use those instead of the original ap.
+func applyDescDisambig(ap *actionPattern, side, file, rank string, g core.Game) []int {
+	if side != "" && file == "" {
+		homeFiles := map[string]map[core.PieceType]int{
+			"Q": {core.PieceRook: 0, core.PieceKnight: 1, core.PieceBishop: 2},
+			"K": {core.PieceRook: 7, core.PieceKnight: 6, core.PieceBishop: 5},
+		}
+		if files, ok := homeFiles[side]; ok {
+			if x, ok := files[ap.fromPieceType]; ok {
+				ap.fromX = pInt(x)
+			}
+		}
+	} else if file != "" {
+		combined := side + file
+		x := descFileToPInt(combined)
+		if x != nil {
+			ap.fromX = x
+		} else {
+			ambiguousFiles := map[string][]int{
+				"R":  {0, 7},
+				"N":  {1, 6},
+				"Kt": {1, 6},
+				"B":  {2, 5},
+			}
+			if xs, ok := ambiguousFiles[combined]; ok {
+				if rank != "" {
+					ap.fromY = descRankToPInt(rank, g)
+				}
+				return xs
+			}
+		}
+	}
+	if rank != "" {
+		ap.fromY = descRankToPInt(rank, g)
+	}
+	return nil
 }
 
 func cloneActionPatternWithToX(ap actionPattern, toX int) *actionPattern {
