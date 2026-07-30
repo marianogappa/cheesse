@@ -73,47 +73,27 @@ func (a API) DoAction(game InputGame, action InputAction) (OutputGame, OutputAct
 }
 
 // ParseNotation takes any valid input game and a string representing a match in some
-// notation, parses them and attempts to play the match starting from the supplied
-// game. If it fails, it returns an error describing the problem.
+// notation, auto-detects the notation and attempts to play the match starting from
+// the supplied game.
 //
-// If parsing the match succeeds, it returns the parsed initial game and a list of
-// steps, one per action in the `notationString`.
+// The notation is auto-detected across all supported notations: Algebraic/SAN
+// (including figurine and PGN), Coordinate, Descriptive, ICCF and Smith. All
+// supported notations are attempted, and the attempt that parses the furthest wins.
+//
+// Partial parses are supported: if the notation string stops being valid at some
+// point, the result still contains the valid prefix of steps, the count of valid
+// actions, the name of the most likely notation, and a description of the parse
+// failure.
 //
 // An example `notationString` (Scholar's mate):
 //
 // `1. e4 e5\n2. Bc4 Nc6\n3. Qh5 Nf6??\n4. Qxf7#`
 //
-// The notation is auto-detected across all supported notations: Algebraic/SAN
-// (including figurine and PGN), Coordinate, Descriptive, ICCF and Smith.
-//
-// Please refer to InputGame's, OutputGame's and OutputGameStep's docs for format
-// details.
-func (a API) ParseNotation(game InputGame, notationString string) (OutputGame, []OutputGameStep, error) {
-	outputGame, result, err := a.ParseNotationDetailed(game, notationString)
-	if err != nil {
-		return OutputGame{}, []OutputGameStep{}, err
-	}
-	if !result.ParseWasSuccessful {
-		return outputGame, result.Steps, errors.New(result.Error)
-	}
-	return outputGame, result.Steps, nil
-}
-
-// ParseNotationDetailed takes any valid input game and a string representing a match
-// in some notation, auto-detects the notation and attempts to play the match starting
-// from the supplied game.
-//
-// Unlike ParseNotation, it supports partial parses: if the notation string stops being
-// valid at some point, the result still contains the valid prefix of steps, the count
-// of valid actions, the name of the most likely notation, and a description of the
-// parse failure. All supported notations are attempted, and the attempt that parses
-// the furthest wins.
-//
 // An error is only returned if the input game itself is invalid.
 //
 // Please refer to InputGame's, OutputGame's, OutputGameStep's and OutputParseResult's
 // docs for format details.
-func (a API) ParseNotationDetailed(game InputGame, notationString string) (OutputGame, OutputParseResult, error) {
+func (a API) ParseNotation(game InputGame, notationString string) (OutputGame, OutputParseResult, error) {
 	parsedGame, err := a.parseGame(game)
 	if err != nil {
 		return OutputGame{}, OutputParseResult{}, err

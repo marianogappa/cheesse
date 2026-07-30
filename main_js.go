@@ -32,16 +32,7 @@ func DoAction(this js.Value, p []js.Value) interface{} {
 }
 
 func ParseNotation(this js.Value, p []js.Value) interface{} {
-	og, ogs, err := a.ParseNotation(convertToInputGame(p[0]), p[1].String())
-	return js.ValueOf(map[string]interface{}{
-		"outputGame":      convertOutputGame(og),
-		"outputGameSteps": convertOutputGameSteps(ogs),
-		"error":           convertError(err),
-	})
-}
-
-func ParseNotationDetailed(this js.Value, p []js.Value) interface{} {
-	og, result, err := a.ParseNotationDetailed(convertToInputGame(p[0]), p[1].String())
+	og, result, err := a.ParseNotation(convertToInputGame(p[0]), p[1].String())
 	return js.ValueOf(map[string]interface{}{
 		"outputGame":  convertOutputGame(og),
 		"parseResult": convertOutputParseResult(result),
@@ -64,7 +55,6 @@ func main() {
 	js.Global().Set("ParseGame", js.FuncOf(ParseGame))
 	js.Global().Set("DoAction", js.FuncOf(DoAction))
 	js.Global().Set("ParseNotation", js.FuncOf(ParseNotation))
-	js.Global().Set("ParseNotationDetailed", js.FuncOf(ParseNotationDetailed))
 	select {}
 }
 

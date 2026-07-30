@@ -69,10 +69,10 @@ var sixNotationGames = []struct {
 dxe4 7. 0-0`},
 }
 
-func TestParseNotationDetailed_AutoDetectsSixNotations(t *testing.T) {
+func TestParseNotation_AutoDetectsSixNotations(t *testing.T) {
 	for _, tc := range sixNotationGames {
 		t.Run(tc.notationName+" / "+tc.game[:20], func(t *testing.T) {
-			_, result, err := New().ParseNotationDetailed(InputGame{}, tc.game)
+			_, result, err := New().ParseNotation(InputGame{}, tc.game)
 			require.NoError(t, err)
 			assert.True(t, result.ParseWasSuccessful, "parse should succeed; error: %v", result.Error)
 			assert.Equal(t, tc.notationName, result.NotationName)
@@ -85,11 +85,11 @@ func TestParseNotationDetailed_AutoDetectsSixNotations(t *testing.T) {
 	}
 }
 
-func TestParseNotationDetailed_PartialParse(t *testing.T) {
+func TestParseNotation_PartialParse(t *testing.T) {
 	t.Run("invalid move mid-game returns valid prefix", func(t *testing.T) {
 		// Qh7 on move 3 is illegal (queen can't reach h7)
 		game := "1. e4 e5\n2. Bc4 Nc6\n3. Qh7 Nf6"
-		_, result, err := New().ParseNotationDetailed(InputGame{}, game)
+		_, result, err := New().ParseNotation(InputGame{}, game)
 		require.NoError(t, err)
 		assert.False(t, result.ParseWasSuccessful)
 		assert.Equal(t, "Algebraic Notation", result.NotationName)
@@ -99,7 +99,7 @@ func TestParseNotationDetailed_PartialParse(t *testing.T) {
 	})
 
 	t.Run("garbage input returns zero valid actions", func(t *testing.T) {
-		_, result, err := New().ParseNotationDetailed(InputGame{}, "hello world this is not chess")
+		_, result, err := New().ParseNotation(InputGame{}, "hello world this is not chess")
 		require.NoError(t, err)
 		assert.False(t, result.ParseWasSuccessful)
 		assert.Equal(t, 0, result.ValidActionCount)
@@ -110,7 +110,7 @@ func TestParseNotationDetailed_PartialParse(t *testing.T) {
 	t.Run("truncated ICCF game returns valid prefix", func(t *testing.T) {
 		// Third move 9999 is invalid ICCF
 		game := "1. 5254 5755\n2. 9999"
-		_, result, err := New().ParseNotationDetailed(InputGame{}, game)
+		_, result, err := New().ParseNotation(InputGame{}, game)
 		require.NoError(t, err)
 		assert.False(t, result.ParseWasSuccessful)
 		assert.Equal(t, 2, result.ValidActionCount)
@@ -119,7 +119,7 @@ func TestParseNotationDetailed_PartialParse(t *testing.T) {
 
 	t.Run("descriptive game with invalid tail returns valid prefix and notation name", func(t *testing.T) {
 		game := "1. P-K4 P-K3\n2. P-Q4 P-Q9"
-		_, result, err := New().ParseNotationDetailed(InputGame{}, game)
+		_, result, err := New().ParseNotation(InputGame{}, game)
 		require.NoError(t, err)
 		assert.False(t, result.ParseWasSuccessful)
 		assert.Equal(t, "Descriptive Notation", result.NotationName)
@@ -127,38 +127,25 @@ func TestParseNotationDetailed_PartialParse(t *testing.T) {
 	})
 }
 
-func TestParseNotationDetailed_CustomInitialPosition(t *testing.T) {
+func TestParseNotation_CustomInitialPosition(t *testing.T) {
 	// Chernev Game 1 starting position
 	inputGame := InputGame{FENString: "8/8/8/8/8/1k5P/8/2K5 w - - 0 1"}
 	game := "1. P-R4 K-B5\n2. P-R5 K-Q4"
-	_, result, err := New().ParseNotationDetailed(inputGame, game)
+	_, result, err := New().ParseNotation(inputGame, game)
 	require.NoError(t, err)
 	assert.True(t, result.ParseWasSuccessful, "error: %v", result.Error)
 	assert.Equal(t, "Descriptive Notation", result.NotationName)
 	assert.Equal(t, 4, result.ValidActionCount)
 }
 
-func TestParseNotationDetailed_InvalidInputGame(t *testing.T) {
-	_, _, err := New().ParseNotationDetailed(InputGame{FENString: "not a fen"}, "1. e4")
+func TestParseNotation_InvalidInputGame(t *testing.T) {
+	_, _, err := New().ParseNotation(InputGame{FENString: "not a fen"}, "1. e4")
 	require.Error(t, err)
 }
 
-func TestParseNotation_BackwardsCompatible(t *testing.T) {
-	t.Run("successful parse returns steps and no error", func(t *testing.T) {
-		_, steps, err := New().ParseNotation(InputGame{}, "1. e4 e5\n2. Nf3")
-		require.NoError(t, err)
-		assert.Len(t, steps, 3)
-	})
-
-	t.Run("failed parse returns error", func(t *testing.T) {
-		_, _, err := New().ParseNotation(InputGame{}, "not a chess game at all")
-		require.Error(t, err)
-	})
-}
-
-func TestParseNotationDetailed_ActionStrings(t *testing.T) {
+func TestParseNotation_ActionStrings(t *testing.T) {
 	// The steps should carry the original action strings for frontend display
-	_, result, err := New().ParseNotationDetailed(InputGame{}, "1. e4 e5\n2. Nf3 Nc6")
+	_, result, err := New().ParseNotation(InputGame{}, "1. e4 e5\n2. Nf3 Nc6")
 	require.NoError(t, err)
 	require.Len(t, result.Steps, 4)
 	assert.Equal(t, "e4", result.Steps[0].ActionString)

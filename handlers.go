@@ -105,51 +105,7 @@ func handleServerParseNotation(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	defer r.Body.Close()
-	outputGame, outputGameSteps, err := a.ParseNotation(input.Game, input.NotationString)
-	if err != nil {
-		fmt.Fprintln(w, formatError(err))
-		return
-	}
-	type out struct {
-		Game            api.OutputGame       `json:"game"`
-		OutputGameSteps []api.OutputGameStep `json:"outputGameSteps"`
-	}
-	json.NewEncoder(w).Encode(out{outputGame, outputGameSteps})
-}
-
-func handleCliParseNotation(flagParseNotation *string) {
-	type args struct {
-		Game           api.InputGame `json:"game"`
-		NotationString string        `json:"notationString"`
-	}
-	var input args
-	if err := json.Unmarshal([]byte(*flagParseNotation), &input); err != nil {
-		mustCliFatal(err)
-	}
-	outputGame, outputGameSteps, err := a.ParseNotation(input.Game, input.NotationString)
-	if err != nil {
-		mustCliFatal(err)
-	}
-	type out struct {
-		Game            api.OutputGame       `json:"game"`
-		OutputGameSteps []api.OutputGameStep `json:"outputGameSteps"`
-	}
-	byts, _ := json.Marshal(out{outputGame, outputGameSteps})
-	fmt.Println(string(byts))
-}
-
-func handleServerParseNotationDetailed(w http.ResponseWriter, r *http.Request) {
-	type args struct {
-		Game           api.InputGame `json:"game"`
-		NotationString string        `json:"notationString"`
-	}
-	var input args
-	if err := json.NewDecoder(r.Body).Decode(&input); err != nil {
-		fmt.Fprintln(w, formatError(err))
-		return
-	}
-	defer r.Body.Close()
-	outputGame, parseResult, err := a.ParseNotationDetailed(input.Game, input.NotationString)
+	outputGame, parseResult, err := a.ParseNotation(input.Game, input.NotationString)
 	if err != nil {
 		fmt.Fprintln(w, formatError(err))
 		return
@@ -161,16 +117,16 @@ func handleServerParseNotationDetailed(w http.ResponseWriter, r *http.Request) {
 	json.NewEncoder(w).Encode(out{outputGame, parseResult})
 }
 
-func handleCliParseNotationDetailed(flagParseNotationDetailed *string) {
+func handleCliParseNotation(flagParseNotation *string) {
 	type args struct {
 		Game           api.InputGame `json:"game"`
 		NotationString string        `json:"notationString"`
 	}
 	var input args
-	if err := json.Unmarshal([]byte(*flagParseNotationDetailed), &input); err != nil {
+	if err := json.Unmarshal([]byte(*flagParseNotation), &input); err != nil {
 		mustCliFatal(err)
 	}
-	outputGame, parseResult, err := a.ParseNotationDetailed(input.Game, input.NotationString)
+	outputGame, parseResult, err := a.ParseNotation(input.Game, input.NotationString)
 	if err != nil {
 		mustCliFatal(err)
 	}
