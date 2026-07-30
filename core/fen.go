@@ -9,23 +9,16 @@ import (
 )
 
 var (
-	errFENRegexDoesNotMatch              = errors.New("FEN string does not match FEN regexp")
-	errFENRankLargerThan8Squares         = errors.New("FEN string has a rank larger than 8 squares")
-	errFENDuplicateKing                  = errors.New("FEN string has more than one king of the same color")
-	errFENKingMissing                    = errors.New("FEN string is lacking one of the kings")
-	errFENImpossibleEnPassant            = errors.New("impossible en passant target square, since there's no pawn of the right color next to it")
-	errFENImpossibleBlackCastle          = errors.New("impossible for black to castle since king has moved")
-	errFENImpossibleBlackQueensideCastle = errors.New("impossible for black to queenside castle since rook has moved")
-	errFENImpossibleBlackKingsideCastle  = errors.New("impossible for black to kingside castle since rook has moved")
-	errFENImpossibleWhiteCastle          = errors.New("impossible for white to castle since king has moved")
-	errFENImpossibleWhiteQueensideCastle = errors.New("impossible for white to queenside castle since rook has moved")
-	errFENImpossibleWhiteKingsideCastle  = errors.New("impossible for white to kingside castle since rook has moved")
-	errFENPawnInImpossibleRank           = errors.New("impossible rank for pawn")
-	errFENBlackHasMoreThan16Pieces       = errors.New("black has more than 16 pieces")
-	errFENWhiteHasMoreThan16Pieces       = errors.New("white has more than 16 pieces")
+	errFENRegexDoesNotMatch        = errors.New("FEN string does not match FEN regexp")
+	errFENRankLargerThan8Squares   = errors.New("FEN string has a rank larger than 8 squares")
+	errFENDuplicateKing            = errors.New("FEN string has more than one king of the same color")
+	errFENKingMissing              = errors.New("FEN string is lacking one of the kings")
+	errFENPawnInImpossibleRank     = errors.New("impossible rank for pawn")
+	errFENBlackHasMoreThan16Pieces = errors.New("black has more than 16 pieces")
+	errFENWhiteHasMoreThan16Pieces = errors.New("white has more than 16 pieces")
+	errFENSideNotToMoveInCheck     = errors.New("side not to move is in check")
 	// TODO check if King is in checkmate that couldn't have been reached
 	// TODO don't allow more than 8 pawns of any color
-	// TODO check if both are in check
 )
 
 func NewGameFromFEN(s string) (Game, error) {
@@ -111,33 +104,27 @@ func NewGameFromFEN(s string) (Game, error) {
 		return Game{}, errFENWhiteHasMoreThan16Pieces
 	}
 
-	// En passant validation
+	// En passant auto-correction: an impossible e.p. target (no pawn of the right
+	// color next to it) is silently dropped rather than rejected, since board
+	// editors construct FENs naively.
 	if isLastMoveEnPassant && turn == "b" && pieces[ColorWhite][enPassantTargetSquare.add(XY{0, -1})].PieceType != PiecePawn {
-		return Game{}, errFENImpossibleEnPassant
+		isLastMoveEnPassant = false
+		enPassantTargetSquare = XY{}
 	}
 	if isLastMoveEnPassant && turn == "w" && pieces[ColorBlack][enPassantTargetSquare.add(XY{0, 1})].PieceType != PiecePawn {
-		return Game{}, errFENImpossibleEnPassant
+		isLastMoveEnPassant = false
+		enPassantTargetSquare = XY{}
 	}
 
-	// Castling validation
-	if canBlackCastle && !kings[ColorBlack].XY.eq(XY{4, 0}) {
-		return Game{}, errFENImpossibleBlackCastle
-	}
-	if canBlackQueensideCastle && pieces[ColorBlack][XY{0, 0}].PieceType != PieceRook {
-		return Game{}, errFENImpossibleBlackQueensideCastle
-	}
-	if canBlackKingsideCastle && pieces[ColorBlack][XY{7, 0}].PieceType != PieceRook {
-		return Game{}, errFENImpossibleBlackKingsideCastle
-	}
-	if canWhiteCastle && !kings[ColorWhite].XY.eq(XY{4, 7}) {
-		return Game{}, errFENImpossibleWhiteCastle
-	}
-	if canWhiteQueensideCastle && pieces[ColorWhite][XY{0, 7}].PieceType != PieceRook {
-		return Game{}, errFENImpossibleWhiteQueensideCastle
-	}
-	if canWhiteKingsideCastle && pieces[ColorWhite][XY{7, 7}].PieceType != PieceRook {
-		return Game{}, errFENImpossibleWhiteKingsideCastle
-	}
+	// Castling auto-correction: rights inconsistent with king/rook placement are
+	// silently narrowed rather than rejected (a board editor's "KQkq" with a moved
+	// king just means no castling).
+	canWhiteKingsideCastle, canWhiteQueensideCastle, canBlackKingsideCastle, canBlackQueensideCastle = narrowCastlingRights(
+		pieces, kings,
+		canWhiteKingsideCastle, canWhiteQueensideCastle, canBlackKingsideCastle, canBlackQueensideCastle,
+	)
+	canWhiteCastle = canWhiteKingsideCastle || canWhiteQueensideCastle
+	canBlackCastle = canBlackKingsideCastle || canBlackQueensideCastle
 
 	game := Game{
 		CanWhiteCastle:          canWhiteCastle,
@@ -155,7 +142,44 @@ func NewGameFromFEN(s string) (Game, error) {
 		Kings:                   kings,
 	}
 
+	// The side not to move must not be in check: such a position is unreachable
+	// and move generation semantics break down (the opponent's king is capturable).
+	if len(game.xyThreatenedBy(kings[opponentOfTurn(turn)].XY, opponentOfTurn(turn), false)) > 0 {
+		return Game{}, errFENSideNotToMoveInCheck
+	}
+
 	return game.calculateCriticalFlags(), nil
+}
+
+func opponentOfTurn(turn string) color {
+	if turn == "w" {
+		return ColorBlack
+	}
+	return ColorWhite
+}
+
+// narrowCastlingRights drops any castling right that is inconsistent with the actual
+// king and rook placement.
+func narrowCastlingRights(pieces []map[XY]Piece, kings []Piece, wk, wq, bk, bq bool) (bool, bool, bool, bool) {
+	if !kings[ColorWhite].XY.eq(XY{4, 7}) {
+		wk, wq = false, false
+	}
+	if !kings[ColorBlack].XY.eq(XY{4, 0}) {
+		bk, bq = false, false
+	}
+	if pieces[ColorWhite][XY{7, 7}].PieceType != PieceRook {
+		wk = false
+	}
+	if pieces[ColorWhite][XY{0, 7}].PieceType != PieceRook {
+		wq = false
+	}
+	if pieces[ColorBlack][XY{7, 0}].PieceType != PieceRook {
+		bk = false
+	}
+	if pieces[ColorBlack][XY{0, 0}].PieceType != PieceRook {
+		bq = false
+	}
+	return wk, wq, bk, bq
 }
 
 // This assumes that Atoi can't fail because the regex capture cannot return a non-number

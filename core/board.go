@@ -19,24 +19,17 @@ type Board struct {
 }
 
 var (
-	errBoardInvalidEnPassantTargetSquare   = errors.New("enPassantTargetSquare must be either empty string or valid algebraic notation square e.g. d6")
-	errBoardTurnMustBeBlackOrWhite         = errors.New("turn must be either Black or White")
-	errBoardDuplicateKing                  = errors.New("board has two kings of the same color")
-	errBoardKingMissing                    = errors.New("board is missing one of the kings")
-	errBoardDimensionsWrong                = errors.New("board dimensions are wrong; should be 8x8")
-	errBoardImpossibleBlackCastle          = errors.New("impossible for black to castle since king has moved")
-	errBoardImpossibleBlackQueensideCastle = errors.New("impossible for black to queenside castle since rook has moved")
-	errBoardImpossibleBlackKingsideCastle  = errors.New("impossible for black to kingside castle since rook has moved")
-	errBoardImpossibleWhiteCastle          = errors.New("impossible for white to castle since king has moved")
-	errBoardImpossibleWhiteQueensideCastle = errors.New("impossible for white to queenside castle since rook has moved")
-	errBoardImpossibleWhiteKingsideCastle  = errors.New("impossible for white to kingside castle since rook has moved")
-	errBoardImpossibleEnPassant            = errors.New("impossible en passant target square, since there's no pawn of the right color next to it")
-	errBoardPawnInImpossibleRank           = errors.New("impossible rank for pawn")
-	errBoardBlackHasMoreThan16Pieces       = errors.New("black has more than 16 pieces")
-	errBoardWhiteHasMoreThan16Pieces       = errors.New("white has more than 16 pieces")
+	errBoardInvalidEnPassantTargetSquare = errors.New("enPassantTargetSquare must be either empty string or valid algebraic notation square e.g. d6")
+	errBoardTurnMustBeBlackOrWhite       = errors.New("turn must be either Black or White")
+	errBoardDuplicateKing                = errors.New("board has two kings of the same color")
+	errBoardKingMissing                  = errors.New("board is missing one of the kings")
+	errBoardDimensionsWrong              = errors.New("board dimensions are wrong; should be 8x8")
+	errBoardPawnInImpossibleRank         = errors.New("impossible rank for pawn")
+	errBoardBlackHasMoreThan16Pieces     = errors.New("black has more than 16 pieces")
+	errBoardWhiteHasMoreThan16Pieces     = errors.New("white has more than 16 pieces")
+	errBoardSideNotToMoveInCheck         = errors.New("side not to move is in check")
 	// TODO check if King is in checkmate that couldn't have been reached
 	// TODO don't allow more than 8 pawns of any color
-	// TODO check if both are in check
 )
 
 func NewDefaultGame() Game {
@@ -128,25 +121,15 @@ func NewGameFromBoard(b Board) (Game, error) {
 		return Game{}, errBoardWhiteHasMoreThan16Pieces
 	}
 
-	// Castling validation
-	if g.CanBlackCastle && !g.Kings[ColorBlack].XY.eq(XY{4, 0}) {
-		return Game{}, errBoardImpossibleBlackCastle
-	}
-	if g.CanBlackQueensideCastle && g.Pieces[ColorBlack][XY{0, 0}].PieceType != PieceRook {
-		return Game{}, errBoardImpossibleBlackQueensideCastle
-	}
-	if g.CanBlackKingsideCastle && g.Pieces[ColorBlack][XY{7, 0}].PieceType != PieceRook {
-		return Game{}, errBoardImpossibleBlackKingsideCastle
-	}
-	if g.CanWhiteCastle && !g.Kings[ColorWhite].XY.eq(XY{4, 7}) {
-		return Game{}, errBoardImpossibleWhiteCastle
-	}
-	if g.CanWhiteQueensideCastle && g.Pieces[ColorWhite][XY{0, 7}].PieceType != PieceRook {
-		return Game{}, errBoardImpossibleWhiteQueensideCastle
-	}
-	if g.CanWhiteKingsideCastle && g.Pieces[ColorWhite][XY{7, 7}].PieceType != PieceRook {
-		return Game{}, errBoardImpossibleWhiteKingsideCastle
-	}
+	// Castling auto-correction: rights inconsistent with king/rook placement are
+	// silently narrowed rather than rejected (a board editor's "all rights" with a
+	// moved king just means no castling).
+	g.CanWhiteKingsideCastle, g.CanWhiteQueensideCastle, g.CanBlackKingsideCastle, g.CanBlackQueensideCastle = narrowCastlingRights(
+		g.Pieces, g.Kings,
+		g.CanWhiteKingsideCastle, g.CanWhiteQueensideCastle, g.CanBlackKingsideCastle, g.CanBlackQueensideCastle,
+	)
+	g.CanWhiteCastle = g.CanWhiteKingsideCastle || g.CanWhiteQueensideCastle
+	g.CanBlackCastle = g.CanBlackKingsideCastle || g.CanBlackQueensideCastle
 
 	// En passant
 	switch {
@@ -160,11 +143,21 @@ func NewGameFromBoard(b Board) (Game, error) {
 		g.IsLastMoveEnPassant = true
 		g.EnPassantTargetSquare = XY{X: int(b.EnPassantTargetSquare[0] - 'a'), Y: int('8' - b.EnPassantTargetSquare[1])}
 	}
+	// En passant auto-correction: an impossible e.p. target is silently dropped.
 	if g.IsLastMoveEnPassant && g.Turn() == ColorBlack && g.Pieces[ColorWhite][g.EnPassantTargetSquare.add(XY{0, -1})].PieceType != PiecePawn {
-		return Game{}, errBoardImpossibleEnPassant
+		g.IsLastMoveEnPassant = false
+		g.EnPassantTargetSquare = XY{}
 	}
 	if g.IsLastMoveEnPassant && g.Turn() == ColorWhite && g.Pieces[ColorBlack][g.EnPassantTargetSquare.add(XY{0, 1})].PieceType != PiecePawn {
-		return Game{}, errBoardImpossibleEnPassant
+		g.IsLastMoveEnPassant = false
+		g.EnPassantTargetSquare = XY{}
+	}
+
+	// The side not to move must not be in check: such a position is unreachable
+	// and move generation semantics break down.
+	sideNotToMove := opponent(g.Turn())
+	if len(g.xyThreatenedBy(g.Kings[sideNotToMove].XY, sideNotToMove, false)) > 0 {
+		return Game{}, errBoardSideNotToMoveInCheck
 	}
 
 	return g.calculateCriticalFlags(), nil

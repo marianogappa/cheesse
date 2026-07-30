@@ -127,8 +127,8 @@ func TestNotationParserCoordinate(t *testing.T) {
 		},
 		{
 			name:        "++ suffix accepted on double check move",
-			fen:         "4k3/8/8/3N4/8/8/8/4R2K w - - 0 1",
-			s:           "1. d5-f6++",
+			fen:         "4k3/8/8/8/4N3/8/8/4R2K w - - 0 1",
+			s:           "1. e4-f6++",
 			expectedFEN: "4k3/8/5N2/8/8/8/8/4R2K b - - 1 1",
 		},
 		{
