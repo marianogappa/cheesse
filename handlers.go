@@ -138,6 +138,50 @@ func handleCliParseNotation(flagParseNotation *string) {
 	fmt.Println(string(byts))
 }
 
+func handleServerParseNotationDetailed(w http.ResponseWriter, r *http.Request) {
+	type args struct {
+		Game           api.InputGame `json:"game"`
+		NotationString string        `json:"notationString"`
+	}
+	var input args
+	if err := json.NewDecoder(r.Body).Decode(&input); err != nil {
+		fmt.Fprintln(w, formatError(err))
+		return
+	}
+	defer r.Body.Close()
+	outputGame, parseResult, err := a.ParseNotationDetailed(input.Game, input.NotationString)
+	if err != nil {
+		fmt.Fprintln(w, formatError(err))
+		return
+	}
+	type out struct {
+		Game        api.OutputGame        `json:"game"`
+		ParseResult api.OutputParseResult `json:"parseResult"`
+	}
+	json.NewEncoder(w).Encode(out{outputGame, parseResult})
+}
+
+func handleCliParseNotationDetailed(flagParseNotationDetailed *string) {
+	type args struct {
+		Game           api.InputGame `json:"game"`
+		NotationString string        `json:"notationString"`
+	}
+	var input args
+	if err := json.Unmarshal([]byte(*flagParseNotationDetailed), &input); err != nil {
+		mustCliFatal(err)
+	}
+	outputGame, parseResult, err := a.ParseNotationDetailed(input.Game, input.NotationString)
+	if err != nil {
+		mustCliFatal(err)
+	}
+	type out struct {
+		Game        api.OutputGame        `json:"game"`
+		ParseResult api.OutputParseResult `json:"parseResult"`
+	}
+	byts, _ := json.Marshal(out{outputGame, parseResult})
+	fmt.Println(string(byts))
+}
+
 func mustCliFatal(err error) {
 	fmt.Println(formatError(err))
 	os.Exit(1)

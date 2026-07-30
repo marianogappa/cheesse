@@ -13,7 +13,8 @@ var (
 	flagDefaultGame   = flag.Bool("defaultGame", false, "Default API call. Returns a default game.")
 	flagParseGame     = flag.String("parseGame", "", "ParseGame API call. Requires a JSON string with arguments. Please review spec.")
 	flagDoAction      = flag.String("doAction", "", "DoAction API call. Requires a JSON string with arguments. Please review spec.")
-	flagParseNotation = flag.String("parseNotation", "", "ParseNotation API call. Requires a JSON string with arguments. Please review spec.")
+	flagParseNotation         = flag.String("parseNotation", "", "ParseNotation API call. Requires a JSON string with arguments. Please review spec.")
+	flagParseNotationDetailed = flag.String("parseNotationDetailed", "", "ParseNotationDetailed API call. Requires a JSON string with arguments. Please review spec.")
 )
 
 func main() {
@@ -23,6 +24,7 @@ func main() {
 	http.HandleFunc("/defaultGame", handleServerDefaultGame)
 	http.HandleFunc("/doAction", handleServerDoAction)
 	http.HandleFunc("/parseNotation", handleServerParseNotation)
+	http.HandleFunc("/parseNotationDetailed", handleServerParseNotationDetailed)
 
 	switch {
 	case *flagServe != 0:
@@ -35,5 +37,7 @@ func main() {
 		handleCliDoAction(flagDoAction)
 	case *flagParseNotation != "":
 		handleCliParseNotation(flagParseNotation)
+	case *flagParseNotationDetailed != "":
+		handleCliParseNotationDetailed(flagParseNotationDetailed)
 	}
 }

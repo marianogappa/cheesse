@@ -40,11 +40,31 @@ func ParseNotation(this js.Value, p []js.Value) interface{} {
 	})
 }
 
+func ParseNotationDetailed(this js.Value, p []js.Value) interface{} {
+	og, result, err := a.ParseNotationDetailed(convertToInputGame(p[0]), p[1].String())
+	return js.ValueOf(map[string]interface{}{
+		"outputGame":  convertOutputGame(og),
+		"parseResult": convertOutputParseResult(result),
+		"error":       convertError(err),
+	})
+}
+
+func convertOutputParseResult(r api.OutputParseResult) map[string]interface{} {
+	return map[string]interface{}{
+		"notationName":       r.NotationName,
+		"parseWasSuccessful": r.ParseWasSuccessful,
+		"validActionCount":   r.ValidActionCount,
+		"steps":              convertOutputGameSteps(r.Steps),
+		"error":              r.Error,
+	}
+}
+
 func main() {
 	js.Global().Set("DefaultGame", js.FuncOf(DefaultGame))
 	js.Global().Set("ParseGame", js.FuncOf(ParseGame))
 	js.Global().Set("DoAction", js.FuncOf(DoAction))
 	js.Global().Set("ParseNotation", js.FuncOf(ParseNotation))
+	js.Global().Set("ParseNotationDetailed", js.FuncOf(ParseNotationDetailed))
 	select {}
 }
 
