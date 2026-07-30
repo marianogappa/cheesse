@@ -244,34 +244,7 @@ func NewNotationParserDescriptive(initialCharacteristics Characteristics) *Notat
 				},
 
 				// End of game
-				`(1–0|0–1|½–½|resigns|White resigns|Black resigns|Resigns)`: func(ms []string, g core.Game) []tokenMatch {
-					var usesEndGameSymbol string
-					switch ms[1] {
-					case "1-0", "0-1", "½–½":
-						usesEndGameSymbol = "numbers"
-					case "resigns":
-						usesEndGameSymbol = "resigns"
-					case "Resigns":
-						usesEndGameSymbol = "Resigns"
-					case "White resigns", "Black resigns":
-						usesEndGameSymbol = "color resigns"
-					}
-					ap := actionPattern{
-						isResign:           pBool(true),
-						isPromotion:        pBool(false),
-						isCastle:           pBool(false),
-						isCapture:          pBool(false),
-						isEnPassantCapture: pBool(false),
-					}
-					ch := Characteristics{usesEndGameSymbol: &usesEndGameSymbol}
-					if ch.isCheck {
-						ap.isCheck = pBool(true)
-					}
-					if ch.isCheckmate {
-						ap.isCheckmate = pBool(true)
-					}
-					return []tokenMatch{{ms[0], &ap, ch}}
-				},
+				rxEndOfGame: processEndOfGameToken,
 			},
 		}
 

@@ -207,32 +207,7 @@ func NewNotationParserAlgebraic(initialCharacteristics Characteristics) *Notatio
 				},
 
 				// End of game
-				`(1–0|0–1|½–½|resigns|White resigns|Black resigns)`: func(ms []string, g core.Game) []tokenMatch {
-					var usesEndGameSymbol string
-					switch ms[1] {
-					case "1-0", "0-1", "½–½":
-						usesEndGameSymbol = "numbers"
-					case "resigns":
-						usesEndGameSymbol = "resigns"
-					case "White resigns", "Black resigns":
-						usesEndGameSymbol = "color resigns"
-					}
-					ap := actionPattern{
-						isResign:           pBool(strings.HasSuffix(usesEndGameSymbol, "resigns")),
-						isPromotion:        pBool(false),
-						isCastle:           pBool(false),
-						isCapture:          pBool(false),
-						isEnPassantCapture: pBool(false),
-					}
-					ch := Characteristics{usesEndGameSymbol: &usesEndGameSymbol}
-					if ch.isCheck {
-						ap.isCheck = pBool(true)
-					}
-					if ch.isCheckmate {
-						ap.isCheckmate = pBool(true)
-					}
-					return []tokenMatch{{ms[0], &ap, ch}}
-				},
+				rxEndOfGame: processEndOfGameToken,
 			},
 		}
 
@@ -307,6 +282,38 @@ func NewNotationParserAlgebraic(initialCharacteristics Characteristics) *Notatio
 	)
 
 	return newNotationParser(transitions, evolveCharacteristics, initialCharacteristics)
+}
+
+// rxEndOfGame accepts result markers with both ASCII hyphens and en-dashes, plus the
+// ½-½ and 1/2-1/2 draw spellings and resign words. Shared by the algebraic and
+// descriptive parsers.
+const rxEndOfGame = `(1[–-]0|0[–-]1|½[–-]½|1/2[–-]1/2|White resigns|Black resigns|resigns|Resigns)`
+
+// processEndOfGameToken interprets an end-of-game token (see rxEndOfGame).
+func processEndOfGameToken(ms []string, g core.Game) []tokenMatch {
+	normalized := strings.ReplaceAll(ms[1], "–", "-")
+	var usesEndGameSymbol string
+	switch normalized {
+	case "1-0", "0-1", "½-½", "1/2-1/2":
+		usesEndGameSymbol = "numbers"
+	case "resigns":
+		usesEndGameSymbol = "resigns"
+	case "Resigns":
+		usesEndGameSymbol = "Resigns"
+	case "White resigns", "Black resigns":
+		usesEndGameSymbol = "color resigns"
+	}
+	// The engine's only terminal action is resignation, so every end-of-game
+	// marker matches the resign action.
+	ap := actionPattern{
+		isResign:           pBool(true),
+		isPromotion:        pBool(false),
+		isCastle:           pBool(false),
+		isCapture:          pBool(false),
+		isEnPassantCapture: pBool(false),
+	}
+	ch := Characteristics{usesEndGameSymbol: &usesEndGameSymbol}
+	return []tokenMatch{{ms[0], &ap, ch}}
 }
 
 func stringToPieceType(s string) core.PieceType {
