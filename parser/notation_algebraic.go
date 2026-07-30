@@ -41,7 +41,7 @@ func NewNotationParserAlgebraic(initialCharacteristics Characteristics) *Notatio
 			},
 			"move": {
 				// Move
-				`([QKBNR]?)([a-h])?([1-8])?([a-h])([1-8])(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
+				`([QKBNR♕♔♗♘♖♛♚♝♞♜]?)([a-h])?([1-8])?([a-h])([1-8])(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
 					sFromPieceType, fromSquareFile, fromSquareRank, toSquareFile, toSquareRank, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7]
 					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
 					ap := actionPattern{
@@ -63,7 +63,7 @@ func NewNotationParserAlgebraic(initialCharacteristics Characteristics) *Notatio
 				},
 
 				// Capture
-				`([QKBNR])([a-h])?([1-8])?(x|:)?([a-h])([1-8])(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
+				`([QKBNR♕♔♗♘♖♛♚♝♞♜])([a-h])?([1-8])?(x|:)?([a-h])([1-8])(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
 					sFromPieceType, fromSquareFile, fromSquareRank, _, toSquareFile, toSquareRank, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7], ms[8]
 					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
 					ap := actionPattern{
@@ -87,7 +87,7 @@ func NewNotationParserAlgebraic(initialCharacteristics Characteristics) *Notatio
 				},
 
 				// Capture with colon at the end
-				`([QKBNR])([a-h])?([1-8])?([a-h])([1-8]):(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
+				`([QKBNR♕♔♗♘♖♛♚♝♞♜])([a-h])?([1-8])?([a-h])([1-8]):(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
 					sFromPieceType, fromSquareFile, fromSquareRank, toSquareFile, toSquareRank, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7]
 					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
 					ap := actionPattern{
@@ -132,7 +132,7 @@ func NewNotationParserAlgebraic(initialCharacteristics Characteristics) *Notatio
 				},
 
 				// Capture and promotion with pawn, potentially without rank
-				`([a-h])(x|:)?([a-h])([1-8]?)([=\(])([QBNR])\)?(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
+				`([a-h])(x|:)?([a-h])([1-8]?)([=\(])([QBNR♕♗♘♖♛♝♞♜])\)?(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
 					fromSquareFile, _, toSquareFile, toSquareRank, promotionSymbol, sPromotionPieceType, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6], ms[7], ms[8]
 					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
 					ap := actionPattern{
@@ -158,7 +158,7 @@ func NewNotationParserAlgebraic(initialCharacteristics Characteristics) *Notatio
 				},
 
 				// Promotion
-				`([a-h])([1-8])([=\(])([QBNR])\)?(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
+				`([a-h])([1-8])([=\(])([QBNR♕♗♘♖♛♝♞♜])\)?(\+\+|dbl\.? ?ch|dis\.? ?ch|\+|†|ch|#|mate|‡|≠|X|x|×)?(!!|\?\?|!\?|\?!|!|\?)?`: func(ms []string, g core.Game) []tokenMatch {
 					toSquareFile, toSquareRank, promotionSymbol, sPromotionPieceType, threatenSymbol, _ := ms[1], ms[2], ms[3], ms[4], ms[5], ms[6]
 					isCheck, isCheckmate, usesCheckSymbol, usesCheckmateSymbol := processThreatenSymbol(threatenSymbol)
 					ap := actionPattern{
@@ -317,6 +317,19 @@ func stringToPieceType(s string) core.PieceType {
 		"N": core.PieceKnight,
 		"R": core.PieceRook,
 		"":  core.PiecePawn,
+		// Figurine symbols, both colors
+		"♕": core.PieceQueen,
+		"♔": core.PieceKing,
+		"♗": core.PieceBishop,
+		"♘": core.PieceKnight,
+		"♖": core.PieceRook,
+		"♙": core.PiecePawn,
+		"♛": core.PieceQueen,
+		"♚": core.PieceKing,
+		"♝": core.PieceBishop,
+		"♞": core.PieceKnight,
+		"♜": core.PieceRook,
+		"♟": core.PiecePawn,
 	}[s]
 }
 

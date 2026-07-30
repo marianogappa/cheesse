@@ -258,6 +258,27 @@ func (t PieceType) ToFigurine() string {
 	return ""
 }
 
+func (t PieceType) ToColorFigurine(c color) string {
+	if c == ColorBlack {
+		return t.ToFigurine()
+	}
+	switch t {
+	case PieceQueen:
+		return "♕"
+	case PieceKing:
+		return "♔"
+	case PieceBishop:
+		return "♗"
+	case PieceKnight:
+		return "♘"
+	case PieceRook:
+		return "♖"
+	case PiecePawn:
+		return "♙"
+	}
+	return ""
+}
+
 type color int
 
 const (

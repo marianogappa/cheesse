@@ -13,11 +13,16 @@ func (p AlgebraicPrinter) PrintGame(gameSteps []core.GameStep, gameCharacteristi
 }
 
 func algPiece(gameStep core.GameStep, gameCharacteristics GameCharacteristics, renderFileIfPawn bool) string {
-	if !gameCharacteristics.isFigurine && gameStep.StepAction.FromPiece.PieceType == core.PiecePawn && renderFileIfPawn {
-		return gameStep.StepAction.FromPiece.XY.ToAlgebraic()[0:1]
+	// Pawns render the same in algebraic and figurine notations: bare file letter on
+	// captures, nothing otherwise.
+	if gameStep.StepAction.FromPiece.PieceType == core.PiecePawn {
+		if renderFileIfPawn {
+			return gameStep.StepAction.FromPiece.XY.ToAlgebraic()[0:1]
+		}
+		return ""
 	}
 	if gameCharacteristics.isFigurine {
-		return gameStep.StepAction.FromPiece.PieceType.ToFigurine()
+		return gameStep.StepAction.FromPiece.PieceType.ToColorFigurine(gameStep.StepAction.FromPiece.Owner)
 	}
 	return gameStep.StepAction.FromPiece.PieceType.ToAlgebraic()
 }
@@ -65,15 +70,19 @@ func algPromotion(gameStep core.GameStep, gameCharacteristics GameCharacteristic
 	if !gameStep.StepAction.IsPromotion || gameCharacteristics.usesPromotionSymbol == nil {
 		return ""
 	}
+	promotionPiece := gameStep.StepAction.PromotionPieceType.ToAlgebraic()
+	if gameCharacteristics.isFigurine {
+		promotionPiece = gameStep.StepAction.PromotionPieceType.ToColorFigurine(gameStep.StepAction.FromPiece.Owner)
+	}
 	switch *gameCharacteristics.usesPromotionSymbol {
 	case "Q":
-		return gameStep.StepAction.PromotionPieceType.ToAlgebraic()
+		return promotionPiece
 	case "=":
-		return fmt.Sprintf("=%v", gameStep.StepAction.PromotionPieceType.ToAlgebraic())
+		return fmt.Sprintf("=%v", promotionPiece)
 	case "(":
-		return fmt.Sprintf("(%v)", gameStep.StepAction.PromotionPieceType.ToAlgebraic())
+		return fmt.Sprintf("(%v)", promotionPiece)
 	case "/":
-		return fmt.Sprintf("/%v", gameStep.StepAction.PromotionPieceType.ToAlgebraic())
+		return fmt.Sprintf("/%v", promotionPiece)
 	}
 	return ""
 }

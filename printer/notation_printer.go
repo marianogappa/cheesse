@@ -44,6 +44,14 @@ func SANCharacteristics() GameCharacteristics {
 	}
 }
 
+// FigurineCharacteristics returns GameCharacteristics for Figurine Algebraic Notation:
+// SAN with unicode chess symbols instead of piece letters.
+func FigurineCharacteristics() GameCharacteristics {
+	gc := SANCharacteristics()
+	gc.isFigurine = true
+	return gc
+}
+
 func pbool(b bool) *bool {
 	return &b
 }
