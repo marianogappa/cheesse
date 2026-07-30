@@ -5,6 +5,7 @@ import (
 
 	"github.com/marianogappa/cheesse/core"
 	"github.com/marianogappa/cheesse/parser"
+	"github.com/marianogappa/cheesse/parser/pgn"
 	"github.com/marianogappa/cheesse/printer"
 )
 
@@ -72,41 +73,84 @@ func (a API) DoAction(game InputGame, action InputAction) (OutputGame, OutputAct
 }
 
 // ParseNotation takes any valid input game and a string representing a match in some
-// notation, parses them and attempts to play the match starting from the supplied
-// game. If it fails, it returns an error describing the problem.
+// notation, auto-detects the notation and attempts to play the match starting from
+// the supplied game.
 //
-// If parsing the match succeeds, it returns the parsed initial game and a list of
-// steps, one per action in the `notationString`.
+// The notation is auto-detected across all supported notations: Algebraic/SAN
+// (including figurine and PGN), Coordinate, Descriptive, ICCF and Smith. All
+// supported notations are attempted, and the attempt that parses the furthest wins.
+//
+// Partial parses are supported: if the notation string stops being valid at some
+// point, the result still contains the valid prefix of steps, the count of valid
+// actions, the name of the most likely notation, and a description of the parse
+// failure.
 //
 // An example `notationString` (Scholar's mate):
 //
 // `1. e4 e5\n2. Bc4 Nc6\n3. Qh5 Nf6??\n4. Qxf7#`
 //
-// At the moment, only Algebraic and ICCF Notations are supported, but support for most
-// notations is planned at a later release.
+// An error is only returned if the input game itself is invalid.
 //
-// Please refer to InputGame's, OutputGame's and OutputGameStep's docs for format
-// details.
-func (a API) ParseNotation(game InputGame, notationString string) (OutputGame, []OutputGameStep, error) {
+// Please refer to InputGame's, OutputGame's, OutputGameStep's and OutputParseResult's
+// docs for format details.
+func (a API) ParseNotation(game InputGame, notationString string) (OutputGame, OutputParseResult, error) {
 	parsedGame, err := a.parseGame(game)
 	if err != nil {
-		return OutputGame{}, []OutputGameStep{}, err
+		return OutputGame{}, OutputParseResult{}, err
 	}
 
-	notationParsers := []*parser.NotationParser{
-		parser.NewNotationParserAlgebraic(parser.Characteristics{}),
-		parser.NewNotationParserICCF(parser.Characteristics{}),
-		parser.NewNotationParserSmith(parser.Characteristics{}),
-		parser.NewNotationParserCoordinate(parser.Characteristics{}),
+	type notationCandidate struct {
+		name  string
+		parse func() ([]core.GameStep, error)
+	}
+	candidates := []notationCandidate{
+		{"Algebraic Notation", func() ([]core.GameStep, error) {
+			return parser.NewNotationParserAlgebraic(parser.Characteristics{}).Parse(parsedGame, notationString)
+		}},
+		{"ICCF Notation", func() ([]core.GameStep, error) {
+			return parser.NewNotationParserICCF(parser.Characteristics{}).Parse(parsedGame, notationString)
+		}},
+		{"Smith Notation", func() ([]core.GameStep, error) {
+			return parser.NewNotationParserSmith(parser.Characteristics{}).Parse(parsedGame, notationString)
+		}},
+		{"Coordinate Notation", func() ([]core.GameStep, error) {
+			return parser.NewNotationParserCoordinate(parser.Characteristics{}).Parse(parsedGame, notationString)
+		}},
+		{"Descriptive Notation", func() ([]core.GameStep, error) {
+			return parser.NewNotationParserDescriptive(parser.Characteristics{}).Parse(parsedGame, notationString)
+		}},
+		{"PGN", func() ([]core.GameStep, error) {
+			parsed, err := parser.NewGenericNotationParser(pgn.NewVariantPGN()).Parse(parsedGame, notationString)
+			if parsed == nil {
+				return nil, err
+			}
+			return parsed.GameSteps, err
+		}},
 	}
 
-	var gameSteps []core.GameStep
-	for _, notationParser := range notationParsers {
-		gameSteps, err = notationParser.Parse(parsedGame, notationString)
-		if err == nil {
-			break
+	var best *OutputParseResult
+	for _, candidate := range candidates {
+		gameSteps, err := candidate.parse()
+		validSteps := len(gameSteps)
+		result := OutputParseResult{
+			NotationName:       candidate.name,
+			ParseWasSuccessful: err == nil,
+			ValidActionCount:   validSteps,
+			Steps:              mapGameStepsToOutputGameSteps(gameSteps),
+		}
+		if err != nil {
+			result.Error = err.Error()
+		}
+
+		// A fully-successful parse with at least one step wins immediately.
+		if result.ParseWasSuccessful && validSteps > 0 {
+			return mapGameToOutputGame(parsedGame), result, nil
+		}
+		// Otherwise keep the attempt that parsed the furthest.
+		if best == nil || validSteps > best.ValidActionCount {
+			best = &result
 		}
 	}
 
-	return mapGameToOutputGame(parsedGame), mapGameStepsToOutputGameSteps(gameSteps), err
+	return mapGameToOutputGame(parsedGame), *best, nil
 }

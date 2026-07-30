@@ -32,12 +32,22 @@ func DoAction(this js.Value, p []js.Value) interface{} {
 }
 
 func ParseNotation(this js.Value, p []js.Value) interface{} {
-	og, ogs, err := a.ParseNotation(convertToInputGame(p[0]), p[1].String())
+	og, result, err := a.ParseNotation(convertToInputGame(p[0]), p[1].String())
 	return js.ValueOf(map[string]interface{}{
-		"outputGame":      convertOutputGame(og),
-		"outputGameSteps": convertOutputGameSteps(ogs),
-		"error":           convertError(err),
+		"outputGame":  convertOutputGame(og),
+		"parseResult": convertOutputParseResult(result),
+		"error":       convertError(err),
 	})
+}
+
+func convertOutputParseResult(r api.OutputParseResult) map[string]interface{} {
+	return map[string]interface{}{
+		"notationName":       r.NotationName,
+		"parseWasSuccessful": r.ParseWasSuccessful,
+		"validActionCount":   r.ValidActionCount,
+		"steps":              convertOutputGameSteps(r.Steps),
+		"error":              r.Error,
+	}
 }
 
 func main() {

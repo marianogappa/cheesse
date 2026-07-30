@@ -158,6 +158,29 @@ type OutputAction struct {
 	ActionString       string `json:"actionString"`
 }
 
+// OutputParseResult is the output interface that describes the result of
+// auto-detecting and parsing a match in some notation.
+//
+// - `notationName` is the name of the notation that parsed the furthest (the
+// most likely notation of the input), e.g. `Algebraic Notation`.
+//
+// - `parseWasSuccessful` is true if the whole notation string was parsed.
+//
+// - `validActionCount` is the number of valid actions parsed before either the
+// end of the input or the first invalid action.
+//
+// - `steps` contains one OutputGameStep per valid action, even if the parse
+// failed midway: clients can render the valid prefix and flag the invalid tail.
+//
+// - `error` describes why the parse stopped, when `parseWasSuccessful` is false.
+type OutputParseResult struct {
+	NotationName       string           `json:"notationName"`
+	ParseWasSuccessful bool             `json:"parseWasSuccessful"`
+	ValidActionCount   int              `json:"validActionCount"`
+	Steps              []OutputGameStep `json:"steps"`
+	Error              string           `json:"error,omitempty"`
+}
+
 // OutputGameStep is the output interface that describes a step in a parsed
 // or converted match in a given notation string.
 //
