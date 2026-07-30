@@ -25,6 +25,7 @@ func main() {
 	http.HandleFunc("/doAction", handleServerDoAction)
 	http.HandleFunc("/parseNotation", handleServerParseNotation)
 	http.HandleFunc("/convertNotation", handleServerConvertNotation)
+	http.HandleFunc("/aiMove", handleServerAIMove)
 
 	switch {
 	case *flagServe != 0:

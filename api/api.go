@@ -2,8 +2,10 @@ package api
 
 import (
 	"errors"
+	"math/rand"
 	"strings"
 
+	"github.com/marianogappa/cheesse/ai"
 	"github.com/marianogappa/cheesse/core"
 	"github.com/marianogappa/cheesse/parser"
 	"github.com/marianogappa/cheesse/parser/pgn"
@@ -213,6 +215,59 @@ func (a API) ConvertNotation(game InputGame, notationString string, targetNotati
 	return mapGameToOutputGame(parsedGame), result, nil
 }
 
+// AIMove selects a move for the side to move in the given game.
+//
+// `mode` must be one of: `{random|easy|medium|hard}` (case-insensitive).
+//   - `random`: uniformly random legal action (non-resign).
+//   - `easy`: minimax depth 0 (evaluates each move, no lookahead).
+//   - `medium`: minimax depth 1 (looks one full move ahead).
+//   - `hard`: minimax depth 2 (looks two full moves ahead).
+//
+// Returns the resulting game AFTER the action is applied, the chosen action, and
+// whether a move was available (false = game is already over).
+//
+// An error is only returned if the input game itself is invalid or mode is unknown.
+func (a API) AIMove(game InputGame, mode string) (OutputGame, OutputAction, bool, error) {
+	parsedGame, err := a.parseGame(game)
+	if err != nil {
+		return OutputGame{}, OutputAction{}, false, err
+	}
+
+	var (
+		action  core.Action
+		newGame core.Game
+		ok      bool
+	)
+	switch strings.ToLower(mode) {
+	case "random":
+		action, newGame, ok = ai.RandomAction(parsedGame, rand.New(rand.NewSource(rand.Int63())))
+	case "easy":
+		action, newGame, ok = ai.BasicAIAction(parsedGame, 0)
+	case "medium":
+		action, newGame, ok = ai.BasicAIAction(parsedGame, 1)
+	case "hard":
+		action, newGame, ok = ai.BasicAIAction(parsedGame, 2)
+	default:
+		return OutputGame{}, OutputAction{}, false, errUnknownAIMode
+	}
+
+	if !ok {
+		return mapGameToOutputGame(parsedGame), OutputAction{}, false, nil
+	}
+
+	outputAction := mapInternalActionToAction(action)
+	actionString, err := printer.AlgebraicPrinter{}.PrintAction(
+		core.GameStep{StepAction: action, StepGame: newGame, StepPreMoveGame: parsedGame},
+		printer.SANCharacteristics(),
+	)
+	if err == nil {
+		outputAction.ActionString = actionString
+	}
+
+	return mapGameToOutputGame(newGame), outputAction, true, nil
+}
+
+var errUnknownAIMode = errors.New("unknown AI mode: please use one of {random|easy|medium|hard}")
 var errUnknownTargetNotation = errors.New("unknown target notation: please use one of {Algebraic|Figurine|Descriptive|Coordinate|ICCF|Smith}")
 
 func notationPrinter(targetNotation string) (printer.NotationPrinter, printer.GameCharacteristics, error) {

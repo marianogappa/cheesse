@@ -184,6 +184,30 @@ func handleCliConvertNotation(flagConvertNotation *string) {
 	fmt.Println(string(byts))
 }
 
+func handleServerAIMove(w http.ResponseWriter, r *http.Request) {
+	type args struct {
+		Game api.InputGame `json:"game"`
+		Mode string        `json:"mode"`
+	}
+	var input args
+	if err := json.NewDecoder(r.Body).Decode(&input); err != nil {
+		fmt.Fprintln(w, formatError(err))
+		return
+	}
+	defer r.Body.Close()
+	outputGame, outputAction, moveAvailable, err := a.AIMove(input.Game, input.Mode)
+	if err != nil {
+		fmt.Fprintln(w, formatError(err))
+		return
+	}
+	type out struct {
+		Game          api.OutputGame   `json:"game"`
+		Action        api.OutputAction `json:"action"`
+		MoveAvailable bool             `json:"moveAvailable"`
+	}
+	json.NewEncoder(w).Encode(out{outputGame, outputAction, moveAvailable})
+}
+
 func mustCliFatal(err error) {
 	fmt.Println(formatError(err))
 	os.Exit(1)
