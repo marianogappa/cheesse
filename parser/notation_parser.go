@@ -307,6 +307,7 @@ type NotationParser struct {
 	transitions           map[string]map[string]func([]string, core.Game) []tokenMatch
 	evolveCharacteristics func(ch Characteristics, sc Characteristics) (Characteristics, error)
 	characteristics       Characteristics
+	preprocessor          func(string) string
 }
 
 func newNotationParser(
@@ -321,6 +322,9 @@ func newNotationParser(
 }
 
 func (p *NotationParser) Parse(initialGame core.Game, s string) ([]core.GameStep, error) {
+	if p.preprocessor != nil {
+		s = p.preprocessor(s)
+	}
 	p.stepParser = newGameStepParser(initialGame)
 	p.s = s
 

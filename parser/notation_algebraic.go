@@ -362,10 +362,14 @@ func nilOrTrue(b bool) *bool {
 
 func processThreatenSymbol(threatenSymbol string) (isCheck *bool, isCheckmate *bool, usesCheckSymbol *string, usesCheckmateSymbol *string) {
 	switch threatenSymbol {
-	case "+", "†", "ch", "++", "dblch", "dbl ch", "dbl.ch", "disch", "dis ch", "dis.ch":
+	case "+", "†", "ch":
 		isCheck = pBool(true)
 		isCheckmate = nil
 		usesCheckSymbol = &threatenSymbol
+		usesCheckmateSymbol = nil
+	case "++", "dblch", "dbl ch", "dbl.ch", "disch", "dis ch", "dis.ch":
+		isCheck = pBool(true)
+		isCheckmate = nil
 		usesCheckmateSymbol = nil
 	case "#", "mate", "‡", "≠", "X", "x", "×":
 		isCheck = nil
