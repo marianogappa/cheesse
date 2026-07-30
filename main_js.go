@@ -59,12 +59,23 @@ func ConvertNotation(this js.Value, p []js.Value) interface{} {
 	})
 }
 
+func AIMove(this js.Value, p []js.Value) interface{} {
+	og, oa, ok, err := a.AIMove(convertToInputGame(p[0]), p[1].String())
+	return js.ValueOf(map[string]interface{}{
+		"outputGame":   convertOutputGame(og),
+		"outputAction": convertOutputAction(oa),
+		"moveAvailable": ok,
+		"error":        convertError(err),
+	})
+}
+
 func main() {
 	js.Global().Set("DefaultGame", js.FuncOf(DefaultGame))
 	js.Global().Set("ParseGame", js.FuncOf(ParseGame))
 	js.Global().Set("DoAction", js.FuncOf(DoAction))
 	js.Global().Set("ParseNotation", js.FuncOf(ParseNotation))
 	js.Global().Set("ConvertNotation", js.FuncOf(ConvertNotation))
+	js.Global().Set("AIMove", js.FuncOf(AIMove))
 	select {}
 }
 
