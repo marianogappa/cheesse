@@ -2,6 +2,7 @@ package api
 
 import (
 	"errors"
+	"strings"
 
 	"github.com/marianogappa/cheesse/core"
 	"github.com/marianogappa/cheesse/parser"
@@ -98,7 +99,16 @@ func (a API) ParseNotation(game InputGame, notationString string) (OutputGame, O
 	if err != nil {
 		return OutputGame{}, OutputParseResult{}, err
 	}
+	gameSteps, result := parseNotationAutoDetect(parsedGame, notationString)
+	result.Steps = mapGameStepsToOutputGameSteps(gameSteps)
+	return mapGameToOutputGame(parsedGame), result, nil
+}
 
+// parseNotationAutoDetect tries all supported notation parsers and returns the game
+// steps of the attempt that parsed the furthest, along with a parse result describing
+// the winning attempt (with Steps unset; callers map the steps as needed).
+func parseNotationAutoDetect(parsedGame core.Game, notationString string) ([]core.GameStep, OutputParseResult) {
+	notationString = strings.TrimSpace(notationString)
 	type notationCandidate struct {
 		name  string
 		parse func() ([]core.GameStep, error)
@@ -128,7 +138,10 @@ func (a API) ParseNotation(game InputGame, notationString string) (OutputGame, O
 		}},
 	}
 
-	var best *OutputParseResult
+	var (
+		bestSteps  []core.GameStep
+		bestResult *OutputParseResult
+	)
 	for _, candidate := range candidates {
 		gameSteps, err := candidate.parse()
 		validSteps := len(gameSteps)
@@ -136,7 +149,6 @@ func (a API) ParseNotation(game InputGame, notationString string) (OutputGame, O
 			NotationName:       candidate.name,
 			ParseWasSuccessful: err == nil,
 			ValidActionCount:   validSteps,
-			Steps:              mapGameStepsToOutputGameSteps(gameSteps),
 		}
 		if err != nil {
 			result.Error = err.Error()
@@ -144,13 +156,79 @@ func (a API) ParseNotation(game InputGame, notationString string) (OutputGame, O
 
 		// A fully-successful parse with at least one step wins immediately.
 		if result.ParseWasSuccessful && validSteps > 0 {
-			return mapGameToOutputGame(parsedGame), result, nil
+			return gameSteps, result
 		}
 		// Otherwise keep the attempt that parsed the furthest.
-		if best == nil || validSteps > best.ValidActionCount {
-			best = &result
+		if bestResult == nil || validSteps > bestResult.ValidActionCount {
+			bestSteps, bestResult = gameSteps, &result
 		}
 	}
 
-	return mapGameToOutputGame(parsedGame), *best, nil
+	return bestSteps, *bestResult
+}
+
+// ConvertNotation takes any valid input game and a string representing a match in
+// some notation, auto-detects the source notation, and re-renders every move in the
+// target notation.
+//
+// `targetNotation` must be one of: `{Algebraic|Figurine|Descriptive|Coordinate|ICCF|Smith}`
+// (case-insensitive).
+//
+// Partial input still converts the valid prefix: the result reports the detected
+// source notation, whether the whole input parsed, how many actions were valid, and
+// one OutputGameStep per valid action whose `actionString` is rendered in the target
+// notation.
+//
+// An error is only returned if the input game itself is invalid or the target
+// notation is unknown.
+//
+// Please refer to InputGame's, OutputGame's, OutputGameStep's and OutputParseResult's
+// docs for format details.
+func (a API) ConvertNotation(game InputGame, notationString string, targetNotation string) (OutputGame, OutputParseResult, error) {
+	parsedGame, err := a.parseGame(game)
+	if err != nil {
+		return OutputGame{}, OutputParseResult{}, err
+	}
+
+	targetPrinter, targetCharacteristics, err := notationPrinter(targetNotation)
+	if err != nil {
+		return OutputGame{}, OutputParseResult{}, err
+	}
+
+	gameSteps, result := parseNotationAutoDetect(parsedGame, notationString)
+
+	result.Steps = mapGameStepsToOutputGameSteps(gameSteps)
+	for i, gameStep := range gameSteps {
+		if gameStep.StepAction == (core.Action{}) {
+			// Result markers (e.g. "1-0" in PGN) have no action to re-render.
+			continue
+		}
+		actionString, err := targetPrinter.PrintAction(gameStep, targetCharacteristics)
+		if err != nil {
+			return OutputGame{}, OutputParseResult{}, err
+		}
+		result.Steps[i].ActionString = actionString
+	}
+
+	return mapGameToOutputGame(parsedGame), result, nil
+}
+
+var errUnknownTargetNotation = errors.New("unknown target notation: please use one of {Algebraic|Figurine|Descriptive|Coordinate|ICCF|Smith}")
+
+func notationPrinter(targetNotation string) (printer.NotationPrinter, printer.GameCharacteristics, error) {
+	switch strings.ToLower(targetNotation) {
+	case "algebraic":
+		return printer.AlgebraicPrinter{}, printer.SANCharacteristics(), nil
+	case "figurine":
+		return printer.AlgebraicPrinter{}, printer.FigurineCharacteristics(), nil
+	case "descriptive":
+		return printer.DescriptivePrinter{}, printer.GameCharacteristics{}, nil
+	case "coordinate":
+		return printer.CoordinatePrinter{}, printer.SANCharacteristics(), nil
+	case "iccf":
+		return printer.ICCFPrinter{}, printer.GameCharacteristics{}, nil
+	case "smith":
+		return printer.SmithPrinter{}, printer.GameCharacteristics{}, nil
+	}
+	return nil, printer.GameCharacteristics{}, errUnknownTargetNotation
 }

@@ -50,11 +50,21 @@ func convertOutputParseResult(r api.OutputParseResult) map[string]interface{} {
 	}
 }
 
+func ConvertNotation(this js.Value, p []js.Value) interface{} {
+	og, result, err := a.ConvertNotation(convertToInputGame(p[0]), p[1].String(), p[2].String())
+	return js.ValueOf(map[string]interface{}{
+		"outputGame":  convertOutputGame(og),
+		"parseResult": convertOutputParseResult(result),
+		"error":       convertError(err),
+	})
+}
+
 func main() {
 	js.Global().Set("DefaultGame", js.FuncOf(DefaultGame))
 	js.Global().Set("ParseGame", js.FuncOf(ParseGame))
 	js.Global().Set("DoAction", js.FuncOf(DoAction))
 	js.Global().Set("ParseNotation", js.FuncOf(ParseNotation))
+	js.Global().Set("ConvertNotation", js.FuncOf(ConvertNotation))
 	select {}
 }
 

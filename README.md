@@ -10,11 +10,12 @@ DefaultGame() OutputGame
 ParseGame(game InputGame) (OutputGame, error)
 DoAction(game InputGame, action InputAction) (OutputGame, OutputAction, error)
 
-// Currently only supporting Algebraic Notation; others coming soon
-ParseNotation(game InputGame, notationString string) (OutputGame, []OutputGameStep, error)
+// Auto-detects the notation: Algebraic (incl. figurine and PGN), Coordinate, Descriptive, ICCF, Smith
+ParseNotation(game InputGame, notationString string) (OutputGame, OutputParseResult, error)
 
-// Coming soon
-ConvertNotation(game InputGame, notationString string, toNotation string) (OutputGame, []OutputGameStep, error)
+// Auto-detects the source notation and re-renders every move in the target notation:
+// one of {Algebraic|Figurine|Descriptive|Coordinate|ICCF|Smith}
+ConvertNotation(game InputGame, notationString string, targetNotation string) (OutputGame, OutputParseResult, error)
 ```
 
 ## Server example
