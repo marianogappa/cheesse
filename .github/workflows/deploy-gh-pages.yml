@@ -1,0 +1,45 @@
+name: Deploy gh-pages
+
+on:
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    name: Build WASM + Deploy
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.25"
+      - uses: acifani/setup-tinygo@v2
+        with:
+          tinygo-version: "0.41.1"
+      - name: Build WASM bundle
+        run: tinygo build -o site/cheesse.wasm -target wasm -tags tinygo .
+      - name: Copy TinyGo wasm_exec.js
+        run: cp "$(tinygo env TINYGOROOT)/targets/wasm_exec.js" site/wasm_exec.js
+      - name: Report bundle size
+        run: |
+          ls -la site/cheesse.wasm
+          gzip -c site/cheesse.wasm | wc -c | xargs -I{} echo "gzipped: {} bytes"
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4

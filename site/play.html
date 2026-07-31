@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>cheesse — Play</title>
+  <link rel="stylesheet" href="chessboard.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>cheesse</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="autoplay.html">Autoplay</a>
+    <a href="parser.html">Parser</a>
+    <a href="convert.html">Converter</a>
+    <a href="play.html">Play</a>
+  </nav>
+</header>
+<main>
+  <h2>Play — human vs AI</h2>
+  <div id="loading">Loading WASM…</div>
+  <div id="app" style="display:none">
+    <div class="board-wrap"><div id="board" style="width: 400px"></div></div>
+    <div class="side-panel">
+      <div>
+        <b>Difficulty:</b>
+        <label><input type="radio" name="difficulty" value="easy"> Easy</label>
+        <label><input type="radio" name="difficulty" value="medium" checked> Medium</label>
+        <label><input type="radio" name="difficulty" value="hard"> Hard</label>
+      </div>
+      <div style="margin-top:8px">
+        <b>Play as:</b>
+        <label><input type="radio" name="side" value="white" checked> White</label>
+        <label><input type="radio" name="side" value="black"> Black</label>
+        <button onclick="newGame()" style="margin-left:12px">New Game</button>
+      </div>
+      <div class="status" id="status">Your turn</div>
+      <div id="moveLog" style="margin-top:10px; font-family:monospace; font-size:13px; max-height:300px; overflow-y:auto;"></div>
+    </div>
+  </div>
+</main>
+<script src="jquery.min.js"></script>
+<script src="chessboard.min.js"></script>
+<script src="wasm_exec.js"></script>
+<script src="cheesse.js"></script>
+<script>
+let boardUi, fen, humanSide, gameOver, moveLog = []
+
+const go = new Go()
+WebAssembly.instantiate(fetch('cheesse.wasm').then(r => r.arrayBuffer()), go.importObject)
+  .then(result => { go.run(result.instance); setTimeout(() => { init(); newGame() }, 50) })
+
+function init() {
+  document.getElementById('loading').style.display = 'none'
+  document.getElementById('app').style.display = ''
+}
+
+function difficulty() { return document.querySelector('input[name="difficulty"]:checked').value }
+
+function newGame() {
+  humanSide = document.querySelector('input[name="side"]:checked').value
+  fen = 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1'
+  gameOver = false
+  moveLog = []
+  document.getElementById('moveLog').innerHTML = ''
+  document.getElementById('status').textContent = 'Your turn'
+
+  const orientation = humanSide === 'white' ? 'white' : 'black'
+  boardUi = ChessBoard('board', {
+    draggable: true,
+    position: 'start',
+    orientation: orientation,
+    pieceTheme: 'img/chesspieces/wikipedia/{piece}.png',
+    onDragStart: onDragStart,
+    onDrop: onDrop,
+    onSnapEnd: onSnapEnd
+  })
+
+  if (humanSide === 'black') setTimeout(aiMove, 100)
+}
+
+function sideToMove() {
+  // Use the FEN's side-to-move field, not move parity
+  return fen.split(' ')[1] === 'w' ? 'white' : 'black'
+}
+
+function onDragStart(source, piece) {
+  if (gameOver) return false
+  if (sideToMove() !== humanSide) return false
+  if (humanSide === 'white' && piece.search(/^b/) !== -1) return false
+  if (humanSide === 'black' && piece.search(/^w/) !== -1) return false
+}
+
+function onDrop(source, target) {
+  const result = cheesse_api.doAction(fen, source, target)
+  if (!result.success) return 'snapback'
+
+  fen = result.game.fenString
+  addMove(result.action.actionString)
+
+  if (result.game.isCheckmate) { setStatus('Checkmate — you win!'); gameOver = true; return }
+  if (result.game.isStalemate || result.game.isDraw) { setStatus('Draw!'); gameOver = true; return }
+
+  setStatus('AI thinking…')
+  setTimeout(aiMove, 100)
+}
+
+function onSnapEnd() { boardUi.position(fen) }
+
+function aiMove() {
+  const result = cheesse_api.aiMove(fen, difficulty())
+  if (!result.success) { setStatus('Game over'); gameOver = true; return }
+
+  fen = result.board
+  boardUi.position(fen)
+  addMove(result.action.actionString)
+
+  if (result.isCheckmate) { setStatus('Checkmate — AI wins!'); gameOver = true; return }
+  if (result.isDraw) { setStatus('Draw!'); gameOver = true; return }
+
+  setStatus('Your turn')
+}
+
+function addMove(san) {
+  moveLog.push(san)
+  let html = ''
+  for (let i = 0; i < moveLog.length; i += 2) {
+    html += `${Math.floor(i/2)+1}. ${moveLog[i]}`
+    if (i+1 < moveLog.length) html += ` ${moveLog[i+1]}`
+    html += '<br>'
+  }
+  document.getElementById('moveLog').innerHTML = html
+}
+
+function setStatus(msg) { document.getElementById('status').textContent = msg }
+</script>
+</body>
+</html>

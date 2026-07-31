@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>cheesse — Autoplay</title>
+  <link rel="stylesheet" href="chessboard.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>cheesse</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="autoplay.html">Autoplay</a>
+    <a href="parser.html">Parser</a>
+    <a href="convert.html">Converter</a>
+    <a href="play.html">Play</a>
+  </nav>
+</header>
+<main>
+  <h2>Autoplay — random vs random</h2>
+  <div id="loading">Loading WASM…</div>
+  <div id="app" style="display:none">
+    <div class="board-wrap"><div id="board" style="width: 400px"></div></div>
+    <div class="side-panel">
+      <p class="status" id="status">Playing…</p>
+    </div>
+  </div>
+</main>
+<script src="jquery.min.js"></script>
+<script src="chessboard.min.js"></script>
+<script src="wasm_exec.js"></script>
+<script src="cheesse.js"></script>
+<script>
+const go = new Go()
+WebAssembly.instantiate(fetch('cheesse.wasm').then(r => r.arrayBuffer()), go.importObject)
+  .then(result => { go.run(result.instance); setTimeout(init, 50) })
+
+function init() {
+  document.getElementById('loading').style.display = 'none'
+  document.getElementById('app').style.display = ''
+
+  const initialFEN = 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1'
+  let board = initialFEN
+  const boardUi = ChessBoard('board', { moveSpeed: 'fast', pieceTheme: 'img/chesspieces/wikipedia/{piece}.png' })
+  boardUi.start()
+
+  function update() {
+    const result = cheesse_api.aiMove(board, 'random')
+    if (!result.success || result.isCheckmate || result.isDraw || result.isGameOver) {
+      document.getElementById('status').textContent = result.isCheckmate ? 'Checkmate!' : result.isDraw ? 'Draw!' : 'Game over — restarting…'
+      board = initialFEN
+      boardUi.start()
+      setTimeout(update, 1500)
+      return
+    }
+    board = result.board
+    boardUi.position(board)
+    document.getElementById('status').textContent = 'Playing…'
+    setTimeout(update, 400)
+  }
+  update()
+}
+</script>
+</body>
+</html>

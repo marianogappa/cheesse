@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>cheesse — Parser</title>
+  <link rel="stylesheet" href="chessboard.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>cheesse</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="autoplay.html">Autoplay</a>
+    <a href="parser.html">Parser</a>
+    <a href="convert.html">Converter</a>
+    <a href="play.html">Play</a>
+  </nav>
+</header>
+<main>
+  <h2>Parser — paste a game in any notation</h2>
+  <div id="loading">Loading WASM…</div>
+  <div id="app" style="display:none">
+    <div class="board-wrap"><div id="board" style="width: 400px"></div></div>
+    <div class="side-panel">
+      <div class="preset-btns">
+        <b>Presets:</b>
+        <button onclick="setPreset('pgn')">PGN</button>
+        <button onclick="setPreset('algebraic')">Algebraic</button>
+        <button onclick="setPreset('coordinate')">Coordinate</button>
+        <button onclick="setPreset('descriptive')">Descriptive</button>
+        <button onclick="setPreset('iccf')">ICCF</button>
+        <button onclick="setPreset('smith')">Smith</button>
+      </div>
+      <textarea id="input"></textarea>
+      <div>
+        <button onclick="refresh()">&nbsp;Parse&nbsp;</button>
+        <button id="prevBtn" onclick="prev()">&lt;</button>
+        <button id="nextBtn" onclick="next()">&gt;</button>
+      </div>
+      <div class="notation-info" id="notationInfo"></div>
+      <div class="actions" id="actions"></div>
+    </div>
+  </div>
+</main>
+<script src="jquery.min.js"></script>
+<script src="chessboard.min.js"></script>
+<script src="wasm_exec.js"></script>
+<script src="cheesse.js"></script>
+<script>
+const presets = {
+  pgn: '[Event "Ostinato Testing"]\n[Site "Buenos Aires, Argentina"]\n[Date "2015.??.??"]\n[Round "1"]\n[Result "½–½"]\n[White "Fake Player 1"]\n[Black "Fake Player 2"]\n\n1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bb5+ Bd7 5. Bxd7+ Qxd7 6. Nge2\ndxe4 7. 0-0',
+  algebraic: '1. e4 e6\n2. d4 d5\n3. Nc3 Bb4\n4. Bb5+ Bd7\n5. Bxd7+ Qxd7\n6. Ne2 dxe4\n7. 0-0',
+  coordinate: '1. e2-e4 e7-e6\n2. d2-d4 d7-d5\n3. b1-c3 f8-b4\n4. f1-b5+ c8-d7\n5. b5xd7+ d8xd7\n6. g1-e2 d5xe4\n7. 0-0',
+  descriptive: '1. P-K4 P-K3\n2. P-Q4 P-Q4\n3. N-QB3 B-N5\n4. B-N5ch B-Q2\n5. BxBch QxB\n6. KN-K2 PxP\n7. 0-0',
+  iccf: '1. 5254 5756\n2. 4244 4745\n3. 2133 6824\n4. 6125 3847\n5. 2547 4847\n6. 7152 4554\n7. 5171',
+  smith: '1. e2e4  e7e6\n2. d2d4  d7d5\n3. b1c3  f8b4\n4. f1b5  c8d7\n5. b5d7b d8d7b\n6. g1e2  d5e4p\n7. e1g1c'
+}
+
+let boardUi, positions = [], currentPos = -1, defaultFEN = 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1'
+
+const go = new Go()
+WebAssembly.instantiate(fetch('cheesse.wasm').then(r => r.arrayBuffer()), go.importObject)
+  .then(result => { go.run(result.instance); setTimeout(init, 50) })
+
+function init() {
+  document.getElementById('loading').style.display = 'none'
+  document.getElementById('app').style.display = ''
+  boardUi = ChessBoard('board', { pieceTheme: 'img/chesspieces/wikipedia/{piece}.png' })
+  boardUi.start()
+  setPreset('pgn')
+}
+
+function setPreset(name) { document.getElementById('input').value = presets[name]; refresh() }
+
+function currentBoard() { return currentPos < 0 ? defaultFEN : positions[currentPos] }
+
+function next() { if (currentPos < positions.length - 1) { currentPos++; boardUi.position(currentBoard()); highlightCurrent() } }
+function prev() { if (currentPos > -1) { currentPos--; boardUi.position(currentBoard()); highlightCurrent() } }
+function goTo(i) { currentPos = i; boardUi.position(currentBoard()); highlightCurrent() }
+
+function highlightCurrent() {
+  document.querySelectorAll('.actions a').forEach(el => el.classList.remove('current'))
+  const cur = document.querySelector(`.pos-${currentPos}`)
+  if (cur) cur.classList.add('current')
+}
+
+function refresh() {
+  const parsed = cheesse_api.parseNotation(document.getElementById('input').value)
+  currentPos = -1
+  boardUi.position(currentBoard())
+  positions = parsed.boards || []
+
+  let html = '', fullMove = 1, half = 0
+  for (let i = 0; i < (parsed.actions || []).length; i++) {
+    if (half === 0) html += `<span>${fullMove}. </span>`
+    const valid = i < parsed.validActionCount
+    html += valid
+      ? `<a class="pos-${i}" href="javascript:goTo(${i})">${parsed.actions[i]}</a> `
+      : `<span class="invalid">${parsed.actions[i]}</span> `
+    half++
+    if (half === 2) { half = 0; fullMove++; html += '<br>' }
+  }
+  document.getElementById('actions').innerHTML = html
+
+  const info = document.getElementById('notationInfo')
+  if (parsed.parseWasSuccessful)
+    info.innerHTML = `<b>Parsed as:</b> ${parsed.notationName}`
+  else if (parsed.notationName)
+    info.innerHTML = `<b>Most likely:</b> ${parsed.notationName}`
+  else
+    info.innerHTML = 'Could not detect notation'
+}
+</script>
+</body>
+</html>

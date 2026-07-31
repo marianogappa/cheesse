@@ -1,0 +1,21 @@
+body { font-family: system-ui, sans-serif; font-size: 14px; margin: 0; padding: 0; background: #f8f8f8; }
+header { background: #2c3e50; color: white; padding: 12px 20px; }
+header h1 { margin: 0; font-size: 20px; font-weight: 400; display: inline; }
+header nav { float: right; }
+header nav a { color: #ecf0f1; text-decoration: none; margin-left: 18px; font-size: 14px; }
+header nav a:hover { text-decoration: underline; }
+main { max-width: 900px; margin: 20px auto; padding: 0 20px; }
+.board-wrap { display: inline-block; vertical-align: top; }
+.side-panel { display: inline-block; vertical-align: top; margin-left: 20px; max-width: 380px; }
+textarea { width: 100%; height: 180px; font-family: monospace; font-size: 13px; }
+select, button, input[type=radio] { margin: 4px 2px; }
+button { padding: 4px 12px; cursor: pointer; }
+.actions { margin-top: 10px; line-height: 1.8; }
+.actions a { color: blue; text-decoration: none; cursor: pointer; }
+.actions a:hover { text-decoration: underline; }
+.actions .invalid { color: red; font-style: italic; }
+.actions .current { font-weight: bold; color: midnightblue; }
+.notation-info { margin-top: 12px; color: green; font-weight: 500; }
+.status { margin-top: 10px; font-size: 15px; }
+.preset-btns button { font-size: 11px; }
+#loading { text-align: center; padding: 60px; font-size: 18px; color: #888; }
