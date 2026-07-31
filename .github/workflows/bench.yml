@@ -25,43 +25,27 @@ jobs:
         run: |
           go test -run='^$' -bench=Benchmark -benchmem -benchtime=2s -count=1 ./core/ ./ai/ ./api/ 2>&1 | tee bench-results.txt
 
-      - name: Build results summary
-        id: summary
+      - name: Format results
         run: |
-          {
-            echo "BENCH_TABLE<<EOF"
-            echo "| Benchmark | Time | Allocs | Bytes |"
-            echo "|---|---|---|---|"
-            grep '^Benchmark' bench-results.txt | while read -r name iters time unit alloc aunit bytes bunit; do
-              short="${name%-*}"
-              echo "| ${short} | ${time} ${unit} | ${alloc} | ${bytes} |"
-            done
-            echo "EOF"
-          } >> "$GITHUB_OUTPUT"
+          python3 scripts/format-bench.py < bench-results.txt > bench-table.md
+          cat bench-table.md
 
       - name: Update README with benchmark results (master only)
         if: github.event_name == 'push'
         continue-on-error: true
         run: |
-          TABLE=$(grep '^Benchmark' bench-results.txt | while read -r name iters time unit alloc aunit bytes bunit; do
-            short="${name%-*}"
-            echo "| ${short} | ${time} ${unit} | ${alloc} | ${bytes} |"
-          done)
+          TABLE=$(cat bench-table.md)
 
-          # Build the replacement block
           BLOCK="<!-- bench-start -->
           <details>
           <summary>Benchmark results (auto-updated on every push)</summary>
 
-          | Benchmark | Time | Allocs | Bytes |
-          |---|---|---|---|
           ${TABLE}
 
-          *Run: $(date -u '+%Y-%m-%d %H:%M UTC') on GitHub Actions (ubuntu-latest, 2-core)*
+          *Run: $(date -u '+%Y-%m-%d %H:%M UTC') on GitHub Actions (ubuntu-latest)*
           </details>
           <!-- bench-end -->"
 
-          # Replace the block in README.md
           if grep -q 'bench-start' README.md; then
             python3 -c "
           import re, sys
@@ -91,16 +75,9 @@ jobs:
         with:
           script: |
             const fs = require('fs');
-            const raw = fs.readFileSync('bench-results.txt', 'utf8');
-            const lines = raw.split('\n').filter(l => l.startsWith('Benchmark'));
-            let table = '| Benchmark | Time | Allocs | Bytes |\n|---|---|---|---|\n';
-            for (const line of lines) {
-              const parts = line.trim().split(/\s+/);
-              const name = parts[0].replace(/-\d+$/, '');
-              table += `| ${name} | ${parts[2]} ${parts[3]} | ${parts[4]} | ${parts[6]} |\n`;
-            }
+            const table = fs.readFileSync('bench-table.md', 'utf8');
             const marker = '<!-- cheesse-bench -->';
-            const body = `${marker}\n### Benchmark results\n\n${table}\n*${new Date().toISOString()}*`;
+            const body = `${marker}\n### Benchmark results\n\n${table}\n\n*${new Date().toISOString()}*`;
             const { owner, repo } = context.repo;
             const issue_number = context.payload.pull_request.number;
             const { data: comments } = await github.rest.issues.listComments({ owner, repo, issue_number });
