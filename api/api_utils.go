@@ -5,6 +5,8 @@ import (
 	"strings"
 
 	"github.com/marianogappa/cheesse/core"
+	"github.com/marianogappa/cheesse/parser"
+	"github.com/marianogappa/cheesse/parser/pgn"
 )
 
 func (a API) parseGame(g InputGame) (core.Game, error) {
@@ -47,7 +49,24 @@ func (a API) parseAction(ia InputAction, g core.Game) (core.Action, error) {
 		return core.Action{}, errInvalidActionForGivenGame
 	}
 
-	// TODO eventually accept other forms of action input
+	// An action supplied as a move string in any notation: auto-detect and parse
+	// it as a one-move match. Some parsers (e.g. ICCF) require a move-number
+	// prefix, so retry with one if the bare string doesn't parse.
+	if ia.ActionString != "" {
+		// An ambiguous SAN string (e.g. "Nd2" with two knights reaching d2) must be
+		// rejected rather than silently resolved to an arbitrary action.
+		if matches, err := parser.NewGenericNotationParser(pgn.NewVariantPGN()).MatchHalfMove(ia.ActionString, g); err == nil && len(matches) > 1 {
+			return core.Action{}, errAmbiguousActionString
+		}
+		for _, s := range []string{ia.ActionString, "1. " + ia.ActionString} {
+			gameSteps, result := parseNotationAutoDetect(g, s)
+			if result.ParseWasSuccessful && len(gameSteps) == 1 {
+				return gameSteps[0].StepAction, nil
+			}
+		}
+		return core.Action{}, errInvalidActionForGivenGame
+	}
+
 	fromXY, err := a.algebraicToXY(strings.ToLower(ia.FromSquare))
 	if err != nil {
 		return core.Action{}, err
