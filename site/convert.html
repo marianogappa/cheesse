@@ -23,6 +23,27 @@
     <div class="page-layout">
       <div class="board-col">
         <div id="board" class="responsive-board"></div>
+        <details class="custom-position">
+          <summary>Custom starting position</summary>
+          <div style="margin-top:6px">
+            <div id="editorBoard" style="width:200px"></div>
+            <div style="margin-top:4px">
+              <button onclick="editorStart()">Starting position</button>
+              <button onclick="editorClear()">Empty board</button>
+            </div>
+            <div style="margin-top:6px">
+              <label style="font-size:12px;color:#555">Side to move</label>
+              <select id="sideToMove" onchange="doRefresh()" style="font-size:12px">
+                <option value="w">White</option>
+                <option value="b">Black</option>
+              </select>
+            </div>
+            <div style="margin-top:6px">
+              <label style="font-size:12px;color:#555">Or paste FEN</label>
+              <input type="text" id="fenInput" placeholder="FEN string" oninput="onFENInput()" style="width:100%;font-family:monospace;font-size:11px;padding:4px;border:1px solid #ccc;border-radius:4px;">
+            </div>
+          </div>
+        </details>
       </div>
       <div class="controls-col">
         <div class="control-group">
@@ -41,13 +62,6 @@
             <option value="Smith">Smith</option>
           </select>
         </div>
-        <details class="custom-position">
-          <summary>Custom starting position</summary>
-          <div class="control-group" style="margin-top:8px">
-            <label for="fenInput">Starting FEN (leave blank for default)</label>
-            <input type="text" id="fenInput" placeholder="rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1" oninput="doRefresh()" style="width:100%;font-family:monospace;font-size:12px;padding:5px;border:1px solid #ccc;border-radius:4px;">
-          </div>
-        </details>
         <div id="notationInfo"></div>
         <div id="parseError"></div>
         <div class="move-nav">
@@ -75,7 +89,7 @@ const presets = {
   figurine: '1. e4 e6\n2. d4 d5\n3. ♘c3 ♝b4\n4. ♗b5+ ♝d7\n5. ♗xd7+ ♛xd7\n6. ♘e2 dxe4\n7. 0-0'
 }
 
-let boardUi, positions = [], currentPos = -1
+let boardUi, editorBoardUi, positions = [], currentPos = -1
 const defaultFEN = 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1'
 
 function getParam(name) {
@@ -94,6 +108,16 @@ function init() {
   boardUi = ChessBoard('board', { pieceTheme: 'img/chesspieces/wikipedia/{piece}.png' })
   boardUi.start()
 
+  editorBoardUi = ChessBoard('editorBoard', {
+    draggable: true,
+    dropOffBoard: 'trash',
+    showNotation: false,
+    sparePieces: true,
+    pieceTheme: 'img/chesspieces/wikipedia/{piece}.png',
+    onChange: function() { doRefresh() }
+  })
+  editorBoardUi.start()
+
   const matchParam = getParam('match')
   if (matchParam) {
     document.getElementById('input').value = matchParam
@@ -106,9 +130,23 @@ function init() {
 function setPreset(name) { document.getElementById('input').value = presets[name]; doRefresh() }
 function currentBoard() { return currentPos < 0 ? getInitialFEN() : positions[currentPos] }
 
+function editorStart() { editorBoardUi.start(); document.getElementById('fenInput').value = ''; doRefresh() }
+function editorClear() { editorBoardUi.clear(); document.getElementById('fenInput').value = ''; doRefresh() }
+
+function onFENInput() {
+  const fen = document.getElementById('fenInput').value.trim()
+  if (fen) {
+    const placement = fen.split(' ')[0]
+    if (placement) editorBoardUi.position(placement, false)
+  }
+  doRefresh()
+}
+
 function getInitialFEN() {
-  const custom = document.getElementById('fenInput').value.trim()
-  return custom || defaultFEN
+  const fenField = document.getElementById('fenInput').value.trim()
+  if (fenField) return fenField
+  const sideToMove = document.getElementById('sideToMove').value
+  return `${editorBoardUi.fen()} ${sideToMove} KQkq - 0 1`
 }
 
 function next() { if (currentPos < positions.length - 1) { currentPos++; boardUi.position(currentBoard()); highlightCurrent() } }

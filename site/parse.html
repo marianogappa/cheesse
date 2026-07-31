@@ -23,6 +23,10 @@
     <div class="page-layout">
       <div class="board-col">
         <div id="board" class="responsive-board"></div>
+        <div class="board-actions">
+          <a class="nav-action" onclick="goToConvert()">Convert notation</a>
+          <a class="nav-action" onclick="goToPlay()">Play from here</a>
+        </div>
       </div>
       <div class="controls-col">
         <div class="control-group">
@@ -35,9 +39,6 @@
         <div class="move-nav">
           <button onclick="prev()" title="Previous move">&lsaquo;</button>
           <button onclick="next()" title="Next move">&rsaquo;</button>
-          <span class="nav-sep"></span>
-          <a class="nav-action" onclick="goToConvert()">Convert this game...</a>
-          <a class="nav-action" onclick="goToPlay()">Play from here</a>
         </div>
         <div class="actions" id="actions"></div>
       </div>
