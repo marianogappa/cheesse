@@ -28,7 +28,7 @@
         <div class="control-group">
           <label for="input">Paste a game in any notation</label>
           <textarea id="input" oninput="doRefresh()"></textarea>
-          <div class="presets">Try: <a onclick="setPreset('algebraic')">Algebraic</a> | <a onclick="setPreset('descriptive')">Descriptive</a> | <a onclick="setPreset('pgn')">PGN</a> | <a onclick="setPreset('coordinate')">Coordinate</a> | <a onclick="setPreset('iccf')">ICCF</a> | <a onclick="setPreset('smith')">Smith</a></div>
+          <div class="presets">Try: <a onclick="setPreset('algebraic')">Algebraic</a> | <a onclick="setPreset('descriptive')">Descriptive</a> | <a onclick="setPreset('pgn')">PGN</a> | <a onclick="setPreset('coordinate')">Coordinate</a> | <a onclick="setPreset('iccf')">ICCF</a> | <a onclick="setPreset('smith')">Smith</a> | <a onclick="setPreset('figurine')">Figurine</a></div>
         </div>
         <div class="inline-controls">
           <label for="targetNotation">Convert to</label>
@@ -69,7 +69,8 @@ const presets = {
   coordinate: '1. e2-e4 e7-e6\n2. d2-d4 d7-d5\n3. b1-c3 f8-b4\n4. f1-b5+ c8-d7\n5. b5xd7+ d8xd7\n6. g1-e2 d5xe4\n7. 0-0',
   descriptive: '1. P-K4 P-K3\n2. P-Q4 P-Q4\n3. N-QB3 B-N5\n4. B-N5ch B-Q2\n5. BxBch QxB\n6. KN-K2 PxP\n7. 0-0',
   iccf: '1. 5254 5756\n2. 4244 4745\n3. 2133 6824\n4. 6125 3847\n5. 2547 4847\n6. 7152 4554\n7. 5171',
-  smith: '1. e2e4  e7e6\n2. d2d4  d7d5\n3. b1c3  f8b4\n4. f1b5  c8d7\n5. b5d7b d8d7b\n6. g1e2  d5e4p\n7. e1g1c'
+  smith: '1. e2e4  e7e6\n2. d2d4  d7d5\n3. b1c3  f8b4\n4. f1b5  c8d7\n5. b5d7b d8d7b\n6. g1e2  d5e4p\n7. e1g1c',
+  figurine: '1. e4 e6\n2. d4 d5\n3. ♘c3 ♝b4\n4. ♗b5+ ♝d7\n5. ♗xd7+ ♛xd7\n6. ♘e2 dxe4\n7. 0-0'
 }
 
 let boardUi, positions = [], currentPos = -1
