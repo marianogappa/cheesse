@@ -9,7 +9,7 @@ package core
 // - The action does not uncover an opponent's check, checkmate, etc.
 // - The destination xy doesn't put fromPiece on top of a friendly piece, or does not jump another piece when invalid.
 func (g Game) updateBoardLayout(a Action) Game {
-	clonedGame := g.Clone()
+	clonedGame := g.shallowCloneForMove(a.FromPiece.Owner)
 	opponent := opponent(a.FromPiece.Owner)
 
 	// Special case for resignation action, because it doesn't require board changes
@@ -70,8 +70,7 @@ func (g Game) calculateAllActions() []Action {
 	if g.IsGameOver {
 		return []Action{}
 	}
-	actions := []Action{}
-	// TODO these can be checked in parallel
+	actions := make([]Action, 0, 64)
 	for _, piece := range g.Pieces[g.Turn()] {
 		actions = append(actions, piece.calculateAllActions(g)...)
 	}
@@ -91,17 +90,16 @@ func (p Piece) calculateAllActions(g Game) []Action {
 		return []Action{}
 	}
 
-	// Naive deltas (special case for Pawn)
+	// Piece deltas (pawn deltas are pre-allocated package-level vars)
 	deltas := movementDeltasByPieceType[p.PieceType]
 	switch {
 	case p.PieceType == PiecePawn && p.Owner == ColorBlack:
-		deltas = []XY{{0, 1}, {0, 2}, {-1, 1}, {1, 1}} // Includes en passant and captures
+		deltas = blackPawnDeltas
 	case p.PieceType == PiecePawn && p.Owner == ColorWhite:
-		deltas = []XY{{0, -1}, {0, -2}, {-1, -1}, {1, -1}} // Includes en passant and captures
+		deltas = whitePawnDeltas
 	}
 
-	// TODO These can be checked in parallel
-	actions := []Action{}
+	actions := make([]Action, 0, 8)
 	for _, delta := range deltas {
 		toXY := p.XY.add(delta)
 
@@ -255,8 +253,8 @@ func (p Piece) buildAction(toXY XY, g Game, promotionPieceType PieceType) (Actio
 
 	newGame := g.updateBoardLayout(a)
 
-	// check if moving puts the owner's King in check
-	if len(newGame.Kings[p.Owner].threatenedBy(newGame)) > 0 { // N.B. this is an expensive operation!
+	// check if moving puts the owner's King in check (early-exit: only need to know if ANY threat exists)
+	if len(newGame.xyThreatenedBy(newGame.Kings[p.Owner].XY, p.Owner, false)) > 0 {
 		return Action{}, errActionLeavesKingThreatened
 	}
 
@@ -467,14 +465,12 @@ func (g Game) xyThreatenedBy(sq XY, owner color, checkAllThreats bool) []Piece {
 			if _, ok := g.Pieces[owner][sq]; ok {
 				break
 			}
-			// There's an opponent piece in this delta but it's not Rook/Queen; it will block further pieces
-			if p, ok := g.Pieces[opponent][sq]; ok && p.PieceType != PieceQueen && p.PieceType != PieceRook {
-				break
-			}
-			if p, ok := g.Pieces[opponent][sq]; ok && p.PieceType == PieceQueen || p.PieceType == PieceRook {
-				pieces = append(pieces, p)
-				if !checkAllThreats {
-					return pieces
+			if p, ok := g.Pieces[opponent][sq]; ok {
+				if p.PieceType == PieceQueen || p.PieceType == PieceRook {
+					pieces = append(pieces, p)
+					if !checkAllThreats {
+						return pieces
+					}
 				}
 				break
 			}
@@ -484,18 +480,15 @@ func (g Game) xyThreatenedBy(sq XY, owner color, checkAllThreats bool) []Piece {
 	// Diagonal (Bishop & Queen)
 	for _, delta := range movementDeltasByPieceType[PieceBishop] {
 		for sq := sq.add(delta); isInBounds(sq); sq = sq.add(delta) {
-			// There's a friendly piece in this delta; it will block further pieces
 			if _, ok := g.Pieces[owner][sq]; ok {
 				break
 			}
-			// There's an opponent piece in this delta but it's not Bishop/Queen; it will block further pieces
-			if p, ok := g.Pieces[opponent][sq]; ok && p.PieceType != PieceQueen && p.PieceType != PieceBishop {
-				break
-			}
-			if p, ok := g.Pieces[opponent][sq]; ok && p.PieceType == PieceQueen || p.PieceType == PieceBishop {
-				pieces = append(pieces, p)
-				if !checkAllThreats {
-					return pieces
+			if p, ok := g.Pieces[opponent][sq]; ok {
+				if p.PieceType == PieceQueen || p.PieceType == PieceBishop {
+					pieces = append(pieces, p)
+					if !checkAllThreats {
+						return pieces
+					}
 				}
 				break
 			}
