@@ -50,7 +50,7 @@ func BasicAIAction(g core.Game, depth int) (core.Action, core.Game, bool) {
 func nonResignActions(g core.Game) []core.Action {
 	out := make([]core.Action, 0, len(g.Actions))
 	for _, a := range g.Actions {
-		if !a.IsResign {
+		if !a.IsResign && !a.IsDraw {
 			out = append(out, a)
 		}
 	}

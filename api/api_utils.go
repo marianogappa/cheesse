@@ -37,6 +37,16 @@ func (a API) parseGame(g InputGame) (core.Game, error) {
 }
 
 func (a API) parseAction(ia InputAction, g core.Game) (core.Action, error) {
+	// Terminal actions don't carry squares; match them directly.
+	if ia.IsResign || ia.IsDraw {
+		for _, action := range g.Actions {
+			if action.IsResign == ia.IsResign && action.IsDraw == ia.IsDraw {
+				return action, nil
+			}
+		}
+		return core.Action{}, errInvalidActionForGivenGame
+	}
+
 	// TODO eventually accept other forms of action input
 	fromXY, err := a.algebraicToXY(strings.ToLower(ia.FromSquare))
 	if err != nil {
@@ -56,6 +66,9 @@ func (a API) parseAction(ia InputAction, g core.Game) (core.Action, error) {
 	}
 
 	for _, action := range g.Actions {
+		if action.IsResign || action.IsDraw {
+			continue // Terminal actions carry no squares; matched above.
+		}
 		if action.FromPiece.XY != fromXY || action.ToXY != toXY || (action.IsPromotion && action.PromotionPieceType != promotionPieceType) {
 			continue
 		}

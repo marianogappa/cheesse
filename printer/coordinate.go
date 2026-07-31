@@ -17,7 +17,7 @@ func (p CoordinatePrinter) PrintAction(gameStep core.GameStep, gameCharacteristi
 	if gameStep.StepAction.IsCastle {
 		return algCastle(gameStep, gameCharacteristics) + coordCheck(gameStep, gameCharacteristics), nil
 	}
-	if gameStep.StepAction.IsResign {
+	if gameStep.StepAction.IsResign || gameStep.StepAction.IsDraw {
 		return algResign(gameStep, gameCharacteristics), nil
 	}
 	delimiter := "-"

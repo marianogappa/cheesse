@@ -199,6 +199,56 @@ func TestThreefoldRepetition(t *testing.T) {
 	})
 }
 
+func TestDrawAction(t *testing.T) {
+	t.Run("draw action is always available", func(t *testing.T) {
+		g := NewDefaultGame()
+		var drawAction Action
+		for _, a := range g.Actions {
+			if a.IsDraw {
+				drawAction = a
+			}
+		}
+		require.True(t, drawAction.IsDraw, "draw action should be among the available actions")
+		assert.Equal(t, color(ColorWhite), drawAction.FromPiece.Owner)
+	})
+
+	t.Run("doing the draw action ends the game in a draw", func(t *testing.T) {
+		g := NewDefaultGame()
+		var drawAction Action
+		for _, a := range g.Actions {
+			if a.IsDraw {
+				drawAction = a
+			}
+		}
+		newGame := g.DoAction(drawAction)
+		assert.True(t, newGame.IsDraw)
+		assert.True(t, newGame.IsGameOver)
+		assert.Equal(t, color(-1), newGame.GameOverWinner)
+		assert.False(t, newGame.IsCheckmate)
+		assert.False(t, newGame.IsStalemate)
+	})
+
+	t.Run("no actions after a draw", func(t *testing.T) {
+		g := NewDefaultGame()
+		var drawAction Action
+		for _, a := range g.Actions {
+			if a.IsDraw {
+				drawAction = a
+			}
+		}
+		newGame := g.DoAction(drawAction)
+		assert.Empty(t, newGame.calculateAllActions())
+	})
+
+	t.Run("checkmate detection is unaffected by the draw action's availability", func(t *testing.T) {
+		// Fool's mate
+		g := NewDefaultGame()
+		g = doMoves(t, g, "f2", "f3", "e7", "e5", "g2", "g4", "d8", "h4")
+		assert.True(t, g.IsCheckmate)
+		assert.True(t, g.IsGameOver)
+	})
+}
+
 func TestStalemateIsNotAffectedByDrawRules(t *testing.T) {
 	// Classic stalemate: black king on a8, white queen on b6, white king on c6; black to move.
 	g, err := NewGameFromFEN("k7/8/1QK5/8/8/8/8/8 b - - 0 1")

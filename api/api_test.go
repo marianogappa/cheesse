@@ -458,3 +458,33 @@ func TestDoAction(t *testing.T) {
 		})
 	}
 }
+
+func TestDoActionDraw(t *testing.T) {
+	outputGame, outputAction, err := New().DoAction(InputGame{}, InputAction{IsDraw: true})
+	require.NoError(t, err)
+	assert.True(t, outputAction.IsDraw)
+	assert.Equal(t, "White", outputAction.FromPieceOwner)
+	assert.True(t, outputGame.IsDraw)
+	assert.True(t, outputGame.IsGameOver)
+	assert.Equal(t, "Unknown", outputGame.GameOverWinner)
+}
+
+func TestDoActionResign(t *testing.T) {
+	outputGame, outputAction, err := New().DoAction(InputGame{}, InputAction{IsResign: true})
+	require.NoError(t, err)
+	assert.True(t, outputAction.IsResign)
+	assert.True(t, outputGame.IsGameOver)
+	assert.Equal(t, "Black", outputGame.GameOverWinner)
+}
+
+func TestDrawActionIsAvailable(t *testing.T) {
+	outputGame, err := New().ParseGame(InputGame{})
+	require.NoError(t, err)
+	hasDraw := false
+	for _, a := range outputGame.Actions {
+		if a.IsDraw {
+			hasDraw = true
+		}
+	}
+	assert.True(t, hasDraw, "draw action should be among the available actions")
+}

@@ -9,7 +9,7 @@ func Perft(g Game, depth int) int {
 	}
 	nodes := 0
 	for _, a := range g.Actions {
-		if a.IsResign {
+		if a.IsResign || a.IsDraw {
 			continue
 		}
 		nodes += Perft(g.DoAction(a), depth-1)

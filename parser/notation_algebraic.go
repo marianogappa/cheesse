@@ -292,9 +292,13 @@ const rxEndOfGame = `(1[–-]0|0[–-]1|½[–-]½|1/2[–-]1/2|White resigns|Bl
 // processEndOfGameToken interprets an end-of-game token (see rxEndOfGame).
 func processEndOfGameToken(ms []string, g core.Game) []tokenMatch {
 	normalized := strings.ReplaceAll(ms[1], "–", "-")
+	isDrawMarker := false
 	var usesEndGameSymbol string
 	switch normalized {
-	case "1-0", "0-1", "½-½", "1/2-1/2":
+	case "½-½", "1/2-1/2":
+		usesEndGameSymbol = "numbers"
+		isDrawMarker = true
+	case "1-0", "0-1":
 		usesEndGameSymbol = "numbers"
 	case "resigns":
 		usesEndGameSymbol = "resigns"
@@ -303,10 +307,10 @@ func processEndOfGameToken(ms []string, g core.Game) []tokenMatch {
 	case "White resigns", "Black resigns":
 		usesEndGameSymbol = "color resigns"
 	}
-	// The engine's only terminal action is resignation, so every end-of-game
-	// marker matches the resign action.
+	// Draw markers match the draw action; decisive markers match the resign action.
 	ap := actionPattern{
-		isResign:           pBool(true),
+		isResign:           pBool(!isDrawMarker),
+		isDraw:             pBool(isDrawMarker),
 		isPromotion:        pBool(false),
 		isCastle:           pBool(false),
 		isCapture:          pBool(false),
