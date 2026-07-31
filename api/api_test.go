@@ -90,6 +90,7 @@ func TestAPIDefaultGame(t *testing.T) {
 	}
 	actual := New().DefaultGame()
 	actual.Actions = []OutputAction{} // Not testing every single action on this test
+	actual.PositionHistory = nil      // Opaque hashes; covered by core draw tests
 	assert.Equal(t, expected, actual)
 }
 

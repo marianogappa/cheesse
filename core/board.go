@@ -154,6 +154,7 @@ func NewGameFromBoard(b Board) (Game, error) {
 		return Game{}, errBoardSideNotToMoveInCheck
 	}
 
+	g.positionHistory = []uint64{g.positionHash()}
 	return g.calculateCriticalFlags(), nil
 }
 

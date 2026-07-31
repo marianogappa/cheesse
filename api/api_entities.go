@@ -1,6 +1,8 @@
 package api
 
 import (
+	"strconv"
+
 	"github.com/marianogappa/cheesse/core"
 )
 
@@ -15,9 +17,14 @@ import (
 // 3. via empty struct: assumes the defaultGame.
 //
 // If you supply both the `fenString` and the `board`, `board` is ignored silently.
+//
+// `positionHistory` is optional: pass the `positionHistory` of a previous OutputGame
+// to enable threefold/fivefold repetition detection across stateless API calls (the
+// entries are opaque position hashes). Without it, repetitions cannot be detected.
 type InputGame struct {
-	FENString string `json:"fenString"`
-	Board     Board  `json:"board"`
+	FENString       string   `json:"fenString"`
+	Board           Board    `json:"board"`
+	PositionHistory []string `json:"positionHistory"`
 }
 
 // InputAction is the input interface to supply a chess action.
@@ -113,9 +120,11 @@ type OutputGame struct {
 	IsCheckmate             bool              `json:"isCheckmate"`
 	IsStalemate             bool              `json:"isStalemate"`
 	IsDraw                  bool              `json:"isDraw"`
+	CanClaimDraw            bool              `json:"canClaimDraw"`
 	IsGameOver              bool              `json:"isGameOver"`
 	GameOverWinner          string            `json:"gameOverWinner"`
 	InCheckBy               []string          `json:"inCheckBy"`
+	PositionHistory         []string          `json:"positionHistory"`
 }
 
 // OutputAction is the output interface that describes a chess action.
@@ -233,9 +242,16 @@ func mapGameToOutputGame(g core.Game) OutputGame {
 	o.IsCheckmate = g.IsCheckmate
 	o.IsStalemate = g.IsStalemate
 	o.IsDraw = g.IsDraw
+	o.CanClaimDraw = g.CanClaimDraw
 	o.IsGameOver = g.IsGameOver
 	o.GameOverWinner = g.GameOverWinner.String()
 	o.InCheckBy = make([]string, len(g.InCheckBy))
+
+	history := g.PositionHistory()
+	o.PositionHistory = make([]string, len(history))
+	for i, h := range history {
+		o.PositionHistory[i] = strconv.FormatUint(h, 16)
+	}
 
 	for i := range g.Actions {
 		o.Actions[i] = mapInternalActionToAction(g.Actions[i])

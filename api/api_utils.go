@@ -1,6 +1,7 @@
 package api
 
 import (
+	"strconv"
 	"strings"
 
 	"github.com/marianogappa/cheesse/core"
@@ -22,6 +23,15 @@ func (a API) parseGame(g InputGame) (core.Game, error) {
 	}
 	if err != nil {
 		return core.Game{}, err
+	}
+	if len(g.PositionHistory) > 0 {
+		history := make([]uint64, len(g.PositionHistory))
+		for i, s := range g.PositionHistory {
+			if history[i], err = strconv.ParseUint(s, 16, 64); err != nil {
+				return core.Game{}, errInvalidPositionHistory
+			}
+		}
+		parsedGame = parsedGame.WithPositionHistory(history)
 	}
 	return parsedGame, nil
 }
