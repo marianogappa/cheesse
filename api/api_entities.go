@@ -29,9 +29,9 @@ type InputGame struct {
 
 // InputAction is the input interface to supply a chess action.
 //
-// - `fromSquare` and `toSquare` are required (unless `isResign` or `isDraw` is set),
-// and must be board cells described in Algebraic Notation (e.g. `e2`). Note that
-// `a1` is where the White Queen's Rook starts.
+// - `fromSquare` and `toSquare` are required (unless `isResign`, `isDraw` or
+// `actionString` is set), and must be board cells described in Algebraic Notation
+// (e.g. `e2`). Note that `a1` is where the White Queen's Rook starts.
 //
 // - `promotionPieceType` is only required if the action is a promotion.
 //
@@ -39,12 +39,17 @@ type InputGame struct {
 //
 // - `isResign` resigns the game for the player to move; `isDraw` proposes a draw,
 // which the engine assumes accepted. When either is set, the other fields are ignored.
+//
+// - `actionString` supplies the action as a single move in any supported notation
+// (e.g. `Nf3`, `♘f3`, `g1f3`, `N-KB3`, `7163`); the notation is auto-detected. When
+// set, `fromSquare`/`toSquare`/`promotionPieceType` are ignored.
 type InputAction struct {
 	FromSquare         string `json:"fromSquare"`
 	ToSquare           string `json:"toSquare"`
 	PromotionPieceType string `json:"promotionPieceType"`
 	IsResign           bool   `json:"isResign"`
 	IsDraw             bool   `json:"isDraw"`
+	ActionString       string `json:"actionString"`
 }
 
 // Board is one of the input interfaces to supply a chess game.
