@@ -14,7 +14,7 @@ header nav a.active { color: white; background: rgba(255,255,255,0.15); font-wei
 /* Layout */
 main { max-width: 960px; margin: 0 auto; padding: 12px; }
 .page-layout { display: flex; gap: 12px; align-items: flex-start; }
-.board-col { flex: 0 0 auto; max-width: 50%; }
+.board-col { flex: 0 0 auto; }
 .controls-col { flex: 1 1 0; min-width: 0; overflow: hidden; }
 main h2 { font-size: 16px; margin: 4px 0 12px; }
 
@@ -68,35 +68,8 @@ footer { margin-top: 40px; padding: 14px 20px; background: #f0f0f0; color: #777;
 footer a { color: #555; }
 footer a:hover { text-decoration: underline; }
 
-/* Responsive board: always 100% of its column, capped at 380px */
-.responsive-board { width: 100%; max-width: 380px; }
-
-@media (max-width: 700px) {
-  .board-col { max-width: 45%; }
-  .page-layout { gap: 8px; }
-  main { padding: 8px; }
-  main h2 { font-size: 14px; margin: 2px 0 8px; }
-  textarea { height: 110px; font-size: 12px; }
-  .controls-col { font-size: 12px; }
-  .presets { font-size: 11px; }
-  .inline-controls { font-size: 12px; }
-  .game-settings { padding: 10px 12px; }
-  .setting-label { min-width: 55px; font-size: 12px; }
-  header nav a { font-size: 12px; padding: 5px 8px; }
-}
-
-@media (max-width: 500px) {
-  .board-col { max-width: 40%; }
-  header .logo h1 { font-size: 15px; }
-  header .logo img { width: 24px; height: 24px; }
-  .actions { font-size: 11px; }
-  .actions .col-num { font-size: 10px; width: 22px; }
-  .actions .col-w, .actions .col-b { min-width: 36px; padding: 1px 2px; }
-  .move-nav button { padding: 2px 7px; font-size: 14px; }
-  select { font-size: 12px; padding: 3px 5px; }
-  textarea { height: 90px; }
-  header nav a { padding: 3px 5px; font-size: 11px; }
-}
+/* Fixed board size, no responsive breakpoints */
+.responsive-board { width: 380px; }
 
 /* Radio groups */
 .radio-group { display: flex; gap: 12px; align-items: center; }
