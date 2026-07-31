@@ -3,6 +3,7 @@ package core
 import (
 	"errors"
 	"fmt"
+	"math/bits"
 	"strings"
 )
 
@@ -48,8 +49,7 @@ func NewGameFromBoard(b Board) (Game, error) {
 		FullMoveNumber:          b.FullMoveNumber,
 		HalfMoveClock:           b.HalfMoveClock,
 		MoveNumber:              (b.FullMoveNumber - 1) * 2,
-		Pieces:                  []map[XY]Piece{{}, {}},
-		Kings:                   []Piece{{}, {}},
+		kingSq:                  [2]int8{-1, -1},
 	}
 
 	// Move number
@@ -81,21 +81,15 @@ func NewGameFromBoard(b Board) (Game, error) {
 		for _, p := range b.Board[y] {
 			switch p {
 			case '♛', '♚', '♜', '♝', '♞', '♟':
-				g.Pieces[ColorBlack][XY{lenX, lenY}] = Piece{PieceType: pieceTypeMap[p], Owner: ColorBlack, XY: XY{lenX, lenY}}
-				if p == '♚' && g.Kings[ColorBlack].PieceType != PieceNone {
+				if p == '♚' && g.kingSq[ColorBlack] >= 0 {
 					return Game{}, errBoardDuplicateKing
 				}
-				if p == '♚' {
-					g.Kings[ColorBlack] = Piece{PieceType: pieceTypeMap[p], Owner: ColorBlack, XY: XY{lenX, lenY}}
-				}
+				g.setSq(ColorBlack, pieceTypeMap[p], sqOf(XY{lenX, lenY}))
 			case '♕', '♔', '♖', '♗', '♘', '♙':
-				g.Pieces[ColorWhite][XY{lenX, lenY}] = Piece{PieceType: pieceTypeMap[p], Owner: ColorWhite, XY: XY{lenX, lenY}}
-				if p == '♔' && g.Kings[ColorWhite].PieceType != PieceNone {
+				if p == '♔' && g.kingSq[ColorWhite] >= 0 {
 					return Game{}, errBoardDuplicateKing
 				}
-				if p == '♔' {
-					g.Kings[ColorWhite] = Piece{PieceType: pieceTypeMap[p], Owner: ColorWhite, XY: XY{lenX, lenY}}
-				}
+				g.setSq(ColorWhite, pieceTypeMap[p], sqOf(XY{lenX, lenY}))
 			default:
 			}
 			if (p == '♟' || p == '♙') && (lenY == 0 || lenY == 7) {
@@ -111,13 +105,13 @@ func NewGameFromBoard(b Board) (Game, error) {
 	if lenY != 8 {
 		return Game{}, errBoardDimensionsWrong
 	}
-	if g.Kings[ColorBlack].PieceType == PieceNone || g.Kings[ColorWhite].PieceType == PieceNone {
+	if g.kingSq[ColorBlack] < 0 || g.kingSq[ColorWhite] < 0 {
 		return Game{}, errBoardKingMissing
 	}
-	if len(g.Pieces[ColorBlack]) > 16 {
+	if bits.OnesCount64(g.occ[ColorBlack]) > 16 {
 		return Game{}, errBoardBlackHasMoreThan16Pieces
 	}
-	if len(g.Pieces[ColorWhite]) > 16 {
+	if bits.OnesCount64(g.occ[ColorWhite]) > 16 {
 		return Game{}, errBoardWhiteHasMoreThan16Pieces
 	}
 
@@ -125,7 +119,7 @@ func NewGameFromBoard(b Board) (Game, error) {
 	// silently narrowed rather than rejected (a board editor's "all rights" with a
 	// moved king just means no castling).
 	g.CanWhiteKingsideCastle, g.CanWhiteQueensideCastle, g.CanBlackKingsideCastle, g.CanBlackQueensideCastle = narrowCastlingRights(
-		g.Pieces, g.Kings,
+		g,
 		g.CanWhiteKingsideCastle, g.CanWhiteQueensideCastle, g.CanBlackKingsideCastle, g.CanBlackQueensideCastle,
 	)
 	g.CanWhiteCastle = g.CanWhiteKingsideCastle || g.CanWhiteQueensideCastle
@@ -144,11 +138,11 @@ func NewGameFromBoard(b Board) (Game, error) {
 		g.EnPassantTargetSquare = XY{X: int(b.EnPassantTargetSquare[0] - 'a'), Y: int('8' - b.EnPassantTargetSquare[1])}
 	}
 	// En passant auto-correction: an impossible e.p. target is silently dropped.
-	if g.IsLastMoveEnPassant && g.Turn() == ColorBlack && g.Pieces[ColorWhite][g.EnPassantTargetSquare.add(XY{0, -1})].PieceType != PiecePawn {
+	if g.IsLastMoveEnPassant && g.Turn() == ColorBlack && !g.hasPieceAt(ColorWhite, PiecePawn, g.EnPassantTargetSquare.add(XY{0, -1})) {
 		g.IsLastMoveEnPassant = false
 		g.EnPassantTargetSquare = XY{}
 	}
-	if g.IsLastMoveEnPassant && g.Turn() == ColorWhite && g.Pieces[ColorBlack][g.EnPassantTargetSquare.add(XY{0, 1})].PieceType != PiecePawn {
+	if g.IsLastMoveEnPassant && g.Turn() == ColorWhite && !g.hasPieceAt(ColorBlack, PiecePawn, g.EnPassantTargetSquare.add(XY{0, 1})) {
 		g.IsLastMoveEnPassant = false
 		g.EnPassantTargetSquare = XY{}
 	}
@@ -156,7 +150,7 @@ func NewGameFromBoard(b Board) (Game, error) {
 	// The side not to move must not be in check: such a position is unreachable
 	// and move generation semantics break down.
 	sideNotToMove := opponent(g.Turn())
-	if len(g.xyThreatenedBy(g.Kings[sideNotToMove].XY, sideNotToMove, false)) > 0 {
+	if g.attackersOf(int(g.kingSq[sideNotToMove]), sideNotToMove) != 0 {
 		return Game{}, errBoardSideNotToMoveInCheck
 	}
 
@@ -186,14 +180,9 @@ func (g Game) ToBoard() Board {
 	for y := 0; y < 8; y++ {
 		var sb strings.Builder
 		for x := 0; x < 8; x++ {
-			bp, bpExists := g.Pieces[ColorBlack][XY{x, y}]
-			wp, wpExists := g.Pieces[ColorWhite][XY{x, y}]
-			switch {
-			case bpExists:
-				sb.WriteRune(pieceTypeMap[ColorBlack][bp.PieceType])
-			case wpExists:
-				sb.WriteRune(pieceTypeMap[ColorWhite][wp.PieceType])
-			default:
+			if p := g.PieceAt(XY{x, y}); p.PieceType != PieceNone {
+				sb.WriteRune(pieceTypeMap[p.Owner][p.PieceType])
+			} else {
 				sb.WriteByte(' ')
 			}
 		}

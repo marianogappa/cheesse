@@ -86,7 +86,7 @@ func TestBishopActions(t *testing.T) {
 		t.Run(tc.name, func(t *testing.T) {
 			g, err := NewGameFromBoard(tc.board)
 			require.NoError(t, err)
-			assert.ElementsMatch(t, tc.actions, g.Pieces[tc.color][tc.xy].calculateAllActions(g))
+			assert.ElementsMatch(t, tc.actions, g.PieceAt(tc.xy).calculateAllActions(g))
 		})
 	}
 }

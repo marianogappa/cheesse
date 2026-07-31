@@ -1,66 +1,66 @@
 package core
 
-// updateBoardLayout updates a game's layout-only (i.e. pieces and kings) after a given action, so that the resulting
+import "math/bits"
+
+// shallowCloneForMove creates a clone optimized for move-legality checking: the
+// board layout (bitboards) is copied by the struct copy, and the derived fields
+// (flags, InCheckBy, Actions) are dropped, since they are not needed for the
+// "does this move leave the king in check?" test.
+func (g Game) shallowCloneForMove() Game {
+	clonedGame := g
+	clonedGame.IsCheck = false
+	clonedGame.IsDoubleCheck = false
+	clonedGame.IsDiscoverCheck = false
+	clonedGame.IsCheckmate = false
+	clonedGame.IsStalemate = false
+	clonedGame.IsDraw = false
+	clonedGame.IsGameOver = false
+	clonedGame.GameOverWinner = 0
+	clonedGame.InCheckBy = nil
+	clonedGame.Actions = nil
+	return clonedGame
+}
+
+// updateBoardLayout updates a game's layout-only (i.e. bitboards) after a given action, so that the resulting
 // layout can be checked for checks, checkmates, etc.  This method is meant to be used as a dry-run to decide if the
-// action can actually be executed. Should only be called by piece.buildAction and game.doAction.
+// action can actually be executed. Should only be called by piece.calculateAllActions and game.DoAction.
 //
-// Note that this method assumes things like:
-// - The destination xy is within bounds.
-// - The action does not uncover an opponent's check, checkmate, etc.
-// - The destination xy doesn't put fromPiece on top of a friendly piece, or does not jump another piece when invalid.
+// Note that this method assumes the action is fully built and valid (bounds, no friendly piece at destination, etc.).
 func (g Game) updateBoardLayout(a Action) Game {
-	clonedGame := g.shallowCloneForMove(a.FromPiece.Owner)
-	opponent := opponent(a.FromPiece.Owner)
+	clonedGame := g.shallowCloneForMove()
 
 	// Special case for resignation action, because it doesn't require board changes
 	if a.IsResign {
 		return clonedGame
 	}
 
-	// Update fromPiece's properties to reflect action
-	fromPiece := g.Pieces[a.FromPiece.Owner][a.FromPiece.XY]
-	fromPiece.XY = a.ToXY
+	owner := a.FromPiece.Owner
+	toPieceType := a.FromPiece.PieceType
 	if a.IsPromotion {
-		fromPiece.PieceType = a.PromotionPieceType
+		toPieceType = a.PromotionPieceType
 	}
 
-	// Remove pieces at {from, to} locations
-	delete(clonedGame.Pieces[a.FromPiece.Owner], a.FromPiece.XY)
-	delete(clonedGame.Pieces[opponent], fromPiece.XY)
-	// Place fromPiece at "to" location
-	clonedGame.Pieces[a.FromPiece.Owner][fromPiece.XY] = fromPiece
+	// Remove pieces at {from, to} locations, and place fromPiece at "to" location
+	clonedGame.clearSq(owner, a.FromPiece.PieceType, sqOf(a.FromPiece.XY))
+	if a.IsCapture && !a.IsEnPassantCapture {
+		clonedGame.clearSq(a.CapturedPiece.Owner, a.CapturedPiece.PieceType, sqOf(a.CapturedPiece.XY))
+	}
+	clonedGame.setSq(owner, toPieceType, sqOf(a.ToXY))
 
 	// Extra movements and deletions in the case of en passant capture and castling
-	switch {
-	case a.IsCapture && g.IsLastMoveEnPassant && g.EnPassantTargetSquare.eq(a.ToXY) && a.FromPiece.Owner == ColorBlack:
-		delete(clonedGame.Pieces[opponent], a.ToXY.add(XY{0, -1}))
-	case a.IsCapture && g.IsLastMoveEnPassant && g.EnPassantTargetSquare.eq(a.ToXY) && a.FromPiece.Owner == ColorWhite:
-		delete(clonedGame.Pieces[opponent], a.ToXY.add(XY{0, 1}))
-	case a.IsQueensideCastle && a.FromPiece.Owner == ColorBlack:
-		newRook := clonedGame.Pieces[a.FromPiece.Owner][XY{0, 0}]
-		newRook.XY = XY{3, 0}
-		clonedGame.Pieces[a.FromPiece.Owner][XY{3, 0}] = newRook
-		delete(clonedGame.Pieces[a.FromPiece.Owner], XY{0, 0})
-	case a.IsQueensideCastle && a.FromPiece.Owner == ColorWhite:
-		newRook := clonedGame.Pieces[a.FromPiece.Owner][XY{0, 7}]
-		newRook.XY = XY{3, 7}
-		clonedGame.Pieces[a.FromPiece.Owner][XY{3, 7}] = newRook
-		delete(clonedGame.Pieces[a.FromPiece.Owner], XY{0, 7})
-	case a.IsKingsideCastle && a.FromPiece.Owner == ColorBlack:
-		newRook := clonedGame.Pieces[a.FromPiece.Owner][XY{7, 0}]
-		newRook.XY = XY{5, 0}
-		clonedGame.Pieces[a.FromPiece.Owner][XY{5, 0}] = newRook
-		delete(clonedGame.Pieces[a.FromPiece.Owner], XY{7, 0})
-	case a.IsKingsideCastle && a.FromPiece.Owner == ColorWhite:
-		newRook := clonedGame.Pieces[a.FromPiece.Owner][XY{7, 7}]
-		newRook.XY = XY{5, 7}
-		clonedGame.Pieces[a.FromPiece.Owner][XY{5, 7}] = newRook
-		delete(clonedGame.Pieces[a.FromPiece.Owner], XY{7, 7})
+	homeRank := 0
+	if owner == ColorWhite {
+		homeRank = 7
 	}
-
-	// If it's a king, game.kings needs to be updated
-	if fromPiece.PieceType == PieceKing {
-		clonedGame.Kings[a.FromPiece.Owner] = fromPiece
+	switch {
+	case a.IsEnPassantCapture:
+		clonedGame.clearSq(a.CapturedPiece.Owner, PiecePawn, sqOf(a.CapturedPiece.XY))
+	case a.IsQueensideCastle:
+		clonedGame.clearSq(owner, PieceRook, sqOf(XY{0, homeRank}))
+		clonedGame.setSq(owner, PieceRook, sqOf(XY{3, homeRank}))
+	case a.IsKingsideCastle:
+		clonedGame.clearSq(owner, PieceRook, sqOf(XY{7, homeRank}))
+		clonedGame.setSq(owner, PieceRook, sqOf(XY{5, homeRank}))
 	}
 
 	return clonedGame
@@ -70,11 +70,12 @@ func (g Game) calculateAllActions() []Action {
 	if g.IsGameOver {
 		return []Action{}
 	}
+	turn := g.Turn()
 	actions := make([]Action, 0, 64)
-	for _, piece := range g.Pieces[g.Turn()] {
-		actions = append(actions, piece.calculateAllActions(g)...)
+	for occ := g.occ[turn]; occ != 0; occ &= occ - 1 {
+		actions = g.pieceAtSq(bits.TrailingZeros64(occ)).appendActions(actions, g)
 	}
-	actions = append(actions, Action{FromPiece: Piece{Owner: g.Turn()}, IsResign: true})
+	actions = append(actions, Action{FromPiece: Piece{Owner: turn}, IsResign: true})
 	return actions
 }
 
@@ -86,194 +87,159 @@ func (g Game) Turn() color {
 }
 
 func (p Piece) calculateAllActions(g Game) []Action {
-	if g.IsGameOver || g.Turn() != p.Owner || p.PieceType == PieceNone || g.Pieces[p.Owner][p.XY] != p {
-		return []Action{}
+	return p.appendActions(make([]Action, 0, 8), g)
+}
+
+var promotionPieceTypes = [4]PieceType{PieceQueen, PieceBishop, PieceKnight, PieceRook}
+
+// appendActions appends all legal actions for the piece to the given slice. Pseudo-legal
+// destinations are computed from the precomputed attack bitboards; each is then filtered
+// by the "does this move leave the king in check?" test.
+func (p Piece) appendActions(actions []Action, g Game) []Action {
+	if g.IsGameOver || g.Turn() != p.Owner || p.PieceType == PieceNone || g.pieceAtSq(sqOf(p.XY)) != p {
+		return actions
+	}
+	sq := sqOf(p.XY)
+	own := g.occ[p.Owner]
+	occ := g.occAll()
+
+	var targets uint64
+	switch p.PieceType {
+	case PieceQueen:
+		targets = queenAttacks(sq, occ) &^ own
+	case PieceKing:
+		targets = kingAttacks[sq] &^ own
+	case PieceBishop:
+		targets = bishopAttacks(sq, occ) &^ own
+	case PieceKnight:
+		targets = knightAttacks[sq] &^ own
+	case PieceRook:
+		targets = rookAttacks(sq, occ) &^ own
+	case PiecePawn:
+		targets = p.pawnTargets(g, sq, occ)
 	}
 
-	// Piece deltas (pawn deltas are pre-allocated package-level vars)
-	deltas := movementDeltasByPieceType[p.PieceType]
-	switch {
-	case p.PieceType == PiecePawn && p.Owner == ColorBlack:
-		deltas = blackPawnDeltas
-	case p.PieceType == PiecePawn && p.Owner == ColorWhite:
-		deltas = whitePawnDeltas
+	for t := targets; t != 0; t &= t - 1 {
+		actions = p.appendActionsTo(actions, g, xyOfSq(bits.TrailingZeros64(t)))
 	}
 
-	actions := make([]Action, 0, 8)
-	for _, delta := range deltas {
-		toXY := p.XY.add(delta)
-
-		// This for-loop covers the case of Bishop, Rook and Queen being able to move multiple times on a given delta
-		for {
-			// If this action is a promotion, then 4 possible actions should be created, one for each promotion piece
-			promotionPieces := []PieceType{PieceNone}
-			if p.PieceType == PiecePawn && ((p.Owner == ColorBlack && p.XY.add(delta).Y == 7) || (p.Owner == ColorWhite && p.XY.add(delta).Y == 0)) {
-				promotionPieces = []PieceType{PieceQueen, PieceBishop, PieceKnight, PieceRook}
-			}
-
-			var (
-				a   Action
-				err error
-			)
-			// This for-loop covers the case of up to 4 actions created due to promotion pieces
-			for _, promotionPiece := range promotionPieces {
-				a, err = p.buildAction(toXY, g, promotionPiece)
-				if err != nil {
-					break
-				}
-				actions = append(actions, a)
-			}
-
-			toXY = toXY.add(delta)
-			if (p.PieceType != PieceQueen && p.PieceType != PieceBishop && p.PieceType != PieceRook) ||
-				!isInBounds(toXY) ||
-				a.IsCapture ||
-				err == errFriendlyPieceInDestination ||
-				err == errPieceInBetween {
-				break
-			}
-		}
+	if p.PieceType == PieceKing {
+		actions = p.appendCastleActions(actions, g)
 	}
 	return actions
 }
 
-// buildAction tries to create an action given a piece, a game, a destination xy and optionally a promotion piece type.
-// It will do an exhaustive check of validity, including en passant, en passant capture, castling, promotions, etc.
-//
-// The only thing that is mostly assumed valid is that the piece's destination is reachable. This is because the
-// piece's deltas and the eventuality of "jumping" over pieces are both calculated by piece.calculateAllActions. For
-// this reason, this method should only be called internally by piece.calculateAllActions.
-func (p Piece) buildAction(toXY XY, g Game, promotionPieceType PieceType) (Action, error) {
-	if !p.isInBounds(toXY) {
-		return Action{}, errNotInBounds
-	}
-
-	// There's a friendly piece in the destination position
-	if _, ok := g.Pieces[p.Owner][toXY]; ok {
-		return Action{}, errFriendlyPieceInDestination
-	}
-
-	// There's a friendly/opponent piece between piece.xy and toXY
-	for _, xyBetween := range p.xysTowards(toXY) {
-		if g.Pieces[p.Owner][xyBetween].PieceType != PieceNone || g.Pieces[opponent(p.Owner)][xyBetween].PieceType != PieceNone {
-			return Action{}, errPieceInBetween
+// pawnTargets computes the pseudo-legal destination squares for a pawn: forward pushes
+// (single, and double from the home rank) onto empty squares, plus diagonal captures
+// onto opponent pieces or the en passant target square.
+func (p Piece) pawnTargets(g Game, sq int, occ uint64) uint64 {
+	var targets uint64
+	if p.Owner == ColorBlack && p.XY.Y < 7 {
+		fwd := sq + 8
+		if occ&sqBit(fwd) == 0 {
+			targets |= sqBit(fwd)
+			if p.XY.Y == 1 && occ&sqBit(fwd+8) == 0 {
+				targets |= sqBit(fwd + 8)
+			}
 		}
 	}
+	if p.Owner == ColorWhite && p.XY.Y > 0 {
+		fwd := sq - 8
+		if occ&sqBit(fwd) == 0 {
+			targets |= sqBit(fwd)
+			if p.XY.Y == 6 && occ&sqBit(fwd-8) == 0 {
+				targets |= sqBit(fwd - 8)
+			}
+		}
+	}
+	captureTargets := g.occ[opponent(p.Owner)]
+	if g.IsLastMoveEnPassant {
+		captureTargets |= sqBit(sqOf(g.EnPassantTargetSquare))
+	}
+	return targets | pawnCaptureAttacks[p.Owner][sq]&captureTargets
+}
 
+// appendActionsTo builds the action(s) for a pseudo-legal destination square (4 actions
+// in the case of a promotion), filtering out those that leave the own king in check.
+func (p Piece) appendActionsTo(actions []Action, g Game, toXY XY) []Action {
 	a := Action{FromPiece: p, ToXY: toXY}
-	opponentPieceAtToXY, hasOpponentPieceAtToXY := g.Pieces[opponent(p.Owner)][toXY]
-
-	// Edge case: Pawn is the only piece that cannot capture while moving forwards
-	// If any piece (i.e. owner by any player) is either in the destination or in the middle, the action is invalid
-	if p.PieceType == PiecePawn && toXY.X == p.XY.X {
-		// Bail if any constraint is not met
-		switch {
-		case !g.isEmptyAt(toXY),
-			abs(toXY.Y-p.XY.Y) == 2 && p.Owner == ColorBlack && !g.isEmptyAt(XY{X: toXY.X, Y: toXY.Y - 1}),
-			abs(toXY.Y-p.XY.Y) == 2 && p.Owner == ColorWhite && !g.isEmptyAt(XY{X: toXY.X, Y: toXY.Y + 1}),
-			abs(toXY.Y-p.XY.Y) == 2 && p.Owner == ColorBlack && p.XY.Y != 1,
-			abs(toXY.Y-p.XY.Y) == 2 && p.Owner == ColorWhite && p.XY.Y != 6:
-			return Action{}, errPieceBlockingPawn
-		}
-	}
-
-	// Edge case: Pawn can only move diagonally if there's an opponent piece in that position, or if it's en passant
-	if p.PieceType == PiecePawn && toXY.X != p.XY.X {
-		// Bail if any constraint is not met
-		switch {
-		case abs(toXY.X-p.XY.X) != 1,
-			abs(toXY.Y-p.XY.Y) != 1,
-			!hasOpponentPieceAtToXY && (!g.IsLastMoveEnPassant || !g.EnPassantTargetSquare.eq(toXY)):
-			return Action{}, errPawnCantCapture
-		}
-	}
-
-	// Castling context
-	if p.PieceType == PieceKing && abs(toXY.X-p.XY.X) > 1 { // It's a castle attempt
-		// Set castle type context
-		var castleType castleType = castleTypeQueenside
-		if toXY.X == 6 {
-			castleType = castleTypeKingside
-		}
-
-		// Bail if any constraint is not met
-		switch {
-		case p.Owner == ColorBlack && !g.CanBlackCastle,
-			p.Owner == ColorWhite && !g.CanWhiteCastle,
-			p.Owner == ColorBlack && castleType == castleTypeQueenside && !g.CanBlackQueensideCastle,
-			p.Owner == ColorBlack && castleType == castleTypeKingside && !g.CanBlackKingsideCastle,
-			p.Owner == ColorWhite && castleType == castleTypeQueenside && !g.CanWhiteQueensideCastle,
-			p.Owner == ColorWhite && castleType == castleTypeKingside && !g.CanWhiteKingsideCastle,
-			p.Owner == ColorBlack && (p.XY.Y != 0 || toXY.Y != 0 || p.XY.X != 4 || (toXY.X != 6 && toXY.X != 2)),
-			p.Owner == ColorWhite && (p.XY.Y != 7 || toXY.Y != 7 || p.XY.X != 4 || (toXY.X != 6 && toXY.X != 2)),
-			!g.isEmptyAtAllOf(emptyXYsForCastlingByColorAndCastleType[p.Owner][castleType]),
-			g.isAnyXYThreatened(unthreatenedXYsForCastlingByColorAndCastleType[p.Owner][castleType], p.Owner):
-			return Action{}, errCantCastle
-		}
-
-		// Set castling context
-		a.IsCastle = true
-		switch {
-		case p.Owner == ColorBlack && p.XY.Y == 0 && toXY.X == 2:
-			a.IsQueensideCastle = true
-		case p.Owner == ColorWhite && p.XY.Y == 7 && toXY.X == 2:
-			a.IsQueensideCastle = true
-		case p.Owner == ColorBlack && p.XY.Y == 0 && toXY.X == 6:
-			a.IsKingsideCastle = true
-		case p.Owner == ColorWhite && p.XY.Y == 7 && toXY.X == 6:
-			a.IsKingsideCastle = true
-		}
-	}
 
 	// Set capture context
-	if hasOpponentPieceAtToXY {
+	if capturedPiece := g.PieceAt(toXY); capturedPiece.PieceType != PieceNone {
 		a.IsCapture = true
-		a.CapturedPiece = opponentPieceAtToXY
+		a.CapturedPiece = capturedPiece
 	}
 	// Set capture context in the case of an en passant capture
-	if p.PieceType == PiecePawn && g.IsLastMoveEnPassant && g.EnPassantTargetSquare.eq(toXY) {
+	if p.PieceType == PiecePawn && toXY.X != p.XY.X && !a.IsCapture {
 		a.IsCapture = true
 		a.IsEnPassantCapture = true
 		switch p.Owner {
 		case ColorBlack:
-			a.CapturedPiece = g.Pieces[opponent(p.Owner)][XY{X: toXY.X, Y: toXY.Y - 1}]
+			a.CapturedPiece = g.PieceAt(XY{X: toXY.X, Y: toXY.Y - 1})
 		case ColorWhite:
-			a.CapturedPiece = g.Pieces[opponent(p.Owner)][XY{X: toXY.X, Y: toXY.Y + 1}]
+			a.CapturedPiece = g.PieceAt(XY{X: toXY.X, Y: toXY.Y + 1})
 		}
+	}
+
+	// check if moving puts the owner's King in check (the promoted piece type cannot
+	// affect this, so the check is done once for all 4 promotion actions)
+	newGame := g.updateBoardLayout(a)
+	if newGame.attackersOf(int(newGame.kingSq[p.Owner]), p.Owner) != 0 {
+		return actions
 	}
 
 	// Set promotion context
-	if p.PieceType == PiecePawn && ((p.Owner == ColorBlack && toXY.Y == 7) || (p.Owner == ColorWhite && toXY.Y == 0)) {
-		if promotionPieceType == PiecePawn || promotionPieceType == PieceKing || promotionPieceType == PieceNone {
-			return Action{}, errCantPromote
-		}
+	if p.PieceType == PiecePawn && (toXY.Y == 0 || toXY.Y == 7) {
 		a.IsPromotion = true
-		a.PromotionPieceType = promotionPieceType
-	}
-
-	newGame := g.updateBoardLayout(a)
-
-	// check if moving puts the owner's King in check (early-exit: only need to know if ANY threat exists)
-	if len(newGame.xyThreatenedBy(newGame.Kings[p.Owner].XY, p.Owner, false)) > 0 {
-		return Action{}, errActionLeavesKingThreatened
-	}
-
-	return a, nil
-}
-
-func (g Game) isEmptyAtAllOf(xys []XY) bool {
-	for _, xy := range xys {
-		if !g.isEmptyAt(xy) {
-			return false
+		for _, promotionPieceType := range promotionPieceTypes {
+			a.PromotionPieceType = promotionPieceType
+			actions = append(actions, a)
 		}
+		return actions
 	}
-	return true
+
+	return append(actions, a)
 }
 
-func (g Game) isEmptyAt(xy XY) bool {
-	_, blackPieceExists := g.Pieces[ColorBlack][xy]
-	_, whitePieceExists := g.Pieces[ColorWhite][xy]
-	return !blackPieceExists && !whitePieceExists
+func (p Piece) appendCastleActions(actions []Action, g Game) []Action {
+	var canQueenside, canKingside bool
+	homeRank := 0
+	switch p.Owner {
+	case ColorBlack:
+		canQueenside, canKingside = g.CanBlackCastle && g.CanBlackQueensideCastle, g.CanBlackCastle && g.CanBlackKingsideCastle
+	case ColorWhite:
+		canQueenside, canKingside = g.CanWhiteCastle && g.CanWhiteQueensideCastle, g.CanWhiteCastle && g.CanWhiteKingsideCastle
+		homeRank = 7
+	}
+	if (!canQueenside && !canKingside) || !p.XY.eq(XY{4, homeRank}) {
+		return actions
+	}
+
+	occ := g.occAll()
+	castles := []struct {
+		allowed    bool
+		castleType castleType
+		toX        int
+	}{
+		{canQueenside, castleTypeQueenside, 2},
+		{canKingside, castleTypeKingside, 6},
+	}
+	for _, c := range castles {
+		if !c.allowed ||
+			occ&castleEmptyMasks[p.Owner][c.castleType] != 0 ||
+			g.anySqThreatened(castleUnthreatenedSqs[p.Owner][c.castleType], p.Owner) {
+			continue
+		}
+		a := Action{
+			FromPiece:         p,
+			ToXY:              XY{c.toX, homeRank},
+			IsCastle:          true,
+			IsQueensideCastle: c.castleType == castleTypeQueenside,
+			IsKingsideCastle:  c.castleType == castleTypeKingside,
+		}
+		actions = append(actions, a)
+	}
+	return actions
 }
 
 // doAction executes the given action on the given game.
@@ -385,7 +351,7 @@ func (g Game) calculateCriticalFlags() Game {
 	g.GameOverWinner = -1
 	g.InCheckBy = []Piece{}
 
-	g.InCheckBy = g.Kings[turn].threatenedBy(g) // This is expensive!
+	g.InCheckBy = g.King(turn).threatenedBy(g)
 	if len(g.InCheckBy) > 0 {
 		g.IsCheck = true
 	}
@@ -430,97 +396,34 @@ func (p Piece) isInBounds(xy XY) bool {
 	return true
 }
 
-func (g Game) isAnyXYThreatened(xys []XY, owner color) bool {
-	for _, xy := range xys {
-		if len(g.xyThreatenedBy(xy, owner, false /* checkAllThreats */)) > 0 {
+func (g Game) anySqThreatened(sqs [3]int8, owner color) bool {
+	for _, sq := range sqs {
+		if g.attackersOf(int(sq), owner) != 0 {
 			return true
 		}
 	}
 	return false
 }
 
+// attackersOf returns the bitboard of opponent pieces attacking the given square.
+func (g Game) attackersOf(sq int, owner color) uint64 {
+	opp := opponent(owner)
+	occ := g.occAll()
+	return knightAttacks[sq]&g.bb[opp][PieceKnight] |
+		rookAttacks(sq, occ)&(g.bb[opp][PieceRook]|g.bb[opp][PieceQueen]) |
+		bishopAttacks(sq, occ)&(g.bb[opp][PieceBishop]|g.bb[opp][PieceQueen]) |
+		kingAttacks[sq]&g.bb[opp][PieceKing] |
+		pawnCaptureAttacks[owner][sq]&g.bb[opp][PiecePawn]
+}
+
 func (g Game) xyThreatenedBy(sq XY, owner color, checkAllThreats bool) []Piece {
 	pieces := []Piece{}
-	opponent := opponent(owner)
-
-	// Knights
-	for _, delta := range movementDeltasByPieceType[PieceKnight] {
-		xy := sq.add(delta)
-		if !isInBounds(xy) {
-			continue
-		}
-		if p, ok := g.Pieces[opponent][xy]; !ok || p.PieceType != PieceKnight {
-			continue
-		}
-		pieces = append(pieces, g.Pieces[opponent][xy])
+	for attackers := g.attackersOf(sqOf(sq), owner); attackers != 0; attackers &= attackers - 1 {
+		pieces = append(pieces, g.pieceAtSq(bits.TrailingZeros64(attackers)))
 		if !checkAllThreats {
 			return pieces
 		}
 	}
-
-	// Vertical and horizontal (Rook & Queen)
-	for _, delta := range movementDeltasByPieceType[PieceRook] {
-		for sq := sq.add(delta); isInBounds(sq); sq = sq.add(delta) {
-			// There's a friendly piece in this delta; it will block further pieces
-			if _, ok := g.Pieces[owner][sq]; ok {
-				break
-			}
-			if p, ok := g.Pieces[opponent][sq]; ok {
-				if p.PieceType == PieceQueen || p.PieceType == PieceRook {
-					pieces = append(pieces, p)
-					if !checkAllThreats {
-						return pieces
-					}
-				}
-				break
-			}
-		}
-	}
-
-	// Diagonal (Bishop & Queen)
-	for _, delta := range movementDeltasByPieceType[PieceBishop] {
-		for sq := sq.add(delta); isInBounds(sq); sq = sq.add(delta) {
-			if _, ok := g.Pieces[owner][sq]; ok {
-				break
-			}
-			if p, ok := g.Pieces[opponent][sq]; ok {
-				if p.PieceType == PieceQueen || p.PieceType == PieceBishop {
-					pieces = append(pieces, p)
-					if !checkAllThreats {
-						return pieces
-					}
-				}
-				break
-			}
-		}
-	}
-
-	// King
-	if abs(sq.X-g.Kings[opponent].XY.X) <= 1 && abs(sq.Y-g.Kings[opponent].XY.Y) <= 1 {
-		pieces = append(pieces, g.Kings[opponent])
-		if !checkAllThreats {
-			return pieces
-		}
-	}
-
-	// Pawns
-	pawnXYs := []XY{sq.add(XY{-1, 1}), sq.add(XY{1, 1})}
-	if owner == ColorWhite {
-		pawnXYs = []XY{sq.add(XY{-1, -1}), sq.add(XY{1, -1})}
-	}
-	if piece, ok := g.Pieces[opponent][pawnXYs[0]]; ok && piece.PieceType == PiecePawn {
-		pieces = append(pieces, piece)
-		if !checkAllThreats {
-			return pieces
-		}
-	}
-	if piece, ok := g.Pieces[opponent][pawnXYs[1]]; ok && piece.PieceType == PiecePawn {
-		pieces = append(pieces, piece)
-		if !checkAllThreats {
-			return pieces
-		}
-	}
-
 	return pieces
 }
 

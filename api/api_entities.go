@@ -221,10 +221,12 @@ func mapGameToOutputGame(g core.Game) OutputGame {
 	o.IsLastMoveEnPassant = g.IsLastMoveEnPassant
 	o.EnPassantTargetSquare = ""
 	o.MoveNumber = g.MoveNumber
-	o.BlackPieces = make(map[string]string, len(g.Pieces[core.ColorBlack]))
-	o.WhitePieces = make(map[string]string, len(g.Pieces[core.ColorWhite]))
-	o.BlackKing = g.Kings[core.ColorBlack].XY.ToAlgebraic()
-	o.WhiteKing = g.Kings[core.ColorWhite].XY.ToAlgebraic()
+	blackPieces := g.Pieces(core.ColorBlack)
+	whitePieces := g.Pieces(core.ColorWhite)
+	o.BlackPieces = make(map[string]string, len(blackPieces))
+	o.WhitePieces = make(map[string]string, len(whitePieces))
+	o.BlackKing = g.King(core.ColorBlack).XY.ToAlgebraic()
+	o.WhiteKing = g.King(core.ColorWhite).XY.ToAlgebraic()
 	o.IsCheck = g.IsCheck
 	o.IsDoubleCheck = g.IsDoubleCheck
 	o.IsDiscoverCheck = g.IsDiscoverCheck
@@ -243,12 +245,12 @@ func mapGameToOutputGame(g core.Game) OutputGame {
 		o.EnPassantTargetSquare = g.EnPassantTargetSquare.ToAlgebraic()
 	}
 
-	for sq, p := range g.Pieces[core.ColorBlack] {
-		o.BlackPieces[sq.ToAlgebraic()] = p.PieceType.String()
+	for _, p := range blackPieces {
+		o.BlackPieces[p.XY.ToAlgebraic()] = p.PieceType.String()
 	}
 
-	for sq, p := range g.Pieces[core.ColorWhite] {
-		o.WhitePieces[sq.ToAlgebraic()] = p.PieceType.String()
+	for _, p := range whitePieces {
+		o.WhitePieces[p.XY.ToAlgebraic()] = p.PieceType.String()
 	}
 
 	for i := range g.InCheckBy {

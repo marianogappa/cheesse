@@ -3,6 +3,7 @@ package core
 import (
 	"errors"
 	"fmt"
+	"math/bits"
 	"regexp"
 	"strconv"
 	"strings"
@@ -56,15 +57,19 @@ func NewGameFromFEN(s string) (Game, error) {
 	}
 	canWhiteKingsideCastle := castlingMap['K']
 	canWhiteQueensideCastle := castlingMap['Q']
-	canWhiteCastle := canWhiteKingsideCastle || canWhiteQueensideCastle
 	canBlackKingsideCastle := castlingMap['k']
 	canBlackQueensideCastle := castlingMap['q']
-	canBlackCastle := canBlackKingsideCastle || canBlackQueensideCastle
 
 	// Pieces and kings calculation
 	pieceTypeMap := map[byte]PieceType{'Q': PieceQueen, 'K': PieceKing, 'B': PieceBishop, 'N': PieceKnight, 'R': PieceRook, 'P': PiecePawn}
-	pieces := []map[XY]Piece{{}, {}}
-	kings := []Piece{{}, {}}
+	game := Game{
+		HalfMoveClock:         halfMoveClock,
+		FullMoveNumber:        fullMoveNumber,
+		IsLastMoveEnPassant:   isLastMoveEnPassant,
+		EnPassantTargetSquare: enPassantTargetSquare,
+		MoveNumber:            moveNumber,
+		kingSq:                [2]int8{-1, -1},
+	}
 	for y, row := range []string{matches[0][1], matches[0][2], matches[0][3], matches[0][4], matches[0][5], matches[0][6], matches[0][7], matches[0][8]} {
 		x := 0
 		for i := 0; i < len(row); i++ {
@@ -74,77 +79,65 @@ func NewGameFromFEN(s string) (Game, error) {
 			}
 			switch b {
 			case 'Q', 'K', 'B', 'N', 'R', 'P':
-				pieces[ColorWhite][XY{x, y}] = Piece{PieceType: pieceTypeMap[b], Owner: ColorWhite, XY: XY{x, y}}
+				if b == 'K' && game.kingSq[ColorWhite] >= 0 {
+					return Game{}, errFENDuplicateKing
+				}
+				game.setSq(ColorWhite, pieceTypeMap[b], sqOf(XY{x, y}))
 				x++
 			case 'q', 'k', 'b', 'n', 'r', 'p':
-				pieces[ColorBlack][XY{x, y}] = Piece{PieceType: pieceTypeMap[b-'a'+'A'], Owner: ColorBlack, XY: XY{x, y}}
+				if b == 'k' && game.kingSq[ColorBlack] >= 0 {
+					return Game{}, errFENDuplicateKing
+				}
+				game.setSq(ColorBlack, pieceTypeMap[b-'a'+'A'], sqOf(XY{x, y}))
 				x++
 			case '1', '2', '3', '4', '5', '6', '7', '8':
 				x += int(b - '0')
 			}
-			switch {
-			case b == 'k' && kings[ColorBlack].PieceType == PieceKing, b == 'K' && kings[ColorWhite].PieceType == PieceKing:
-				return Game{}, errFENDuplicateKing
-			case b == 'K':
-				kings[ColorWhite] = pieces[ColorWhite][XY{x - 1, y}]
-			case b == 'k':
-				kings[ColorBlack] = pieces[ColorBlack][XY{x - 1, y}]
-			case (b == 'p' || b == 'P') && (y == 0 || y == 7):
+			if (b == 'p' || b == 'P') && (y == 0 || y == 7) {
 				return Game{}, errFENPawnInImpossibleRank
 			}
 		}
 	}
-	if kings[ColorBlack].PieceType == PieceNone || kings[ColorWhite].PieceType == PieceNone {
+	if game.kingSq[ColorBlack] < 0 || game.kingSq[ColorWhite] < 0 {
 		return Game{}, errFENKingMissing
 	}
-	if len(pieces[ColorBlack]) > 16 {
+	if bits.OnesCount64(game.occ[ColorBlack]) > 16 {
 		return Game{}, errFENBlackHasMoreThan16Pieces
 	}
-	if len(pieces[ColorWhite]) > 16 {
+	if bits.OnesCount64(game.occ[ColorWhite]) > 16 {
 		return Game{}, errFENWhiteHasMoreThan16Pieces
 	}
 
 	// En passant auto-correction: an impossible e.p. target (no pawn of the right
 	// color next to it) is silently dropped rather than rejected, since board
 	// editors construct FENs naively.
-	if isLastMoveEnPassant && turn == "b" && pieces[ColorWhite][enPassantTargetSquare.add(XY{0, -1})].PieceType != PiecePawn {
-		isLastMoveEnPassant = false
-		enPassantTargetSquare = XY{}
+	if game.IsLastMoveEnPassant && turn == "b" && !game.hasPieceAt(ColorWhite, PiecePawn, enPassantTargetSquare.add(XY{0, -1})) {
+		game.IsLastMoveEnPassant = false
+		game.EnPassantTargetSquare = XY{}
 	}
-	if isLastMoveEnPassant && turn == "w" && pieces[ColorBlack][enPassantTargetSquare.add(XY{0, 1})].PieceType != PiecePawn {
-		isLastMoveEnPassant = false
-		enPassantTargetSquare = XY{}
+	if game.IsLastMoveEnPassant && turn == "w" && !game.hasPieceAt(ColorBlack, PiecePawn, enPassantTargetSquare.add(XY{0, 1})) {
+		game.IsLastMoveEnPassant = false
+		game.EnPassantTargetSquare = XY{}
 	}
 
 	// Castling auto-correction: rights inconsistent with king/rook placement are
 	// silently narrowed rather than rejected (a board editor's "KQkq" with a moved
 	// king just means no castling).
 	canWhiteKingsideCastle, canWhiteQueensideCastle, canBlackKingsideCastle, canBlackQueensideCastle = narrowCastlingRights(
-		pieces, kings,
+		game,
 		canWhiteKingsideCastle, canWhiteQueensideCastle, canBlackKingsideCastle, canBlackQueensideCastle,
 	)
-	canWhiteCastle = canWhiteKingsideCastle || canWhiteQueensideCastle
-	canBlackCastle = canBlackKingsideCastle || canBlackQueensideCastle
-
-	game := Game{
-		CanWhiteCastle:          canWhiteCastle,
-		CanWhiteKingsideCastle:  canWhiteKingsideCastle,
-		CanWhiteQueensideCastle: canWhiteQueensideCastle,
-		CanBlackCastle:          canBlackCastle,
-		CanBlackKingsideCastle:  canBlackKingsideCastle,
-		CanBlackQueensideCastle: canBlackQueensideCastle,
-		HalfMoveClock:           halfMoveClock,
-		FullMoveNumber:          fullMoveNumber,
-		IsLastMoveEnPassant:     isLastMoveEnPassant,
-		EnPassantTargetSquare:   enPassantTargetSquare,
-		MoveNumber:              moveNumber,
-		Pieces:                  pieces,
-		Kings:                   kings,
-	}
+	game.CanWhiteKingsideCastle = canWhiteKingsideCastle
+	game.CanWhiteQueensideCastle = canWhiteQueensideCastle
+	game.CanBlackKingsideCastle = canBlackKingsideCastle
+	game.CanBlackQueensideCastle = canBlackQueensideCastle
+	game.CanWhiteCastle = canWhiteKingsideCastle || canWhiteQueensideCastle
+	game.CanBlackCastle = canBlackKingsideCastle || canBlackQueensideCastle
 
 	// The side not to move must not be in check: such a position is unreachable
 	// and move generation semantics break down (the opponent's king is capturable).
-	if len(game.xyThreatenedBy(kings[opponentOfTurn(turn)].XY, opponentOfTurn(turn), false)) > 0 {
+	sideNotToMove := opponentOfTurn(turn)
+	if game.attackersOf(int(game.kingSq[sideNotToMove]), sideNotToMove) != 0 {
 		return Game{}, errFENSideNotToMoveInCheck
 	}
 
@@ -160,23 +153,23 @@ func opponentOfTurn(turn string) color {
 
 // narrowCastlingRights drops any castling right that is inconsistent with the actual
 // king and rook placement.
-func narrowCastlingRights(pieces []map[XY]Piece, kings []Piece, wk, wq, bk, bq bool) (bool, bool, bool, bool) {
-	if !kings[ColorWhite].XY.eq(XY{4, 7}) {
+func narrowCastlingRights(g Game, wk, wq, bk, bq bool) (bool, bool, bool, bool) {
+	if g.kingSq[ColorWhite] != int8(sqOf(XY{4, 7})) {
 		wk, wq = false, false
 	}
-	if !kings[ColorBlack].XY.eq(XY{4, 0}) {
+	if g.kingSq[ColorBlack] != int8(sqOf(XY{4, 0})) {
 		bk, bq = false, false
 	}
-	if pieces[ColorWhite][XY{7, 7}].PieceType != PieceRook {
+	if !g.hasPieceAt(ColorWhite, PieceRook, XY{7, 7}) {
 		wk = false
 	}
-	if pieces[ColorWhite][XY{0, 7}].PieceType != PieceRook {
+	if !g.hasPieceAt(ColorWhite, PieceRook, XY{0, 7}) {
 		wq = false
 	}
-	if pieces[ColorBlack][XY{7, 0}].PieceType != PieceRook {
+	if !g.hasPieceAt(ColorBlack, PieceRook, XY{7, 0}) {
 		bk = false
 	}
-	if pieces[ColorBlack][XY{0, 0}].PieceType != PieceRook {
+	if !g.hasPieceAt(ColorBlack, PieceRook, XY{0, 0}) {
 		bq = false
 	}
 	return wk, wq, bk, bq
@@ -194,23 +187,22 @@ func (g Game) ToFEN() string {
 	for y := 0; y < 8; y++ {
 		count := 0
 		for x := 0; x < 8; x++ {
-			bp, bExists := g.Pieces[ColorBlack][XY{x, y}]
-			wp, wExists := g.Pieces[ColorWhite][XY{x, y}]
+			p := g.PieceAt(XY{x, y})
 			switch {
-			case !bExists && !wExists:
+			case p.PieceType == PieceNone:
 				count++
-			case bExists:
+			case p.Owner == ColorBlack:
 				if count > 0 {
 					sb.WriteString(fmt.Sprintf("%v", count))
 				}
 				count = 0
-				sb.WriteString(strings.ToLower(string(pieceTypeMap[bp.PieceType])))
-			case wExists:
+				sb.WriteString(strings.ToLower(string(pieceTypeMap[p.PieceType])))
+			default:
 				if count > 0 {
 					sb.WriteString(fmt.Sprintf("%v", count))
 				}
 				count = 0
-				sb.WriteByte(pieceTypeMap[wp.PieceType])
+				sb.WriteByte(pieceTypeMap[p.PieceType])
 			}
 		}
 		if count > 0 {

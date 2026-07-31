@@ -139,10 +139,10 @@ func evaluate(g core.Game, lastAction core.Action, player int) int64 {
 
 	// Material
 	playerMaterial, opponentMaterial := 0, 0
-	for _, piece := range g.Pieces[player] {
+	for _, piece := range g.Pieces(core.Color(player)) {
 		playerMaterial += materialValue(piece.PieceType)
 	}
-	for _, piece := range g.Pieces[opponent] {
+	for _, piece := range g.Pieces(core.Color(opponent)) {
 		opponentMaterial += materialValue(piece.PieceType)
 	}
 	totalMaterial := int64(playerMaterial-opponentMaterial) * 1_000_000_000
@@ -155,12 +155,12 @@ func evaluate(g core.Game, lastAction core.Action, player int) int64 {
 
 	// Center control: pieces in the center (files c-f, ranks 4-5)
 	centerPlayer, centerOpponent := 0, 0
-	for _, piece := range g.Pieces[player] {
+	for _, piece := range g.Pieces(core.Color(player)) {
 		if piece.XY.X >= 2 && piece.XY.X <= 5 && piece.XY.Y >= 3 && piece.XY.Y <= 4 {
 			centerPlayer++
 		}
 	}
-	for _, piece := range g.Pieces[opponent] {
+	for _, piece := range g.Pieces(core.Color(opponent)) {
 		if piece.XY.X >= 2 && piece.XY.X <= 5 && piece.XY.Y >= 3 && piece.XY.Y <= 4 {
 			centerOpponent++
 		}
