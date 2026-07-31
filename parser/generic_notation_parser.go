@@ -21,6 +21,9 @@ const (
 type Token struct {
 	Value string
 	Type  TokenType
+	// Comment holds the text of any comment(s) attached to this token (e.g. PGN
+	// {...} or ; comments following a move), without delimiters.
+	Comment string
 }
 
 // ParserVariant defines the interface for notation-specific parsing logic.
@@ -97,11 +100,13 @@ func (p *GenericNotationParser) Parse(initialGame core.Game, s string) (*ParsedG
 	}
 
 	// Step 2: Loop through parseHalfMoves
-	// The variant pops tokens, and we handle game state management
+	// The variant pops tokens, and we handle game state management.
+	// On a mid-game failure, parsing stops but the valid prefix of steps is
+	// returned along with the error, matching the other parsers' behavior.
 	for {
 		token, hasMore, err := p.variant.PopHalfMove(parsingGame)
 		if err != nil {
-			return nil, err
+			return parsingGame.Build(), err
 		}
 		if token == nil {
 			break
@@ -109,7 +114,7 @@ func (p *GenericNotationParser) Parse(initialGame core.Game, s string) (*ParsedG
 
 		// Process the token based on its type
 		if err := p.ProcessToken(parsingGame, token); err != nil {
-			return nil, err
+			return parsingGame.Build(), err
 		}
 
 		if !hasMore {
@@ -195,6 +200,7 @@ func (p *GenericNotationParser) ProcessToken(pg *ParsingGame, token *Token) erro
 				newAlternative := alt.Clone()
 				newAlternative.GameSteps = append(newAlternative.GameSteps, core.GameStep{
 					StepString:      token.Value,
+					StepComment:     token.Comment,
 					StepAction:      action,
 					StepGame:        newGame,
 					StepPreMoveGame: currentGame,
@@ -218,6 +224,7 @@ func (p *GenericNotationParser) ProcessToken(pg *ParsingGame, token *Token) erro
 			newAlternative := alt.Clone()
 			newAlternative.GameSteps = append(newAlternative.GameSteps, core.GameStep{
 				StepString:      token.Value,
+				StepComment:     token.Comment,
 				StepAction:      core.Action{},     // Empty action for result markers
 				StepGame:        alt.CurrentGame(), // Game state doesn't change
 				StepPreMoveGame: alt.CurrentGame(),
