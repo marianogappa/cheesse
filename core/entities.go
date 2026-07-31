@@ -85,6 +85,38 @@ func (g Game) Clone() Game {
 	}
 }
 
+// shallowCloneForMove creates a clone optimized for move-legality checking: it
+// copies the piece maps (since the move mutates them) and the kings slice, but
+// shares everything else (flags, InCheckBy, Actions are not needed for the
+// "does this move leave the king in check?" test).
+func (g Game) shallowCloneForMove(_ color) Game {
+	clonedPieces := make([]map[XY]Piece, 2)
+	clonedKings := make([]Piece, 2)
+	for c := 0; c < 2; c++ {
+		m := make(map[XY]Piece, len(g.Pieces[c]))
+		for k, v := range g.Pieces[c] {
+			m[k] = v
+		}
+		clonedPieces[c] = m
+		clonedKings[c] = g.Kings[c]
+	}
+	return Game{
+		CanWhiteCastle:          g.CanWhiteCastle,
+		CanWhiteKingsideCastle:  g.CanWhiteKingsideCastle,
+		CanWhiteQueensideCastle: g.CanWhiteQueensideCastle,
+		CanBlackCastle:          g.CanBlackCastle,
+		CanBlackKingsideCastle:  g.CanBlackKingsideCastle,
+		CanBlackQueensideCastle: g.CanBlackQueensideCastle,
+		HalfMoveClock:           g.HalfMoveClock,
+		FullMoveNumber:          g.FullMoveNumber,
+		IsLastMoveEnPassant:     g.IsLastMoveEnPassant,
+		EnPassantTargetSquare:   g.EnPassantTargetSquare,
+		MoveNumber:              g.MoveNumber,
+		Pieces:                  clonedPieces,
+		Kings:                   clonedKings,
+	}
+}
+
 type castleType int
 
 const (
@@ -386,6 +418,11 @@ type Piece struct {
 func (p Piece) String() string {
 	return fmt.Sprintf("%v's %v at %v", p.Owner, p.PieceType, p.XY.ToAlgebraic())
 }
+
+var (
+	blackPawnDeltas = []XY{{0, 1}, {0, 2}, {-1, 1}, {1, 1}}
+	whitePawnDeltas = []XY{{0, -1}, {0, -2}, {-1, -1}, {1, -1}}
+)
 
 var movementDeltasByPieceType = map[PieceType][]XY{
 	PieceQueen:  {{-1, 0}, {1, 0}, {0, -1}, {0, 1}, {-1, -1}, {1, 1}, {-1, 1}, {1, -1}},
