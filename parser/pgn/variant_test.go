@@ -284,7 +284,6 @@ Nf2 42.g4 Bd3 43.Re6 1/2-1/2`
 	})
 
 	t.Run("parse all games in testdata", func(t *testing.T) {
-		// Create initial game - NewGameFromFEN already populates Actions via calculateCriticalFlags()
 		initialGame, err := core.NewGameFromFEN("rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1")
 		require.NoError(t, err)
 		require.NotEmpty(t, initialGame.Actions, "Actions should be populated by NewGameFromFEN")
@@ -292,44 +291,43 @@ Nf2 42.g4 Bd3 43.Re6 1/2-1/2`
 		variant := NewVariantPGN()
 		genericParser := parser.NewGenericNotationParser(variant)
 
-		// Read all PGN files from testdata/games
 		testdataDir := "../testdata/games"
 		files, err := filepath.Glob(filepath.Join(testdataDir, "*.pgn"))
 		require.NoError(t, err, "Failed to glob PGN files")
 		require.Greater(t, len(files), 0, "No PGN files found in testdata/games")
 
-		t.Logf("Found %d PGN files to test; will test the first 100", len(files))
+		limit := len(files)
+		if testing.Short() {
+			limit = 100
+		}
+		t.Logf("Testing %d of %d PGN files", limit, len(files))
 
-		var errors []error
+		var parseErrors []error
 
-		for _, file := range files[:100] {
+		for _, file := range files[:limit] {
 			pgnContent, err := os.ReadFile(file)
 			if err != nil {
-				errors = append(errors, fmt.Errorf("failed to read file %s: %w", file, err))
+				parseErrors = append(parseErrors, fmt.Errorf("failed to read file %s: %w", file, err))
 				continue
 			}
 
-			pgnStr := string(pgnContent)
-			_, err = genericParser.Parse(initialGame, pgnStr)
+			_, err = genericParser.Parse(initialGame, string(pgnContent))
 			if err != nil {
-				errors = append(errors, fmt.Errorf("failed to parse %s: %w", filepath.Base(file), err))
+				parseErrors = append(parseErrors, fmt.Errorf("failed to parse %s: %w", filepath.Base(file), err))
 			}
 		}
 
-		if len(errors) > 0 {
-			t.Errorf("Failed to parse %d out of %d games", len(errors), len(files))
-			t.Logf("First 10 errors:")
-			for i, err := range errors {
+		if len(parseErrors) > 0 {
+			t.Errorf("Failed to parse %d out of %d games", len(parseErrors), limit)
+			for i, err := range parseErrors {
 				if i >= 10 {
+					t.Logf("  ... and %d more errors", len(parseErrors)-10)
 					break
 				}
 				t.Logf("  %v", err)
 			}
-			if len(errors) > 10 {
-				t.Logf("  ... and %d more errors", len(errors)-10)
-			}
 		} else {
-			t.Logf("Successfully parsed all %d games", len(files))
+			t.Logf("Successfully parsed all %d games", limit)
 		}
 	})
 }
