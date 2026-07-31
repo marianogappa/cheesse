@@ -20,7 +20,7 @@ func TestVariantPGN_Parse(t *testing.T) {
 	// Populate Actions by doing one move (e4)
 	// This ensures Actions is populated for the parser to work
 	// We'll do e4, then parse the remaining moves from that game state
-	e2Pawn := initialGame.Pieces[core.ColorWhite][core.XY{X: 4, Y: 6}]
+	e2Pawn := initialGame.PieceAt(core.XY{X: 4, Y: 6})
 	require.Equal(t, core.PieceType(core.PiecePawn), e2Pawn.PieceType)
 
 	// Do e4 to populate Actions - create a valid e4 action

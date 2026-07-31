@@ -1,8 +1,8 @@
 package core
 
 import (
-	"errors"
 	"fmt"
+	"math/bits"
 	"strings"
 )
 
@@ -18,8 +18,10 @@ type Game struct {
 	IsLastMoveEnPassant     bool
 	EnPassantTargetSquare   XY
 	MoveNumber              int
-	Pieces                  []map[XY]Piece
-	Kings                   []Piece
+	bb                      [2][7]uint64 // one bitboard per color per piece type (PieceNone index unused)
+	occ                     [2]uint64    // occupancy per color
+	squares                 [64]uint8    // pieceType<<1|color per square, 0 if empty
+	kingSq                  [2]int8
 	IsCheck                 bool
 	IsDoubleCheck           bool
 	IsDiscoverCheck         bool
@@ -32,6 +34,28 @@ type Game struct {
 	Actions                 []Action
 }
 
+// Color is the exported name for the color of a player or piece (e.g. core.ColorWhite).
+type Color = color
+
+// Pieces returns all pieces of the given color.
+func (g Game) Pieces(c color) []Piece {
+	pieces := make([]Piece, 0, bits.OnesCount64(g.occ[c]))
+	for occ := g.occ[c]; occ != 0; occ &= occ - 1 {
+		pieces = append(pieces, g.pieceAtSq(bits.TrailingZeros64(occ)))
+	}
+	return pieces
+}
+
+// PieceAt returns the piece at the given square, or the zero Piece (PieceNone) if empty.
+func (g Game) PieceAt(xy XY) Piece {
+	return g.pieceAtSq(sqOf(xy))
+}
+
+// King returns the king of the given color.
+func (g Game) King(c color) Piece {
+	return g.pieceAtSq(int(g.kingSq[c]))
+}
+
 func (g Game) String() string {
 	var sb strings.Builder
 	for _, s := range g.ToBoard().Board {
@@ -42,79 +66,16 @@ func (g Game) String() string {
 }
 
 func (g Game) Clone() Game {
-	clonedPieces := make([]map[XY]Piece, len(g.Pieces))
-	clonedKings := make([]Piece, len(g.Kings))
-	for color, ownerPieces := range g.Pieces {
-		clonedOwnerPieces := make(map[XY]Piece, len(ownerPieces))
-		for _, piece := range ownerPieces {
-			clonedPiece := piece
-			clonedOwnerPieces[piece.XY] = clonedPiece
-			if clonedPiece.PieceType == PieceKing {
-				clonedKings[color] = clonedPiece
-			}
-		}
-		clonedPieces[color] = clonedOwnerPieces
-	}
-	clonedInCheckBy := make([]Piece, len(g.InCheckBy))
-	copy(clonedInCheckBy, g.InCheckBy)
-	clonedActions := make([]Action, len(g.Actions))
-	copy(clonedActions, g.Actions)
-	return Game{
-		CanWhiteCastle:          g.CanWhiteCastle,
-		CanWhiteKingsideCastle:  g.CanWhiteKingsideCastle,
-		CanWhiteQueensideCastle: g.CanWhiteQueensideCastle,
-		CanBlackCastle:          g.CanBlackCastle,
-		CanBlackKingsideCastle:  g.CanBlackKingsideCastle,
-		CanBlackQueensideCastle: g.CanBlackQueensideCastle,
-		HalfMoveClock:           g.HalfMoveClock,
-		FullMoveNumber:          g.FullMoveNumber,
-		EnPassantTargetSquare:   g.EnPassantTargetSquare,
-		MoveNumber:              g.MoveNumber,
-		Pieces:                  clonedPieces,
-		Kings:                   clonedKings,
-		IsCheck:                 g.IsCheck,
-		IsDoubleCheck:           g.IsDoubleCheck,
-		IsDiscoverCheck:         g.IsDiscoverCheck,
-		IsCheckmate:             g.IsCheckmate,
-		IsStalemate:             g.IsStalemate,
-		IsDraw:                  g.IsDraw,
-		IsGameOver:              g.IsGameOver,
-		GameOverWinner:          g.GameOverWinner,
-		InCheckBy:               clonedInCheckBy,
-		Actions:                 clonedActions,
-	}
-}
-
-// shallowCloneForMove creates a clone optimized for move-legality checking: it
-// copies the piece maps (since the move mutates them) and the kings slice, but
-// shares everything else (flags, InCheckBy, Actions are not needed for the
-// "does this move leave the king in check?" test).
-func (g Game) shallowCloneForMove(_ color) Game {
-	clonedPieces := make([]map[XY]Piece, 2)
-	clonedKings := make([]Piece, 2)
-	for c := 0; c < 2; c++ {
-		m := make(map[XY]Piece, len(g.Pieces[c]))
-		for k, v := range g.Pieces[c] {
-			m[k] = v
-		}
-		clonedPieces[c] = m
-		clonedKings[c] = g.Kings[c]
-	}
-	return Game{
-		CanWhiteCastle:          g.CanWhiteCastle,
-		CanWhiteKingsideCastle:  g.CanWhiteKingsideCastle,
-		CanWhiteQueensideCastle: g.CanWhiteQueensideCastle,
-		CanBlackCastle:          g.CanBlackCastle,
-		CanBlackKingsideCastle:  g.CanBlackKingsideCastle,
-		CanBlackQueensideCastle: g.CanBlackQueensideCastle,
-		HalfMoveClock:           g.HalfMoveClock,
-		FullMoveNumber:          g.FullMoveNumber,
-		IsLastMoveEnPassant:     g.IsLastMoveEnPassant,
-		EnPassantTargetSquare:   g.EnPassantTargetSquare,
-		MoveNumber:              g.MoveNumber,
-		Pieces:                  clonedPieces,
-		Kings:                   clonedKings,
-	}
+	// The board layout lives in value-type arrays, so the struct copy is already a
+	// deep copy; only the slices need explicit copying. IsLastMoveEnPassant is
+	// deliberately dropped, matching the historical Clone behavior.
+	clonedGame := g
+	clonedGame.IsLastMoveEnPassant = false
+	clonedGame.InCheckBy = make([]Piece, len(g.InCheckBy))
+	copy(clonedGame.InCheckBy, g.InCheckBy)
+	clonedGame.Actions = make([]Action, len(g.Actions))
+	copy(clonedGame.Actions, g.Actions)
+	return clonedGame
 }
 
 type castleType int
@@ -418,54 +379,6 @@ type Piece struct {
 func (p Piece) String() string {
 	return fmt.Sprintf("%v's %v at %v", p.Owner, p.PieceType, p.XY.ToAlgebraic())
 }
-
-var (
-	blackPawnDeltas = []XY{{0, 1}, {0, 2}, {-1, 1}, {1, 1}}
-	whitePawnDeltas = []XY{{0, -1}, {0, -2}, {-1, -1}, {1, -1}}
-)
-
-var movementDeltasByPieceType = map[PieceType][]XY{
-	PieceQueen:  {{-1, 0}, {1, 0}, {0, -1}, {0, 1}, {-1, -1}, {1, 1}, {-1, 1}, {1, -1}},
-	PieceKing:   {{-1, 0}, {1, 0}, {0, -1}, {0, 1}, {-1, -1}, {1, 1}, {-1, 1}, {1, -1}, {-2, 0}, {2, 0}}, // Castling
-	PieceBishop: {{-1, -1}, {1, 1}, {-1, 1}, {1, -1}},
-	PieceKnight: {{-1, -2}, {1, -2}, {-1, 2}, {1, 2}, {-2, -1}, {-2, 1}, {2, -1}, {2, 1}},
-	PieceRook:   {{-1, 0}, {1, 0}, {0, -1}, {0, 1}},
-	// N.B. Pawn will be dealt with separately, because it's dependant on color
-}
-
-var (
-	errNotInBounds                = errors.New("piece is not in board bounds")
-	errFriendlyPieceInDestination = errors.New("there is a friendly piece in destination")
-	errPieceInBetween             = errors.New("there is a piece between source and destination")
-	errPieceBlockingPawn          = errors.New("there is a piece blocking pawn from moving forwards or en passant")
-	errPawnCantCapture            = errors.New("pawn can't capture because there is no opponent piece (including en passant)")
-	errCantCastle                 = errors.New("king can't castle, because pieces moved, pieces in middle or squares threatened")
-	errCantPromote                = errors.New("pawn can't promote because wrong position or invalid promotion piece type")
-	errActionLeavesKingThreatened = errors.New("action leaves king in a check")
-)
-
-var (
-	emptyXYsForCastlingByColorAndCastleType = map[color]map[castleType][]XY{
-		ColorBlack: {
-			castleTypeQueenside: {{1, 0}, {2, 0}, {3, 0}},
-			castleTypeKingside:  {{5, 0}, {6, 0}},
-		},
-		ColorWhite: {
-			castleTypeQueenside: {{1, 7}, {2, 7}, {3, 7}},
-			castleTypeKingside:  {{5, 7}, {6, 7}},
-		},
-	}
-	unthreatenedXYsForCastlingByColorAndCastleType = map[color]map[castleType][]XY{
-		ColorBlack: {
-			castleTypeQueenside: {{2, 0}, {3, 0}, {4, 0}},
-			castleTypeKingside:  {{4, 0}, {5, 0}, {6, 0}},
-		},
-		ColorWhite: {
-			castleTypeQueenside: {{2, 7}, {3, 7}, {4, 7}},
-			castleTypeKingside:  {{4, 7}, {5, 7}, {6, 7}},
-		},
-	}
-)
 
 type GameStep struct {
 	StepString      string
