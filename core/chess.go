@@ -31,8 +31,8 @@ func (g Game) shallowCloneForMove() Game {
 func (g Game) updateBoardLayout(a Action) Game {
 	clonedGame := g.shallowCloneForMove()
 
-	// Special case for resignation action, because it doesn't require board changes
-	if a.IsResign {
+	// Special case for resignation and draw actions, because they don't require board changes
+	if a.IsResign || a.IsDraw {
 		return clonedGame
 	}
 
@@ -77,7 +77,10 @@ func (g Game) calculateAllActions() []Action {
 	for occ := g.occ[turn]; occ != 0; occ &= occ - 1 {
 		actions = g.pieceAtSq(bits.TrailingZeros64(occ)).appendActions(actions, g)
 	}
+	// Terminal actions: resigning is always possible, and any player may propose a
+	// draw at any point (the engine assumes the opponent accepts).
 	actions = append(actions, Action{FromPiece: Piece{Owner: turn}, IsResign: true})
+	actions = append(actions, Action{FromPiece: Piece{Owner: turn}, IsDraw: true})
 	return actions
 }
 
@@ -262,6 +265,14 @@ func (g Game) DoAction(a Action) Game {
 		return newGame
 	}
 
+	// Special case for draw action (proposing a draw, assumed accepted)
+	if a.IsDraw {
+		newGame.IsGameOver = true
+		newGame.IsDraw = true
+		newGame.GameOverWinner = -1
+		return newGame
+	}
+
 	// Castling context update: moving player's king or rook
 	switch {
 	case lastTurn == ColorBlack && (a.IsCastle || a.FromPiece.PieceType == PieceKing):
@@ -367,7 +378,14 @@ func (g Game) calculateCriticalFlags() Game {
 	}
 
 	g.Actions = g.calculateAllActions() // This is incredibly expensive!
-	if len(g.Actions) == 1 && g.Actions[0].IsResign {
+	hasBoardActions := false
+	for _, a := range g.Actions {
+		if !a.IsResign && !a.IsDraw {
+			hasBoardActions = true
+			break
+		}
+	}
+	if !hasBoardActions && len(g.Actions) > 0 {
 		g.IsCheckmate = g.IsCheck
 		g.IsStalemate = !g.IsCheck
 	}

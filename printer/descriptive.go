@@ -120,7 +120,7 @@ func move(gameStep core.GameStep, gameCharacteristics GameCharacteristics) strin
 }
 
 func resign(gameStep core.GameStep, gameCharacteristics GameCharacteristics) string {
-	if !gameStep.StepAction.IsResign || gameCharacteristics.usesEndGameSymbol == nil {
+	if (!gameStep.StepAction.IsResign && !gameStep.StepAction.IsDraw) || gameCharacteristics.usesEndGameSymbol == nil {
 		return ""
 	}
 	return fmt.Sprintf("%v", *gameCharacteristics.usesEndGameSymbol)
@@ -132,7 +132,7 @@ func (p DescriptivePrinter) PrintAction(gameStep core.GameStep, gameCharacterist
 	if gameStep.StepAction.IsCastle {
 		return castle(gameStep, gameCharacteristics), nil
 	}
-	if gameStep.StepAction.IsResign {
+	if gameStep.StepAction.IsResign || gameStep.StepAction.IsDraw {
 		return resign(gameStep, gameCharacteristics), nil
 	}
 	if gameStep.StepAction.IsCapture {

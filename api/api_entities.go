@@ -29,16 +29,22 @@ type InputGame struct {
 
 // InputAction is the input interface to supply a chess action.
 //
-// - `fromSquare` and `toSquare` are required, and must be board cells described in
-// Algebraic Notation (e.g. `e2`). Note that `a1` is where the White Queen's Rook starts.
+// - `fromSquare` and `toSquare` are required (unless `isResign` or `isDraw` is set),
+// and must be board cells described in Algebraic Notation (e.g. `e2`). Note that
+// `a1` is where the White Queen's Rook starts.
 //
 // - `promotionPieceType` is only required if the action is a promotion.
 //
 // - `promotionPieceType` must be one of: `{Queen|King|Bishop|Knight|Rook|Pawn}`.
+//
+// - `isResign` resigns the game for the player to move; `isDraw` proposes a draw,
+// which the engine assumes accepted. When either is set, the other fields are ignored.
 type InputAction struct {
 	FromSquare         string `json:"fromSquare"`
 	ToSquare           string `json:"toSquare"`
 	PromotionPieceType string `json:"promotionPieceType"`
+	IsResign           bool   `json:"isResign"`
+	IsDraw             bool   `json:"isDraw"`
 }
 
 // Board is one of the input interfaces to supply a chess game.
@@ -157,6 +163,7 @@ type OutputAction struct {
 	ToSquare           string `json:"toSquare"`
 	IsCapture          bool   `json:"isCapture"`
 	IsResign           bool   `json:"isResign"`
+	IsDraw             bool   `json:"isDraw"`
 	IsPromotion        bool   `json:"isPromotion"`
 	IsEnPassantCapture bool   `json:"isEnPassantCapture"`
 	IsCastle           bool   `json:"isCastle"`
@@ -312,6 +319,7 @@ func mapInternalActionToAction(a core.Action) OutputAction {
 		ToSquare:           a.ToXY.ToAlgebraic(),
 		IsCapture:          a.IsCapture,
 		IsResign:           a.IsResign,
+		IsDraw:             a.IsDraw,
 		IsPromotion:        a.IsPromotion,
 		IsEnPassantCapture: a.IsEnPassantCapture,
 		IsCastle:           a.IsCastle,

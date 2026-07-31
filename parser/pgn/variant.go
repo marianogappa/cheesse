@@ -149,6 +149,10 @@ func (p *VariantPGN) Finalize(pg *parser.ParsingGame) error {
 
 // ActionToStringVariants implements ParserVariant.ActionToStringVariants for PGN.
 func (p *VariantPGN) ActionToStringVariants(a core.Action, g core.Game) []string {
+	// Terminal actions have no move notation: results are handled as result tokens.
+	if a.IsResign || a.IsDraw {
+		return nil
+	}
 	if a.IsKingsideCastle {
 		return []string{"O-O", "O-O+", "O-O#", "0-0", "0-0+", "0-0#"}
 	}

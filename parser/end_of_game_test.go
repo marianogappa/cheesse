@@ -12,19 +12,20 @@ func TestAlgebraicParserResultMarkers(t *testing.T) {
 	testCases := []struct {
 		name   string
 		marker string
+		isDraw bool
 	}{
-		{"ASCII 1-0", "1-0"},
-		{"en-dash 1–0", "1–0"},
-		{"ASCII 0-1", "0-1"},
-		{"en-dash 0–1", "0–1"},
-		{"ASCII ½-½", "½-½"},
-		{"en-dash ½–½", "½–½"},
-		{"ASCII 1/2-1/2", "1/2-1/2"},
-		{"en-dash 1/2–1/2", "1/2–1/2"},
-		{"resigns", "resigns"},
-		{"Resigns", "Resigns"},
-		{"White resigns", "White resigns"},
-		{"Black resigns", "Black resigns"},
+		{"ASCII 1-0", "1-0", false},
+		{"en-dash 1–0", "1–0", false},
+		{"ASCII 0-1", "0-1", false},
+		{"en-dash 0–1", "0–1", false},
+		{"ASCII ½-½", "½-½", true},
+		{"en-dash ½–½", "½–½", true},
+		{"ASCII 1/2-1/2", "1/2-1/2", true},
+		{"en-dash 1/2–1/2", "1/2–1/2", true},
+		{"resigns", "resigns", false},
+		{"Resigns", "Resigns", false},
+		{"White resigns", "White resigns", false},
+		{"Black resigns", "Black resigns", false},
 	}
 
 	for _, tc := range testCases {
@@ -33,7 +34,11 @@ func TestAlgebraicParserResultMarkers(t *testing.T) {
 			steps, err := NewNotationParserAlgebraic(Characteristics{}).Parse(core.NewDefaultGame(), game)
 			require.NoError(t, err, "result marker %q should parse", tc.marker)
 			require.Len(t, steps, 3)
-			assert.True(t, steps[2].StepAction.IsResign, "last step should be the terminal action")
+			if tc.isDraw {
+				assert.True(t, steps[2].StepAction.IsDraw, "draw marker should match the draw action")
+			} else {
+				assert.True(t, steps[2].StepAction.IsResign, "decisive marker should match the resign action")
+			}
 		})
 	}
 }
@@ -42,11 +47,12 @@ func TestDescriptiveParserResultMarkers(t *testing.T) {
 	testCases := []struct {
 		name   string
 		marker string
+		isDraw bool
 	}{
-		{"ASCII 1-0", "1-0"},
-		{"en-dash 1–0", "1–0"},
-		{"ASCII ½-½", "½-½"},
-		{"Resigns", "Resigns"},
+		{"ASCII 1-0", "1-0", false},
+		{"en-dash 1–0", "1–0", false},
+		{"ASCII ½-½", "½-½", true},
+		{"Resigns", "Resigns", false},
 	}
 
 	for _, tc := range testCases {
@@ -55,7 +61,11 @@ func TestDescriptiveParserResultMarkers(t *testing.T) {
 			steps, err := NewNotationParserDescriptive(Characteristics{}).Parse(core.NewDefaultGame(), game)
 			require.NoError(t, err, "result marker %q should parse", tc.marker)
 			require.Len(t, steps, 3)
-			assert.True(t, steps[2].StepAction.IsResign, "last step should be the terminal action")
+			if tc.isDraw {
+				assert.True(t, steps[2].StepAction.IsDraw, "draw marker should match the draw action")
+			} else {
+				assert.True(t, steps[2].StepAction.IsResign, "decisive marker should match the resign action")
+			}
 		})
 	}
 }

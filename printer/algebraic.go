@@ -164,7 +164,7 @@ func algMove(gameStep core.GameStep, gameCharacteristics GameCharacteristics) st
 }
 
 func algResign(gameStep core.GameStep, gameCharacteristics GameCharacteristics) string {
-	if !gameStep.StepAction.IsResign || gameCharacteristics.usesEndGameSymbol == nil {
+	if (!gameStep.StepAction.IsResign && !gameStep.StepAction.IsDraw) || gameCharacteristics.usesEndGameSymbol == nil {
 		return ""
 	}
 	return fmt.Sprintf("%v", *gameCharacteristics.usesEndGameSymbol)
@@ -175,7 +175,7 @@ func (p AlgebraicPrinter) PrintAction(gameStep core.GameStep, gameCharacteristic
 	if gameStep.StepAction.IsCastle {
 		return algCastle(gameStep, gameCharacteristics), nil
 	}
-	if gameStep.StepAction.IsResign {
+	if gameStep.StepAction.IsResign || gameStep.StepAction.IsDraw {
 		return algResign(gameStep, gameCharacteristics), nil
 	}
 	if gameStep.StepAction.IsCapture {

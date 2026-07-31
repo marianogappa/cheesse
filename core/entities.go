@@ -121,6 +121,7 @@ type Action struct {
 	ToXY               XY
 	IsCapture          bool
 	IsResign           bool
+	IsDraw             bool
 	IsPromotion        bool
 	IsEnPassantCapture bool
 	IsCastle           bool
@@ -144,6 +145,8 @@ func (a Action) String() string {
 		return fmt.Sprintf("%s's %s at %v captures %s's %s at %v", a.FromPiece.Owner, a.FromPiece.PieceType, a.FromPiece.XY.ToAlgebraic(), a.CapturedPiece.Owner, a.CapturedPiece.PieceType, a.CapturedPiece.XY.ToAlgebraic())
 	case a.IsResign:
 		return fmt.Sprintf("%s resigns", a.FromPiece.Owner)
+	case a.IsDraw:
+		return fmt.Sprintf("%s draws", a.FromPiece.Owner)
 	case a.IsPromotion:
 		return fmt.Sprintf("%s's Pawn at %v promotes to %v", a.FromPiece.Owner, a.FromPiece.XY.ToAlgebraic(), a.PromotionPieceType)
 	case a.IsKingsideCastle:

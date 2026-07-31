@@ -23,6 +23,7 @@ type actionPattern struct {
 	toY                *int
 	isCapture          *bool
 	isResign           *bool
+	isDraw             *bool
 	isPromotion        *bool
 	isEnPassantCapture *bool
 	isCastle           *bool
@@ -45,6 +46,7 @@ func (p actionPattern) Clone() actionPattern {
 		toY:                cloneInt(p.toY),
 		isCapture:          cloneBool(p.isCapture),
 		isResign:           cloneBool(p.isResign),
+		isDraw:             cloneBool(p.isDraw),
 		isPromotion:        cloneBool(p.isPromotion),
 		isEnPassantCapture: cloneBool(p.isEnPassantCapture),
 		isCastle:           cloneBool(p.isCastle),
@@ -130,6 +132,11 @@ func (p actionPattern) String() string {
 }
 
 func (p *actionPattern) isMatch(a core.Action) bool {
+	// A draw action can never be inferred from a move string: only a pattern that
+	// explicitly targets it may match (no notation pattern does so at present).
+	if a.IsDraw && (p.isDraw == nil || !*p.isDraw) {
+		return false
+	}
 	if !pieceTypeMatcher(p.fromPieceType)(a.FromPiece.PieceType) ||
 		!intMatcher(p.fromX)(a.FromPiece.XY.X) ||
 		!intMatcher(p.fromY)(a.FromPiece.XY.Y) ||
@@ -137,6 +144,7 @@ func (p *actionPattern) isMatch(a core.Action) bool {
 		!intMatcher(p.toY)(a.ToXY.Y) ||
 		!boolMatcher(p.isCapture)(a.IsCapture) ||
 		!boolMatcher(p.isResign)(a.IsResign) ||
+		!boolMatcher(p.isDraw)(a.IsDraw) ||
 		!boolMatcher(p.isPromotion)(a.IsPromotion) ||
 		!boolMatcher(p.isEnPassantCapture)(a.IsEnPassantCapture) ||
 		!boolMatcher(p.isCastle)(a.IsCastle) ||
