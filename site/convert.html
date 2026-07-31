@@ -40,12 +40,14 @@
             <option value="ICCF">ICCF</option>
             <option value="Smith">Smith</option>
           </select>
-          <label for="sideToMove" style="margin-left:8px">Side to move</label>
-          <select id="sideToMove" onchange="doRefresh()">
-            <option value="w">White</option>
-            <option value="b">Black</option>
-          </select>
         </div>
+        <details class="custom-position">
+          <summary>Custom starting position</summary>
+          <div class="control-group" style="margin-top:8px">
+            <label for="fenInput">Starting FEN (leave blank for default)</label>
+            <input type="text" id="fenInput" placeholder="rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1" oninput="doRefresh()" style="width:100%;font-family:monospace;font-size:12px;padding:5px;border:1px solid #ccc;border-radius:4px;">
+          </div>
+        </details>
         <div id="notationInfo"></div>
         <div id="parseError"></div>
         <div class="move-nav">
@@ -76,6 +78,11 @@ const presets = {
 let boardUi, positions = [], currentPos = -1
 const defaultFEN = 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1'
 
+function getParam(name) {
+  const m = new RegExp('[?&]' + name + '=([^&#]*)').exec(location.search)
+  return m ? decodeURIComponent(m[1]) : ''
+}
+
 const go = new Go()
 fetch('cheesse.wasm').then(r => r.arrayBuffer()).then(bytes =>
   WebAssembly.instantiate(bytes, go.importObject)
@@ -86,11 +93,23 @@ function init() {
   document.getElementById('app').style.display = ''
   boardUi = ChessBoard('board', { pieceTheme: 'img/chesspieces/wikipedia/{piece}.png' })
   boardUi.start()
-  setPreset('descriptive')
+
+  const matchParam = getParam('match')
+  if (matchParam) {
+    document.getElementById('input').value = matchParam
+    doRefresh()
+  } else {
+    setPreset('descriptive')
+  }
 }
 
 function setPreset(name) { document.getElementById('input').value = presets[name]; doRefresh() }
-function currentBoard() { return currentPos < 0 ? defaultFEN : positions[currentPos] }
+function currentBoard() { return currentPos < 0 ? getInitialFEN() : positions[currentPos] }
+
+function getInitialFEN() {
+  const custom = document.getElementById('fenInput').value.trim()
+  return custom || defaultFEN
+}
 
 function next() { if (currentPos < positions.length - 1) { currentPos++; boardUi.position(currentBoard()); highlightCurrent() } }
 function prev() { if (currentPos > -1) { currentPos--; boardUi.position(currentBoard()); highlightCurrent() } }
@@ -104,12 +123,12 @@ function highlightCurrent() {
 
 function doRefresh() {
   const targetNotation = document.getElementById('targetNotation').value
-  const sideToMove = document.getElementById('sideToMove').value
   const inputText = document.getElementById('input').value
   if (!inputText.trim()) { document.getElementById('actions').innerHTML = ''; document.getElementById('notationInfo').innerHTML = ''; document.getElementById('parseError').innerHTML = ''; return }
-  const initialFEN = `${boardUi.fen()} ${sideToMove} KQkq - 0 1`
 
+  const initialFEN = getInitialFEN()
   const raw = cheesse_api.convertNotation(inputText, targetNotation, initialFEN)
+
   currentPos = -1
   boardUi.position(currentBoard())
   positions = raw.boards || []

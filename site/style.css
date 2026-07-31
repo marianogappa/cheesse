@@ -68,8 +68,21 @@ footer { margin-top: 40px; padding: 14px 20px; background: #f0f0f0; color: #777;
 footer a { color: #555; }
 footer a:hover { text-decoration: underline; }
 
-/* Fixed board size, no responsive breakpoints */
+/* Fixed board size */
 .responsive-board { width: 380px; }
+
+/* Side labels on play page */
+.side-label { font-size: 12px; color: #666; padding: 3px 0; font-weight: 500; }
+
+/* Custom position collapsible */
+.custom-position { margin: 8px 0; font-size: 13px; }
+.custom-position summary { cursor: pointer; color: #5b9bd5; font-size: 12px; }
+.custom-position summary:hover { text-decoration: underline; }
+
+/* Nav action links (Convert this game, Play from here) */
+.nav-sep { flex: 1; }
+.nav-action { font-size: 12px; color: #5b9bd5; cursor: pointer; text-decoration: none; }
+.nav-action:hover { text-decoration: underline; }
 
 /* Radio groups */
 .radio-group { display: flex; gap: 12px; align-items: center; }

@@ -22,7 +22,9 @@
   <div id="app" style="display:none">
     <div class="page-layout">
       <div class="board-col">
+        <div class="side-label" id="topLabel"></div>
         <div id="board" class="responsive-board"></div>
+        <div class="side-label" id="bottomLabel"></div>
       </div>
       <div class="controls-col">
         <div class="game-settings">
@@ -44,7 +46,7 @@
           <button class="new-game-btn" onclick="newGame()">New Game</button>
         </div>
         <div class="status" id="status">Your turn</div>
-        <div class="move-log" id="moveLog"></div>
+        <div class="move-log actions" id="moveLog"></div>
       </div>
     </div>
   </div>
@@ -56,6 +58,13 @@
 <script src="common.js"></script>
 <script>
 let boardUi, fen, humanSide, gameOver, moveLog = []
+
+function getParam(name) {
+  const m = new RegExp('[?&]' + name + '=([^&#]*)').exec(location.search)
+  return m ? decodeURIComponent(m[1]) : ''
+}
+
+const startFEN = getParam('fen') || 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1'
 
 const go = new Go()
 fetch('cheesse.wasm').then(r => r.arrayBuffer()).then(bytes =>
@@ -69,9 +78,14 @@ function init() {
 
 function difficulty() { return document.querySelector('input[name="difficulty"]:checked').value }
 
+function updateSideLabels() {
+  document.getElementById('topLabel').textContent = humanSide === 'white' ? 'AI (Black)' : 'AI (White)'
+  document.getElementById('bottomLabel').textContent = humanSide === 'white' ? 'You (White)' : 'You (Black)'
+}
+
 function newGame() {
   humanSide = document.querySelector('input[name="side"]:checked').value
-  fen = 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1'
+  fen = startFEN
   gameOver = false
   moveLog = []
   document.getElementById('moveLog').innerHTML = ''
@@ -79,7 +93,7 @@ function newGame() {
 
   boardUi = ChessBoard('board', {
     draggable: true,
-    position: 'start',
+    position: fen.split(' ')[0],
     orientation: humanSide,
     pieceTheme: 'img/chesspieces/wikipedia/{piece}.png',
     onDragStart: onDragStart,
@@ -87,7 +101,10 @@ function newGame() {
     onSnapEnd: onSnapEnd
   })
 
-  if (humanSide === 'black') setTimeout(aiMove, 100)
+  updateSideLabels()
+
+  const sideToMoveFirst = fen.split(' ')[1] === 'w' ? 'white' : 'black'
+  if (sideToMoveFirst !== humanSide) setTimeout(aiMove, 100)
 }
 
 function sideToMove() { return fen.split(' ')[1] === 'w' ? 'white' : 'black' }

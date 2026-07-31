@@ -35,6 +35,9 @@
         <div class="move-nav">
           <button onclick="prev()" title="Previous move">&lsaquo;</button>
           <button onclick="next()" title="Next move">&rsaquo;</button>
+          <span class="nav-sep"></span>
+          <a class="nav-action" onclick="goToConvert()">Convert this game...</a>
+          <a class="nav-action" onclick="goToPlay()">Play from here</a>
         </div>
         <div class="actions" id="actions"></div>
       </div>
@@ -83,6 +86,16 @@ function highlightCurrent() {
   document.querySelectorAll('.actions a').forEach(el => el.classList.remove('current'))
   const cur = document.querySelector(`.pos-${currentPos}`)
   if (cur) cur.classList.add('current')
+}
+
+function goToConvert() {
+  const match = encodeURIComponent(document.getElementById('input').value)
+  location.href = `convert.html?match=${match}`
+}
+
+function goToPlay() {
+  const fen = encodeURIComponent(currentBoard())
+  location.href = `play.html?fen=${fen}`
 }
 
 function refresh() {
