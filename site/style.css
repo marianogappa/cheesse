@@ -1,0 +1,92 @@
+* { box-sizing: border-box; }
+body { font-family: system-ui, sans-serif; font-size: 14px; margin: 0; padding: 0; background: #fafafa; color: #333; }
+
+/* Header */
+header { background: #2c3e50; color: white; padding: 0 20px; display: flex; align-items: center; height: 48px; }
+header .logo { display: flex; align-items: center; gap: 8px; text-decoration: none; color: white; }
+header .logo img { width: 30px; height: 30px; }
+header .logo h1 { margin: 0; font-size: 18px; font-weight: 400; letter-spacing: 0.5px; }
+header nav { margin-left: auto; display: flex; gap: 4px; }
+header nav a { color: #ccc; text-decoration: none; font-size: 13px; padding: 6px 12px; border-radius: 4px; transition: background 0.15s; }
+header nav a:hover { background: rgba(255,255,255,0.1); color: white; }
+header nav a.active { color: white; background: rgba(255,255,255,0.15); font-weight: 500; }
+
+/* Layout */
+main { max-width: 960px; margin: 0 auto; padding: 12px; }
+.page-layout { display: flex; gap: 12px; align-items: flex-start; }
+.board-col { flex: 0 0 auto; }
+.controls-col { flex: 1 1 0; min-width: 0; overflow: hidden; }
+main h2 { font-size: 16px; margin: 4px 0 12px; }
+
+/* Controls */
+.control-group { margin-bottom: 14px; }
+.control-group label { font-size: 13px; color: #555; display: block; margin-bottom: 4px; font-weight: 500; }
+textarea { width: 100%; height: 160px; font-family: 'SF Mono', 'Consolas', monospace; font-size: 13px; padding: 10px; border: 1px solid #ccc; border-radius: 6px; resize: vertical; }
+textarea:focus { outline: none; border-color: #5b9bd5; box-shadow: 0 0 0 2px rgba(91,155,213,0.2); }
+select { padding: 5px 8px; border: 1px solid #ccc; border-radius: 4px; font-size: 13px; background: white; }
+button { padding: 5px 14px; cursor: pointer; border: 1px solid #ccc; border-radius: 4px; background: white; font-size: 13px; transition: background 0.1s; }
+button:hover { background: #f0f0f0; }
+.inline-controls { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+
+/* Presets as subtle links, not prominent buttons */
+.presets { font-size: 12px; color: #888; }
+.presets a { color: #5b9bd5; text-decoration: none; cursor: pointer; }
+.presets a:hover { text-decoration: underline; }
+
+/* Move navigation + actions */
+.move-nav { display: flex; align-items: center; gap: 6px; margin-bottom: 8px; }
+.move-nav button { padding: 3px 10px; font-size: 16px; font-weight: bold; line-height: 1; }
+.actions { font-family: 'SF Mono', 'Consolas', monospace; font-size: 13px; }
+.actions table { border-collapse: collapse; }
+.actions td { padding: 1px 0; vertical-align: top; }
+.actions .col-num { color: #999; font-size: 12px; text-align: right; padding-right: 5px; width: 28px; user-select: none; }
+.actions .col-w, .actions .col-b { min-width: 50px; padding: 1px 4px; }
+.actions a { color: #2563eb; text-decoration: none; cursor: pointer; padding: 1px 3px; border-radius: 2px; }
+.actions a:hover { background: #e8f0fe; }
+.actions .invalid { color: #dc2626; font-style: italic; }
+.actions .current { font-weight: bold; color: #1e3a5f; background: #dbeafe; }
+
+/* Info and errors */
+.notation-info { margin: 12px 0; padding: 6px 10px; background: #f0fdf4; border-radius: 4px; color: #166534; font-size: 13px; }
+.parse-error { margin-top: 8px; padding: 8px 12px; background: #fef2f2; border: 1px solid #fca5a5; border-radius: 6px; color: #991b1b; font-size: 12px; font-family: 'SF Mono', 'Consolas', monospace; word-break: break-word; }
+
+/* Play page */
+.game-settings { background: #f5f5f5; border: 1px solid #e0e0e0; border-radius: 8px; padding: 14px 16px; margin-bottom: 16px; }
+.setting-row { display: flex; align-items: center; gap: 12px; margin-bottom: 10px; }
+.setting-row:last-of-type { margin-bottom: 14px; }
+.setting-label { font-size: 13px; font-weight: 500; color: #555; min-width: 65px; }
+.new-game-btn { width: 100%; padding: 8px; font-size: 14px; font-weight: 500; background: #2c3e50; color: white; border: none; border-radius: 5px; cursor: pointer; transition: background 0.15s; }
+.new-game-btn:hover { background: #34495e; }
+.status { margin-top: 12px; font-size: 15px; font-weight: 500; }
+.move-log { margin-top: 10px; font-family: 'SF Mono', 'Consolas', monospace; font-size: 13px; max-height: 300px; overflow-y: auto; line-height: 1.6; }
+
+/* Loading */
+#loading { text-align: center; padding: 60px; font-size: 16px; color: #999; }
+
+/* Footer */
+footer { margin-top: 40px; padding: 14px 20px; background: #f0f0f0; color: #777; font-size: 11px; text-align: center; border-top: 1px solid #e0e0e0; }
+footer a { color: #555; }
+footer a:hover { text-decoration: underline; }
+
+/* Fixed board size */
+.responsive-board { width: 380px; }
+
+/* Board action links below the board */
+.board-actions { margin-top: 6px; display: flex; gap: 16px; }
+
+/* Side labels on play page */
+.side-label { font-size: 12px; color: #666; padding: 3px 0; font-weight: 500; }
+
+/* Custom position collapsible */
+.custom-position { margin: 8px 0; font-size: 13px; }
+.custom-position summary { cursor: pointer; color: #5b9bd5; font-size: 12px; }
+.custom-position summary:hover { text-decoration: underline; }
+
+/* Nav action links (Convert this game, Play from here) */
+.nav-sep { flex: 1; }
+.nav-action { font-size: 12px; color: #5b9bd5; cursor: pointer; text-decoration: none; }
+.nav-action:hover { text-decoration: underline; }
+
+/* Radio groups */
+.radio-group { display: flex; gap: 12px; align-items: center; }
+.radio-group label { font-size: 13px; color: #333; font-weight: normal; cursor: pointer; display: flex; align-items: center; gap: 3px; }

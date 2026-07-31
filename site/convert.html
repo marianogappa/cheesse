@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>cheesse - Convert</title>
+  <link rel="stylesheet" href="chessboard.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <a class="logo" href="convert.html"><img src="logo.svg" alt="cheesse"><h1>cheesse</h1></a>
+  <nav>
+    <a href="parse.html">Parse</a>
+    <a href="convert.html" class="active">Convert</a>
+    <a href="play.html">Play</a>
+  </nav>
+</header>
+<main>
+  <h2>Convert between notations</h2>
+  <div id="loading">Loading WASM...</div>
+  <div id="app" style="display:none">
+    <div class="page-layout">
+      <div class="board-col">
+        <div id="board" class="responsive-board"></div>
+        <details class="custom-position">
+          <summary>Custom starting position</summary>
+          <div style="margin-top:6px">
+            <div id="editorBoard" style="width:200px"></div>
+            <div style="margin-top:4px">
+              <button onclick="editorStart()">Starting position</button>
+              <button onclick="editorClear()">Empty board</button>
+            </div>
+            <div style="margin-top:6px">
+              <label style="font-size:12px;color:#555">Side to move</label>
+              <select id="sideToMove" onchange="doRefresh()" style="font-size:12px">
+                <option value="w">White</option>
+                <option value="b">Black</option>
+              </select>
+            </div>
+            <div style="margin-top:6px">
+              <label style="font-size:12px;color:#555">Or paste FEN</label>
+              <input type="text" id="fenInput" placeholder="FEN string" oninput="onFENInput()" style="width:100%;font-family:monospace;font-size:11px;padding:4px;border:1px solid #ccc;border-radius:4px;">
+            </div>
+          </div>
+        </details>
+      </div>
+      <div class="controls-col">
+        <div class="control-group">
+          <label for="input">Paste a game in any notation</label>
+          <textarea id="input" oninput="doRefresh()"></textarea>
+          <div class="presets">Try: <a onclick="setPreset('algebraic')">Algebraic</a> | <a onclick="setPreset('descriptive')">Descriptive</a> | <a onclick="setPreset('pgn')">PGN</a> | <a onclick="setPreset('coordinate')">Coordinate</a> | <a onclick="setPreset('iccf')">ICCF</a> | <a onclick="setPreset('smith')">Smith</a> | <a onclick="setPreset('figurine')">Figurine</a></div>
+        </div>
+        <div class="inline-controls">
+          <label for="targetNotation">Convert to</label>
+          <select id="targetNotation" onchange="doRefresh()">
+            <option value="Algebraic">Algebraic</option>
+            <option value="Figurine">Figurine</option>
+            <option value="Descriptive">Descriptive</option>
+            <option value="Coordinate">Coordinate</option>
+            <option value="ICCF">ICCF</option>
+            <option value="Smith">Smith</option>
+          </select>
+        </div>
+        <div id="notationInfo"></div>
+        <div id="parseError"></div>
+        <div class="move-nav">
+          <button onclick="prev()" title="Previous move">&lsaquo;</button>
+          <button onclick="next()" title="Next move">&rsaquo;</button>
+        </div>
+        <div class="actions" id="actions"></div>
+      </div>
+    </div>
+  </div>
+</main>
+<script src="jquery.min.js"></script>
+<script src="chessboard.min.js"></script>
+<script src="wasm_exec.js"></script>
+<script src="cheesse.js"></script>
+<script src="common.js"></script>
+<script>
+const presets = {
+  pgn: '[Event "Cheesse Testing"]\n[Site "Buenos Aires, Argentina"]\n[Date "2015.??.??"]\n[Round "1"]\n[Result "1/2-1/2"]\n[White "Fake Player 1"]\n[Black "Fake Player 2"]\n\n1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bb5+ Bd7 5. Bxd7+ Qxd7 6. Nge2\ndxe4 7. 0-0',
+  algebraic: '1. e4 e6\n2. d4 d5\n3. Nc3 Bb4\n4. Bb5+ Bd7\n5. Bxd7+ Qxd7\n6. Ne2 dxe4\n7. 0-0',
+  coordinate: '1. e2-e4 e7-e6\n2. d2-d4 d7-d5\n3. b1-c3 f8-b4\n4. f1-b5+ c8-d7\n5. b5xd7+ d8xd7\n6. g1-e2 d5xe4\n7. 0-0',
+  descriptive: '1. P-K4 P-K3\n2. P-Q4 P-Q4\n3. N-QB3 B-N5\n4. B-N5ch B-Q2\n5. BxBch QxB\n6. KN-K2 PxP\n7. 0-0',
+  iccf: '1. 5254 5756\n2. 4244 4745\n3. 2133 6824\n4. 6125 3847\n5. 2547 4847\n6. 7152 4554\n7. 5171',
+  smith: '1. e2e4  e7e6\n2. d2d4  d7d5\n3. b1c3  f8b4\n4. f1b5  c8d7\n5. b5d7b d8d7b\n6. g1e2  d5e4p\n7. e1g1c',
+  figurine: '1. e4 e6\n2. d4 d5\n3. ♘c3 ♝b4\n4. ♗b5+ ♝d7\n5. ♗xd7+ ♛xd7\n6. ♘e2 dxe4\n7. 0-0'
+}
+
+let boardUi, editorBoardUi, positions = [], currentPos = -1
+const defaultFEN = 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1'
+
+function getParam(name) {
+  const m = new RegExp('[?&]' + name + '=([^&#]*)').exec(location.search)
+  return m ? decodeURIComponent(m[1]) : ''
+}
+
+const go = new Go()
+fetch('cheesse.wasm').then(r => r.arrayBuffer()).then(bytes =>
+  WebAssembly.instantiate(bytes, go.importObject)
+).then(result => { go.run(result.instance); setTimeout(init, 50) })
+
+function init() {
+  document.getElementById('loading').style.display = 'none'
+  document.getElementById('app').style.display = ''
+  boardUi = ChessBoard('board', { pieceTheme: 'img/chesspieces/wikipedia/{piece}.png' })
+  boardUi.start()
+
+  editorBoardUi = ChessBoard('editorBoard', {
+    draggable: true,
+    dropOffBoard: 'trash',
+    showNotation: false,
+    sparePieces: true,
+    pieceTheme: 'img/chesspieces/wikipedia/{piece}.png',
+    onChange: function() { doRefresh() }
+  })
+  editorBoardUi.start()
+
+  const matchParam = getParam('match')
+  if (matchParam) {
+    document.getElementById('input').value = matchParam
+    doRefresh()
+  } else {
+    setPreset('descriptive')
+  }
+}
+
+function setPreset(name) { document.getElementById('input').value = presets[name]; doRefresh() }
+function currentBoard() { return currentPos < 0 ? getInitialFEN() : positions[currentPos] }
+
+function editorStart() { editorBoardUi.start(); document.getElementById('fenInput').value = ''; doRefresh() }
+function editorClear() { editorBoardUi.clear(); document.getElementById('fenInput').value = ''; doRefresh() }
+
+function onFENInput() {
+  const fen = document.getElementById('fenInput').value.trim()
+  if (fen) {
+    const placement = fen.split(' ')[0]
+    if (placement) editorBoardUi.position(placement, false)
+  }
+  doRefresh()
+}
+
+function getInitialFEN() {
+  const fenField = document.getElementById('fenInput').value.trim()
+  if (fenField) return fenField
+  const sideToMove = document.getElementById('sideToMove').value
+  return `${editorBoardUi.fen()} ${sideToMove} KQkq - 0 1`
+}
+
+function next() { if (currentPos < positions.length - 1) { currentPos++; boardUi.position(currentBoard()); highlightCurrent() } }
+function prev() { if (currentPos > -1) { currentPos--; boardUi.position(currentBoard()); highlightCurrent() } }
+function goTo(i) { currentPos = i; boardUi.position(currentBoard()); highlightCurrent() }
+
+function highlightCurrent() {
+  document.querySelectorAll('.actions a').forEach(el => el.classList.remove('current'))
+  const cur = document.querySelector(`.pos-${currentPos}`)
+  if (cur) cur.classList.add('current')
+}
+
+function doRefresh() {
+  const targetNotation = document.getElementById('targetNotation').value
+  const inputText = document.getElementById('input').value
+  if (!inputText.trim()) { document.getElementById('actions').innerHTML = ''; document.getElementById('notationInfo').innerHTML = ''; document.getElementById('parseError').innerHTML = ''; return }
+
+  const initialFEN = getInitialFEN()
+  const raw = cheesse_api.convertNotation(inputText, targetNotation, initialFEN)
+
+  currentPos = -1
+  boardUi.position(currentBoard())
+  positions = raw.boards || []
+
+  let html = '<table>', fullMove = 1
+  for (let i = 0; i < (raw.actions || []).length; i += 2) {
+    const w = raw.actions[i], b = raw.actions[i+1]
+    const wValid = i < raw.validActionCount, bValid = (i+1) < raw.validActionCount
+    html += `<tr><td class="col-num">${fullMove}.</td>`
+    html += `<td class="col-w">${wValid ? `<a class="pos-${i}" onclick="goTo(${i})">${w}</a>` : `<span class="invalid">${w||''}</span>`}</td>`
+    if (b !== undefined) html += `<td class="col-b">${bValid ? `<a class="pos-${i+1}" onclick="goTo(${i+1})">${b}</a>` : `<span class="invalid">${b}</span>`}</td>`
+    html += '</tr>'
+    fullMove++
+  }
+  html += '</table>'
+  document.getElementById('actions').innerHTML = html
+
+  const info = document.getElementById('notationInfo')
+  if (raw.parseWasSuccessful)
+    info.innerHTML = `<div class="notation-info">Detected <b>${raw.notationName}</b>, converted to <b>${targetNotation}</b></div>`
+  else if (raw.notationName)
+    info.innerHTML = `<div class="notation-info" style="background:#fffbeb;color:#92400e">Most likely <b>${raw.notationName}</b></div>`
+  else
+    info.innerHTML = ''
+
+  const errEl = document.getElementById('parseError')
+  const pr = cheesse(cheesseConvertNotation, { game: { fenString: initialFEN }, notationString: inputText, targetNotation })
+  const errMsg = pr.parseResult && pr.parseResult.error ? pr.parseResult.error : ''
+  if (!raw.parseWasSuccessful && errMsg)
+    errEl.innerHTML = `<div class="parse-error">${escapeHtml(errMsg)}</div>`
+  else if (!raw.parseWasSuccessful && (!raw.actions || raw.actions.length === 0))
+    errEl.innerHTML = `<div class="parse-error">Could not parse any moves from this input.</div>`
+  else
+    errEl.innerHTML = ''
+}
+
+function escapeHtml(s) { return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;') }
+</script>
+</body>
+</html>
