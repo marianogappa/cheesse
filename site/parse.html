@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>cheesse - Convert</title>
+  <title>cheesse - Parse</title>
   <link rel="stylesheet" href="chessboard.min.css">
   <link rel="stylesheet" href="style.css">
 </head>
@@ -11,13 +11,13 @@
 <header>
   <a class="logo" href="convert.html"><img src="logo.svg" alt="cheesse"><h1>cheesse</h1></a>
   <nav>
-    <a href="parse.html">Parse</a>
-    <a href="convert.html" class="active">Convert</a>
+    <a href="parse.html" class="active">Parse</a>
+    <a href="convert.html">Convert</a>
     <a href="play.html">Play</a>
   </nav>
 </header>
 <main>
-  <h2>Convert between notations</h2>
+  <h2>Parse a game in any notation</h2>
   <div id="loading">Loading WASM...</div>
   <div id="app" style="display:none">
     <div class="page-layout">
@@ -27,24 +27,8 @@
       <div class="controls-col">
         <div class="control-group">
           <label for="input">Paste a game in any notation</label>
-          <textarea id="input" oninput="doRefresh()"></textarea>
+          <textarea id="input" oninput="refresh()"></textarea>
           <div class="presets">Try: <a onclick="setPreset('algebraic')">Algebraic</a> | <a onclick="setPreset('descriptive')">Descriptive</a> | <a onclick="setPreset('pgn')">PGN</a> | <a onclick="setPreset('coordinate')">Coordinate</a> | <a onclick="setPreset('iccf')">ICCF</a> | <a onclick="setPreset('smith')">Smith</a></div>
-        </div>
-        <div class="inline-controls">
-          <label for="targetNotation">Convert to</label>
-          <select id="targetNotation" onchange="doRefresh()">
-            <option value="Algebraic">Algebraic</option>
-            <option value="Figurine">Figurine</option>
-            <option value="Descriptive">Descriptive</option>
-            <option value="Coordinate">Coordinate</option>
-            <option value="ICCF">ICCF</option>
-            <option value="Smith">Smith</option>
-          </select>
-          <label for="sideToMove" style="margin-left:8px">Side to move</label>
-          <select id="sideToMove" onchange="doRefresh()">
-            <option value="w">White</option>
-            <option value="b">Black</option>
-          </select>
         </div>
         <div id="notationInfo"></div>
         <div id="parseError"></div>
@@ -85,12 +69,11 @@ function init() {
   document.getElementById('app').style.display = ''
   boardUi = ChessBoard('board', { pieceTheme: 'img/chesspieces/wikipedia/{piece}.png' })
   boardUi.start()
-  setPreset('descriptive')
+  setPreset('pgn')
 }
 
-function setPreset(name) { document.getElementById('input').value = presets[name]; doRefresh() }
+function setPreset(name) { document.getElementById('input').value = presets[name]; refresh() }
 function currentBoard() { return currentPos < 0 ? defaultFEN : positions[currentPos] }
-
 function next() { if (currentPos < positions.length - 1) { currentPos++; boardUi.position(currentBoard()); highlightCurrent() } }
 function prev() { if (currentPos > -1) { currentPos--; boardUi.position(currentBoard()); highlightCurrent() } }
 function goTo(i) { currentPos = i; boardUi.position(currentBoard()); highlightCurrent() }
@@ -101,14 +84,11 @@ function highlightCurrent() {
   if (cur) cur.classList.add('current')
 }
 
-function doRefresh() {
-  const targetNotation = document.getElementById('targetNotation').value
-  const sideToMove = document.getElementById('sideToMove').value
+function refresh() {
   const inputText = document.getElementById('input').value
   if (!inputText.trim()) { document.getElementById('actions').innerHTML = ''; document.getElementById('notationInfo').innerHTML = ''; document.getElementById('parseError').innerHTML = ''; return }
-  const initialFEN = `${boardUi.fen()} ${sideToMove} KQkq - 0 1`
 
-  const raw = cheesse_api.convertNotation(inputText, targetNotation, initialFEN)
+  const raw = cheesse_api.parseNotation(inputText)
   currentPos = -1
   boardUi.position(currentBoard())
   positions = raw.boards || []
@@ -128,14 +108,14 @@ function doRefresh() {
 
   const info = document.getElementById('notationInfo')
   if (raw.parseWasSuccessful)
-    info.innerHTML = `<div class="notation-info">Detected <b>${raw.notationName}</b>, converted to <b>${targetNotation}</b></div>`
+    info.innerHTML = `<div class="notation-info">Parsed as <b>${raw.notationName}</b></div>`
   else if (raw.notationName)
     info.innerHTML = `<div class="notation-info" style="background:#fffbeb;color:#92400e">Most likely <b>${raw.notationName}</b></div>`
   else
     info.innerHTML = ''
 
   const errEl = document.getElementById('parseError')
-  const pr = cheesse(cheesseConvertNotation, { game: { fenString: initialFEN }, notationString: inputText, targetNotation })
+  const pr = cheesse(cheesseParseNotation, { game: {}, notationString: inputText })
   const errMsg = pr.parseResult && pr.parseResult.error ? pr.parseResult.error : ''
   if (!raw.parseWasSuccessful && errMsg)
     errEl.innerHTML = `<div class="parse-error">${escapeHtml(errMsg)}</div>`

@@ -1,4 +1,4 @@
-// cheesse.js — thin wrapper around the cheesse WASM globals.
+// cheesse.js - thin wrapper around the cheesse WASM globals.
 // Every function JSON-encodes the request, calls the wasm global, and JSON-decodes the response.
 const enc = new TextEncoder()
 const dec = new TextDecoder()
