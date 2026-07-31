@@ -42,7 +42,8 @@ func (p *VariantPGN) Initialize(initialGame core.Game, s string) (*parser.Parsin
 // It handles all token peeking and position management internally.
 // Only the token extraction logic is PGN-specific; game state management is handled generically.
 func (p *VariantPGN) PopHalfMove(pg *parser.ParsingGame) (*parser.Token, bool, error) {
-	// First, skip any move numbers
+	// First, skip any move numbers, comments, annotations and variations that
+	// precede the next half move.
 	for {
 		tokenValue, tokenType, newPos, err := peekToken(pg.Remaining, pg.Pos)
 		if err != nil {
@@ -54,8 +55,9 @@ func (p *VariantPGN) PopHalfMove(pg *parser.ParsingGame) (*parser.Token, bool, e
 			return nil, false, nil
 		}
 
-		if tokenType == tokenTypeMoveNumber {
-			// Skip move numbers, but check if position actually advanced
+		if tokenType == tokenTypeMoveNumber || tokenType == tokenTypeRAV ||
+			tokenType == tokenTypeAnnotation || tokenType == tokenTypeComment || tokenType == tokenTypeCurlyComment {
+			// Skip, but check if position actually advanced
 			if newPos <= pg.Pos {
 				// Position didn't advance, break to avoid infinite loop
 				break
@@ -96,7 +98,7 @@ func (p *VariantPGN) PopHalfMove(pg *parser.ParsingGame) (*parser.Token, bool, e
 		Type:  genericType,
 	}
 
-	// Now process any comments or annotations that follow the half move
+	// Now process any comments, annotations or variations that follow the half move
 	for {
 		nextTokenValue, nextType, nextPos, err := peekToken(pg.Remaining, pg.Pos)
 		if err != nil {
@@ -108,20 +110,25 @@ func (p *VariantPGN) PopHalfMove(pg *parser.ParsingGame) (*parser.Token, bool, e
 			return token, false, nil
 		}
 
-		// If it's a comment or annotation, consume it
-		if nextType == tokenTypeAnnotation || nextType == tokenTypeComment || nextType == tokenTypeCurlyComment {
-			// Consume the comment/annotation (for now, just skip it)
-			// In a later version, they will be added to the action
+		// If it's a comment, attach its text to the token and consume it
+		if nextType == tokenTypeComment || nextType == tokenTypeCurlyComment {
 			// Check if position actually advanced to avoid infinite loop
 			if nextPos <= pg.Pos {
 				return token, false, nil
+			}
+			commentText := commentText(nextTokenValue, nextType)
+			if commentText != "" {
+				if token.Comment != "" {
+					token.Comment += " "
+				}
+				token.Comment += commentText
 			}
 			pg.Pos = nextPos
 			continue
 		}
 
-		// If it's a move number, skip it
-		if nextType == tokenTypeMoveNumber {
+		// If it's an annotation, move number or variation, skip it
+		if nextType == tokenTypeAnnotation || nextType == tokenTypeMoveNumber || nextType == tokenTypeRAV {
 			// Check if position actually advanced to avoid infinite loop
 			if nextPos <= pg.Pos {
 				return token, false, nil
@@ -139,6 +146,18 @@ func (p *VariantPGN) PopHalfMove(pg *parser.ParsingGame) (*parser.Token, bool, e
 		// Otherwise, we're done (no more half moves)
 		return token, false, nil
 	}
+}
+
+// commentText strips the delimiters from a comment token: braces for {...}
+// comments, the leading semicolon and trailing newline for ; comments.
+func commentText(tokenValue string, t tokenType) string {
+	switch t {
+	case tokenTypeCurlyComment:
+		return strings.TrimSpace(strings.Trim(tokenValue, "{}"))
+	case tokenTypeComment:
+		return strings.TrimSpace(strings.TrimPrefix(strings.TrimSpace(tokenValue), ";"))
+	}
+	return ""
 }
 
 // Finalize implements ParserVariant.Finalize for PGN.
@@ -314,7 +333,7 @@ func peekToken(pgn string, pos int) (string, tokenType, int, error) {
 		pos = startPos
 	}
 
-	// Check for annotations: ($1), ($2), etc.
+	// Check for annotations: ($1), ($2), etc. (nonstandard parenthesized NAGs)
 	if char == '(' && pos+1 < len(pgn) && pgn[pos+1] == '$' {
 		pos += 2 // Skip "($"
 		for pos < len(pgn) && pgn[pos] >= '0' && pgn[pos] <= '9' {
@@ -324,6 +343,43 @@ func peekToken(pgn string, pos int) (string, tokenType, int, error) {
 			pos++
 			return pgn[startPos:pos], tokenTypeAnnotation, pos, nil
 		}
+		pos = startPos
+	}
+
+	// Check for RAV variations: ( ... ) with correct nesting. Comments inside a
+	// variation may contain unbalanced parentheses, so track them.
+	if char == '(' {
+		pos++
+		depth := 1
+		inComment := false
+		for pos < len(pgn) && depth > 0 {
+			switch {
+			case inComment:
+				if pgn[pos] == '}' {
+					inComment = false
+				}
+			case pgn[pos] == '{':
+				inComment = true
+			case pgn[pos] == '(':
+				depth++
+			case pgn[pos] == ')':
+				depth--
+			}
+			pos++
+		}
+		return pgn[startPos:pos], tokenTypeRAV, pos, nil
+	}
+
+	// Check for bare NAGs: $1, $14, etc. (standard PGN)
+	if char == '$' {
+		pos++
+		for pos < len(pgn) && pgn[pos] >= '0' && pgn[pos] <= '9' {
+			pos++
+		}
+		if pos > startPos+1 {
+			return pgn[startPos:pos], tokenTypeAnnotation, pos, nil
+		}
+		pos = startPos
 	}
 
 	// Check for curly comments: {comment}
@@ -421,4 +477,5 @@ const (
 	tokenTypeCurlyComment
 	tokenTypeMoveNumber
 	tokenTypeResult
+	tokenTypeRAV
 )

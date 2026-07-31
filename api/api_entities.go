@@ -190,11 +190,12 @@ type OutputAction struct {
 //
 // - `error` describes why the parse stopped, when `parseWasSuccessful` is false.
 type OutputParseResult struct {
-	NotationName       string           `json:"notationName"`
-	ParseWasSuccessful bool             `json:"parseWasSuccessful"`
-	ValidActionCount   int              `json:"validActionCount"`
-	Steps              []OutputGameStep `json:"steps"`
-	Error              string           `json:"error,omitempty"`
+	NotationName       string            `json:"notationName"`
+	ParseWasSuccessful bool              `json:"parseWasSuccessful"`
+	ValidActionCount   int               `json:"validActionCount"`
+	Steps              []OutputGameStep  `json:"steps"`
+	Metadata           map[string]string `json:"metadata,omitempty"` // e.g. PGN tag pairs
+	Error              string            `json:"error,omitempty"`
 }
 
 // OutputGameStep is the output interface that describes a step in a parsed

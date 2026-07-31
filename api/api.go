@@ -114,30 +114,36 @@ func parseNotationAutoDetect(parsedGame core.Game, notationString string) ([]cor
 	notationString = strings.TrimSpace(notationString)
 	type notationCandidate struct {
 		name  string
-		parse func() ([]core.GameStep, error)
+		parse func() ([]core.GameStep, map[string]string, error)
+	}
+	noMetadata := func(parse func() ([]core.GameStep, error)) func() ([]core.GameStep, map[string]string, error) {
+		return func() ([]core.GameStep, map[string]string, error) {
+			gameSteps, err := parse()
+			return gameSteps, nil, err
+		}
 	}
 	candidates := []notationCandidate{
-		{"Algebraic Notation", func() ([]core.GameStep, error) {
+		{"Algebraic Notation", noMetadata(func() ([]core.GameStep, error) {
 			return parser.NewNotationParserAlgebraic(parser.Characteristics{}).Parse(parsedGame, notationString)
-		}},
-		{"ICCF Notation", func() ([]core.GameStep, error) {
+		})},
+		{"ICCF Notation", noMetadata(func() ([]core.GameStep, error) {
 			return parser.NewNotationParserICCF(parser.Characteristics{}).Parse(parsedGame, notationString)
-		}},
-		{"Smith Notation", func() ([]core.GameStep, error) {
+		})},
+		{"Smith Notation", noMetadata(func() ([]core.GameStep, error) {
 			return parser.NewNotationParserSmith(parser.Characteristics{}).Parse(parsedGame, notationString)
-		}},
-		{"Coordinate Notation", func() ([]core.GameStep, error) {
+		})},
+		{"Coordinate Notation", noMetadata(func() ([]core.GameStep, error) {
 			return parser.NewNotationParserCoordinate(parser.Characteristics{}).Parse(parsedGame, notationString)
-		}},
-		{"Descriptive Notation", func() ([]core.GameStep, error) {
+		})},
+		{"Descriptive Notation", noMetadata(func() ([]core.GameStep, error) {
 			return parser.NewNotationParserDescriptive(parser.Characteristics{}).Parse(parsedGame, notationString)
-		}},
-		{"PGN", func() ([]core.GameStep, error) {
+		})},
+		{"PGN", func() ([]core.GameStep, map[string]string, error) {
 			parsed, err := parser.NewGenericNotationParser(pgn.NewVariantPGN()).Parse(parsedGame, notationString)
 			if parsed == nil {
-				return nil, err
+				return nil, nil, err
 			}
-			return parsed.GameSteps, err
+			return parsed.GameSteps, parsed.Metadata, err
 		}},
 	}
 
@@ -146,12 +152,13 @@ func parseNotationAutoDetect(parsedGame core.Game, notationString string) ([]cor
 		bestResult *OutputParseResult
 	)
 	for _, candidate := range candidates {
-		gameSteps, err := candidate.parse()
+		gameSteps, metadata, err := candidate.parse()
 		validSteps := len(gameSteps)
 		result := OutputParseResult{
 			NotationName:       candidate.name,
 			ParseWasSuccessful: err == nil,
 			ValidActionCount:   validSteps,
+			Metadata:           metadata,
 		}
 		if err != nil {
 			result.Error = err.Error()
@@ -174,7 +181,7 @@ func parseNotationAutoDetect(parsedGame core.Game, notationString string) ([]cor
 // some notation, auto-detects the source notation, and re-renders every move in the
 // target notation.
 //
-// `targetNotation` must be one of: `{Algebraic|Figurine|Descriptive|Coordinate|ICCF|Smith}`
+// `targetNotation` must be one of: `{Algebraic|Figurine|Descriptive|Coordinate|ICCF|Smith|PGN}`
 // (case-insensitive).
 //
 // Partial input still converts the valid prefix: the result reports the detected
@@ -285,6 +292,8 @@ func notationPrinter(targetNotation string) (printer.NotationPrinter, printer.Ga
 		return printer.ICCFPrinter{}, printer.GameCharacteristics{}, nil
 	case "smith":
 		return printer.SmithPrinter{}, printer.GameCharacteristics{}, nil
+	case "pgn":
+		return printer.PGNPrinter{}, printer.SANCharacteristics(), nil
 	}
 	return nil, printer.GameCharacteristics{}, errUnknownTargetNotation
 }

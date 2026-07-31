@@ -416,6 +416,7 @@ func (p Piece) String() string {
 
 type GameStep struct {
 	StepString      string
+	StepComment     string
 	StepAction      Action
 	StepGame        Game
 	StepPreMoveGame Game
@@ -424,6 +425,7 @@ type GameStep struct {
 func (s GameStep) Clone() GameStep {
 	return GameStep{
 		StepString:      s.StepString,
+		StepComment:     s.StepComment,
 		StepAction:      s.StepAction,
 		StepGame:        s.StepGame.Clone(),
 		StepPreMoveGame: s.StepPreMoveGame.Clone(),
