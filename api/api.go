@@ -23,6 +23,7 @@ var (
 	errAlgebraicSquareInvalidOrOutOfBounds = errors.New("invalid algebraic square: empty or out of bounds")
 	errInvalidPieceTypeName                = errors.New("invalid piece type name: please use one of {Queen|King|Bishop|Knight|Rook|Pawn} or empty string")
 	errInvalidActionForGivenGame           = errors.New("the specified action is invalid for the specified game")
+	errInvalidPositionHistory              = errors.New("invalid position history: entries must be hex-encoded position hashes from a previous response")
 )
 
 // DefaultGame returns the initial game of chess, with all pieces on their default positions

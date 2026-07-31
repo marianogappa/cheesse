@@ -14,10 +14,12 @@ func (g Game) shallowCloneForMove() Game {
 	clonedGame.IsCheckmate = false
 	clonedGame.IsStalemate = false
 	clonedGame.IsDraw = false
+	clonedGame.CanClaimDraw = false
 	clonedGame.IsGameOver = false
 	clonedGame.GameOverWinner = 0
 	clonedGame.InCheckBy = nil
 	clonedGame.Actions = nil
+	clonedGame.positionHistory = nil
 	return clonedGame
 }
 
@@ -320,6 +322,13 @@ func (g Game) DoAction(a Action) Game {
 		newGame.HalfMoveClock = 0
 	}
 
+	// Maintain position history for repetition detection. Captures and pawn moves are
+	// irreversible, so earlier positions can never repeat and the history restarts.
+	if newGame.HalfMoveClock > 0 {
+		newGame.positionHistory = append(newGame.positionHistory, g.positionHistory...)
+	}
+	newGame.positionHistory = append(newGame.positionHistory, newGame.positionHash())
+
 	newGame = newGame.calculateCriticalFlags()
 
 	if newGame.IsCheck {
@@ -347,6 +356,7 @@ func (g Game) calculateCriticalFlags() Game {
 	g.IsCheckmate = false
 	g.IsStalemate = false
 	g.IsDraw = false
+	g.CanClaimDraw = false
 	g.IsGameOver = false
 	g.GameOverWinner = -1
 	g.InCheckBy = []Piece{}
@@ -362,9 +372,17 @@ func (g Game) calculateCriticalFlags() Game {
 		g.IsStalemate = !g.IsCheck
 	}
 
-	if g.HalfMoveClock == 100 {
-		g.IsDraw = true // N.B. this forces draw rather than allowing a claim for draw. Is that ok?
+	// Draw rules, per FIDE: the 75-move rule, fivefold repetition and insufficient
+	// material (dead position) end the game automatically; the 50-move rule and
+	// threefold repetition make a draw claimable by the player to move.
+	repetitions := g.repetitionCount()
+	switch {
+	case g.HalfMoveClock >= 150, repetitions >= 5, g.isInsufficientMaterial():
+		g.IsDraw = true
+	case g.HalfMoveClock >= 100, repetitions >= 3:
+		g.CanClaimDraw = true
 	}
+
 	if g.IsCheckmate || g.IsStalemate || g.IsDraw {
 		g.IsGameOver = true
 	}
@@ -373,6 +391,49 @@ func (g Game) calculateCriticalFlags() Game {
 	}
 
 	return g
+}
+
+// repetitionCount returns how many times the current position has occurred, based on
+// the position history since the last irreversible move.
+func (g Game) repetitionCount() int {
+	if len(g.positionHistory) == 0 {
+		return 0
+	}
+	current := g.positionHistory[len(g.positionHistory)-1]
+	count := 0
+	for _, h := range g.positionHistory {
+		if h == current {
+			count++
+		}
+	}
+	return count
+}
+
+// isInsufficientMaterial reports whether neither side can possibly checkmate: K vs K,
+// KB vs K, KN vs K, and KB vs KB with both bishops on the same color complex.
+func (g Game) isInsufficientMaterial() bool {
+	// Any pawn, rook or queen is (potentially) sufficient material.
+	if g.bb[ColorBlack][PiecePawn]|g.bb[ColorWhite][PiecePawn]|
+		g.bb[ColorBlack][PieceRook]|g.bb[ColorWhite][PieceRook]|
+		g.bb[ColorBlack][PieceQueen]|g.bb[ColorWhite][PieceQueen] != 0 {
+		return false
+	}
+	bishops := g.bb[ColorBlack][PieceBishop] | g.bb[ColorWhite][PieceBishop]
+	knights := g.bb[ColorBlack][PieceKnight] | g.bb[ColorWhite][PieceKnight]
+	minorCount := bits.OnesCount64(bishops | knights)
+	if minorCount <= 1 {
+		return true // K vs K, KB vs K, KN vs K
+	}
+	// KB vs KB with same-color bishops: only bishops remain, one per side, on the
+	// same color complex.
+	const lightSquares = 0x55AA55AA55AA55AA
+	if knights == 0 &&
+		bits.OnesCount64(g.bb[ColorBlack][PieceBishop]) == 1 &&
+		bits.OnesCount64(g.bb[ColorWhite][PieceBishop]) == 1 &&
+		(bishops&lightSquares == bishops || bishops&lightSquares == 0) {
+		return true
+	}
+	return false
 }
 
 func opponent(c color) color {

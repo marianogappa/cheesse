@@ -141,6 +141,7 @@ func NewGameFromFEN(s string) (Game, error) {
 		return Game{}, errFENSideNotToMoveInCheck
 	}
 
+	game.positionHistory = []uint64{game.positionHash()}
 	return game.calculateCriticalFlags(), nil
 }
 

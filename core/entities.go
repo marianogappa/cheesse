@@ -28,10 +28,39 @@ type Game struct {
 	IsCheckmate             bool
 	IsStalemate             bool
 	IsDraw                  bool
+	CanClaimDraw            bool
 	IsGameOver              bool
 	GameOverWinner          color
 	InCheckBy               []Piece
 	Actions                 []Action
+	// positionHistory holds the Zobrist hashes of positions reached since the last
+	// irreversible move (pawn move, capture or castling-right change), most recent
+	// last. Used for threefold/fivefold repetition detection.
+	positionHistory []uint64
+}
+
+// PositionHistory returns the Zobrist hashes of the positions reached since the
+// last irreversible move, most recent last. It can be persisted and restored via
+// WithPositionHistory to detect repetitions across stateless API calls.
+func (g Game) PositionHistory() []uint64 {
+	history := make([]uint64, len(g.positionHistory))
+	copy(history, g.positionHistory)
+	return history
+}
+
+// WithPositionHistory returns a copy of the game whose position history is the given
+// hashes (as returned by PositionHistory of a previous game), and with draw flags
+// recalculated accordingly. The current position is appended if it isn't already the
+// last entry, so both "history up to and including this position" and "history of
+// prior positions" are accepted.
+func (g Game) WithPositionHistory(history []uint64) Game {
+	currentHash := g.positionHash()
+	g.positionHistory = make([]uint64, 0, len(history)+1)
+	g.positionHistory = append(g.positionHistory, history...)
+	if len(g.positionHistory) == 0 || g.positionHistory[len(g.positionHistory)-1] != currentHash {
+		g.positionHistory = append(g.positionHistory, currentHash)
+	}
+	return g.calculateCriticalFlags()
 }
 
 // Color is the exported name for the color of a player or piece (e.g. core.ColorWhite).
@@ -75,6 +104,8 @@ func (g Game) Clone() Game {
 	copy(clonedGame.InCheckBy, g.InCheckBy)
 	clonedGame.Actions = make([]Action, len(g.Actions))
 	copy(clonedGame.Actions, g.Actions)
+	clonedGame.positionHistory = make([]uint64, len(g.positionHistory))
+	copy(clonedGame.positionHistory, g.positionHistory)
 	return clonedGame
 }
 
