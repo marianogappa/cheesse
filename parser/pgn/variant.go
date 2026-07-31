@@ -172,7 +172,13 @@ func (p *VariantPGN) ActionToStringVariants(a core.Action, g core.Game) []string
 	}
 
 	if a.IsPromotion {
-		return []string{a.ToXY.ToAlgebraic() + "=" + a.PromotionPieceType.ToAlgebraic() + check + checkMate}
+		promotion := "=" + a.PromotionPieceType.ToAlgebraic()
+		suffix := promotion + check + checkMate
+		if a.IsCapture {
+			fromFile := a.FromPiece.XY.ToAlgebraic()[0:1]
+			return []string{fromFile + "x" + a.ToXY.ToAlgebraic() + suffix}
+		}
+		return []string{a.ToXY.ToAlgebraic() + suffix}
 	}
 
 	variants := []string{}
