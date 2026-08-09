@@ -1,0 +1,66 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    name: Build and Release
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.25"
+
+      - uses: acifani/setup-tinygo@v2
+        with:
+          tinygo-version: "0.41.1"
+
+      - name: Validate tag format
+        run: |
+          TAG="${GITHUB_REF#refs/tags/}"
+          if ! echo "$TAG" | grep -qE '^v[0-9]+\.[0-9]+\.[0-9]+$'; then
+            echo "::error::Tag '$TAG' does not match vX.Y.Z format"
+            exit 1
+          fi
+
+      - name: Run tests
+        run: go test ./...
+
+      - name: Build WASM
+        run: |
+          TAG="${GITHUB_REF#refs/tags/}"
+          tinygo build -o cheesse.wasm -target wasm -tags tinygo \
+            -ldflags "-X main.Version=$TAG" .
+
+      - name: Copy runtime files
+        run: |
+          cp "$(tinygo env TINYGOROOT)/targets/wasm_exec.js" wasm_exec.js
+          cp site/cheesse.js cheesse.js
+
+      - name: Generate checksums
+        run: sha256sum cheesse.wasm cheesse.js wasm_exec.js > checksums.txt
+
+      - name: Report bundle size
+        run: |
+          ls -la cheesse.wasm
+          gzip -c cheesse.wasm | wc -c | xargs -I{} echo "gzipped: {} bytes"
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          generate_release_notes: true
+          files: |
+            cheesse.wasm
+            cheesse.js
+            wasm_exec.js
+            checksums.txt

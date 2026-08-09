@@ -26,6 +26,9 @@ func main() {
 	js.Global().Set("cheesseParseNotation", js.FuncOf(jsParseNotation))
 	js.Global().Set("cheesseConvertNotation", js.FuncOf(jsConvertNotation))
 	js.Global().Set("cheesseAIMove", js.FuncOf(jsAIMove))
+	js.Global().Set("cheesseVersion", js.FuncOf(func(this js.Value, p []js.Value) interface{} {
+		return js.ValueOf(Version)
+	}))
 	select {}
 }
 

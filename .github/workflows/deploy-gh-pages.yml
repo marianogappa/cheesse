@@ -30,7 +30,10 @@ jobs:
         with:
           tinygo-version: "0.41.1"
       - name: Build WASM bundle
-        run: tinygo build -o site/cheesse.wasm -target wasm -tags tinygo .
+        run: |
+          VERSION="nightly-$(git rev-parse --short HEAD)"
+          tinygo build -o site/cheesse.wasm -target wasm -tags tinygo \
+            -ldflags "-X main.Version=$VERSION" .
       - name: Copy TinyGo wasm_exec.js
         run: cp "$(tinygo env TINYGOROOT)/targets/wasm_exec.js" site/wasm_exec.js
       - name: Report bundle size
