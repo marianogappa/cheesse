@@ -34,7 +34,9 @@ const cheesse_api = {
       validActionCount: pr.validActionCount,
       actions: (pr.steps || []).map(s => s.actionString),
       boards: (pr.steps || []).map(s => s.game.fenString),
-      steps: pr.steps || []
+      steps: pr.steps || [],
+      error: pr.error || '',
+      errorDetail: pr.errorDetail || null
     }
   },
 
@@ -50,7 +52,9 @@ const cheesse_api = {
       validActionCount: pr.validActionCount,
       actions: (pr.steps || []).map(s => s.actionString),
       boards: (pr.steps || []).map(s => s.game.fenString),
-      steps: pr.steps || []
+      steps: pr.steps || [],
+      error: pr.error || '',
+      errorDetail: pr.errorDetail || null
     }
   },
 
