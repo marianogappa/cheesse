@@ -67,8 +67,8 @@ func alphabeta(g core.Game, lastAction core.Action, player int, depth int, alpha
 		return evaluate(g, lastAction, player)
 	}
 
-	if int(g.Turn()) != player {
-		// Maximizing (our turn next is opponent's perspective → we maximize our score)
+	if int(g.Turn()) == player {
+		// Maximizing (AI's turn → pick the move that maximizes our score)
 		v := int64(math.MinInt64)
 		for _, action := range nonResign {
 			newGame := g.DoAction(action)
@@ -86,7 +86,7 @@ func alphabeta(g core.Game, lastAction core.Action, player int, depth int, alpha
 		return v
 	}
 
-	// Minimizing (opponent's turn)
+	// Minimizing (opponent's turn → they pick the move that minimizes our score)
 	v := int64(math.MaxInt64)
 	for _, action := range nonResign {
 		newGame := g.DoAction(action)
