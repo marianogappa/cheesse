@@ -91,6 +91,88 @@ func TestBasicAI_Depth2(t *testing.T) {
 	assert.NotEqual(t, g.ToFEN(), newGame.ToFEN())
 }
 
+func TestBasicAI_DeclinesCapturingDefendedPiece(t *testing.T) {
+	// White Qd1, Kg1. Black Nd5, Pe6 (pawn defends d5), Kg8.
+	// Qxd5?? allows exd5 — White loses a queen (9) for a knight (3). Net = -6.
+	// A correct depth-1 search must NOT play Qxd5.
+	g, err := core.NewGameFromFEN("6k1/8/4p3/3n4/8/8/8/3Q2K1 w - - 0 1")
+	require.NoError(t, err)
+
+	action, _, ok := BasicAIAction(g, 1)
+	require.True(t, ok)
+
+	isQxd5 := action.FromPiece.PieceType == core.PieceQueen &&
+		action.ToXY.X == 3 && action.ToXY.Y == 3 &&
+		action.IsCapture
+	assert.False(t, isQxd5,
+		"depth-1 AI should not capture a defended knight with the queen; chose %v -> %v",
+		action.FromPiece.XY.ToAlgebraic(), action.ToXY.ToAlgebraic())
+}
+
+func TestBasicAI_FindsMateIn1(t *testing.T) {
+	// White Rd1, Kg1. Black Kg8, Pf7, Pg7, Ph7.
+	// Rd8# is back-rank mate in 1. Must be found at every depth.
+	g, err := core.NewGameFromFEN("6k1/5ppp/8/8/8/8/8/3R2K1 w - - 0 1")
+	require.NoError(t, err)
+
+	for _, depth := range []int{0, 1, 2} {
+		action, newGame, ok := BasicAIAction(g, depth)
+		require.True(t, ok, "depth %d", depth)
+		assert.True(t, newGame.IsCheckmate,
+			"depth %d: AI must find mate-in-1; chose %v -> %v",
+			depth, action.FromPiece.XY.ToAlgebraic(), action.ToXY.ToAlgebraic())
+	}
+}
+
+func TestBasicAI_FindsMateIn2(t *testing.T) {
+	// White Qa3, Rh1, Kg1. Black Kg8 (lone king).
+	// 1.Qa7 (threatens Rh8#) Kf8 2.Rh8# — mate in 2.
+	// At depth >= 2, playing out the full sequence must end in checkmate.
+	g, err := core.NewGameFromFEN("6k1/8/8/8/8/Q7/8/6KR w - - 0 1")
+	require.NoError(t, err)
+
+	action, newGame, ok := BasicAIAction(g, 2)
+	require.True(t, ok)
+
+	g1 := newGame
+	if g1.IsCheckmate {
+		return
+	}
+	_, g2, ok2 := BasicAIAction(g1, 2)
+	require.True(t, ok2, "opponent should have a reply; AI played %v -> %v",
+		action.FromPiece.XY.ToAlgebraic(), action.ToXY.ToAlgebraic())
+	_, g3, ok3 := BasicAIAction(g2, 2)
+	require.True(t, ok3, "AI should have a mating move")
+	assert.True(t, g3.IsCheckmate,
+		"depth-2 AI should find mate-in-2; final FEN: %v", g3.ToFEN())
+}
+
+func TestBasicAI_DoesNotHangQueen(t *testing.T) {
+	// White Qd1, Kg1. Black Pe5, Pd6, Kg8.
+	// Pe5 attacks d4 and f4. Pd6 attacks c5 and e5.
+	// At depth >= 1, the AI must not move the queen to a pawn-attacked square.
+	g, err := core.NewGameFromFEN("6k1/8/3p4/4p3/8/8/8/3Q2K1 w - - 0 1")
+	require.NoError(t, err)
+
+	action, _, ok := BasicAIAction(g, 1)
+	require.True(t, ok)
+
+	// The queen should NOT go to squares attacked by pawns:
+	// Pe5 attacks d4(3,4) and f4(5,4). Pd6 attacks c5(2,3) and e5(4,3).
+	pawnAttackedSquares := map[[2]int]bool{
+		{3, 4}: true, // d4
+		{5, 4}: true, // f4
+		{2, 3}: true, // c5
+		{4, 3}: true, // e5
+	}
+	if action.FromPiece.PieceType == core.PieceQueen {
+		dest := [2]int{action.ToXY.X, action.ToXY.Y}
+		assert.False(t, pawnAttackedSquares[dest],
+			"depth-1 AI should not move queen to a pawn-attacked square; chose %v -> %v",
+			action.FromPiece.XY.ToAlgebraic(), action.ToXY.ToAlgebraic())
+	}
+}
+
 func TestBasicAI_AutoplayGameCompletes(t *testing.T) {
 	// Two AI agents play against each other until the game ends or 200 moves.
 	g := core.NewDefaultGame()
