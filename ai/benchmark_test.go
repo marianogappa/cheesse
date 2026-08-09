@@ -22,10 +22,34 @@ func BenchmarkAIDepth1_Start(b *testing.B) {
 	}
 }
 
+func BenchmarkAIDepth2_Start(b *testing.B) {
+	g := core.NewDefaultGame()
+	b.ResetTimer()
+	for i := 0; i < b.N; i++ {
+		BasicAIAction(g, 2)
+	}
+}
+
 func BenchmarkAIDepth2_Endgame(b *testing.B) {
 	g, _ := core.NewGameFromFEN("7k/5P2/8/8/3n4/1B6/8/K7 w - - 0 1")
 	b.ResetTimer()
 	for i := 0; i < b.N; i++ {
 		BasicAIAction(g, 2)
+	}
+}
+
+func BenchmarkAIDepth3_Endgame(b *testing.B) {
+	g, _ := core.NewGameFromFEN("7k/5P2/8/8/3n4/1B6/8/K7 w - - 0 1")
+	b.ResetTimer()
+	for i := 0; i < b.N; i++ {
+		BasicAIAction(g, 3)
+	}
+}
+
+func BenchmarkEvaluate_Start(b *testing.B) {
+	g := core.NewDefaultGame()
+	b.ResetTimer()
+	for i := 0; i < b.N; i++ {
+		evaluate(g)
 	}
 }

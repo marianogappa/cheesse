@@ -1,8 +1,9 @@
 package ai
 
 import (
-	"math"
 	"math/rand"
+	"sort"
+	"time"
 
 	"github.com/marianogappa/cheesse/core"
 )
@@ -19,32 +20,189 @@ func RandomAction(g core.Game, rng *rand.Rand) (core.Action, core.Game, bool) {
 	return action, g.DoAction(action), true
 }
 
-// BasicAIAction selects the best action for the side to move using minimax with
-// alpha-beta pruning at the given depth. Depth 0 evaluates the position after
-// each candidate move; depth 1 looks one full move (two plies) ahead; etc.
+// BasicAIAction selects the best action for the side to move using negamax with
+// alpha-beta pruning, MVV-LVA move ordering and quiescence search at the given
+// depth. Depth 0 evaluates each candidate move with quiescence (captures and
+// promotions are resolved); depth 1 additionally looks one ply ahead; etc.
 // Returns the action, resulting game, and true; or (Action{}, game, false) when
 // the game is already over.
 func BasicAIAction(g core.Game, depth int) (core.Action, core.Game, bool) {
-	nonResign := nonResignActions(g)
-	if len(nonResign) == 0 {
+	moves := orderedMoves(g)
+	if len(moves) == 0 {
 		return core.Action{}, g, false
 	}
+	s := &searcher{}
+	bestIdx, _ := searchRoot(s, g, moves, depth)
+	chosen := moves[bestIdx]
+	return chosen, g.DoAction(chosen), true
+}
 
-	player := int(g.Turn())
-	bestScore := int64(math.MinInt64)
-	bestIdx := 0
+// TimedAIAction selects the best action for the side to move using iterative
+// deepening within the given time budget: it searches at increasing depths and
+// returns the best move from the deepest fully completed iteration. Partial
+// iterations are discarded, so the result is deterministic per depth reached.
+// Returns the action, resulting game, and true; or (Action{}, game, false) when
+// the game is already over.
+func TimedAIAction(g core.Game, budget time.Duration) (core.Action, core.Game, bool) {
+	moves := orderedMoves(g)
+	if len(moves) == 0 {
+		return core.Action{}, g, false
+	}
+	deadline := time.Now().Add(budget)
 
-	for i, action := range nonResign {
-		newGame := g.DoAction(action)
-		score := alphabeta(newGame, action, player, depth, math.MinInt64, math.MaxInt64)
-		if score > bestScore || (score == bestScore && tieBreakPrefer(action, nonResign[bestIdx])) {
-			bestScore = score
-			bestIdx = i
+	// Depth 0 runs without a deadline so a move is always available.
+	s := &searcher{}
+	bestIdx, bestScore := searchRoot(s, g, moves, 0)
+	bestAction := moves[bestIdx]
+
+	for depth := 1; depth <= maxSearchDepth; depth++ {
+		// Searching the previous iteration's best move first maximizes pruning.
+		moveToFront(moves, bestAction)
+		sd := &searcher{deadline: deadline, hasDeadline: true}
+		idx, score := searchRoot(sd, g, moves, depth)
+		if sd.stopped {
+			break
+		}
+		bestAction, bestScore = moves[idx], score
+		// A forced mate was found; deeper iterations cannot find a shorter one.
+		if bestScore >= mateScore-2*maxSearchDepth {
+			break
+		}
+		if time.Now().After(deadline) {
+			break
 		}
 	}
 
-	chosen := nonResign[bestIdx]
-	return chosen, g.DoAction(chosen), true
+	return bestAction, g.DoAction(bestAction), true
+}
+
+const (
+	infScore       = 2_000_000
+	mateScore      = 1_000_000
+	maxSearchDepth = 30
+	maxQuiescePly  = 60
+	timeCheckMask  = 1023 // check the clock every 1024 nodes
+)
+
+type searcher struct {
+	deadline    time.Time
+	hasDeadline bool
+	nodes       int
+	stopped     bool
+}
+
+func (s *searcher) outOfTime() bool {
+	if s.stopped {
+		return true
+	}
+	s.nodes++
+	if s.hasDeadline && s.nodes&timeCheckMask == 0 && time.Now().After(s.deadline) {
+		s.stopped = true
+	}
+	return s.stopped
+}
+
+// searchRoot scores every root move with negamax and returns the index of the
+// best one and its score. When the searcher runs out of time the result is
+// meaningless and must be discarded (check s.stopped).
+func searchRoot(s *searcher, g core.Game, moves []core.Action, depth int) (int, int) {
+	bestIdx, bestScore := 0, -infScore
+	alpha, beta := -infScore, infScore
+	for i, a := range moves {
+		child := g.DoAction(a)
+		score := -s.negamax(child, 1, depth, -beta, -alpha)
+		if s.stopped {
+			return bestIdx, bestScore
+		}
+		if score > bestScore || (score == bestScore && tieBreakPrefer(a, moves[bestIdx])) {
+			bestScore, bestIdx = score, i
+		}
+		if score > alpha {
+			alpha = score
+		}
+	}
+	return bestIdx, bestScore
+}
+
+// negamax returns the score of the position from the perspective of the side to
+// move. Mates are scored as mateScore - ply so shorter mates score higher, and
+// claimable draws score 0 so a winning engine avoids repetition/50-move draws.
+func (s *searcher) negamax(g core.Game, ply, depth int, alpha, beta int) int {
+	if s.outOfTime() {
+		return 0
+	}
+	if g.IsCheckmate {
+		return -(mateScore - ply)
+	}
+	if g.IsStalemate || g.IsDraw || g.CanClaimDraw {
+		return 0
+	}
+	if depth <= 0 {
+		return s.quiesce(g, ply, alpha, beta)
+	}
+
+	best := -infScore
+	for _, a := range orderedMoves(g) {
+		child := g.DoAction(a)
+		score := -s.negamax(child, ply+1, depth-1, -beta, -alpha)
+		if s.stopped {
+			return 0
+		}
+		if score > best {
+			best = score
+		}
+		if best > alpha {
+			alpha = best
+		}
+		if alpha >= beta {
+			break
+		}
+	}
+	return best
+}
+
+// quiesce extends the search through captures and promotions until the position
+// is quiet, avoiding the horizon effect of statically evaluating mid-exchange.
+func (s *searcher) quiesce(g core.Game, ply int, alpha, beta int) int {
+	if s.outOfTime() {
+		return 0
+	}
+	if g.IsCheckmate {
+		return -(mateScore - ply)
+	}
+	if g.IsStalemate || g.IsDraw || g.CanClaimDraw {
+		return 0
+	}
+
+	standPat := evaluate(g)
+	if ply >= maxQuiescePly || standPat >= beta {
+		return standPat
+	}
+	if standPat > alpha {
+		alpha = standPat
+	}
+
+	best := standPat
+	for _, a := range orderedMoves(g) {
+		if !a.IsCapture && !a.IsPromotion {
+			continue
+		}
+		child := g.DoAction(a)
+		score := -s.quiesce(child, ply+1, -beta, -alpha)
+		if s.stopped {
+			return 0
+		}
+		if score > best {
+			best = score
+		}
+		if best > alpha {
+			alpha = best
+		}
+		if alpha >= beta {
+			break
+		}
+	}
+	return best
 }
 
 func nonResignActions(g core.Game) []core.Action {
@@ -57,123 +215,36 @@ func nonResignActions(g core.Game) []core.Action {
 	return out
 }
 
-func alphabeta(g core.Game, lastAction core.Action, player int, depth int, alpha, beta int64) int64 {
-	if depth == 0 {
-		return evaluate(g, lastAction, player)
-	}
-
-	nonResign := nonResignActions(g)
-	if len(nonResign) == 0 {
-		return evaluate(g, lastAction, player)
-	}
-
-	if int(g.Turn()) == player {
-		// Maximizing (AI's turn → pick the move that maximizes our score)
-		v := int64(math.MinInt64)
-		for _, action := range nonResign {
-			newGame := g.DoAction(action)
-			score := alphabeta(newGame, action, player, depth-1, alpha, beta)
-			if score > v {
-				v = score
-			}
-			if v > alpha {
-				alpha = v
-			}
-			if beta <= alpha {
-				break
-			}
-		}
-		return v
-	}
-
-	// Minimizing (opponent's turn → they pick the move that minimizes our score)
-	v := int64(math.MaxInt64)
-	for _, action := range nonResign {
-		newGame := g.DoAction(action)
-		score := alphabeta(newGame, action, player, depth-1, alpha, beta)
-		if score < v {
-			v = score
-		}
-		if v < beta {
-			beta = v
-		}
-		if beta <= alpha {
-			break
-		}
-	}
-	return v
+// orderedMoves returns the legal board moves sorted for alpha-beta efficiency:
+// captures first by MVV-LVA (most valuable victim, least valuable attacker),
+// promotions next, quiet moves last.
+func orderedMoves(g core.Game) []core.Action {
+	moves := nonResignActions(g)
+	sort.SliceStable(moves, func(i, j int) bool {
+		return moveOrderScore(moves[i]) > moveOrderScore(moves[j])
+	})
+	return moves
 }
 
-func sign(owner, player int) int {
-	if owner == player {
-		return 1
+func moveOrderScore(a core.Action) int {
+	score := 0
+	if a.IsCapture {
+		score = 1_000_000 + 10*pieceValue(a.CapturedPiece.PieceType) - pieceValue(a.FromPiece.PieceType)
 	}
-	return -1
+	if a.IsPromotion {
+		score += 500_000 + pieceValue(a.PromotionPieceType)
+	}
+	return score
 }
 
-func materialValue(pt core.PieceType) int {
-	switch pt {
-	case core.PieceQueen:
-		return 9
-	case core.PieceRook:
-		return 5
-	case core.PieceBishop, core.PieceKnight:
-		return 3
-	case core.PiecePawn:
-		return 1
-	}
-	return 0
-}
-
-func evaluate(g core.Game, lastAction core.Action, player int) int64 {
-	actionTurn := int(lastAction.FromPiece.Owner)
-	opponent := 1 - player
-
-	// Checkmate is decisive
-	if g.IsCheckmate {
-		return math.MaxInt64 / 2 * int64(sign(actionTurn, player))
-	}
-	if g.IsStalemate || g.IsDraw {
-		return 0
-	}
-
-	// Material
-	playerMaterial, opponentMaterial := 0, 0
-	for _, piece := range g.Pieces(core.Color(player)) {
-		playerMaterial += materialValue(piece.PieceType)
-	}
-	for _, piece := range g.Pieces(core.Color(opponent)) {
-		opponentMaterial += materialValue(piece.PieceType)
-	}
-	totalMaterial := int64(playerMaterial-opponentMaterial) * 1_000_000_000
-
-	// Check bonus
-	checkBonus := int64(0)
-	if g.IsCheck {
-		checkBonus = 100_000_000 * int64(sign(actionTurn, player))
-	}
-
-	// Center control: pieces in the center (files c-f, ranks 4-5)
-	centerPlayer, centerOpponent := 0, 0
-	for _, piece := range g.Pieces(core.Color(player)) {
-		if piece.XY.X >= 2 && piece.XY.X <= 5 && piece.XY.Y >= 3 && piece.XY.Y <= 4 {
-			centerPlayer++
+func moveToFront(moves []core.Action, a core.Action) {
+	for i := range moves {
+		if moves[i] == a {
+			copy(moves[1:i+1], moves[:i])
+			moves[0] = a
+			return
 		}
 	}
-	for _, piece := range g.Pieces(core.Color(opponent)) {
-		if piece.XY.X >= 2 && piece.XY.X <= 5 && piece.XY.Y >= 3 && piece.XY.Y <= 4 {
-			centerOpponent++
-		}
-	}
-	centerBonus := int64(centerPlayer-centerOpponent) * 100
-
-	// Castling incentive
-	castleBonus := int64(0)
-	if lastAction.IsCastle {
-		castleBonus = 100 * int64(sign(actionTurn, player))
-	}
-
-	return totalMaterial + checkBonus + centerBonus + castleBonus
 }
 
 // tieBreakPrefer returns true if a should be preferred over b when scores are equal.

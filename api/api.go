@@ -4,6 +4,7 @@ import (
 	"errors"
 	"math/rand"
 	"strings"
+	"time"
 
 	"github.com/marianogappa/cheesse/ai"
 	"github.com/marianogappa/cheesse/core"
@@ -228,9 +229,9 @@ func (a API) ConvertNotation(game InputGame, notationString string, targetNotati
 //
 // `mode` must be one of: `{random|easy|medium|hard}` (case-insensitive).
 //   - `random`: uniformly random legal action (non-resign).
-//   - `easy`: minimax depth 0 (evaluates each move, no lookahead).
-//   - `medium`: minimax depth 1 (looks one full move ahead).
-//   - `hard`: minimax depth 2 (looks two full moves ahead).
+//   - `easy`: iterative-deepening search with a 50ms budget.
+//   - `medium`: iterative-deepening search with a 200ms budget.
+//   - `hard`: iterative-deepening search with a 1s budget.
 //
 // Returns the resulting game AFTER the action is applied, the chosen action, and
 // whether a move was available (false = game is already over).
@@ -251,11 +252,11 @@ func (a API) AIMove(game InputGame, mode string) (OutputGame, OutputAction, bool
 	case "random":
 		action, newGame, ok = ai.RandomAction(parsedGame, rand.New(rand.NewSource(rand.Int63())))
 	case "easy":
-		action, newGame, ok = ai.BasicAIAction(parsedGame, 0)
+		action, newGame, ok = ai.TimedAIAction(parsedGame, 50*time.Millisecond)
 	case "medium":
-		action, newGame, ok = ai.BasicAIAction(parsedGame, 1)
+		action, newGame, ok = ai.TimedAIAction(parsedGame, 200*time.Millisecond)
 	case "hard":
-		action, newGame, ok = ai.BasicAIAction(parsedGame, 2)
+		action, newGame, ok = ai.TimedAIAction(parsedGame, time.Second)
 	default:
 		return OutputGame{}, OutputAction{}, false, errUnknownAIMode
 	}
