@@ -151,6 +151,7 @@ func parseNotationAutoDetect(parsedGame core.Game, notationString string) ([]cor
 	var (
 		bestSteps  []core.GameStep
 		bestResult *OutputParseResult
+		bestErr    error
 	)
 	for _, candidate := range candidates {
 		gameSteps, metadata, err := candidate.parse()
@@ -171,11 +172,71 @@ func parseNotationAutoDetect(parsedGame core.Game, notationString string) ([]cor
 		}
 		// Otherwise keep the attempt that parsed the furthest.
 		if bestResult == nil || validSteps > bestResult.ValidActionCount {
-			bestSteps, bestResult = gameSteps, &result
+			bestSteps, bestResult, bestErr = gameSteps, &result, err
 		}
 	}
 
+	if bestResult != nil && !bestResult.ParseWasSuccessful {
+		bestResult.ErrorDetail = buildErrorDetail(bestErr, bestResult)
+	}
 	return bestSteps, *bestResult
+}
+
+const maxLegalMoveHints = 10
+
+func buildErrorDetail(err error, result *OutputParseResult) *OutputParseError {
+	var pe *parser.ParseError
+	if errors.As(err, &pe) {
+		detail := &OutputParseError{
+			ReasonCode:         pe.Reason,
+			FailedAtMoveNumber: pe.MoveNumber,
+			FailedToken:        pe.Token,
+			Message:            pe.Msg,
+		}
+		detail.LegalMoves = renderLegalMoveHints(pe.LegalActions)
+		return detail
+	}
+	return &OutputParseError{
+		ReasonCode:         "unknown-token",
+		FailedAtMoveNumber: result.ValidActionCount/2 + 1,
+		Message:            err.Error(),
+	}
+}
+
+func renderLegalMoveHints(actions []core.Action) []string {
+	if len(actions) == 0 {
+		return nil
+	}
+	seen := map[string]bool{}
+	hints := make([]string, 0, maxLegalMoveHints)
+	for _, a := range actions {
+		if a.IsResign || a.IsDraw {
+			continue
+		}
+		s := a.FromPiece.PieceType.ToAlgebraic() + a.ToXY.ToAlgebraic()
+		if a.IsCapture {
+			s = a.FromPiece.PieceType.ToAlgebraic() + "x" + a.ToXY.ToAlgebraic()
+		}
+		if a.IsPromotion {
+			s += "=" + a.PromotionPieceType.ToAlgebraic()
+		}
+		if a.IsCastle {
+			if a.IsKingsideCastle {
+				s = "O-O"
+			} else {
+				s = "O-O-O"
+			}
+		}
+		if seen[s] {
+			continue
+		}
+		seen[s] = true
+		hints = append(hints, s)
+		if len(hints) >= maxLegalMoveHints {
+			break
+		}
+	}
+	return hints
 }
 
 // ConvertNotation takes any valid input game and a string representing a match in

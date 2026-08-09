@@ -4,16 +4,12 @@ import (
 	"errors"
 	"fmt"
 	"regexp"
-	"sort"
 	"strings"
 
 	"github.com/marianogappa/cheesse/core"
 )
 
-var (
-	errInvalidRegexp       = errors.New("invalid regexp; this should not happen")
-	errDidntMatchAnyRegexp = errors.New("invalid state at step TODO: didn't match any regexp")
-)
+var errInvalidRegexp = errors.New("invalid regexp; this should not happen")
 
 type actionPattern struct {
 	fromPieceType      core.PieceType
@@ -360,8 +356,13 @@ func (p *NotationParser) Parse(initialGame core.Game, s string) ([]core.GameStep
 
 		// Bail if no token matches
 		if len(tokenMatches) == 0 {
-			err := fmt.Errorf("at index %v [%v] didn't match any token", i, p.s[i:])
-			return p.stepParser.parsedGame.GameSteps, err
+			steps := p.stepParser.parsedGame.GameSteps
+			moveNum := len(steps)/2 + 1
+			return steps, &ParseError{
+				Reason:     "unknown-token",
+				MoveNumber: moveNum,
+				Msg:        fmt.Sprintf("at move %d: unexpected input (no token matched)", moveNum),
+			}
 		}
 
 		tokenMatch := tokenMatches[0]
@@ -386,13 +387,15 @@ func (p *NotationParser) Parse(initialGame core.Game, s string) ([]core.GameStep
 				}
 			}
 			if len(distinctActions) > 1 {
-				descriptions := make([]string, len(distinctActions))
-				for j, action := range distinctActions {
-					descriptions[j] = action.String()
+				steps := p.stepParser.parsedGame.GameSteps
+				moveNum := len(steps)/2 + 1
+				return steps, &ParseError{
+					Reason:       "ambiguous",
+					Token:        ambiguousMatch,
+					MoveNumber:   moveNum,
+					LegalActions: distinctActions,
+					Msg:          fmt.Sprintf("at move %d: %q is ambiguous (%d actions match); please disambiguate", moveNum, ambiguousMatch, len(distinctActions)),
 				}
-				sort.Strings(descriptions)
-				err := fmt.Errorf("at index %v the action string %q is ambiguous because %v different actions match it: [%v]; please disambiguate", i, ambiguousMatch, len(distinctActions), strings.Join(descriptions, "; "))
-				return p.stepParser.parsedGame.GameSteps, err
 			}
 
 			var ok bool
@@ -403,8 +406,15 @@ func (p *NotationParser) Parse(initialGame core.Game, s string) ([]core.GameStep
 				}
 			}
 			if !ok {
-				err := fmt.Errorf("at %v matched token %v but no valid action found for it; options were: %v", i, tokenMatch.match, p.stepParser.possibleNextActions)
-				return p.stepParser.parsedGame.GameSteps, err
+				steps := p.stepParser.parsedGame.GameSteps
+				moveNum := len(steps)/2 + 1
+				return steps, &ParseError{
+					Reason:       "illegal-move",
+					Token:        tokenMatch.match,
+					MoveNumber:   moveNum,
+					LegalActions: p.stepParser.possibleNextActions,
+					Msg:          fmt.Sprintf("at move %d: %q is not a legal move in this position", moveNum, tokenMatch.match),
+				}
 			}
 		}
 
@@ -428,7 +438,11 @@ func (p *NotationParser) Parse(initialGame core.Game, s string) ([]core.GameStep
 		}
 	}
 	if len(p.stepParser.parsedGame.GameSteps) == 0 {
-		return p.stepParser.parsedGame.GameSteps, fmt.Errorf("found 0 game steps")
+		return p.stepParser.parsedGame.GameSteps, &ParseError{
+			Reason:     "no-moves-found",
+			MoveNumber: 0,
+			Msg:        "no moves found in the input",
+		}
 	}
 	return p.stepParser.parsedGame.GameSteps, nil
 }

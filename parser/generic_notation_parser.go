@@ -159,7 +159,18 @@ func (p *GenericNotationParser) MatchHalfMove(halfMove string, g core.Game) ([]c
 	// Try to find a match for the half move
 	matchingActions, found := actionStringMap[halfMove]
 	if !found {
-		return nil, fmt.Errorf("no action matches half move %q", halfMove)
+		legalActions := make([]core.Action, 0, len(allActions))
+		for _, a := range allActions {
+			if !a.IsResign && !a.IsDraw {
+				legalActions = append(legalActions, a)
+			}
+		}
+		return nil, &ParseError{
+			Reason:       "illegal-move",
+			Token:        halfMove,
+			LegalActions: legalActions,
+			Msg:          fmt.Sprintf("%q is not a legal move in this position", halfMove),
+		}
 	}
 
 	// Deduplicate actions (same action might appear via multiple variant strings)
@@ -212,7 +223,25 @@ func (p *GenericNotationParser) ProcessToken(pg *ParsingGame, token *Token) erro
 
 		// If all branches died, return an error
 		if len(newAlternatives) == 0 {
-			return fmt.Errorf("could not match half move %q against any valid action", token.Value)
+			legalActions := []core.Action{}
+			for _, alt := range pg.Alternatives {
+				for _, a := range alt.CurrentGame().Actions {
+					if !a.IsResign && !a.IsDraw {
+						legalActions = append(legalActions, a)
+					}
+				}
+			}
+			moveNum := 0
+			if len(pg.Alternatives) > 0 {
+				moveNum = len(pg.Alternatives[0].GameSteps)/2 + 1
+			}
+			return &ParseError{
+				Reason:       "illegal-move",
+				Token:        token.Value,
+				MoveNumber:   moveNum,
+				LegalActions: legalActions,
+				Msg:          fmt.Sprintf("at move %d: %q is not a legal move in this position", moveNum, token.Value),
+			}
 		}
 
 		pg.Alternatives = newAlternatives

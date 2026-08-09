@@ -86,7 +86,7 @@ func TestParseNotation_AutoDetectsSixNotations(t *testing.T) {
 }
 
 func TestParseNotation_PartialParse(t *testing.T) {
-	t.Run("invalid move mid-game returns valid prefix", func(t *testing.T) {
+	t.Run("invalid move mid-game returns valid prefix and structured error", func(t *testing.T) {
 		// Qh7 on move 3 is illegal (queen can't reach h7)
 		game := "1. e4 e5\n2. Bc4 Nc6\n3. Qh7 Nf6"
 		_, result, err := New().ParseNotation(InputGame{}, game)
@@ -96,15 +96,27 @@ func TestParseNotation_PartialParse(t *testing.T) {
 		assert.Equal(t, 4, result.ValidActionCount, "e4, e5, Bc4, Nc6 are valid")
 		assert.Len(t, result.Steps, 4)
 		assert.NotEmpty(t, result.Error)
+
+		require.NotNil(t, result.ErrorDetail, "ErrorDetail must be populated on failure")
+		assert.Equal(t, "illegal-move", result.ErrorDetail.ReasonCode)
+		assert.Equal(t, "Qh7", result.ErrorDetail.FailedToken)
+		assert.Equal(t, 3, result.ErrorDetail.FailedAtMoveNumber)
+		assert.NotEmpty(t, result.ErrorDetail.Message)
+		assert.NotEmpty(t, result.ErrorDetail.LegalMoves, "should suggest legal moves")
+		assert.LessOrEqual(t, len(result.ErrorDetail.LegalMoves), 10, "legal moves capped at 10")
 	})
 
-	t.Run("garbage input returns zero valid actions", func(t *testing.T) {
+	t.Run("garbage input returns zero valid actions and structured error", func(t *testing.T) {
 		_, result, err := New().ParseNotation(InputGame{}, "hello world this is not chess")
 		require.NoError(t, err)
 		assert.False(t, result.ParseWasSuccessful)
 		assert.Equal(t, 0, result.ValidActionCount)
 		assert.Empty(t, result.Steps)
 		assert.NotEmpty(t, result.Error)
+
+		require.NotNil(t, result.ErrorDetail)
+		assert.Contains(t, []string{"unknown-token", "illegal-move", "no-moves-found"}, result.ErrorDetail.ReasonCode)
+		assert.NotEmpty(t, result.ErrorDetail.Message)
 	})
 
 	t.Run("truncated ICCF game returns valid prefix", func(t *testing.T) {

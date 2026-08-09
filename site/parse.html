@@ -130,14 +130,44 @@ function refresh() {
     info.innerHTML = ''
 
   const errEl = document.getElementById('parseError')
-  const pr = cheesse(cheesseParseNotation, { game: {}, notationString: inputText })
-  const errMsg = pr.parseResult && pr.parseResult.error ? pr.parseResult.error : ''
-  if (!raw.parseWasSuccessful && errMsg)
-    errEl.innerHTML = `<div class="parse-error">${escapeHtml(errMsg)}</div>`
-  else if (!raw.parseWasSuccessful && (!raw.actions || raw.actions.length === 0))
-    errEl.innerHTML = `<div class="parse-error">Could not parse any moves from this input.</div>`
-  else
+  if (!raw.parseWasSuccessful) {
+    errEl.innerHTML = formatParseError(raw)
+  } else {
     errEl.innerHTML = ''
+  }
+}
+
+function formatParseError(raw) {
+  const d = raw.errorDetail
+
+  let heading = ''
+  if (raw.notationName) heading += `Detected <b>${escapeHtml(raw.notationName)}</b>. `
+  if (raw.validActionCount > 0) heading += `Parsed <b>${raw.validActionCount}</b> move${raw.validActionCount === 1 ? '' : 's'} successfully. `
+
+  if (!d) {
+    if (!raw.actions || raw.actions.length === 0)
+      return `<div class="parse-error">${heading || ''}Could not parse any moves from this input.</div>`
+    const moveNum = Math.floor(raw.validActionCount / 2) + 1
+    return `<div class="parse-error">${heading}Failed at move ${moveNum}.</div>`
+  }
+
+  let detail = ''
+  if (d.reasonCode === 'illegal-move' && d.failedToken)
+    detail = `Move ${d.failedAtMoveNumber}: <code>${escapeHtml(d.failedToken)}</code> is not a legal move here.`
+  else if (d.reasonCode === 'ambiguous' && d.failedToken)
+    detail = `Move ${d.failedAtMoveNumber}: <code>${escapeHtml(d.failedToken)}</code> is ambiguous — please disambiguate.`
+  else if (d.reasonCode === 'unknown-token')
+    detail = `Move ${d.failedAtMoveNumber}: unexpected input (no recognized token).`
+  else if (d.reasonCode === 'no-moves-found')
+    detail = 'No moves found in the input.'
+  else
+    detail = escapeHtml(d.message)
+
+  let hints = ''
+  if (d.legalMoves && d.legalMoves.length > 0)
+    hints = `<span class="legal-hint">Legal moves here: ${d.legalMoves.map(m => `<code>${escapeHtml(m)}</code>`).join(', ')}${d.legalMoves.length >= 10 ? ', …' : ''}</span>`
+
+  return `<div class="parse-error">${heading}${detail}${hints ? '<br>' + hints : ''}</div>`
 }
 
 function escapeHtml(s) { return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;') }

@@ -194,13 +194,40 @@ type OutputAction struct {
 // failed midway: clients can render the valid prefix and flag the invalid tail.
 //
 // - `error` describes why the parse stopped, when `parseWasSuccessful` is false.
+//
+// - `errorDetail` carries a machine-readable breakdown of the parse failure (nil
+// when the parse succeeded) so the UI can highlight the failure point and offer
+// actionable guidance instead of echoing a raw internal string.
 type OutputParseResult struct {
-	NotationName       string            `json:"notationName"`
-	ParseWasSuccessful bool              `json:"parseWasSuccessful"`
-	ValidActionCount   int               `json:"validActionCount"`
-	Steps              []OutputGameStep  `json:"steps"`
-	Metadata           map[string]string `json:"metadata,omitempty"` // e.g. PGN tag pairs
-	Error              string            `json:"error,omitempty"`
+	NotationName       string             `json:"notationName"`
+	ParseWasSuccessful bool               `json:"parseWasSuccessful"`
+	ValidActionCount   int                `json:"validActionCount"`
+	Steps              []OutputGameStep   `json:"steps"`
+	Metadata           map[string]string  `json:"metadata,omitempty"` // e.g. PGN tag pairs
+	Error              string             `json:"error,omitempty"`
+	ErrorDetail        *OutputParseError  `json:"errorDetail,omitempty"`
+}
+
+// OutputParseError carries a structured breakdown of a parse failure.
+//
+// - `reasonCode` is one of: unknown-token, illegal-move, ambiguous, no-moves-found.
+//
+// - `failedAtMoveNumber` is the 1-based full-move number where the parse stopped
+// (0 if the failure precedes the first move, e.g. garbage input).
+//
+// - `failedToken` is the token text the parser attempted to match (empty for
+// unknown-token / no-moves-found).
+//
+// - `message` is a short, user-facing sentence describing the failure.
+//
+// - `legalMoves` (bounded to 10 entries) lists the legal moves in the detected
+// notation at the point of failure, so the UI can hint "did you mean…".
+type OutputParseError struct {
+	ReasonCode        string   `json:"reasonCode"`
+	FailedAtMoveNumber int     `json:"failedAtMoveNumber"`
+	FailedToken       string   `json:"failedToken,omitempty"`
+	Message           string   `json:"message"`
+	LegalMoves        []string `json:"legalMoves,omitempty"`
 }
 
 // OutputGameStep is the output interface that describes a step in a parsed

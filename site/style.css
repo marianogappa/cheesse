@@ -48,7 +48,11 @@ button:hover { background: #f0f0f0; }
 
 /* Info and errors */
 .notation-info { margin: 12px 0; padding: 6px 10px; background: #f0fdf4; border-radius: 4px; color: #166534; font-size: 13px; }
-.parse-error { margin-top: 8px; padding: 8px 12px; background: #fef2f2; border: 1px solid #fca5a5; border-radius: 6px; color: #991b1b; font-size: 12px; font-family: 'SF Mono', 'Consolas', monospace; word-break: break-word; }
+.parse-error { margin-top: 8px; padding: 10px 14px; background: #fef2f2; border: 1px solid #fca5a5; border-radius: 6px; color: #991b1b; font-size: 13px; line-height: 1.5; word-break: break-word; }
+.parse-error code { background: #fee2e2; padding: 1px 5px; border-radius: 3px; font-family: 'SF Mono', 'Consolas', monospace; font-size: 12px; }
+.parse-error b { font-weight: 600; }
+.legal-hint { display: block; margin-top: 6px; color: #6b7280; font-size: 12px; }
+.legal-hint code { background: #f3f4f6; color: #374151; }
 
 /* Play page */
 .game-settings { background: #f5f5f5; border: 1px solid #e0e0e0; border-radius: 8px; padding: 14px 16px; margin-bottom: 16px; }
