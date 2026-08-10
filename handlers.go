@@ -208,6 +208,28 @@ func handleServerAIMove(w http.ResponseWriter, r *http.Request) {
 	json.NewEncoder(w).Encode(out{outputGame, outputAction, moveAvailable})
 }
 
+func handleCliAIMove(flagAIMove *string) {
+	type args struct {
+		Game api.InputGame `json:"game"`
+		Mode string        `json:"mode"`
+	}
+	var input args
+	if err := json.Unmarshal([]byte(*flagAIMove), &input); err != nil {
+		mustCliFatal(err)
+	}
+	outputGame, outputAction, moveAvailable, err := a.AIMove(input.Game, input.Mode)
+	if err != nil {
+		mustCliFatal(err)
+	}
+	type out struct {
+		Game          api.OutputGame   `json:"game"`
+		Action        api.OutputAction `json:"action"`
+		MoveAvailable bool             `json:"moveAvailable"`
+	}
+	byts, _ := json.Marshal(out{outputGame, outputAction, moveAvailable})
+	fmt.Println(string(byts))
+}
+
 func mustCliFatal(err error) {
 	fmt.Println(formatError(err))
 	os.Exit(1)
