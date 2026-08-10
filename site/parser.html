@@ -3,21 +3,31 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>cheesse - Parse</title>
+  <link rel="icon" href="favicon.ico">
+  <title>Chess Match Parser</title>
   <link rel="stylesheet" href="chessboard.min.css">
   <link rel="stylesheet" href="style.css">
+  <meta name="description" content="Parse a chess game in any notation: Algebraic, Figurine, Descriptive, Coordinate, ICCF, Smith or PGN. The notation is auto-detected and every position is rendered on a board.">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-5HL5S1EPGF"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-5HL5S1EPGF');
+  </script>
 </head>
 <body>
 <header>
-  <a class="logo" href="convert.html"><img src="logo.svg" alt="cheesse"><h1>cheesse</h1></a>
+  <a class="logo" href="convert.html"><img src="logo.svg" alt="cheesse"><span class="brand">cheesse</span></a>
   <nav>
-    <a href="parse.html" class="active">Parse</a>
+    <a href="parser.html" class="active">Parse</a>
     <a href="convert.html">Convert</a>
     <a href="play.html">Play</a>
   </nav>
 </header>
 <main>
-  <h2>Parse a game in any notation</h2>
+  <h1>Chess Match Parser</h1>
+  <p class="subtitle">Parse a game in any notation — auto-detected</p>
   <div id="loading">Loading WASM...</div>
   <div id="app" style="display:none">
     <div class="page-layout">

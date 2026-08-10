@@ -2,10 +2,38 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta http-equiv="refresh" content="0; url=convert.html">
-  <title>cheesse</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="favicon.ico">
+  <title>cheesse — Chess Notation Parser, Converter and Chess AI</title>
+  <meta name="description" content="Free in-browser chess tools: parse a game in any notation, convert between Algebraic, Figurine, Descriptive, Coordinate, ICCF and Smith notations, or play against an AI.">
+  <link rel="stylesheet" href="style.css">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-5HL5S1EPGF"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-5HL5S1EPGF');
+  </script>
 </head>
 <body>
-  <p>Redirecting to <a href="convert.html">Converter</a>...</p>
+<header>
+  <a class="logo" href="index.html"><img src="logo.svg" alt="cheesse"><span class="brand">cheesse</span></a>
+  <nav>
+    <a href="parser.html">Parse</a>
+    <a href="convert.html">Convert</a>
+    <a href="play.html">Play</a>
+  </nav>
+</header>
+<main>
+  <h1>Chess notation tools</h1>
+  <p class="subtitle">In-browser demos powered by the cheesse chess engine</p>
+  <ul class="demo-list">
+    <li><a href="convert.html">Chess Match Notation Converter</a> — convert a game from any notation to any notation</li>
+    <li><a href="parser.html">Chess Match Parser</a> — parse a game in any known notation, auto-detected</li>
+    <li><a href="play.html">Chess Game</a> — play against a basic AI</li>
+    <li><a href="autoplay.html">Chess Auto-play</a> — a match played by AI on both sides</li>
+  </ul>
+</main>
+<script src="common.js"></script>
 </body>
 </html>

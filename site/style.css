@@ -5,7 +5,7 @@ body { font-family: system-ui, sans-serif; font-size: 14px; margin: 0; padding: 
 header { background: #2c3e50; color: white; padding: 0 20px; display: flex; align-items: center; height: 48px; }
 header .logo { display: flex; align-items: center; gap: 8px; text-decoration: none; color: white; }
 header .logo img { width: 30px; height: 30px; }
-header .logo h1 { margin: 0; font-size: 18px; font-weight: 400; letter-spacing: 0.5px; }
+header .logo .brand { margin: 0; font-size: 18px; font-weight: 400; letter-spacing: 0.5px; }
 header nav { margin-left: auto; display: flex; gap: 4px; }
 header nav a { color: #ccc; text-decoration: none; font-size: 13px; padding: 6px 12px; border-radius: 4px; transition: background 0.15s; }
 header nav a:hover { background: rgba(255,255,255,0.1); color: white; }
@@ -16,7 +16,10 @@ main { max-width: 960px; margin: 0 auto; padding: 12px; }
 .page-layout { display: flex; gap: 12px; align-items: flex-start; }
 .board-col { flex: 0 0 auto; }
 .controls-col { flex: 1 1 0; min-width: 0; overflow: hidden; }
-main h2 { font-size: 16px; margin: 4px 0 12px; }
+main h1, main h2 { font-size: 16px; margin: 4px 0 12px; font-weight: 600; }
+main .subtitle { font-size: 13px; color: #666; margin: -8px 0 12px; }
+.demo-list { line-height: 1.9; padding-left: 20px; }
+.demo-list a { color: #2c6db5; }
 
 /* Controls */
 .control-group { margin-bottom: 14px; }

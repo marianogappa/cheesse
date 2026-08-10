@@ -3,21 +3,31 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>cheesse - Autoplay</title>
+  <link rel="icon" href="favicon.ico">
+  <title>Chess Auto-play</title>
   <link rel="stylesheet" href="chessboard.min.css">
   <link rel="stylesheet" href="style.css">
+  <meta name="description" content="Watch a chess match played by AI on both sides, rendered live in your browser.">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-5HL5S1EPGF"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-5HL5S1EPGF');
+  </script>
 </head>
 <body>
 <header>
-  <a class="logo" href="convert.html"><img src="logo.svg" alt="cheesse"><h1>cheesse</h1></a>
+  <a class="logo" href="convert.html"><img src="logo.svg" alt="cheesse"><span class="brand">cheesse</span></a>
   <nav>
-    <a href="parse.html">Parse</a>
+    <a href="parser.html">Parse</a>
     <a href="convert.html">Convert</a>
     <a href="play.html">Play</a>
   </nav>
 </header>
 <main>
-  <h2>Autoplay: random vs random</h2>
+  <h1>Chess Auto-play</h1>
+  <p class="subtitle">A match played by AI on both sides</p>
   <div id="loading">Loading WASM...</div>
   <div id="app" style="display:none">
     <div class="board-col" style="margin:0 auto">
