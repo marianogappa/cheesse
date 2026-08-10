@@ -18,7 +18,7 @@ All four run the engine as WebAssembly in your browser and are redeployed on eve
 
 - **Full rules engine** on bitboards: legal move generation (perft-validated), castling, en passant, promotions, check/checkmate/stalemate, double and discovered check detection.
 - **Complete draw handling**: threefold repetition, insufficient material, the 50-move rule, and claimable/agreed draws.
-- **Six notations, parsed and printed**: Algebraic (SAN), Figurine, Descriptive, Coordinate, ICCF and Smith — plus PGN with tag pairs, comments, NAGs and `(...)` variations.
+- **Six notations, parsed and printed**: Algebraic (SAN), Figurine, Descriptive, Coordinate, ICCF and Smith, plus PGN with tag pairs, comments, NAGs and `(...)` variations.
 - **Notation auto-detection with partial-parse tolerance**: invalid input still yields the valid prefix, the most likely notation, and why parsing stopped.
 - **Conversion** of a game from any notation to any notation, optionally from a custom starting position (FEN or board strings).
 - **AI move selection**: `random`, or minimax with alpha-beta pruning at `easy`/`medium`/`hard`.
