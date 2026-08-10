@@ -3,21 +3,30 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>cheesse - Convert</title>
+  <title>Chess Match Notation Converter</title>
   <link rel="stylesheet" href="chessboard.min.css">
   <link rel="stylesheet" href="style.css">
+  <meta name="description" content="Convert a chess game between Algebraic, Figurine, Descriptive, Coordinate, ICCF and Smith notations. Paste a game in any notation and get it converted instantly.">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-5HL5S1EPGF"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-5HL5S1EPGF');
+  </script>
 </head>
 <body>
 <header>
-  <a class="logo" href="convert.html"><img src="logo.svg" alt="cheesse"><h1>cheesse</h1></a>
+  <a class="logo" href="convert.html"><img src="logo.svg" alt="cheesse"><span class="brand">cheesse</span></a>
   <nav>
-    <a href="parse.html">Parse</a>
+    <a href="parser.html">Parse</a>
     <a href="convert.html" class="active">Convert</a>
     <a href="play.html">Play</a>
   </nav>
 </header>
 <main>
-  <h2>Convert between notations</h2>
+  <h1>Chess Match Notation Converter</h1>
+  <p class="subtitle">Convert between notations</p>
   <div id="loading">Loading WASM...</div>
   <div id="app" style="display:none">
     <div class="page-layout">

@@ -3,21 +3,30 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>cheesse - Play</title>
+  <title>Chess Game</title>
   <link rel="stylesheet" href="chessboard.min.css">
   <link rel="stylesheet" href="style.css">
+  <meta name="description" content="Play chess against an AI in your browser. Choose Easy, Medium or Hard difficulty, or start from a custom position.">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-5HL5S1EPGF"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-5HL5S1EPGF');
+  </script>
 </head>
 <body>
 <header>
-  <a class="logo" href="convert.html"><img src="logo.svg" alt="cheesse"><h1>cheesse</h1></a>
+  <a class="logo" href="convert.html"><img src="logo.svg" alt="cheesse"><span class="brand">cheesse</span></a>
   <nav>
-    <a href="parse.html">Parse</a>
+    <a href="parser.html">Parse</a>
     <a href="convert.html">Convert</a>
     <a href="play.html" class="active">Play</a>
   </nav>
 </header>
 <main>
-  <h2>Play against the AI</h2>
+  <h1>Chess Game</h1>
+  <p class="subtitle">Play against the AI</p>
   <div id="loading">Loading WASM...</div>
   <div id="app" style="display:none">
     <div class="page-layout">
