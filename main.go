@@ -16,6 +16,7 @@ var (
 	flagDoAction        = flag.String("doAction", "", "DoAction API call. Requires a JSON string with arguments. Please review spec.")
 	flagParseNotation   = flag.String("parseNotation", "", "ParseNotation API call. Requires a JSON string with arguments. Please review spec.")
 	flagConvertNotation = flag.String("convertNotation", "", "ConvertNotation API call. Requires a JSON string with arguments. Please review spec.")
+	flagAIMove          = flag.String("aiMove", "", "AIMove API call. Requires a JSON string with arguments. Please review spec.")
 )
 
 func main() {
@@ -44,5 +45,7 @@ func main() {
 		handleCliParseNotation(flagParseNotation)
 	case *flagConvertNotation != "":
 		handleCliConvertNotation(flagConvertNotation)
+	case *flagAIMove != "":
+		handleCliAIMove(flagAIMove)
 	}
 }
